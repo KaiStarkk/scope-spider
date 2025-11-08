@@ -46,20 +46,24 @@ def search(client, model, company, ticker):
 
 
 def main():
+    # Setup
     path = Path(sys.argv[1])
     items = json.loads(path.read_text() or "[]")
     client = OpenAI()
     model = os.getenv("OPENAI_MODEL", "gpt-5-mini")
-    for i, it in enumerate(items):
-        c = (it.get("company_name") or "").strip()
-        t = (it.get("ticker") or "").strip()
-        if not c or not t or (it.get("url") or "").strip():
+
+    # Process
+    for it in items:
+        c = it["company_name"].strip()
+        t = it["ticker"].strip()
+        if (it.get("url") or "").strip():
+            print(f"SKIPPING: {c} ({t}) already has a URL: {it['url']}", flush=True)
             continue
         print(f"QUERY: {c} ({t})", flush=True)
         d = search(client, model, c, t)
         url = (d.get("url") or "").strip() if isinstance(d, dict) else ""
         if url:
-            items[i] = {**it, **d}
+            it.update(d)
             path.write_text(json.dumps(items, ensure_ascii=False))
         time.sleep(1.0)
 

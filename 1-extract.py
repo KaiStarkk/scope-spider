@@ -24,7 +24,8 @@ def main():
             "ticker": str(row[TICKER_COL_INDEX]).strip(),
         }
         for row in rows[HEADER_ROW_INDEX + 1 :]
-        if row[TICKER_COL_INDEX] and row[COMPANY_COL_INDEX]
+        if row[TICKER_COL_INDEX] is not None and row[COMPANY_COL_INDEX] is not None
+        and str(row[TICKER_COL_INDEX]).strip() and str(row[COMPANY_COL_INDEX]).strip()
     ]
     wb.close()
     print(json.dumps(data, ensure_ascii=False, indent=2))
