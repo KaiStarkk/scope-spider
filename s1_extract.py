@@ -21,7 +21,7 @@ def main():
     rows = list(ws.iter_rows(values_only=True))
     companies = [
         Company(
-            company_name=str(row[COMPANY_COL_INDEX]).strip(),
+            name=str(row[COMPANY_COL_INDEX]).strip(),
             ticker=str(row[TICKER_COL_INDEX]).strip(),
         )
         for row in rows[HEADER_ROW_INDEX + 1 :]

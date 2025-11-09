@@ -16,8 +16,8 @@ def main():
 
     # Process
     for item in items:
-        name = item["company_name"].strip()
-        ticker = item["ticker"].strip()
+        name = item.get("name", "").strip()
+        ticker = item.get("ticker", "").strip()
         report = item.get("report")
         if report:
             print(
