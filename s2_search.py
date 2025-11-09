@@ -13,6 +13,7 @@ def main():
     path = Path(sys.argv[1])
     items = json.loads(path.read_text() or "[]")
     openAI = OpenAI()
+    auto_mode = mode == "auto"
 
     # Process
     for item in items:
@@ -21,7 +22,7 @@ def main():
         report = item.get("report")
         if report:
             print(
-                f"SKIPPING: {name} ({ticker}) already has a report: {report['title']}",
+                f"SKIPPING: {name} ({ticker}) already has a report: {report['title']} and data: {report['data']}",
                 flush=True,
             )
             continue
@@ -29,16 +30,18 @@ def main():
         print(f"QUERY: {name} ({ticker})", flush=True)
         response, parsed = query(openAI, name, ticker)
         if parsed:
-            if mode == "review":
-                action = (
-                    input(
-                        f'{name} ({ticker}) - {parsed.title}, {parsed.year}, {parsed.filetype}, "{parsed.filename}"\n{parsed.url}\napprove/skip:'
-                    )
-                    .strip()
-                    .lower()
+            if not auto_mode:
+                report_data = parsed.model_dump()
+                print(
+                    f"\n{name} ({ticker}) - Full Report Data:\n{json.dumps(report_data, ensure_ascii=False, indent=2)}\n",
+                    flush=True,
                 )
+                action = input("approve/skip/continue: ").strip().lower()
                 if action in ("skip", "s"):
                     continue
+                elif action in ("continue", "c"):
+                    auto_mode = True
+                    print("Switching to automatic mode...", flush=True)
             item["report"] = parsed.model_dump()
             path.write_text(json.dumps(items, ensure_ascii=False, indent=2))
         else:
@@ -47,7 +50,7 @@ def main():
                 flush=True,
             )
 
-        if mode == "auto":
+        if auto_mode:
             time.sleep(1.0)
 
 
