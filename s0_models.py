@@ -1,5 +1,5 @@
 from textwrap import dedent
-from typing import Optional
+from typing import Literal, Optional
 from pydantic import BaseModel, Field
 
 
@@ -23,13 +23,12 @@ class Data(BaseModel):
 class Report(BaseModel):
     url: str = Field(description="A direct link to the report file.")
     title: str = Field(description="The official title of the sustainability report.")
-    filetype: str = Field(
-        description="The file type/format of the report, e.g. pdf, csv, xlsx, txt, html, htm.",
-        pattern=r"^(?i)(pdf|csv|xlsx|txt|html|htm)$",
+    filetype: Literal["pdf", "csv", "xlsx", "txt", "html", "htm"] = Field(
+        description="The file type/format of the report, e.g. pdf, csv, xlsx, txt, html, htm."
     )
     filename: str = Field(
         description="The file name of the report.",
-        pattern=r"^(?i).*\.(pdf|csv|xlsx|txt|html|htm)$",
+        pattern=r"^.*\.(pdf|csv|xlsx|txt|html|htm)$",
     )
     year: str = Field(
         description="The year covered or published by the report, formatted as YYYY.",
