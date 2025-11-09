@@ -56,7 +56,7 @@ def query(client, company, ticker):
     may be None if parsing failed.
     """
     instructions = dedent(
-        f"""
+        """
         ## Task
         Find the official 2025 sustainability report for the given company that contains Scope 1 and Scope 2 emissions data.
 
@@ -69,9 +69,10 @@ def query(client, company, ticker):
           3. ESG report
           4. Annual report (only if no superior alternative exists)
 
-        ## Company Information
-        - Company name: {company}
-        - Stock ticker: {ticker}
+        ## Input
+        The input is a JSON object with the following fields:
+        - name: The name of the company
+        - ticker: The stock ticker symbol of the company
 
         ## Output
         Extract the following information from the report:
@@ -87,9 +88,11 @@ def query(client, company, ticker):
         """
     ).strip()
 
+    input_text = f'{{"name": "{company}", "ticker": "{ticker}"}}'
+
     response = client.responses.parse(
         instructions=instructions,
-        input=[],
+        input=input_text,
         text_format=Report,
         text={"verbosity": "low"},
         reasoning={"effort": "low", "summary": "auto"},
