@@ -1,7 +1,7 @@
 import sys, json, time
 from pathlib import Path
 from openai import OpenAI
-from s0_models import search_and_parse
+from s0_models import query
 
 
 def main():
@@ -25,12 +25,14 @@ def main():
 
         # Querying
         print(f"QUERY: {name} ({ticker})", flush=True)
-        response = search_and_parse(openAI, name, ticker)
-        if parsed := response.output_parsed:
+        response, parsed = query(openAI, name, ticker)
+        if parsed:
             item["report"] = parsed.model_dump()
             path.write_text(json.dumps(items, ensure_ascii=False))
         else:
-            print(f"ERROR: Failed to parse response: {response.model_dump()}", flush=True)
+            print(
+                f"ERROR: Failed to parse response: {response.model_dump()}", flush=True
+            )
         time.sleep(1.0)
 
 

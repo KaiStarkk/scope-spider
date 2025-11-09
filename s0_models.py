@@ -25,9 +25,13 @@ class Company(BaseModel):
     report: Optional[Report] = None
 
 
-def search_and_parse(client, company, ticker):
-    """Create an OpenAI response for the given company and ticker."""
-    return client.responses.parse(
+def query(client, company, ticker):
+    """Create an OpenAI response for the given company and ticker.
+
+    Returns a tuple of (raw_response, parsed_report) where parsed_report
+    may be None if parsing failed.
+    """
+    response = client.responses.parse(
         prompt={
             "id": "pmpt_690fdf1b7be48194b628127978bdc9240b0df1327cec0e4c",
             "version": "1",
@@ -47,3 +51,4 @@ def search_and_parse(client, company, ticker):
         model="gpt-5-nano",
         store=True,
     )
+    return response, response.output_parsed
