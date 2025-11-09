@@ -2,7 +2,13 @@
   {
     "company_name": "Woodside Energy Group Ltd.",
     "ticker": "WDS-AU",
-    "report": null
+    "report": {
+      "url": "https://www.woodside.com/docs/default-source/asx-announcements/2025/019-sustainability-briefing-2025.pdf",
+      "title": "SUSTAINABILITY BRIEFING 2025 - MEETING ENERGY DEMAND SUSTAINABLY",
+      "filetype": "pdf",
+      "filename": "019-sustainability-briefing-2025.pdf",
+      "year": "2025"
+      }
   },
   {
     "company_name": "BHP Group Ltd.",

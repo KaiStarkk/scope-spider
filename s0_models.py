@@ -39,8 +39,8 @@ def query(client, company, ticker):
         },
         input=[],
         text_format=Report,
-        verbosity="low",
-        reasoning={"effort": "low", "summary": None},
+        text={"verbosity": "low"},
+        reasoning={"effort": "low", "summary": "auto"},
         tools=[
             {
                 "type": "web_search",
@@ -48,7 +48,7 @@ def query(client, company, ticker):
                 "search_context_size": "low",
             }
         ],
-        model="gpt-5-nano",
+        model="gpt-4o-mini",
         store=True,
     )
     return response, response.output_parsed

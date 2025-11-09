@@ -21,7 +21,7 @@ def main():
         report = item.get("report")
         if report:
             print(
-                f"SKIPPING: {name} ({ticker}) already has a report: {report.title}",
+                f"SKIPPING: {name} ({ticker}) already has a report: {report['title']}",
                 flush=True,
             )
             continue
@@ -30,11 +30,17 @@ def main():
         response, parsed = query(openAI, name, ticker)
         if parsed:
             if mode == "review":
-                action = input("approve/skip: ").strip().lower()
+                action = (
+                    input(
+                        f'{name} ({ticker}) - {parsed.title}, {parsed.year}, {parsed.filetype}, "{parsed.filename}"\n{parsed.url}\napprove/skip:'
+                    )
+                    .strip()
+                    .lower()
+                )
                 if action in ("skip", "s"):
                     continue
             item["report"] = parsed.model_dump()
-            path.write_text(json.dumps(items, ensure_ascii=False))
+            path.write_text(json.dumps(items, ensure_ascii=False, indent=2))
         else:
             print(
                 f"ERROR: Failed to parse response: {response.model_dump()}",
