@@ -1,1342 +1,1677 @@
 [
   {
     "company_name": "Woodside Energy Group Ltd.",
-    "ticker": "WDS-AU"
+    "ticker": "WDS-AU",
+    "report": null
   },
   {
     "company_name": "BHP Group Ltd.",
-    "ticker": "BHP-AU"
+    "ticker": "BHP-AU",
+    "report": null
   },
   {
     "company_name": "Mineral Resources Ltd.",
-    "ticker": "MIN-AU"
+    "ticker": "MIN-AU",
+    "report": null
   },
   {
     "company_name": "Liontown Resources Ltd.",
-    "ticker": "LTR-AU"
+    "ticker": "LTR-AU",
+    "report": null
   },
   {
     "company_name": "Whitehaven Coal Ltd.",
-    "ticker": "WHC-AU"
+    "ticker": "WHC-AU",
+    "report": null
   },
   {
     "company_name": "Wesfarmers Ltd.",
-    "ticker": "WES-AU"
+    "ticker": "WES-AU",
+    "report": null
   },
   {
     "company_name": "Qantas Airways Ltd.",
-    "ticker": "QAN-AU"
+    "ticker": "QAN-AU",
+    "report": null
   },
   {
     "company_name": "Mirvac Group",
-    "ticker": "MGR-AU"
+    "ticker": "MGR-AU",
+    "report": null
   },
   {
     "company_name": "Iluka Resources Ltd.",
-    "ticker": "ILU-AU"
+    "ticker": "ILU-AU",
+    "report": null
   },
   {
     "company_name": "Ramsay Health Care Ltd.",
-    "ticker": "RHC-AU"
+    "ticker": "RHC-AU",
+    "report": null
   },
   {
     "company_name": "Monadelphous Group Ltd.",
-    "ticker": "MND-AU"
+    "ticker": "MND-AU",
+    "report": null
   },
   {
     "company_name": "BlueScope Steel Ltd.",
-    "ticker": "BSL-AU"
+    "ticker": "BSL-AU",
+    "report": null
   },
   {
     "company_name": "Fortescue Ltd.",
-    "ticker": "FMG-AU"
+    "ticker": "FMG-AU",
+    "report": null
   },
   {
     "company_name": "Worley Ltd.",
-    "ticker": "WOR-AU"
+    "ticker": "WOR-AU",
+    "report": null
   },
   {
     "company_name": "Vicinity Centres",
-    "ticker": "VCX-AU"
+    "ticker": "VCX-AU",
+    "report": null
   },
   {
     "company_name": "Dexus",
-    "ticker": "DXS-AU"
+    "ticker": "DXS-AU",
+    "report": null
   },
   {
     "company_name": "Cochlear Ltd.",
-    "ticker": "COH-AU"
+    "ticker": "COH-AU",
+    "report": null
   },
   {
     "company_name": "Cedar Woods Properties Ltd.",
-    "ticker": "CWP-AU"
+    "ticker": "CWP-AU",
+    "report": null
   },
   {
     "company_name": "Centuria Capital Group",
-    "ticker": "CNI-AU"
+    "ticker": "CNI-AU",
+    "report": null
   },
   {
     "company_name": "Charter Hall Group",
-    "ticker": "CHC-AU"
+    "ticker": "CHC-AU",
+    "report": null
   },
   {
     "company_name": "Scentre Group",
-    "ticker": "SCG-AU"
+    "ticker": "SCG-AU",
+    "report": null
   },
   {
     "company_name": "South32 Ltd.",
-    "ticker": "S32-AU"
+    "ticker": "S32-AU",
+    "report": null
   },
   {
     "company_name": "Shape Australia Corp. Ltd.",
-    "ticker": "SHA-AU"
+    "ticker": "SHA-AU",
+    "report": null
   },
   {
     "company_name": "Macquarie Group Ltd.",
-    "ticker": "MQG-AU"
+    "ticker": "MQG-AU",
+    "report": null
   },
   {
     "company_name": "CDC",
-    "ticker": "Private"
+    "ticker": "Private",
+    "report": null
   },
   {
     "company_name": "Inghams Group Ltd.",
-    "ticker": "ING-AU"
+    "ticker": "ING-AU",
+    "report": null
   },
   {
     "company_name": "Tritium DCFC Ltd.",
-    "ticker": "DCFCQ-US"
+    "ticker": "DCFCQ-US",
+    "report": null
   },
   {
     "company_name": "Telstra Group Ltd.",
-    "ticker": "TLS-AU"
+    "ticker": "TLS-AU",
+    "report": null
   },
   {
     "company_name": "Lendlease Group",
-    "ticker": "LLC-AU"
+    "ticker": "LLC-AU",
+    "report": null
   },
   {
     "company_name": "NextDC Ltd.",
-    "ticker": "NXT-AU"
+    "ticker": "NXT-AU",
+    "report": null
   },
   {
     "company_name": "Perenti Ltd.",
-    "ticker": "PRN-AU"
+    "ticker": "PRN-AU",
+    "report": null
   },
   {
     "company_name": "Nick Scali Ltd.",
-    "ticker": "NCK-AU"
+    "ticker": "NCK-AU",
+    "report": null
   },
   {
     "company_name": "Santos Ltd.",
-    "ticker": "STO-AU"
+    "ticker": "STO-AU",
+    "report": null
   },
   {
     "company_name": "Karoon Energy Ltd.",
-    "ticker": "KAR-AU"
+    "ticker": "KAR-AU",
+    "report": null
   },
   {
     "company_name": "The Reject Shop Ltd.",
-    "ticker": "TRS-AU"
+    "ticker": "TRS-AU",
+    "report": null
   },
   {
     "company_name": "Sandfire Resources Ltd.",
-    "ticker": "SFR-AU"
+    "ticker": "SFR-AU",
+    "report": null
   },
   {
     "company_name": "Shaver Shop Group Ltd.",
-    "ticker": "SSG-AU"
+    "ticker": "SSG-AU",
+    "report": null
   },
   {
     "company_name": "Woolworths Group Ltd.",
-    "ticker": "WOW-AU"
+    "ticker": "WOW-AU",
+    "report": null
   },
   {
     "company_name": "Perpetual Ltd.",
-    "ticker": "PPT-AU"
+    "ticker": "PPT-AU",
+    "report": null
   },
   {
     "company_name": "Wisr Ltd.",
-    "ticker": "WZR-AU"
+    "ticker": "WZR-AU",
+    "report": null
   },
   {
     "company_name": "National Australia Bank Ltd.",
-    "ticker": "NAB-AU"
+    "ticker": "NAB-AU",
+    "report": null
   },
   {
     "company_name": "Ansell Ltd.",
-    "ticker": "ANN-AU"
+    "ticker": "ANN-AU",
+    "report": null
   },
   {
     "company_name": "Atlas Pearls Ltd.",
-    "ticker": "ATP-AU"
+    "ticker": "ATP-AU",
+    "report": null
   },
   {
     "company_name": "Origin Energy Ltd.",
-    "ticker": "ORG-AU"
+    "ticker": "ORG-AU",
+    "report": null
   },
   {
     "company_name": "Tabcorp Holdings Ltd.",
-    "ticker": "TAH-AU"
+    "ticker": "TAH-AU",
+    "report": null
   },
   {
     "company_name": "CSL Ltd.",
-    "ticker": "CSL-AU"
+    "ticker": "CSL-AU",
+    "report": null
   },
   {
     "company_name": "Codan Ltd.",
-    "ticker": "CDA-AU"
+    "ticker": "CDA-AU",
+    "report": null
   },
   {
     "company_name": "Omni Bridgeway Ltd.",
-    "ticker": "OBL-AU"
+    "ticker": "OBL-AU",
+    "report": null
   },
   {
     "company_name": "Mosaic Brands Ltd.",
-    "ticker": "MOZ-AU"
+    "ticker": "MOZ-AU",
+    "report": null
   },
   {
     "company_name": "Northern Star Resources Ltd.",
-    "ticker": "NST-AU"
+    "ticker": "NST-AU",
+    "report": null
   },
   {
     "company_name": "Enero Group Ltd.",
-    "ticker": "EGG-AU"
+    "ticker": "EGG-AU",
+    "report": null
   },
   {
     "company_name": "Accent Group Ltd.",
-    "ticker": "AX1-AU"
+    "ticker": "AX1-AU",
+    "report": null
   },
   {
     "company_name": "Ingenia Communities Group",
-    "ticker": "INA-AU"
+    "ticker": "INA-AU",
+    "report": null
   },
   {
     "company_name": "McMillan Shakespeare Ltd.",
-    "ticker": "MMS-AU"
+    "ticker": "MMS-AU",
+    "report": null
   },
   {
     "company_name": "Peet Ltd.",
-    "ticker": "PPC-AU"
+    "ticker": "PPC-AU",
+    "report": null
   },
   {
     "company_name": "Perseus Mining Ltd.",
-    "ticker": "PRU-AU"
+    "ticker": "PRU-AU",
+    "report": null
   },
   {
     "company_name": "Emeco Holdings Ltd.",
-    "ticker": "EHL-AU"
+    "ticker": "EHL-AU",
+    "report": null
   },
   {
     "company_name": "SEEK Ltd.",
-    "ticker": "SEK-AU"
+    "ticker": "SEK-AU",
+    "report": null
   },
   {
     "company_name": "Cleanaway Waste Management Ltd.",
-    "ticker": "CWY-AU"
+    "ticker": "CWY-AU",
+    "report": null
   },
   {
     "company_name": "Capitol Health Ltd.",
-    "ticker": "CAJ-AU"
+    "ticker": "CAJ-AU",
+    "report": null
   },
   {
     "company_name": "Gold Road Resources Ltd.",
-    "ticker": "GOR-AU"
+    "ticker": "GOR-AU",
+    "report": null
   },
   {
     "company_name": "Solvar Ltd.",
-    "ticker": "SVR-AU"
+    "ticker": "SVR-AU",
+    "report": null
   },
   {
     "company_name": "Humm Group Ltd.",
-    "ticker": "HUM-AU"
+    "ticker": "HUM-AU",
+    "report": null
   },
   {
     "company_name": "Engenco Ltd.",
-    "ticker": "EGN-AU"
+    "ticker": "EGN-AU",
+    "report": null
   },
   {
     "company_name": "BCI Minerals Ltd.",
-    "ticker": "BCI-AU"
+    "ticker": "BCI-AU",
+    "report": null
   },
   {
     "company_name": "Genesis Minerals Ltd.",
-    "ticker": "GMD-AU"
+    "ticker": "GMD-AU",
+    "report": null
   },
   {
     "company_name": "SRG Global Ltd.",
-    "ticker": "SRG-AU"
+    "ticker": "SRG-AU",
+    "report": null
   },
   {
     "company_name": "Syrah Resources Ltd.",
-    "ticker": "SYR-AU"
+    "ticker": "SYR-AU",
+    "report": null
   },
   {
     "company_name": "NIB Holdings Ltd.",
-    "ticker": "NHF-AU"
+    "ticker": "NHF-AU",
+    "report": null
   },
   {
     "company_name": "G8 Education Ltd.",
-    "ticker": "GEM-AU"
+    "ticker": "GEM-AU",
+    "report": null
   },
   {
     "company_name": "Collins Foods Ltd.",
-    "ticker": "CKF-AU"
+    "ticker": "CKF-AU",
+    "report": null
   },
   {
     "company_name": "Westpac Banking Corp.",
-    "ticker": "WBC-AU"
+    "ticker": "WBC-AU",
+    "report": null
   },
   {
     "company_name": "Commonwealth Bank of Australia",
-    "ticker": "CBA-AU"
+    "ticker": "CBA-AU",
+    "report": null
   },
   {
     "company_name": "AMP Ltd.",
-    "ticker": "AMP-AU"
+    "ticker": "AMP-AU",
+    "report": null
   },
   {
     "company_name": "Downer EDI Ltd.",
-    "ticker": "DOW-AU"
+    "ticker": "DOW-AU",
+    "report": null
   },
   {
     "company_name": "Suncorp Group Ltd.",
-    "ticker": "SUN-AU"
+    "ticker": "SUN-AU",
+    "report": null
   },
   {
     "company_name": "Insurance Australia Group Ltd.",
-    "ticker": "IAG-AU"
+    "ticker": "IAG-AU",
+    "report": null
   },
   {
     "company_name": "QBE Insurance Group Ltd.",
-    "ticker": "QBE-AU"
+    "ticker": "QBE-AU",
+    "report": null
   },
   {
     "company_name": "Stockland",
-    "ticker": "SGP-AU"
+    "ticker": "SGP-AU",
+    "report": null
   },
   {
     "company_name": "Harvey Norman Holdings Ltd.",
-    "ticker": "HVN-AU"
+    "ticker": "HVN-AU",
+    "report": null
   },
   {
     "company_name": "Aristocrat Leisure Ltd.",
-    "ticker": "ALL-AU"
+    "ticker": "ALL-AU",
+    "report": null
   },
   {
     "company_name": "Orica Ltd.",
-    "ticker": "ORI-AU"
+    "ticker": "ORI-AU",
+    "report": null
   },
   {
     "company_name": "Flight Centre Travel Group Ltd.",
-    "ticker": "FLT-AU"
+    "ticker": "FLT-AU",
+    "report": null
   },
   {
     "company_name": "Transurban Group Ltd.",
-    "ticker": "TCL-AU"
+    "ticker": "TCL-AU",
+    "report": null
   },
   {
     "company_name": "ARN Media Ltd.",
-    "ticker": "A1N-AU"
+    "ticker": "A1N-AU",
+    "report": null
   },
   {
     "company_name": "Washington H. Soul Pattinson & Co. Ltd.",
-    "ticker": "SOL-AU"
+    "ticker": "SOL-AU",
+    "report": null
   },
   {
     "company_name": "ASX Ltd.",
-    "ticker": "ASX-AU"
+    "ticker": "ASX-AU",
+    "report": null
   },
   {
     "company_name": "Sonic Healthcare Ltd.",
-    "ticker": "SHL-AU"
+    "ticker": "SHL-AU",
+    "report": null
   },
   {
     "company_name": "Dyno Nobel Ltd.",
-    "ticker": "DNL-AU"
+    "ticker": "DNL-AU",
+    "report": null
   },
   {
     "company_name": "Computershare Ltd.",
-    "ticker": "CPU-AU"
+    "ticker": "CPU-AU",
+    "report": null
   },
   {
     "company_name": "Reece Ltd.",
-    "ticker": "REH-AU"
+    "ticker": "REH-AU",
+    "report": null
   },
   {
     "company_name": "GWA Group Ltd.",
-    "ticker": "GWA-AU"
+    "ticker": "GWA-AU",
+    "report": null
   },
   {
     "company_name": "Nufarm Ltd.",
-    "ticker": "NUF-AU"
+    "ticker": "NUF-AU",
+    "report": null
   },
   {
     "company_name": "Sims Ltd.",
-    "ticker": "SGM-AU"
+    "ticker": "SGM-AU",
+    "report": null
   },
   {
     "company_name": "APA Group",
-    "ticker": "APA-AU"
+    "ticker": "APA-AU",
+    "report": null
   },
   {
     "company_name": "GrainCorp Ltd.",
-    "ticker": "GNC-AU"
+    "ticker": "GNC-AU",
+    "report": null
   },
   {
     "company_name": "Bank of Queensland Ltd.",
-    "ticker": "BOQ-AU"
+    "ticker": "BOQ-AU",
+    "report": null
   },
   {
     "company_name": "Ampol Ltd.",
-    "ticker": "ALD-AU"
+    "ticker": "ALD-AU",
+    "report": null
   },
   {
     "company_name": "Beach Energy Ltd.",
-    "ticker": "BPT-AU"
+    "ticker": "BPT-AU",
+    "report": null
   },
   {
     "company_name": "Healius Ltd.",
-    "ticker": "HLS-AU"
+    "ticker": "HLS-AU",
+    "report": null
   },
   {
     "company_name": "Challenger Ltd.",
-    "ticker": "CGF-AU"
+    "ticker": "CGF-AU",
+    "report": null
   },
   {
     "company_name": "Ridley Corp. Ltd.",
-    "ticker": "RIC-AU"
+    "ticker": "RIC-AU",
+    "report": null
   },
   {
     "company_name": "EVT Ltd.",
-    "ticker": "EVT-AU"
+    "ticker": "EVT-AU",
+    "report": null
   },
   {
     "company_name": "Energy Resources of Australia Ltd.",
-    "ticker": "ERA-AU"
+    "ticker": "ERA-AU",
+    "report": null
   },
   {
     "company_name": "Austal Ltd.",
-    "ticker": "ASB-AU"
+    "ticker": "ASB-AU",
+    "report": null
   },
   {
     "company_name": "ALS Ltd.",
-    "ticker": "ALQ-AU"
+    "ticker": "ALQ-AU",
+    "report": null
   },
   {
     "company_name": "Capral Ltd.",
-    "ticker": "CAA-AU"
+    "ticker": "CAA-AU",
+    "report": null
   },
   {
     "company_name": "Servcorp Ltd.",
-    "ticker": "SRV-AU"
+    "ticker": "SRV-AU",
+    "report": null
   },
   {
     "company_name": "Amotiv Ltd.",
-    "ticker": "AOV-AU"
+    "ticker": "AOV-AU",
+    "report": null
   },
   {
     "company_name": "Premier Investments Ltd.",
-    "ticker": "PMV-AU"
+    "ticker": "PMV-AU",
+    "report": null
   },
   {
     "company_name": "ARB Corp. Ltd.",
-    "ticker": "ARB-AU"
+    "ticker": "ARB-AU",
+    "report": null
   },
   {
     "company_name": "Resolute Mining Ltd.",
-    "ticker": "RSG-AU"
+    "ticker": "RSG-AU",
+    "report": null
   },
   {
     "company_name": "Select Harvests Ltd.",
-    "ticker": "SHV-AU"
+    "ticker": "SHV-AU",
+    "report": null
   },
   {
     "company_name": "Fleetwood Ltd.",
-    "ticker": "FWD-AU"
+    "ticker": "FWD-AU",
+    "report": null
   },
   {
     "company_name": "Eagers Automotive Ltd.",
-    "ticker": "APE-AU"
+    "ticker": "APE-AU",
+    "report": null
   },
   {
     "company_name": "Macmahon Holdings Ltd.",
-    "ticker": "MAH-AU"
+    "ticker": "MAH-AU",
+    "report": null
   },
   {
     "company_name": "K&S Corp. Ltd.",
-    "ticker": "KSC-AU"
+    "ticker": "KSC-AU",
+    "report": null
   },
   {
     "company_name": "EBOS Group Ltd.",
-    "ticker": "EBO-NZ"
+    "ticker": "EBO-NZ",
+    "report": null
   },
   {
     "company_name": "Energy World Corp. Ltd.",
-    "ticker": "EWC-AU"
+    "ticker": "EWC-AU",
+    "report": null
   },
   {
     "company_name": "Hansen Technologies Ltd.",
-    "ticker": "HSN-AU"
+    "ticker": "HSN-AU",
+    "report": null
   },
   {
     "company_name": "Imdex Ltd.",
-    "ticker": "IMD-AU"
+    "ticker": "IMD-AU",
+    "report": null
   },
   {
     "company_name": "Lynas Rare Earths Ltd.",
-    "ticker": "LYC-AU"
+    "ticker": "LYC-AU",
+    "report": null
   },
   {
     "company_name": "Cromwell Property Group",
-    "ticker": "CMW-AU"
+    "ticker": "CMW-AU",
+    "report": null
   },
   {
     "company_name": "Noumi Ltd.",
-    "ticker": "NOU-AU"
+    "ticker": "NOU-AU",
+    "report": null
   },
   {
     "company_name": "Grange Resources Ltd.",
-    "ticker": "GRR-AU"
+    "ticker": "GRR-AU",
+    "report": null
   },
   {
     "company_name": "Westgold Resources Ltd.",
-    "ticker": "WGX-AU"
+    "ticker": "WGX-AU",
+    "report": null
   },
   {
     "company_name": "Paladin Energy Ltd.",
-    "ticker": "PDN-AU"
+    "ticker": "PDN-AU",
+    "report": null
   },
   {
     "company_name": "Regis Resources Ltd.",
-    "ticker": "RRL-AU"
+    "ticker": "RRL-AU",
+    "report": null
   },
   {
     "company_name": "Axiom Properties Ltd.",
-    "ticker": "AXI-AU"
+    "ticker": "AXI-AU",
+    "report": null
   },
   {
     "company_name": "Ainsworth Game Technology Ltd.",
-    "ticker": "AGI-AU"
+    "ticker": "AGI-AU",
+    "report": null
   },
   {
     "company_name": "SKS Technologies Group Ltd.",
-    "ticker": "SKS-AU"
+    "ticker": "SKS-AU",
+    "report": null
   },
   {
     "company_name": "Australian Agricultural Co. Ltd.",
-    "ticker": "AAC-AU"
+    "ticker": "AAC-AU",
+    "report": null
   },
   {
     "company_name": "Lindsay Australia Ltd.",
-    "ticker": "LAU-AU"
+    "ticker": "LAU-AU",
+    "report": null
   },
   {
     "company_name": "Insignia Financial Ltd.",
-    "ticker": "IFL-AU"
+    "ticker": "IFL-AU",
+    "report": null
   },
   {
     "company_name": "BWP Trust",
-    "ticker": "BWP-AU"
+    "ticker": "BWP-AU",
+    "report": null
   },
   {
     "company_name": "New Hope Corp. Ltd.",
-    "ticker": "NHC-AU"
+    "ticker": "NHC-AU",
+    "report": null
   },
   {
     "company_name": "Charter Hall Retail REIT",
-    "ticker": "CQR-AU"
+    "ticker": "CQR-AU",
+    "report": null
   },
   {
     "company_name": "Carindale Property Trust",
-    "ticker": "CDP-AU"
+    "ticker": "CDP-AU",
+    "report": null
   },
   {
     "company_name": "Iress Ltd.",
-    "ticker": "IRE-AU"
+    "ticker": "IRE-AU",
+    "report": null
   },
   {
     "company_name": "Breville Group Ltd.",
-    "ticker": "BRG-AU"
+    "ticker": "BRG-AU",
+    "report": null
   },
   {
     "company_name": "Gale Pacific Ltd.",
-    "ticker": "GAP-AU"
+    "ticker": "GAP-AU",
+    "report": null
   },
   {
     "company_name": "Technology One Ltd.",
-    "ticker": "TNE-AU"
+    "ticker": "TNE-AU",
+    "report": null
   },
   {
     "company_name": "PRL Global Ltd.",
-    "ticker": "PRG-AU"
+    "ticker": "PRG-AU",
+    "report": null
   },
   {
     "company_name": "JB Hi-Fi Ltd.",
-    "ticker": "JBH-AU"
+    "ticker": "JBH-AU",
+    "report": null
   },
   {
     "company_name": "Vault Minerals Ltd.",
-    "ticker": "VAU-AU"
+    "ticker": "VAU-AU",
+    "report": null
   },
   {
     "company_name": "Charter Hall Social Infrastructure REIT",
-    "ticker": "CQE-AU"
+    "ticker": "CQE-AU",
+    "report": null
   },
   {
     "company_name": "Super Retail Group Ltd.",
-    "ticker": "SUL-AU"
+    "ticker": "SUL-AU",
+    "report": null
   },
   {
     "company_name": "Data#3 Ltd.",
-    "ticker": "DTL-AU"
+    "ticker": "DTL-AU",
+    "report": null
   },
   {
     "company_name": "Virgin Australia Holdings Ltd.",
-    "ticker": "VGN-AU"
+    "ticker": "VGN-AU",
+    "report": null
   },
   {
     "company_name": "Abacus Group",
-    "ticker": "ABG-AU"
+    "ticker": "ABG-AU",
+    "report": null
   },
   {
     "company_name": "Boom Logistics Ltd.",
-    "ticker": "BOL-AU"
+    "ticker": "BOL-AU",
+    "report": null
   },
   {
     "company_name": "Lake Resources NL",
-    "ticker": "LKE-AU"
+    "ticker": "LKE-AU",
+    "report": null
   },
   {
     "company_name": "Amplitude Energy Ltd.",
-    "ticker": "AEL-AU"
+    "ticker": "AEL-AU",
+    "report": null
   },
   {
     "company_name": "Ramelius Resources Ltd.",
-    "ticker": "RMS-AU"
+    "ticker": "RMS-AU",
+    "report": null
   },
   {
     "company_name": "Helloworld Travel Ltd.",
-    "ticker": "HLO-AU"
+    "ticker": "HLO-AU",
+    "report": null
   },
   {
     "company_name": "Credit Corp. Group Ltd.",
-    "ticker": "CCP-AU"
+    "ticker": "CCP-AU",
+    "report": null
   },
   {
     "company_name": "Resimac Group Ltd.",
-    "ticker": "RMC-AU"
+    "ticker": "RMC-AU",
+    "report": null
   },
   {
     "company_name": "WEB Travel Group Ltd.",
-    "ticker": "WEB-AU"
+    "ticker": "WEB-AU",
+    "report": null
   },
   {
     "company_name": "REA Group Ltd.",
-    "ticker": "REA-AU"
+    "ticker": "REA-AU",
+    "report": null
   },
   {
     "company_name": "Domino'S Pizza Enterprises Ltd.",
-    "ticker": "DMP-AU"
+    "ticker": "DMP-AU",
+    "report": null
   },
   {
     "company_name": "GPT Group",
-    "ticker": "GPT-AU"
+    "ticker": "GPT-AU",
+    "report": null
   },
   {
     "company_name": "IGO Ltd.",
-    "ticker": "IGO-AU"
+    "ticker": "IGO-AU",
+    "report": null
   },
   {
     "company_name": "Goodman Group",
-    "ticker": "GMG-AU"
+    "ticker": "GMG-AU",
+    "report": null
   },
   {
     "company_name": "Metcash Ltd.",
-    "ticker": "MTS-AU"
+    "ticker": "MTS-AU",
+    "report": null
   },
   {
     "company_name": "FSA Group Ltd.",
-    "ticker": "FSA-AU"
+    "ticker": "FSA-AU",
+    "report": null
   },
   {
     "company_name": "MMG Ltd.",
-    "ticker": "1208-HK"
+    "ticker": "1208-HK",
+    "report": null
   },
   {
     "company_name": "Mesoblast Ltd.",
-    "ticker": "MSB-AU"
+    "ticker": "MSB-AU",
+    "report": null
   },
   {
     "company_name": "Regional Express Holdings Ltd.",
-    "ticker": "REX-AU"
+    "ticker": "REX-AU",
+    "report": null
   },
   {
     "company_name": "CAR Group Ltd.",
-    "ticker": "CAR-AU"
+    "ticker": "CAR-AU",
+    "report": null
   },
   {
     "company_name": "AUB Group Ltd.",
-    "ticker": "AUB-AU"
+    "ticker": "AUB-AU",
+    "report": null
   },
   {
     "company_name": "Ora Banda Mining Ltd.",
-    "ticker": "OBM-AU"
+    "ticker": "OBM-AU",
+    "report": null
   },
   {
     "company_name": "Sigma Healthcare Ltd.",
-    "ticker": "SIG-AU"
+    "ticker": "SIG-AU",
+    "report": null
   },
   {
     "company_name": "Bravura Solutions Ltd.",
-    "ticker": "BVS-AU"
+    "ticker": "BVS-AU",
+    "report": null
   },
   {
     "company_name": "Navigator Global Investments Ltd.",
-    "ticker": "NGI-AU"
+    "ticker": "NGI-AU",
+    "report": null
   },
   {
     "company_name": "Emerald Resources NL",
-    "ticker": "EMR-AU"
+    "ticker": "EMR-AU",
+    "report": null
   },
   {
     "company_name": "United Overseas Australia Ltd.",
-    "ticker": "UOS-AU"
+    "ticker": "UOS-AU",
+    "report": null
   },
   {
     "company_name": "IDP Education Ltd.",
-    "ticker": "IEL-AU"
+    "ticker": "IEL-AU",
+    "report": null
   },
   {
     "company_name": "Brambles Ltd.",
-    "ticker": "BXB-AU"
+    "ticker": "BXB-AU",
+    "report": null
   },
   {
     "company_name": "AMA Group Ltd.",
-    "ticker": "AMA-AU"
+    "ticker": "AMA-AU",
+    "report": null
   },
   {
     "company_name": "AGL Energy Ltd.",
-    "ticker": "AGL-AU"
+    "ticker": "AGL-AU",
+    "report": null
   },
   {
     "company_name": "Generation Development Group Ltd.",
-    "ticker": "GDG-AU"
+    "ticker": "GDG-AU",
+    "report": null
   },
   {
     "company_name": "Coles Group Ltd.",
-    "ticker": "COL-AU"
+    "ticker": "COL-AU",
+    "report": null
   },
   {
     "company_name": "City Chic Collective Ltd.",
-    "ticker": "CCX-AU"
+    "ticker": "CCX-AU",
+    "report": null
   },
   {
     "company_name": "Cuscal Ltd.",
-    "ticker": "CCL-AU"
+    "ticker": "CCL-AU",
+    "report": null
   },
   {
     "company_name": "Service Stream Ltd.",
-    "ticker": "SSM-AU"
+    "ticker": "SSM-AU",
+    "report": null
   },
   {
     "company_name": "Nine Entertainment Co. Holdings Ltd.",
-    "ticker": "NEC-AU"
+    "ticker": "NEC-AU",
+    "report": null
   },
   {
     "company_name": "Medibank Private Ltd.",
-    "ticker": "MPL-AU"
+    "ticker": "MPL-AU",
+    "report": null
   },
   {
     "company_name": "Qube Holdings Ltd.",
-    "ticker": "QUB-AU"
+    "ticker": "QUB-AU",
+    "report": null
   },
   {
     "company_name": "MFF Capital Investments Ltd.",
-    "ticker": "MFF-AU"
+    "ticker": "MFF-AU",
+    "report": null
   },
   {
     "company_name": "Pinnacle Investment Management Group Ltd.",
-    "ticker": "PNI-AU"
+    "ticker": "PNI-AU",
+    "report": null
   },
   {
     "company_name": "Lifestyle Communities Ltd.",
-    "ticker": "LIC-AU"
+    "ticker": "LIC-AU",
+    "report": null
   },
   {
     "company_name": "NRW Holdings Ltd.",
-    "ticker": "NWH-AU"
+    "ticker": "NWH-AU",
+    "report": null
   },
   {
     "company_name": "BNK Banking Corp. Ltd.",
-    "ticker": "BBC-AU"
+    "ticker": "BBC-AU",
+    "report": null
   },
   {
     "company_name": "Magellan Financial Group Ltd.",
-    "ticker": "MFG-AU"
+    "ticker": "MFG-AU",
+    "report": null
   },
   {
     "company_name": "Southern Cross Electrical Engineering Ltd.",
-    "ticker": "SXE-AU"
+    "ticker": "SXE-AU",
+    "report": null
   },
   {
     "company_name": "Bell Financial Group Ltd.",
-    "ticker": "BFG-AU"
+    "ticker": "BFG-AU",
+    "report": null
   },
   {
     "company_name": "Bellevue Gold Ltd.",
-    "ticker": "BGL-AU"
+    "ticker": "BGL-AU",
+    "report": null
   },
   {
     "company_name": "HUB24 Ltd.",
-    "ticker": "HUB-AU"
+    "ticker": "HUB-AU",
+    "report": null
   },
   {
     "company_name": "Bendigo & Adelaide Bank Ltd.",
-    "ticker": "BEN-AU"
+    "ticker": "BEN-AU",
+    "report": null
   },
   {
     "company_name": "Capricorn Metals Ltd.",
-    "ticker": "CMM-AU"
+    "ticker": "CMM-AU",
+    "report": null
   },
   {
     "company_name": "Paragon Care Ltd.",
-    "ticker": "PGC-AU"
+    "ticker": "PGC-AU",
+    "report": null
   },
   {
     "company_name": "West African Resources Ltd.",
-    "ticker": "WAF-AU"
+    "ticker": "WAF-AU",
+    "report": null
   },
   {
     "company_name": "Mastermyne Group Ltd.",
-    "ticker": "MYE-AU"
+    "ticker": "MYE-AU",
+    "report": null
   },
   {
     "company_name": "Elders Ltd.",
-    "ticker": "ELD-AU"
+    "ticker": "ELD-AU",
+    "report": null
   },
   {
     "company_name": "Growthpoint Properties Australia",
-    "ticker": "GOZ-AU"
+    "ticker": "GOZ-AU",
+    "report": null
   },
   {
     "company_name": "MyState Ltd.",
-    "ticker": "MYS-AU"
+    "ticker": "MYS-AU",
+    "report": null
   },
   {
     "company_name": "Myer Holdings Ltd.",
-    "ticker": "MYR-AU"
+    "ticker": "MYR-AU",
+    "report": null
   },
   {
     "company_name": "Stanmore Resources Ltd.",
-    "ticker": "SMR-AU"
+    "ticker": "SMR-AU",
+    "report": null
   },
   {
     "company_name": "Bega Cheese Ltd.",
-    "ticker": "BGA-AU"
+    "ticker": "BGA-AU",
+    "report": null
   },
   {
     "company_name": "Redox Ltd.",
-    "ticker": "RDX-AU"
+    "ticker": "RDX-AU",
+    "report": null
   },
   {
     "company_name": "Southern Cross Media Group Ltd.",
-    "ticker": "SXL-AU"
+    "ticker": "SXL-AU",
+    "report": null
   },
   {
     "company_name": "Ricegrowers Ltd.",
-    "ticker": "SGLLV-AU"
+    "ticker": "SGLLV-AU",
+    "report": null
   },
   {
     "company_name": "Pilbara Minerals Ltd.",
-    "ticker": "PLS-AU"
+    "ticker": "PLS-AU",
+    "report": null
   },
   {
     "company_name": "Atlas Arteria Ltd.",
-    "ticker": "ALX-AU"
+    "ticker": "ALX-AU",
+    "report": null
   },
   {
     "company_name": "SGH Ltd.",
-    "ticker": "SGH-AU"
+    "ticker": "SGH-AU",
+    "report": null
   },
   {
     "company_name": "Appen Ltd.",
-    "ticker": "APX-AU"
+    "ticker": "APX-AU",
+    "report": null
   },
   {
     "company_name": "Aurizon Holdings Ltd.",
-    "ticker": "AZJ-AU"
+    "ticker": "AZJ-AU",
+    "report": null
   },
   {
     "company_name": "Aussie Broadband Ltd.",
-    "ticker": "ABB-AU"
+    "ticker": "ABB-AU",
+    "report": null
   },
   {
     "company_name": "Clearview Wealth Ltd.",
-    "ticker": "CVW-AU"
+    "ticker": "CVW-AU",
+    "report": null
   },
   {
     "company_name": "EcoGraf Ltd.",
-    "ticker": "EGR-AU"
+    "ticker": "EGR-AU",
+    "report": null
   },
   {
     "company_name": "Treasury Wine Estates Ltd.",
-    "ticker": "TWE-AU"
+    "ticker": "TWE-AU",
+    "report": null
   },
   {
     "company_name": "Yancoal Australia Ltd.",
-    "ticker": "YAL-AU"
+    "ticker": "YAL-AU",
+    "report": null
   },
   {
     "company_name": "The Star Entertainment Group Ltd.",
-    "ticker": "SGR-AU"
+    "ticker": "SGR-AU",
+    "report": null
   },
   {
     "company_name": "Corporate Travel Management Ltd.",
-    "ticker": "CTD-AU"
+    "ticker": "CTD-AU",
+    "report": null
   },
   {
     "company_name": "Mayne Pharma Group Ltd.",
-    "ticker": "MYX-AU"
+    "ticker": "MYX-AU",
+    "report": null
   },
   {
     "company_name": "Adairs Ltd.",
-    "ticker": "ADH-AU"
+    "ticker": "ADH-AU",
+    "report": null
   },
   {
     "company_name": "SiteMinder Ltd.",
-    "ticker": "SDR-AU"
+    "ticker": "SDR-AU",
+    "report": null
   },
   {
     "company_name": "OFX Group Ltd.",
-    "ticker": "OFX-AU"
+    "ticker": "OFX-AU",
+    "report": null
   },
   {
     "company_name": "Dicker Data Ltd.",
-    "ticker": "DDR-AU"
+    "ticker": "DDR-AU",
+    "report": null
   },
   {
     "company_name": "Kelsian Group Ltd.",
-    "ticker": "KLS-AU"
+    "ticker": "KLS-AU",
+    "report": null
   },
   {
     "company_name": "Australian Finance Group Ltd.",
-    "ticker": "AFG-AU"
+    "ticker": "AFG-AU",
+    "report": null
   },
   {
     "company_name": "Aeris Resources Ltd.",
-    "ticker": "AIS-AU"
+    "ticker": "AIS-AU",
+    "report": null
   },
   {
     "company_name": "GR Engineering Services Ltd.",
-    "ticker": "GNG-AU"
+    "ticker": "GNG-AU",
+    "report": null
   },
   {
     "company_name": "Bowen Coking Coal Ltd.",
-    "ticker": "BCB-AU"
+    "ticker": "BCB-AU",
+    "report": null
   },
   {
     "company_name": "Seven West Media Ltd.",
-    "ticker": "SWM-AU"
+    "ticker": "SWM-AU",
+    "report": null
   },
   {
     "company_name": "EML Payments Ltd.",
-    "ticker": "EML-AU"
+    "ticker": "EML-AU",
+    "report": null
   },
   {
     "company_name": "Evolution Mining Ltd.",
-    "ticker": "EVN-AU"
+    "ticker": "EVN-AU",
+    "report": null
   },
   {
     "company_name": "US Masters Residential Property Fund",
-    "ticker": "URF-AU"
+    "ticker": "URF-AU",
+    "report": null
   },
   {
     "company_name": "Alliance Aviation Services Ltd.",
-    "ticker": "AQZ-AU"
+    "ticker": "AQZ-AU",
+    "report": null
   },
   {
     "company_name": "Articore Group Ltd.",
-    "ticker": "ATG-AU"
+    "ticker": "ATG-AU",
+    "report": null
   },
   {
     "company_name": "Tyro Payments Ltd.",
-    "ticker": "TYR-AU"
+    "ticker": "TYR-AU",
+    "report": null
   },
   {
     "company_name": "Netwealth Group Ltd.",
-    "ticker": "NWL-AU"
+    "ticker": "NWL-AU",
+    "report": null
   },
   {
     "company_name": "Nickel Industries Ltd.",
-    "ticker": "NIC-AU"
+    "ticker": "NIC-AU",
+    "report": null
   },
   {
     "company_name": "Region Group",
-    "ticker": "RGN-AU"
+    "ticker": "RGN-AU",
+    "report": null
   },
   {
     "company_name": "Burgundy Diamond Mines Ltd.",
-    "ticker": "BDM-AU"
+    "ticker": "BDM-AU",
+    "report": null
   },
   {
     "company_name": "Centuria Industrial REIT",
-    "ticker": "CIP-AU"
+    "ticker": "CIP-AU",
+    "report": null
   },
   {
     "company_name": "Arena REIT",
-    "ticker": "ARF-AU"
+    "ticker": "ARF-AU",
+    "report": null
   },
   {
     "company_name": "Steadfast Group Ltd. (Australia)",
-    "ticker": "SDF-AU"
+    "ticker": "SDF-AU",
+    "report": null
   },
   {
     "company_name": "Bapcor Ltd.",
-    "ticker": "BAP-AU"
+    "ticker": "BAP-AU",
+    "report": null
   },
   {
     "company_name": "Wisetech Global Ltd.",
-    "ticker": "WTC-AU"
+    "ticker": "WTC-AU",
+    "report": null
   },
   {
     "company_name": "Cobram Estate Olives Ltd.",
-    "ticker": "CBO-AU"
+    "ticker": "CBO-AU",
+    "report": null
   },
   {
     "company_name": "Motorcycle Holdings Ltd.",
-    "ticker": "MTO-AU"
+    "ticker": "MTO-AU",
+    "report": null
   },
   {
     "company_name": "Dexus Industria REIT",
-    "ticker": "DXI-AU"
+    "ticker": "DXI-AU",
+    "report": null
   },
   {
     "company_name": "Liberty Financial Group Ltd. (Australia)",
-    "ticker": "LFG-AU"
+    "ticker": "LFG-AU",
+    "report": null
   },
   {
     "company_name": "Orora Ltd.",
-    "ticker": "ORA-AU"
+    "ticker": "ORA-AU",
+    "report": null
   },
   {
     "company_name": "Hotel Property Investments Ltd.",
-    "ticker": "HPI-AU"
+    "ticker": "HPI-AU",
+    "report": null
   },
   {
     "company_name": "National Storage REIT",
-    "ticker": "NSR-AU"
+    "ticker": "NSR-AU",
+    "report": null
   },
   {
     "company_name": "GDI Property Group Ltd.",
-    "ticker": "GDI-AU"
+    "ticker": "GDI-AU",
+    "report": null
   },
   {
     "company_name": "Pact Group Holdings Ltd.",
-    "ticker": "PGH-AU"
+    "ticker": "PGH-AU",
+    "report": null
   },
   {
     "company_name": "Rural Funds Group",
-    "ticker": "RFF-AU"
+    "ticker": "RFF-AU",
+    "report": null
   },
   {
     "company_name": "SG Fleet Group Ltd.",
-    "ticker": "SGF-AU"
+    "ticker": "SGF-AU",
+    "report": null
   },
   {
     "company_name": "oOh!media Ltd.",
-    "ticker": "OML-AU"
+    "ticker": "OML-AU",
+    "report": null
   },
   {
     "company_name": "Champion Iron Ltd.",
-    "ticker": "CIA-AU"
+    "ticker": "CIA-AU",
+    "report": null
   },
   {
     "company_name": "Helia Group Ltd.",
-    "ticker": "HLI-AU"
+    "ticker": "HLI-AU",
+    "report": null
   },
   {
     "company_name": "Monash IVF Group Ltd.",
-    "ticker": "MVF-AU"
+    "ticker": "MVF-AU",
+    "report": null
   },
   {
     "company_name": "Smartgroup Corp. Ltd.",
-    "ticker": "SIQ-AU"
+    "ticker": "SIQ-AU",
+    "report": null
   },
   {
     "company_name": "Ashley Services Group Ltd.",
-    "ticker": "ASH-AU"
+    "ticker": "ASH-AU",
+    "report": null
   },
   {
     "company_name": "Regis Healthcare Ltd.",
-    "ticker": "REG-AU"
+    "ticker": "REG-AU",
+    "report": null
   },
   {
     "company_name": "IPH Ltd.",
-    "ticker": "IPH-AU"
+    "ticker": "IPH-AU",
+    "report": null
   },
   {
     "company_name": "Simonds Group Ltd.",
-    "ticker": "SIO-AU"
+    "ticker": "SIO-AU",
+    "report": null
   },
   {
     "company_name": "Centuria Office REIT",
-    "ticker": "COF-AU"
+    "ticker": "COF-AU",
+    "report": null
   },
   {
     "company_name": "Lovisa Holdings Ltd.",
-    "ticker": "LOV-AU"
+    "ticker": "LOV-AU",
+    "report": null
   },
   {
     "company_name": "FleetPartners Group Ltd.",
-    "ticker": "FPR-AU"
+    "ticker": "FPR-AU",
+    "report": null
   },
   {
     "company_name": "Superloop Ltd.",
-    "ticker": "SLC-AU"
+    "ticker": "SLC-AU",
+    "report": null
   },
   {
     "company_name": "Temple & Webster Group Ltd.",
-    "ticker": "TPW-AU"
+    "ticker": "TPW-AU",
+    "report": null
   },
   {
     "company_name": "Zip Co. Ltd.",
-    "ticker": "ZIP-AU"
+    "ticker": "ZIP-AU",
+    "report": null
   },
   {
     "company_name": "Baby Bunting Group Ltd.",
-    "ticker": "BBN-AU"
+    "ticker": "BBN-AU",
+    "report": null
   },
   {
     "company_name": "Integral Diagnostics Ltd.",
-    "ticker": "IDX-AU"
+    "ticker": "IDX-AU",
+    "report": null
   },
   {
     "company_name": "PWR Holdings Ltd.",
-    "ticker": "PWH-AU"
+    "ticker": "PWH-AU",
+    "report": null
   },
   {
     "company_name": "MLG Oz Ltd.",
-    "ticker": "MLG-AU"
+    "ticker": "MLG-AU",
+    "report": null
   },
   {
     "company_name": "IVE Group Ltd.",
-    "ticker": "IGL-AU"
+    "ticker": "IGL-AU",
+    "report": null
   },
   {
     "company_name": "Big River Industries Ltd.",
-    "ticker": "BRI-AU"
+    "ticker": "BRI-AU",
+    "report": null
   },
   {
     "company_name": "Nobleoak Life Ltd.",
-    "ticker": "NOL-AU"
+    "ticker": "NOL-AU",
+    "report": null
   },
   {
     "company_name": "Kogan.com Ltd.",
-    "ticker": "KGN-AU"
+    "ticker": "KGN-AU",
+    "report": null
   },
   {
     "company_name": "Waypoint REIT Ltd.",
-    "ticker": "WPR-AU"
+    "ticker": "WPR-AU",
+    "report": null
   },
   {
     "company_name": "Michael Hill International Ltd.",
-    "ticker": "MHJ-AU"
+    "ticker": "MHJ-AU",
+    "report": null
   },
   {
     "company_name": "Qoria Ltd.",
-    "ticker": "QOR-AU"
+    "ticker": "QOR-AU",
+    "report": null
   },
   {
     "company_name": "Charter Hall Long WALE REIT",
-    "ticker": "CLW-AU"
+    "ticker": "CLW-AU",
+    "report": null
   },
   {
     "company_name": "Johns Lyng Group Ltd.",
-    "ticker": "JLG-AU"
+    "ticker": "JLG-AU",
+    "report": null
   },
   {
     "company_name": "Autosports Group Ltd.",
-    "ticker": "ASG-AU"
+    "ticker": "ASG-AU",
+    "report": null
   },
   {
     "company_name": "Lithium Universe Ltd.",
-    "ticker": "LU7-AU"
+    "ticker": "LU7-AU",
+    "report": null
   },
   {
     "company_name": "Ventia Services Group Ltd.",
-    "ticker": "VNT-AU"
+    "ticker": "VNT-AU",
+    "report": null
   },
   {
     "company_name": "MA Financial Group Ltd.",
-    "ticker": "MAF-AU"
+    "ticker": "MAF-AU",
+    "report": null
   },
   {
     "company_name": "Pepper Money Ltd.",
-    "ticker": "PPM-AU"
+    "ticker": "PPM-AU",
+    "report": null
   },
   {
     "company_name": "Telix Pharmaceuticals Ltd.",
-    "ticker": "TLX-AU"
+    "ticker": "TLX-AU",
+    "report": null
   },
   {
     "company_name": "NTAW Holdings Ltd.",
-    "ticker": "NTD-AU"
+    "ticker": "NTD-AU",
+    "report": null
   },
   {
     "company_name": "PeopleIn Ltd.",
-    "ticker": "PPE-AU"
+    "ticker": "PPE-AU",
+    "report": null
   },
   {
     "company_name": "Wagners Holding Co. Ltd.",
-    "ticker": "WGN-AU"
+    "ticker": "WGN-AU",
+    "report": null
   },
   {
     "company_name": "Latitude Group Holdings Ltd.",
-    "ticker": "LFS-AU"
+    "ticker": "LFS-AU",
+    "report": null
   },
   {
     "company_name": "Viva Energy Group Ltd.",
-    "ticker": "VEA-AU"
+    "ticker": "VEA-AU",
+    "report": null
   },
   {
     "company_name": "Judo Capital Holdings Ltd.",
-    "ticker": "JDO-AU"
+    "ticker": "JDO-AU",
+    "report": null
   },
   {
     "company_name": "Qualitas Real Estate Income Fund",
-    "ticker": "QRI-AU"
+    "ticker": "QRI-AU",
+    "report": null
   },
   {
     "company_name": "Coronado Global Resources, Inc.",
-    "ticker": "0K17S2-E"
+    "ticker": "0K17S2-E",
+    "report": null
   },
   {
     "company_name": "Endeavour Group Ltd. (Australia)",
-    "ticker": "EDV-AU"
+    "ticker": "EDV-AU",
+    "report": null
   },
   {
     "company_name": "Mader Group Ltd.",
-    "ticker": "MAD-AU"
+    "ticker": "MAD-AU",
+    "report": null
   },
   {
     "company_name": "HMC Capital Ltd.",
-    "ticker": "HMC-AU"
+    "ticker": "HMC-AU",
+    "report": null
   },
   {
     "company_name": "KKR Credit Income Fund",
-    "ticker": "KKC-AU"
+    "ticker": "KKC-AU",
+    "report": null
   },
   {
     "company_name": "MoneyMe Ltd.",
-    "ticker": "MME-AU"
+    "ticker": "MME-AU",
+    "report": null
   },
   {
     "company_name": "TPG Telecom Ltd.",
-    "ticker": "TPG-AU"
+    "ticker": "TPG-AU",
+    "report": null
   },
   {
     "company_name": "Plenti Group Ltd.",
-    "ticker": "PLT-AU"
+    "ticker": "PLT-AU",
+    "report": null
   },
   {
     "company_name": "HomeCo Daily Needs REIT",
-    "ticker": "HDN-AU"
+    "ticker": "HDN-AU",
+    "report": null
   },
   {
     "company_name": "Duratec Ltd.",
-    "ticker": "DUR-AU"
+    "ticker": "DUR-AU",
+    "report": null
   },
   {
     "company_name": "GenusPlus Group Ltd.",
-    "ticker": "GNP-AU"
+    "ticker": "GNP-AU",
+    "report": null
   },
   {
     "company_name": "MAAS Group Holdings Ltd.",
-    "ticker": "MGH-AU"
+    "ticker": "MGH-AU",
+    "report": null
   },
   {
     "company_name": "Dalrymple Bay Infrastructure Ltd.",
-    "ticker": "DBI-AU"
+    "ticker": "DBI-AU",
+    "report": null
   },
   {
     "company_name": "Cettire Ltd.",
-    "ticker": "CTT-AU"
+    "ticker": "CTT-AU",
+    "report": null
   },
   {
     "company_name": "Peter Warren Automotive Holdings Ltd.",
-    "ticker": "PWR-AU"
+    "ticker": "PWR-AU",
+    "report": null
   },
   {
     "company_name": "Australian Clinical Labs Ltd.",
-    "ticker": "ACL-AU"
+    "ticker": "ACL-AU",
+    "report": null
   },
   {
     "company_name": "DGL Group Ltd.",
-    "ticker": "DGL-AU"
+    "ticker": "DGL-AU",
+    "report": null
   },
   {
     "company_name": "29metals Ltd.",
-    "ticker": "29M-AU"
+    "ticker": "29M-AU",
+    "report": null
   },
   {
     "company_name": "Silk Logistics Holdings Ltd.",
-    "ticker": "SLH-AU"
+    "ticker": "SLH-AU",
+    "report": null
   },
   {
     "company_name": "PEXA Group Ltd.",
-    "ticker": "PXA-AU"
+    "ticker": "PXA-AU",
+    "report": null
   },
   {
     "company_name": "HealthCo Healthcare & Wellness REIT",
-    "ticker": "HCW-AU"
+    "ticker": "HCW-AU",
+    "report": null
   },
   {
     "company_name": "IREN Ltd.",
-    "ticker": "IREN-US"
+    "ticker": "IREN-US",
+    "report": null
   },
   {
     "company_name": "The Lottery Corp. Ltd.",
-    "ticker": "TLC-AU"
+    "ticker": "TLC-AU",
+    "report": null
   },
   {
     "company_name": "Regal Partners Ltd.",
-    "ticker": "RPL-AU"
+    "ticker": "RPL-AU",
+    "report": null
   },
   {
     "company_name": "Guzman y Gomez Ltd.",
-    "ticker": "GYG-AU"
+    "ticker": "GYG-AU",
+    "report": null
   },
   {
     "company_name": "Lynch Group Holdings Ltd.",
-    "ticker": "LGL-AU"
+    "ticker": "LGL-AU",
+    "report": null
   },
   {
     "company_name": "ANZ Group Holdings Ltd.",
-    "ticker": "ANZ-AU"
+    "ticker": "ANZ-AU",
+    "report": null
   },
   {
     "company_name": "Abacus Storage King",
-    "ticker": "ASK-AU"
+    "ticker": "ASK-AU",
+    "report": null
   },
   {
     "company_name": "Symal Group Ltd.",
-    "ticker": "SYL-AU"
+    "ticker": "SYL-AU",
+    "report": null
   },
   {
     "company_name": "Tasmea Ltd.",
-    "ticker": "TEA-AU"
+    "ticker": "TEA-AU",
+    "report": null
   },
   {
     "company_name": "Civmec Ltd.",
-    "ticker": "CVL-AU"
+    "ticker": "CVL-AU",
+    "report": null
   },
   {
     "company_name": "DigiCo Infrastructure REIT",
-    "ticker": "DGT-AU"
+    "ticker": "DGT-AU",
+    "report": null
   },
   {
     "company_name": "Gemlife Communities Group",
-    "ticker": "GLF-AU"
+    "ticker": "GLF-AU",
+    "report": null
   }
 ]

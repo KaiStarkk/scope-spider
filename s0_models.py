@@ -25,30 +25,17 @@ class Company(BaseModel):
     report: Optional[Report] = None
 
 
-def get_response_schema():
-    """Get the JSON schema for the Report model."""
-    return Report.model_json_schema()
-
-
-def create_response(client, company, ticker):
+def search_and_parse(client, company, ticker):
     """Create an OpenAI response for the given company and ticker."""
-    schema = get_response_schema()
-    return client.responses.create(
+    return client.responses.parse(
         prompt={
             "id": "pmpt_690fdf1b7be48194b628127978bdc9240b0df1327cec0e4c",
             "version": "1",
             "variables": {"name": company, "ticker": ticker},
         },
         input=[],
-        text={
-            "format": {
-                "type": "json_schema",
-                "name": "report",
-                "strict": True,
-                "schema": schema,
-            },
-            "verbosity": "low",
-        },
+        text_format=Report,
+        verbosity="low",
         reasoning={"effort": "low", "summary": None},
         tools=[
             {

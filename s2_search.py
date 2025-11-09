@@ -1,20 +1,7 @@
-import sys, os, json, time
+import sys, json, time
 from pathlib import Path
 from openai import OpenAI
-from s0_models import Report, create_response
-
-
-def search(client, company, ticker):
-    response = create_response(client, company, ticker)
-
-    print(
-        json.dumps(getattr(response, "model_dump", lambda: {})(), ensure_ascii=False),
-        flush=True,
-    )
-
-    # Parse the response - OpenAI follows the schema exactly
-    result = Report.model_validate_json(response.output[0].content[0].text)
-    return result.model_dump()
+from s0_models import search_and_parse
 
 
 def main():
@@ -29,20 +16,21 @@ def main():
         name = item["company_name"].strip()
         ticker = item["ticker"].strip()
         report = item.get("report")
-        if report and (report.get("url") or "").strip():
+        if report:
             print(
-                f"SKIPPING: {name} ({ticker}) already has a URL: {report['url']}",
+                f"SKIPPING: {name} ({ticker}) already has a report: {report.title}",
                 flush=True,
             )
             continue
 
         # Querying
         print(f"QUERY: {name} ({ticker})", flush=True)
-        data = search(openAI, name, ticker)
-        url = (data.get("url") or "").strip() if isinstance(data, dict) else ""
-        if url:
-            item["report"] = data
+        response = search_and_parse(openAI, name, ticker)
+        if parsed := response.output_parsed:
+            item["report"] = parsed.model_dump()
             path.write_text(json.dumps(items, ensure_ascii=False))
+        else:
+            print(f"ERROR: Failed to parse response: {response.model_dump()}", flush=True)
         time.sleep(1.0)
 
 
