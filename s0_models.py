@@ -1,3 +1,4 @@
+from textwrap import dedent
 from typing import Optional
 from pydantic import BaseModel, Field
 
@@ -55,14 +56,37 @@ def query(client, company, ticker):
     Returns a tuple of (raw_response, parsed_report) where parsed_report
     may be None if parsing failed.
     """
-    instructions = f"""
-## Instructions
-The company given has released an official 2025 report which includes its scope 1 and scope 2 emissions data. Search the web to locate this document. The document must be from 2025, and it must be a PDF. Typically it will be called "sustainability report", "climate report" or some variation on this. In some rare cases it will be the annual report, but only return that if you cannot find any superior alternative.
+    instructions = dedent(
+        f"""
+        ## Task
+        Find the official 2025 sustainability report for the given company that contains Scope 1 and Scope 2 emissions data.
 
-## Inputs:
-{company} is the company's name.
-{ticker} is the company's stock ticker symbol.
-"""
+        ## Requirements
+        - The report must be from 2025
+        - The report must be a PDF file
+        - Preferred document types (in order):
+          1. Sustainability report
+          2. Climate report or climate action report
+          3. ESG report
+          4. Annual report (only if no superior alternative exists)
+
+        ## Company Information
+        - Company name: {company}
+        - Stock ticker: {ticker}
+
+        ## Output
+        Extract the following information from the report:
+        - Direct URL to the PDF file
+        - Report title
+        - File type (must be pdf)
+        - Filename
+        - Year (2025)
+        - Scope 1 emissions (in kgCO2e, rounded to nearest whole number)
+        - Scope 2 emissions (in kgCO2e, rounded to nearest whole number)
+        - Scope 3 emissions (in kgCO2e, rounded to nearest whole number, if available)
+        - Any qualifiers or notes about the emissions data
+        """
+    ).strip()
 
     response = client.responses.parse(
         instructions=instructions,
