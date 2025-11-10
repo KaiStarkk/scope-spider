@@ -65,6 +65,9 @@ def query(client, company, ticker):
         Call 3: Constrained search using company website url and filetype constraint (pdf) to locate report URL for inclusion in response.
         Call 4: If sustainability report is not yet found, use the information so far to search for the annual report as a fallback, and include this URL in the response.
         This is an essential step to minimize spend, because getting the report URL is the primary objective; calls to obtain data come after.
+        Use the minimal amount of web search tool calls possible to locate the URL and then the emissions data, plan for this. It is essential to minimize cost.
+
+        Prior to calling the search tool, review your search plan for appropriateness (likelihood of success to find the required PDF and data) and minimality (minimal number of tool calls).
 
         ## Requirements
         - The report must be from 2025
@@ -101,7 +104,7 @@ def query(client, company, ticker):
         input=input_text,
         text_format=Report,
         text={"verbosity": "low"},
-        reasoning={"effort": "low", "summary": "auto"},
+        reasoning={"effort": "low", "summary": "concise"},
         # max_tool_calls=3,
         tools=[
             {
