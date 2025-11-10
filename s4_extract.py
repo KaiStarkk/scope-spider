@@ -7,9 +7,7 @@ from typing import List, Dict, Any, Tuple
 from PyPDF2 import PdfReader
 
 
-DEFAULT_DOWNLOAD_DIR = Path("downloads")
 DEFAULT_EXTRACT_DIR = Path("extracted")
-MANIFEST_FILE = DEFAULT_DOWNLOAD_DIR / "manifest.json"
 
 # Keywords to locate relevant pages; add variants and common units
 KEYWORDS = [
@@ -24,15 +22,6 @@ KEYWORDS = [
     r"\bmtco2e\b",
 ]
 KEYWORD_RE = re.compile("|".join(KEYWORDS), re.IGNORECASE)
-
-
-def _read_manifest() -> List[Dict[str, Any]]:
-    if MANIFEST_FILE.exists():
-        try:
-            return json.loads(MANIFEST_FILE.read_text() or "[]")
-        except Exception:
-            return []
-    return []
 
 
 def _extract_pdf_text(pdf_path: Path) -> List[str]:
@@ -81,40 +70,51 @@ def _build_snippet(pages: List[str], hits: List[int], window: int = 1, max_chars
 
 
 def main():
-    # Usage: s4_extract.py [downloads_dir] [extracted_dir]
-    downloads_dir = Path(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_DOWNLOAD_DIR
+    # Usage: s4_extract.py <companies.json> [extracted_dir]
+    if len(sys.argv) < 2:
+        sys.exit("Usage: s4_extract.py <companies.json> [extracted_dir]")
+    companies_path = Path(sys.argv[1])
     extract_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else DEFAULT_EXTRACT_DIR
     extract_dir.mkdir(parents=True, exist_ok=True)
 
-    manifest = _read_manifest()
-    if not manifest:
-        print(f"Warning: No manifest at {MANIFEST_FILE}; scanning PDF files in {downloads_dir}", flush=True)
-        pdfs = list(downloads_dir.glob("*.pdf"))
-        manifest = [{"ticker": pdf.stem.split("_")[0], "url": "", "path": str(pdf), "status": "ok"} for pdf in pdfs]
+    items: List[Dict[str, Any]] = json.loads(companies_path.read_text() or "[]")
 
-    for row in manifest:
-        if row.get("status") != "ok":
+    for item in items:
+        report = item.get("report") or {}
+        dl = report.get("download") or {}
+        if (dl.get("status") or "") != "ok":
             continue
-        pdf_path = Path(row.get("path", ""))
+        pdf_path = Path(dl.get("path") or "")
         if not pdf_path.exists() or pdf_path.suffix.lower() != ".pdf":
+            # If the file is missing or not a PDF, reset the report
+            item["report"] = None
+            print(f"FAIL extract: missing/invalid PDF for {item.get('ticker') or 'UNKNOWN'}; report reset to null", flush=True)
             continue
-        ticker = row.get("ticker") or "UNKNOWN"
+        ticker = item.get("ticker") or "UNKNOWN"
         base = pdf_path.stem
-        out_json = extract_dir / f"{base}.json"
         out_txt = extract_dir / f"{base}.snippet.txt"
-        if out_txt.exists() and out_json.exists():
+        if out_txt.exists() and (report.get("extraction") or {}).get("snippet_path"):
             print(f"SKIP extract {ticker}: already exists", flush=True)
             continue
 
         pages = _extract_pdf_text(pdf_path)
-        if not pages or sum(len(p) for p in pages) < 200:
+        if not pages:
+            # Hard failure to extract; reset report
+            item["report"] = None
+            print(f"FAIL extract {ticker}: no text extracted; report reset to null", flush=True)
+            continue
+        if sum(len(p) for p in pages) < 200:
             print(f"NOTE {ticker}: low/empty text; OCR may be required for {pdf_path.name}", flush=True)
         hits = _keyword_hit_pages(pages)
         snippet, chosen_pages = _build_snippet(pages, hits)
-        out_txt.write_text(snippet)
+        try:
+            out_txt.write_text(snippet)
+        except Exception as e:
+            item["report"] = None
+            print(f"FAIL extract {ticker}: unable to write snippet ({e}); report reset to null", flush=True)
+            continue
 
-        meta = {
-            "ticker": ticker,
+        extraction = {
             "pdf": str(pdf_path),
             "pages": len(pages),
             "hits": hits,
@@ -123,8 +123,12 @@ def main():
             "chars_total": sum(len(p or "") for p in pages),
             "chars_snippet": len(snippet),
         }
-        out_json.write_text(json.dumps(meta, ensure_ascii=False, indent=2))
-        print(f"EXTRACTED {ticker}: pages={meta['pages']} hits={len(hits)} snippet={meta['chars_snippet']} chars", flush=True)
+        report["extraction"] = extraction
+        item["report"] = report
+        print(f"EXTRACTED {ticker}: pages={extraction['pages']} hits={len(hits)} snippet={extraction['chars_snippet']} chars", flush=True)
+
+    companies_path.write_text(json.dumps(items, ensure_ascii=False, indent=2))
+    print(f"Updated {companies_path}", flush=True)
 
 
 if __name__ == "__main__":

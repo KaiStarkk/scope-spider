@@ -2,16 +2,13 @@ import sys
 import json
 import time
 from pathlib import Path
-from typing import Dict, Any, List, Optional, Tuple
+from typing import Dict, Any, List, Optional, Tuple, Literal
+from pydantic import BaseModel, Field
 
 from openai import OpenAI
-from s0_models import Data
 
 
-DEFAULT_EXTRACT_DIR = Path("extracted")
-DEFAULT_DOWNLOAD_DIR = Path("downloads")
 VECTOR_STORE_ID_FILE = Path(".vector_store_id")
-MANIFEST_FILE = DEFAULT_DOWNLOAD_DIR / "manifest.json"
 
 
 def _read_json(path: Path) -> Any:
@@ -20,16 +17,6 @@ def _read_json(path: Path) -> Any:
 
 def _write_json(path: Path, obj: Any) -> None:
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=2))
-
-
-def _load_manifest() -> List[Dict[str, Any]]:
-    if MANIFEST_FILE.exists():
-        try:
-            return json.loads(MANIFEST_FILE.read_text() or "[]")
-        except Exception:
-            return []
-    return []
-
 
 def _needs_verification(item: Dict[str, Any], verify_all: bool) -> bool:
     if verify_all:
@@ -45,22 +32,6 @@ def _needs_verification(item: Dict[str, Any], verify_all: bool) -> bool:
     return False
 
 
-def _find_snippet_for_manifest_row(extract_dir: Path, row: Dict[str, Any]) -> Tuple[Optional[Path], Optional[Dict[str, Any]]]:
-    pdf_path = Path(row.get("path", ""))
-    if not pdf_path.exists():
-        return None, None
-    base = pdf_path.stem
-    snippet_path = extract_dir / f"{base}.snippet.txt"
-    meta_path = extract_dir / f"{base}.json"
-    if not snippet_path.exists() or not meta_path.exists():
-        return None, None
-    try:
-        meta = _read_json(meta_path)
-    except Exception:
-        meta = None
-    return snippet_path, meta
-
-
 def _get_or_create_vector_store(client: OpenAI) -> str:
     if VECTOR_STORE_ID_FILE.exists():
         vsid = VECTOR_STORE_ID_FILE.read_text().strip()
@@ -71,7 +42,9 @@ def _get_or_create_vector_store(client: OpenAI) -> str:
     return store.id
 
 
-def _attach_file_to_vector_store(client: OpenAI, vector_store_id: str, path: Path) -> None:
+def _attach_file_to_vector_store(
+    client: OpenAI, vector_store_id: str, path: Path
+) -> None:
     with path.open("rb") as f:
         fr = client.files.create(file=f, purpose="assistants")
     client.vector_stores.files.create(vector_store_id=vector_store_id, file_id=fr.id)
@@ -79,19 +52,71 @@ def _attach_file_to_vector_store(client: OpenAI, vector_store_id: str, path: Pat
     time.sleep(1.0)
 
 
-def _parse_data_local(client: OpenAI, snippet_text: str) -> Optional[Data]:
+class ParsedResult(BaseModel):
+    scope_1: Optional[int]
+    scope_2: Optional[int]
+    scope_3: Optional[int] = None
+    qualifiers: Optional[str] = None
+    confidence: float = Field(default=0.0, ge=0.0, le=1.0)
+
+
+def _parse_data_local(client: OpenAI, snippet_text: str) -> Optional[ParsedResult]:
     instructions = (
-        "You will be given a snippet of PDF text from a company's 2025-period report. "
-        "Extract total Scope 1, Scope 2, and optionally Scope 3 greenhouse gas emissions in kgCO2e as integers. "
-        "If values are presented in tCO2e, ktCO2e, or MtCO2e, convert to kgCO2e. "
-        "If a field is not present, set it to null. If values are obviously placeholders, return null. "
-        "Add brief qualifiers if method (market vs location) or boundary is specified."
+        "You will be given a snippet of PDF text from a company's 2025-period report.\n"
+        "- Extract total Scope 1, Scope 2, and optionally Scope 3 greenhouse gas emissions in kgCO2e as integers.\n"
+        "- If values are presented in tCO2e, ktCO2e, or MtCO2e, convert to kgCO2e.\n"
+        "- If a field is not present, set it to null. If values are placeholders or uncertain, prefer null.\n"
+        "- Include brief qualifiers (e.g., market vs location, boundary) if present.\n"
+        "- Return a numeric confidence from 0.0 to 1.0 that reflects how likely these values are correct given the snippet.\n"
+        "Return only JSON with keys: scope_1, scope_2, scope_3, qualifiers, confidence."
     )
     try:
         resp = client.responses.parse(
             instructions=instructions,
             input=snippet_text,
-            text_format=Data,
+            text_format=ParsedResult,
+            model="gpt-4o-mini",
+            temperature=0,
+        )
+        return resp.output_parsed
+    except Exception:
+        return None
+
+
+class Advice(BaseModel):
+    label: Literal[
+        "retry_search",
+        "needs_ocr",
+        "wrong_company",
+        "wrong_report_type",
+        "year_mismatch",
+        "insufficient_content",
+        "give_up",
+        "unknown",
+    ] = Field(default="unknown")
+    reason: str
+    suggestion: Optional[str] = None
+
+
+def _advise_on_failure(
+    client: OpenAI,
+    snippet_text: str,
+    pdf_path: Path,
+    company_name: str,
+    year: str = "2025",
+) -> Optional[Advice]:
+    instructions = (
+        "You are given a snippet of text extracted from a PDF and the expected company name and reporting year. "
+        "Determine why Scope 1/2 emissions could not be confirmed and provide a short recommendation. "
+        "Return JSON with: label(one of retry_search, needs_ocr, wrong_company, wrong_report_type, year_mismatch, "
+        "insufficient_content, give_up, unknown), reason, suggestion (optional concise query or next step)."
+    )
+    payload = f"Company: {company_name}\nExpected year: {year}\nPDF file: {pdf_path.name}\n\nSnippet:\n{snippet_text[:8000]}"
+    try:
+        resp = client.responses.parse(
+            instructions=instructions,
+            input=payload,
+            text_format=Advice,
             model="gpt-4o-mini",
             temperature=0,
         )
@@ -102,18 +127,20 @@ def _parse_data_local(client: OpenAI, snippet_text: str) -> Optional[Data]:
 
 def _parse_data_filesearch(
     client: OpenAI, vector_store_id: str, company_name: str, ticker: str
-) -> Optional[Data]:
+) -> Optional[ParsedResult]:
     instructions = (
         "Search the provided vector store for this company's 2025-period report content and extract total Scope 1, "
         "Scope 2, and optionally Scope 3 greenhouse gas emissions in kgCO2e as integers. Convert any units to kgCO2e. "
-        "Include qualifiers if method (market vs location) or boundary is specified. If a field is not present, set null."
+        "Include qualifiers if method (market vs location) or boundary is specified. If a field is not present, set null. "
+        "Also return a numeric confidence from 0.0 to 1.0.\n"
+        "Return only JSON with keys: scope_1, scope_2, scope_3, qualifiers, confidence."
     )
     query = f"Company: {company_name}\nTicker: {ticker}\nTask: Extract Scope 1, Scope 2, Scope 3 totals (kgCO2e)."
     try:
         resp = client.responses.parse(
             instructions=instructions,
             input=query,
-            text_format=Data,
+            text_format=ParsedResult,
             tools=[
                 {
                     "type": "file_search",
@@ -131,7 +158,12 @@ def _parse_data_filesearch(
         return None
 
 
-def _update_company_data(item: Dict[str, Any], parsed: Data, meta: Optional[Dict[str, Any]], method: str) -> bool:
+def _update_company_data(
+    item: Dict[str, Any],
+    parsed: ParsedResult,
+    meta: Optional[Dict[str, Any]],
+    method: str,
+) -> bool:
     if not parsed or parsed.scope_1 is None or parsed.scope_2 is None:
         return False
     if parsed.scope_1 <= 0 or parsed.scope_2 <= 0:
@@ -144,11 +176,14 @@ def _update_company_data(item: Dict[str, Any], parsed: Data, meta: Optional[Dict
         data["scope_3"] = int(parsed.scope_3)
     qualifiers_existing = data.get("qualifiers") or ""
     note_bits = [qualifiers_existing.strip()] if qualifiers_existing else []
-    extra = f"Verified via {method}"
+    conf_pct = f"{round((parsed.confidence or 0.0) * 100)}%"
+    extra = f"Verified via {method} (confidence {conf_pct})"
     if meta and meta.get("chosen_pages"):
         pages = [int(p) + 1 for p in meta["chosen_pages"]]
         extra += f" on pages {pages}"
     note_bits.append(extra)
+    if parsed.qualifiers:
+        note_bits.append(parsed.qualifiers.strip())
     data["qualifiers"] = "; ".join([n for n in note_bits if n]).strip()
     return True
 
@@ -156,27 +191,20 @@ def _update_company_data(item: Dict[str, Any], parsed: Data, meta: Optional[Dict
 def main():
     if len(sys.argv) < 2:
         sys.exit(
-            "Usage: s5_verify.py <companies.json> [--all] [--local-only] [--extracted extracted] [--downloads downloads]"
+            "Usage: s5_verify.py <companies.json> [--all] [--local-only] [--threshold 0.7]"
         )
     companies_path = Path(sys.argv[1])
     verify_all = "--all" in sys.argv[2:]
     local_only = "--local-only" in sys.argv[2:]
-    if "--extracted" in sys.argv:
-        extract_dir = Path(sys.argv[sys.argv.index("--extracted") + 1])
+    # Confidence threshold
+    if "--threshold" in sys.argv:
+        try:
+            threshold = float(sys.argv[sys.argv.index("--threshold") + 1])
+        except Exception:
+            threshold = 0.7
     else:
-        extract_dir = DEFAULT_EXTRACT_DIR
-    if "--downloads" in sys.argv:
-        downloads_dir = Path(sys.argv[sys.argv.index("--downloads") + 1])
-    else:
-        downloads_dir = DEFAULT_DOWNLOAD_DIR
-
+        threshold = 0.7
     items: List[Dict[str, Any]] = _read_json(companies_path) or []
-    manifest = _load_manifest()
-    manifest_by_ticker = {}
-    for row in manifest:
-        t = row.get("ticker")
-        if t and row.get("status") == "ok":
-            manifest_by_ticker.setdefault(t, []).append(row)
 
     client = OpenAI()
     changed = False
@@ -189,29 +217,56 @@ def main():
             continue
         name = item.get("name", "").strip()
         ticker = item.get("ticker", "").strip()
-        rows = manifest_by_ticker.get(ticker) or []
-        if not rows:
-            print(f"SKIP {ticker}: no downloaded PDF in {downloads_dir}", flush=True)
+        report = item.get("report") or {}
+        extraction = report.get("extraction") or {}
+        snippet_path = Path(extraction.get("snippet_path") or "")
+        meta = extraction or None
+        if not (report.get("download") or {}).get("path"):
+            print(f"SKIP {ticker}: no downloaded PDF path in companies.json", flush=True)
             continue
-        # First viable row
-        row = rows[0]
-        snippet_path, meta = _find_snippet_for_manifest_row(extract_dir, row)
         if not snippet_path or not snippet_path.exists():
             print(f"SKIP {ticker}: no snippet found, run s4_extract.py", flush=True)
             continue
         snippet_text = snippet_path.read_text()
         if len(snippet_text.strip()) < 50:
-            print(f"NOTE {ticker}: snippet too small; file_search may be needed", flush=True)
+            print(
+                f"NOTE {ticker}: snippet too small; file_search may be needed",
+                flush=True,
+            )
 
-        # Attempt local parse first
-        parsed = _parse_data_local(client, snippet_text)
-        if parsed and _update_company_data(item, parsed, meta, "local snippet"):
-            print(f"VERIFIED {ticker}: local", flush=True)
-            changed = True
-            continue
+        # Attempt local parse first (cheapest)
+        parsed_local = _parse_data_local(client, snippet_text)
+        if (
+            parsed_local
+            and parsed_local.scope_1
+            and parsed_local.scope_2
+            and parsed_local.scope_1 > 0
+            and parsed_local.scope_2 > 0
+        ):
+            if parsed_local.confidence >= threshold:
+                if _update_company_data(item, parsed_local, meta, "local snippet"):
+                    print(
+                        f"VERIFIED {ticker}: local (conf={parsed_local.confidence:.2f})",
+                        flush=True,
+                    )
+                    changed = True
+                    continue
+            else:
+                print(
+                    f"LOW CONF {ticker}: local conf={parsed_local.confidence:.2f} < {threshold:.2f}; trying file_search",
+                    flush=True,
+                )
+        else:
+            print(
+                f"MISS {ticker}: local parse did not yield usable values; trying file_search",
+                flush=True,
+            )
 
         if local_only:
-            print(f"FAIL {ticker}: local parse failed; skipping due to --local-only", flush=True)
+            print(
+                f"FAIL {ticker}: local parse failed; skipping due to --local-only",
+                flush=True,
+            )
             continue
 
         # Attach snippet to vector store and try file_search parse
@@ -219,11 +274,45 @@ def main():
             vector_store_id = _get_or_create_vector_store(client)
         _attach_file_to_vector_store(client, vector_store_id, snippet_path)
         parsed_fs = _parse_data_filesearch(client, vector_store_id, name, ticker)
-        if parsed_fs and _update_company_data(item, parsed_fs, meta, "file_search"):
-            print(f"VERIFIED {ticker}: file_search", flush=True)
-            changed = True
+        if (
+            parsed_fs
+            and parsed_fs.scope_1
+            and parsed_fs.scope_2
+            and parsed_fs.scope_1 > 0
+            and parsed_fs.scope_2 > 0
+        ):
+            if parsed_fs.confidence >= threshold:
+                if _update_company_data(item, parsed_fs, meta, "file_search"):
+                    print(
+                        f"VERIFIED {ticker}: file_search (conf={parsed_fs.confidence:.2f})",
+                        flush=True,
+                    )
+                    changed = True
+            else:
+                print(
+                    f"LOW CONF {ticker}: file_search conf={parsed_fs.confidence:.2f} < {threshold:.2f}",
+                    flush=True,
+                )
         else:
             print(f"FAIL {ticker}: file_search parse failed", flush=True)
+            # Advisory
+            advice = _advise_on_failure(
+                client,
+                snippet_text,
+                Path((report.get("download") or {}).get("path") or ""),
+                name,
+                (item.get("report") or {}).get("year") or "2025",
+            )
+            if advice:
+                print(
+                    f"ADVISE {ticker}: {advice.label} - {advice.reason}"
+                    + (
+                        f" | suggestion: {advice.suggestion}"
+                        if advice.suggestion
+                        else ""
+                    ),
+                    flush=True,
+                )
 
     if changed:
         _write_json(companies_path, items)

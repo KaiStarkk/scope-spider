@@ -1,4 +1,4 @@
-import sys, json, time
+import sys, json, time, os
 from pathlib import Path
 from openai import OpenAI
 from s0_models import query
@@ -6,7 +6,12 @@ from s0_models import query
 
 def main():
     # Setup
-    mode = sys.argv[2] if len(sys.argv) > 2 else "review"
+    mode = (
+        sys.argv[2]
+        if len(sys.argv) > 2 and sys.argv[2] in ("auto", "review")
+        else "review"
+    )
+    debug = ("--debug" in sys.argv[2:]) or ("-d" in sys.argv[2:])
     if mode not in ("auto", "review"):
         sys.exit("Usage: s2_search.py <json_file> [auto|review]")
 
@@ -21,13 +26,17 @@ def main():
         ticker = item.get("ticker", "").strip()
         report = item.get("report")
         if report:
-            print(
-                f"SKIPPING: {name} ({ticker}) already has a report: {report['title']} and data: {report['data']}",
-                flush=True,
-            )
+            if debug:
+                print(
+                    f"SKIPPING: {name} ({ticker}) already has a report: {report['title']} and data: {report['data']}",
+                    flush=True,
+                )
             continue
 
         print(f"QUERY: {name} ({ticker})", flush=True)
+        # Propagate debug to the search layer
+        if debug:
+            os.environ["S0_DEBUG"] = "1"
         response, parsed = query(openAI, name, ticker)
         if parsed:
             if not auto_mode:
@@ -36,9 +45,11 @@ def main():
                     f"\n{name} ({ticker}) - Full Report Data:\n{json.dumps(report_data, ensure_ascii=False, indent=2)}\n",
                     flush=True,
                 )
-                action = input("approve/skip/continue: ").strip().lower()
+                action = input("approve/skip/continue/quit [A/s/c/q]: ").strip().lower()
                 if action in ("skip", "s"):
                     continue
+                elif action in ("quit", "q"):
+                    return
                 elif action in ("continue", "c"):
                     auto_mode = True
                     print("Switching to automatic mode...", flush=True)
@@ -51,7 +62,7 @@ def main():
             )
 
         if auto_mode:
-            time.sleep(1.0)
+            time.sleep(5.0)
 
 
 if __name__ == "__main__":

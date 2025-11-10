@@ -9,7 +9,6 @@ import requests
 
 
 DEFAULT_DOWNLOAD_DIR = Path("downloads")
-MANIFEST_FILE = DEFAULT_DOWNLOAD_DIR / "manifest.json"
 
 
 def _safe_filename_from_url(url: str) -> str:
@@ -73,20 +72,6 @@ def _download_pdf(url: str, out_path: Path) -> Tuple[bool, str]:
         return False, str(e)
 
 
-def _load_manifest() -> List[Dict[str, Any]]:
-    if MANIFEST_FILE.exists():
-        try:
-            return json.loads(MANIFEST_FILE.read_text() or "[]")
-        except Exception:
-            return []
-    return []
-
-
-def _save_manifest(rows: List[Dict[str, Any]]) -> None:
-    MANIFEST_FILE.parent.mkdir(parents=True, exist_ok=True)
-    MANIFEST_FILE.write_text(json.dumps(rows, ensure_ascii=False, indent=2))
-
-
 def main():
     if len(sys.argv) < 2:
         sys.exit("Usage: s3_download.py <companies.json> [--all] [--dir downloads]")
@@ -98,10 +83,7 @@ def main():
     else:
         download_dir = DEFAULT_DOWNLOAD_DIR
 
-    items = json.loads(companies_path.read_text() or "[]")
-    manifest = _load_manifest()
-    manifest_index = {(m.get("ticker"), m.get("url")): m for m in manifest}
-    new_rows: List[Dict[str, Any]] = []
+    items: List[Dict[str, Any]] = json.loads(companies_path.read_text() or "[]")
 
     queued = []
     for item in items:
@@ -114,9 +96,12 @@ def main():
         ticker = item.get("ticker", "").strip()
         if not url:
             continue
-        key = (ticker, url)
-        if key in manifest_index and manifest_index[key].get("status") == "ok":
-            print(f"SKIP {ticker}: already downloaded", flush=True)
+        # Skip if already downloaded per companies.json
+        dl = (report.get("download") or {})
+        dl_path = dl.get("path")
+        dl_status = dl.get("status")
+        if dl_status == "ok" and dl_path and Path(dl_path).exists():
+            print(f"SKIP {ticker}: already downloaded at {dl_path}", flush=True)
             continue
         queued.append(item)
 
@@ -133,26 +118,22 @@ def main():
         file_name = f"{ticker}_{url_hash}_{base_name}".replace(" ", "_")
         out_path = download_dir / file_name
         ok, msg = _download_pdf(url, out_path)
-        row = {
-            "name": name,
-            "ticker": ticker,
-            "url": url,
-            "path": str(out_path),
-            "status": "ok" if ok else "error",
-            "error": None if ok else msg,
-        }
-        print(
-            f"{'DOWNLOADED' if ok else 'ERROR'} {ticker}: {out_path.name} ({msg})",
-            flush=True,
-        )
-        new_rows.append(row)
+        if not ok:
+            # Reset the report entirely on download failure
+            item["report"] = None
+            print(f"ERROR {ticker}: download failed ({msg}); report reset to null", flush=True)
+        else:
+            # Write back into companies.json under report.download
+            report.setdefault("download", {})
+            report["download"]["path"] = str(out_path)
+            report["download"]["status"] = "ok"
+            report["download"]["error"] = None
+            item["report"] = report
+            print(f"DOWNLOADED {ticker}: {out_path.name} ({msg})", flush=True)
 
-    if new_rows:
-        manifest.extend(new_rows)
-        _save_manifest(manifest)
-        print(f"Saved manifest: {MANIFEST_FILE}", flush=True)
-    else:
-        print("No downloads performed.", flush=True)
+    # Persist updates
+    companies_path.write_text(json.dumps(items, ensure_ascii=False, indent=2))
+    print(f"Updated {companies_path}", flush=True)
 
 
 if __name__ == "__main__":

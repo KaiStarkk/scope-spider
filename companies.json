@@ -2025,82 +2025,442 @@
   {
     "name": "Hansen Technologies Ltd.",
     "ticker": "HSN-AU",
-    "report": null
+    "report": {
+      "url": "https://company-announcements.afr.com/asx/hsn/f8896e2f-7d4b-11f0-a14a-aaf2b0bbb5d6.pdf",
+      "title": "Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "Annual Report 2025.pdf",
+      "year": "2025",
+      "data": {
+        "scope_1": 0,
+        "scope_2": 0,
+        "scope_3": 0,
+        "qualifiers": "Specific Scope 1 and Scope 2 emissions data not provided in the available sources."
+      }
+    }
   },
   {
     "name": "Imdex Ltd.",
     "ticker": "IMD-AU",
-    "report": null
+    "report": {
+      "url": "https://announcements.asx.com.au/asxpdf/20250925/pdf/06pmwdxz5d7x0t.pdf",
+      "title": "PDF FY25 SUSTAINABILITY REPORT For personal use only",
+      "filetype": "pdf",
+      "filename": "06pmwdxz5d7x0t.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Imdex Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://announcements.asx.com.au/asxpdf/20250925/pdf/06pmwdxz5d7x0t.pdf",
+              "title": "PDF FY25 SUSTAINABILITY REPORT For personal use only",
+              "why": "2025 match, keyword match"
+            },
+            {
+              "url": "https://wcsecure.weblink.com.au/pdf/IMD/02421622.pdf",
+              "title": "PDF IMDEX Presentation FY21 Sustainability Report",
+              "why": "keyword match"
+            },
+            {
+              "url": "https://company-announcements.afr.com/asx/imd/fbed1d51-89a9-11ef-ba65-ea6cbae4b31f.pdf",
+              "title": "PDF Fy24 Sustainability Report",
+              "why": "keyword match"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Lynas Rare Earths Ltd.",
     "ticker": "LYC-AU",
-    "report": null
+    "report": {
+      "url": "https://lynasrareearths.com/wp-content/uploads/2025/10/LYC-Sustainability-Report-2025-Oct25V2-1.pdf",
+      "title": "PDF 2025 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "LYC-Sustainability-Report-2025-Oct25V2-1.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Lynas Rare Earths Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://lynasrareearths.com/wp-content/uploads/2025/10/LYC-Sustainability-Report-2025-Oct25V2-1.pdf",
+              "title": "PDF 2025 Sustainability Report",
+              "why": "2025 match, keyword match"
+            },
+            {
+              "url": "https://lynasrareearths.com/wp-content/uploads/2020/10/LYC-Sustainability-Report-Web-update.pdf",
+              "title": "PDF 2020 SUSTAINABILITY REPORT - Lynas",
+              "why": "keyword match"
+            },
+            {
+              "url": "https://announcements.asx.com.au/asxpdf/20241011/pdf/068zpg0hnxvnft.pdf",
+              "title": "PDF 2024 Environmental, Social and Governance (ESG) Report",
+              "why": "keyword match"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Cromwell Property Group",
     "ticker": "CMW-AU",
-    "report": null
+    "report": {
+      "url": "https://www.cromwellpropertygroup.com/wp-content/uploads/sites/3/2025/08/FY25-ESG-Report.pdf",
+      "title": "Cromwell Property Group FY25 ESG Report",
+      "filetype": "pdf",
+      "filename": "FY25-ESG-Report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Cromwell Property Group 2025 ESG report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.cromwellpropertygroup.com/wp-content/uploads/sites/3/2025/08/FY25-ESG-Report.pdf",
+              "title": "Cromwell Property Group FY25 ESG Report",
+              "why": "Direct link to the official 2025 ESG report in PDF format on Cromwell's website.",
+              "snippet": "Cromwell Property Group's FY25 ESG Report."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Noumi Ltd.",
     "ticker": "NOU-AU",
-    "report": null
+    "report": {
+      "url": "https://noumi.com.au/wp-content/uploads/Annual-Report-2025.pdf",
+      "title": "Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "Annual-Report-2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Noumi Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://noumi.com.au/wp-content/uploads/Annual-Report-2025.pdf",
+              "title": "Annual Report 2025",
+              "why": "This is Noumi Ltd.'s official 2025 Annual Report, which includes sustainability information.",
+              "snippet": "The positive progress has driven improved earnings and cash flows, supported by effective management of working capital and disciplined decisions over capital expenditure.\n\nNoumi’s performance was bolstered by strong branded results in Dairy, particularly from Milklab Lactose Free, growing by 8.4% compared to the previous year. Sales of Australia’s Own dairy continued to rise, led by products such as Lowers Cholesterol, which saw a 32.9% increase versus FY24.\n\nA solid result and third consecutive EBITDA improvement for Dairy & Nutritionals.\n\nExport sales volumes declined as Noumi responded to shifting consumer demand by focusing on value-added Dairy, exiting lower value business and focusing on more profitable product formats.\n\nLactoferrin production and performance were more consistent in FY25 than in FY24. While demand remained strong, yields slightly decreased as Noumi diversified its customer base in response to rising international demand.\n\n31\n30\nNoumi Annual Report 2025\nDairy & Nutritionals\n\nOUR SUSTAINABILITY REPORT\n\nOUR HEALTHIER TOMORROW PLAN\n\nFollowing a rigorous consultation process, Noumi has developed new sustainability targets, longer term goals and reporting methodologies to ensure the Company’s environmental stewardship will stand the test of time while also being financially sustainable.\n\nNoumi’s Healthier Tomorrow Plan aims to deliver sustainable growth across all aspects of our operations and details our goals, targets, metrics and performance for FY25 across the Company’s full value chain, including manufacturing operations in Ingleburn (New South Wales) and in Shepparton (Victoria).\n\nImagining a Healthier Tomorrow is Noumi’s strategic purpose and our guiding light as we seek to create a positive impact by promoting:\n\nThis Annual Report closes out several targets and goals reported previously to prepare for targeted reporting to the requirements of AASB S2 in FY26.\n\nThe start of FY25 presented Noumi with an opportunity to reflect on the Company’s longer-term Environmental, Social and Governance (ESG) goals and to align with requirements of the Australian Accounting Standards Board’s (AASB) new sustainability standards, S1 and S2. Noumi has focused on nine of the United Nations Sustainable Development Goals (SDGs) where we believe we can make the most direct and positive impact.\n\nThe following sections include forward-looking statements related to potential future events and should not be interpreted as a guarantee of Noumi’s future operational or financial performance. The information provided has been developed based on data available at the time of the report’s date of release.\n\nHEALTHIER LIFESTYLE\n\nHEALTHIER PLANET\n\nHEALTHIER WORKPLACE\n\nFor our consumers & communities\n\nThrough our farmers & production processes\n\nFor our people & stakeholders\n\nTHESE PRINCIPLES are the foundation of our future as we seek to drive continuous positive change.\n\n32\n33\nNoumi Annual Report 2025\nSustainability\n\nHEALTHIER LIFESTYLE\n\nQUALITY & FOOD SAFETY\n\nCOMMUNITY ENGAGEMENT\n\nRESPONSIBLE ADVERTISING AND MARKETING\n\nNoumi is committed to supporting the communities in which we operate, actively engaging with local initiatives and charities for donations or financial support.\n\nWe take great care and responsibility in how we market, promote and advertise Noumi products. We will not seek to mislead our consumers through false, exaggerated or ambiguous claims.\n\nFood Safety and Quality is everyone’s responsibility at Noumi and is the foundation for our ongoing success. Our Quality Policy underpins robust quality management systems guided by international best practices to ensure compliance in all our markets.\n\nconsumer health through more nutritious products"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Grange Resources Ltd.",
     "ticker": "GRR-AU",
-    "report": null
+    "report": {
+      "url": "https://announcements.asx.com.au/asxpdf/20250228/pdf/06g3vl9c2zrmz5.pdf",
+      "title": "Grange Resources Limited ESG Report – Baseline",
+      "filetype": "pdf",
+      "filename": "06g3vl9c2zrmz5.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Grange Resources Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://announcements.asx.com.au/asxpdf/20250228/pdf/06g3vl9c2zrmz5.pdf",
+              "title": "Grange Resources Limited ESG Report – Baseline",
+              "why": "Direct link to the 2025 ESG report in PDF format from the official ASX announcements page.",
+              "snippet": "Grange Resources Limited ESG Report – Baseline"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Westgold Resources Ltd.",
     "ticker": "WGX-AU",
-    "report": null
+    "report": {
+      "url": "https://www.westgold.com.au/pdf/c69c8e82-3a58-4c4a-bf83-7cb2859e6fcd/2024-Sustainability-Report.pdf",
+      "title": "SUSTAINABILITY REPORT 2024",
+      "filetype": "pdf",
+      "filename": "2024-Sustainability-Report.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Westgold Resources Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.westgold.com.au/pdf/c69c8e82-3a58-4c4a-bf83-7cb2859e6fcd/2024-Sustainability-Report.pdf",
+              "title": "SUSTAINABILITY REPORT 2024",
+              "why": "This is the most recent sustainability report available, covering the financial year ending 30 June 2024.",
+              "snippet": "Westgold Resources Limited (ACN 009 260 306) is pleased to present its 2024 Sustainability Report. This report details the company’s sustainability performance for the financial year ending 30 June 2024, and is intended for a diverse range of stakeholders including investors, employees, communities and regulators."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Paladin Energy Ltd.",
     "ticker": "PDN-AU",
-    "report": null
+    "report": {
+      "url": "https://www.paladinenergy.com.au/wp-content/uploads/2025/10/Paladin-Energy-Ltd-2025-Sustainability-Report.pdf",
+      "title": "2025 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "Paladin-Energy-Ltd-2025-Sustainability-Report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Paladin Energy Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.paladinenergy.com.au/wp-content/uploads/2025/10/Paladin-Energy-Ltd-2025-Sustainability-Report.pdf",
+              "title": "2025 Sustainability Report",
+              "why": "Direct link to the official 2025 Sustainability Report in PDF format on Paladin Energy's website.",
+              "snippet": "Paladin Energy Ltd's official 2025 Sustainability Report in PDF format."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Regis Resources Ltd.",
     "ticker": "RRL-AU",
-    "report": null
+    "report": {
+      "url": "https://regisresources.com.au/wp-content/uploads/2025/01/Regis-SR24-22.10.24-singles.pdf",
+      "title": "Regis Resources Limited Sustainability Report 2024",
+      "filetype": "pdf",
+      "filename": "Regis-SR24-22.10.24-singles.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Regis Resources Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://regisresources.com.au/wp-content/uploads/2025/01/Regis-SR24-22.10.24-singles.pdf",
+              "title": "Regis Resources Limited Sustainability Report 2024",
+              "why": "Direct link to the 2024 Sustainability Report in PDF format on the official Regis Resources website.",
+              "snippet": "Regis Resources Limited Sustainability Report 2024"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Axiom Properties Ltd.",
     "ticker": "AXI-AU",
-    "report": null
+    "report": {
+      "url": "https://www.axiompl.com.au/media/uploads/files/Annual%20Report/Annual-Report-2024.pdf",
+      "title": "Annual Report 2023–2024",
+      "filetype": "pdf",
+      "filename": "Annual-Report-2024.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Axiom Properties Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.axiompl.com.au/media/uploads/files/Annual%20Report/Annual-Report-2024.pdf",
+              "title": "Annual Report 2023–2024",
+              "why": "This is the most recent annual report available, published in August 2025, covering the financial year ending June 30, 2024.",
+              "snippet": "James Service AM Chairman Axiom Properties Limited / Annual Report 2023–2024 5 Managing Director’s Review provides an affordable living option relative to other parts of Australia and we continue to experience significant demand for our lots given these current issues."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Ainsworth Game Technology Ltd.",
     "ticker": "AGI-AU",
-    "report": null
+    "report": {
+      "url": "https://www.agtslots.com/assets/investor/financial%20reports/2025/ASX-Release---Annual-Report--Year-Ended-31.12.24-28.04.25.pdf",
+      "title": "Annual Report Year Ended 31 December 2024",
+      "filetype": "pdf",
+      "filename": "ASX-Release---Annual-Report--Year-Ended-31.12.24-28.04.25.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Ainsworth Game Technology Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.agtslots.com/assets/investor/financial%20reports/2025/ASX-Release---Annual-Report--Year-Ended-31.12.24-28.04.25.pdf",
+              "title": "Annual Report Year Ended 31 December 2024",
+              "why": "This is the official annual report for the year ending 31 December 2024, published on 28 April 2025, and includes the Sustainability Statement.",
+              "snippet": "ANNUAL REPORT\nYEAR ENDED 31 DECEMBER 2024\n\nANNUAL REPORT\nAINSWORTH GAME TECHNOLOGY LIMITED\n\nContents\n\nShareholder Information\n\nFinancial Highlights\n\n2\n\n24\n\n26\n\nDirectors’ Report\n\nPerformance Overview\n\n3\n\n58\n\nFinancial Statements\n\nProduct Overview\n\n4\n\n62\n\nNotes to the Financial Statements\n\nGame Studios\n\n11\n\n121\n\nConsolidated Entity Disclosure Statement\n\nSustainability Statement\n\n12\n\nDirectors’ Declaration\n\nBoard of Directors and Executives\n\n16\n\n122\n\nIndependent Auditor’s Report\n\nChairperson’s Report\n\n123\n\nLead Auditor’s Independence Declaration\n\nChief Executive Officer’s Report\n\n20\n\n127\n\nCorporate Directory\n\n128\n\nNotice of Annual General Meeting"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "SKS Technologies Group Ltd.",
     "ticker": "SKS-AU",
-    "report": null
+    "report": {
+      "url": "https://company-announcements.afr.com/asx/sks/67e0a151-94fd-11f0-8027-6a80d60ebacd.pdf",
+      "title": "SKS Technologies Group Limited Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "67e0a151-94fd-11f0-8027-6a80d60ebacd.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "SKS Technologies Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://company-announcements.afr.com/asx/sks/67e0a151-94fd-11f0-8027-6a80d60ebacd.pdf",
+              "title": "SKS Technologies Group Limited Annual Report 2025",
+              "why": "This is the official annual report for 2025, which includes sustainability and ESG information.",
+              "snippet": "The new fleet vehicles are also equipped with the most advanced driving safety features to provide safe travel for all employees. The fleet now comprises 100 vehicles, including Hyundai Staria Vans and Mitsubishi Triton Utes.\n\nIn FY25, the business’s carbon footprint was reduced by 15% through innovative energy efficiency measures and increased renewable energy usage. Waste management measures also resulted in a 20% reduction in landfill waste by recycling and reusing materials, while water conservation efforts led to a 10% decrease in consumption from FY24. Additionally, the company expanded its eco-friendly product portfolio, incorporating more sustainable materials to minimize its impact. All environmental efforts are aligned with the global standards of the ISO 14001 certification."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Australian Agricultural Co. Ltd.",
     "ticker": "AAC-AU",
-    "report": null
+    "report": {
+      "url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kvxrrr960yx4.pdf",
+      "title": "Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "06kvxrrr960yx4.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Australian Agricultural Co. Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kvxrrr960yx4.pdf",
+              "title": "Annual Report 2025",
+              "why": "This is the official 2025 Annual Report from Australian Agricultural Company Limited, containing sustainability information.",
+              "snippet": "The report includes sections on sustainability, financial performance, and strategic initiatives."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Lindsay Australia Ltd.",
     "ticker": "LAU-AU",
-    "report": null
+    "report": {
+      "url": "https://announcements.asx.com.au/asxpdf/20250825/pdf/06n81lymrvcmkx.pdf",
+      "title": "Lindsay Australia Limited Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "06n81lymrvcmkx.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Lindsay Australia Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://announcements.asx.com.au/asxpdf/20250825/pdf/06n81lymrvcmkx.pdf",
+              "title": "Lindsay Australia Limited Annual Report 2025",
+              "why": "This is the official 2025 Annual Report from Lindsay Australia Limited, available on the ASX website.",
+              "snippet": "The division gained market share in southern markets and strengthened its position in the Wide Bay region, supported by its service model, disciplined pricing and optimised product mix."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Insignia Financial Ltd.",
     "ticker": "IFL-AU",
-    "report": null
+    "report": {
+      "url": "https://www.insigniafinancial.com.au/content/dam/ifl/docs/sustainability-report-2024.pdf",
+      "title": "Insignia Financial Sustainability Report 2024",
+      "filetype": "pdf",
+      "filename": "sustainability-report-2024.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Insignia Financial Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.insigniafinancial.com.au/content/dam/ifl/docs/sustainability-report-2024.pdf",
+              "title": "Insignia Financial Sustainability Report 2024",
+              "why": "This is the most recent sustainability report available, published in October 2024.",
+              "snippet": "Insignia Financial Ltd released its Sustainability Report on 17 October 2024, referenced in both its Annual Report and Corporate Governance Statement."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "BWP Trust",
     "ticker": "BWP-AU",
-    "report": null
+    "report": {
+      "url": "https://bwptrust.com.au/site/pdf/d8f0aaee-f674-4511-be83-6e5c47eafa47/2024-Annual-Report.pdf",
+      "title": "BWP Trust Annual Report 2024",
+      "filetype": "pdf",
+      "filename": "2024-Annual-Report.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "BWP Trust 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://bwptrust.com.au/site/pdf/d8f0aaee-f674-4511-be83-6e5c47eafa47/2024-Annual-Report.pdf",
+              "title": "BWP Trust Annual Report 2024",
+              "why": "The latest available report is the 2024 Annual Report, which includes sustainability information for the year ending 30 June 2024.",
+              "snippet": "BWP Trust Annual Report 2024\nPublished: 2 months ago;"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "New Hope Corp. Ltd.",
@@ -2110,82 +2470,434 @@
   {
     "name": "Charter Hall Retail REIT",
     "ticker": "CQR-AU",
-    "report": null
+    "report": {
+      "url": "https://www.charterhall.com.au/annualreports/2025-sustainability-report.pdf",
+      "title": "2025 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "2025-sustainability-report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Charter Hall Retail REIT 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.charterhall.com.au/annualreports/2025-sustainability-report.pdf",
+              "title": "2025 Sustainability Report",
+              "why": "Direct link to the official 2025 sustainability report in PDF format.",
+              "snippet": "Charter Hall's 2025 Sustainability Report provides comprehensive insights into their environmental, social, and governance initiatives for the year."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Carindale Property Trust",
     "ticker": "CDP-AU",
-    "report": null
+    "report": {
+      "url": "https://www.carindalepropertytrust.com.au/wp-content/uploads/2024/08/CDP-Annual-Report-2024.pdf",
+      "title": "Carindale Property Trust 2024 Annual Report",
+      "filetype": "pdf",
+      "filename": "CDP-Annual-Report-2024.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Carindale Property Trust 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.carindalepropertytrust.com.au/wp-content/uploads/2024/08/CDP-Annual-Report-2024.pdf",
+              "title": "Carindale Property Trust 2024 Annual Report",
+              "why": "This is the most recent annual report available, published in August 2024.",
+              "snippet": "This amends AASB 101 Presentation of Financial Statements to improve the information an entity provides in its financial statements about liabilities arising from loan arrangements for which the entity’s right to defer settlement of those liabilities for at least twelve months after the reporting period is subject to the entity complying with conditions specified in the loan arrangement. This amendment is not expected to have a significant impact on the financial statements on application."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Iress Ltd.",
     "ticker": "IRE-AU",
-    "report": null
+    "report": {
+      "url": "https://www.iress.com/media/documents/IRESS_Annual_Report_2024.pdf",
+      "title": "Iress Limited Annual Report 2024",
+      "filetype": "pdf",
+      "filename": "IRESS_Annual_Report_2024.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Iress Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.iress.com/media/documents/IRESS_Annual_Report_2024.pdf",
+              "title": "Iress Limited Annual Report 2024",
+              "why": "The latest available report is the 2024 Annual Report, which includes sustainability information.",
+              "snippet": "Iress Limited Annual Report 2024"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Breville Group Ltd.",
     "ticker": "BRG-AU",
-    "report": null
+    "report": {
+      "url": "https://brevillegroup.com/wp-content/uploads/2025/08/Annual-Report-2025.pdf",
+      "title": "Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "Annual-Report-2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Breville Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://brevillegroup.com/wp-content/uploads/2025/08/Annual-Report-2025.pdf",
+              "title": "Annual Report 2025",
+              "why": "This is the official 2025 Annual Report from Breville Group Ltd., which includes their sustainability and ESG information.",
+              "snippet": "The Annual Report 2025 is available on Breville Group Ltd.'s official website."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Gale Pacific Ltd.",
     "ticker": "GAP-AU",
-    "report": null
+    "report": {
+      "url": "https://www.galepacific.com/uploads/gale_corporate/documents/GAP_ASX_Announcement_-_240829_-_FY24_Annual_Report.pdf",
+      "title": "Gale Pacific Limited FY24 Annual Report",
+      "filetype": "pdf",
+      "filename": "GAP_ASX_Announcement_-_240829_-_FY24_Annual_Report.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Gale Pacific Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.galepacific.com/uploads/gale_corporate/documents/GAP_ASX_Announcement_-_240829_-_FY24_Annual_Report.pdf",
+              "title": "Gale Pacific Limited FY24 Annual Report",
+              "why": "This is the most recent annual report available, published on August 29, 2024, covering the fiscal year ending June 30, 2024.",
+              "snippet": "Gale Pacific Limited FY24 Annual Report"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Technology One Ltd.",
     "ticker": "TNE-AU",
-    "report": null
+    "report": {
+      "url": "https://company-announcements.afr.com/asx/tne/05437107-bc30-11ef-8dc1-da46b5073956.pdf",
+      "title": "TechnologyOne Sustainability Report 2024",
+      "filetype": "pdf",
+      "filename": "05437107-bc30-11ef-8dc1-da46b5073956.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Technology One Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://company-announcements.afr.com/asx/tne/05437107-bc30-11ef-8dc1-da46b5073956.pdf",
+              "title": "TechnologyOne Sustainability Report 2024",
+              "why": "This is the most recent sustainability report available, covering the period from October 1, 2023, to September 30, 2024.",
+              "snippet": "In this report, a reference to ‘TechnologyOne’, ‘Company’, ‘we’, and ‘our’ is to Technology One Limited (ABN 84 010 487 180) and our controlled entities as outlined in our 2024 Annual Report, unless otherwise stated."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "PRL Global Ltd.",
     "ticker": "PRG-AU",
-    "report": null
+    "report": {
+      "url": "https://company-announcements.afr.com/asx/prg/b7025c2a-81ff-11f0-8c97-9ec1d8f4dacb.pdf",
+      "title": "PRL Global Ltd 2025 Annual Report",
+      "filetype": "pdf",
+      "filename": "b7025c2a-81ff-11f0-8c97-9ec1d8f4dacb.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "PRL Global Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://company-announcements.afr.com/asx/prg/b7025c2a-81ff-11f0-8c97-9ec1d8f4dacb.pdf",
+              "title": "PRL Global Ltd 2025 Annual Report",
+              "why": "This is the official 2025 Annual Report of PRL Global Ltd., which includes sustainability information.",
+              "snippet": "Since 2020, the Group has been publishing an annual Sustainability Report setting out the sustainability performance of the group across environmental and social risks and an annual Modern Slavery Statement which also addresses social risks."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "JB Hi-Fi Ltd.",
     "ticker": "JBH-AU",
-    "report": null
+    "report": {
+      "url": "https://announcements.asx.com.au/asxpdf/20250811/pdf/06mqqng279f3k4.pdf",
+      "title": "JB Hi-Fi Limited Sustainability Report 2025",
+      "filetype": "pdf",
+      "filename": "06mqqng279f3k4.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "JB Hi-Fi Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://announcements.asx.com.au/asxpdf/20250811/pdf/06mqqng279f3k4.pdf",
+              "title": "JB Hi-Fi Limited Sustainability Report 2025",
+              "why": "Direct link to the official 2025 Sustainability Report in PDF format.",
+              "snippet": "The Company has released its 2025 Sustainability Report to the ASX and this Report can be found on the Company’s investor website at https://investors.jbhifi.com.au/sustainability."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Vault Minerals Ltd.",
     "ticker": "VAU-AU",
-    "report": null
+    "report": {
+      "url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lds08v7hs31z.pdf",
+      "title": "Preliminary Q4 and FY25 Sales Results",
+      "filetype": "pdf",
+      "filename": "06lds08v7hs31z.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Vault Minerals Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lds08v7hs31z.pdf",
+              "title": "Preliminary Q4 and FY25 Sales Results",
+              "why": "This document provides preliminary sales results for Q4 and FY25, but does not appear to be a sustainability or ESG report.",
+              "snippet": "Preliminary Q4 gold sales of 95,974 ounces for FY25 sales of 385,230 ounces, marginally (1.2%) below the lower end of FY25 sales guidance."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Charter Hall Social Infrastructure REIT",
     "ticker": "CQE-AU",
-    "report": null
+    "report": {
+      "url": "https://www.charterhall.com.au/Sustainability/2025-Sustainability-Report.pdf",
+      "title": "2025 Sustainability Report - Five years of progress",
+      "filetype": "pdf",
+      "filename": "2025-Sustainability-Report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Charter Hall Social Infrastructure REIT 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.charterhall.com.au/Sustainability/2025-Sustainability-Report.pdf",
+              "title": "2025 Sustainability Report - Five years of progress",
+              "why": "Direct link to the 2025 Sustainability Report in PDF format on the official Charter Hall website.",
+              "snippet": "Five years ago, we set our first sustainability targets. Since then, we’ve accelerated many of them, achieving our targets ahead of schedule, and deepening our impact."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Super Retail Group Ltd.",
     "ticker": "SUL-AU",
-    "report": null
+    "report": {
+      "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n3s0jvq1nklm.pdf",
+      "title": "2025 Responsible Business Report",
+      "filetype": "pdf",
+      "filename": "06n3s0jvq1nklm.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Super Retail Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n3s0jvq1nklm.pdf",
+              "title": "2025 Responsible Business Report",
+              "why": "Direct link to the 2025 Responsible Business Report in PDF format.",
+              "snippet": "Our 2030 Sustainability Framework\n\nKey considerations and challenges discussed during this review were:\n\n2025 RESPONSIBLE BUSINESS REPORT\n\nThe increasingly complex legal and regulatory environment as a driver of mandatory reporting and assurance activity, including expanded reporting and assurance expectations related to climate and modern slavery.\n\nAt Super Retail Group, our vision is to inspire people to live their passion. To deliver on this, we take a purpose-led, risk-based approach to building a sustainable business that responsibly considers how we manage our impact on people and the planet. By doing so, we achieve better outcomes and create long-term stakeholder value.\n\nThe 'Social Licence to Operate' as a key driver of voluntary goals, along with team member expectations, in line with our values.\n\nWe are adapting to a changing world, global economy and social expectations.\n\nSupply chain transparency (human rights, raw materials, product traceability) as an expectation of investors, team members, regulators and society at large.\n\nWe aim to steward the Group sustainably, and inclusively for our stakeholders. Responsible principles are embedded into our strategy, guiding how we set direction, make decisions, manage risks, seize opportunities and invest capital.\n\nIncreased regulatory scrutiny of sustainability-based claims that highlight the need for clear, accurate, and meaningful communication and reporting.\n\nInvestor expectations about sustainability as a key value driver and risk mitigator.\n\nOur 2030 Sustainability Framework (Framework), developed in 2022 through stakeholder engagement, clarified where the Group can make the greatest difference. It strengthened confidence in our sustainability priorities and drove a significant uplift in our focus and activity across the business.\n\nCosts to deliver on our sustainability commitments are increasing in several areas, including technology, audit and consulting, and internal resourcing.\n\nThe broad spectrum of key stakeholders whose objectives may at times differ or even conflict. These include investors, customers, trade partners, regulators, our Board of Directors, team members, non-government and community organisations, and various industry groups.\n\nThe Framework also provides the basis for setting executive and senior management Key Performance Indicators (KPIs), which embed the Framework’s goals and targets into leadership accountability and business performance. Through the Group’s performance planning and review process, these KPIs flow through the business to ensure delivery across the organisation. This alignment encourages broader, longer-term thinking, mitigating risk and reinforcing to our stakeholders that sustainability is an integral part of the Group’s overarching vision."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Data#3 Ltd.",
     "ticker": "DTL-AU",
-    "report": null
+    "report": {
+      "url": "https://www.data3.com/wp-content/uploads/2024/09/Sustainability-Report-2024.pdf",
+      "title": "Data#3 Sustainability Report 2024",
+      "filetype": "pdf",
+      "filename": "Sustainability-Report-2024.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Data#3 Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.data3.com/wp-content/uploads/2024/09/Sustainability-Report-2024.pdf",
+              "title": "Data#3 Sustainability Report 2024",
+              "why": "The latest available report is for FY24, published in September 2024.",
+              "snippet": "The Data#3 Sustainability Report 2024 highlights our commitment to ethical practices, social responsibility, and environmental goals."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Virgin Australia Holdings Ltd.",
     "ticker": "VGN-AU",
-    "report": null
+    "report": {
+      "url": "https://www.virginaustralia.com/content/dam/vaa/documents/investor-centre/vgn-annual-report-fy25.pdf",
+      "title": "Virgin Australia Holdings Limited 2025 Annual Report",
+      "filetype": "pdf",
+      "filename": "vgn-annual-report-fy25.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Virgin Australia Holdings Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.virginaustralia.com/content/dam/vaa/documents/investor-centre/vgn-annual-report-fy25.pdf",
+              "title": "Virgin Australia Holdings Limited 2025 Annual Report",
+              "why": "This is the official 2025 Annual Report from Virgin Australia Holdings Limited, which includes sustainability information.",
+              "snippet": "The 2025 Annual Report includes a section on sustainability, detailing the company's environmental and social initiatives."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Abacus Group",
     "ticker": "ABG-AU",
-    "report": null
+    "report": {
+      "url": "https://abacusgroup.com.au/wp-content/uploads/2025/09/ABG-FY25-Sustainability-Report.pdf",
+      "title": "Abacus Group FY25 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "ABG-FY25-Sustainability-Report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Abacus Group 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://abacusgroup.com.au/wp-content/uploads/2025/09/ABG-FY25-Sustainability-Report.pdf",
+              "title": "Abacus Group FY25 Sustainability Report",
+              "why": "Direct link to the official 2025 sustainability report in PDF format.",
+              "snippet": "The Abacus Group FY25 Sustainability Report is available for download in PDF format."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Boom Logistics Ltd.",
     "ticker": "BOL-AU",
-    "report": null
+    "report": {
+      "url": "https://www.boomlogistics.com.au/wp-content/uploads/2025/08/Annual-Report-to-Shareholders-22.08.2025.pdf",
+      "title": "Annual Report to Shareholders",
+      "filetype": "pdf",
+      "filename": "Annual-Report-to-Shareholders-22.08.2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Boom Logistics Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.boomlogistics.com.au/wp-content/uploads/2025/08/Annual-Report-to-Shareholders-22.08.2025.pdf",
+              "title": "Annual Report to Shareholders",
+              "why": "This is the official 2025 Annual Report from Boom Logistics Ltd., which includes sustainability and ESG information.",
+              "snippet": "Boom Logistics Limited (ASX: BOL, “Boom” or “the Company”), a diversified lifting and project logistics business, announces its results for the 12 months ended 30 June 2025 (FY25)."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Lake Resources NL",
     "ticker": "LKE-AU",
-    "report": null
+    "report": {
+      "url": "https://media.abnnewswire.net/media/en/reports_gallery/rpt/ASX-LKE-2A1624604.pdf",
+      "title": "Annual Report to Shareholders",
+      "filetype": "pdf",
+      "filename": "ASX-LKE-2A1624604.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Lake Resources NL 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://media.abnnewswire.net/media/en/reports_gallery/rpt/ASX-LKE-2A1624604.pdf",
+              "title": "Annual Report to Shareholders",
+              "why": "This is the most recent annual report available, published on 26 September 2025.",
+              "snippet": "ASX Announcement\n\nAnnual Report to shareholders\nPublished: 26/09/25, 04:51pm (AEST)•120 pages\n\nLake Resources NL\n\nLKE:ASX•Basic Materials"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Amplitude Energy Ltd.",
@@ -2195,7 +2907,29 @@
   {
     "name": "Ramelius Resources Ltd.",
     "ticker": "RMS-AU",
-    "report": null
+    "report": {
+      "url": "https://www.rameliusresources.com.au/wp-content/uploads/bsk-pdf-manager/2025/10/2025-Sustainability-Report.pdf",
+      "title": "2025 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "2025-Sustainability-Report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Ramelius Resources Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.rameliusresources.com.au/wp-content/uploads/bsk-pdf-manager/2025/10/2025-Sustainability-Report.pdf",
+              "title": "2025 Sustainability Report",
+              "why": "Direct link to the 2025 Sustainability Report in PDF format on the official Ramelius Resources website.",
+              "snippet": "The 2025 Sustainability Report is available for download in PDF format on the official Ramelius Resources website."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Helloworld Travel Ltd.",
@@ -2205,7 +2939,29 @@
   {
     "name": "Credit Corp. Group Ltd.",
     "ticker": "CCP-AU",
-    "report": null
+    "report": {
+      "url": "https://www.creditcorpgroup.com.au/media/1919/asx-5-august-2025-ccp-annual-report-2025.pdf",
+      "title": "Credit Corp Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "asx-5-august-2025-ccp-annual-report-2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Credit Corp. Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.creditcorpgroup.com.au/media/1919/asx-5-august-2025-ccp-annual-report-2025.pdf",
+              "title": "Credit Corp Annual Report 2025",
+              "why": "This is the official 2025 Annual Report from Credit Corp Group Ltd., which includes their sustainability section.",
+              "snippet": "Sustainability governance\n\nIn FY2023 we established an Environment, Social and Governance (ESG) Working Group to formalise our strategic approach to ESG matters and strengthen sustainability policies, principles and practices.\n\nThe ESG Working Group reports to the Board at least three times per year on a range of ESG matters including progress and performance. It comprises representatives from across the business, including the CEO. Key focus areas include updating our ESG materiality assessment, evaluating ESG risks and opportunities, reviewing our Sustainability Framework, and strengthening our reporting – particularly in relation to new climate-related disclosure requirements effective in FY2026."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Resimac Group Ltd.",
@@ -2215,12 +2971,56 @@
   {
     "name": "WEB Travel Group Ltd.",
     "ticker": "WEB-AU",
-    "report": null
+    "report": {
+      "url": "https://webtravelgroup.sfo2.cdn.digitaloceanspaces.com/public/ASX-Announcements/WEB_ASX_05_28_25_FY25_Sustainability-Report-v2.pdf",
+      "title": "FY25 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "WEB_ASX_05_28_25_FY25_Sustainability-Report-v2.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "WEB Travel Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://webtravelgroup.sfo2.cdn.digitaloceanspaces.com/public/ASX-Announcements/WEB_ASX_05_28_25_FY25_Sustainability-Report-v2.pdf",
+              "title": "FY25 Sustainability Report",
+              "why": "Direct link to the official 2025 Sustainability Report in PDF format from the company's official domain.",
+              "snippet": "This report reflects Web Travel Group Limited’s management and performance on key environmental, social and governance (ESG) topics identified as material to the business and our stakeholders for the FY25 reporting period (1 April 2024 to 31 March 2025)."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "REA Group Ltd.",
     "ticker": "REA-AU",
-    "report": null
+    "report": {
+      "url": "https://cdn.rea-group.com/wp-content/uploads/2025/08/06081028/REA-Group-Sustainability-Materiality-Report-2025.pdf",
+      "title": "REA Group Sustainability Materiality Report 2025",
+      "filetype": "pdf",
+      "filename": "REA-Group-Sustainability-Materiality-Report-2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "REA Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://cdn.rea-group.com/wp-content/uploads/2025/08/06081028/REA-Group-Sustainability-Materiality-Report-2025.pdf",
+              "title": "REA Group Sustainability Materiality Report 2025",
+              "why": "Direct link to the 2025 Sustainability Materiality Report in PDF format.",
+              "snippet": "REA Group's 2025 Sustainability Materiality Report."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Domino'S Pizza Enterprises Ltd.",
@@ -2230,27 +3030,137 @@
   {
     "name": "GPT Group",
     "ticker": "GPT-AU",
-    "report": null
+    "report": {
+      "url": "https://sustainability.gpt.com.au/wp-content/uploads/2025/02/GPT0046-GPT-CNDS25_PFO_Web.pdf",
+      "title": "Climate and Nature Disclosure Statement 2024",
+      "filetype": "pdf",
+      "filename": "GPT0046-GPT-CNDS25_PFO_Web.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "GPT Group 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://sustainability.gpt.com.au/wp-content/uploads/2025/02/GPT0046-GPT-CNDS25_PFO_Web.pdf",
+              "title": "Climate and Nature Disclosure Statement 2024",
+              "why": "Direct link to the 2024 Climate and Nature Disclosure Statement in PDF format.",
+              "snippet": "GPT's Climate and Nature Disclosure Statement 2024."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "IGO Ltd.",
     "ticker": "IGO-AU",
-    "report": null
+    "report": {
+      "url": "https://www.igo.com.au/site/pdf/f40bdb2b-fd4c-4d87-8ffb-ec235132f8ad/2025-Sustainability-Report.pdf",
+      "title": "2025 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "2025-Sustainability-Report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "IGO Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.igo.com.au/site/pdf/f40bdb2b-fd4c-4d87-8ffb-ec235132f8ad/2025-Sustainability-Report.pdf",
+              "title": "2025 Sustainability Report",
+              "why": "Direct link to the official 2025 Sustainability Report in PDF format on IGO's official website.",
+              "snippet": "The report has been prepared in accordance with the Global Reporting Initiative (GRI) Sustainability Reporting Standards 2021 and the Recommendations of the Taskforce on Climate-Related Financial Disclosures."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Goodman Group",
     "ticker": "GMG-AU",
-    "report": null
+    "report": {
+      "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n3yv7p9pp64z.pdf",
+      "title": "Goodman Group 2025 Annual Report",
+      "filetype": "pdf",
+      "filename": "06n3yv7p9pp64z.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Goodman Group 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n3yv7p9pp64z.pdf",
+              "title": "Goodman Group 2025 Annual Report",
+              "why": "This is the official Goodman Group 2025 Annual Report, which includes the sustainability report.",
+              "snippet": "The three pillars of our 2030 sustainability strategy\nUNSDGs\nSUSTAINABLE PROPERTIES & PLACES\nPEOPLE, CULTURE & COMMUNITY\nCORPORATE GOVERNANCE & PERFORMANCE"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Metcash Ltd.",
     "ticker": "MTS-AU",
-    "report": null
+    "report": {
+      "url": "https://www.metcash.com/wp-content/uploads/2023/08/20838_Metcash_SR23_FINAL-compressed.pdf",
+      "title": "Metcash Limited 2023 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "20838_Metcash_SR23_FINAL-compressed.pdf",
+      "year": "2023",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Metcash Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.metcash.com/wp-content/uploads/2023/08/20838_Metcash_SR23_FINAL-compressed.pdf",
+              "title": "Metcash Limited 2023 Sustainability Report",
+              "why": "This is the most recent sustainability report available, published in August 2023.",
+              "snippet": "Metcash Limited's 2023 Sustainability Report, published in August 2023, provides insights into the company's environmental, social, and governance initiatives."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "FSA Group Ltd.",
     "ticker": "FSA-AU",
-    "report": null
+    "report": {
+      "url": "https://announcements.asx.com.au/asxpdf/20250811/pdf/06mqlxn7h4nzg9.pdf",
+      "title": "FSA Group Limited 2025 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "06mqlxn7h4nzg9.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "FSA Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://announcements.asx.com.au/asxpdf/20250811/pdf/06mqlxn7h4nzg9.pdf",
+              "title": "FSA Group Limited 2025 Sustainability Report",
+              "why": "Direct link to the official 2025 sustainability report in PDF format.",
+              "snippet": "FSA Group Limited's 2025 Sustainability Report, detailing their environmental, social, and governance initiatives for the fiscal year ending June 30, 2025."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "MMG Ltd.",
@@ -2260,27 +3170,137 @@
   {
     "name": "Mesoblast Ltd.",
     "ticker": "MSB-AU",
-    "report": null
+    "report": {
+      "url": "https://www.mesoblast.com/images/pdf/MSB_2024_Annual_Report.pdf",
+      "title": "Mesoblast Limited Annual Report 2024",
+      "filetype": "pdf",
+      "filename": "MSB_2024_Annual_Report.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Mesoblast Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.mesoblast.com/images/pdf/MSB_2024_Annual_Report.pdf",
+              "title": "Mesoblast Limited Annual Report 2024",
+              "why": "The latest available annual report is for the year ending June 30, 2024, published in October 2024.",
+              "snippet": "Mesoblast Limited Annual Report 2024"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Regional Express Holdings Ltd.",
     "ticker": "REX-AU",
-    "report": null
+    "report": {
+      "url": "https://www.rex.com.au/AboutRex/InvestorRelations/_lib/pdf/HY/HY_FY2324.pdf",
+      "title": "Regional Express Holdings Limited Half-Year Report 31 December 2023",
+      "filetype": "pdf",
+      "filename": "HY_FY2324.pdf",
+      "year": "2023",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Regional Express Holdings Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.rex.com.au/AboutRex/InvestorRelations/_lib/pdf/HY/HY_FY2324.pdf",
+              "title": "Regional Express Holdings Limited Half-Year Report 31 December 2023",
+              "why": "This is the most recent report available, dated December 31, 2023.",
+              "snippet": "In accordance with the requirements of the Workplace Gender Equality Act 2012 (Act), Regional Express Holdings Limited submits an annual public report with the Workplace Gender Equality Agency (Agency) every financial year. The Agency has certified Rex as being compliant with the Act for 2023."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "CAR Group Ltd.",
     "ticker": "CAR-AU",
-    "report": null
+    "report": {
+      "url": "https://cargroup.com/wp-content/uploads/2025/08/CAR-Group-FY25-Sustainability-Report.pdf",
+      "title": "CAR Group FY25 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "CAR-Group-FY25-Sustainability-Report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "CAR Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://cargroup.com/wp-content/uploads/2025/08/CAR-Group-FY25-Sustainability-Report.pdf",
+              "title": "CAR Group FY25 Sustainability Report",
+              "why": "Direct link to the official 2025 sustainability report in PDF format.",
+              "snippet": "CAR Group's official 2025 sustainability report."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "AUB Group Ltd.",
     "ticker": "AUB-AU",
-    "report": null
+    "report": {
+      "url": "https://www.aubgroup.com.au/wp-content/uploads/2025/08/2025-Annual-Report.pdf",
+      "title": "AUB Group Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "2025-Annual-Report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "AUB Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.aubgroup.com.au/wp-content/uploads/2025/08/2025-Annual-Report.pdf",
+              "title": "AUB Group Annual Report 2025",
+              "why": "This is the official 2025 Annual Report from AUB Group Ltd., which includes their sustainability and ESG information.",
+              "snippet": "AUB Group Annual Report 2025"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Ora Banda Mining Ltd.",
     "ticker": "OBM-AU",
-    "report": null
+    "report": {
+      "url": "https://orabandamining.com.au/wp-content/uploads/2024/11/OBM-COR-POL-XXX-Sustainability-Committee-Charter-300924-final.pdf",
+      "title": "Sustainability Committee Charter",
+      "filetype": "pdf",
+      "filename": "OBM-COR-POL-XXX-Sustainability-Committee-Charter-300924-final.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Ora Banda Mining Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://orabandamining.com.au/wp-content/uploads/2024/11/OBM-COR-POL-XXX-Sustainability-Committee-Charter-300924-final.pdf",
+              "title": "Sustainability Committee Charter",
+              "why": "This document outlines the company's sustainability governance framework, but it is not the 2025 sustainability report.",
+              "snippet": "Sustainability Committee Charter\n\n1. Objectives\n\nThe Sustainability Committee (Committee) has been established by the Ora Banda Mining Ltd (Ora Banda or Company) board of directors (Board)."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Sigma Healthcare Ltd.",
@@ -2290,22 +3310,110 @@
   {
     "name": "Bravura Solutions Ltd.",
     "ticker": "BVS-AU",
-    "report": null
+    "report": {
+      "url": "https://investors.bravurasolutions.com/FormBuilder/_Resource/_module/2J3UTC3BCUSurE_acUVI8g/docs/reports/Sustainability_Report_2024.pdf",
+      "title": "Sustainability Report 2024",
+      "filetype": "pdf",
+      "filename": "Sustainability_Report_2024.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Bravura Solutions Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://investors.bravurasolutions.com/FormBuilder/_Resource/_module/2J3UTC3BCUSurE_acUVI8g/docs/reports/Sustainability_Report_2024.pdf",
+              "title": "Sustainability Report 2024",
+              "why": "This is the most recent sustainability report available on Bravura Solutions' official website.",
+              "snippet": "Sustainability Report 2024\n\nBRAVURA SOLUTIONS LIMITED\nABN 54 164 391 128\n\nTogether we create technology that reshapes how organisations and people prosper."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Navigator Global Investments Ltd.",
     "ticker": "NGI-AU",
-    "report": null
+    "report": {
+      "url": "https://www.asx.com.au/asxpdf/20250825/pdf/45d847hc0yw84n.pdf",
+      "title": "2025 Appendix 4E and Annual Report",
+      "filetype": "pdf",
+      "filename": "45d847hc0yw84n.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Navigator Global Investments Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.asx.com.au/asxpdf/20250825/pdf/45d847hc0yw84n.pdf",
+              "title": "2025 Appendix 4E and Annual Report",
+              "why": "This document is the 2025 Annual Report for Navigator Global Investments Ltd., which includes financial statements and other relevant information.",
+              "snippet": "The 2025 Annual Report for Navigator Global Investments Ltd. is available on the ASX website."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Emerald Resources NL",
     "ticker": "EMR-AU",
-    "report": null
+    "report": {
+      "url": "https://www.emeraldresources.com.au/wp-content/uploads/2025/08/Annual-Report-2025-Final.pdf",
+      "title": "Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "Annual-Report-2025-Final.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Emerald Resources NL 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.emeraldresources.com.au/wp-content/uploads/2025/08/Annual-Report-2025-Final.pdf",
+              "title": "Annual Report 2025",
+              "why": "This is the official 2025 Annual Report from Emerald Resources NL, which includes sustainability information.",
+              "snippet": "Emerald Resources NL Annual Report 2025"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "United Overseas Australia Ltd.",
     "ticker": "UOS-AU",
-    "report": null
+    "report": {
+      "url": "https://uoa.com.my/wp-content/uploads/2025/04/UOA-LTD-ANNUAL-REPORT-2024.pdf",
+      "title": "Annual Report 2024",
+      "filetype": "pdf",
+      "filename": "UOA-LTD-ANNUAL-REPORT-2024.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "United Overseas Australia Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://uoa.com.my/wp-content/uploads/2025/04/UOA-LTD-ANNUAL-REPORT-2024.pdf",
+              "title": "Annual Report 2024",
+              "why": "Contains the latest annual report for United Overseas Australia Ltd.",
+              "snippet": "United Overseas Australia Ltd (the Company) is a public company incorporated and domiciled in Australia. The address of the Company’s registered office and its principal place of business are disclosed on Page 2."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "IDP Education Ltd.",
@@ -2315,172 +3423,932 @@
   {
     "name": "Brambles Ltd.",
     "ticker": "BXB-AU",
-    "report": null
+    "report": {
+      "url": "https://www.brambles.com/Content/cms/FY25-Results/pdf/Sustainability/Brambles-2025-Sustainability-Review.pdf",
+      "title": "Brambles Sustainability Review 2025",
+      "filetype": "pdf",
+      "filename": "Brambles-2025-Sustainability-Review.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Brambles Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.brambles.com/Content/cms/FY25-Results/pdf/Sustainability/Brambles-2025-Sustainability-Review.pdf",
+              "title": "Brambles Sustainability Review 2025",
+              "why": "Direct link to the official 2025 Sustainability Review PDF on Brambles' website.",
+              "snippet": "Brambles' Sustainability Review 2025 reports on the material sustainability issues and achievements for the financial year ending 30 June 2025."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "AMA Group Ltd.",
     "ticker": "AMA-AU",
-    "report": null
+    "report": {
+      "url": "https://www.amagroupltd.com/wp-content/uploads/2025/08/FY25-Annual-Report.pdf",
+      "title": "AMA Group Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "FY25-Annual-Report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "AMA Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.amagroupltd.com/wp-content/uploads/2025/08/FY25-Annual-Report.pdf",
+              "title": "AMA Group Annual Report 2025",
+              "why": "Contains the 2025 Annual Report with sustainability information.",
+              "snippet": "The AMA Group Annual Report 2025 is available for download."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "AGL Energy Ltd.",
     "ticker": "AGL-AU",
-    "report": null
+    "report": {
+      "url": "https://company-announcements.afr.com/asx/agl/b32fce37-77cb-11f0-afd1-aef0b727035d.pdf",
+      "title": "AGL Energy Limited Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "b32fce37-77cb-11f0-afd1-aef0b727035d.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "AGL Energy Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://company-announcements.afr.com/asx/agl/b32fce37-77cb-11f0-afd1-aef0b727035d.pdf",
+              "title": "AGL Energy Limited Annual Report 2025",
+              "why": "This is the official 2025 Annual Report in PDF format from AGL Energy's official domain.",
+              "snippet": "AGL Energy Limited Annual Report 2025"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Generation Development Group Ltd.",
     "ticker": "GDG-AU",
-    "report": null
+    "report": {
+      "url": "https://gendevelopmentgroup.com.au/wp-content/uploads/2025/02/GDG_Financial-Report_1HY25_-FINAL.pdf",
+      "title": "Interim Condensed Consolidated Financial Report 31 December 2024",
+      "filetype": "pdf",
+      "filename": "GDG_Financial-Report_1HY25_-FINAL.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Generation Development Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://gendevelopmentgroup.com.au/wp-content/uploads/2025/02/GDG_Financial-Report_1HY25_-FINAL.pdf",
+              "title": "Interim Condensed Consolidated Financial Report 31 December 2024",
+              "why": "This is the most recent financial report available for 2025.",
+              "snippet": "Generation Development Group Limited Interim Condensed Consolidated Financial Report 31 December 2024"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Coles Group Ltd.",
     "ticker": "COL-AU",
-    "report": null
+    "report": {
+      "url": "https://www.colesgroup.com.au/FormBuilder/_Resource/_module/ir5sKeTxxEOndzdh00hWJw/file/Sustainability_Report_2025.pdf",
+      "title": "Coles Group 2025 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "Sustainability_Report_2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Coles Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.colesgroup.com.au/FormBuilder/_Resource/_module/ir5sKeTxxEOndzdh00hWJw/file/Sustainability_Report_2025.pdf",
+              "title": "Coles Group 2025 Sustainability Report",
+              "why": "Direct link to the official 2025 sustainability report in PDF format on Coles Group's official website.",
+              "snippet": "Coles Group 2025 Sustainability Report"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "City Chic Collective Ltd.",
     "ticker": "CCX-AU",
-    "report": null
+    "report": {
+      "url": "https://www.citychiccollective.com.au/annual-reports/2025-annual-report.pdf",
+      "title": "2025 Annual Report",
+      "filetype": "pdf",
+      "filename": "2025-annual-report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "City Chic Collective Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.citychiccollective.com.au/annual-reports/2025-annual-report.pdf",
+              "title": "2025 Annual Report",
+              "why": "Direct link to the 2025 Annual Report in PDF format on the official City Chic Collective website.",
+              "snippet": "City Chic Collective Limited's 2025 Annual Report."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Cuscal Ltd.",
     "ticker": "CCL-AU",
-    "report": null
+    "report": {
+      "url": "https://www.cuscal.com/wp-content/uploads/2025/08/Cuscal-Annual-Report-2025.pdf",
+      "title": "Cuscal Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "Cuscal-Annual-Report-2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Cuscal Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.cuscal.com/wp-content/uploads/2025/08/Cuscal-Annual-Report-2025.pdf",
+              "title": "Cuscal Annual Report 2025",
+              "why": "This is the official 2025 annual report in PDF format from Cuscal's website.",
+              "snippet": "The 2025 Annual Report is available on Cuscal's official website."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Service Stream Ltd.",
     "ticker": "SSM-AU",
-    "report": null
+    "report": {
+      "url": "https://servicestream.com.au/files/Service-Stream-Annual-Report-2025.pdf",
+      "title": "Service Stream Limited Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "Service-Stream-Annual-Report-2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Service Stream Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://servicestream.com.au/files/Service-Stream-Annual-Report-2025.pdf",
+              "title": "Service Stream Limited Annual Report 2025",
+              "why": "Direct link to the 2025 Annual Report in PDF format.",
+              "snippet": "Service Stream Limited Annual Report 2025"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Nine Entertainment Co. Holdings Ltd.",
     "ticker": "NEC-AU",
-    "report": null
+    "report": {
+      "url": "https://www.nineforbrands.com.au/wp-content/uploads/2025/09/Annual-Report-for-lodgement.pdf",
+      "title": "Annual Report for Lodgement",
+      "filetype": "pdf",
+      "filename": "Annual-Report-for-lodgement.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Nine Entertainment Co. Holdings Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.nineforbrands.com.au/wp-content/uploads/2025/09/Annual-Report-for-lodgement.pdf",
+              "title": "Annual Report for Lodgement",
+              "why": "Contains the 2025 Annual Report, which includes sustainability information.",
+              "snippet": "Nine Entertainment Co. Holdings Limited paid an interim dividend of 3.5 cents per share, fully franked, in respect of the year ended 30 June 2025 amounting to $55,502,197 on 24 April 2025. Since the year end, the Company has decided to pay a dividend in respect of the year ended 30 June 2025 of 4.0 cents per share, fully franked, amounting to $63,430,485."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Medibank Private Ltd.",
     "ticker": "MPL-AU",
-    "report": null
+    "report": {
+      "url": "https://www.medibank.com.au/content/dam/retail/about-assets/pdfs/investor-centre/annual-reports/Medibank_SustainabilitySummary2025.pdf",
+      "title": "Sustainability Summary 2025",
+      "filetype": "pdf",
+      "filename": "Medibank_SustainabilitySummary2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Medibank Private Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.medibank.com.au/content/dam/retail/about-assets/pdfs/investor-centre/annual-reports/Medibank_SustainabilitySummary2025.pdf",
+              "title": "Sustainability Summary 2025",
+              "why": "Direct link to Medibank's official 2025 sustainability report in PDF format.",
+              "snippet": "Our reports\nThis summary is part of our Medibank Group suite of reporting for the 2025 financial year – 1 July 2024 – 30 June 2025."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Qube Holdings Ltd.",
     "ticker": "QUB-AU",
-    "report": null
+    "report": {
+      "url": "https://qube.com.au/wp-content/uploads/2025/08/Qube-Sustainability-Report-2024-2025.pdf",
+      "title": "Qube FY25 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "Qube-Sustainability-Report-2024-2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Qube Holdings Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://qube.com.au/wp-content/uploads/2025/08/Qube-Sustainability-Report-2024-2025.pdf",
+              "title": "Qube FY25 Sustainability Report",
+              "why": "Direct link to the official 2025 sustainability report in PDF format.",
+              "snippet": "Qube Holdings Limited's official 2025 Sustainability Report."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "MFF Capital Investments Ltd.",
     "ticker": "MFF-AU",
-    "report": null
+    "report": {
+      "url": "https://www.mffcapital.com.au/wp-content/uploads/2025/08/MFF-Annual-Report-2025.pdf",
+      "title": "MFF Capital Investments Limited Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "MFF-Annual-Report-2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "MFF Capital Investments Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.mffcapital.com.au/wp-content/uploads/2025/08/MFF-Annual-Report-2025.pdf",
+              "title": "MFF Capital Investments Limited Annual Report 2025",
+              "why": "Direct link to the official 2025 Annual Report in PDF format.",
+              "snippet": "The Directors present their report together with the financial statements of MFF Capital Investments Limited for the year ended 30 June 2025."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Pinnacle Investment Management Group Ltd.",
     "ticker": "PNI-AU",
-    "report": null
+    "report": {
+      "url": "https://pinnacleinvestment.com/wp-content/uploads/Pinnacle-Sustainability-Report-2025.pdf",
+      "title": "Pinnacle Sustainability Report 2025",
+      "filetype": "pdf",
+      "filename": "Pinnacle-Sustainability-Report-2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Pinnacle Investment Management Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://pinnacleinvestment.com/wp-content/uploads/Pinnacle-Sustainability-Report-2025.pdf",
+              "title": "Pinnacle Sustainability Report 2025",
+              "why": "Direct link to the 2025 sustainability report in PDF format.",
+              "snippet": "Pinnacle recognises the evolution of sustainability and climate-related disclosure requirements both in Australia and globally. In Australia, the Australian Accounting Standards Board (AASB) has introduced new sustainability reporting standards, including AASB S2 Climate-related Financial Disclosures, which closely align with the International Sustainability Standards Board (ISSB) global baseline. As a Group 3 entity under this regime, Pinnacle is on a trajectory to align with the phased implementation of these new requirements, building on our own reporting suite to meet mandatory reporting obligations from the relevant effective date."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Lifestyle Communities Ltd.",
     "ticker": "LIC-AU",
-    "report": null
+    "report": {
+      "url": "https://assets.lifestylecommunities.com.au/prod-v2/LIC-Annual-Report-to-Shareholders-2024.pdf",
+      "title": "Annual Report to Shareholders 2024",
+      "filetype": "pdf",
+      "filename": "LIC-Annual-Report-to-Shareholders-2024.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Lifestyle Communities Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://assets.lifestylecommunities.com.au/prod-v2/LIC-Annual-Report-to-Shareholders-2024.pdf",
+              "title": "Annual Report to Shareholders 2024",
+              "why": "This is the most recent annual report available, published in August 2024.",
+              "snippet": "The institutional, superannuation, and retail investors and the lenders that provide us with the capital to deliver long-term sustainable growth."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "NRW Holdings Ltd.",
     "ticker": "NWH-AU",
-    "report": null
+    "report": {
+      "url": "https://nrw.com.au/wp-content/uploads/2025/10/NRW-Holdings-Sustainability-Climate-Action-Report-2025.pdf",
+      "title": "Sustainability/Climate Action Report",
+      "filetype": "pdf",
+      "filename": "NRW-Holdings-Sustainability-Climate-Action-Report-2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "NRW Holdings Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://nrw.com.au/wp-content/uploads/2025/10/NRW-Holdings-Sustainability-Climate-Action-Report-2025.pdf",
+              "title": "Sustainability/Climate Action Report",
+              "why": "Direct link to the 2025 Sustainability/Climate Action Report in PDF format on NRW Holdings' official website.",
+              "snippet": "ASX Announcement\n\nSustainability/Climate Action Report\n\nPublished: 23/10/25, 03:36pm (AEST)•31 pages\n\nNRW Holdings\n\nNWH:ASX•Industrials"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "BNK Banking Corp. Ltd.",
     "ticker": "BBC-AU",
-    "report": null
+    "report": {
+      "url": "https://eng.bnkfg.com/share_file/%28BNK%20Financial%20Group%29%20PRB-Reporting-and-Self-Assessment-Template.pdf",
+      "title": "BNK Financial Group 2024 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "%28BNK%20Financial%20Group%29%20PRB-Reporting-and-Self-Assessment-Template.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "BNK Banking Corp. Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://eng.bnkfg.com/share_file/%28BNK%20Financial%20Group%29%20PRB-Reporting-and-Self-Assessment-Template.pdf",
+              "title": "BNK Financial Group 2024 Sustainability Report",
+              "why": "This is the most recent sustainability report available for BNK Financial Group, published in 2024.",
+              "snippet": "The BNK Financial Group has prepared the Sustainability Report in accordance with GRI Standards and has disclosed information according to three SASB standards that represent the BNK Financial Group's business portfolio (Commercial Banks, Asset Management & Custody Activities, Investment Banking & Brokerage)."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Magellan Financial Group Ltd.",
     "ticker": "MFG-AU",
-    "report": null
+    "report": {
+      "url": "https://www.magellangroup.com.au/sites/magellan/assets/MFG-FY25-Annual-Report_FINAL.pdf",
+      "title": "Magellan Financial Group Ltd Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "MFG-FY25-Annual-Report_FINAL.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Magellan Financial Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.magellangroup.com.au/sites/magellan/assets/MFG-FY25-Annual-Report_FINAL.pdf",
+              "title": "Magellan Financial Group Ltd Annual Report 2025",
+              "why": "This is the official 2025 Annual Report, which includes the Corporate Sustainability and Responsibility Report for the year ended 30 June 2025.",
+              "snippet": "This Corporate Sustainability and Responsibility (CSR) Report outlines how we have embedded sustainability considerations across our two domains of influence, being our investment activities and our business operations."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Southern Cross Electrical Engineering Ltd.",
     "ticker": "SXE-AU",
-    "report": null
+    "report": {
+      "url": "https://www.scee.com.au/media/pazmzbzl/scee-group-annual-report-2025.pdf",
+      "title": "SCEE Group Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "scee-group-annual-report-2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Southern Cross Electrical Engineering Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.scee.com.au/media/pazmzbzl/scee-group-annual-report-2025.pdf",
+              "title": "SCEE Group Annual Report 2025",
+              "why": "Direct link to the official 2025 annual report in PDF format.",
+              "snippet": "The SCEE Group Annual Report 2025 is available for download in PDF format."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Bell Financial Group Ltd.",
     "ticker": "BFG-AU",
-    "report": null
+    "report": {
+      "url": "https://www.bellfg.com.au/wp-content/uploads/2025/02/BFG-2024-Annual-Report-and-Appendix-4E.pdf",
+      "title": "BFG 2024 Annual Report and Appendix 4E",
+      "filetype": "pdf",
+      "filename": "BFG-2024-Annual-Report-and-Appendix-4E.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Bell Financial Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.bellfg.com.au/wp-content/uploads/2025/02/BFG-2024-Annual-Report-and-Appendix-4E.pdf",
+              "title": "BFG 2024 Annual Report and Appendix 4E",
+              "why": "Contains the 2024 Annual Report and Appendix 4E, published in February 2025.",
+              "snippet": "The 2024 Annual Report and Appendix 4E for Bell Financial Group Ltd., published in February 2025."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Bellevue Gold Ltd.",
     "ticker": "BGL-AU",
-    "report": null
+    "report": {
+      "url": "https://bellevuegold.com.au/wp-content/uploads/2025/08/2025-Sustainability-Report.pdf",
+      "title": "2025 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "2025-Sustainability-Report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Bellevue Gold Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://bellevuegold.com.au/wp-content/uploads/2025/08/2025-Sustainability-Report.pdf",
+              "title": "2025 Sustainability Report",
+              "why": "Direct link to the official 2025 Sustainability Report in PDF format on Bellevue Gold's official website.",
+              "snippet": "Bellevue Gold's 2025 Sustainability Report in PDF format."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "HUB24 Ltd.",
     "ticker": "HUB-AU",
-    "report": null
+    "report": {
+      "url": "https://www.hub24.com.au/wp-content/uploads/2025/08/HUB24-FY25-Sustainability-Report.pdf",
+      "title": "Sustainability Report 2025",
+      "filetype": "pdf",
+      "filename": "HUB24-FY25-Sustainability-Report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "HUB24 Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.hub24.com.au/wp-content/uploads/2025/08/HUB24-FY25-Sustainability-Report.pdf",
+              "title": "Sustainability Report 2025",
+              "why": "Direct link to the official 2025 sustainability report in PDF format on HUB24's official website.",
+              "snippet": "Sustainability Report 2025\n\nEmpowering\nbetter financial\nfutures, together\n\nHUB24 | Sustainability Report 2025\n\nContents\n\nLetter from our Managing Director & CEO\nSustainability at HUB24\nOur approach to sustainability\nOur sustainability priorities and performance\nOur sustainability framework and governance\nOur business and strategy\nOur ESG key focus areas and progress\n1. Customers\n2. People and culture\nEmployee engagement\nDiversity and inclusion\n3. Governance\n4. Cyber security and data privacy\n5. Digitisation and innovation\n6. Social and environmental\nCommunity contribution and investment\nClimate risks and opportunities\nConclusion\n\nIn this report, HUB24 Limited (referenced to ‘Group’, ‘we’, ‘us’, ‘our’ or HUB24) refers to the HUB24 Group and its controlled entities. Our FY25 Sustainability Report has been drafted with reference to the GRI 2021 Standards. This Sustainability Report of HUB24 Limited and its controlled entities (the Group or HUB24) for 1 July 2024 through to 30 June 2025 was authorised for release by the HUB24 Limited Board on 19 August 2025. This report covers the Company as an individual entity as well as the Group consisting of the Company and its subsidiaries as disclosed in our FY25 Annual Report.\n\nLetter from our MD & CEO\nSustainability at HUB24\nOur ESG key focus areas and progress\nConclusion\n\nDelivering on our\nsustainability objectives\n\nAchieved\n\n‘whole of company’\ngender diversity targets\n\nhighest NPS as rated\nby platform users1\n\nContinued compliance with ASX\nCorporate Governance principles and\n\nAnd rated\n\nbest Platform Overall\nby advisers2\n\n100% of employees\ncompleted business\nethics and integrity\ntraining\n\nIncreased\n\nContinued investment in cyber security\ncapability and training and maintained\n\nour community contribution\nand employee engagement\n\n100% compliance\nwith ISO 27001\n\nDemonstrated progress on\n\nIncreased employee engagement to\n\n78%\n\n(962 FTE)⁴\n\nscope 1 and 2 emission\nreduction. Opted into\nGreenPower renewable energy\nacross all properties3\n\n1. HUB24 achieved the highest\nNet Promoter Score and ranked\nfirst for platform advocacy in the\nInvestment Trends 2025 Adviser\nTechnology Needs Report.\n\n2. HUB24 was ranked highest for\nPlatform NPS in the Adviser\nRatings Australian Financial Advice\nLandscape Report 2025 and Best\nPlatform Overall in the Investment\nTrends 2024 Platform Competitive\nAnalysis and Benchmarking Report.\n\n3. Greenpower opt-in relates to\nproperties where we control the\nchoice of energy supplier / type."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Bendigo & Adelaide Bank Ltd.",
     "ticker": "BEN-AU",
-    "report": null
+    "report": {
+      "url": "https://www.bendigoadelaide.com.au/globalassets/documents/bendigoadelaide/investorcentre/results-and-reporting/sustainability-reports/sustainability-report-2025.pdf",
+      "title": "2025 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "sustainability-report-2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Bendigo & Adelaide Bank Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.bendigoadelaide.com.au/investor-centre/reports/2025-sustainability-report/",
+              "title": "2025 Sustainability Report | Bendigo Adelaide",
+              "why": "Official report page on Bendigo & Adelaide Bank's website.",
+              "snippet": "Download the full report"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Capricorn Metals Ltd.",
     "ticker": "CMM-AU",
-    "report": null
+    "report": {
+      "url": "https://capmetals.com.au/wp-content/uploads/2025/03/250306-HY-report.pdf",
+      "title": "Half Year Financial Report 31 December 2024",
+      "filetype": "pdf",
+      "filename": "250306-HY-report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Capricorn Metals Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://capmetals.com.au/wp-content/uploads/2025/03/250306-HY-report.pdf",
+              "title": "Half Year Financial Report 31 December 2024",
+              "why": "This is the most recent financial report available for Capricorn Metals Ltd.",
+              "snippet": "Capricorn Metals Ltd Half Year Financial Report for the period ending 31 December 2024."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Paragon Care Ltd.",
     "ticker": "PGC-AU",
-    "report": null
+    "report": {
+      "url": "https://paragoncare.com.au/sites/default/files/2025-08/2936103%20-%20FY25%20Appendix%204E%20and%20Preliminary%20Final%20Report_0.pdf",
+      "title": "Paragon Care Limited Preliminary Final Report 30 June 2025",
+      "filetype": "pdf",
+      "filename": "2936103%20-%20FY25%20Appendix%204E%20and%20Preliminary%20Final%20Report_0.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Paragon Care Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://paragoncare.com.au/sites/default/files/2025-08/2936103%20-%20FY25%20Appendix%204E%20and%20Preliminary%20Final%20Report_0.pdf",
+              "title": "Paragon Care Limited Preliminary Final Report 30 June 2025",
+              "why": "This is the official 2025 financial report from Paragon Care Limited, available in PDF format on their official website.",
+              "snippet": "Paragon Care Limited Preliminary Final Report 30 June 2025"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "West African Resources Ltd.",
     "ticker": "WAF-AU",
-    "report": null
+    "report": {
+      "url": "https://www.westafricanresources.com/wp-content/uploads/2025/04/WAF-2024-Sustainability-Report.pdf",
+      "title": "West African Resources Ltd. 2024 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "WAF-2024-Sustainability-Report.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "West African Resources Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.westafricanresources.com/wp-content/uploads/2025/04/WAF-2024-Sustainability-Report.pdf",
+              "title": "West African Resources Ltd. 2024 Sustainability Report",
+              "why": "This is the most recent sustainability report available, published in April 2025, covering the 2024 fiscal year.",
+              "snippet": "In 2024, we introduced a Tailings Storage Facility (TSF) Management Policy as we continue integrating the Global Industry Standard on Tailings Management (GISTM) into our operations."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Mastermyne Group Ltd.",
     "ticker": "MYE-AU",
-    "report": null
+    "report": {
+      "url": "https://mastermyne.com.au/wp-content/uploads/2025/08/Mastermyne-Group-FY2025-Annual-Report.pdf",
+      "title": "Mastermyne Group FY2025 Annual Report",
+      "filetype": "pdf",
+      "filename": "Mastermyne-Group-FY2025-Annual-Report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Mastermyne Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://mastermyne.com.au/wp-content/uploads/2025/08/Mastermyne-Group-FY2025-Annual-Report.pdf",
+              "title": "Mastermyne Group FY2025 Annual Report",
+              "why": "This is the official annual report for FY2025, which typically includes sustainability and ESG information.",
+              "snippet": "Mastermyne Group's official FY2025 Annual Report."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Elders Ltd.",
     "ticker": "ELD-AU",
-    "report": null
+    "report": {
+      "url": "https://elders.com.au/content/dam/eld/documents/sustainability/Elders_Sustainability-Report.pdf",
+      "title": "Elders Limited 2024 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "Elders_Sustainability-Report.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Elders Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://elders.com.au/content/dam/eld/documents/sustainability/Elders_Sustainability-Report.pdf",
+              "title": "Elders Limited 2024 Sustainability Report",
+              "why": "This is the most recent sustainability report available, covering the period from 1 October 2023 to 30 September 2024.",
+              "snippet": "This report demonstrates our efforts to support our farming communities to achieve greater economic resilience and success through..."
+            },
+            {
+              "url": "https://elders.com.au/sustainability/",
+              "title": "Sustainability at Elders",
+              "why": "This page provides an overview of Elders' sustainability initiatives and links to their latest reports.",
+              "snippet": "We provide our customers and clients with the goods and services they need."
+            },
+            {
+              "url": "https://elders.com.au/sustainability/environmental-sustainability/",
+              "title": "Environmental Sustainability at Elders",
+              "why": "This page details Elders' environmental sustainability efforts, including climate change strategies and waste management practices.",
+              "snippet": "Elders is committed to the priorities in our Sustainability Framework."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Growthpoint Properties Australia",
     "ticker": "GOZ-AU",
-    "report": null
+    "report": {
+      "url": "https://growthpoint.com.au/sites/default/files/governance/Growthpoint-Sustainability-Policy-19-06-2025.pdf",
+      "title": "Growthpoint Sustainability Policy",
+      "filetype": "pdf",
+      "filename": "Growthpoint-Sustainability-Policy-19-06-2025.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Growthpoint Properties Australia 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://growthpoint.com.au/sites/default/files/governance/Growthpoint-Sustainability-Policy-19-06-2025.pdf",
+              "title": "Growthpoint Sustainability Policy",
+              "why": "This is the latest sustainability policy document available on Growthpoint's official website, dated June 2025.",
+              "snippet": "Growthpoint Properties Australia (Growthpoint) is committed to conducting its business to the highest standard and a culture of corporate compliance, integrity and responsible and ethical behaviour."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "MyState Ltd.",
     "ticker": "MYS-AU",
-    "report": null
+    "report": {
+      "url": "https://www.mystatelimited.com.au/Home/DownloadFile?file=Annual%20Report%202025.pdf",
+      "title": "Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "MyState Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.mystatelimited.com.au/Home/DownloadFile?file=Annual%20Report%202025.pdf",
+              "title": "Annual Report 2025",
+              "why": "Direct link to the 2025 Annual Report in PDF format on MyState Limited's official website.",
+              "snippet": "Annual Report 2025"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Myer Holdings Ltd.",
     "ticker": "MYR-AU",
-    "report": null
+    "report": {
+      "url": "https://company-announcements.afr.com/asx/myr/9b4704c2-9804-11f0-9520-a26b2aabf1d2.pdf",
+      "title": "Myer Holdings Limited Annual Report 2025",
+      "filetype": "pdf",
+      "filename": "9b4704c2-9804-11f0-9520-a26b2aabf1d2.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Myer Holdings Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://company-announcements.afr.com/asx/myr/9b4704c2-9804-11f0-9520-a26b2aabf1d2.pdf",
+              "title": "Myer Holdings Limited Annual Report 2025",
+              "why": "This document is the official annual report for 2025, which includes sustainability information.",
+              "snippet": "Myer Holdings Limited Annual Report 2025"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Stanmore Resources Ltd.",
     "ticker": "SMR-AU",
-    "report": null
+    "report": {
+      "url": "https://www.stanmore.au/wp-content/uploads/2025/04/Stanmore-Sustainability-Report-2024.pdf",
+      "title": "Stanmore Sustainability Report 2024",
+      "filetype": "pdf",
+      "filename": "Stanmore-Sustainability-Report-2024.pdf",
+      "year": "2024",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Stanmore Resources Ltd. 2024 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.stanmore.au/wp-content/uploads/2025/04/Stanmore-Sustainability-Report-2024.pdf",
+              "title": "Stanmore Sustainability Report 2024",
+              "why": "Direct link to the 2024 Sustainability Report in PDF format on the official Stanmore Resources website.",
+              "snippet": "Stanmore Resources' 2024 Sustainability Report, detailing their environmental, social, and governance performance for the year."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Bega Cheese Ltd.",
     "ticker": "BGA-AU",
-    "report": null
+    "report": {
+      "url": "https://begagroup.com.au/wp-content/uploads/2025/10/2025-Sustainability-Report.pdf",
+      "title": "2025 Sustainability Report",
+      "filetype": "pdf",
+      "filename": "2025-Sustainability-Report.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Bega Cheese Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://begagroup.com.au/wp-content/uploads/2025/10/2025-Sustainability-Report.pdf",
+              "title": "2025 Sustainability Report",
+              "why": "Direct link to the official 2025 sustainability report in PDF format.",
+              "snippet": "Bega Cheese Ltd.'s official 2025 Sustainability Report."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Redox Ltd.",
     "ticker": "RDX-AU",
-    "report": null
+    "report": {
+      "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n429wdx4t454.pdf",
+      "title": "Redox Limited Environmental, Social and Governance (ESG) Report 30 June 2025",
+      "filetype": "pdf",
+      "filename": "06n429wdx4t454.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Redox Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n429wdx4t454.pdf",
+              "title": "Redox Limited Environmental, Social and Governance (ESG) Report 30 June 2025",
+              "why": "Direct link to the official 2025 ESG report in PDF format on Redox Limited's official ASX announcements page.",
+              "snippet": "Redox Limited Environmental, Social and Governance (ESG) Report 30 June 2025"
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Southern Cross Media Group Ltd.",
     "ticker": "SXL-AU",
-    "report": null
+    "report": {
+      "url": "https://www.sca.com.au/wp-content/uploads/2024/10/Corporate-Governance-Statement-2025-1.pdf",
+      "title": "Corporate Governance Statement 2025",
+      "filetype": "pdf",
+      "filename": "Corporate-Governance-Statement-2025-1.pdf",
+      "year": "2025",
+      "data": null,
+      "diagnostics": {
+        "web_search": {
+          "search_query": "Southern Cross Media Group Ltd. 2025 sustainability report filetype:pdf",
+          "candidates": [
+            {
+              "url": "https://www.sca.com.au/wp-content/uploads/2024/10/Corporate-Governance-Statement-2025-1.pdf",
+              "title": "Corporate Governance Statement 2025",
+              "why": "This document is the most recent official publication from Southern Cross Media Group Ltd. for 2025, available in PDF format.",
+              "snippet": "SCA’s executive team, the Board and its Committees consider sustainability risks and opportunities within their respective areas of responsibility."
+            }
+          ]
+        }
+      },
+      "download": null,
+      "extraction": null
+    }
   },
   {
     "name": "Ricegrowers Ltd.",
