@@ -1997,7 +1997,31 @@
       "name": "Washington H. Soul Pattinson & Co. Ltd.",
       "ticker": "SOL-AU"
     },
-    "report": null
+    "report": {
+      "file": {
+        "url": "https://www.soulpatts.com.au/wp-content/uploads/2024/09/WHSP_2024_Sustainability_Report.pdf",
+        "filetype": "pdf",
+        "filename": "WHSP_2024_Sustainability_Report.pdf",
+        "year": "2024"
+      },
+      "search": {
+        "query": "Washington H. Soul Pattinson & Co. Ltd. 2025 sustainability report filetype:pdf",
+        "source": "fallback",
+        "candidates": [
+          {
+            "url": "https://www.soulpatts.com.au/wp-content/uploads/2024/09/WHSP_2024_Sustainability_Report.pdf",
+            "title": "2024 Sustainability Report",
+            "why": "The latest available sustainability report for Washington H. Soul Pattinson & Co. Ltd. is for the year 2024, as the 2025 report has not been released yet.",
+            "snippet": "The latest available sustainability report for Washington H. Soul Pattinson & Co. Ltd. is for the year 2024, as the 2025 report has not been released yet."
+          }
+        ],
+        "selected": "https://www.soulpatts.com.au/wp-content/uploads/2024/09/WHSP_2024_Sustainability_Report.pdf"
+      },
+      "data": {
+        "scope_1": null,
+        "scope_2": null
+      }
+    }
   },
   {
     "info": {
@@ -3584,10 +3608,23 @@
     },
     "report": {
       "file": {
-        "url": null,
+        "url": "https://amplitudeenergy.com.au/uploads/announcements/FY25-sustainability-report.pdf",
         "filetype": "pdf",
-        "filename": null,
-        "year": null
+        "filename": "FY25-sustainability-report.pdf",
+        "year": "2025"
+      },
+      "search": {
+        "query": "Amplitude Energy Ltd. 2025 sustainability report filetype:pdf",
+        "source": "fallback",
+        "candidates": [
+          {
+            "url": "https://amplitudeenergy.com.au/uploads/announcements/FY25-sustainability-report.pdf",
+            "title": "FY25 Sustainability Report",
+            "why": "Direct link to the official 2025 sustainability report in PDF format.",
+            "snippet": "Amplitude Energy's FY25 Sustainability Report describes Amplitude Energy's sustainability performance across each of our environment, social and governance activities."
+          }
+        ],
+        "selected": "https://amplitudeenergy.com.au/uploads/announcements/FY25-sustainability-report.pdf"
       },
       "data": {
         "scope_1": null,
