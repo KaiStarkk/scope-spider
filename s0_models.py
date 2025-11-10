@@ -59,6 +59,12 @@ def query(client, company, ticker):
         """
         ## Task
         Find the official 2025 sustainability report for the given company that contains Scope 1 and Scope 2 emissions data.
+        Tool calls are limited, so you should plan accordingly. Example plan:
+        Call 1: Search company name and keywords to locate investor documents website.
+        Call 2: Search using keywords such as "scope 1" to locate relevant parsed pages.
+        Call 3: Constrained search using company website url and filetype constraint (pdf) to locate report URL for inclusion in response.
+        Call 4: If sustainability report is not yet found, use the information so far to search for the annual report as a fallback, and include this URL in the response.
+        This is an essential step to minimize spend, because getting the report URL is the primary objective; calls to obtain data come after.
 
         ## Requirements
         - The report must be from 2025
@@ -96,6 +102,7 @@ def query(client, company, ticker):
         text_format=Report,
         text={"verbosity": "low"},
         reasoning={"effort": "low", "summary": "auto"},
+        # max_tool_calls=3,
         tools=[
             {
                 "type": "web_search",
