@@ -88,9 +88,12 @@ def main():
         if not pdf_path.exists() or pdf_path.suffix.lower() != ".pdf":
             # If the file is missing or not a PDF, reset the report
             item["report"] = None
-            print(f"FAIL extract: missing/invalid PDF for {item.get('ticker') or 'UNKNOWN'}; report reset to null", flush=True)
+            info = item.get("info") or {}
+            tkr = info.get("ticker") or "UNKNOWN"
+            print(f"FAIL extract: missing/invalid PDF for {tkr}; report reset to null", flush=True)
             continue
-        ticker = item.get("ticker") or "UNKNOWN"
+        info = item.get("info") or {}
+        ticker = info.get("ticker") or "UNKNOWN"
         base = pdf_path.stem
         out_txt = extract_dir / f"{base}.snippet.txt"
         if out_txt.exists() and (report.get("extraction") or {}).get("snippet_path"):

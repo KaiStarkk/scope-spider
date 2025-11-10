@@ -22,13 +22,24 @@ def main():
 
     # Process
     for item in items:
-        name = item.get("name", "").strip()
-        ticker = item.get("ticker", "").strip()
-        report = item.get("report")
-        if report:
+        info = item.get("info") or {}
+        name = (info.get("name") or "").strip()
+        ticker = (info.get("ticker") or "").strip()
+        report = item.get("report") or {}
+        data = report.get("data") or {}
+        s1 = data.get("scope_1")
+        s2 = data.get("scope_2")
+        has_good_data = (
+            isinstance(s1, (int, float))
+            and isinstance(s2, (int, float))
+            and (s1 or 0) > 0
+            and (s2 or 0) > 0
+        )
+        has_file = bool((report.get("file") or {}).get("url"))
+        if has_file or has_good_data:
             if debug:
                 print(
-                    f"SKIPPING: {name} ({ticker}) already has a report: {report['title']} and data: {report['data']}",
+                    f"SKIPPING: {name} ({ticker}) already has file={has_file} data_ok={has_good_data}",
                     flush=True,
                 )
             continue
@@ -53,7 +64,65 @@ def main():
                 elif action in ("continue", "c"):
                     auto_mode = True
                     print("Switching to automatic mode...", flush=True)
-            item["report"] = parsed.model_dump()
+            # Map parsed Report into nested structure
+            existing_data = (item.get("report") or {}).get("data") or {}
+            # Build search metadata
+            src = "fallback"
+            selected = parsed.url
+            query_text = None
+            candidates = None
+            try:
+                if isinstance(response, dict):
+                    src = response.get("source") or src
+                diag = parsed.diagnostics
+                if hasattr(diag, "model_dump"):
+                    diag = diag.model_dump()
+                if not isinstance(diag, dict):
+                    diag = {}
+                web = diag.get("web_search") or {}
+                if not isinstance(web, dict):
+                    try:
+                        web = dict(web)
+                    except Exception:
+                        web = {}
+                if isinstance(web, dict):
+                    query_text = web.get("search_query")
+                    raw_candidates = web.get("candidates") or []
+                    # Normalize candidate entries to plain dicts
+                    norm_candidates = []
+                    for c in raw_candidates:
+                        if isinstance(c, dict):
+                            norm_candidates.append(c)
+                        else:
+                            norm_candidates.append(
+                                {
+                                    "url": getattr(c, "url", None),
+                                    "title": getattr(c, "title", None),
+                                    "why": getattr(c, "why", None),
+                                    "snippet": getattr(c, "snippet", None),
+                                }
+                            )
+                    candidates = norm_candidates or None
+            except Exception:
+                pass
+            item["report"] = {
+                "file": {
+                    "url": parsed.url,
+                    "filetype": parsed.filetype,
+                    "filename": parsed.filename,
+                    "year": parsed.year,
+                },
+                "search": {
+                    "query": query_text,
+                    "source": src,
+                    "candidates": candidates,
+                    "selected": selected,
+                },
+                "data": {
+                    "scope_1": existing_data.get("scope_1"),
+                    "scope_2": existing_data.get("scope_2"),
+                },
+            }
             path.write_text(json.dumps(items, ensure_ascii=False, indent=2))
         else:
             print(

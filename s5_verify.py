@@ -18,6 +18,7 @@ def _read_json(path: Path) -> Any:
 def _write_json(path: Path, obj: Any) -> None:
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=2))
 
+
 def _needs_verification(item: Dict[str, Any], verify_all: bool) -> bool:
     if verify_all:
         return True
@@ -215,14 +216,17 @@ def main():
     for item in items:
         if not _needs_verification(item, verify_all):
             continue
-        name = item.get("name", "").strip()
-        ticker = item.get("ticker", "").strip()
+        info = item.get("info") or {}
+        name = (info.get("name") or "").strip()
+        ticker = (info.get("ticker") or "").strip()
         report = item.get("report") or {}
         extraction = report.get("extraction") or {}
         snippet_path = Path(extraction.get("snippet_path") or "")
         meta = extraction or None
         if not (report.get("download") or {}).get("path"):
-            print(f"SKIP {ticker}: no downloaded PDF path in companies.json", flush=True)
+            print(
+                f"SKIP {ticker}: no downloaded PDF path in companies.json", flush=True
+            )
             continue
         if not snippet_path or not snippet_path.exists():
             print(f"SKIP {ticker}: no snippet found, run s4_extract.py", flush=True)
@@ -301,7 +305,7 @@ def main():
                 snippet_text,
                 Path((report.get("download") or {}).get("path") or ""),
                 name,
-                (item.get("report") or {}).get("year") or "2025",
+                ((report.get("file") or {}).get("year")) or "2025",
             )
             if advice:
                 print(

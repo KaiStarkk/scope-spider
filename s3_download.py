@@ -30,11 +30,13 @@ def _hash_url(url: str) -> str:
 
 
 def _needs_download(item: Dict[str, Any], all_items: bool) -> Tuple[bool, str]:
-    name = item.get("name", "").strip()
-    ticker = item.get("ticker", "").strip()
+    info = item.get("info") or {}
+    name = (info.get("name") or "").strip()
+    ticker = (info.get("ticker") or "").strip()
     report = item.get("report") or {}
-    url = str(report.get("url") or "").strip()
-    filetype = (report.get("filetype") or "").lower()
+    file = report.get("file") or {}
+    url = str(file.get("url") or "").strip()
+    filetype = (file.get("filetype") or "").lower()
     data = report.get("data") or {}
     scope_1 = data.get("scope_1")
     scope_2 = data.get("scope_2")
@@ -92,8 +94,10 @@ def main():
         if not needed:
             continue
         report = item.get("report") or {}
-        url = str(report.get("url") or "").strip()
-        ticker = item.get("ticker", "").strip()
+        file = report.get("file") or {}
+        url = str(file.get("url") or "").strip()
+        info = item.get("info") or {}
+        ticker = (info.get("ticker") or "").strip()
         if not url:
             continue
         # Skip if already downloaded per companies.json
@@ -106,10 +110,12 @@ def main():
         queued.append(item)
 
     for item in queued:
-        name = item.get("name", "").strip()
-        ticker = item.get("ticker", "").strip()
+        info = item.get("info") or {}
+        name = (info.get("name") or "").strip()
+        ticker = (info.get("ticker") or "").strip()
         report = item.get("report") or {}
-        url = str(report.get("url") or "").strip()
+        file = report.get("file") or {}
+        url = str(file.get("url") or "").strip()
         if not url:
             continue
         url_hash = _hash_url(url)
