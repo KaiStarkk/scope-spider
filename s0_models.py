@@ -103,9 +103,9 @@ def query(client, company, ticker):
         instructions=instructions,
         input=input_text,
         text_format=Report,
-        text={"verbosity": "low"},
-        reasoning={"effort": "low", "summary": "concise"},
-        # max_tool_calls=3,
+        text={"verbosity": "medium"},
+        reasoning={"effort": "low", "summary": "auto"},
+        max_tool_calls=3,
         tools=[
             {
                 "type": "web_search",
