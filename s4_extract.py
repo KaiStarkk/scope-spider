@@ -78,33 +78,46 @@ def main():
     extract_dir.mkdir(parents=True, exist_ok=True)
 
     items: List[Dict[str, Any]] = json.loads(companies_path.read_text() or "[]")
+    # Count candidates with download status ok for progress
+    total_ok = 0
+    for it in items:
+        rep = it.get("report") or {}
+        dl0 = rep.get("download") or {}
+        if (dl0.get("status") or "") == "ok":
+            total_ok += 1
+    idx_ok = 0
+    print(f"Starting extraction: eligible={total_ok} total={len(items)}", flush=True)
+    if total_ok == 0:
+        print("No items with downloaded PDFs (report.download.status=='ok'). Run s3_download.py first.", flush=True)
 
     for item in items:
         report = item.get("report") or {}
         dl = report.get("download") or {}
         if (dl.get("status") or "") != "ok":
             continue
+        idx_ok += 1
         pdf_path = Path(dl.get("path") or "")
         if not pdf_path.exists() or pdf_path.suffix.lower() != ".pdf":
             # If the file is missing or not a PDF, reset the report
             item["report"] = None
             info = item.get("info") or {}
             tkr = info.get("ticker") or "UNKNOWN"
-            print(f"FAIL extract: missing/invalid PDF for {tkr}; report reset to null", flush=True)
+            print(f"FAIL [{idx_ok}/{total_ok}] extract: missing/invalid PDF for {tkr}; report reset to null", flush=True)
             continue
         info = item.get("info") or {}
         ticker = info.get("ticker") or "UNKNOWN"
+        print(f"EXTRACT [{idx_ok}/{total_ok}] {ticker}: {pdf_path.name}", flush=True)
         base = pdf_path.stem
         out_txt = extract_dir / f"{base}.snippet.txt"
         if out_txt.exists() and (report.get("extraction") or {}).get("snippet_path"):
-            print(f"SKIP extract {ticker}: already exists", flush=True)
+            print(f"SKIP [{idx_ok}/{total_ok}] extract {ticker}: already exists", flush=True)
             continue
 
         pages = _extract_pdf_text(pdf_path)
         if not pages:
             # Hard failure to extract; reset report
             item["report"] = None
-            print(f"FAIL extract {ticker}: no text extracted; report reset to null", flush=True)
+            print(f"FAIL [{idx_ok}/{total_ok}] extract {ticker}: no text extracted; report reset to null", flush=True)
             continue
         if sum(len(p) for p in pages) < 200:
             print(f"NOTE {ticker}: low/empty text; OCR may be required for {pdf_path.name}", flush=True)
@@ -114,7 +127,7 @@ def main():
             out_txt.write_text(snippet)
         except Exception as e:
             item["report"] = None
-            print(f"FAIL extract {ticker}: unable to write snippet ({e}); report reset to null", flush=True)
+            print(f"FAIL [{idx_ok}/{total_ok}] extract {ticker}: unable to write snippet ({e}); report reset to null", flush=True)
             continue
 
         extraction = {
@@ -128,7 +141,7 @@ def main():
         }
         report["extraction"] = extraction
         item["report"] = report
-        print(f"EXTRACTED {ticker}: pages={extraction['pages']} hits={len(hits)} snippet={extraction['chars_snippet']} chars", flush=True)
+        print(f"EXTRACTED [{idx_ok}/{total_ok}] {ticker}: pages={extraction['pages']} hits={len(hits)} snippet={extraction['chars_snippet']} chars", flush=True)
 
     companies_path.write_text(json.dumps(items, ensure_ascii=False, indent=2))
     print(f"Updated {companies_path}", flush=True)

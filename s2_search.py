@@ -20,7 +20,26 @@ def main():
     openAI = OpenAI()
     auto_mode = mode == "auto"
 
+    # Pre-compute eligible total for progress display
+    eligible_total = 0
+    for item in items:
+        info = item.get("info") or {}
+        report = item.get("report") or {}
+        data = report.get("data") or {}
+        s1 = data.get("scope_1")
+        s2 = data.get("scope_2")
+        has_good_data = (
+            isinstance(s1, (int, float))
+            and isinstance(s2, (int, float))
+            and (s1 or 0) > 0
+            and (s2 or 0) > 0
+        )
+        has_file = bool((report.get("file") or {}).get("url"))
+        if not (has_file or has_good_data):
+            eligible_total += 1
+
     # Process
+    processed_idx = 0
     for item in items:
         info = item.get("info") or {}
         name = (info.get("name") or "").strip()
@@ -44,7 +63,10 @@ def main():
                 )
             continue
 
-        print(f"QUERY: {name} ({ticker})", flush=True)
+        processed_idx += 1
+        print(
+            f"QUERY [{processed_idx}/{eligible_total}]: {name} ({ticker})", flush=True
+        )
         # Propagate debug to the search layer
         if debug:
             os.environ["S0_DEBUG"] = "1"

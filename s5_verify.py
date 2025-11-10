@@ -213,9 +213,17 @@ def main():
     # Optional: prepare vector store only if needed
     vector_store_id: Optional[str] = None
 
+    # Pre-count items that need verification for progress
+    total_need = 0
+    for it in items:
+        if _needs_verification(it, verify_all):
+            total_need += 1
+    idx_need = 0
+
     for item in items:
         if not _needs_verification(item, verify_all):
             continue
+        idx_need += 1
         info = item.get("info") or {}
         name = (info.get("name") or "").strip()
         ticker = (info.get("ticker") or "").strip()
@@ -225,16 +233,20 @@ def main():
         meta = extraction or None
         if not (report.get("download") or {}).get("path"):
             print(
-                f"SKIP {ticker}: no downloaded PDF path in companies.json", flush=True
+                f"SKIP [{idx_need}/{total_need}] {ticker}: no downloaded PDF path in companies.json",
+                flush=True,
             )
             continue
         if not snippet_path or not snippet_path.exists():
-            print(f"SKIP {ticker}: no snippet found, run s4_extract.py", flush=True)
+            print(
+                f"SKIP [{idx_need}/{total_need}] {ticker}: no snippet found, run s4_extract.py",
+                flush=True,
+            )
             continue
         snippet_text = snippet_path.read_text()
         if len(snippet_text.strip()) < 50:
             print(
-                f"NOTE {ticker}: snippet too small; file_search may be needed",
+                f"NOTE [{idx_need}/{total_need}] {ticker}: snippet too small; file_search may be needed",
                 flush=True,
             )
 
@@ -250,25 +262,25 @@ def main():
             if parsed_local.confidence >= threshold:
                 if _update_company_data(item, parsed_local, meta, "local snippet"):
                     print(
-                        f"VERIFIED {ticker}: local (conf={parsed_local.confidence:.2f})",
+                        f"VERIFIED [{idx_need}/{total_need}] {ticker}: local (conf={parsed_local.confidence:.2f})",
                         flush=True,
                     )
                     changed = True
                     continue
             else:
                 print(
-                    f"LOW CONF {ticker}: local conf={parsed_local.confidence:.2f} < {threshold:.2f}; trying file_search",
+                    f"LOW CONF [{idx_need}/{total_need}] {ticker}: local conf={parsed_local.confidence:.2f} < {threshold:.2f}; trying file_search",
                     flush=True,
                 )
         else:
             print(
-                f"MISS {ticker}: local parse did not yield usable values; trying file_search",
+                f"MISS [{idx_need}/{total_need}] {ticker}: local parse did not yield usable values; trying file_search",
                 flush=True,
             )
 
         if local_only:
             print(
-                f"FAIL {ticker}: local parse failed; skipping due to --local-only",
+                f"FAIL [{idx_need}/{total_need}] {ticker}: local parse failed; skipping due to --local-only",
                 flush=True,
             )
             continue
@@ -288,17 +300,20 @@ def main():
             if parsed_fs.confidence >= threshold:
                 if _update_company_data(item, parsed_fs, meta, "file_search"):
                     print(
-                        f"VERIFIED {ticker}: file_search (conf={parsed_fs.confidence:.2f})",
+                        f"VERIFIED [{idx_need}/{total_need}] {ticker}: file_search (conf={parsed_fs.confidence:.2f})",
                         flush=True,
                     )
                     changed = True
             else:
                 print(
-                    f"LOW CONF {ticker}: file_search conf={parsed_fs.confidence:.2f} < {threshold:.2f}",
+                    f"LOW CONF [{idx_need}/{total_need}] {ticker}: file_search conf={parsed_fs.confidence:.2f} < {threshold:.2f}",
                     flush=True,
                 )
         else:
-            print(f"FAIL {ticker}: file_search parse failed", flush=True)
+            print(
+                f"FAIL [{idx_need}/{total_need}] {ticker}: file_search parse failed",
+                flush=True,
+            )
             # Advisory
             advice = _advise_on_failure(
                 client,
@@ -309,7 +324,7 @@ def main():
             )
             if advice:
                 print(
-                    f"ADVISE {ticker}: {advice.label} - {advice.reason}"
+                    f"ADVISE [{idx_need}/{total_need}] {ticker}: {advice.label} - {advice.reason}"
                     + (
                         f" | suggestion: {advice.suggestion}"
                         if advice.suggestion

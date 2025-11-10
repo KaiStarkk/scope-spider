@@ -10,6 +10,49 @@ import requests
 
 DEFAULT_DOWNLOAD_DIR = Path("downloads")
 
+def _persist_json(path: Path, items: List[Dict[str, Any]]) -> None:
+    """Persist the current items list to disk immediately."""
+    try:
+        path.write_text(json.dumps(items, ensure_ascii=False, indent=2))
+    except Exception:
+        # Best-effort; caller continues
+        pass
+
+def _find_existing_download(ticker: str, download_dir: Path) -> Path | None:
+    """Attempt to find an already-downloaded PDF for this ticker.
+    Strategy: look for files named like '<TICKER>_*.pdf' and take the most recent."""
+    if not ticker:
+        return None
+    try:
+        candidates = sorted(
+            download_dir.glob(f"{ticker}_*.pdf"),
+            key=lambda p: p.stat().st_mtime,
+            reverse=True,
+        )
+        return candidates[0] if candidates else None
+    except Exception:
+        return None
+
+
+def _link_existing_download(item: Dict[str, Any], download_dir: Path) -> bool:
+    """If a PDF exists on disk for this ticker, link it into companies.json.
+    Returns True if JSON was updated."""
+    info = item.get("info") or {}
+    ticker = (info.get("ticker") or "").strip()
+    if not ticker:
+        return False
+    existing = _find_existing_download(ticker, download_dir)
+    if existing and existing.exists():
+        report = item.get("report") or {}
+        report.setdefault("download", {})
+        report["download"]["path"] = str(existing)
+        report["download"]["status"] = "ok"
+        report["download"]["error"] = None
+        item["report"] = report
+        print(f"FOUND {ticker}: linked existing download at {existing.name}", flush=True)
+        return True
+    return False
+
 
 def _safe_filename_from_url(url: str) -> str:
     parsed = urlparse(url)
@@ -62,14 +105,50 @@ def _download_pdf(url: str, out_path: Path) -> Tuple[bool, str]:
         "Accept": "application/pdf,application/octet-stream;q=0.9,*/*;q=0.8",
     }
     try:
-        with requests.get(url, headers=headers, timeout=60, stream=True) as r:
+        with requests.get(url, headers=headers, timeout=60, stream=True, allow_redirects=True) as r:
             r.raise_for_status()
+            content_type = (r.headers.get("Content-Type") or "").lower()
             out_path.parent.mkdir(parents=True, exist_ok=True)
-            with out_path.open("wb") as f:
+            tmp_path = out_path.with_suffix(out_path.suffix + ".part")
+            first_chunk = None
+            f = None
+            try:
                 for chunk in r.iter_content(chunk_size=8192):
-                    if chunk:
+                    if not chunk:
+                        continue
+                    if first_chunk is None:
+                        first_chunk = chunk
+                        is_pdf_magic = first_chunk[:4] == b"%PDF"
+                        # Accept if Content-Type hints PDF OR magic bytes confirm it
+                        if ("pdf" not in content_type) and (not is_pdf_magic):
+                            # Do not write anything; treat as non-PDF and abort
+                            return False, f"not a PDF (Content-Type='{content_type or 'unknown'}', magic={'ok' if is_pdf_magic else 'missing'})"
+                        f = tmp_path.open("wb")
+                        f.write(first_chunk)
+                    else:
+                        if f is None:
+                            f = tmp_path.open("wb")
                         f.write(chunk)
-        return True, "ok"
+                if f:
+                    f.close()
+                if first_chunk is None:
+                    # Empty body
+                    if tmp_path.exists():
+                        tmp_path.unlink(missing_ok=True)
+                    return False, "empty response body"
+                # Promote temp file
+                tmp_path.rename(out_path)
+                return True, "ok"
+            except Exception as inner_e:
+                # Cleanup temp file on any failure
+                try:
+                    if f:
+                        f.close()
+                    if tmp_path.exists():
+                        tmp_path.unlink(missing_ok=True)
+                except Exception:
+                    pass
+                return False, str(inner_e)
     except Exception as e:
         return False, str(e)
 
@@ -88,10 +167,17 @@ def main():
     items: List[Dict[str, Any]] = json.loads(companies_path.read_text() or "[]")
 
     queued = []
+    changed_any = False
     for item in items:
         needed, reason = _needs_download(item, all_items)
         print(reason, flush=True)
+        # Always attempt to link an existing file before deciding to queue
+        linked = _link_existing_download(item, download_dir)
+        if linked:
+            changed_any = True
+            _persist_json(companies_path, items)
         if not needed:
+            # If we aren't downloading, we may have linked or nothing to do
             continue
         report = item.get("report") or {}
         file = report.get("file") or {}
@@ -99,6 +185,9 @@ def main():
         info = item.get("info") or {}
         ticker = (info.get("ticker") or "").strip()
         if not url:
+            # If no URL, but we just linked an existing file, skip queue
+            if linked:
+                continue
             continue
         # Skip if already downloaded per companies.json
         dl = (report.get("download") or {})
@@ -107,9 +196,25 @@ def main():
         if dl_status == "ok" and dl_path and Path(dl_path).exists():
             print(f"SKIP {ticker}: already downloaded at {dl_path}", flush=True)
             continue
+        # If we can determine the target path and it already exists, link and skip queue
+        url_hash = _hash_url(url)
+        base_name = _safe_filename_from_url(url)
+        file_name = f"{ticker}_{url_hash}_{base_name}".replace(" ", "_")
+        out_path = download_dir / file_name
+        if out_path.exists():
+            report.setdefault("download", {})
+            report["download"]["path"] = str(out_path)
+            report["download"]["status"] = "ok"
+            report["download"]["error"] = None
+            item["report"] = report
+            print(f"FOUND {ticker}: existing expected file {out_path.name}; linked", flush=True)
+            changed_any = True
+            _persist_json(companies_path, items)
+            continue
         queued.append(item)
 
-    for item in queued:
+    total = len(queued)
+    for idx, item in enumerate(queued, start=1):
         info = item.get("info") or {}
         name = (info.get("name") or "").strip()
         ticker = (info.get("ticker") or "").strip()
@@ -123,11 +228,22 @@ def main():
         # Prefix with ticker and short hash to reduce collisions
         file_name = f"{ticker}_{url_hash}_{base_name}".replace(" ", "_")
         out_path = download_dir / file_name
+        if out_path.exists():
+            # Avoid re-downloading if already present (race or previous run)
+            report.setdefault("download", {})
+            report["download"]["path"] = str(out_path)
+            report["download"]["status"] = "ok"
+            report["download"]["error"] = None
+            item["report"] = report
+            print(f"FOUND [{idx}/{total}] {ticker}: file already exists, linked {out_path.name}", flush=True)
+            continue
         ok, msg = _download_pdf(url, out_path)
         if not ok:
             # Reset the report entirely on download failure
             item["report"] = None
-            print(f"ERROR {ticker}: download failed ({msg}); report reset to null", flush=True)
+            print(f"ERROR [{idx}/{total}] {ticker}: download failed ({msg}); report reset to null", flush=True)
+            changed_any = True
+            _persist_json(companies_path, items)
         else:
             # Write back into companies.json under report.download
             report.setdefault("download", {})
@@ -135,10 +251,13 @@ def main():
             report["download"]["status"] = "ok"
             report["download"]["error"] = None
             item["report"] = report
-            print(f"DOWNLOADED {ticker}: {out_path.name} ({msg})", flush=True)
+            print(f"DOWNLOADED [{idx}/{total}] {ticker}: {out_path.name} ({msg})", flush=True)
+            changed_any = True
+            _persist_json(companies_path, items)
 
     # Persist updates
-    companies_path.write_text(json.dumps(items, ensure_ascii=False, indent=2))
+    if changed_any:
+        companies_path.write_text(json.dumps(items, ensure_ascii=False, indent=2))
     print(f"Updated {companies_path}", flush=True)
 
 
