@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 from pathlib import Path
 from typing import Dict, List, Tuple
 
@@ -23,4 +24,9 @@ def dump_companies(
     payload["companies"] = [
         company.model_dump(exclude_none=True) for company in companies
     ]
-    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    serialized = json.dumps(payload, ensure_ascii=False, indent=2)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as handle:
+        handle.write(serialized)
+        handle.flush()
+        os.fsync(handle.fileno())

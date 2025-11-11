@@ -249,7 +249,7 @@ def summarise_stages(company: Company, stage_counts: Counter) -> None:
     if download and download.pdf_path:
         stage_counts["downloaded"] += 1
     extraction = company.extraction_record
-    if extraction and extraction.json_path:
+    if extraction and extraction.text_path:
         stage_counts["extracted"] += 1
     if emissions_complete(company.emissions):
         stage_counts["verified"] += 1

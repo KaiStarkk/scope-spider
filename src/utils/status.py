@@ -44,11 +44,17 @@ def needs_extraction(company: Company, verify_path: bool = True) -> bool:
     if needs_download(company, verify_path=verify_path):
         return False
     record = company.extraction_record
-    json_path = record.json_path if record else None
-    if not json_path:
+    text_path = record.text_path if record else None
+    if not text_path:
         return True
-    if verify_path and not _path_exists(json_path):
+    if verify_path and not _path_exists(text_path):
         return True
+    if record and record.table_count > 0:
+        table_path = record.table_path
+        if not table_path:
+            return True
+        if verify_path and not _path_exists(table_path):
+            return True
     return False
 
 

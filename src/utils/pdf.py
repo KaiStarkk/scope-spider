@@ -30,21 +30,22 @@ def keyword_hit_pages(pages: List[str], keyword_re: Pattern[str]) -> List[int]:
     return hits
 
 
-def build_snippet(
+def build_text_snippet(
     pages: List[str],
-    hits: List[int],
+    selected_pages: List[int],
     *,
-    window: int = 1,
     max_chars: int = 12000,
 ) -> Tuple[str, List[int]]:
-    if not hits:
-        chosen = list(range(min(2, len(pages))))
-    else:
-        chosen: List[int] = []
-        for hit in hits:
-            for i in range(max(0, hit - window), min(len(pages), hit + window + 1)):
-                if i not in chosen:
-                    chosen.append(i)
+    if not selected_pages:
+        return "", []
+    chosen: List[int] = []
+    seen: set[int] = set()
+    for index in selected_pages:
+        if index in seen:
+            continue
+        if 0 <= index < len(pages):
+            chosen.append(index)
+            seen.add(index)
     buffer: List[str] = []
     for index in chosen:
         page_text = (pages[index] or "").strip()
