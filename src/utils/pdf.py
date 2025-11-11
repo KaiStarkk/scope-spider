@@ -5,13 +5,19 @@ from pathlib import Path
 from typing import List, Pattern, Tuple
 
 from PyPDF2 import PdfReader
-from PyPDF2.errors import PdfReadError
+from PyPDF2.errors import DependencyError, PdfReadError
 
 
 def extract_pdf_text(pdf_path: Path) -> List[str]:
     pages: List[str] = []
     try:
         reader = PdfReader(str(pdf_path))
+    except DependencyError as exc:
+        print(
+            f"[pdf] WARN: unable to read {pdf_path} (missing dependency: {exc})",
+            flush=True,
+        )
+        return pages
     except (PdfReadError, OSError):
         return pages
     for page in reader.pages:

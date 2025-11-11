@@ -11,7 +11,11 @@ from pydantic import BaseModel
 
 from src.models import Company, SearchRecord
 from src.utils.companies import dump_companies, load_companies
-from src.utils.documents import classify_document_type, infer_year_from_text
+from src.utils.documents import (
+    MAX_REPORT_YEAR,
+    classify_document_type,
+    infer_year_from_text,
+)
 from src.utils.documents import normalise_pdf_url  # type: ignore[attr-defined]
 from src.utils.pdf import extract_pdf_text
 from src.utils.query import derive_filename
@@ -32,16 +36,27 @@ def _resolve_pdf_path(base_file: Path, pdf_path_str: str) -> Path:
     return candidate
 
 
-def _highest_year_from_pages(pages: Iterable[str]) -> Optional[str]:
+def _highest_year_from_pages(
+    pages: Iterable[str],
+) -> Tuple[Optional[str], Optional[int]]:
     pattern = re.compile(r"20\d{2}")
-    years: list[int] = []
+    valid_years: list[int] = []
+    future_years: list[int] = []
     for text in pages:
         if not text:
             continue
-        years.extend(int(match) for match in pattern.findall(text))
-    if not years:
-        return None
-    return str(max(years))
+        for match in pattern.findall(text):
+            try:
+                year = int(match)
+            except ValueError:
+                continue
+            if 2000 <= year <= MAX_REPORT_YEAR:
+                valid_years.append(year)
+            elif year > MAX_REPORT_YEAR:
+                future_years.append(year)
+    best_year = str(max(valid_years)) if valid_years else None
+    future_year = max(future_years) if future_years else None
+    return best_year, future_year
 
 
 def validate_search_record(
@@ -68,9 +83,11 @@ def validate_search_record(
         issues.append(
             Issue(
                 ticker,
-                "search record removed (non-PDF URL)"
-                if enforce_pdf_only
-                else "search URL is not a direct PDF (pass --pdf to remove)",
+                (
+                    "search record removed (non-PDF URL)"
+                    if enforce_pdf_only
+                    else "search URL is not a direct PDF (pass --pdf to remove)"
+                ),
                 enforce_pdf_only,
             )
         )
@@ -114,21 +131,47 @@ def validate_search_record(
             record.year = None
             changes = True
 
+    if record.year and record.year.isdigit():
+        numeric_year = int(record.year)
+        if numeric_year > MAX_REPORT_YEAR:
+            issues.append(
+                Issue(
+                    ticker,
+                    f"year {numeric_year} exceeds supported maximum {MAX_REPORT_YEAR}; cleared",
+                    True,
+                )
+            )
+            record.year = None
+            changes = True
+
     if check_pdf_year:
         if pdf_path and pdf_path.exists() and pdf_path.suffix.lower() == ".pdf":
-            pages = extract_pdf_text(pdf_path)[:2]
-            pdf_year = _highest_year_from_pages(pages)
-            if pdf_year and record.year != pdf_year:
-                record.year = pdf_year
-                issues.append(
-                    Issue(ticker, f"year corrected to {pdf_year} based on PDF", True)
-                )
-                changes = True
-            elif not pdf_year:
+            pages = extract_pdf_text(pdf_path)[:1]
+            pdf_year, future_year = _highest_year_from_pages(pages)
+            if future_year:
                 issues.append(
                     Issue(
                         ticker,
-                        "year check: no 20XX year found in first two PDF pages",
+                        f"year check: ignored future year {future_year} on first PDF page",
+                        False,
+                    )
+                )
+            if pdf_year:
+                if record.year != pdf_year:
+                    record.year = pdf_year
+                    issues.append(
+                        Issue(
+                            ticker,
+                            f"year corrected to {pdf_year} based on first PDF page",
+                            True,
+                        )
+                    )
+                    changes = True
+            elif not future_year:
+                issues.append(
+                    Issue(
+                        ticker,
+                        "year check: no 20XX year found on first PDF page",
                         False,
                     )
                 )
@@ -314,6 +357,18 @@ def main(argv: list[str]) -> int:
         issues.append(Issue("GLOBAL", "top-level 'companies' is not a list", False))
         raw_companies = []
 
+    check_total = 0
+    if check_pdf_year:
+        for company in companies:
+            if (
+                company.search_record
+                and company.download_record
+                and company.download_record.pdf_path
+            ):
+                check_total += 1
+        print(f"[checkyear] Eligible companies: {check_total}", flush=True)
+    check_progress = 0
+
     for idx, company in enumerate(companies):
         ticker = company.identity.ticker or f"company[{idx}]"
 
@@ -338,6 +393,11 @@ def main(argv: list[str]) -> int:
             any_changes = True
 
         record_issues: Iterable[Issue] = []
+        original_year = company.search_record.year if company.search_record else None
+
+        pdf_name = "unknown"
+        company_modified = False
+
         if company.search_record:
             pdf_path: Optional[Path] = None
             per_company_check = check_pdf_year and company.download_record is not None
@@ -345,6 +405,16 @@ def main(argv: list[str]) -> int:
                 candidate = _resolve_pdf_path(path, company.download_record.pdf_path)
                 if candidate.exists():
                     pdf_path = candidate
+                check_progress += 1
+                pdf_name = (
+                    candidate.name
+                    if company.download_record and company.download_record.pdf_path
+                    else "unknown"
+                )
+                print(
+                    f"[checkyear] [{check_progress}/{check_total}] {ticker}: checking {pdf_name}",
+                    flush=True,
+                )
             changed, remove_record, record_issues = validate_search_record(
                 company.search_record,
                 ticker,
@@ -352,16 +422,88 @@ def main(argv: list[str]) -> int:
                 per_company_check,
                 pdf_path,
             )
+            if per_company_check:
+                new_year = company.search_record.year if company.search_record else None
+                summary: str
+                if remove_record:
+                    reason = "; ".join(issue.message for issue in record_issues) or (
+                        "search record removed"
+                    )
+                    summary = f"search record removed ({reason})"
+                elif not pdf_path:
+                    summary = "skipped year check (PDF not available)"
+                else:
+                    no_year_detected = any(
+                        "no 20XX year found" in issue.message for issue in record_issues
+                    )
+                    future_issue = next(
+                        (
+                            issue
+                            for issue in record_issues
+                            if "ignored future year" in issue.message
+                        ),
+                        None,
+                    )
+                    future_year_display: Optional[str] = None
+                    if future_issue:
+                        match_future = re.search(r"20\d{2}", future_issue.message)
+                        if match_future:
+                            future_year_display = match_future.group(0)
+
+                    future_suffix = (
+                        f"; ignored future year {future_year_display} on first page"
+                        if future_year_display
+                        else ""
+                    )
+
+                    if new_year == original_year and not no_year_detected:
+                        if new_year:
+                            summary = (
+                                f"existing year {new_year} confirmed from {pdf_name}"
+                                f"{future_suffix}"
+                            )
+                        else:
+                            summary = (
+                                f"year remains unset for {pdf_name}{future_suffix}"
+                            )
+                    elif new_year != original_year:
+                        summary = (
+                            f"year changed {original_year or 'unknown'} -> {new_year or 'unknown'} "
+                            f"from {pdf_name}"
+                            f"{future_suffix}"
+                        )
+                    elif future_year_display:
+                        summary = (
+                            f"ignored future year {future_year_display} on first page of {pdf_name}; "
+                            f"current year {new_year or 'unknown'}"
+                        )
+                    elif no_year_detected:
+                        summary = f"no year detected on first page of {pdf_name}; current year {new_year or 'unknown'}"
+                    else:
+                        summary = f"year status unchanged for {pdf_name}{future_suffix}"
+                print(
+                    f"[checkyear] [{check_progress}/{check_total}] {ticker}: {summary}",
+                    flush=True,
+                )
             if remove_record:
                 company.search_record = None
+                company_modified = True
             if changed or remove_record:
                 any_changes = True
+                company_modified = True
         issues.extend(record_issues)
         if any(issue.fixed for issue in record_issues):
             any_changes = True
 
         summarise_stages(company, stage_counts)
         summarise_documents(company.search_record, doc_counter)
+
+        if write and company_modified:
+            dump_companies(path, payload, companies)
+            print(
+                f"[write] Flushed updates for {ticker} to {path.name}",
+                flush=True,
+            )
 
     if any_changes and write:
         dump_companies(path, payload, companies)

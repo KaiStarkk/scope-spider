@@ -5,6 +5,10 @@ from typing import Literal, Optional
 from urllib.parse import urlparse, urlunparse
 
 
+MIN_REPORT_YEAR = 2000
+MAX_REPORT_YEAR = 2025
+
+
 ANNUAL_KEYWORDS = (
     "annual report",
     "annual-report",
@@ -46,7 +50,7 @@ def infer_year_from_text(*sources: str) -> Optional[str]:
                 value = int(match)
             except ValueError:
                 continue
-            if 2000 <= value <= 2100:
+            if MIN_REPORT_YEAR <= value <= MAX_REPORT_YEAR:
                 candidate_years.append(value)
 
         for match in re.findall(r"\bfy\s*(?:20)?(\d{2})\b", lowered):
@@ -57,7 +61,7 @@ def infer_year_from_text(*sources: str) -> Optional[str]:
             if value < 0 or value > 99:
                 continue
             inferred = 2000 + value
-            if 2000 <= inferred <= 2100:
+            if MIN_REPORT_YEAR <= inferred <= MAX_REPORT_YEAR:
                 candidate_years.append(inferred)
 
     if not candidate_years:
@@ -83,6 +87,8 @@ def normalise_pdf_url(raw_url: str | None) -> tuple[str, bool]:
 
 
 __all__ = [
+    "MAX_REPORT_YEAR",
+    "MIN_REPORT_YEAR",
     "classify_document_type",
     "infer_year_from_text",
     "normalise_pdf_url",
