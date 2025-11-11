@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import sys
 from collections import Counter
+import re
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable, Optional, Tuple, Type, get_args, get_origin, Literal
@@ -12,6 +13,7 @@ from src.models import Company, SearchRecord
 from src.utils.companies import dump_companies, load_companies
 from src.utils.documents import classify_document_type, infer_year_from_text
 from src.utils.documents import normalise_pdf_url  # type: ignore[attr-defined]
+from src.utils.pdf import extract_pdf_text
 from src.utils.query import derive_filename
 from src.utils.status import emissions_complete
 
@@ -23,8 +25,31 @@ class Issue:
     fixed: bool = False
 
 
+def _resolve_pdf_path(base_file: Path, pdf_path_str: str) -> Path:
+    candidate = Path(pdf_path_str)
+    if not candidate.is_absolute():
+        candidate = base_file.parent / candidate
+    return candidate
+
+
+def _highest_year_from_pages(pages: Iterable[str]) -> Optional[str]:
+    pattern = re.compile(r"20\d{2}")
+    years: list[int] = []
+    for text in pages:
+        if not text:
+            continue
+        years.extend(int(match) for match in pattern.findall(text))
+    if not years:
+        return None
+    return str(max(years))
+
+
 def validate_search_record(
-    record: SearchRecord, ticker: str
+    record: SearchRecord,
+    ticker: str,
+    enforce_pdf_only: bool,
+    check_pdf_year: bool,
+    pdf_path: Optional[Path],
 ) -> tuple[bool, bool, Iterable[Issue]]:
     changes = False
     issues: list[Issue] = []
@@ -40,8 +65,18 @@ def validate_search_record(
         changes = True
 
     if not is_pdf:
-        issues.append(Issue(ticker, "search record removed (non-PDF URL)", True))
-        return True, True, issues
+        issues.append(
+            Issue(
+                ticker,
+                "search record removed (non-PDF URL)"
+                if enforce_pdf_only
+                else "search URL is not a direct PDF (pass --pdf to remove)",
+                enforce_pdf_only,
+            )
+        )
+        if enforce_pdf_only:
+            return True, True, issues
+        return changes, False, issues
 
     expected_filename = derive_filename(record.url, record.filename or "")
     if record.filename != expected_filename:
@@ -78,6 +113,33 @@ def validate_search_record(
             issues.append(Issue(ticker, "invalid year format; cleared", True))
             record.year = None
             changes = True
+
+    if check_pdf_year:
+        if pdf_path and pdf_path.exists() and pdf_path.suffix.lower() == ".pdf":
+            pages = extract_pdf_text(pdf_path)[:2]
+            pdf_year = _highest_year_from_pages(pages)
+            if pdf_year and record.year != pdf_year:
+                record.year = pdf_year
+                issues.append(
+                    Issue(ticker, f"year corrected to {pdf_year} based on PDF", True)
+                )
+                changes = True
+            elif not pdf_year:
+                issues.append(
+                    Issue(
+                        ticker,
+                        "year check: no 20XX year found in first two PDF pages",
+                        False,
+                    )
+                )
+        else:
+            issues.append(
+                Issue(
+                    ticker,
+                    "year check: PDF not available; skipped",
+                    False,
+                )
+            )
 
     return changes, False, issues
 
@@ -228,12 +290,15 @@ def format_stage_summary(stage_counts: Counter, total: int) -> str:
 def main(argv: list[str]) -> int:
     if len(argv) < 2:
         print(
-            "Usage: python -m src.s0_stats <companies.json> [--write]", file=sys.stderr
+            "Usage: python -m src.s0_stats <companies.json> [--write] [--pdf] [--checkyear]",
+            file=sys.stderr,
         )
         return 1
 
     path = Path(argv[1]).expanduser().resolve()
     write = "--write" in argv[2:]
+    enforce_pdf_only = "--pdf" in argv[2:]
+    check_pdf_year = "--checkyear" in argv[2:]
 
     companies, payload = load_companies(path)
 
@@ -274,8 +339,18 @@ def main(argv: list[str]) -> int:
 
         record_issues: Iterable[Issue] = []
         if company.search_record:
+            pdf_path: Optional[Path] = None
+            per_company_check = check_pdf_year and company.download_record is not None
+            if per_company_check and company.download_record:
+                candidate = _resolve_pdf_path(path, company.download_record.pdf_path)
+                if candidate.exists():
+                    pdf_path = candidate
             changed, remove_record, record_issues = validate_search_record(
-                company.search_record, ticker
+                company.search_record,
+                ticker,
+                enforce_pdf_only,
+                per_company_check,
+                pdf_path,
             )
             if remove_record:
                 company.search_record = None

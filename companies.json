@@ -122,7 +122,16 @@
         "name": "Qantas Airways Ltd.",
         "ticker": "QAN-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/QAN-AU_2025%20sustainability%20report.pdf",
+        "title": "QAN-AU_2025%20sustainability%20report.pdf",
+        "filename": "QAN-AU_2025%20sustainability%20report.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/QAN-AU_2025 sustainability report.pdf"
+      }
     },
     {
       "identity": {
@@ -340,7 +349,16 @@
         "name": "Centuria Capital Group",
         "ticker": "CNI-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/CNI-AU_Sustainability-report_2025-v12.pdf",
+        "title": "CNI-AU_Sustainability-report_2025-v12.pdf",
+        "filename": "CNI-AU_Sustainability-report_2025-v12.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/CNI-AU_Sustainability-report_2025-v12.pdf"
+      }
     },
     {
       "identity": {
@@ -565,7 +583,16 @@
         "name": "Santos Ltd.",
         "ticker": "STO-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/STO-AU_2023-Sustainability-Report-FINAL.pdf",
+        "title": "STO-AU_2023-Sustainability-Report-FINAL.pdf",
+        "filename": "STO-AU_2023-Sustainability-Report-FINAL.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/STO-AU_2023-Sustainability-Report-FINAL.pdf"
+      }
     },
     {
       "identity": {
@@ -1094,7 +1121,16 @@
         "name": "Solvar Ltd.",
         "ticker": "SVR-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/SVR-AU_Solvar_Limited_2025_Annual_Report.pdf",
+        "title": "SVR-AU_Solvar_Limited_2025_Annual_Report.pdf",
+        "filename": "SVR-AU_Solvar_Limited_2025_Annual_Report.pdf",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/SVR-AU_Solvar_Limited_2025_Annual_Report.pdf"
+      }
     },
     {
       "identity": {
@@ -1118,7 +1154,17 @@
         "name": "Engenco Ltd.",
         "ticker": "EGN-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/EGN-AU_annual-report-2024.pdf",
+        "title": "EGN-AU_annual-report-2024.pdf",
+        "filename": "EGN-AU_annual-report-2024.pdf",
+        "year": "2024",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/EGN-AU_annual-report-2024.pdf"
+      }
     },
     {
       "identity": {
@@ -1353,7 +1399,17 @@
         "name": "Insurance Australia Group Ltd.",
         "ticker": "IAG-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "https://www.iag.com.au/sites/default/files/Documents/Annual%20Reports/2025%20Annual%20Report.pdf",
+        "title": "Insurance Australia Group Limited 2025 Annual Report",
+        "filename": "2025%20Annual%20Report.pdf",
+        "year": "2025",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "downloads/IAG-AU_fy25-annual-report.pdf"
+      }
     },
     {
       "identity": {
@@ -1431,7 +1487,14 @@
         "name": "Orica Ltd.",
         "ticker": "ORI-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "https://www.orica.com/ArticleDocuments/311/FY2024%20Climate%20Action%20Report.pdf.aspx",
+        "title": "report.pdf",
+        "filename": "report.pdf",
+        "year": "2024",
+        "doc_type": "sustainability"
+      }
     },
     {
       "identity": {
@@ -1495,7 +1558,16 @@
         "name": "Washington H. Soul Pattinson & Co. Ltd.",
         "ticker": "SOL-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/SOL-AU_2024%20sustainability.pdf",
+        "title": "SOL-AU_2024%20sustainability.pdf",
+        "filename": "SOL-AU_2024%20sustainability.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/SOL-AU_2024 sustainability.pdf"
+      }
     },
     {
       "identity": {
@@ -1541,7 +1613,16 @@
         "name": "Dyno Nobel Ltd.",
         "ticker": "DNL-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/DNL-AU_2024-ipl-sustainability-report.pdf",
+        "title": "DNL-AU_2024-ipl-sustainability-report.pdf",
+        "filename": "DNL-AU_2024-ipl-sustainability-report.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/DNL-AU_2024-ipl-sustainability-report.pdf"
+      }
     },
     {
       "identity": {
@@ -1684,7 +1765,16 @@
         "name": "Bank of Queensland Ltd.",
         "ticker": "BOQ-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/BOQ-AU_25-annual-report.pdf",
+        "title": "BOQ-AU_25-annual-report.pdf",
+        "filename": "BOQ-AU_25-annual-report.pdf",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/BOQ-AU_25-annual-report.pdf"
+      }
     },
     {
       "identity": {
@@ -2040,7 +2130,16 @@
         "name": "K&S Corp. Ltd.",
         "ticker": "KSC-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/KSC-AU_29578-KS-Annual-Report-2025_web-FINAL-printed.pdf",
+        "title": "KSC-AU_29578-KS-Annual-Report-2025_web-FINAL-printed.pdf",
+        "filename": "KSC-AU_29578-KS-Annual-Report-2025_web-FINAL-printed.pdf",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/KSC-AU_29578-KS-Annual-Report-2025_web-FINAL-printed.pdf"
+      }
     },
     {
       "identity": {
@@ -2205,7 +2304,16 @@
         "name": "Paladin Energy Ltd.",
         "ticker": "PDN-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/PDN-AU_Sustainability%202025.pdf.pdf",
+        "title": "PDN-AU_Sustainability%202025.pdf.pdf",
+        "filename": "PDN-AU_Sustainability%202025.pdf.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/PDN-AU_Sustainability 2025.pdf.pdf"
+      }
     },
     {
       "identity": {
@@ -2359,13 +2467,6 @@
       "download_record": {
         "pdf_path": "downloads/NHC-AU_1aa5d9b47c_859152_New_Hope_Group_Appendix_4E_and_Annual_Report_2025.pdf"
       }
-    },
-    {
-      "identity": {
-        "name": "Charter Hall Retail REIT",
-        "ticker": "CQR-AU"
-      },
-      "emissions": {}
     },
     {
       "identity": {
@@ -2575,7 +2676,17 @@
         "name": "Abacus Group",
         "ticker": "ABG-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/ABG-AU_-FY25-Financial-Statements-Appendix-4E.pdf",
+        "title": "ABG-AU_-FY25-Financial-Statements-Appendix-4E.pdf",
+        "filename": "ABG-AU_-FY25-Financial-Statements-Appendix-4E.pdf",
+        "year": "2025",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/ABG-AU_-FY25-Financial-Statements-Appendix-4E.pdf"
+      }
     },
     {
       "identity": {
@@ -2853,7 +2964,16 @@
         "name": "Mesoblast Ltd.",
         "ticker": "MSB-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/MSB-AU_ASX_MSB_2024.pdf",
+        "title": "MSB-AU_ASX_MSB_2024.pdf",
+        "filename": "MSB-AU_ASX_MSB_2024.pdf",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/MSB-AU_ASX_MSB_2024.pdf"
+      }
     },
     {
       "identity": {
@@ -3263,7 +3383,17 @@
         "name": "NRW Holdings Ltd.",
         "ticker": "NWH-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/NWH-AU_Annual-Report-2025-Digital.pdf",
+        "title": "NWH-AU_Annual-Report-2025-Digital.pdf",
+        "filename": "NWH-AU_Annual-Report-2025-Digital.pdf",
+        "year": "2025",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/NWH-AU_Annual-Report-2025-Digital.pdf"
+      }
     },
     {
       "identity": {
@@ -3491,7 +3621,17 @@
         "name": "MyState Ltd.",
         "ticker": "MYS-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "https://announcements.asx.com.au/asxpdf/20231215/pdf/05ylx9ksxpm4wc.pdf",
+        "title": "MyState Limited Annual Report 2025",
+        "filename": "05ylx9ksxpm4wc.pdf",
+        "year": "2025",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "downloads/MYS-AU_6678521cfe_05ylx9ksxpm4wc.pdf"
+      }
     },
     {
       "identity": {
@@ -3532,7 +3672,17 @@
         "name": "Bega Cheese Ltd.",
         "ticker": "BGA-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/BGA-AU_154989-Bega-Annual-Report-2025-Web.pdf",
+        "title": "BGA-AU_154989-Bega-Annual-Report-2025-Web.pdf",
+        "filename": "BGA-AU_154989-Bega-Annual-Report-2025-Web.pdf",
+        "year": "2025",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/BGA-AU_154989-Bega-Annual-Report-2025-Web.pdf"
+      }
     },
     {
       "identity": {
@@ -3641,7 +3791,16 @@
         "name": "Appen Ltd.",
         "ticker": "APX-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/APX-AU_67c1060434fb0aa9be39659f_Appen%20Annual%20Report%202024.pdf",
+        "title": "APX-AU_67c1060434fb0aa9be39659f_Appen%20Annual%20Report%202024.pdf",
+        "filename": "APX-AU_67c1060434fb0aa9be39659f_Appen%20Annual%20Report%202024.pdf",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/APX-AU_67c1060434fb0aa9be39659f_Appen Annual Report 2024.pdf"
+      }
     },
     {
       "identity": {
@@ -3699,7 +3858,17 @@
         "name": "EcoGraf Ltd.",
         "ticker": "EGR-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/EGR-AU_EcoGraf-Annual-Report-2025.pdf",
+        "title": "EGR-AU_EcoGraf-Annual-Report-2025.pdf",
+        "filename": "EGR-AU_EcoGraf-Annual-Report-2025.pdf",
+        "year": "2025",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/EGR-AU_EcoGraf-Annual-Report-2025.pdf"
+      }
     },
     {
       "identity": {
@@ -3740,7 +3909,17 @@
         "name": "The Star Entertainment Group Ltd.",
         "ticker": "SGR-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/SGR-AU_TSEG-Annual-Report-2025.pdf",
+        "title": "SGR-AU_TSEG-Annual-Report-2025.pdf",
+        "filename": "SGR-AU_TSEG-Annual-Report-2025.pdf",
+        "year": "2025",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/SGR-AU_TSEG-Annual-Report-2025.pdf"
+      }
     },
     {
       "identity": {
@@ -3849,7 +4028,17 @@
         "name": "Kelsian Group Ltd.",
         "ticker": "KLS-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "https://cdn.kelsian.com/volumes/uploads/Audio/07_Sustainability-Report-2024-25_29.09.25.pdf",
+        "title": "07_Sustainability-Report-2024-25_29.09.25.pdf",
+        "filename": "07_Sustainability-Report-2024-25_29.09.25.pdf",
+        "year": "2024",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "downloads/KLS-AU_43b2fdf87f_07_Sustainability-Report-2024-25_29.09.25.pdf"
+      }
     },
     {
       "identity": {
@@ -3941,14 +4130,33 @@
         "name": "EML Payments Ltd.",
         "ticker": "EML-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "https://emlpayments-stagingcms.bla.bio/wp-content/uploads/2025/08/FY25-Annual-Report.pdf",
+        "title": "FY25-Annual-Report.pdf",
+        "filename": "FY25-Annual-Report.pdf",
+        "year": "2025",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "downloads/EML-AU_fe1b3ed23c_FY25-Annual-Report.pdf"
+      }
     },
     {
       "identity": {
         "name": "Evolution Mining Ltd.",
         "ticker": "EVN-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/EVN-AU_Annual_Report_to_shareholders.pdf",
+        "title": "EVN-AU_Annual_Report_to_shareholders.pdf",
+        "filename": "EVN-AU_Annual_Report_to_shareholders.pdf",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/EVN-AU_Annual_Report_to_shareholders.pdf"
+      }
     },
     {
       "identity": {
@@ -4295,7 +4503,17 @@
         "name": "GDI Property Group Ltd.",
         "ticker": "GDI-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/GDI-AU_-Annual-Report-30-June-2025-FINAL.pdf",
+        "title": "GDI-AU_-Annual-Report-30-June-2025-FINAL.pdf",
+        "filename": "GDI-AU_-Annual-Report-30-June-2025-FINAL.pdf",
+        "year": "2025",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/GDI-AU_-Annual-Report-30-June-2025-FINAL.pdf"
+      }
     },
     {
       "identity": {
@@ -4319,7 +4537,17 @@
         "name": "Rural Funds Group",
         "ticker": "RFF-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "https://announcements.asx.com.au/asxpdf/20250221/pdf/06fs8mjttfq19y.pdf",
+        "title": "Rural Funds Group Half-Year Financial Report for the period ended 31 December 2024",
+        "filename": "06fs8mjttfq19y.pdf",
+        "year": "2024",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "downloads/RFF-AU_5e3605d418_06fs8mjttfq19y.pdf"
+      }
     },
     {
       "identity": {
@@ -4496,7 +4724,16 @@
         "name": "Centuria Office REIT",
         "ticker": "COF-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/COF-AU_Report_ComNews_20250929_03000078.pdf",
+        "title": "COF-AU_Report_ComNews_20250929_03000078.pdf",
+        "filename": "COF-AU_Report_ComNews_20250929_03000078.pdf",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/COF-AU_Report_ComNews_20250929_03000078.pdf"
+      }
     },
     {
       "identity": {
@@ -4604,7 +4841,16 @@
         "name": "Integral Diagnostics Ltd.",
         "ticker": "IDX-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/IDX-AU_Annual-Report-2025_26-August-2025_FINAL-RELEASE.pdf",
+        "title": "IDX-AU_Annual-Report-2025_26-August-2025_FINAL-RELEASE.pdf",
+        "filename": "IDX-AU_Annual-Report-2025_26-August-2025_FINAL-RELEASE.pdf",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/IDX-AU_Annual-Report-2025_26-August-2025_FINAL-RELEASE.pdf"
+      }
     },
     {
       "identity": {
@@ -4760,17 +5006,19 @@
     },
     {
       "identity": {
-        "name": "Charter Hall Long WALE REIT",
-        "ticker": "CLW-AU"
-      },
-      "emissions": {}
-    },
-    {
-      "identity": {
         "name": "Johns Lyng Group Ltd.",
         "ticker": "JLG-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/JLG-AU_ASX_JLG_2024.pdf",
+        "title": "JLG-AU_ASX_JLG_2024.pdf",
+        "filename": "JLG-AU_ASX_JLG_2024.pdf",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/JLG-AU_ASX_JLG_2024.pdf"
+      }
     },
     {
       "identity": {
@@ -4859,7 +5107,16 @@
         "name": "Telix Pharmaceuticals Ltd.",
         "ticker": "TLX-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/TLX-AU_Telix%20Pharmaceuticals%20Annual%20Report%202024.pdf",
+        "title": "TLX-AU_Telix%20Pharmaceuticals%20Annual%20Report%202024.pdf",
+        "filename": "TLX-AU_Telix%20Pharmaceuticals%20Annual%20Report%202024.pdf",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/TLX-AU_Telix Pharmaceuticals Annual Report 2024.pdf"
+      }
     },
     {
       "identity": {
@@ -5051,7 +5308,16 @@
         "name": "KKR Credit Income Fund",
         "ticker": "KKC-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/KKC-AU_Appendix4Eand2023FullYearStatutoryAccounts.pdf",
+        "title": "KKC-AU_Appendix4Eand2023FullYearStatutoryAccounts.pdf",
+        "filename": "KKC-AU_Appendix4Eand2023FullYearStatutoryAccounts.pdf",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/KKC-AU_Appendix4Eand2023FullYearStatutoryAccounts.pdf"
+      }
     },
     {
       "identity": {
@@ -5450,7 +5716,16 @@
         "name": "Tasmea Ltd.",
         "ticker": "TEA-AU"
       },
-      "emissions": {}
+      "emissions": {},
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/TEA-AU_Tasmea%20Limited%20-%20FY25%20Annual%20Financial%20Report.pdf",
+        "title": "TEA-AU_Tasmea%20Limited%20-%20FY25%20Annual%20Financial%20Report.pdf",
+        "filename": "TEA-AU_Tasmea%20Limited%20-%20FY25%20Annual%20Financial%20Report.pdf",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/TEA-AU_Tasmea Limited - FY25 Annual Financial Report.pdf"
+      }
     },
     {
       "identity": {

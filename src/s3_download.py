@@ -151,29 +151,32 @@ def main():
         except DownloadError as exc:
             message = str(exc)
             is_not_found = "404" in message or "Not Found" in message
+            company.download_record = None
+            removed_records = True
             if is_not_found:
-                company.search_record = None
-                company.download_record = None
-                removed_records = True
-                print(
-                    f"ERROR [{idx}/{total}] {ticker}: download failed with 404; search record cleared",
-                    flush=True,
-                )
-                dump_companies(companies_path, payload, companies)
+                if clean_records:
+                    company.search_record = None
+                    print(
+                        f"ERROR [{idx}/{total}] {ticker}: download failed with 404; cleared search/download (--clean)",
+                        flush=True,
+                    )
+                else:
+                    print(
+                        f"ERROR [{idx}/{total}] {ticker}: download failed with 404; rerun with --clean to clear search record",
+                        flush=True,
+                    )
             elif clean_records:
-                company.download_record = None
                 company.search_record = None
-                removed_records = True
                 print(
                     f"ERROR [{idx}/{total}] {ticker}: download failed ({message}); cleared search/download (--clean)",
                     flush=True,
                 )
-                dump_companies(companies_path, payload, companies)
             else:
                 print(
-                    f"ERROR [{idx}/{total}] {ticker}: download failed ({message}); rerun with --clean to clear record",
+                    f"ERROR [{idx}/{total}] {ticker}: download failed ({message}); rerun with --clean to clear search record",
                     flush=True,
                 )
+            dump_companies(companies_path, payload, companies)
             continue
 
         company.download_record = DownloadRecord(pdf_path=str(out_path))
