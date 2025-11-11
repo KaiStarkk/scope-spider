@@ -5,7 +5,7 @@ from collections import Counter
 import re
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable, Optional, Tuple, Type, get_args, get_origin, Literal
+from typing import Iterable, List, Optional, Tuple, Type, get_args, get_origin, Literal
 
 from pydantic import BaseModel
 
@@ -20,6 +20,21 @@ from src.utils.documents import normalise_pdf_url  # type: ignore[attr-defined]
 from src.utils.pdf import extract_pdf_text
 from src.utils.query import derive_filename
 from src.utils.status import emissions_complete
+
+
+SCOPE_KEYWORDS = [
+    r"\bscope\s*1\b",
+    r"\bscope\s*2\b",
+    r"\bscope\s*3\b",
+    r"\bghg\b",
+    r"\bgreenhouse\s+gas",
+    r"\bemissions?\b",
+    r"\btco2e\b",
+    r"\bktco2e\b",
+    r"\bmtco2e\b",
+]
+SCOPE_KEYWORDS_RE = re.compile("|".join(SCOPE_KEYWORDS), re.IGNORECASE)
+SCOPE_SCAN_MAX_PAGES = 6
 
 
 @dataclass
@@ -333,7 +348,7 @@ def format_stage_summary(stage_counts: Counter, total: int) -> str:
 def main(argv: list[str]) -> int:
     if len(argv) < 2:
         print(
-            "Usage: python -m src.s0_stats <companies.json> [--write] [--pdf] [--checkyear]",
+            "Usage: python -m src.s0_stats <companies.json> [--write] [--pdf] [--checkyear] [--checkscope] [--delete]",
             file=sys.stderr,
         )
         return 1
@@ -342,6 +357,14 @@ def main(argv: list[str]) -> int:
     write = "--write" in argv[2:]
     enforce_pdf_only = "--pdf" in argv[2:]
     check_pdf_year = "--checkyear" in argv[2:]
+    check_scope = "--checkscope" in argv[2:]
+    delete_scope = "--delete" in argv[2:]
+    if delete_scope and not check_scope:
+        print(
+            "[warn] --delete has no effect without --checkscope; ignoring.",
+            flush=True,
+        )
+        delete_scope = False
 
     companies, payload = load_companies(path)
 
@@ -349,6 +372,11 @@ def main(argv: list[str]) -> int:
     doc_counter: Counter = Counter()
     issues: list[Issue] = []
     any_changes = False
+    scope_checked = 0
+    scope_hit = 0
+    scope_missing: List[str] = []
+    scope_skipped = 0
+    scope_deleted = 0
 
     raw_companies_raw = payload.get("companies", [])
     if isinstance(raw_companies_raw, list):
@@ -498,11 +526,110 @@ def main(argv: list[str]) -> int:
         summarise_stages(company, stage_counts)
         summarise_documents(company.search_record, doc_counter)
 
+        if check_scope:
+            if not company.download_record or not company.download_record.pdf_path:
+                scope_skipped += 1
+                print(
+                    f"[checkscope] {ticker}: skipped (no download record)",
+                    flush=True,
+                )
+            else:
+                scope_checked += 1
+                scope_present = False
+                scope_source = "unknown"
+                scope_notes: List[str] = []
+
+                snippet_path: Optional[Path] = None
+                if company.extraction_record and company.extraction_record.text_path:
+                    candidate_snippet = Path(
+                        company.extraction_record.text_path
+                    ).expanduser()
+                    if not candidate_snippet.is_absolute():
+                        candidate_snippet = (path.parent / candidate_snippet).resolve()
+                    snippet_path = candidate_snippet
+                    if snippet_path.exists():
+                        try:
+                            snippet_text = snippet_path.read_text(encoding="utf-8")
+                            if SCOPE_KEYWORDS_RE.search(snippet_text):
+                                scope_present = True
+                                scope_source = "snippet"
+                        except OSError as exc:
+                            scope_notes.append(f"snippet read error ({exc})")
+                    else:
+                        scope_notes.append("snippet missing")
+
+                if not scope_present:
+                    pdf_candidate = _resolve_pdf_path(
+                        path, company.download_record.pdf_path
+                    )
+                    if pdf_candidate.exists():
+                        pdf_pages = extract_pdf_text(pdf_candidate)[
+                            :SCOPE_SCAN_MAX_PAGES
+                        ]
+                        if not pdf_pages:
+                            scope_notes.append("no text extracted from PDF")
+                        else:
+                            for idx, page_text in enumerate(pdf_pages):
+                                if page_text and SCOPE_KEYWORDS_RE.search(page_text):
+                                    scope_present = True
+                                    scope_source = f"pdf page {idx + 1}"
+                                    break
+                    else:
+                        scope_notes.append("pdf missing on disk")
+
+                if scope_present:
+                    scope_hit += 1
+                    print(
+                        f"[checkscope] {ticker}: scope keywords found ({scope_source})",
+                        flush=True,
+                    )
+                else:
+                    scope_missing.append(ticker)
+                    note_suffix = f" ({'; '.join(scope_notes)})" if scope_notes else ""
+                    print(
+                        f"[checkscope] {ticker}: scope keywords missing{note_suffix}",
+                        flush=True,
+                    )
+                    if delete_scope:
+                        deleted_records = False
+                        if company.search_record is not None:
+                            company.search_record = None
+                            deleted_records = True
+                        if company.download_record is not None:
+                            company.download_record = None
+                            deleted_records = True
+                        if company.extraction_record is not None:
+                            company.extraction_record = None
+                            deleted_records = True
+                        if deleted_records:
+                            company_modified = True
+                            any_changes = True
+                            scope_deleted += 1
+                            print(
+                                f"[checkscope] {ticker}: cleared records due to missing scope keywords",
+                                flush=True,
+                            )
+
         if write and company_modified:
             dump_companies(path, payload, companies)
             print(
                 f"[write] Flushed updates for {ticker} to {path.name}",
                 flush=True,
+            )
+
+    if check_scope:
+        print("\nScope keyword coverage:")
+        print(f"  - Checked: {scope_checked}")
+        print(f"  - With scope keywords: {scope_hit}")
+        print(f"  - Missing scope keywords: {len(scope_missing)}")
+        if scope_skipped:
+            print(f"  - Skipped (no download): {scope_skipped}")
+        if delete_scope:
+            print(f"  - Records cleared: {scope_deleted}")
+        if scope_missing:
+            print(
+                "  - Missing tickers: "
+                + ", ".join(sorted(scope_missing))  # alphabetical for readability
             )
 
     if any_changes and write:
