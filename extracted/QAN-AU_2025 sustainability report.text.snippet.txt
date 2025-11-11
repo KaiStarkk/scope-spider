@@ -1,0 +1,309 @@
+=== Page 4 ===
+3
+Sustainability 
+frameworkStakeholder 
+engagementSustainability  
+governanceValuing  
+our planetEnabling  
+our peopleConnecting 
+customers and 
+communitiesNon-financial 
+metricsIndependent 
+assurance report
+Qantas Group Sustainability Report 2024Contents
+This Sustainability Report has been prepared for the purpose of providing investors, and other stakeholders,  
+with information regarding our approach to sustainability issues related to our business. It has not been prepared 
+as financial or investment advice or to provide any guidance in relation to the future performance of Qantas.
+This Report contains forward-looking statements and statements of opinion. These may include statements 
+regarding sustainability plans and strategies, the impact of climate change and other sustainability issues, 
+energy transition scenarios, actions of third parties, and external enablers such as technology development 
+and commercialisation (including with respect to sustainable aviation fuels), policy support, market support, 
+and energy and offsets availability. Words such as “continue”, “ambition”, “target”, “goal”, “expect”, “plan to” and 
+other similar expressions are used to identify forward-looking statements which discuss future expectations 
+concerning sustainability, including climate change and energy transition scenarios and outcomes.
+Any such statements are made only as at the date of this Report. The forward-looking information in this  
+Report is based on management’s expectations and reflects judgments, assumptions, estimates and other 
+information available as at the date of this Report and/or the date of Qantas’ planning or scenario analysis 
+processes. There are inherent limitations in scenario analysis and it is difficult to predict which, if any, of the 
+scenarios might eventuate. Scenario analysis relies on assumptions that may or may not be, or prove to be, 
+correct and may or may not eventuate, and scenarios may be impacted by additional factors to the assumptions 
+disclosed. Scenarios do not constitute definitive outcomes or probabilities. Readers are cautioned not to place 
+undue reliance on such statements, particularly in light of the long time horizon which this Report discusses 
+and the inherent uncertainties and limitations associated with measuring greenhouse gas emissions data, and 
+uncertainty around possible policy, market and technological developments. References to the forward-looking 
+information in this Report are estimates only, and readers should not place undue reliance on such information.
+No representation or warranty is made regarding the accuracy, completeness or reliability of the  
+forward-looking statements or opinions contained in this Report, or the assumptions on which either is based.  
+All such information by its nature, involves significant known and unknown risks, uncertainties and other factors, 
+many of which are subject to significant uncertainties outside of the control of Qantas, and actual results, 
+circumstances and developments may differ materially from those expressed or implied in this Report.  
+Except as required by applicable laws or regulations, Qantas does not undertake to publicly update or review  
+any forward-looking statements, whether as a result of new information or future events. To the maximum  
+extent permitted by law, Qantas and its officers do not accept any liability for any loss arising from the use  
+of the information contained in this Report.Chair’s message 4
+CEO’s message 5
+FY24 sustainability milestones  6
+About the Qantas Group 7
+About this Report 9
+Stakeholder engagement  11
+Sustainability framework  15
+Sustainability governance  17
+Valuing our planet  20
+Climate action 22
+Protecting nature  46
+Reducing waste through circularity 50
+Enabling our people 53
+Supporting our people to feel safe and valued 55
+Enhancing inclusion and diversity  67
+Respect for human rights 76
+Connecting customers and communities 78
+Connecting the regions 81
+Supporting communities  83
+Aboriginal and Torres Strait Islander partnerships 85
+Non-financial metrics  86
+Independent assurance report  90Overview
+
+=== Page 10 ===
+9
+Sustainability 
+frameworkStakeholder 
+engagementSustainability  
+governanceValuing  
+our planetEnabling  
+our peopleConnecting 
+customers and 
+communitiesNon-financial 
+metricsIndependent 
+assurance report
+Qantas Group Sustainability Report 2024About this Report
+Purpose 
+The purpose of this Report is to provide stakeholders 
+with a comprehensive update on progress against our 
+sustainability targets and on key actions undertaken in 
+FY24 under each area of our Sustainability Framework. 
+The Framework includes the social and environmental 
+sustainability issues of most importance to Qantas and  
+our stakeholders, and those where we can have the  
+greatest impact.
+Report scope and boundary
+Unless otherwise stated, this Sustainability Report 
+(Sustainability Report or Report) covers the period  
+1 July 2023 to 30 June 2024 (FY24) for Qantas Airways 
+Limited and its wholly owned entities. These entities 
+form the Group’s respective business segments, 
+including  Qantas International (including Qantas Freight), 
+Qantas Domestic (including QantasLink and Network 
+Aviation), Qantas Loyalty and Jetstar Group (including 
+Jetstar Airways and where specified Jetstar Asia).  
+All financial data is in Australian dollars, except  
+where explicitly  stated.
+In this Report, the terms ‘Qantas’, ‘Qantas Group’,  
+‘the Group’, ‘our business’, ‘organisation’, ‘we’, ‘us’,  
+‘our’ and ‘ourselves’ refer to Qantas Airways Limited  
+and its wholly owned entities unless stated otherwise.  
+This Report contains information for the Group as at the 
+date of this Report.
+Assurance 
+KPMG has provided Limited Assurance over our materiality 
+assessment and selected sustainability metrics for 
+the period 1 July 2023 to 30 June 2024. The Assurance 
+Statement can be found on pages 90 to 92.Overview
+1. Legislation was approved by the Senate on 22 August 2024 and passed by the House of Representatives on 9 September 2024.Future reporting requirements
+The Australian Government has mandated the inclusion of 
+a sustainability report (focusing on climate related financial 
+disclosures) in a company’s Annual Report.1 The disclosure 
+requirements have been set out in legislation, with the 
+Australian Accounting Standards Board expected to issue the 
+final Australian Sustainability Reporting Standards (these have 
+not been issued as at the date of this Report). Qantas’  
+first reporting year under these Standards will be FY26.
+During FY24, we engaged an external consultant to 
+undertake a gap assessment and road map to help Qantas 
+prepare for the incoming mandatory climate-related financial 
+disclosure requirements. This assessment considered the 
+requirements contained in the exposure draft Australian 
+Sustainability Reporting Standard (ASRS 2) Climate-related 
+Financial Disclosures. This work supports the development 
+of the Group’s reporting strategy to help us align with ASRS 2 
+once finalised. 
+The legislation also provides that, in the periods prior to 1 July 
+2030, the audit and assurance requirements will be phased 
+in under a timeline developed by the Auditing and Assurance 
+Standards Board (AUASB). On 20 March 2024, the AUASB 
+released a consultation paper on assurance over climate and 
+other sustainability information, which set out the proposed 
+assurance phasing model for this period. In light of these 
+developments, we are taking a staged assurance approach 
+which aims to progressively expand the scope of assurance 
+over our sustainability disclosures.
+For our FY24 Sustainability Report, sustainability governance 
+disclosures were subject to limited assurance for the first time 
+and Scope 1 and 2 emissions went from limited to reasonable 
+assurance. In line with the expected ASRS 2, we have also 
+included a section on climate governance, provided updated 
+scenario analysis (using four scenarios) and included a 
+detailed section on physical and transition risks.
+
+=== Page 11 ===
+10
+Sustainability 
+frameworkStakeholder 
+engagementSustainability  
+governanceValuing  
+our planetEnabling  
+our peopleConnecting 
+customers and 
+communitiesNon-financial 
+metricsIndependent 
+assurance report
+Qantas Group Sustainability Report 2024Global Reporting Initiative
+This Report has been prepared with reference to the  
+Global Reporting Initiative (GRI) Standards. The GRI  
+Content Index can be found in the Report appendix 
+(available on the Qantas Group Investor Centre website).
+United Nations Global Compact 
+The 10 Principles of United Nations Global Compact  
+(UNGC) are derived from the Universal Declaration of 
+Human Rights, the International Labour Organization’s 
+Declaration on Fundamental Principles and Rights at Work, 
+the Rio Declaration on Environment and Development, and 
+the United Nations Convention Against Corruption. Qantas 
+joined the UNGC in 2017 and is a member of the UNGC 
+Network Australia.
+United Nations Sustainable Development  Goals 
+The 17 UN SDGs are key to the UN’s 2030 Agenda for a 
+better future for people and the planet. Our Sustainability 
+Framework aims to support the achievement of the UN 
+SDGs. We recognise that there are some SDGs where  
+we have a greater ability to influence environmental  
+and social outcomes. These are included in the list of 
+material sustainability topics on page 16, referenced  
+at the beginning of each key section of the Report and 
+included in  the Report appendix.
+Task Force on Climate-related  
+Financial Disclosures 
+The Financial Stability Board (FSB) created the TCFD to 
+develop recommendations on the information companies 
+should disclose related to climate change. In December 
+2017, Qantas Group publicly declared our support for  
+the TCFD and its recommendations. Recommendations 
+of the TCFD are included in the Climate action section 
+of Report, with details on how the Qantas Group makes disclosures against the TCFD’s recommendations  
+in the Report  appendix.
+Taskforce on Nature-related  
+Financial Disclosures
+The Taskforce on Nature-related Financial Disclosures 
+(TNFD) is a market-led, science-based and government-
+supported global initiative. It aims to create a global 
+framework to help organisations manage and disclose 
+their nature-related risks and opportunities. The TNFD 
+framework aims to provide for the disclosure of better 
+quality information on nature to improve enterprise and 
+portfolio risk management.
+The Australian Government has supported the design  
+and development of the TNFD global framework, with 
+funding and as a member of the TNFD Stewardship  
+Council since November 2021.
+Qantas supports the TNFD and has used its final published 
+recommendations and framework to help understand our 
+impacts and dependencies on nature and to develop our 
+Nature Action Plan (NAP). More information on page 46.
+Climate Action 100+ 
+Climate Action 100+, is an investor-led initiative, focused on 
+companies it views as key to driving the transition to global 
+net zero emissions. Qantas is one of 166 focus companies 
+selected for engagement. Qantas engages with Climate 
+Action 100+, and the climate change section of this Report 
+is aimed at supporting Climate Active’s annual benchmark.
+United Nations Sustainable 
+Development  GoalsGlobal sustainability frameworks and  commitmentsOverview
+More information:  For more information or if you 
+would like to provide feedback on this Report, 
+please contact: sustainability@qantas.com.au
+
+=== Page 14 ===
+13
+Overview Valuing  
+our planetEnabling  
+our peopleConnecting 
+customers and 
+communitiesNon-financial 
+metricsIndependent 
+assurance report
+Qantas Group Sustainability Report 2024Aviation industry partnerships and  memberships
+Other partnerships and  memberships2
+ —Asian Leadership Project
+ —Australian Business Integrity Council
+ —Australian Disability Network
+ —Australian Packaging Covenant Organisation
+ —Australian Red Cross
+ —Beyond Blue
+ —Bioenergy Australia (BA)
+ —Board of Airline Representatives  
+New Zealand (BARNZ)
+ —Business Council of Australia (BCA)
+ —Carbon Markets Institute
+ —Champions of Change
+ —Chief Executive Women
+ —Climate Leaders Coalition
+ —Corporate Mental Health Alliance
+ —Converge (Employee Assistance Program)
+ —Diversity Council of Australia
+ —Integrity Health and Safety
+ —Pride in Diversity
+ —Royal Aeronautical Society Australian Division
+ —The Resilience Project
+ —Sustainable Aviation Fuel Alliance of Australia  
+and New Zealand (SAFAANZ)
+ —Tourism and Transport Forum (TTF)
+ —United Nations Global Compact Network Australia  
+(UN GCNA)
+ •UN GCNA Bribery Prevention Network
+ •UN GCNA Modern Slavery Community 
+of PracticeThe Group is a member of trade and industry organisations in Australia and internationally. Membership of these organisations 
+enables the Group to promote priorities collectively with government and regulators as an industry. These organisations also 
+play a key role in developing best practices in health, safety, security and environmental performance.
+1. oneworld media release: one world member airlines commit to net zero carbon emissions by 2050  2. This list is not exhaustive and 
+includes many of our key partnerships and memberships. It does not include localised/smaller partnerships and memberships.one world
+In September 2020, the one world Alliance became  
+the first airline alliance in which all member carriers 
+committed to net zero emissions by 2050.1
+We are a member of one world’s Environmental 
+Sustainability Board which comprises sustainability 
+representatives from the one world  Alliance.
+International Civil Aviation Organization
+International Civil Aviation Organization (ICAO)  
+is a specialised agency of the United Nations that 
+establishes internationally aligned aviation standards 
+to realise safe, secure and sustainable air operations, 
+including efforts to prevent human trafficking. We have 
+participated in government consultation regarding 
+proposed ICAO measures to combat human trafficking.
+Airlines for Australia and New Zealand 
+Airlines for Australia and New Zealand (A4ANZ)  
+is the peak airline industry group that represents 
+airlines based in Australia and New Zealand. A4ANZ 
+advocates on key public policy issues affecting the  
+aviation sector, including  sustainability.Sustainability  
+governanceSustainability 
+frameworkStakeholder 
+engagement
+More details on partnerships and memberships 
+can be found in the Report appendix.International Air Transport Association
+Qantas is a member of the International Air Transport 
+Association (IATA) and is represented on four Advisory 
+Councils including Operations (Chair), Security (Chair), 
+Industry Affairs and Industry Financial.
+Qantas is represented on various IATA working groups  
+and traffic conferences, where we actively contribute  
+to the development of international standards and  
+practices for global airlines.
+IATA provides us with an essential link to aviation health  
+and safety issues internationally. Qantas representatives  
+sit on many IATA safety and health committees to share  
+our experiences and learn from others. We also share 
+incident data through an IATA exchange forum enabling  
+us to see details about severe accidents and emerging 
+safety trends from airlines around the world.
+Qantas has signed IATA 25by2025, an initiative to help 
+address gender imbalance across the industry.

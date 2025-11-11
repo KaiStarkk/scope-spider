@@ -1,0 +1,121 @@
+=== Table 1 (page 12) ===
+,CHAIR’S REPORT,
+,"Dear Shareholders,",
+,Welcome to Duratec Limited’s Annual Report for the financial year ended 30 June 2024 (FY24).,
+,,FY24 has been an exciting time of change and progress on the back of the record FY23 results. A strong performance
+,"was again delivered by all our business groups, with revenue ending at another historic high. Our strong pipeline of",
+,work and tender outlook positions the Company well to continue to deliver its growth ambitions.,
+,,"Through our wholly owned subsidiary WPF, we acquired A&B"
+,STRONG OPERATING RESULTS,
+,,"Welding in Darwin, enhancing our geographic capability and"
+,"FY24 reported revenue was $555.8m, 13% higher than",
+,,"capacity to deliver projects for the Mining and Industrial, and"
+,FY23 ($491.8m). This represents another successful year,
+,,"Energy sectors. Duratec’s 49% owned associate business,"
+,of revenue growth for the Company. Normalised EBITDA,
+,,"DDR Australia, completed the strategic acquisition of RC"
+,"was $47.6m, a 22.6% increase year on year and towards the",
+,,"Construction, expanding our capability and allowing further"
+,"upper end of our guidance range, with increased average",
+,,access to aligned procurement opportunities.
+,margins. These results demonstrate Duratec’s ability to,
+,grow and adapt to the inevitable shifts in demand across,
+,,We also made significant strides through investment
+,"industries and projects, whilst delivering strong levels of",
+,,"in, and advancement of, our in-house technologies"
+,profitability and maintaining our high safety and quality,
+,,to support future growth. We have enhanced our
+,standards. For the 12-month reporting period we recorded,
+,,"operational capabilities and efficiencies, ensuring we"
+,a lost time injury frequency rate (LTIFR) of zero and a total,
+,,remain competitive and dynamic. Our investments in FY24
+,recordable injury frequency rate (TRIFR) of 2.74 per 1 million,
+10,,"included advanced 3D modelling, adopting further early"
+,hours worked.,
+,,"contractor involvement practices, and technical assets"
+,,such as the Novarc Technologies’ spool welding robot
+,"At the end of FY24, our orderbook and pipeline remain",
+,,(SWR) which we installed earlier in the year.
+,"extremely strong, with projects of varying sizes progressing",
+,well and a number of significant projects expected to,
+,be awarded in FY25. With an orderbook of $405m and,SUSTAINABLE OPERATIONS
+,tendered works of $1.4b on within a total $3.8b pipeline,During the year we formalised our Board Sustainability
+,"of opportunities, Duratec is well positioned for continued","Committee, with Krista Bates appointed as Chair."
+,growth next financial year and beyond.,
+,,Our Sustainability function within the business has been
+,We declared a final fully franked dividend of 2.5 cents per,working on establishing a baseline of our sustainability
+,"share, taking the total dividend for the year to 4 cents per","impacts, with Scope 1 and Scope 2 emissions as a priority."
+,"share. This represents a payout ratio of 46%, which the",By understanding how our business activities drive
+,Board believes strikes a good balance between dividend,"environmental impacts, we will be able to model the impact"
+,distribution and preserving cash for future growth. Our,of our business growth aspirations and identify the highest
+,"balance sheet remains strong, with net cash of $65.2m","value impact reduction opportunities.  In addition, we are"
+,able to support our key growth objectives.,undertaking a risk assessment to ensure the necessary
+,,mitigations are in place for key Sustainability-related risks.
+,BUSINESS STRATEGY SUPPORTS,
+,,The Sustainability Team will work closely with all parts
+,ONGOING GROWTH,
+,,of the business to progressively ensure Sustainability
+,The strong FY24 results were underpinned by our proven,
+,,is integrated at a pace and scale that meets the
+,business strategy of having a diversified portfolio across,
+,,"increasing expectations of our customers, staff and other"
+,"various sectors including Defence, Building and Facade,",
+,,stakeholders.
+,"Mining and Industrial, Energy, Marine and Infrastructure.",
+,,We continue to be passionate about supporting women in
+,"In FY24, we continued to focus on winning projects that",
+,,construction as well as delivering ongoing Aboriginal and
+,"capitalise on our expertise, experience and capability,",
+,,Torres Strait Islander opportunities and will continue to do
+,whilst simultaneously investing in our tender outlook. Early,
+,,so in FY25.
+,Contractor Involvement (ECI) and catering to every stage of,
+,"the life cycle of customers’ assets, remains key in delivering",
+,strong end-to-end project outcomes for our clients.,
+,"In FY24, we made a number of acquisitions and entered",
+,into new partnerships to boost our end-to-end capabilities.,
+
+=== Table 2 (page 40) ===
+RESPONSIBLE BUSINESS DELIVERY,
+"As part of our Business Improvement initiatives, Duratec",Duratec remains future focused and understands the
+formally established a Sustainability function in FY24.,requirements of the forthcoming Australian Sustainability
+This enables Duratec to have appropriate oversight of,Reporting Standards (ASRS) that are being developed by
+our material impacts and ensures accurate tracking and,the Australian Accounting Standards Boards (AASB). The
+monitoring of initiative implementation. To further support,Company anticipates being classified into the Group 1
+"this, Duratec’s Executive Management Team Sustainability",reporting cohort which will require climate-related financial
+Committee meets monthly to address prioritised actions.,disclosures to be included in the FY26 annual report.
+Duratec also implemented a Sustainability Committee,
+,"In preparation for these disclosures, Duratec has recently"
+Charter to establish a Board Sustainability Committee which,
+,engaged Automic ESG to undertake a greenhouse gas
+can be found on our website.,
+,assessment of Scope 1 and 2 emissions (direct emissions).
+FOCUSED ON AUSTRALIAN SUSTAINABILITY,Scope 1 and 2 emissions sources include the following:
+REPORTING STANDARDS (ASRS) AND,
+,"\ Scope 1: Diesel, unleaded petrol, LNG, LPG, Petroleum-"
+EMISSIONS CALCULATIONS,
+,"based oils and lubricants, and refrigerants"
+To ensure our focus remains on sustainability impacts,
+"pertinent to our operations, Duratec undertook an initial",\ Scope 2: Electricity
+Materiality Assessment aligned with the Sustainability,
+,In line with guidance from the GHG Protocol and the AASB
+Accounting Standards Board (SASB) standards. Priority,
+,"Sustainability Reporting Exposure Draft (ED SR1), Duratec"
+areas identified as part of this assessment are shown below:,
+,has chosen an equity share approach to consolidated
+,"emissions reporting, which aligns with our financial"
+"Dimension
+Issue Category",
+,reporting approach.
+GHG Emissions,
+Environment,
+,Our FY24 emissions will be reported once calculations
+Waste and Hazardous Materials,
+,are complete.
+Employee Health & Safety,
+"Social 
+Employee Engagement, Diversity,",
+and Inclusion,
+Physical impacts of climate change,
+Governance,
+Supply Chain Management,

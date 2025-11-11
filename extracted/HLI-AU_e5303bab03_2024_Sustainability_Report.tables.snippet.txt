@@ -1,0 +1,94 @@
+=== Table 1 (page 2) ===
+and the environment.,,
+Governance and strategy,,
+Helia’s Board has responsibility and,This Committee is continuing to evolve,This year we have undertaken a
+"oversight of sustainability strategy,",its sustainable investments strategy,sustainability governance and
+including climate risks and opportunities,and governance including building,strategy refresh. We have reviewed our
+and all our material disclosures.,our systems to measure and establish,governance approach as we work to
+,any future scope 3 emission targets,increasingly integrate  sustainability
+Our management team provides,,
+,or investment opportunities. Our,"within our business strategy, policies,"
+regular updates to the Board on our,,
+,investment mandates do not allow,risk management framework
+progress and delivery against our,,
+,investing in companies with revenue,"and systems, and embed ESG"
+sustainability priorities. Sustainability,,
+,from the manufacture of Controversial,considerations in our organisation.
+topics covered in 2024 included: insight,,
+,"Weapons, and to not knowingly invest",
+"sessions on climate trends, regulations",,The delivery of our sustainability
+,in companies involved in modern,
+"and disclosures, current and emerging",,framework is supported by
+,slavery or human trafficking.,
+"environmental, social and governance",,cross‑functional working groups
+"(ESG) risks and opportunities, climate",,and Committees to harness and align
+change scenario analysis and updates,,dedicated expertise and resources for
+on AI and emerging technology.,,key priorities and initiatives.
+Helia’s Investment Committee is the,,"For more information, see our 2025"
+management committee responsible,,Corporate Governance Statement and
+for overseeing the governance of the,,our Helia policies.
+"investment portfolio, working closely",,
+
+=== Table 2 (page 7) ===
+Minimise our impact,Build climate resilience,Explore impact opportunities
+To protect the environment,To protect our business against the,To help our business
+in which we operate,medium and long-term impact of,benefit from emerging
+and support Australia’s,transition and physical climate risk.,climate-related opportunities.
+decarbonisation commitments.,,
+,•  Enhance climate risk scenario,•  Support customers
+•  Maintain net zero for scope 1,modelling and analysis.,with climate insights.
+and scope 2 emissions.,"• 
+Integrate climate considerations",•  Explore potential
+•  Build understanding and,across our business.,investment opportunities.
+measurement of scope 3,•  Enhance the capabilities,•  Technology solutions
+emissions.,of our people.,to support carbon
+
+=== Table 3 (page 10) ===
+"Sustainability Report 2024
+9",,,
+Climate (continued),,,
+Targets and metrics,,,
+Helia measures and reports on our greenhouse emissions aligned to the Greenhouse Gas Protocol and on an,,,
+"operational control basis. For more information on our 2024 emissions boundaries, methodology and preparation,",,,
+refer to the FY24 ESG databook.,,,
+Scope 1 and 2 emissions,,,
+Helia has maintained net zero for location‑based scope 1 and 2 emissions through the ongoing use of 100% green,,,
+power for purchased electricity. Our scope 1 potential for refrigerants remains immaterial for the reporting period.,,,
+Scope 3 emissions,,,
+"In 2024, we have continued to build on our understanding, identification, and measurement of our upstream scope 3 emissions.",,,
+"Additionally, we have commenced the measurement and  tracking of our investment portfolio emissions, representing a step",,,
+forward in our efforts to capture our total carbon footprint. We are continuing to refine the measurement of Helia’s investment,,,
+portfolio internally and will commence external reporting as we become comfortable with data accuracy and completeness.,,,
+"Accessing consistent, accurate and complete emissions data from third parties across our value chain remains a",,,
+challenging area of our carbon management activity. As industry standards for transparent reporting improve and,,,
+"reliable data becomes more readily available, we will continue to develop our GHG emissions inventory.",,,
+See our FY24 ESG databook for emissions data.,,,
+Scope 1 and 2 emissions,,,
+Total emissions (tCO2e),2024,2023,Change %
+Scope 1 emissions,—,—,—
+Scope 2 emissions (location based 1),92.7,93.7,(1%)
+"1.  Location based emissions refers to gross emissions, all scope 2 emissions are sourced from green power sources.",,,
+
+=== Table 4 (page 11) ===
+Glossary,
+Gender pay parity,Defined by the Workplace Gender Equality Agency (WGEA) as a gender pay gap
+,between ‑5% and +5%. This is calculated by dividing the female total remuneration
+,median by male total remuneration median.
+GHG emissions,Covers the accounting and reporting of the six greenhouse gases (GHGs) covered
+,"by the UNFCCC/Kyoto Protocol — currently carbon dioxide, methane, nitrous oxide,"
+,"hydrofluorocarbons, perfluorocarbons and sulphur hexafluoride."
+IPCC RCP8.5 scenario,Intergovernmental Panel on Climate Change’s representative concentration pathway
+,8.5 describes the development of concentrated greenhouse gas emissions in the
+,atmosphere under the assumption that no further efforts to reduce emissions will be
+,made. It portrays a worst‑case emissions scenario.
+Scope 1 emissions,Emissions released to the atmosphere from operations that are owned or controlled
+,by an organisation.
+Scope 2 emissions,Emissions released to the atmosphere from the indirect consumption of an energy
+,commodity by an organisation.
+Scope 3 emissions,Indirect emissions other than scope 2 emissions that are generated in the value
+,chain of an organisation.
+Single-industry coal,Definition applies when the proportion of SA2 population employed in the mining
+mining town,sector is >18% and the Australian Bureau of Statistic remoteness score >=2
+,(see ABS Remoteness Areas for further information).
+Women in management,The percentage of roles with direct managerial responsibility for an employee held
+,by women.

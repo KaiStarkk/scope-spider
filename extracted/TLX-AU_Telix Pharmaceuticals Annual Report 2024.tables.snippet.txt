@@ -1,0 +1,151 @@
+=== Table 1 (page 47) ===
+TELI X PH ARM A C E UTIC ALS,2024 ANN UAL REPORT
+This understanding particularly supports our mission to develop and commercialize theranostics for patients living with,
+cancer and rare diseases.,
+"Throughout 2024, we strengthened our environmental risk assessment capabilities through comprehensive cross-",
+functional evaluations. Our teams conducted detailed assessments of how extreme weather and climate-related events,
+"could affect various aspects of our operations. This analysis spanned multiple business units, including manufacturing,",
+"logistics and supply chain, people and culture, finance, asset and program development, research and innovation, and",
+"workplace health and safety. Looking forward, we are developing more sophisticated strategies to quantify the financial",
+"implications of extreme weather events, such as supply chain interruptions. This enhanced understanding will enable",
+"us to mature our mitigation and intervention plans. These financial impacts will undergo continuous assessment, with",
+material findings incorporated into our disclosure reporting. A key priority for 2025 is the implementation of a robust,
+methodology to fully integrate climate-related considerations into our business planning processes.,
+Our approach to climate risk assessment operates across three distinct time horizons. Short-term considerations (0-2,
+years) align with our annual budgeting and operational planning cycles. Medium-term analysis (2-5 years) focuses on,
+achieving interim sustainability goals and targets. Long-term planning (5+ years) encompasses the complete lifecycle of,
+"our assets, from initial concept through to full commercialization.",
+"Through our ongoing assessment process, we have identified that climate-related risks and opportunities primarily",
+concentrate on two critical areas: asset development and supply chain resilience. The global impact of both acute,
+"and chronic physical risks, combined with transition risks related to regulatory and commercial changes, is expected",
+to have the most significant influence on our ability to achieve strategic objectives over the long term. This,
+understanding drives our commitment to developing comprehensive strategies that address both environmental impact,
+and business sustainability.,
+Scenario analysis and future planning,
+"To strengthen our climate resilience strategy, we have developed detailed qualitative scenario analyses based on two",
+"potential future states: a 1.5°C increase in global average temperature above pre-industrial levels by 2040, and a more",
+severe scenario of 2.5°C or higher by 2065. These analyses inform our understanding of potential impacts across our,
+global operations and supply chain.,
+"As we look toward 2025, our strategic priorities encompass several key initiatives. We are developing sophisticated",
+methodologies to quantify the financial impact of extreme weather events on our operations. This includes implementing,
+"energy efficiency initiatives and renewable energy projects where practicable, while incorporating both qualitative and",
+"quantitative physical climate scenarios into our supply chain, built asset, and operational decisions.",
+Metrics and progress,
+The year 2024 marked substantial progress in our capabilities to capture and report absolute gross greenhouse gas,
+"emissions. Following the Greenhouse Gas Protocol, we have successfully implemented systems and processes to track",
+"both Scope 1 and Scope 2 emissions, using market-based and location-based methods. Our internal systems have met",
+"all targeted benchmarks, positioning us to leverage this comprehensive data in 2025 to establish our baseline carbon",
+footprint and develop science-based measurable targets.,
+"This progress enables us to implement an internal carbon pricing mechanism, providing a framework to assess",
+"the financial implications of changes in investment, production, and consumption patterns. We continue to evaluate",
+potential technological advancements and future emissions-abatement costs as part of our commitment to long-term,
+environmental sustainability and business resilience.,
+
+=== Table 2 (page 48) ===
+"TELI X PH ARM A C E UTIC ALS
+2024 ANN UAL REPORT"
+Risk and
+"Short Term
+Medium Term
+Long Term
+Opportunity"
+Category
+"Climate 
+Our global operations face interconnected 
+Supply chain vulnerabilities center on 
+Operational costs are expected"
+"change impacts
+climate risks affecting workforce 
+temperature-sensitive materials, especially 
+to rise due to climate-"
+"productivity and supply networks, with 
+declining horseshoe crab populations, 
+related healthcare expenses,"
+"particular vulnerability in radioactive 
+and increasing reliance on climate-
+wastewater management"
+"material transportation and water-
+controlled logistics.
+challenges, and increased"
+"dependent manufacturing across our 
+energy demands for"
+"international locations.
+temperature control."
+"Policy and legal
+Evolving climate regulations, particularly 
+Evolving regulations around materials, 
+Balancing ESG disclosure"
+"EU requirements affecting TLX66, coupled 
+vehicle fleets, and emissions are reshaping 
+expectations and managing"
+"with carbon pricing mechanisms and 
+our operational processes and acquisition 
+radiation safety compliance"
+"disclosure requirements, are driving up 
+strategies, requiring enhanced due diligence 
+poses strategic challenges,"
+"operational costs and compliance demands 
+and adaptation of our distribution networks.
+particularly as our cyclotron"
+"across our supply chain.
+operations generate increasing"
+radioactive waste.
+"Technology
+Our transition to sustainable operations faces key challenges in our reliance on fossil fuel-
+Increased investment required"
+"based reactor products for medical isotope production, while opportunities exist in advancing 
+to develop medicines for rapidly"
+"temperature-controlled storage technologies and implementing green chemistry processes.
+evolving new and worsening"
+infectious and chronic diseases
+"Market
+ESG performance considerations shape 
+Operational growth through acquisitions faces 
+Scarcity of fossil fuel dependent"
+"our supplier selection and acquisition 
+mounting challenges from water usage 
+raw materials."
+"restrictions, waste management requirements, 
+strategy, while carbon credit costs"
+"influence our operational planning and 
+and increasing competition for renewable"
+"sustainability investments.
+energy resources, potentially affecting our"
+sustainability targets.
+"Reputation
+Meeting stakeholder ESG expectations 
+Our ability to attract capital and maintain valuations depends increasingly"
+"requires significant investment in climate 
+on meeting investor ESG disclosure requirements and maintaining competitive"
+"risk management and carbon reduction 
+sustainability performance. Inadequate climate action or supply chain transparency"
+"initiatives, demanding additional resources 
+could impact talent acquisition, customer retention, and value chain integrity,"
+"for implementation and monitoring.
+particularly as stakeholders scrutinize Scope 3 emissions and modern"
+slavery risks.
+"Resource 
+Our sustainability initiatives include 
+Infrastructure modernization focuses on fleet 
+Achieve carbon neutrality"
+"efficiency
+implementing ARTMS technology to 
+electrification and expansion into resource-
+while increasing in-house"
+"streamline manufacturing, capitalizing on 
+efficient, green-certified buildings.
+radionuclide production"
+"remote work energy reductions, offering 
+to reduce third-party"
+"EV incentives to employees, upgrading 
+transportation dependencies."
+"facilities for energy efficiency, and"
+optimizing transportation material reuse.
+"Energy resources
+Lower costs associated with 
+Develop a renewable energy strategy to 
+Deploy small module reactor in"
+"renewable energy.
+encompasses partnerships with green energy 
+high energy need location."
+providers through virtual power purchase

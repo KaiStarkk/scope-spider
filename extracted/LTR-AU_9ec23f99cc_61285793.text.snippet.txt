@@ -1,0 +1,264 @@
+=== Page 15 ===
+Sustainability 
+Report
+Sustainability Commitee Chair’s letter 28
+Our approach to sustainability  30
+Governance  31
+Environmental compliance and biodiversity  36
+Greenhouse gas emissions and climate change adaptation  40
+Water stewardship  42
+Employment practices  43
+Health and safety  47
+Respecting Indigenous land and resource rights  54
+Economic performance  56
+Liontown Resources  | FY25 Annual Report | 27 26 | Liontown Resource  | FY25 Annual Report
+FY25 Performance Operating review Sustainability Report Directors’ Report Financial Reports Resources & Reserves Additional Information
+
+=== Page 16 ===
+Sustainability Report 
+From the Chair of the Sustainability Committee
+FY25	marked	Liontown’s 	first	year	of	operation	at	Kathleen	 Valley,	an	
+important milestone in our journey from project development to producer. 
+This new phase brought greater responsibility, together with the opportunity 
+to demonstrate that sustainability is not a parallel function; it is embedded in 
+how we operate, engage, and create long-term value.
+People are central to everything we do. In FY25, we prioritised safety as 
+our highest operational focus and continued to embed a proactive safety 
+culture across both our workforce and contracting partners. While our TRIFR 
+saw a minor increase as total hours worked post-construction reduced, we 
+maintained a strong commitment to continuous improvement and learning.  
+We broadened our focus to include mental health and psychological safety, a 
+key to building a resilient workforce.
+We strengthened our relationships with Native Title Holders through culturally 
+appropriate engagement, expanded employment and business participation, 
+and progressed initiatives that support long-term community partnerships. Our 
+approach continues to be guided by the principles of Free, Prior and Informed 
+Consent and we believe that working in genuine partnership creates lasting 
+value for Aboriginal communities and the regions that support our operations.
+We focused on optimising groundwater resources and progressed the 
+development	 of	a	long-term	 water	strategy 	to	ensure	sustainable 	borefield 	
+operation alongside reliable water supply for our site. Our understanding of the 
+surrounding ecosystems continued to deepen through vegetation health studies 
+and collaborative environmental surveys with Tjiwarl Native Title Holders ensuring 
+the inclusion of traditional ecological knowledge. We also initiated planning with 
+Zenith to trial mitigation measures aimed at reducing impacts on avian fauna and 
+bat	species. 	These	efforts	reflect	our	commitment	to 	responsible 	water	use 	and	
+biodiversity protection as we transition to steady-state operations.
+In FY25, we strengthened our climate change response by publishing a Climate, 
+Energy and Emissions Policy and committing to a comprehensive Climate, Energy 
+and Greenhouse Gas Strategy. The hybrid power station averaged 81% renewable 
+penetration at our operation, whilst we implemented a robust emissions data 
+management system to track Scope 1, 2 and 3 emissions. Work commenced on 
+pilot	programs 	to	assess	low-emission	fleet	technologies 	and	studies 	into	battery	
+storage	solutions 	to	support	future 	electrification. 	Looking	ahead, 	we	will	finalise 	
+our Scope 3 emissions inventory, advance climate governance systems in line with 
+AASB	S2	requirements 	and	finalise 	our	decarbonisation	strategy.
+Adrienne Parker  
+Chair of the Sustainability Committee
+As Chair of the 
+Sustainability 
+Committee at 
+Liontown Resources, 
+I am proud to 
+present our FY25 
+Sustainability Report, 
+a	reflection	 of	our	
+commitment to 
+being a responsible 
+operator. Sustainability Report
+Strong governance underpins all  
+our sustainability efforts. In FY25,  
+we laid the groundwork for ISO 14001  
+(Environmental Management 
+Systems) accreditation and 
+commenced	planning	for	 our	first	
+modern slavery statement. We 
+also aligned internal processes to 
+support upcoming climate disclosure 
+obligations under AASB S2 and to 
+ensure our strategy is effectively 
+implemented and monitored we have 
+enhanced our Environmental, Social, 
+Governance and Economic (ESGE), 
+systems and frameworks across the 
+business.
+As Chair of the Sustainability 
+Committee, I’m proud of how we’ve 
+embedded ESGE principles across 
+Liontown, from boardroom decisions to frontline delivery. These principles 
+don’t just shape our obligations; they 
+guide how we lead, how we partner, 
+and	how 	we	define	success. 	
+As part of our ongoing growth and 
+commitment to transparency, we 
+have transitioned to including our 
+sustainability disclosures in our 
+Annual Report and are pleased 
+to	introduce 	Liontown’s 	first	ESG	
+Data Book. This new ESG Data 
+Book is a resource that represents 
+the next chapter in our maturity 
+journey, offering stakeholders a 
+transparent and accessible view of 
+our performance metrics across key 
+ESG indicators. The ESG Data Book 
+complements our narrative reporting 
+by providing detailed, comparable 
+data that supports informed decision-making	and	reflects 	our	commitment	
+to accountability. It is a foundational 
+step towards enhanced disclosure and 
+continuous improvement, aligned with 
+global best practice and stakeholder 
+expectations.
+In FY26, we will build on the 
+foundations we have established, and 
+we will continue to strengthen our 
+systems and demonstrate ongoing 
+transparency. We do this because we 
+believe delivering value the right way 
+is the only way.
+Adrienne Parker 
+Chair of the Sustainability Committee
+Liontown Resources  | FY25 Annual Report | 29 28 | Liontown Resource  | FY25 Annual Report
+FY25 Performance Operating review Sustainability Report Directors’ Report Financial Reports Resources & Reserves Additional Information
+
+=== Page 17 ===
+Our approach to sustainability 
+Liontown’s approach to sustainability ensures clear 
+accountability and integration across all levels of our 
+business. The Board of Directors holds ultimate oversight, 
+reviewing and approving our strategy, targets, and 
+disclosures. To support this, the Sustainability Committee 
+provides focused oversight on material ESGE risks and 
+opportunities, reviewing key policies and initiatives. The 
+Executive Leadership Team (ELT) is responsible for driving 
+implementation across the organisation, embedding 
+sustainability into core business planning. The Head 
+of Sustainability, Compliance and Strategy leads the 
+development and execution of our approach, advising 
+the Board of Directors and ELT, and coordinating cross-
+functional initiatives to ensure regulatory compliance 
+and building organisational capability. Implementation 
+is carried out by operational teams, who integrate ESGE 
+requirements into day-to-day activities. These teams 
+deliver on targets, and provide the data needed to support 
+informed decision making for continuous improvement and 
+reporting.
+Materiality 
+In FY24, we conducted our biennial formal materiality 
+assessment	to 	determine 	Liontown’s 	most	significant	
+sustainability impacts for reporting and to guide the 
+Company’s 	Sustainability 	Strategy. 	In	FY25, 	reflecting	 on	
+our transition from construction to operations, and the 
+change in scope and impact of our activities, we undertook 
+a	materiality 	refresh	to 	review	and	validate	the	findings 	of	
+our FY24 assessment. 
+Prospective material topics were derived from frameworks 
+such as the GRI Standards 2021, the GRI 14: Mining Sector 
+Standard 2024, the SASB Metals and Mining Sustainability 
+Accounting Standards, and the United Nations Sustainable 
+Development Goals (SDGs). The methodology included 
+interviews with key internal and external stakeholders, and 
+a survey open to all Liontown employees and contractors.All stakeholders were asked to prioritise material topics 
+based on the severity and likelihood of impacts. They 
+were also encouraged to consider where Liontown was 
+performing well and where opportunities existed for 
+improvement. This approach provided valuable insights into 
+both current performance and opportunities to enhance 
+sustainability outcomes. The results of the materiality 
+refresh have been endorsed by the Board of Directors and 
+ELT and updated material topics include:
+• Governance
+ Child labour, forced labour and modern slavery,  
+freedom of association, non-discrimination and equal 
+opportunity, anti-corruption
+• Biodiversity and Environmental Compliance
+ Air emissions, biodiversity and environmental compliance
+• Decarbonisation and Climate Change Adaptation
+ Greenhouse gas (GHG), emissions and climate adaptation 
+and resilience
+• Water Management
+	 Water	and	 effluents
+• Employee Wellbeing
+ Employment practices
+• Health and Safety
+ Critical incident management, occupational  
+health and safety• 
+• Respecting Indigenous Land and Resource Rights
+ Local communities, rights of Indigenous people,  
+land and resource rights
+• Economic Performance
+ Economic impacts  Sustainability Report
+Liontown’s approach to 
+sustainability ensures clear 
+accountability and integration 
+across all levels of our 
+business. 
+Governance 
+The integrity of our Sustainability Strategy is underpinned by 
+robust governance mechanisms and a strong commitment 
+to responsible business conduct. At Liontown, we take 
+a top-down approach to continuously strengthening 
+governance across all areas of the business, ensuring our 
+strategy remains resilient, credible, and aligned with our 
+long-term sustainability goals. Liontown has implemented a 
+corporate governance framework aimed at ensuring effective 
+management, compliance with regulatory requirements, and 
+alignment with stakeholder expectations. We are committed 
+to fostering a culture of accountability, integrity, and 
+transparency, recognising that strong corporate governance is 
+essential to our long-term success. It provides the foundation 
+for effective decision-making, ensures ethical and responsible 
+operations, and safeguards the interests of all stakeholders.
+Board and Committees 
+Liontown’s Board of Directors, comprising both Executive 
+and Non-Executive Directors, is accountable to shareholders 
+for the Company’s performance over both the short and 
+long term. The Board provides leadership and oversight 
+of	the	Company’s 	management. 	It	defines	the	Company’s 	
+purpose, sets strategic priorities, and regularly monitors 
+management’s progress toward achieving these priorities. 
+Our Board members serve on key Board level committees, 
+which include the Sustainability Committee, Remuneration 
+and Nominations Committee, and Audit and Risk 
+Committee. 
+Sustainability Committee
+The Sustainability Committee, in conjunction with the  
+Audit and Risk Committee, oversees the Company’s 
+performance and management of sustainability risks in 
+relation to environment and climate change, community 
+and social engagement, health, safety and wellbeing,  
+and responsible business (including modern slavery and 
+human rights issues) and reporting/disclosure. The Sustainability Committee is supported by the Head of 
+Sustainability, Strategy and Compliance. 
+Audit and Risk Committee
+The Audit and Risk Committee oversees the Company’s 
+financial	reporting, 	accounting	policies, 	and	audit	activities 	
+to ensure the integrity and transparency of disclosures. It 
+reviews	the	effectiveness 	of	internal	financial	 controls	and	
+the	accuracy 	of	financial	statements. 	The	Committee 	also	
+monitors the Company’s risk and compliance frameworks, 
+including key policies, risk appetite, and any material risk 
+exposures.
+Remuneration and Nomination Committee
+The Remuneration and Nomination Committee oversees 
+the Company’s remuneration framework, processes for 
+selection, appointment and evaluation of directors and 
+senior executives, and the composition, diversity and 
+effectiveness of the Board in discharging its duties. 
+Each committee operates under a Board-approved charter 
+that outlines its purpose, structure, and responsibilities. 
+The process for nominating and selecting Board members 
+is guided by our formal policy on the appointment of 
+directors and senior executives.
+In FY26, to further improve our governance processes, 
+we will establish dedicated Continuous Disclosure and 
+Sustainability Working Group sub-committees, led by 
+executive and senior management teams. The sub-
+committees will provide an opportunity for Liontown’s 
+staff to participate in shaping and advancing the Comany’s 
+strategic path.
+For more information see:  
+https://www.ltresources.com.au/about/corporate-governance/
+Liontown Resources  | FY25 Annual Report | 31 30 | Liontown Resource  | FY25 Annual Report
+FY25 Performance Operating review Sustainability Report Directors’ Report Financial Reports Resources & Reserves Additional Information

@@ -1,0 +1,287 @@
+=== Table 1 (page 4) ===
+,We have also committed to implement,We have responded to the Global
+We are pleased to report,,
+,the recommendations of the Financial,Real Estate Sustainability Benchmark
+that the last twelve months,,
+,Stability Board’s Task Force on,"(GRESB) for HDN this year, and"
+have been transformative,Climate-related Financial Disclosures,as first-time participants we are
+,(TCFD) which provides a framework,reporting under the grace period. We
+as we implement our,,
+,to effectively disclose climate-related,look forward to sharing our results
+sustainability framework,,
+,risks and opportunities through our,and progress next year. We are
+across the business following,existing reporting processes.,also undertaking third party ratings
+,,and benchmarks for the design and
+the release of our inaugural,,
+,,"performance of our real estate assets,"
+Sustainability Report and,Social,"using systems such as NABERS, Green"
+,,Star and WELL. We have commissioned
+commitments in 2021.,Our social impact strategy is supported,
+,by both the establishment of the HMC,performance ratings on all rateable
+,Capital Foundation (Foundation) and,real estate assets under NABERS and
+This Sustainability Report outlines how,,
+,through CommunityCo. The HMC,Green Star Performance by the end
+we strive to create long-term value,,
+,Capital Foundation is a standalone,of calendar 2022. Rating results to
+"by focusing on the environmental,",,
+,public ancillary fund which will distribute,date are included in this report.
+"social, and governance matters that",,
+,funding to support the social impact,
+are most important to our business,,
+,"ambitions of the business. Furthermore,",
+and stakeholders. The HMC Capital,,Looking Ahead
+,CommunityCo aims to work with,
+"Board, along with the Boards of",,
+,partners to provide support for the,"Finally, while we are proud of the steps"
+our managed funds (HomeCo Daily,,
+,needs of youth in our communities.,we have taken and our achievements
+"Needs REIT, HealthCo Healthcare",,
+,,"to date, we recognise that it is vital to"
+and Wellness REIT and HMC Capital,We have continued to provide COVID-,
+,,continue aiming for higher levels of
+Partners Fund I) and the management,safe retail spaces for our retailers and,
+,,ESG and sustainability performance.
+"team, understand the importance of",customers and have consolidated our,
+"environmental, social and governance",own workspace in the Sydney CBD.,"Once again, we thank you for taking"
+"impacts across all parts of our business,",,an interest in our ESG journey and for
+,As part of our social and governance,
+and are committed to progressing,,your ongoing support of our initiatives.
+,"commitments, we are proud to have",
+the ESG journey we have begun.,,
+,already achieved our 2025 diversity,
+Our key strategic ESG objective as a,"target of a workforce of 50% women,",
+growing alternative asset manager,and we continue to make progress on,
+of the future remains to create,other diversity measures. We are also,
+“Healthy Communities”. We strive,committed to creating an HMC Capital,
+to do this by servicing the needs of,Reconciliation Action Plan (RAP) and,
+communities through our network,will work with partners over the next,
+"of assets, by delivering lasting",year to create and submit a RAP for,
+,,David Di Pilla
+positive social outcomes for those,approval with Reconciliation Australia.,
+,,Managing Director and Group CEO
+"local communities, and by taking",,
+,We also will be publishing our first,HMC Capital
+responsibility for environmental impacts.,,
+,Modern Slavery statement imminently,
+,for the HomeCo Daily Needs REIT and,
+,are pleased to report that we have,
+Environmental,,
+,now joined the United Nations Global,
+It remains our goal to drive high-,,
+,Compact as we firmly support its ten,
+performance building design and,,
+,key principles across our business.,
+operations to reduce carbon emissions,,
+and mitigate climate-related risk in,,
+our managed real estate portfolio. We,Governance,
+have made a commitment to achieve,,
+,"As our business grows, we continue",
+net zero emissions for our Scope 1 and 2,,Chris Saxon
+,to ensure that there are strong,
+"emissions, by 2028. Pleasingly, we have",,Chair
+,governance frameworks to ensure,
+already made considerable progress,,HMC Capital
+,"effective, independent, responsible, and",
+in executing on our decarbonisation,,
+,transparent decision making in the best,
+strategy as detailed in this report.,,
+,interests of our stakeholders and all our,
+,investors across our various platforms.,
+
+=== Table 2 (page 13) ===
+We achieve emissions reductions by,,"In FY21, HMC Capital committed"
+,Transition to Net Zero,
+integrating climate-related issues into,,to achieve net zero emissions
+,by 2028,
+every aspect of our investment strategy,,by 2028 across its Scope 1 and
+,In keeping with HMC Capital’s mission to,
+— from acquisition due diligence to,,"2 emissions, consistent with our"
+,drive genuine positive impact for people,
+"development design and construction,",,aim to exceed expectations and
+,"and our environment, our 2028 net",
+through to ongoing operations.,,contribute to Australia’s transition
+,zero emissions target contributes to the,
+,,to a low carbon economy.
+Climate change presents real risks to our,,
+,decarbonization efforts that are needed,
+"business and Australian communities,",,"Over the past year, we have made"
+,to prevent the worst effects of climate,
+and we are committed to contributing,,progress in several areas of our
+,change. Reducing our emissions now,
+to Australia’s transition to a low carbon,,net zero strategy in-line with our
+,helps make HMC Capital more resilient,
+economy. We aim to exceed emerging,,"2028 target, which are detailed"
+,to the potential risks and expenses,
+regulatory and industry expectations by,,in this section of the report.
+,associated with the transition to a net,
+rapidly deploying technological solutions,,
+,zero economy — like carbon pricing or,
+,,HMC Capital is committed to collating
+to reduce our carbon footprint.,,
+,unpredictable energy prices. This in turn,
+,,comprehensive environmental
+,allows us to continue delivering value to,
+,,performance data across its
+,all our stakeholders well into the future.,
+,,portfolio to inform management
+,,action and continuously improve
+,,performance over time. In this regard
+,,it has implemented a robust financial
+,,grade data management system by
+,,"subscribing to the IBM platform, Envizi."
+
+=== Table 3 (page 13) ===
+METRIC (SCOPE 1 & 2 EMISSIONS),FY22,2028 TARGET
+Emissions (tCO2e),"28,189",Net zero
+Emissions intensity (kg CO2e/sqm),29.92,Net zero
+Electricity consumption (kWh),"35,176,364",n/a
+Electricity intensity (kWh/sqm),35.22,15% over FY21 baseline
+Apportioned area (sqm),"941,991",n/a
+
+=== Table 4 (page 15) ===
+,All other assets that are able to have,
+Energy efficiency,,
+,"EMS installed, will be complete by the",
+Energy efficiency is a key component,,
+,end of the financial year. Results from,
+of our wider ambition to reach net,,
+,current EMS installations have exceeded,
+"zero emissions by 2028. In FY22,",,
+,"expectations, with energy consumption",
+we began implementation of our,,
+,savings of over 20% - equivalent to,
+Smart Energy Management System,,
+,a 20% Scope 2 emission saving.,
+(EMS) which uses artificial intelligence,,
+technology to facilitate energy efficient,We have also commenced the rollout,
+"management of lighting, heating,",of LED lighting in many of our large,
+,,Smart Meters currently being
+"ventilation, and air conditioning",format retail assets to drive further,
+,,installed across all assets
+(HVAC) controls. The system is also,energy efficiency gains across our,
+futureproofed to allow for further,"assets. In addition, six sites in NSW",
+expansion and integration of renewable,and seven sites in Victoria have had,
+energy and storage technologies.,LED upgrades to carpark lighting.,
+The EMS rollout began with pilot,Plans are also in place for the ongoing,
+"installations across three locations,",optimisation of building management,
+which resulted in higher than predicted,systems (BMS) at assets. This project,
+"reductions in energy use, demand,",will see the introduction of analytics,
+and maintenance. The installation,to reduce demand and create soft,
+of monitoring cameras within the,"start-ups, night purge, and switching off",
+HVAC systems has reduced physical,plant and lighting in unoccupied areas.,
+planned maintenance inspections.,,Proof of Concept shows average
+,"Importantly, the reduced energy",
+,,usage reduction of ~20%
+"As it stands, eight assets have the new",usage from these initiatives will,
+system installed and are being remotely,not impact tenant and customer,
+"monitored, with another seven assets","experience, instead maximising",
+under installation with completion,"efficiency, and minimising waste.",
+expected by the end of October 2022.,,
+
+=== Table 5 (page 16) ===
+,In situations where there are embedded,
+"Renewable energy,",,Climate-related
+,"networks in place, the solar PV will",
+microgrids and storage,,strategy and disclosure
+,supply electricity behind the meter to,
+Installing solar photovoltaics (PV) and,,We are continuing to progress the
+,"the embedded network, enabling both",
+shifting to renewable energy on site is,,sophistication of our approach to
+,the tenants and landlord to benefit,
+a key component of HMC Capital’s net,,identifying and managing our climate-
+,from renewable electricity being,
+zero by 2028 strategy and follows in,,"related risks and opportunities, in"
+,generated on site. The widespan roof,
+the footsteps of HMC Capital’s Smart,,alignment with the recommendations
+,infrastructure at our properties presents,
+Energy Management Systems upgrades.,,of the Taskforce on Climate-related
+,a great opportunity to generate,
+Solar installations will be designed,,Financial Disclosures (TCFD).
+,power through solar PV installations.,
+to accommodate microgrids and,,
+,,Our climate strategy will evolve over
+,We have advanced our efforts to,
+"battery storage, preparing properties",,
+,,the coming three years as outlined in
+,install solar PV systems at eligible sites,
+to incorporate future technological,,
+,,the roadmap on page 14. The roadmap
+,by issuing an expression of interest,
+advances and reducing our reliance,,
+,,details the steps we are taking to
+,to several major solar PV suppliers,
+on offsets to reach net zero carbon,,
+,,comprehensively understand the
+,and installers in the market. We are,
+emissions. We expect renewable,,
+,,potential impacts of climate change
+,"currently assessing pilot proposals,",
+energy investment to contribute to,,
+,,and embed appropriate responses
+,"to commence a roll-out in Q3 FY23,",
+a 50% portfolio reduction in grid,,
+,,across the business.
+,with the project expected to take,
+electricity consumption by 2026.,,
+,approximately 30 months to complete.,
+,,FY23 will see HMC undertake a
+The solar PV systems will be designed,,
+,,Discovery phase focused on identifying
+"to provide electricity, in the main,",,
+,,climate-related risks and opportunities
+to reduce HMC Capital’s scope 2,,
+,,"most relevant to the business,"
+"emissions, and to work in harmony",,
+,,implementing management strategies
+with the EMS system currently being,,
+,,"to address these risks and opportunities,"
+installed across properties.,,
+,,and determining the most appropriate
+,,metrics to measure progress. During this
+,,phase we will also work to incorporate
+,,our climate-related risks into existing
+,,"risk management practices, and further"
+,,embed these across the business.
+,,During FY24 we will further develop our
+,,strategy through the introduction of
+,,climate change scenario analysis. Using
+,,scenario analysis to test the resilience
+,,of our climate strategy and business
+,,model under a range of possible future
+,,climate outcomes will enable us to
+,,better identify and manage a range of
+,,"likely impacts, risks, and opportunities."
+,,More detailed target setting and
+,,further implementation of governance
+,,processes across the business will
+,,also take place during this phase.
+,,"Following from the scenario analysis,"
+,,in FY25 we will seek to integrate the
+,,outcomes into our strategic and financial
+,,"planning. From FY25 onwards, we will"
+,,conduct regular reviews of our climate
+,,"strategy, performance against targets,"
+,,and the quality and completeness of
+,,our climate-related disclosures.
+
+=== Table 6 (page 47) ===
+NUMBER,DISCLOSURE,REFERENCE/REMARKS
+GRI 303: Water and Effluents (2018),,
+303-5,Water consumption,HMC FY22 Sustainability Report: Environment – Green Future:
+,,"Water efficiency, page 17"
+305: Emissions (2016),,
+305-1,Direct (Scope 1) GHG emissions,HMC FY22 Sustainability Report: Environment - Climate Action:
+,,"Net zero emissions by 2028, page 10"
+305-2,Energy Indirect (Scope 2),HMC FY22 Sustainability Report: Environment - Climate Action:
+,GHG emissions,"Net zero emissions by 2028 page, 10"
+305-4,GHG emissions intensity,HMC FY22 Sustainability Report: Environment – Climate Action:
+,,"Net zero emissions by 2028 page, 10"
+GRI 306: Waste (2020),,
+306-3,Waste generated,HMC FY22 Sustainability Report: Environment – Green Future:
+,,"Waste reduction page, 15"
+,GRI 405: Diversity and Equal Opportunity (2016),
+405-1,Diversity of governance,"Corporate Governance Statement, pages 5-6"
+,bodies and employees,
+,,"HMC FY22 Sustainability Report: CEO and Chair Letter, page 1"
+,,HMC FY22 Sustainability Report: Social – Respect:
+,,"Championing inclusion and diversity, page 28-29"

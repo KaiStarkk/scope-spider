@@ -1,0 +1,50 @@
+=== Page 91 ===
+Tasmea Limited
+Notes to the consolidated financial statements
+30 June 2025
+ 
+Note 39. Business combinations (continued)
+ 
+ 
+90
+Future Engineering Group
+On 2 September 2024, Tasmea Limited acquired 100% of Future Engineering & Communication Pty Ltd and associated 
+entities Future Power WA Pty Ltd, Rollwell Engineering Pty Ltd and Westplant Pty Ltd (collectively "Future Engineering 
+Group"). 
+Future Engineering Group specialises in design, supply and installation of powerline infrastructure, lattice towers, steel 
+monopoles, guyed masts and custom designed structures, customised rolling, pressing, welding and heavy steel 
+fabrication solutions and provides maintenance services. 
+The acquisition positions Tasmea to capitalise on the rapidly growing electrification demand in Australia, supporting the 
+integration of critical renewable energy sources into existing grids to ensure stability, reliability and a more sustainable 
+supply that aligns with our customers focus to reduce their carbon emissions. 
+The acquired business contributed revenues of $63.0 million and profit after tax of $9.7 million to the consolidated 
+entity for the 10 months ending 30 June 2025. A full-year contribution from Future Engineering Group under Tasmea’s 
+ownership is expected to be approximately $87.0 million in revenue and $15.5 million in maintainable EBIT. 
+Goodwill of $61.4 million is primarily related to growth expectations, expected future profitability, and expected cost 
+synergies. Goodwill has been allocated to the Electrical and Mechanical cash-generating units. The values identified in 
+relation to the acquisition of Future Engineering Group have been reassessed since 31 December 2024 for intangible 
+assets as the valuation of Brand Names and customer contracts was completed, deferred tax balances adjusted as a 
+result of the recognition of intangible asset and finalisation of tax bases which were still under review previously. These 
+values are now final as at 30 June 2025.  
+ 
+Options issued as part consideration
+The purchase agreement with the Vendors included shares issued as part of the consideration, which are subject to an 
+escrow period commencing on the issue of the shares and ending on the earlier of 31 August 2025 and the date that 
+Tasmea discloses its audited financial accounts for the financial year ended 30 June 2025. The agreement provides that 
+in the event the vendor wishes to sell the shares on market at the completion of the escrow period, and where the 
+average market share price that the shares are sold for is less than $2.50 per share, then Tasmea will make an additional 
+payment to the share recipient for any shortfall. Tasmea's obligation in respect of this aspect of the share purchase 
+agreement has been determined to be similar to a Put Option, and classified as a Derivative Liability in the acquisition 
+accounting.
+At 30 June 2025, the derivative liability was measured at $56,890 (Acquisition Date: $5,781,071) and is recognised on 
+the balance sheet, with the movement in fair value since acquisition recognised as a gain in profit or loss.
+ 
+Contingent consideration
+As part of the purchase agreement with the vendors, two of the ten previous shareholders agreed to a contingent 
+consideration arrangement. The remaining eight shareholders received full payment upfront. Future payments to be 
+made are contingent on Future Engineering Group's net profit contribution for the 12 month periods ending 30 June 
+2025, 30 June 2026 and 30 June 2027. The estimated range of the earnout contingent consideration is between $4 
+million to $7 million per year and has no capped amount. As at the acquisition date, the fair value of the contingent 
+consideration was estimated at $15,833,630. As at 30 June 2025, Future Engineering Group key performance indicators 
+indicate that it is probable the contingent consideration will be payable and accordingly the contingent consideration 
+remains recognised in full.

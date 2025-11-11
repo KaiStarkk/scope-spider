@@ -1,0 +1,193 @@
+=== Table 1 (page 4) ===
+Contents,,,,,
+Disclaimers,3,Performance,25,Opportunity,49
+,,"ESG governance, regulation",25,,49
+,,,,Innovating for the future,
+Managing Director’s message,4,,,,
+,,and reporting,,,
+,,,,Human rights and modern slavery,52
+,,Governance,27,,
+About Qube,6,,,,
+,,,,Investing in our communities,54
+,,Risk management,29,,
+,,,,Industry leadership and advocacy,55
+,,Climate-related scenario analysis,31,,
+Safety,9,Internal controls and assurance,31,,
+Strengthening our safety performance,10,,,,
+,,,,Appendices,57
+Focused on continual improvement,11,,,,
+,,,,Appendix 1: GRI content index,57
+,,"Planet: Decarbonisation,",32,,
+,,,,Appendix 2: Climate reporting index,61
+,,"climate risk, resilience and",,,
+,,environmental management,,Appendix 3: Climate scenarios,62
+Wellbeing,14,,,,
+,,Strategy,32,,
+,14,,,Appendix 4 Scope 1 and 2 greenhouse,62
+Our people,,,,,
+,,Metrics and targets,42,,
+,,,,gas emissions (absolute and intensity),
+A diverse and inclusive workplace,15,,,,
+,,Environmental management,46,,
+Innovate Reconciliation Action Plan,20,,,,
+2025-2027,,,,,
+Training and development,21,,,,
+
+=== Table 2 (page 6) ===
+Managing Director’s message (continued),
+"vehicle (BEV), hydrogen supplement trials, fuel-efficient",highlighted in the following pages.
+tyre trials and the conversion of various forms of small,
+,Thank you for your interest in the sustainability
+equipment and light vehicles to electric vehicles.,
+,performance of our business and thank you to the
+Our overall operational emissions intensity declined,"almost 10,000 people who put on a Qube uniform each"
+"by 17% year-on-year; however, our Scope 1 and 2","and every day, who make the stories and achievements"
+operational greenhouse gases increased by around 5%,"highlighted in this report possible, and who make"
+in FY25 compared with FY24. This is tied to business,Qube Thrive.
+"growth and operational activity, particularly in the",
+"Qube Logistics division, which saw a material uplift in",
+railed grain tonnes. Rail freight is much less emissions,
+intensive than road and Qube actively works with,
+its customers to encourage the transition of freight,
+"volumes from road to rail, where feasible, to support the",
+decarbonisation of the economy.,
+"In FY25, we commenced a review of our existing",
+"decarbonisation programs and targets, to inform the",
+development of a new Qube group-level transition,
+plan. This plan will include a structured decarbonisation,
+roadmap addressing near to medium-term transition,
+inputs in line with the new Australian Sustainability,
+"Reporting Standards, as well as responses to material",
+climate-related risks and opportunities and will address,
+Qube’s role in contributing to the value chain and,
+economic transition. This work is ongoing.,
+"Finally, the Opportunity chapter of this report details",
+some of the important work our teams have delivered,
+"this year in cybersecurity, Artificial Intelligence and the",
+deployment of technology solutions to enhance the,
+"safety, efficiency and productivity of our operations.",
+From wearable tech to protect the health and safety,
+"of our people, including those working in remote",
+"operations to Optical Character Recognition technology,",
+"Qube has always had an innovation mindset, and we",
+continue to take an industry leading approach to the,
+deployment of technology.,
+We are also focused on creating opportunity for the,
+,Paul Digney
+"communities in which we work, and in FY25 we invested",
+"more $1.2 million across our operations in sponsorships,",Managing Director
+partnerships and community-based initiatives that help,
+"advance our diversity and inclusion objectives, support",
+"our people, or help make the communities in which we",
+work even better. Some case studies from this work are,
+
+=== Table 3 (page 39) ===
+*Key metrics,
+,•  Operational GHG emissions (Scope 1 and 2).
+,•  Operational fuel and energy consumption.
+•,Safeguard mechanism facility-specific decline rates.
+•,Australian Carbon Credit Unit (ACCU) supply/demand and project pipeline.
+•,Low-carbon liquid fuel (LCLF) supply chain establishment rate.
+•,"Fossil fuel price (international, domestic, benchmark)."
+,•  Government and sector-level investment in low carbon technology uptake.
+•,Electric vehicle penetration across Australian and New Zealand markets.
+
+=== Table 4 (page 39) ===
+Low-carbon electricity,,
+Transition (policy and,Lack of competitively priced low carbon electricity.,Proactive engagement in energy markets
+"legal, technology)",,
+,,to consolidate and secure long-term
+Medium-term,,pricing structures to limit market exposure
+(before 2030),,
+,Opportunity: Insulating the business from price,– with flexibility to increase renewable
+Long-term (after 2030),volatility though investing in onsite generation.,energy certificate uptake.
+,,Investment in behind the meter solar and
+Expenditure and,,battery energy storage systems at suitable
+reputation,,
+,,sites and operational depots.
+*Key metrics,,
+•  Operational GHG emissions (Scope 2).,,
+
+=== Table 5 (page 44) ===
+"In FY25, Qube’s total Australian absolute calculated GHG emissions were approximately 437 thousand tonnes of carbon"
+dioxide equivalent (KtCO2-e). This included 415 KtCO2-e Scope 1 and 23 KtCO2-e Scope 2 (location-based).
+This represents a 5% increase in operational GHG emissions compared with FY241 and this is tied to business growth
+and operational activity.
+Our Scope 1 and 2 emissions intensity performance (tCO2-e/$M revenue) resulted in an 17% decrease year on year and a
+50% reduction against our FY18 base year2.
+Our FY25 revenue figure includes Qube’s grain trading activities which commenced in December 2023 and made a
+material contribution (~20%) during FY25. Accounting for annual revenue excluding grain trading activities in FY25
+results in a 1% emissions intensity reduction compared to FY24.
+
+=== Table 6 (page 49) ===
+,,"Photo by Damien, Devils Marbles, NT"
+Why this matters to Qube,FY25 performance,
+•  Climate change poses potential risks and,,
+opportunities for Qube’s operations and,,
+business activities.,,
+•  Qube is committed to reducing emissions,"Progressed 
+Trialled low/",
+and building climate resilience across its,"climate-related 
+zero-emission",
+,"transition 
+technologies",
+supply chain.,,
+,"planning
+across multiple sites",
+Year ahead,,
+•  Climate-related reporting aligned and assured under,,
+,No major,
+ASRS requirements.,,
+,environmental,
+,non-conformances,
+•  Continuing development of a groupwide transition plan.,identified in audits,
+•  Expanding Scope 3 emissions reporting and enhancing,,
+data accuracy.,,
+"•  Investing in renewable energy, electrification and",,
+alternative fuels.,,
+"Photo by Michelle, Port Hedland, WA",,
+Qube FY25 Sustainability Report,,48
+
+=== Table 7 (page 62) ===
+,INDEX,PAGE/S
+Governance,,
+,,26-28
+,"Governance processes, controls and procedures used to monitor, manage and oversee climate-related risks and opportunities",
+Strategy,,
+Strategy and decision-making,,
+Climate-related scenario analysis,,
+,,32-41
+,"Climate-related risks and opportunities identified through scenario analysis and their impacts on Qube’s strategy, operations",
+and value chain,,
+Climate-related transition planning,,
+Risk management,,
+,,29-31
+"Identification, assessment, prioritisation and monitoring climate-related risks and opportunities",,
+Metrics and targets,,
+Qube FY25 GHG profile and Scope 1 GHG intensity,,
+,,42-45
+Performance against targets,,
+Metrics and targets under review,,
+
+=== Table 8 (page 63) ===
+(absolute and intensity),,,,,,,,
+Items,FY18,FY19,FY20,FY21,FY22,FY23,FY24*,FY25
+Intensity tCO2-e/$M,198.5,191.8,174,159.4,169.5,141.0,118.6,98.1
+Revenue $,"$1,651","$1,729","$1,884","$2,032","$2,483","$2,930","$3,504","$4,462"
+Energy consumed,"4,481,503","4,506,721","4,521,662","4,431,674","5,801,536","5,732,727","5,782,088","6,048,290"
+(GJ),,,,,,,,
+Total emissions,"327,729","331,605","327,812","323,852","420,805","413,022","415,680","437,451"
+(Scope 1 and 2),,,,,,,,
+Scope 1,"308,285","310,656","308,285","304,255","397,545","392,246","395,215","414,891"
+Scope 2,"9,444","20,949","19,527","19,597","23,260","20,776","20,465","22,561"
+(location-based),,,,,,,,
+YoY carbon intensity,,-3%,-9%,-8%,6%,-17%,-16%,-17%
+(%),,,,,,,,
+Carbon intensity,,-3%,-12%,-20%,-15%,-29%,-42%,-51%
+performance (against,,,,,,,,
+FY18 base year),,,,,,,,
+,"*  As part of our ongoing commitment to transparency and accuracy in sustainability reporting, we have made a correction to the emissions data previously published for the financial year 2024 (FY24).",,,,,,,
+,"A review of our data identified a variation in the originally reported figures for FY24. This variation has now been addressed, and the corrected data are reflected in this FY25 Sustainability Report. The",,,,,,,
+,"adjustment affects our reported total FY24 Scope 1 emissions and results in a revised figure of 395,215tCO2-e (a 3% increase).",,,,,,,
+,We have enhanced our internal data validation processes to improve accuracy and maintain stakeholder confidence in our disclosures. Revised FY24 data are presented alongside FY25 figures to,,,,,,,
+,"ensure clarity and comparability. We remain committed to high-quality, transparent sustainability reporting.",,,,,,,

@@ -1,0 +1,144 @@
+=== Table 1 (page 5) ===
+,,,,direct community,
+,,,,,the communities we serve.
+,,,421,contributions in F25,
+,,,,,
+,V I C,,,Our planet,
+,,,"66,800+",,
+,,,,,Our reach enables us to influence change across our value chain
+,,,,,
+"1,715",307,,,22.9%,and we’re committed to protecting and preserving our planet.
+,,,,,"We partner to transition to a lower carbon future, reduce emissions"
+,,,,,
+store network,,,,scope 1 and 2,
+,stores,,,,and minimise waste.
+,,,,emissions reduction,
+,,TAS,,,
+,,,,vs F23 base year,
+,"43,300+",,,,
+,,,N Z,,
+25,,,,,
+,,34,,,
+,,,,Our investors,
+distribution,,stores,,,
+centres,,,184,,
+,,,,,
+,,"5,000+",,,Most of the Group’s shareholders are superannuation funds
+,,,stores,,
+
+=== Table 2 (page 21) ===
+reduction relative to,systems installed,home delivery fleet 1,,
+F23 base year,,,,
+,29 in F25,9 in F25,,
+,,,,Scope 1 and 2: our operations
+,,,4%,
+,,,,Scope 1 and 2 emissions are directly within the Group’s operational control. Material
+,,,,"scope 1 emissions sources include fugitive synthetic refrigerants, transport fuel for fleet"
+,,,,"cars and home delivery trucks, and natural gas. Scope 2 emissions form the largest part"
+,,,,"of the Group’s operational footprint, primarily from the electricity used across the store"
+Why it matters to us,,,,"network, distribution centres and offices."
+
+=== Table 3 (page 21) ===
+"As a food retailer, the Group’s focus is on supporting sustainable food systems through climate",,,,,
+,,,,,
+and nature-focused actions.,,96%,,,
+,,,Scope 3: our value chain,,
+,,,,,
+What our 2025 Plan set out to do,What we’ve learnt,,Scope 3 emissions are indirect emissions from the Group’s upstream and downstream,,
+,,,"value chain. For the Group’s F23 base year, approximately 50% of these emissions are",,
+Our journey began with an ambition for a net positive,We’ve reduced direct emissions and are building,,,,
+,,,"from forest, land and agriculture (FLAG) sources generated pre-farmgate. The remaining",,
+future. We have since refined this to aim for net zero,"resilience across our network. However, tackling",,,,
+,,,"50% are from energy and industrial sources such as post-farmgate electricity and gas,",,
+"emissions across our value chain by 2050, aligning with",supply chain emissions requires a collective effort,,,,
+,,,"services, packaging, transport, and downstream waste.",,
+"a 1.5°C pathway. In F24, we updated and strengthened","where our suppliers, industry and government all play",,,,
+our emission reduction targets which are validated by,a role in decarbonisation. Progress depends on this,,,,
+the Science-Based Target Initiative (SBTi) (for more,"cross-sector collaboration, operational adaptability,",Scope 3,FLAG emissions,Scope 3,Energy and industrial emissions
+details see our 2025 Annual Report). We continue to,"and responsiveness to navigate market volatility,",,,,
+partner with our suppliers and the agriculture industry,shifting standards and evolving regulations effectively.,,,,
+to foster better stewardship of natural resources and,,,,,
+
+=== Table 4 (page 22) ===
+What we’ve been doing,
+Climate targets,Transitioning to 100% renewable electricity
+Woolworths Group is continuing its long-standing commitment to contribute to a 1.5°C pathway and aims to reach net-zero,"We’re on track to achieve 100% renewable electricity for our operations by the end of 2025, in line with the RE100"
+emissions across the value chain by 2050. The net-zero ambition is supported by near- and long-term emissions reduction,framework and building on our progress in reaching over 30% renewable electricity in F25. Our strategy combines
+"targets, which were independently validated by the Science Based Targets initiative (SBTi) in F24.",on-site solar generation (including 311 rooftop solar installations to date) with secured contracts across all Australian
+,"states and New Zealand. This involves strategic partnerships with Bango Wind Farm, Smartest Energy, Iberdrola"
+,"and CleanCo to leverage a mix of wind and solar. Where possible, we have prioritised investment in new renewable"
+"SCOPE
+TARGET
+TIMEFRAME",
+,"electricity generation to increase capacity in the grid. We acquire additional renewable energy certificates, and benefit"
+"Woolworths Group aims to reduce absolute scope 1 and 2 GHG emissions by 
+Scope 1 and 2",from the increasing amount of default renewable electricity delivered through the grid. 1 We welcome the continued
+Near-term,
+80% by F30 from a F23 base year. 1,efforts and investment from the Australian federal government in the transition of the national grid.
+Woolworths Group aims to reduce absolute scope 1 and 2 GHG emissions by,
+Long-term,
+,
+90% by F45 from a F23 base year.,Decarbonising our transport
+"Woolworths Group aims to reduce absolute scope 3 GHG energy and industrial 
+Scope 3","To reduce emissions in our own fleet, we launched Woolworths Group’s transport decarbonisation strategy in F23."
+Near-term,
+emissions 2 by 55% by F33 from a F23 base year.,
+,This aims to convert Woolworths home delivery trucks to EVs across Australia and New Zealand by 2030. By the end
+,"of F25 we had 75 electric home delivery trucks on the road, up nine since F24. We’re planning installations of charging"
+Woolworths Group aims to reduce absolute scope 3 GHG energy and industrial,
+Long-term,"infrastructure CFCs and store locations, including a dedicated charging hub at Mascot CFC. We have integrated 27 EV"
+emissions 2 by 90% by F50 from a F23 base year.,
+,"charging sites, supplied with green electricity 1, into store design, offering daily rewards points to customers. These EV"
+Woolworths Group aims to reduce absolute scope 3 FLAG GHG emissions by,"investments are providing key insights into payloads, range and charging costs."
+Near-term,
+40% by F33 from a F23 base year. 3,
+Woolworths Group aims to reduce absolute scope 3 FLAG GHG emissions by,
+Long-term,
+72% by F50 from a F23 base year. 3,
+,Better for our planet
+
+=== Table 5 (page 22) ===
+,Woolworths Group aims to reduce absolute scope 3 FLAG GHG emissions by,
+,Long-term,
+,72% by F50 from a F23 base year. 3,
+,,Better for our planet
+"With respect to target statements in the table above, Woolworths Group confirms:",,
+,,Solar shade and EV convenience
+•,"its commitment, first and foremost, to comply with legal and regulatory obligations, particularly those in relation to",
+,Woolworths Group’s dealings with suppliers and other relevant supply chain participants;,at Fairy Meadow
+•,"that Woolworths Group intends to apply appropriate resources, and to engage and collaborate in good faith with","At our Fairy Meadow store in NSW, a solar shade car"
+,"suppliers to Woolworths Group and other relevant supply chain participants, in working together to meet these","park canopy equipped with 166kW of solar panels,"
+,"challenges, and in supporting a “just transition” 4; and","when combined with the stores’ rooftop solar,"
+•,"that the target statements above are based on Woolworths Group’s planning, modelling and assumptions, made with",provides more than 20% of the store’s energy and also
+,"recent public information available, as to:",customer shade. The car park features fast EV chargers
+,,(two 50kW chargers in four bays) and provides Everyday
+,"–
+the commitments, behaviour and performance of many of Woolworths Group suppliers and other supply chain",
+,,"Rewards on ChargeFox, allowing our customers to earn"
+,participants;,
+,,points charging their car while they shop.
+,"–
+government policy and regulation in relation to these issues; and",
+
+=== Table 6 (page 22) ===
+,,"The Group is committed to working hand-in-hand with farmers, suppliers, industry, government, and customers to"
+,,drive meaningful change towards shared sustainability objectives. We focus on multiple initiatives across the following
+,,four strategic pillars:
+Scope 1 and 2 emissions,,
+,•,"Collaboration: as a Climate Leaders Coalition member, we are leading a collaborative project on streamlining"
+"In the past year, we achieved a 22.9% cumulative reduction in scope 1 and 2 emissions compared to our F23 base year,",,
+,,pre-farmgate agricultural emissions data sharing. Our value chain emissions program is in it’s third year and aims
+progressing towards our 80% reduction target by F30. Our focus is absolute emissions reduction through our energy efficiency,,
+,,"to support supply chain emissions reduction. In F25, suppliers representing 28% of our scope 3 emissions from"
+"programs, renewable electricity transition, refrigerant management programs and transport decarbonisation.",,
+,,purchased goods and services participated in the program.
+,•,Advocacy and leadership: the Group actively engages with government and industry to achieve better climate
+,,
+Reducing leakage rates and transitioning to low carbon refrigerants,,"outcomes. Key advocacy areas include, but not limited to, increasing renewable energy, investing in green"
+,,"infrastructure, and supporting sustainable and regenerative agricultural practices."
+Refrigeration is essential for food quality and safety. Refrigerant gas leaks are our second largest source of scope 1,,
+,•,"Education: delivered a climate education program to risk, finance and strategy leads across Group businesses"
+"and 2 emissions after electricity. Since 2016, we’ve been introducing transcritical CO₂ refrigeration systems. In F25,",,
+"these systems were installed in 26 new or existing stores, bringing the total to 127 stores. In 2024, all new self-contained",•,Innovation and investment: we have supported domestic venture capital investments in innovative start-ups that
+fridges were transitioned to natural refrigerants across Australian supermarkets. We also continue to reduce leaks in,,"address key sustainability challenges, such as circularity. In F25, we continued to support W23 Global, a pioneering"
+existing systems using leak sensors for preventative maintenance.,,venture capital fund backed by five leading grocery retailers.

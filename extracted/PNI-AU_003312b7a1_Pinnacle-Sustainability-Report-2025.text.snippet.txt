@@ -1,0 +1,137 @@
+=== Page 12 ===
+12
+2025 CORPORATE SUSTAINABILITY REPORTClimate Change
+We acknowledge the material risk that climate change 
+poses to the economy, financial markets and society as a whole and actively consider climate-related concerns throughout our operational decisions. We believe that sustainable practices must be embedded into our organisational culture to increase knowledge and continue dialogue about climate-related issues.Throughout FY25, we strengthened climate education and awareness for employees and Affiliates by launching targeted training initiatives aligned with our climate strategy, as well as onboarding enhanced data and software solutions to support our climate-related efforts. While these developments are still underway, we are actively progressing discussions to ensure we build strong, scalable foundations for effective climate risk management and future growth.
+SUPPORT REDUCE EDUCATE
+Support collaboration 
+opportunities with Affiliates, industry peers and carbon projects to collectively drive sustainable action.Reduce our environmental impact. Enhance employee awareness and knowledge of sustainable practices that contribute to a more sustainable future.
+Our Progress 
+Actively participated in industry-
+wide collaborations to inform and support the development of climate policy. 
+Continued Affiliate engagement 
+via the Pinnacle ESG Working Group, with a strong focus on sustainability reporting preparation and climate-related discourses.
+Partnered with carbon avoidance 
+projects to accelerate climate action in the near term.Our Progress
+Introduced a commitment to 
+ensure that all our significant suppliers disclose greenhouse gas (GHG) data aligned with recognised standards by FY28.
+Maintained a GHG emissions 
+intensity in FY24 that sits below our established baseline.
+Prioritised the use of 
+renewable electricity sources and purchased Large-scale Generation Certificates (LGCs) to offset any non-renewable electricity consumed.Our Progress
+Continued to enhance climate 
+impact awareness across our business and facilitate similar opportunities to Affiliates and suppliers.
+Continued to embed sustainable 
+thinking into firm-wide decision making by further integrating sustainability considerations into our existing policies.
+Employees actively participated in 
+webinars, programs and industry events aimed at addressing climate change impacts.
+
+=== Page 13 ===
+13
+2025 CORPORATE SUSTAINABILITY REPORTWe continued to evaluate the resilience of our business 
+model to climate-related disruptions and our capacity to adapt to climate uncertainties. 
+The analysis provided a coordinated way to assess 
+climate-related risks and opportunities and facilitated a discussion into how physical and transition risks could affect our operations over the short, medium and long term. We focused on our core business operations and did not include Affiliates’ investment portfolios. Extending the depth of our analysis to encompass Affiliates and quantify our assessment forms a core element along our trajectory to align with mandatory reporting regimes when they become applicable in future reporting periods, which we are actively working towards.
+IDENTIFYING RISKS AND  
+OPPORTUNITIES
+Our Sustainability Committee identified potential climate-
+related risks and opportunities that our operating model may be exposed to including the perceived significance and likely timescales in which they may occur.Climate Scenario Analysis
+High Medium LowShort Term: 
+0 – 1 yearsMedium Term: 1 – 5 yearsLong Term: 5+ yearsTimeline Risk
+RISK CATEGORYDESCRIPTIONPOTENTIAL  FINANCIAL IMPACT 
+Regulatory & 
+Policy
+ Heightened regulatory scrutiny and the rapid evolution of global disclosure standards - such as ISSB and mandatory TCFD/SASB-aligned reporting - are increasing compliance demands for financial services firms. This environment elevates liability risks associated with greenwashing and inaccurate disclosures, while divergent policies across jurisdictions add further complexity to maintaining consistent and compliant reporting practices. Increased compliance costs, potential fines and reputational risk. 
+Technology
+ The rapid emergence of generative Artificial Intelligence (AI) and the rapidly increasing sophistication of climate-aligned fintech, advanced data analytics and ESG integration tools is driving the need for increased capital investment, research and deployment of new processes, as well as higher training costs for staff. To meet evolving regulatory and stakeholder expectations, we continue to enhance our data systems to effectively monitor financed emissions and climate risk exposures across Affiliates. Legacy systems may not meet new reporting or transparency requirements, potentially resulting in operational inefficiencies or compliance gaps. Rapidly increased consumption of new technologies may lead to additional computing and storage requirements. This could lead to an increase in energy usage and potentially increased emissions if not properly managed by the chosen technology partner.Increased capital and operational expenditure, obsolescence risk.
+
+=== Page 14 ===
+14
+2025 CORPORATE SUSTAINABILITY REPORTRISK 
+CATEGORYDESCRIPTIONPOTENTIAL  FINANCIAL IMPACT 
+Market
+ 
+ Market risks are becoming increasingly complex as uncertainty 
+and volatility persist across global financial markets. While there is growing demand from clients and investors for sustainable products, the pace of change is tempered by widespread resistance and cautious sentiment within the sector. The need for adaptive risk management strategies that account for both the momentum toward sustainability and recognise the persistent headwinds of uncertainty and resistance to change is critical to maintaining competitiveness in this environment. Reduced Assets Under Management (AUM), lower fee income, stranded asset risk. 
+Reputational
+  Reputational risk is heightened by increasing stakeholder scrutiny of our climate action, transparency and efforts to avoid greenwashing. Failure to meet climate commitments or keep pace with peers in disclosure and decarbonisation may be perceived as inaction, potentially reducing capital availability, prompting shareholder divestment and limiting future partnership opportunities. Additionally, reputational damage can hinder our ability to attract and retain top talent, negatively impacting operational productivity through higher employee turnover and increased recruitment costs.Reduced capital inflows, higher staff turnover. 
+Legal & Liability
+  
+ Legal and liability risks are increasing as the global trend of climate-related litigation intensifies. Firms face potential lawsuits from clients or stakeholders over inadequate disclosure, misrepresentation or failure to address climate risks as part of their fiduciary duties.Legal costs, settlements, reputational damage. 
+Supply Chain Data
+  Incomplete or low-quality greenhouse gas (GHG) data impacts the accuracy of Scope 3 emissions reporting. This limitation increases the risk of over-reliance on a spend-based approach and less reliable emissions disclosures.Data gaps, reduced accuracy of reporting.
+Physical Risk (acute)
+  The rising frequency and severity of extreme weather events increase short-term physical risks, including potential facility damage and operational disruptions if employees are unable to access safe workspaces. While such events may cause temporary spikes in insurance costs, our direct financial exposure remains limited, as our facilities are leased rather than owned. We may also face acute business interruption risks if material suppliers are affected.Increased expenses, reduced revenues, insurance premium hikes.
+Physical Risk (chronic)
+ 
+ Long-term shifts in climate conditions may increase chronic 
+physical risks to our business through sustained higher insurance costs, reduced insurability of leased properties and Affiliate assets, and greater demands on business continuity and disaster recovery planning. These changes may also require enhanced investment in health and safety measures, while exposing us to heightened indirect risks across our supply chain and within portfolios managed by Affiliates.Increased expenses, reduced revenues, insurance premium hikes.
+
+=== Page 15 ===
+15
+2025 CORPORATE SUSTAINABILITY REPORTOPPORTUNITY 
+CATEGORYDESCRIPTIONPOTENTIAL  FINANCIAL IMPACT 
+Resource 
+Efficiency• Improved office/building energy management, leveraging innovative solutions to increase energy efficiency and renewable electricity in our leased office spaces.
+• Substituting or diversifying resources (utilities and office supplies) to be more sustainable.
+• Selection of green-certified premises.Reduced expenses.
+Energy Source • Use of lower emission sources of energy or use of 100% green energy, supportive policy incentives and low-carbon technologies. 
+• Reduced exposure to future fossil fuel price increases and less sensitivity to changes in the cost of carbon. 
+• Returns on investment in low-emission technology.Reduced expenses, improved resilience.
+Products & Services
+• Movement of capital towards energy transition or socially-aware initiatives may provide increased demand for investment products associated with these themes.
+• Offering carbon management or other climate-related services to Affiliates.Increased revenues, market share growth.
+Market Positioning
+• Early adoption of TCFD/SASB/ISSB standards - enhanced reputation with asset owners, capital allocators and beneficiaries.
+• Access to capital allocation through new products, markets and asset types that arise from transition to low carbon economy. This will further diversify Affiliate product offerings and our Group-wide wide diversification.Increased AUM, client retention.
+Resilience & Adaptation
+• Integration of climate risks into enterprise risk management.
+• Engagement with Affiliates to drive climate resilience in underlying portfolios.
+• Reputational benefits resulting in increased demand for partnership opportunities and positive sentiment of our business and prospects and long-term value creation.
+• Increased opportunity to effect positive change with a group-wide approach, supporting strong coordinated strategies across Pinnacle Group.Enhanced long-term value, risk mitigation.
+Data & Transparency
+• Investment in ESG data platforms and AI for climate risk analytics.
+• Improved granularity and frequency of sustainability reporting (both internal and external).
+• Improved scalability and quality of existing and new initiatives to enhance our decarbonisation strategies. 
+• Ability to offer differentiated transparency to clients.Competitive advantage, improved risk pricing.
+Policy & Advocacy
+• Engaging in policy advocacy for the development of robust 
+climate frameworks.
+• Collaboration with industry groups to shape best practices and standards.
+• Participation in global climate finance initiatives.Influence on policy, 
+reputational gains.
+
+=== Page 16 ===
+16
+2025 CORPORATE SUSTAINABILITY REPORTSCENARIO SELECTION
+We use scenarios developed by the Network for 
+Greening the Financial System (NGFS) to assess our exposure to both transition and physical climate risks. This year, we strengthened our analysis by integrating the Intergovernmental Panel on Climate Change (IPCC) framework, providing greater scientific rigor and alignment with leading international climate assessments.  The latest review of the NGFS scenarios indicates that the world in 2025 most closely reflects the Nationally Determined Contributions (NDC) and Fragmented World pathways. Accordingly, we have included these scenarios in our analysis.
+CLIMATE 
+SCENARIO NET ZERO BY 2050 NATIONALLY DETERMINED CONTRIBUTIONS (NDCS)  FRAGMENTED WORLD  
+Characteristics  
+& Risks~1.4°C, 1.5° limit
+(end of century 
+warming)
+Assumes global warming is 
+limited to 1.5°C by implementing stringent climate policies and minimal carbon dioxide removal reliance to achieve net zero CO₂ emissions by 2050. 
+Physical risks are relatively low 
+but transition risks are high. ~2.3°C, 2.4°C limit 
+(end of century 
+warming)
+Assumes climate ambition to 
+reduce national emissions and adapt to the impacts of climate change is reflected in NDCs from signatory countries. 
+Physical risks are high but 
+transition risks are relatively low.~2.4°C or higher 
+(end of century 
+warming)
+Assumes a world with divergent 
+climate policies, limited international cooperation, and uneven progress toward decarbonisation.
+Transition and physical risks are 
+both high and unpredictable.
+Applicable NGFS stateOrderly transition Partial/delayed transition Disorderly transition 
+Applicable IPCC ScenarioSSP1-1.9 (“Sustainable development”/no overshoot) SSP2-4.5 (“Middle of the Road”) SSP3-7.0 (“Regional rivalry”/high challenges)SCENARIO ANALYSIS RESULTS
+Our risk and opportunity analysis has been applied 
+to each scenario with the aim of exploring potential financial and operational impacts, strategic opportunities and risk management responses for our firm. Timeline horizons for short, medium and long term are consistent with those outlined above.
+* Clima te scenario classifications and quantitative limits are based on (i) the Network for Greening the Financial System (NGFS) Climate Scenarios, as detailed in 'NGFS Climate 
+Scenarios for Central Banks and Supervisors – Technical Documentation, Phase V' (NGFS, 2025), and (ii) the Intergovernmental Panel on Climate Change (IPCC) Shared Socio-
+economic Pathways (SSPs) as used in the IPCC Sixth Assessment Report (2021).

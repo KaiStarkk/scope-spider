@@ -1,0 +1,289 @@
+=== Page 3 ===
+In September 2024, the Company’s B2C businesses 
+(Webjet OTA, Cars & Motorhomes (formerly GoSee) and 
+Trip Ninja) were demerged and are now part of Webjet 
+Group Limited. This Sustainability Report relates only to 
+the Company’s ongoing businesses, namely the WebBeds 
+B2B business.  Following the demerger, the Company 
+changed its name from Webjet Limited to Web Travel 
+Group Limited. Data included in this report has been 
+rebased to the FY25 year to reflect the changed profile 
+of the Company. Where relevant and comparable, prior 
+trend data has been referenced in the reporting text. 
+This Report has been prepared in reference to Global 
+Reporting Initiative ( GRI) reporting Standards, the 
+Sustainability Accounting Standards Board ( SASB ), and the Australian Sustainability Reporting Standards 
+(ASRS ). All disclosures in this Report have been 
+reviewed and approved by the Executive Leadership 
+Team and the Board as appropriate. Carbon emissions 
+data preparation was externally supported. 
+For further information or feedback on any  
+aspect of this report, please contact Carolyn Mole, 
+Investor Relations.
+Web Travel Group  
+Level 12, 440 Collins Street  
+Melbourne VIC 3000 Australia  
+investor@webtravelgroup.comThis report reflects Web Travel Group Limited’s ( Web Travel Group  or Company ) (formerly 
+Webjet Limited) management and performance on key environmental, social and governance ( ESG ) 
+topics identified as material to the business and our stakeholders for the FY25  reporting period 
+(1 April 2024 to 31 March 2025). For a more complete understanding of the business context, we 
+recommend this report be read in conjunction with Web Travel Group’s Annual Report, Corporate 
+Governance Statement, Modern Slavery Statement and the various Board Charters and corporate 
+policies all of which are available on our investor website ( www.webtravelgroup.com ). Sustainability 
+Report .
+2025
+01
+
+=== Page 4 ===
+As set out in the Company’s FY25 Annual Report, WebBeds 
+again saw significant TTV growth during the year, up 22% 
+on last year, continuing on its path as one of the fastest 
+growing travel companies in the world.  The first half of the 
+year was challenging as a confluence of factors impacted 
+TTV margins all at the same time. Despite these challenges, 
+post demerger the business is repurposed and reinvigorated 
+and we are confident we will continue our TTV growth 
+trajectory and deliver significant earnings growth to FY30.
+In a challenging year, staff engagement remained strong 
+and above peer average, a testament to the ongoing 
+attention to engagement across the business.  We also 
+saw our commitment to the 40:40 vision reflected in the 
+percentage of women on our Board and management team.  
+We continued to invest in our customers and partners, 
+launching a Customer Self-Service Portal in APAC, MEA and 
+Europe, and establishing a new global Operational Account 
+Management function to better support engagement with 
+customers, suppliers and commercial teams. As a Group 1 entity, Web Travel Group will release its first 
+mandatory climate reporting as part of FY26 annual financial 
+reporting. In preparation, this year we refreshed our 
+emissions baseline to reflect the post-demerger entity and 
+are developing an emissions reduction pathway to inform 
+target setting. This Sustainability Report includes the new 
+baseline and an ASRS aligned climate section as a dry run 
+ahead of our first mandatory report next year.   
+We also remain focused on ensuring responsible governance 
+and prioritising the security of our websites, booking 
+platforms and financial and data management systems.  
+We remain committed to creating sustainable earnings 
+and capital growth for our shareholders and supporting 
+our stakeholders including employees, suppliers, 
+customers and communities that we serve. We thank all 
+our stakeholders for their ongoing support as we continue 
+on our sustainability journey.
+John Guscic  
+Managing Director,  
+Web Travel Group LimitedManaging Director’s 
+Message .
+FY25 was a historical year for the Company. Since 
+the demerger of the B2C businesses in September 2024, 
+Web Travel Group is now solely focused on driving 
+profitable growth  in the WebBeds B2B business.  
+Web Travel Group Limited Sustainability Report 2025
+02
+
+=== Page 16 ===
+Material sustainability topic –
+Climate Change Risk 
+and Disclosure .
+Why this is important to us
+Web Travel Group recognises the increasing risks 
+associated with a changing climate, including to the travel 
+industry, and believe all organisations have a role to play 
+in helping transition to a low carbon economy.
+How we manage this area
+The Board is focused on this area and discusses the 
+impact a changing climate could have on our business 
+and its implications for our strategy. The Company 
+is committed to reducing its emissions and meeting 
+investor and regulatory climate disclosure expectations. 
+The Board’s Risk Committee has specific oversight of 
+these targets.
+What we focus on
+Carbon emission measurement and reduction
+In FY22, Webjet Limited began a process to assess 
+carbon impact with a view to creating an emissions 
+baseline from which to build a reduction pathway. This 
+involved measuring, auditing, reducing where practical 
+and subsequently offsetting carbon emissions. In FY24, 
+to begin to prepare for the introduction of mandatory 
+reporting, Webjet Limited reviewed its approach 
+against ASRS reporting requirements and began to 
+work to close gaps. In FY25, as part of demerging, 
+Webjet Limited, now Web Travel Group, re-baselined its 
+carbon footprint and took a decision to cease investing 
+in operational carbon offsetting so that we could 
+redirect our investment to development of an emissions 
+reduction plan and a focus on absolute reductions.Alignment with global climate disclosure standards
+In FY24 Webjet Limited commenced aligning with the 
+Task Force on Climate-related Financial Disclosures 
+(TCFD) recommendations. The TCFD is the global 
+standard for communicating climate-related risks and 
+opportunities exposure and management approach to 
+investors and other stakeholders. During FY25 Webjet 
+Limited, now Web Travel Group, transitioned from 
+reporting under the TCFD standard to the incoming 
+Australian climate reporting regime (ASRS AASB S2). 
+As a Group 1 entity, Web Travel Group will release its 
+first mandatory climate reporting as part of FY26 annual 
+financial reporting. We will also continue to monitor 
+developments at the global level as international 
+standards (ISSB) are introduced.
+Phased approach to meeting the new climate related 
+financial disclosure regime
+Web Travel Group has completed Phase 1 and we are now 
+focused on Phase 2.
+Phase 1 Phase 2 Phase 3
+Establish baseline 
+carbon footprint 
+and identify 
+high-level climate-
+related physical 
+and transition risk 
+opportunities.Undertake more 
+detailed climate 
+risk assessment 
+aligned to scenarios, 
+design adaptation 
+plans, integrate 
+with existing 
+enterprise-level 
+risk management 
+approach and 
+governance.Translate material 
+physical and 
+transition risks into 
+forecasted financial 
+impact. Include in 
+annual financial 
+reporting.Reducing our  
+Impact
+Web Travel Group Limited Sustainability Report 2025
+14
+
+=== Page 18 ===
+Carbon emissions performance
+Scopes FY25
+Scope 1 227.22
+Scope 2 (Location-based) 828.20
+Scope 2 (Market-based) 939.74
+Scope 3 (Location-based) 648,466
+Scope 3 (Market-based) 648,559
+Total Emissions (Location-based) 649,521
+Total Emissions (Market-based) 649,726
+• In September 2024, Webjet Limited underwent a demerger, resulting 
+in the formation of Webjet Group Limited to manage its former B2C 
+businesses, leaving Webjet Limited operating the WebBeds B2B 
+business only. As a result a new emissions baseline for Webjet Limited 
+(now Web Travel Group) has been established in FY25.
+• Reporting year is 1st Apr 2024- 31st Mar 2025. Actual data was 
+provided for half year (1st Apr 2024-30th Sep 2024) and then an uplift 
+factor applied to project the full year emissions.
+• Emissions calculated in this report have been assessed in line with 
+the Greenhouse Gas Protocol Standard and Greenhouse Gas Scope 
+3 Standard methodology and prepared in line with the operational 
+control consolidation approach. 
+• Emission sources from all properties owned and leased by 
+Web Travel Group have been included in the footprint’s boundary which 
+includes all 25 facilities leased globally.
+• Both Location-based and Market-based emissions were calculated for 
+Scope 2 and Scope 3 Category 3 emissions for completeness.
+• Category 11: Use of Sold Products contributed 94% of emissions, 
+followed by Category 1: Purchased Goods and Services and Category 
+2: Capital Goods, contributing 2.5% and 2.1%, respectively. These 
+figures have used the Market-based approach.
+• Activity or spend data was used for the footprint calculation, where a 
+data gap existed, an estimation was made to fill the gap.
+• Scope 1 & 2 for fuel and electricity were calculated based on the actual 
+consumption and Scope 1 refrigerants emissions were estimated 
+based on the m2 area of sites.
+• Scope 3 Categories 1, 2, 4, & 6 emissions were calculated based on 
+the spend.
+• Scope 3 Category 3 emissions were calculated based on the actual fuel 
+and electricity consumption.
+• Scope 3 Category 7 emissions were calculated based on the number 
+of full-time equivalent (FTE) employees, the expected proportion of 
+employees working from home, and the number of days per week 
+working from office. The average distance for commute and modes of 
+transport were sourced from standard industry information.
+• Scope 3 Category 11 emissions were calculated per night stays in different 
+star rated sold accommodation and per spend for sold land transport.
+Data preparation was externally supported, and the Company 
+will commence external assurance next year in line with 
+ASRS requirements.Location and market-based definitions 
+Location-based emissions use average emission 
+factors for the geographic location where energy is 
+consumed, while market-based emissions reflect a 
+company’s specific energy choices and contracts, 
+including renewable energy purchases. Both are 
+included for completeness in Web Travel Group’s 
+reporting, and to reflect the Company’s purchase of 
+renewable energy in Malaysia.
+Breakdown of the Scopes
+Scope 1 emissions  — consist of emissions relating 
+to mobile fuel (petrol) combustion in fleet vehicles 
+and fugitive emissions from air conditioning within 
+Web Travel Group properties.
+Scope 2 emissions  — include all electricity purchased 
+for Web Travel Group operational locations.
+Scope 3 emissions  — are emissions associated with 
+Web Travel Group’s upstream and downstream business 
+activities. These include indirect emissions sources 
+such as purchased goods and services, employee 
+commute and waste generated. Material sustainability topic –
+Climate Change Risk 
+and Disclosure .
+FY25 IN REVIEW.  (CONTINUED)Reducing our  
+Impact
+Web Travel Group Limited Sustainability Report 2025
+16 Cat 1: Purchased goods  
+and services 2.55%
+ Cat 2: Capital goods  
+2.10%
+ Cat 3: Fuel- and energy-  
+related emissions  
+(Market-based) 0.02% Cat 4: Upstream transportation 
+and distribution 0.003%
+ Cat 5: Waste generated 
+in operations 0.05%
+ Cat 6 : Business travel 0.74%
+ Cat 7 : Employee commuting  
+0.13%Cat 11:  Use of sold 
+products 94.21%Breakdown of Web Travel Group’s  
+Scope 3 emissions
+
+=== Page 19 ===
+Ongoing Initiatives to reduce emissions
+We continue to look for ways to reduce our 
+emissions including:
+Energy:
+ •Installation of energy efficient lighting and use 
+of sensor lighting
+ •Minimising after hours air-conditioning use
+ •Installation of blinds to minimise cooling and 
+heating costs
+ •Automatic switch off devices on appliances and 
+equipment when not in use
+ •Reviewing physical offices and looking for opportunities 
+to rationalise the Company’s footprint
+ •Engaging with landlords and energy providers to find 
+pathways to increase access to direct supplies of 
+renewable energy
+Water:
+ •Installation of low flow water fixtures
+ •Use of water efficient appliances
+Waste:
+ •Reducing paper usage and encouraging recycling
+ •Moving towards being paper lite
+ •Responsible disposal of old computers and cell phones
+FY26 focus
+Building on prior work, we will continue to prepare 
+for the introduction of mandatory climate reporting. 
+The key activity will be completing a second pass climate 
+risk assessment specifically for Web Travel Group and 
+undertaking a mitigation modelling and decarbonisation 
+planning process.  Reducing our  
+ImpactMaterial sustainability topic –
+Climate Change Risk 
+and Disclosure .
+FY25 IN REVIEW.  (CONTINUED)
+17

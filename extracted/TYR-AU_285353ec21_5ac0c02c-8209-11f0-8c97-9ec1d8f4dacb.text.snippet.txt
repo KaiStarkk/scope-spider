@@ -1,0 +1,265 @@
+=== Page 16 ===
+OPERATING & FINANCIAL REVIEW
+Cybersecurity
+The risk of a security breach resulting in the  
+loss of system functionality or data.Security team provide oversight of critical cyber-control activities to defend against the evolving threat 
+environment.  
+Proactive tools and processes provide enhanced detection and monitoring capabilities, secure 
+configuration, vulnerability management and strong authentication methods.  
+Third party monitoring to understand and mitigate any weaknesses in their cyber defence and 
+resilience capabilities.  
+Security and awareness programs for all employees.  
+Crisis management exercises with the Executive Leadership team and Board. 
+Business Resilience  
+Ability to withstand and adapt to disruptions 
+that may impact business operations, people, and/or assets.Tyro monitors the health of our technology systems and conduct security risk assessments, threat monitoring, and business continuity planning across a range of disruption scenarios.
+We have enhanced our approach to business continuity and service provider management to better 
+safeguard critical operations from disruption, and to support compliance with the new APRA Prudential Standard CPS 230, which was effective 1 July 2025.
+Service provider governance processes are in place to identify and manage the risk of service provider 
+disruptions.  
+Crisis management exercises are conducted with the Executive Leadership team and Board to ensure a 
+coordinated response to disruption events.
+Third Party
+Failure to choose and manage third party suppliers effectively, resulting in loss of system functionality or data, business disruption, customer churn and/or reputational damage.Commitment to obtaining goods and services in a transparent, ethical, and competitive manner, consistent with our risk profile and policies.  Service providers are assessed to identify and mitigate modern slavery risks and issues.
+Contract owners manage in-life relationships to ensure compliance with contractual obligations and 
+performance requirements. This includes business resilience and security  assurance. 
+Credit and Fraud risk
+Losses from failure of counterparties to meet 
+their financial obligations to Tyro.Defined credit risk and fraud risk indicators set in the Group Risk Appetite Statement.  
+Tyro’s credit risk management framework and policies govern credit risk-taking activities and reflect 
+the priorities established by the Board. Regular monitoring of credit quality, arrears, policy exceptions and policy breaches.  
+Established provisions for credit impairment based on current information and our expectations. 
+Market Risk
+Losses from unexpected changes in market 
+rates and prices.Defined market risk indicators set in the Group Risk Appetite Statement.  
+Tyro’s market risk policy outlines how Tyro will manage market risks particular to our  business.  
+Tyro’s Asset and Liability Committee provides management within the Board set risk appetite limits. 
+Liquidity Risk  
+Ability to meet financial obligations as they fall due.Defined liquidity risk indicators set in the Group Risk Appetite Statement.  
+Tyro’s Liquidity Risk Framework and policies allow effective liquidity management from identification 
+through to a liquidity crisis management.  
+Forecasting of future capital requirements and available capital resources to manage the business to 
+our required levels of regulatory capital, target adequacy levels and internal capital triggers, over a forecast period. 
+Competition and disruption
+New competitors or technologies that impact Tyro’s ability to drive customer growth and deliver on our strategy.Tyro’s strategy aims to address current and emerging competition risk. Processes in place for monitoring and responding to competitor and market activity.  
+Development of strategic partnerships and acquisitions in companies that drive new  technology. 
+Environmental and social risks  
+Ability to recognise and address environmental, social or corporate governance (ESG) issues.Tyro’s approach to sustainability and climate change risk is managed through our Sustainability Framework with priority targets set by the Board.  
+Regular review and oversight of ESG initiatives and risks by our Executive Leadership team.  
+Diversity targets, diversity and inclusion programs and carbon emission management program.
+Concentration risk
+Reliance on a limited number of products, 
+industry verticals and geographical regions to 
+drive growth.Focus on promoting value-adding services to existing customers: merchant cash advance, transaction 
+account, term deposit account and Tyro Connect.  
+Growth of our Tyro Health business through a simple, unified solution for payments and claiming.
+Expansion into new sub-verticals.
+Geopolitical
+Geopolitical issues and tension could threaten 
+the Australian economy and destabilise supply chains, disrupting operations and impact our business and growth strategy.The Board and the Executive Leadership team monitors conditions and maintains provisions and capital for a range of potential economic scenarios.  
+Investment in expanding and updating our terminal offering to mitigate potential hardware supply 
+issues.  
+Monitoring and ensuring sufficient hardware stock levels to meet customer demand. 
+Economic environment
+Significantly weakened global conditions could  
+harm our business and financial position. Regular financial oversight and monitoring across markets.  Financial analysis, scenario modelling and stress testing for a range of economic scenarios. Digital adoption
+Ability to respond to customers' demand 
+for simple and innovative digital services and products.Acceleration of our digital strategy.  
+Investing in technology and digital platforms to drive efficiency and improve customer experience. 
+Artificial Intelligence (AI)
+Ability to manage risks and opportunities from 
+Artificial Intelligence, leading to reputational, 
+regulatory and/or financial impacts.   Researching the implications of AI and investing in our products and technology to leverage AI to 
+enhance customer outcomes and improve Tyro’s operating efficiency. 
+Enhancing customer service using AI.
+Year ended 30 June 2025  | 31 30 | Annual Report 2025
+
+=== Page 23 ===
+Risk assessment 
+As part of our Sustainability Framework, in 2025 we conducted a 
+sustainability risk assessment to ensure we:
+•  i dentified the environmental, social and governance risks and 
+opportunities that may have a material impact on our value over the short, medium and long-term; 
+•  p rovided evidence explaining the materiality of the risk and how it 
+impacts our business value chain; 
+•  r ecognised the impact that our business has on stakeholders 
+including employees, customers, shareholders, suppliers, regulators and the community, and describe how we incorporate the view of our stakeholders as part of our risk assessment; 
+•  d escribed our policies and procedures for managing our 
+environmental and social impact over the short, medium and long-term; and 
+•  d eveloped a system to evaluate whether our sustainability 
+policies and procedures are effective, including performance against annual metrics and targets. 
+Materiality
+We apply a materiality threshold to the identified risks so only the most important risks (those that would have the largest impact should they eventuate) are managed and monitored. 
+As part of our materiality assessment, we engage with our 
+stakeholders to identify topics with the potential to provide the most impact for our business including our people, customers, suppliers, shareholders, and the community. 
+Our materiality process is as follows:   
+•  i dentify sustainability topics from internal risk areas and external 
+research; 
+•  e ngage with key stakeholders related to those topics to 
+understand and rate according to level of importance; and 
+•  r eview sustainability topics with our Line Two Risk team to 
+assess level of impact and likelihood for each risk topic. As part of our Operational Risk Management Framework, Tyro uses a 5 x 5 Impact and Likelihood Matrix that assesses risks on a 5-point scale (insignificant through to critical) based on the impact to our reputation, legal / regulatory, people, customers, operational, 
+and financial performance   
+Tyro conducts a materiality assessment, to understand how the sustainability risks, including climate, could reasonably impact Tyro in the short, medium, and long-term time horizons. These time horizons align with Tyro’s Strategic and Emerging Risk Radar and are linked to Tyro’s overall planning for broader business strategic decision making.Sustainability Risk Materiality Assessment
+Risk assessment 
+Impact: 
+High:   
+Consequences have a significant impact on the business. 
+Losses are significant.
+Medium:   
+Consequences threaten the efficiency of the business.  
+Losses are notable but not significant.Low:  
+Consequences are remediated with minor operational impact. 
+Losses are minimal.
+ Time Horizon: 
+Short-term:   
+Impacts already seen.
+Medium-term:  
+Impact expected within 1-5 years.Long-term:  
+Impact expected with 5-10 years.We recognise our role to align with the government, other businesses, and the broader community to address climate change. 
+Our sustainability strategy includes initiatives to reduce Tyro's environmental footprint, encourage our suppliers to consider the 
+environmental impact of their operations, and support our customers in becoming more sustainable.   SUSTAINABILITY STRATEGYSUSTAINABILITY  
+SUSTAINABILITY RISK ASSESSMENT  
+Risk Description Potential Impact Risk Type ESG  Response (Controls) Time 
+Horizon
+Climate 
+transition Shifts in climate and weather patterns could result in Tyro’s assets 
+being impacted. 
+Tyro’s reputation could also 
+be impacted if we fail to make 
+commitments, or meet community 
+and shareholder expectations, with regards to climate action e.g. 
+reducing our carbon emissions, waste 
+management etc.Supply chain of terminals; 
+Reputation.Strategic. Environmental
+•  E SG risk assessments.
+•  P ublic disclosure and 
+proactive communication 
+of ESG risks, targets, 
+actions plans and 
+progress.Medium to 
+long-term.
+Climate 
+reporting 
+requirements Risk of failure to comply with 
+current and emerging climate and 
+sustainability risk regulations 
+could result in Tyro exposed to penalties, fines and increased 
+supervisory oversight.
+The risk of Tyro making inaccurate 
+or misleading representations about our ESG strategy, commitments 
+and implementation plans to 
+achieve them.Penalties, fines and increased supervisory 
+oversight.Non-financial. Environmental Regulatory Framework. Short to 
+medium-
+term.
+Business 
+Disruption from climate-
+related 
+physical event Extreme climate-related physical events could temporarily disrupt Tyro’s ability to provide services to 
+customers due to supplier disruption 
+and/or resourcing (i.e. our people are impacted and are unable to work).Disruption to physical assets or customer services.Non-financial. Environmental Business continuity planning and resilience testing, specific to climate events. Short to medium-term.
+Credit risk 
+from climate-
+related physical event The risk of environmental or adverse 
+events e.g. floods or bushfires, 
+increases the risk of business stress and potential loan losses as well 
+as an impact on Tyro’s corporate 
+resources.Increased loan  
+default losses.
+Disruption to 
+customer services.Financial. Environmental
+•  Financial support 
+programs. 
+•  T yro may consider future 
+lending decisions based 
+on high-risk geographic 
+areas.Short to medium-
+term.
+Employee RelationsThe risk of not attracting and retaining capable and engaged 
+employees by supporting their 
+wellbeing, ensuring fair and equitable remuneration, and helping them 
+develop their career.  Tyro requires a 
+diverse and inclusive culture for our workforce to better serve the varied 
+needs of customers.Low employee 
+satisfaction leading 
+to high employee 
+attrition, inability to attract top talent, and 
+ultimately impacting 
+customer offering.Non-financial. Social 
+•  T alent Selection and 
+Onboarding processes.
+•  L earning and career 
+development programs.
+•  Employee engagement 
+metrics, employee feedback channels.
+•  S uite of HR policies 
+including Performance Management; Leave; 
+Equality of Employment; 
+Diversity.Short-
+term.
+Supplier 
+practices including 
+modern slavery The risk that Tyro’s third-party 
+suppliers may not fulfil their own ESG commitments or align with Tyro’s ESG 
+commitments.Reputation and 
+potential business disruption to 
+replace supplier. Non-financial. Social + 
+Governance
+•  C ommitment to obtaining 
+goods and services in a transparent, ethical and 
+competitive manner, 
+consistent with risk profile and policies – 
+Procurement policy.
+•  S uppliers assessed to 
+identify and mitigate 
+modern slavery risks and 
+issues – Modern Slavery 
+policy. Short-term.
+Ethical product development and sales 
+practices  The risk that our product suite and 
+sales practices are not aligned with an ethical corporate culture.Reputation and non-compliance with regulatory 
+requirements, leading 
+to penalties, fines and increased supervisory 
+oversight.Non-financial. Social + 
+Governance
+•  E mployee Code of 
+Conduct.
+•  Corporate values.
+•  Mandatory training.
+•  S uite of policies including 
+Anti-Bribery & Anti-Corruption; AML policies; 
+Whistleblower program.Short-
+term.
+Scams and 
+fraudThe risk that customers fall victim to scams and fraud despite Tyro’s 
+efforts to safeguard customers against this.Financial impact to 
+our customers and 
+potentially Tyro.
+Reputation and 
+non-compliance with regulatory 
+requirements, leading 
+to penalties for Tyro. Financial. Social + 
+Governance
+•  Su pporting and educating 
+customers to minimise 
+the number of successful 
+scam and fraud attempts.
+•  T yro regulatory framework 
+in place for governance, 
+prevention, detection, 
+reporting, disruption and 
+responding to scams.Short-
+term.
+Year ended 30 June 2025  | 45 44 | Annual Report 2025SUSTAINABILITY
+5-10  
+Years
+1-5  
+YearsTime horizon
+0-1 yearsScams & 
+fraudBusiness disruption 
+from climate-related physical eventClimate transiton
+Climate reporting requirements
+Employee relations
+Supplier practices including modern slavery
+Ethical product development and sales pracicesCredit risk from climate-related physical event

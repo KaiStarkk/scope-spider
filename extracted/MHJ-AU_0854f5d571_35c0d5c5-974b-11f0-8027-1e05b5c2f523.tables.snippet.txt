@@ -1,0 +1,153 @@
+=== Table 1 (page 4) ===
+,"This year, we refreshed our customer research and were"
+EXECUTIVE COMMENTARY,
+,heartened to see an 8% increase in support for our
+,sustainability efforts. Our customers recognise the impact
+"AT THE MICHAEL HILL GROUP,",
+,"we’re making - whether it’s empowering women, reducing"
+SUSTAINABILITY IS NOT JUST A,our carbon footprint or giving back to our communities.
+,
+COMMITMENT - IT’S A CORE PART OF,Their engagement validates our strategy and inspires us to
+,keep pushing forward.
+WHO WE ARE AND HOW WE OPERATE.,
+,
+THIS YEAR’S ESG REPORT REFLECTS THE,I am proud of the progress we’ve made this year and the
+,passion our team brings to this work. From achieving a
+EVOLUTION OF OUR APPROACH AND,
+,79% reduction in scope 1 and 2 emissions to planting
+THE IMPORTANCE OF TRANSPARENCY IN,
+,"over 124,000 trees through the Michael Hill Foundation,"
+EVERYTHING WE DO.,our actions have demonstrated that our brands and our
+,products are deeply connected to our people and planet.
+You’ll notice a change in the name of this report. As we,
+,Thank you for joining us on this journey.
+prepare for Australia’s first mandatory climate reporting,
+
+=== Table 2 (page 20) ===
+PERFORMANCE SNAPSHOT,
+•,79% reduction in scope 1 and 2 emissions across
+,the Group compared to last financial year
+•,Achieved a 5-star energy rating for our Global
+,Support Centre base building
+•,Generated 131mWh through our Global Support
+,Centre’s rooftop solar system
+
+=== Table 3 (page 21) ===
+AUSTRALIAN RENEWABLES,CANADIAN RENEWABLES
+"To achieve our goal in Australia, we voluntarily purchase","This year, we developed plans to purchase renewable"
+GreenPower and surrender renewable energy generation,energy for our Canadian store network. We identified a
+certificates (LGCs) to match our electricity use above,renewable energy certificate (REC) provider in Canada and
+Australia’s Renewable Power Percentage (RPP). The RPP is,intend to purchase Ecologo certified RECs that meet strict
+the portion of electricity that the Clean Energy Regulator,environmental standards to match our electricity usage to
+(CER) requires to be from renewable sources under the,reach our net zero goal.
+Renewable Energy Target. The RPP was 18.48% for 2024,
+"and 17.91% for 2025. This ensures that, in addition to",Offset
+"the national renewable baseline, we are supporting extra",
+,While our Replace initiatives address electricity-related
+renewable energy generation in Australia.,
+,"emissions, some operational emissions remain. These"
+GreenPower is a government-accredited product designed,represent a small portion of our total footprint and will
+to support renewable energy generation. LGCs are created,be offset through certified carbon credits aligned with
+through projects such as wind and solar farms and are,our nature restoration goals.
+surrendered on our behalf to the CER.,
+,"We plan to procure these offsets in January 2026,"
+NEW ZEALAND RENEWABLES,once our 2025 consumption data is reconciled.
+"To achieve our goal in New Zealand, we voluntarily purchase",
+,"Reduce, Replace Offset in action"
+and redeem New Zealand Energy Certificates (NZ-ECs) via,
+the New Zealand Energy Certificate System. These NZ-ECs,"This year, the base building of our Global Support"
+"are equivalent to 100% of our electricity use, ensuring",Centre achieved a 5-star Energy rating and 4.5-star
+that our consumption is matched with certified renewable,Water rating from National Australian Built Environment
+"energy generated in New Zealand. This year, our purchases",Rating System (NABERS).
+directly supported renewables at a wind farm in the South,
+,The combination of our onsite renewable electricity
+Island and a solar farm in the North Island.,
+,"generation, purchase of renewable electricity products"
+These products mean the amount of electricity used from,and rainwater tanks enabled us to retain these NABERS
+the grid in Australia and New Zealand is matched with,scores for the 2024/25 period.
+electricity produced from certified renewable sources.,
+This allows the Group to report our market-based scope,
+"2 electricity emissions as zero, using the market-based",
+methodology as per the GHG Protocol Scope 2 Guidance.,
+
+=== Table 4 (page 22) ===
+,,TOTAL CARBON EMISSIONS,
+OUR EMISSIONS PROFILE,,,
+,,(tCO 2e) SCOPE 1 AND 2 (1),
+Our emissions identification and calculations are in,,,
+,"2,500",,
+"accordance with the Greenhouse Gas (GHG) Protocol,",,"2,217",
+as required by the Australian Sustainability Reporting,,,
+,"2,000",,
+Standards (ASRS).,,,
+,,,"1,466"
+,"1,500",,
+We have used the operational control approach to,,,
+determine the organisational boundary for the Group’s,,,
+,"1,000",,
+emissions inventory. All sites and assets under our,,,
+direct operational control are included within our,,,
+,500,,
+reporting boundary.,,,
+
+=== Table 5 (page 22) ===
+,,,,"This year, our emissions inventory includes:"
+TOTAL CARBON,,,,
+,2023,2024,2025,
+EMISSIONS (tCO2e),,,,Scope 1: Direct emissions from refrigerants used
+,,,,in air conditioning units and fridges and gas used in
+Scope 1,0,17,26,
+,,,,manufacturing and repairs facilities.
+Scope 2,,,,
+,,,,Scope 2: Indirect emissions from purchased electricity
+Location-based,"2,356","2,261","2,390",
+,,,,"and heating, calculated using both location-based and"
+Market-based,"2,217","1,449",281,market-based methodologies. Our total location-based
+,,,,emissions have increased 6% on last year due to a higher
+Total Scope 1 and 2,,,,
+,"2,356","2,278","2,416",electricity usage mix in Australia over the past year (with
+(location-based),,,,
+,,,,a higher average grid emissions intensity) compared
+Total Scope 1 and 2,,,,
+,"2,217","1,466",307,with New Zealand and Canada.
+(market-based),,,,
+
+=== Table 6 (page 23) ===
+“ We are delighted to have achieved a 79% reduction in our
+scope 1 and 2 emissions across the Group this year - a
+tremendous milestone on our journey to net zero. Through
+dedicated efforts and investment in green energy across our
+"operations in Australia and New Zealand, we are making tangible"
+progress towards our 2025 goal. I am proud of what our team
+has accomplished and we remain committed to leading positive
+change for the Group and our planet.”
+Andrew Lowe
+"Interim CEO, Chief Financial and Supply Chain Officer"
+
+=== Table 7 (page 23) ===
+"Interim CEO, Chief Financial and Supply Chain Officer",
+Scope 3,
+,BEYOND 2025
+Scope 3 emissions are indirect emissions from our value,We are on track to achieve our net zero carbon operations
+chain. They occur outside of the Group’s organisational,(scope 1 and 2) goal by the end of the calendar year.
+"boundary but as a result of our actions. This year, we",We will publish an updated Zero Carbon Emissions goal
+conducted an initial assessment of the scope 3 emissions,in early 2026.
+categories most relevant to the Group through a review of,
+"our value chain. The preliminary assessment, supported",Australian Sustainability Reporting Standards
+"by industry benchmarking analysis, identified the specific",
+,"This year, we have taken steps to ensure the Group’s"
+upstream and downstream activities where our indirect,
+,successful transition under the ASRS.
+emissions are likely to be most significant. We expect,
+purchased goods and services (category 1) and upstream,We have developed a climate reporting roadmap and
+transportation and distribution (category 4) to comprise,remain on track to meet our reporting obligations for
+most of our scope 3 emissions inventory.,FY26. We have identified key climate-related risks and
+,"opportunities, integrated climate risk into our broader"
+"Additional relevant categories include capital goods,",
+,"risk management processes, confirmed climate scenarios"
+fuel- and energy-related activities not included in scope 1,
+,and started scenario analysis.
+"or 2, waste generated in operations, business travel and",
+employee commuting. This initial identification provides the,
+"foundation for more detailed analysis, quantification and",
+proactive supplier engagement over the coming year.,

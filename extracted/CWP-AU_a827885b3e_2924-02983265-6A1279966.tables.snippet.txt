@@ -1,0 +1,73 @@
+=== Table 1 (page 18) ===
+The following are our key non-financial targets and FY2025 outcomes by value drivers. Further information on these,,
+and other ESG targets and initiatives can be found later in the report.,,
+ESG Value driver,FY2025 targets,FY2025 progress
+Governance,,
+Capital management,Annual renewal of corporate finance facility,Facility renewed and extended
+,Progress with partnering strategy,"Joint ventures in place at Subiaco (WA),"
+,,Glenside (SA) and progressed at Robina (QLD)
+Cyber security,No significant or reportable system,"No significant or reportable breaches, with"
+,breaches,progress made in our cyber security posture
+Property Portfolio,,
+Project pipeline,Investment in new projects to maintain,"Land acquired at Madeley (WA), Burpengary"
+,earnings growth potential,"and South Maclean (QLD), Mount Barker (SA)"
+,,and Fairfield (VIC)
+"Product design, innovation",Product innovation,Commissioned community energy sharing
+and value,,network at Eglinton Village (WA)
+People,,
+Staff satisfaction,Staff satisfaction score of 80%,Staff satisfaction score of 82%
+Gender diversity -,Minimum proportion of 40% female staff,We achieved 2 out of our 3 targets with further
+employees,and 30% female in senior management,details on page 23
+,and executive positions,
+Gender diversity - board,Minimum proportion of 30% females,"Board comprises 33% female, 67% male"
+"Work, health & safety",Zero reportable incidents resulting in,No reportable incidents resulting in serious
+,serious injury or fatality,injury or fatality
+Customers,,
+Customer engagement,Net average positive promoter score,Net promoter score of +29 across portfolio
+Customer inclusion,"Provision of affordable dwellings, and",Over 70% of residential products were priced
+,pathways to retirement,below the median house price for the relevant
+,,capital cities.
+,,Completed construction of 59 Over-55s units
+,,"at Bloom Apartments, Glenside, SA"
+Supply chain,,
+Modern slavery mitigation,Zero tolerance for modern slavery in supply,2024 Modern Slavery Statement noted low risk
+,chain,of slavery in supply chain
+Paying our suppliers,Proportion of suppliers paid on time,Industry benchmark significantly exceeded
+,exceeds industry benchmark,
+Communities,,
+Investing in our communities,Commitment to supporting the local,Paid community grants to 35 local clubs and
+,community groups in the regions in which,"organisations over 4 states totaling $86,485"
+,we operate,
+,Sponsorship of major charity partners,Ongoing corporate sponsorship of The Smith
+,,Family
+Environment,,
+Reducing our carbon,5% reduction in annual corporate carbon,Our corporate Scope 1&2 emissions in FY25
+footprint,footprint (versus prior year),"were broadly consistent with FY24, having"
+,,achieved a 40% reduction in Scope 1&2
+,,emissions last year. We also mapped the
+,,Scope 1&2 emissions for our developments for
+,,the first time in FY25. See page 26 for further
+,,details of the carbon footprint results.
+
+=== Table 2 (page 19) ===
+Climate Reporting Preparedness,
+Australia’s climate reporting framework is now,
+"active, with Group 1 companies entering their first",
+"reporting year. In FY2026, Cedar Woods will prioritise",
+"preparation for future climate disclosures, with a",
+particular focus on Scope 3 emissions. Key initiatives,
+"will include system development, data collection,",
+"emissions verification, and building internal reporting",
+capability. Although our formal reporting obligations,
+"are expected to begin in FY2027, we plan to conduct",
+preliminary dry runs on project-related emissions by,
+,"Bushmead South, Bushmead WA"
+the end of FY2026.,
+
+=== Table 3 (page 26) ===
+FY2025 Scope 1 & 2 net Greenhouse Gas Emissions (t-CO2-e),,
+Corporate operations,FY25,FY24
+State offices,35,32
+Sales offices,9,10
+Developments,30,-*
+,74,42

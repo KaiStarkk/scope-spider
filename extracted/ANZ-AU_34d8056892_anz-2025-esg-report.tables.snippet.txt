@@ -1,0 +1,399 @@
+=== Table 1 (page 5) ===
+Disclaimer and important notices,,
+The material in this report contains,Also see the notice about climate-related,5. Lack of consistency in definitions
+general background information about,information on this page which may affect,and climate-science terminology
+the Group’s activities current as at,climate-related forward-looking,subject to changes – definitions
+7 November 2025. It is information,statements or opinions.,and standards for climate-related
+given in summary form and does not,,data and assessment frameworks
+,The forward-looking statements or,
+purport to be complete. It has a,,used across industries and
+,opinions only speak as at 7 November,
+sustainability focus and does not,,"jurisdictions may vary, and"
+,2025 and no representation is made as,
+reflect the totality of the Group’s,,terminology and concepts relating
+,to their correctness on or after this date.,
+business activities. For a more,,to climate science and
+,No member of the Group undertakes to,
+complete overview of the Group’s,,decarbonisation pathways may
+,publicly release the result of any revisions,
+"business, see the 2025 Annual Report",,evolve and change over time. These
+,to these statements to reflect events or,
+available at anz.com/annualreport.,,inconsistencies and changes can
+,circumstances after this date to reflect the,
+,,also make comparisons between
+It is not intended to be and should not,occurrence of unanticipated events.,
+,,different organisations’ climate
+be relied upon as advice to investors,,
+,Climate-related information,targets and achievements difficult
+"or potential investors, and does not",,
+,,or inappropriate.
+take into account the investment,This report may contain climate-related,
+"objectives, financial situation or needs","statements, including in relation to",6. Reliance on third parties for data or
+of any particular investor. These should,"climate-related risks and opportunities,",involvement – the Group may need
+"be considered, with or without","climate-related goals and ambitions,","to rely on assistance, data or other"
+"professional advice, when deciding if",emissions reduction pathways and,information from external data and
+an investment is appropriate.,climate projections. While the statements,methodology providers or other third
+,"were prepared in good faith, climate-","parties, which may also be subject"
+Forward-looking statements,,
+,related statements are subject to,to change and uncertainty.
+This report may contain forward-,"significant uncertainty, challenges and","Additionally, action and continuing"
+looking statements or opinions,"risks that may affect their usefulness,","participation of third parties, such"
+including statements regarding our,"accuracy and completeness, including:","as stakeholders, may be required"
+"intent, belief or current expectations",,(including financial institutions and
+,1. Availability and reliability of data –,
+with respect to the Group’s business,,governmental and non-
+,emissions and climate-related data,
+"operations, market conditions, results",,governmental organisations).
+,"may be incomplete, inconsistent,",
+"of operations and financial condition,",,
+,unreliable or unavailable (including,"Due to these uncertainties, challenges"
+"sustainability objectives or targets, and",,
+,information from the Group’s,"and risks, statements, assumptions,"
+risk management practices. Those,,
+,"customers), and it may be necessary","judgments, calculations, estimates"
+matters are subject to risks and,,
+,"to rely on assumptions, estimates or",or proxies made or used by the
+uncertainties that could cause the,,
+,proxies where that is the case.,"Group may turn out to be incorrect,"
+actual results and financial position of,,
+,,inaccurate or incomplete. Readers
+,2. Uncertain methodologies and modelling,
+the Group to differ materially from the,,
+,,should conduct their own independent
+,"methodologies, frameworks and",
+information presented herein. When,,
+,,analysis and not rely on the information
+,standards used for calculations of,
+"used in the report, the words",,
+,,for investment decision-making.
+,"climate-related metrics, modelling and",
+"‘forecast’, ‘estimate’, ‘goal’, ‘target’,",,
+,"climate data are not universally applied,",
+"‘indicator’, ‘plan’, ‘pathway’, ‘ambition’,",,
+,are rapidly evolving and subject to,
+"‘modelling’, ‘project’, ‘intend’,",,
+,change. This may impact the data,
+"‘anticipate’, ‘believe’, ‘expect’, ‘may’,",,
+,"modelling, approaches, and targets",The information in this notice should
+"‘probability’, ‘risk’, ‘will’, ‘seek’, ‘would’,",,
+,,"be read with the qualifications,"
+,used in preparation of this report.,
+"‘could’, ‘should’ and similar",,
+,,limitations and guidance included
+"expressions, as they relate to the",3. Complexity of calculations and,
+,,throughout this report and in:
+"Group and its management, are",estimates – estimating financed or,
+,,Appendix 5 ANZ Financed and
+intended to identify forward-looking,facilitated emissions (including,
+,,Facilitated Emissions Methodology
+statements or opinions.,allocating emissions to banking,
+,,included in the 2025 Climate Report
+,activities) and emissions reduction is,
+Those statements are usually,,available at anz.com/esgreport
+,complex and relies on assumptions,
+predictive in character; or may be,,
+,,"Appendix 7 Scope 1, Scope 2 and"
+,"and judgments, often made in respect",
+affected by inaccurate assumptions,,Scope 3 Operational Greenhouse Gas
+,of long periods of time.,
+or unknown risks and uncertainties,,Emissions Reporting Methodology
+,4. Changes to climate-related governing,
+or may differ materially from results,,included in the 2025 Climate Report
+,frameworks – changes to climate-,available at anz.com/esgreport
+"ultimately achieved. As such, these",,
+,"related policy, laws, regulations and",
+statements should not be relied upon,,ANZ Social and Environmental
+,"market practices, standards and",
+when making investment decisions.,,Sustainability Target Methodology
+,"developments, including those resulting",available at anz.com/esgreport
+There can be no assurance that actual,,
+,from legal proceedings and regulatory,
+outcomes will not differ materially from,,2025 ESG Data and Frameworks Pack
+,investigations.,
+any forward-looking statements or,,available at anz.com/esgreport
+opinions contained herein.,,
+
+=== Table 2 (page 15) ===
+Concluding targets,,
+Target1 headline,End date and outcome,Further details
+Savings program pilots,2025 Achieved,"2025 ESG Report, pages 14, 31, 42"
+Large Emitters Engagement Program (LEEP)2,2025 Achieved,"2025 ESG Report, page 14"
+,,"2025 Climate Report, pages 12-15"
+Operational emissions and non-emissions2,"2025, 2030","2025 ESG Report, page 14"
+•  Scope 1 and Scope 2 emissions,Achieved,"2025 Climate Report, pages 52-53"
+•  Renewable electricity,Not achieved,
+•  Water,Achieved,
+•  Waste,Achieved,
+"• 
+Paper",Achieved,
+New Zealand retail lending2,2025 Achieved,"2025 ESG Report, pages 14, 33"
+,,"2025 Climate Report, page 17"
+"Gender equity targets3,4",2025,"2025 ESG Report, pages 14, 45"
+•  Key Management Personnel,Not achieved,2025 Corporate Goverance
+,,"Statement, page 22"
+•  Women in Leadership,Achieved,
+,We have withdrawn our financial resilience target in 2025 after identifying anomalies in the calculation methodology.,
+
+=== Table 3 (page 16) ===
+Operational emissions and non-emissions,
+Reduce the direct impact of our business activities on the environment5 by:,
+Reducing combined Scope 1 and Scope 2 emissions,Achieved
+85% by 2025 and 90% by 2030 (against 2015,Our combined Scope 1 and Scope 2 emissions have decreased by
+baseline);6,96% since 2015.
+Being powered by the equivalent of 100% renewable,Not achieved
+electricity by 2025;7,"97% of ANZ's electricity needs were from renewable sources, just falling"
+,short of our target of 100%. This was principally due to the absence of
+,recognised schemes or renewable electricity infrastructure in Papua
+,New Guinea and Pacific countries.
+Reducing water consumption8 by 40% by 2025,Achieved
+(against 2017 baseline);,Our water consumption has decreased by 61% since 2017.
+Reducing waste to landfill9 by 40% by 2025,Achieved
+(against 2017 baseline);,Our waste to landfill has decreased by 79% since 2017.
+Reducing paper consumption (both office and ANZ,Achieved
+originated customer paper use) by 70% by 2025,Our paper consumption has decreased by 77% since 2015.
+(against 2015 baseline).,
+
+=== Table 4 (page 17) ===
+"Targets continuing in 2026, including performance update, and new targets"
+"In 2026 we will continue our $10 billion social and affordable housing target, $100 billion social and environmental activities"
+"target1, and sectoral pathways and targets. Both the 2025 and 2030 combined Scope 1 and Scope 2 operational"
+"emissions reduction targets have now been achieved. Since the 2030 target was achieved earlier than expected, a more"
+ambitious 2030 target with a revised baseline has been set. We have also rebaselined our gender equity targets.
+
+=== Table 5 (page 17) ===
+,"emissions reduction targets have now been achieved. Since the 2030 target was achieved earlier than expected, a more",
+ambitious 2030 target with a revised baseline has been set. We have also rebaselined our gender equity targets.,,
+Target2,2025 performance or status,End date
+$10 billion social and affordable housing,"Since October 2018, we have funded and facilitated",2030
+Fund and facilitate at least $10 billion of investment,"$7.37 billion to support the delivery of more affordable,",
+"by end 2030, including $750 million in 2025, to deliver",accessible or sustainable homes to buy and rent. This,
+"homes to buy and rent that are more affordable,",includes $892.79 million allocated towards the target in,
+accessible or sustainable.3,"20254, exceeding our $750 million 2025 sub-target.",
+$100 billion social and environmental activities,"Since 1 April 2023, we have contributed $84.72 billion",2030
+"Fund and facilitate at least $100 billion by end 2030,","towards the target, across 412 customer transactions,",
+"including $18.5 billion in 2025, in social and","of which $42.09 billion is funded, $38.96 billion is",
+environmental activities through customer transactions,"facilitated, and $3.67 billion is from direct investment",
+and direct investments by ANZ. This includes initiatives,through 61 bond purchases. This includes $45.75 billion,
+"that aim to help lower carbon emissions, protect","allocated towards the target in 20254, exceeding our",
+"nature, increase access to affordable housing and",$18.5 billion 2025 sub-target.,
+promote financial wellbeing.1,,
+Sectoral pathways5,"Eight are ‘on-track’, two are ‘close to on-track’, and none",2030
+Sectoral pathways and 2030 interim targets in place,are ‘off-track’.,
+"for 10 sectors or sub-sectors, to transition lending to",,
+,"For more information, refer to pages 32-51 of the 2025",
+net zero financed emissions by 2050.,,
+,Climate Report available at anz.com/esgreport.,
+Operational emissions6,Having achieved our 2030 target of a 90% reduction,2030
+Reducing combined Scope 1 and Scope 2 emissions,"(against a 2015 baseline) earlier than expected, we have",
+by 85% by 2030 (against a 2024 baseline).,revised our combined Scope 1 and Scope 2 emissions,
+,reduction target with a more ambitious baseline year of,
+,2024.,
+Gender equity targets6,Rebaselined targets for 2026.,2026
+Increase representation of women as Key Management,,
+
+=== Table 6 (page 29) ===
+,"and propositions
+economy wide transition"
+We have established three core,"Our C&E Strategy ambition is supported 
+and environmental activities3 by 2030."
+"ambitions, supported by four action","by our Climate Change Commitment of 
+Separately, eight of our revised sectoral"
+pillars that bring together the themes of,"transitioning our lending portfolio to  
+pathways are ‘on-track’, two are ‘close"
+the steps we are taking to deliver on our,"net zero financed emissions, reflecting 
+to on track’, and none are ‘off track’. We"
+ambitions. These ambitions and action,"where we can have the most significant 
+also recognise our role in reducing the"
+pillars are supported by having specific,"impact. We estimate our lending to 
+emissions from our operations and have"
+focus areas and prioritised action plans,"Institutional customers contributes 
+continued to reduce our Scope 1 and"
+"for our Institutional, Australia Commercial,","approximately two-thirds of our total 
+Scope 2 emissions across our operations.4"
+Australia Retail and New Zealand divisions,financed emissions. The remaining
+,Refer to the 2025 Climate Report available
+,financed emissions arise from our lending
+that we commenced implementing,
+,at anz.com/esgreport for further details
+,to our commercial and retail customers.
+aspects of this year.,
+,on our 2025 climate and environment
+,Our Climate Change Commitment will
+,"targets and progress, including our"
+Our approach to,be available prior to our Annual General
+,sectoral pathways.5
+,Meeting at anz.com/climate-change.2
+transition planning,
+,Reflecting the upcoming mandatory
+,The actions under our C&E Strategy
+"In 2025, we took further steps to progress",
+,climate disclosures in Australia6 and a
+,demonstrate our progress towards
+our transition planning. Our C&E Strategy,
+,changing internal and external operating
+,credible transition planning. We
+"forms the basis for our approach,",
+,environment – we are reviewing our
+,acknowledge that ongoing work is
+including how we plan to support an,
+,climate and environment targets to ensure
+,required to satisfy a robust and well-
+effective and orderly transition for our,
+,"they continue to be relevant and aligned 
+developed transition plan."
+large business customers. We also draw,
+,with our strategy.
+on guidance from the Glasgow Financial,"In this report, we set out the actions we"
+Alliance for Net Zero (GFANZ) and the,have progressed and how we have been
+,1. Our disclosures do not purport to be comprehensive
+Transition Plan Taskforce (TPT) transition,supporting our customers’ transition.
+,or to satisfy all aspects of GFANZ or TPT’s framework.
+planning frameworks to inform areas of,2. The Climate Change Commitment excludes Suncorp
+,Bank and ANZ Bank New Zealand. 3. For further detail
+focus in our C&E Strategy.,
+,"on ANZ’s approach for assessing the eligibility of 
+Our climate and"
+,"transactions for inclusion towards the target, refer to"
+,"environment targets
+the ANZ Social and Environmental Sustainability Target"
+,Methodology available at anz.com/esgreport. 4. Refer to
+,"the 2025 Climate Report available at anz.com/esgreport 
+Our climate and environment targets"
+,"including Appendix 7 Scope 1, Scope 2 and Scope 3"
+,support the delivery of our C&E Strategy.
+,Operational Greenhouse Gas Emissions Reporting
+,"We continue to make progress, including"
+Refer to the 2025 Climate Report,Methodology. 5. Refer to the 2025 Climate Report
+,including Appendix 5 ANZ Financed and Facilitated
+,funding and facilitating $84.72 billion
+"for relevant Indexes, available at",
+,Emissions Methodology available at anz.com/esgreport.
+anz.com/esgreport,"towards our $100 billion target in social 
+6. Applying to ANZ Group for the financial year"
+,commencing 1 October 2025.
+
+=== Table 7 (page 56) ===
+Overview and,"Our ESG targets 
+Non-financial risk","Ethics, conduct",Responsible customer,Environmental,Financial,
+54,,,,,,Housing
+governance,"and performance
+management",and culture,engagement,sustainability,wellbeing,
+Appendix,,,,,,
+,ESG targets and related Sustainable Development Goals (SDG),,,,,
+SDG cautionary statement on inclusion,,,,,,
+,"ANZ supports the United Nations (UN) Sustainable Development Goals (SDGs), and we believe that business has an important role to",,,,,
+play in their achievement.,,,,,,
+,"The SDGs are a collection of 17 non-legally binding, interlinked global goals produced by the UN for countries and governments.",,,,,
+,"The SDGs are included to show how our ESG approach supports the SDGs. ANZ makes no representation, warranty, or assurance of any",,,,,
+,"kind, express or implied, and takes no responsibility or liability as to whether ANZ’s strategy furthers the objective or achieves the purpose",,,,,
+,of the indicated SDG. More information on the SDGs is available at un.org/sustainabledevelopment. The content of this publication has,,,,,
+,not been approved by the UN and does not reflect the views of the UN or its officials or Member States.,,,,,
+Concluding targets1,Related UN SDGs,,,,,
+Savings program pilots,,,,,,
+Large Emitters Engagement,,,,,,
+Program (LEEP),,,,,,
+Operational emissions and,,,,,,
+non-emissions,,,,,,
+•  Scope 1 and Scope 2,,,,,,
+emissions,,,,,,
+•  Renewable electricity,,,,,,
+"• 
+Water",,,,,,
+"• 
+Waste",,,,,,
+"• 
+Paper",,,,,,
+New Zealand retail lending,,,,,,
+Continuing targets1,Related UN SDGs,,,,,
+$10 billion social and,,,,,,
+affordable housing,,,,,,
+$100 billion social and,,,,,,
+environmental activities,,,,,,
+Sectoral pathways and,,,,,,
+targets in place for 10 sectors,,,,,,
+"or sub-sectors, to transition",,,,,,
+lending to net zero financed,,,,,,
+emissions by 20502,,,,,,
+Operational emissions3,,,,,,
+•  Scope 1 and Scope 2,,,,,,
+emissions,,,,,,
+Gender equity targets3,,,,,,
+,"1. Targets exclude Suncorp Bank, unless otherwise stated. 2. Our 2025 Climate Report available at anz.com/esgreport details important information about the scope of our sectoral",,,,,
+,pathways. Revised pathways and targets include customers of Suncorp Bank that meet our in-scope criteria for inclusion in our pathways. 3. Includes Suncorp Bank.,,,,,
+ANZ 2025 ESG Report,,,,,,
+
+=== Table 8 (page 58) ===
+Term,Definition
+“ANZ” or “the Group” or,"ANZ Group Holdings Limited and its subsidiaries, unless otherwise indicated."
+“our” or “we”,
+ANZ Bank Group,"ANZ BH Pty Ltd and each of its subsidiaries, including ANZBGL and ANZ Bank New Zealand Limited."
+ANZ Bank New Zealand,ANZ Bank New Zealand Limited.
+ANZ Group,ANZGHL Group.
+ANZ Non-Bank Group,"ANZ NBH Pty Ltd and each of its subsidiaries, including the Group’s beneficial interests in the 1835i"
+,"trusts and non-controlling interests in the ANZ Worldline Payment Solutions joint venture, and ANZ"
+,Group Services Pty Ltd.
+Board,ANZGHL Board of Directors.
+Climate Disclosure,An internal program of work established to enable ANZ to meet the mandatory climate-related
+Program,disclosure requirements legislated by the Australian Government in 2024.
+Climate risk,"The financial and non-financial risks arising from climate change, including physical, transition and"
+,liability risks.
+Community investment,"Contributions from ANZ to address a social issue. Can be classified as time, in kind, cash, management"
+,costs or foregone revenue.
+Employee engagement,The levels of enthusiasm and connection our workforce has with ANZ.
+Employees,Persons employed by ANZ and paid directly through ANZ payroll. They can be permanent (full time or
+,"part time), fixed term or casual."
+Financed emissions,Emissions associated with financing through loans or other financial products that result in a credit
+,exposure. They are estimated based on an attributed proportion of the financial institution’s customers’
+,"emissions. These financed emissions are part of the financial institution’s Scope 3, category 15"
+,emissions. See our 2025 Climate Report Appendix 5 ANZ Financed and Facilitated Emissions
+,Methodology available at anz.com/esgreport for information about ANZ’s financed emissions.
+Financial education,Programs developed by ANZ in consultation with community partner organisations and government.
+programs,These programs aim to provide real social benefits to the community by improving financial inclusion
+,"and capability of lower income individuals. Our programs include: MoneyBusiness, MoneyMinded and"
+,Saver Plus.
+Gender pay gap,The overall difference in pay between men and women in the workforce.
+Hardship,"Typically refers to a situation where an individual is experiencing financial difficulty, making it challenging"
+,"for them to meet their financial obligations. This can include situations such as loss of income,"
+,"unexpected expenses, or other personal circumstances that impact one’s ability to repay debts or"
+,manage financial commitments.
+Labelled sustainable,"Existing banking products with a specific sustainability related label e.g. Green, Social, Sustainability or"
+finance,Sustainability-Linked.
+Large business customers,The customers of ANZ Institutional division where ANZ has a credit exposure.
+Large Emitters Engagement,Our signature customer engagement program which provides the framework for engaging with LEEP
+Program (LEEP),customers on their transition plans.
+MoneyBusiness,An adult financial education program designed to build the money management skills and confidence
+,of Indigenous Australians and develop a stronger savings culture.
+MoneyMinded,"A flexible adult financial education program that builds knowledge, confidence and skills to help people"
+,"make informed decisions and manage their money. Developed in 2002, MoneyMinded is ANZ’s flagship"
+,financial education program.
+
+=== Table 9 (page 59) ===
+Term,Definition
+Nature,"The Taskforce on Nature-related Financial Disclosures refers to ‘nature’ as the “natural world, with an"
+,emphasis on the diversity of living organisms (including people) and their interactions among
+,themselves and with their environment.”
+Net zero,The state where greenhouse gas emissions are balanced by an equivalent amount of carbon removal
+,"from the atmosphere, resulting in no net increase in global emissions."
+Pay Equity Gap,"Sometimes called the ‘like-for-like gap’, is the difference in pay between men and women doing the"
+,same or similar roles.
+Saver Plus,A matched savings and financial education program developed in 2003 by ANZ and the Brotherhood
+,of St Laurence. Eligible participants who complete the program have their savings matched (up to
+,$500) by ANZ for approved education-related expenses for themselves or their children.
+Scope 1,Direct greenhouse gas emissions from sources owned or controlled by a company.
+Scope 2,"Indirect greenhouse gas emissions from consumption of purchased electricity, heat or steam."
+Scope 3,Other indirect greenhouse gas emissions not covered in Scope 1 or Scope 2 that occur in a company’s
+,value chain as described in table 5.3 of the Greenhouse Gas Protocol’s Corporate Value Chain (Scope
+,3) Accounting and Reporting Standard.
+Sectoral pathways,Industry-specific trajectories of emissions reductions.
+Sensitive sectors,"An industry or business category that ANZ considers may present heightened environmental, social,"
+,"or governance risks, or significant potential negative impacts. These are: Energy, Extractive Industries,"
+,"Land and Forest Management, Water Management, and Military Equipment."
+Sustainability-Linked,A type of labelled sustainable finance where the economic characteristics (e.g. pricing outcomes) of the
+,financial instrument are linked to predetermined sustainability performance objectives.
+Transition plan,A climate-related transition plan is an aspect of an entity’s overall strategy that lays out the entity’s
+,"targets, actions or resources for its transition towards a lower-carbon economy, including actions such"
+,as reducing its emissions.
+Women in leadership,"Measures proportion of women out of the entire Senior Manager, Executive, Senior Executive"
+,"and Group Executive Committee populations (roles within ANZ designated as Groups 3, 2 and 1"
+,respectively). Includes all employees regardless of leave status but not contractors (which are
+,included in full-time equivalent).

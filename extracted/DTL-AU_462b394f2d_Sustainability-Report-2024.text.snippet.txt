@@ -1,0 +1,310 @@
+=== Page 3 ===
+About this 
+report
+The Data#3 Sustainability Report 2024 highlights 
+our commitment to ethical practices, social 
+responsibility, and environmental goals. This report 
+integrates elements of Environmental, Social, and 
+Governance (ESG) reporting with Corporate Social 
+Responsibility (CSR) content, catering to a diverse 
+audience.
+As we prepare for future challenges, we uphold 
+the highest standards of governance and 
+ethical behaviour, ensuring our positive impact 
+on the environment, our people, partners, and 
+communities.
+Part of our annual reporting suite, the Data#3 
+Sustainability Report 2024 covers the themes 
+of Our Planet, Our People, Our Policies, and 
+Our Partnerships for FY24. Please note that the 
+information in this report has not been reviewed  
+by our external auditor.Foreword       
+Corporate structure      
+United Nations SDGs   
+   
+Our Planet        
+ Our sustainability journey    
+ Sustainable practice in action    
+ Greenhouse Gas Emissions report FY23  
+ Sustain: meaningful environmental action  
+ Major awards   
+  
+Our People       
+ Who we are     
+ Diversity and inclusion: Embrace program  
+ Reconciliation Action Plan   
+ Safety      
+ Health and wellbeing: Thrive program
+ Rewards and recognition: Inspire program  
+ Learning and development: Data#3 Academy
+ Q&A with our Chief People Officer   
+ 
+Our Policies       
+ Board, management, and staff diversity data
+ Ethics         
+    
+Our Partnerships      
+ Vendor partners     
+ Our Device as a Service program  
+ Data centres  
+ Environmental partners  
+ Social partners    
+ Charity partners: SOUL    
+  
+Data#3 Sustainability Report 2024
+3
+
+=== Page 4 ===
+Contents
+Foreword  ............................................................................................................... 05
+Corporate structure  ............................................................................................ 07
+United Nations Sustainable Development Goals  .......................................... 08
+Our Planet  ............................................................................................................ 11
+Our sustainability journey  ............................................................................ 14
+Sustainable practice in action ...................................................................... 15
+Greenhouse Gas (GHG) Emissions report FY23  .......................................... 15
+Sustain: meaningful environmental action  ................................................... 17
+Major awards  ............................................................................................... 18
+Our People  ........................................................................................................... 20
+Who we are  ................................................................................................. 21
+Diversity and inclusion: Embrace program  .................................................. 23
+Reconciliation Action Plan  ........................................................................... 26
+Safety  ........................................................................................................... 28
+Health and wellbeing: Thrive program  ......................................................... 29
+Rewards and recognition: Inspire program .................................................. 32
+Learning and development: Data#3 Academy  ............................................. 33
+Q&A with Data#3’s Chief People Officer, Tash Macknish  ............................. 34
+Our Policies  .......................................................................................................... 36
+Board, management, and staff diversity data  .............................................. 38
+Ethics  ........................................................................................................... 38
+Our Partnerships  ................................................................................................. 45
+Vendor partners  ........................................................................................... 46
+Our Device as a Service program  ................................................................ 46
+Data centres  ................................................................................................. 47
+Environmental partners  ................................................................................ 49
+Social partners  ............................................................................................. 52
+Charity partners: SOUL  ............................................................................... 52Foreword       
+Corporate structure      
+United Nations SDGs   
+   
+Our Planet        
+ Our sustainability journey    
+ Sustainable practice in action    
+ Greenhouse Gas Emissions report FY23  
+ Sustain: meaningful environmental action  
+ Major awards   
+  
+Our People       
+ Who we are     
+ Diversity and inclusion: Embrace program  
+ Reconciliation Action Plan   
+ Safety      
+ Health and wellbeing: Thrive program
+ Rewards and recognition: Inspire program  
+ Learning and development: Data#3 Academy
+ Q&A with our Chief People Officer   
+ 
+Our Policies       
+ Board, management, and staff diversity data
+ Ethics         
+    
+Our Partnerships      
+ Vendor partners     
+ Our Device as a Service program  
+ Data centres  
+ Environmental partners  
+ Social partners    
+ Charity partners: SOUL    
+  
+Data#3 Sustainability Report 2024
+4
+
+=== Page 5 ===
+Foreword 
+Our dedication to sustainability is deeply intertwined with 
+our success story. As we continue to grow financially, we 
+recognise our increased obligation to do what is right for 
+the communities in which we operate. We acknowledge 
+the duty we have not only to Australia but to the world, 
+ensuring that we conduct our business ethically. Our 
+People, Our Planet, Our Policies, and Our Partnerships all 
+play a crucial role in this journey, as such, these are the 
+core themes we have chosen to align to in this report. 
+Our vision is to harness the power of people and 
+technology for a better future. Every day and every year, 
+we strive to create positive change. Our commitment 
+to sustainability is not a set-and-forget approach; it’s 
+a continuous journey. We remain dedicated to moving 
+forward in the right direction, making progress with each 
+step we take.
+ 
+This year, our dedication to sustainability was recognised 
+with the 2024 Enlightened Growth Leadership 
+Award from the Frost & Sullivan Institute for the third 
+consecutive year. This award uniquely recognises the 
+synergy between financial growth, corporate social 
+responsibility, and ESG.
+We proudly announced SolarBuddy, an impact 
+organisation providing portable solar devices to children 
+affected by energy poverty, as our new national charity 
+partner. To create a real and lasting effect, we made the 
+strategic decision to place our focus on a single national 
+charity, allowing us to maximise our impact.
+Data#3 is actively addressing gender diversity within the 
+tech industry. Over the past five years, we have made 
+significant strides in attracting, developing, and retaining 
+top female talent, resulting in a workforce that exceeds 
+the industry average for gender diversity . As part of our 
+annual membership obligations for the Workplace Gender 
+Equality Agency (WGEA) we are committed to ensuring 
+we take steps to continue to progress equality within our 
+workplace.Unlike anything we’ve seen before, Generative AI 
+has established itself as an essential tool capable of 
+redefining the workplace, disrupting entire industries, and 
+transforming both our personal and professional lives, 
+delivering new and innovative ways to affect positive 
+change. 
+The new energy demands mean our data centre partners 
+will play a significant role in our sustainability efforts, 
+and the growth of AI-related infrastructure enhances this 
+impact. It is crucial to power and cool this infrastructure 
+and manage the lifecycle efficiently, with a strong 
+emphasis on reducing environmental impact. This will 
+be key to our sustainability efforts next year and beyond 
+and we are committed to paving the way forward in this 
+significant area.  
+We remain steadfast in our goal to achieve carbon 
+neutrality by the Brisbane Olympic Games in 2032. In 
+FY24, Data#3 established a strategic partnership with 
+Schneider Electric Australia, a global leader in energy 
+management and automation. This collaboration aims 
+to bridge the gaps in our climate-related reporting and 
+governance, aligning with our vision for an environmentally 
+responsible industry. 
+Thank you for taking the time to read this report and for 
+joining us on our journey to drive positive change for a 
+better tomorrow. 
+I look forward to sharing our continued learnings and 
+progress in FY25 and beyond.
+Brad Colledge
+CEO and Managing Director
+Brad ColledgeForeword       
+Corporate structure      
+United National SDGs   
+   
+Our Planet        
+ Our sustainability journey    
+ Sustainable practice in action    
+ Greenhouse Gas Emissions report FY23  
+ Sustain: meaningful environmental action  
+ Major awards   
+  
+Our People       
+ Who we are     
+ Diversity and inclusion: Embrace program  
+ Reconciliation Action Plan   
+ Safety      
+ Health and wellbeing: Thrive program
+ Rewards and recognition: Inspire program  
+ Learning and development: Data#3 Academy
+ Q&A with our Chief People Officer   
+ 
+Our Policies       
+ Board, management, and staff diversity data
+ Ethics         
+    
+Our Partnerships      
+ Vendor partners     
+ Our Device as a Service program  
+ Data centres  
+ Environmental partners  
+ Social partners    
+ Charity partners: SOUL    
+  
+Data#3 Sustainability Report 2024 5
+
+=== Page 6 ===
+Foreword 
+(continued)
+“We cannot choose between growth 
+and sustainability. We must have both.”
+Paul Polman, ex CEO Unilever
+ 
+Sustainability is all about creating a better future, 
+marked by equality and fairness, where the needs of our 
+communities and planet are prioritised. To move forward 
+we must also understand our past and gain a clear 
+picture of our current state. The role of our Sustainability 
+Report 2024 is not only to celebrate progress but 
+a chance to evaluate what is needed to reach our 
+sustainability goal of carbon neutrality by the Brisbane 
+Olympic Games in 2032.
+ 
+From the establishment of our sustainability working 
+group in 2021, it has been clear that progress hinges 
+on the involvement of a wide range of people. Across 
+our workforce, from the newest hire to our board and 
+executive management team, engagement has been 
+high in our four key sustainability areas: Our People, Our 
+Planet, Our Partnerships, and Our Policies. 
+ 
+Over the last year we have refined our information 
+gathering processes. Working with existing and new 
+partners, we have worked to improve accuracy. This 
+information gathering is critical if we are to set an accurate 
+baseline from which we can measure progress going 
+forward. We anticipate selection of a digital platform in 
+the coming year that will further strengthen our reporting 
+capabilities. 
+ 
+Programs across our four key areas have continued to 
+evolve. From advances in our psychosocial offerings to 
+hitting our 1,000 hours volunteering target four months 
+ahead of schedule, there have been some important steps 
+forward - yet we are also conscious that this is a journey 
+that cannot be underestimated.
+ Our experience in information technology has shown 
+us, time and again, that to achieve a desired outcome, 
+we must gather the data that gives us clarity about the 
+current situation. Only then can we identify the gaps 
+and devise a plan that enables us to reach our defined 
+goals. Likewise, when we make predictions about a more 
+sustainable future, it is with the confidence that comes 
+from knowing we are building it on strong foundations.
+Kingsley McGarrigle
+General Manager – WA, Sustainability Lead and 
+Reconciliation Action Plan Chair
+Kingsley McGarrigleForeword  
+Corporate structure      
+United Nations SDGs   
+   
+Our Planet        
+ Our sustainability journey    
+ Sustainable practice in action    
+ Greenhouse Gas Emissions report FY23  
+ Sustain: meaningful environmental action  
+ Major awards   
+  
+Our People       
+ Who we are     
+ Diversity and inclusion: Embrace program  
+ Reconciliation Action Plan   
+ Safety      
+ Health and wellbeing: Thrive program
+ Rewards and recognition: Inspire program  
+ Learning and development: Data#3 Academy
+ Q&A with our Chief People Officer   
+ 
+Our Policies       
+ Board, management, and staff diversity data
+ Ethics         
+    
+Our Partnerships      
+ Vendor partners     
+ Our Device as a Service program  
+ Data centres  
+ Environmental partners  
+ Social partners    
+ Charity partners: SOUL    
+  
+Data#3 Sustainability Report 2024 6

@@ -1,0 +1,21 @@
+=== Table 1 (page 42) ===
+,,,"best practice at the time. Since then, in line with"
+TABLE 4: THE STAR’S CARBON,,,"the approved Remediation Plan, our focus has been"
+EMISSIONS FY25,,,"on delivering on our remediation commitments,"
+,,,regaining our suitability to hold our casino licences
+SOURCE,FY24,FY25,
+,,,and restoring trust with all of our stakeholders
+Carbon Emissions,,,
+,,,"including our shareholders, team members,"
+,"93,130","103,841",
+(tonnes CO2-e): Scope 1 + Scope 2,,,
+,,,"customers, and the broader community."
+Emissions Intensity,,,
+,6.91,8.13,
+,,,To ensure our emissions reduction efforts remain
+(kg CO2-e/visitor),,,
+,,,aligned with our current operating context and
+Emissions Intensity,,,
+,0.30,0.32,
+(tonnes CO2-e/area),,,"long-term ambitions, The Star plans to establish"
+,,,a new baseline and revised timeline during FY26.

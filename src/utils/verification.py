@@ -1,23 +1,26 @@
 from __future__ import annotations
 
-import time
+import json
 import re
 import time
 from contextlib import suppress
 from pathlib import Path
-from typing import Optional
+from typing import Any, Optional
 
 from openai import OpenAI
 from pydantic import BaseModel, Field
 
 from rapidfuzz import fuzz
-from src.models import Company, Scope2Emissions, Scope3Emissions
+from src.models import Company, Scope2Emissions, Scope3Emissions, ScopeValue
 
 
 class ParsedResult(BaseModel):
     scope_1: Optional[int]
+    scope_1_context: Optional[str] = None
     scope_2: Optional[int]
+    scope_2_context: Optional[str] = None
     scope_3: Optional[int] = None
+    scope_3_context: Optional[str] = None
     qualifiers: Optional[str] = None
     scope_2_method: Optional[str] = None
     confidence: float = Field(default=0.0, ge=0.0, le=1.0)
@@ -33,7 +36,7 @@ def needs_verification(company: Company, verify_all: bool) -> bool:
     if verify_all:
         return True
     emissions = company.emissions
-    scope_1 = emissions.scope_1
+    scope_1 = emissions.scope_1.value if emissions.scope_1 else None
     scope_2 = emissions.scope_2.value if emissions.scope_2 else None
     if scope_1 is None or scope_2 is None:
         return True
@@ -115,6 +118,18 @@ _METHOD_HINTS = (
     ("location", "location"),
 )
 
+_CONTEXT_KEYWORDS = (
+    "scope",
+    "emission",
+    "co2",
+    "ghg",
+    "carbon",
+    "tonne",
+    "tco",
+    "ktco",
+    "mtco",
+)
+
 
 def _find_scope_candidate(lines: list[str], patterns: tuple[str, ...]):
     best_idx: Optional[int] = None
@@ -148,7 +163,7 @@ def _infer_unit(context: str, explicit: Optional[str]) -> str:
 
 def _extract_numeric_value(
     lines: list[str], base_index: int
-) -> tuple[Optional[int], Optional[str], int]:
+) -> tuple[Optional[int], Optional[str], int, bool]:
     search_order = [0, 1, -1, 2, -2, 3]
     for offset in search_order:
         idx = base_index + offset
@@ -178,8 +193,12 @@ def _extract_numeric_value(
         value = int(round(number * factor))
         if value <= 0:
             continue
-        return value, context, abs(offset)
-    return None, None, len(search_order)
+        unit_tokens = ("tco", "tonne", "ton ", "co2", "ghg", "kt", "mt")
+        unit_present = bool(explicit_unit) or any(
+            token in context.lower() for token in unit_tokens
+        )
+        return value, context, abs(offset), unit_present
+    return None, None, len(search_order), False
 
 
 def _detect_scope2_method(context: Optional[str]) -> Optional[str]:
@@ -204,8 +223,13 @@ def parse_data_fuzzy(snippet_text: str) -> Optional[ParsedResult]:
         idx, score = _find_scope_candidate(lines, patterns)
         if idx is None or score < 60:
             continue
-        value, context, distance = _extract_numeric_value(lines, idx)
-        if value is None:
+        value, context, distance, unit_present = _extract_numeric_value(lines, idx)
+        if value is None or not context:
+            continue
+        if not unit_present:
+            continue
+        normalized_context = context.lower()
+        if not any(keyword in normalized_context for keyword in _CONTEXT_KEYWORDS):
             continue
         values[scope_key] = value
         contexts[scope_key] = context
@@ -222,8 +246,11 @@ def parse_data_fuzzy(snippet_text: str) -> Optional[ParsedResult]:
 
     return ParsedResult(
         scope_1=values["scope_1"],
+        scope_1_context=contexts.get("scope_1"),
         scope_2=values["scope_2"],
+        scope_2_context=contexts.get("scope_2"),
         scope_3=scope3_value,
+        scope_3_context=contexts.get("scope_3"),
         qualifiers=None,
         scope_2_method=scope_2_method,
         confidence=confidence,
@@ -238,8 +265,11 @@ def parse_data_local(client: OpenAI, snippet_text: str) -> Optional[ParsedResult
         "- If a field is not present, set it to null. If values are placeholders or uncertain, prefer null.\n"
         "- Include brief qualifiers (e.g., market vs location, boundary) if present.\n"
         "- If you can identify the Scope 2 reporting method (market or location), include scope_2_method.\n"
+        "- Only provide a scope value when the snippet explicitly states a greenhouse gas figure with a unit "
+        "(e.g., \"tCO2e\", \"tonnes CO2e\", \"kt CO2e\"); otherwise set the value to null.\n"
+        "- Provide the sentence or short excerpt that justifies each scope value (scope_1_context, scope_2_context, scope_3_context).\n"
         "- Return a numeric confidence from 0.0 to 1.0 that reflects how likely these values are correct given the snippet.\n"
-        "Return only JSON with keys: scope_1, scope_2, scope_3, qualifiers, scope_2_method, confidence."
+        "Return only JSON with keys: scope_1, scope_1_context, scope_2, scope_2_context, scope_3, scope_3_context, qualifiers, scope_2_method, confidence."
     )
     with suppress(Exception):
         resp = client.responses.parse(
@@ -250,6 +280,57 @@ def parse_data_local(client: OpenAI, snippet_text: str) -> Optional[ParsedResult
             temperature=0,
         )
         return resp.output_parsed
+    return None
+
+
+def _clean_json_response(text: str) -> str:
+    text = text.strip()
+    if text.startswith("```"):
+        # Remove optional ```json fences
+        parts = text.split("```")
+        text = ""
+        for part in parts:
+            part = part.strip()
+            if not part:
+                continue
+            if part.lower().startswith("json"):
+                part = part[4:].strip()
+            text = part
+            break
+    if text.endswith("```"):
+        text = text[: text.rfind("```")].strip()
+    start = text.find("{")
+    end = text.rfind("}")
+    if start != -1 and end != -1 and end > start:
+        return text[start : end + 1]
+    return text
+
+
+def parse_data_llama(llm: Any, snippet_text: str) -> Optional[ParsedResult]:
+    if llm is None:
+        return None
+    prompt = (
+        "You will be given a snippet of PDF text from a company's 2025-period report.\n"
+        "Extract total Scope 1, Scope 2, and optionally Scope 3 greenhouse gas emissions in kgCO2e as integers. "
+        "If the values use units like tCO2e, ktCO2e, or MtCO2e, convert them to kgCO2e. "
+        "Set any missing values to null. Capture qualifiers (e.g., boundary or method) if present. "
+        "If you can detect the Scope 2 reporting method (market or location), include it. "
+        "Only provide a scope value when the snippet explicitly states a greenhouse gas figure with a unit "
+        "(e.g., \"tCO2e\", \"tonnes CO2e\", \"kt CO2e\"); otherwise set the value to null. "
+        "For each scope value, include the sentence or short excerpt that supports it (scope_1_context, scope_2_context, scope_3_context). "
+        "Return a JSON object with keys: scope_1, scope_1_context, scope_2, scope_2_context, scope_3, scope_3_context, qualifiers, scope_2_method, confidence "
+        "(confidence should be between 0.0 and 1.0).\n\n"
+        "Snippet:\n"
+        f"{snippet_text}\n\n"
+        "JSON:"
+    )
+    with suppress(Exception):
+        response = llm.create_completion(
+            prompt=prompt, temperature=0, max_tokens=512, stop=["\n\n"]
+        )
+        text = response["choices"][0]["text"]
+        cleaned = _clean_json_response(text)
+        return ParsedResult.model_validate_json(cleaned)
     return None
 
 
@@ -290,8 +371,11 @@ def parse_data_filesearch(
         "Scope 2, and optionally Scope 3 greenhouse gas emissions in kgCO2e as integers. Convert any units to kgCO2e. "
         "Include qualifiers if method (market vs location) or boundary is specified. If a field is not present, set null. "
         "If you can identify the Scope 2 reporting method (market or location), include scope_2_method. "
+        "Only provide a scope value when the retrieved text explicitly states a greenhouse gas figure with a unit "
+        "(e.g., \"tCO2e\", \"tonnes CO2e\", \"kt CO2e\"); otherwise set the value to null. "
+        "Provide the sentence or short excerpt that supports each scope value (scope_1_context, scope_2_context, scope_3_context). "
         "Also return a numeric confidence from 0.0 to 1.0.\n"
-        "Return only JSON with keys: scope_1, scope_2, scope_3, qualifiers, scope_2_method, confidence."
+        "Return only JSON with keys: scope_1, scope_1_context, scope_2, scope_2_context, scope_3, scope_3_context, qualifiers, scope_2_method, confidence."
     )
     query = f"Company: {company_name}\nTicker: {ticker}\nTask: Extract Scope 1, Scope 2, Scope 3 totals (kgCO2e)."
     with suppress(Exception):
@@ -322,16 +406,28 @@ def update_company_emissions(company: Company, parsed: ParsedResult) -> bool:
         return False
 
     # Scope 1
-    company.emissions.scope_1 = int(parsed.scope_1)
+    existing_scope1_context = (
+        company.emissions.scope_1.context if company.emissions.scope_1 else None
+    )
+    company.emissions.scope_1 = ScopeValue(
+        value=int(parsed.scope_1),
+        confidence=parsed.confidence,
+        context=(parsed.scope_1_context or existing_scope1_context or "").strip() or None,
+    )
 
     # Scope 2
     existing_method = (
         company.emissions.scope_2.method if company.emissions.scope_2 else None
     )
     method = parsed.scope_2_method or existing_method
+    existing_scope2_context = (
+        company.emissions.scope_2.context if company.emissions.scope_2 else None
+    )
     company.emissions.scope_2 = Scope2Emissions(
         value=int(parsed.scope_2),
         method=method,
+        confidence=parsed.confidence,
+        context=(parsed.scope_2_context or existing_scope2_context or "").strip() or None,
     )
 
     # Scope 3
@@ -339,9 +435,15 @@ def update_company_emissions(company: Company, parsed: ParsedResult) -> bool:
         qualifiers = parsed.qualifiers or (
             company.emissions.scope_3.qualifiers if company.emissions.scope_3 else None
         )
+        existing_scope3_context = (
+            company.emissions.scope_3.context if company.emissions.scope_3 else None
+        )
         company.emissions.scope_3 = Scope3Emissions(
             value=int(parsed.scope_3),
             qualifiers=qualifiers.strip() if qualifiers else None,
+            confidence=parsed.confidence,
+            context=(parsed.scope_3_context or existing_scope3_context or "").strip()
+            or None,
         )
     elif parsed.qualifiers and company.emissions.scope_3:
         company.emissions.scope_3.qualifiers = parsed.qualifiers.strip()

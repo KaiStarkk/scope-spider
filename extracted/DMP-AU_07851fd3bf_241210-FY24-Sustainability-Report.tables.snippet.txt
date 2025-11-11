@@ -1,0 +1,313 @@
+=== Table 1 (page 35) ===
+BASELINE CORPORATE FOOTPRINT RESULTS,These increases are largely due to more accurate,Procurement
+As this is our fourth year of calculating our,data collection compared to previous years.,"Our purchased goods account for 52% of our total footprint,"
+"corporate footprint, we are still finding gaps in our",,with the main contributors being dairy (cheese) at 16% and
+"data gathering process. Nevertheless, in the year","Across all impact categories, our main hotspots","meat (beef, pork and chicken) at 23%. Other food accounts"
+"under review, we saw significant improvements.",were:,"for 8%, making food a significant 47% of our total footprint."
+Harnessing our combined learning from the past,•  Purchased goods: production of commodity,
+three years and the planned implementation of new,"and non-commodity ingredients (dairy, meat,",We see a distinct correlation between changes in our
+"ESG software in FY25, we are confident that we","flour, etc.) and packaging materials (corrugated",pizzas sold and changes in our carbon footprint. Given
+can continue to close these gaps and build on the,"cardboard, plastic food film, etc.)","our intention to grow our business every year, we need to"
+overall data quality and completeness that is already,"•  Utilities: purchased energy (electricity, natural",avoid increasing our footprint accordingly. As part of our
+in place.,"gas, water)","approved SBTi targets, we have set goals to reduce our"
+,"• 
+Logistics: inbound transport (to distribution",GHG emissions per unit of product sold by 65% by 2030
+"Our improved data quality, together with the","centres), outbound transport (to restaurants),",and to be net zero by 2050. We are committed to making
+continued efforts of our CoEs managing our,delivery to customers,fundamental changes within DPE and across our value chain
+"environmental strategy projects, has resulted in a",,"to achieve these goals. For more details, see our ‘Centre of"
+downward trend in our CO2 footprint. Reviewing,CARBON FOOTPRINT,Expertise’ section below.
+"our Scopes 1, 2 and 3 in FY24, we can see that the",Identifying the breakdown of our carbon footprint,
+percentages of each scope are relatively consistent,allows us to more effectively target reduction,"Food, as our largest contributor to carbon emissions, is"
+"with previous years. Scope 3 remains dominant,",strategies in the areas that have the greatest impact.,a category that requires significant change. This is why
+accounting for 93% of our footprint in FY24. This is,The main contributors to our carbon footprint,"we have developed the Domino’s Dairy Initiative, which is"
+"a 2% decrease from the previous year, as we have","are purchased goods (52%), utilities (26%) and",explained in more detail in the ‘Responsible food’ section in
+seen Scope 2 emissions rise by 2%.,logistics (14%).,the ‘Our food’ chapter.
+
+=== Table 2 (page 35) ===
+"These increases are largely due to more accurate 
+BASELINE CORPORATE FOOTPRINT RESULTS",Procurement
+"As this is our fourth year of calculating our 
+data collection compared to previous years.","Our purchased goods account for 52% of our total footprint,"
+"corporate footprint, we are still finding gaps in our",with the main contributors being dairy (cheese) at 16% and
+"data gathering process. Nevertheless, in the year 
+Across all impact categories, our main hotspots","meat (beef, pork and chicken) at 23%. Other food accounts"
+"under review, we saw significant improvements. 
+were:","for 8%, making food a significant 47% of our total footprint."
+"Harnessing our combined learning from the past 
+•  Purchased goods: production of commodity",
+"three years and the planned implementation of new 
+and non-commodity ingredients (dairy, meat,",We see a distinct correlation between changes in our
+"ESG software in FY25, we are confident that we 
+flour, etc.) and packaging materials (corrugated",pizzas sold and changes in our carbon footprint. Given
+"can continue to close these gaps and build on the 
+cardboard, plastic food film, etc.)","our intention to grow our business every year, we need to"
+"overall data quality and completeness that is already 
+•  Utilities: purchased energy (electricity, natural",avoid increasing our footprint accordingly. As part of our
+"in place.
+gas, water)","approved SBTi targets, we have set goals to reduce our"
+"• 
+Logistics: inbound transport (to distribution",GHG emissions per unit of product sold by 65% by 2030
+"Our improved data quality, together with the 
+centres), outbound transport (to restaurants),",and to be net zero by 2050. We are committed to making
+"continued efforts of our CoEs managing our 
+delivery to customers",fundamental changes within DPE and across our value chain
+"environmental strategy projects, has resulted in a","to achieve these goals. For more details, see our ‘Centre of"
+"CARBON FOOTPRINT
+downward trend in our CO2 footprint. Reviewing",Expertise’ section below.
+"our Scopes 1, 2 and 3 in FY24, we can see that the 
+Identifying the breakdown of our carbon footprint",
+"percentages of each scope are relatively consistent 
+allows us to more effectively target reduction","Food, as our largest contributor to carbon emissions, is"
+"with previous years. Scope 3 remains dominant, 
+strategies in the areas that have the greatest impact.",a category that requires significant change. This is why
+"accounting for 93% of our footprint in FY24. This is 
+The main contributors to our carbon footprint","we have developed the Domino’s Dairy Initiative, which is"
+"a 2% decrease from the previous year, as we have 
+are purchased goods (52%), utilities (26%) and",explained in more detail in the ‘Responsible food’ section in
+"seen Scope 2 emissions rise by 2%.
+logistics (14%).",the ‘Our food’ chapter.
+,Utilities
+,"Accounting for 26% of our footprint, utilities is another"
+,"important category. Within this area, we have the ability"
+,and responsibility to improve our efficiency by using less
+,"electricity, water and gas per pizza sold. We can also"
+,"enhance the sustainable character of our operations,"
+DPE FY24 Footprint breakdown,for example by using more renewable electricity. These
+"By main category, % of total emissions",efforts are part of the work of our Centre of Expertise on
+,sustainable stores and operations.
+,Logistics
+,Some of our most visible changes are in our logistics
+(cid:5)(cid:17)(cid:6)(cid:1)(cid:7)(cid:26)(cid:1089)(cid:1091)(cid:1)(cid:7)(cid:16)(cid:16)(cid:21)(cid:17)(cid:19)(cid:10)(cid:15)(cid:21)(cid:1)(cid:3)(cid:19)(cid:6)(cid:2)(cid:12)(cid:5)(cid:16)(cid:24)(cid:15)(cid:1142)(cid:1)(cid:29)(cid:52)(cid:1)(cid:40)(cid:28)(cid:36)(cid:41)(cid:1)(cid:30)(cid:28)(cid:47)(cid:32)(cid:34)(cid:42)(cid:45)(cid:52)(cid:1142)(cid:1)(cid:1727)(cid:1)(cid:42)(cid:33)(cid:1)(cid:47)(cid:42)(cid:47)(cid:28)(cid:39)(cid:1)(cid:32)(cid:40)(cid:36)(cid:46)(cid:46)(cid:36)(cid:42)(cid:41)(cid:46),
+,"operations, which account for 14% of our overall footprint."
+"(cid:1088)(cid:1087)(cid:1087)(cid:1727)
+(cid:1095)(cid:1727)
+(cid:1088)(cid:1087)(cid:1087)(cid:1727)",
+,"We are electrifying our fleet, both in distribution to stores"
+,
+"(cid:1095)(cid:1727)
+(cid:16)(cid:47)(cid:35)(cid:32)(cid:45)
+(cid:16)(cid:47)(cid:35)(cid:32)(cid:45)
+(cid:1755)
+(cid:1088)(cid:1091)(cid:1727)",
+(cid:1088)(cid:1727),"and in delivery to customers, through the introduction"
+"(cid:22)(cid:43)(cid:46)(cid:47)(cid:45)(cid:32)(cid:28)(cid:40)(cid:1)(cid:21)(cid:45)
+(cid:1092)(cid:1727)",
+"(cid:1088)(cid:1091)(cid:1727)
+(cid:13)(cid:42)(cid:34)(cid:36)(cid:46)(cid:47)(cid:36)(cid:30)(cid:46)","of electric trucks, bicycles, scooters and cars. As we"
+(cid:5)(cid:32)(cid:39)(cid:36)(cid:49)(cid:32)(cid:45)(cid:52),
+"(cid:1095)(cid:1727)
+(cid:1089)(cid:1093)(cid:1727)
+(cid:1090)",
+"(cid:15)(cid:28)(cid:47)(cid:48)(cid:45)(cid:28)(cid:39)(cid:1)(cid:8)(cid:28)(cid:46)
+(cid:1092)(cid:1727)",balance the costs of our business with our commitment
+"(cid:1090)(cid:1727)
+(cid:24)(cid:28)(cid:46)(cid:47)(cid:32)",
+,
+(cid:1089)(cid:1727),"to sustainability, we recognise that replacing combustion"
+(cid:6)(cid:39)(cid:32)(cid:30)(cid:47)(cid:45)(cid:36)(cid:30)(cid:36)(cid:47)(cid:52),
+"(cid:1088)(cid:1093)(cid:1727)
+(cid:1089)(cid:1093)(cid:1727)",engines across our fleet will be an ongoing project.
+,
+"(cid:22)(cid:47)(cid:36)(cid:39)(cid:36)(cid:47)(cid:36)(cid:32)(cid:46)
+(cid:1089)",
+(cid:1092)(cid:1089)(cid:1727),
+(cid:17)(cid:28)(cid:30)(cid:38)(cid:28)(cid:34)(cid:36)(cid:41)(cid:34),
+(cid:1092)(cid:1727),
+"(cid:1095)(cid:1727)
+(cid:16)(cid:47)(cid:35)(cid:32)(cid:45)(cid:1)(cid:7)(cid:42)(cid:42)(cid:31)(cid:1)(cid:1175)(cid:29)(cid:28)(cid:46)(cid:32)(cid:46)(cid:1142)(cid:1)(cid:46)(cid:28)(cid:48)(cid:30)(cid:32)(cid:46)(cid:1142)(cid:1)(cid:32)(cid:47)(cid:30)(cid:1141)(cid:1176)",A key initiative in APAC has been the conversion of all our
+,"stores from delivered dough to in-store dough making, with"
+"(cid:1088)(cid:1093)(cid:1727)
+(cid:5)(cid:28)(cid:36)(cid:45)(cid:52)",
+,"100% of stores in Japan, Malaysia and Singapore converted"
+,during FY24. See the ‘Responsible food’ section in the ‘Our
+"(cid:1092)(cid:1089)(cid:1727)
+(cid:17)(cid:45)(cid:42)(cid:30)(cid:48)(cid:45)(cid:32)(cid:40)(cid:32)(cid:41)(cid:47)
+(cid:1088)",
+"(cid:1089)(cid:1090)(cid:1727)
+(cid:14)(cid:32)(cid:28)(cid:47)",food’ chapter for more details.
+
+=== Table 3 (page 36) ===
+CLIMATE ROADMAP AND,,CENTRES OF EXPERTISE
+SCIENCE-BASED TARGETS,,
+,,Our corporate footprint baseline measurement
+,,identified three main impact areas where we can
+Climate change is a profound and systemic global,FLAG,directly influence and achieve the most significant
+challenge that needs to be addressed without delay,•  DPE is committed to reducing its absolute Scope,reductions in our emissions. Within our climate
+to avoid the worst societal impacts. Domino’s is,3 FLAG GHG emissions by 33.3% by FY31 from,"roadmap, we have included targets and actions for"
+meeting this challenge head on by aligning with,our FY21 baseline.2,the following three impact areas:
+the Science Based Targets initiative (SBTi) and,•  We also commit to zero deforestation across our,1  Sustainable stores and operations
+committing to achieving net-zero emissions by 2050.,primary deforestation-linked commodities with a,2  Responsible sourcing
+,target date of 31 December 2025.,3  Sustainable product innovation
+DPE was selected as one of the first 10 companies in,,
+"the world to have their Forest, Land and Agriculture",LONG-TERM TARGETS,"For each impact area, we have created a CoE"
+"(FLAG) targets validated. In June 2023, the SBTi","DPE commits to reducing its absolute Scopes 1, 2","Low-emission delivery fleet
+and identified the main actions and a phased"
+reviewed Domino’s targets and confirmed that our,and 3 GHG emissions by 90% by FY50 from our,"implementation across our markets. These global 
+With nearly three million kilometres travelled each"
+pathway to reaching them meets internationally,FY21 baseline.3,"CoEs are dedicated to identifying innovations 
+year to deliver delicious food to our customers,"
+recognised scientific standards.,,"that can be implemented across our markets to 
+electrifying and/or using low emission options"
+,FLAG,"reduce our environmental impact, and ensuring 
+for our fleet is a critical step towards significantly"
+"Domino’s reviewed its emissions, and those in its",We also commit to reducing our Scope 3 FLAG GHG,"these solutions are viable options for our franchise 
+reducing our carbon footprint and becoming a more"
+"supply chain, before planning a roadmap to reduce",emissions by 80% by FY50 from our FY21 baseline.4,"partners. This new structure has made positive 
+sustainable company."
+our carbon footprint. We found that nearly 40% of,,steps towards our environmental goals and fostered
+emissions came from dairy and other animal-based,,"a more systematic approach to measuring progress 
+While our markets are in different stages of maturity"
+proteins.,,"through various ESG initiatives within each CoE.
+in adopting low-emission alternatives for their fleets,"
+,,we are seeing a sharp increase in the percentage
+"To reach our ambitious goal, Domino’s is working",,"of e-vehicles (bicycles, scooters and cars) across"
+,"1 
+The target boundary includes land-related emissions and removals from",
+with business partners to find ways to reduce dairy,bioenergy feedstocks.,"all markets. At the end of FY23, we launched a"
+,"2 
+The target includes FLAG emissions and removals.",ENVIRONMENTAL STRATEGY
+emissions without compromising on customers’,"3 
+The target boundary includes land-related emissions and removals from",project requiring all our delivery staff to register
+,,3 FOCUS AREAS
+,bioenergy feedstocks.,
+taste preferences. The Domino’s Dairy Initiative aims,,the type of vehicle they are using to deliver orders
+,"4 
+The target includes FLAG emissions and removals.",
+to reduce the environmental impact of our dairy use,Our overall long-term target is to achieve net zero by 2050.,"to customers. This new feature will enable us 
+SUSTAINABLE 
+RESPONSIBLE 
+SUSTAINABLE"
+,,"STORES & 
+SOURCING
+PRODUCT"
+in an ethical and sustainable way.,,to accurately report on the progress of our low-
+,,"OPERATIONS
+INNOVATION"
+,,emission fleet delivery.
+EMISSIONS REDUCTION TARGETS VALIDATED,,
+BY THE SBTI,,To maximise our store-level progress on low-
+Our first priority is to reduce carbon emissions for,,"emission fleets, we are also keen to introduce 
+CENTRE OF EXPERTISE: SUSTAINABLE STORES"
+"Scopes 1, 2 and 3, the three categories of GHG",,"e-trucks that can deliver goods to stores using our 
+& OPERATIONS"
+emissions as defined by the GHG Protocol.,,"This CoE is dedicated to driving and implementing 
+own fleet or in conjunction with logistics partners."
+,,"sustainable practices through our operations. This 
+Last year, we introduced two electric trucks into our"
+OVERALL NET-ZERO TARGET,,"includes developing, implementing and overseeing 
+fleet in the Netherlands, and our German logistics"
+DPE is committed to achieving net zero GHG,,"initiatives that promote environmental stewardship, 
+partners have also started deploying electric trucks."
+emissions across our value chain by FY50.,W,social responsibility and economic viability within
+,HAT ARE SCIENCE-BASED,our operations.
+,,
+NEAR-TERM 2030 TARGETS,TARGETS?,
+As part of our journey to achieving net-zero,,
+"emissions, we have set interim carbon reduction",The Science Based Targets initiative is a not-for-,
+targets for FY31 from our FY21 baseline. These,profit initiative led by the United Nations Global,
+,,SUSTAINABLE STORES & OPERATIONS
+include:,"Compact, the World Wildlife Fund, the World",
+•  Reducing our absolute Scopes 1 and 2 GHG,Resources Institute and CDP. The SBTi helps,
+,,"STORES
+DELIVERY
+UTILITIES"
+emissions by 46.2% by FY31 from our FY21,companies set and validate emissions-reduction,"MAIN TOPICS:
+MAIN TOPICS:
+MAIN TOPICS:"
+,,"• Certified stores
+• Fossil-fuel-free delivery to customers
+• Energy consumption"
+baseline.1,targets that are consistent with climate science,"• Sustainable standards
+• Waste & water consumption"
+,,• Low carbon energy
+•  Reducing our Scope 3 GHG emissions by 55%,and aim to limit global temperature increase to,
+per pizza sold within the same time frame.,1.5 degrees Celsius above pre-industrial levels.,
+
+=== Table 4 (page 38) ===
+• Traceability of our top commodities,"• Scope 3 carbon & water data
+• Sustainable packaging"
+• High-risk commodity policies,"• Short-term FLAG targets 
+• Low-impact agricultural practices"
+"In 2023, our focus on responsible sourcing","towards our goals. We aim to ensure our operations,"
+helped us to establish key pillars within this CoE.,"people and products are ethical, sustainable and"
+"We emphasised transparency, compliance and",responsible. While achieving our 2030 targets
+sustainable practices in our business and upstream,"requires ongoing effort, we are confident that our"
+"supply chain. With a roadmap in place, 2024 has",current actions will help us meet those targets.
+"been a year of action and progress, taking key steps",
+
+=== Table 5 (page 48) ===
+STATEMENT OF USE,Domino’s Pizza Enterprises Ltd has reported the information cited in this GRI content index for the period from 3 July 2023 to,,,2-24 Embedding policy commitments,"Corporate Governance, p. 19"
+,30 June 2024 with reference to the GRI Standards.,,,,"Responsible Sourcing Policies and Statements, p.74"
+GRI 1 USED,GRI: Foundation 2021,,,,h
+,,,,,ttps://investors.dominos.com.au/our-policies-and-
+,,,,,statements
+,,,,,=> Responsible Sourcing Policy
+GRI STANDARD,DISCLOSURE,LOCATION,,,=> Modern Slavery Statement
+,,,,,=> Human Rights Policy
+GRI 2: General,1. The organization and its reporting practices,"Our Company, p. 11 - p. 23",,,
+Disclosures 2021,,"About this report, p. 88",,,
+,,,,2-25 Processes to remediate negative impacts,"Corporate Governance, p. 19"
+,,,,,"Responsible Sourcing, p. 74"
+,"2-3 Reporting period, frequency and contact point","About this report, p. 88 - 89",,,
+,,,,,"Our Food, p. 41"
+,2. Activities and workers,,,,
+,,,,2-26 Mechanisms for seeking advice and raising concerns,"Corporate Governance, p. 19"
+,"2-6 Activities, value chain and other business relationships","Our Company, p. 11 - p. 23",,,https://investors.dominos.com.au/corporate-governance
+,,Our Business model p. 14,,,
+,,,,2-27 Compliance with laws and regulations,During the period there were no significant instances of
+,2-7 Employees,"Our Company, p. 11 - p. 23",,,non-compliance with laws or regulations and no fines
+,,"Performance data tables, p. 28",,,were paid.
+,3. Governance,,,5. Stakeholder engagement,
+,2-9 Governance structure and composition,"Corporate Governance, p. 19",,2-29 Approach to stakeholder engagement,"Stakeholder Engagement, p. 18"
+,,https://investors.dominos.com.au/board-of-directors,,,
+,,,,Topic standards,
+,,https://investors.dominos.com.au/corporate-governance,,,
+,,,GRI 3: Material Topics,3-1 Process to determine material topics,"Materiality assessment, p. 22"
+,2-10 Nomination and selection of the highest governance body,"Corporate Governance, p. 19",,,
+,,,2021,,
+,,https://investors.dominos.com.au/corporate-governance,,,
+,,h,,3-2 List of material topics,"Materiality assessment, p. 22"
+,,ttps://investors.dominos.com.au/corporate-governance,,,
+,,,,,"About this report, p. 88"
+,,"=> Nomination, Culture and Remuneration Committee",,,
+,,Charter,,Footprint reduction,
+,2-11 Chair of the highest governance body,"Corporate Governance, p. 19",GRI 3: Material,3-3 Management of material topics,"Our Environment, p. 63 - p. 75"
+,,https://investors.dominos.com.au/corporate-governance,Topics 2021,,
+,2-12 Role of the highest governance body in overseeing the,"Corporate Governance, p. 19",GRI305: Emissions 2016,305-1 Direct (Scope 1) GHG emissions,"Our Environment, p. 64"
+,management of impacts,https://investors.dominos.com.au/corporate-governance,,,
+,,,,305-2 Energy indirect (Scope) 2 GHG emissions,"Our Environment, p. 64"
+,2-13 Delegation of responsibility for managing impacts,"Corporate Governance, p. 19",,,
+,,,GRI306: Waste 2020,306-3 Waste generated,"Our Environment, p. 66"
+,2-14 Role of the highest governance body in sustainability reporting,"Corporate Governance, p. 19 - 20",,,"Total waste generated: 34,676 metric ton"
+,,"About this report, p. 88",,,
+,,,GRI303: Water and,303-3 Water withdrawal,"Our Environment, p. 66"
+,2-15 Conflicts of interest,https://investors.dominos.com.au/corporate-governance,Effluents,,"Total water withdrawn: 59,155,225 m3"
+,2-16 Communication of critical concerns,https://investors.dominos.com.au/corporate-governance,,Workplace safety,
+,2-17 Collective knowledge of the highest governance body,"Corporate Governance, p. 19",GRI 3: Material,3-3 Management of material topics,"Our People, p. 33"
+,,,Topics 2021,,
+,2-18 Evaluation of the performance of the highest governance body,https://investors.dominos.com.au/corporate-governance,,,
+,,"=> Nomination, Culture and Remuneration Committee",,Talent attraction and retention,
+,,Charter,,,
+,,,GRI 3: Material,3-3 Management of material topics,"Our People, p. 29"
+,2-19 Remuneration policies,https://investors.dominos.com.au/corporate-governance,Topics 2021,,
+,,"=> Nomination, Culture and Remuneration Committee",,,
+,,,GRI405: Diversity and,405-1 Diversity of governance bodies and employees,"Our People, p.26 - 28"
+,,Charter,,,
+,,,Equal Opportunity 2016,,
+,"4. Strategy, policies and practices",,,,
+,,,GRI406: Non-,406-1 Incidents of discrimination and corrective actions taken,"Our commitment to responsible business conduct, p. 21"
+,2-22 Statement on sustainable development strategy,"Chairman & CEO message, p. 4 - 5",discrimination 2016,,
+,2-23 Policy commitments,"Corporate Governance, p. 19",,Community prosperity,
+,,"Responsible Sourcing Policies and Statements, p.74",,,
+,,,GRI 3: Material,3-3 Management of material topics,"Our Community, p. 77 - p. 85"
+,,h,Topics 2021,,
+,,ttps://investors.dominos.com.au/our-policies-and-,,,
+,,statements,GRI413: Local,"413-1 Operations with local community engagement, impact","Our Community, case studies p. 77 - p. 85"
+,,=> Responsible Sourcing Policy,communities 2016,"assessments, and development programs",
+,,=> Modern Slavery Statement,,,
+,,,,413-2 Operations with significant actual and potential negative impacts,"Our commitment to responsible business conduct, p. 21"
+,,=> Human Rights Policy,,,
+,,,,on local communities,
+,,,,Customer data privacy and security,
+,,,GRI 3: Material,3-3 Management of material topics,"Our Customers, p. 57"
+,,,Topics 2021,,

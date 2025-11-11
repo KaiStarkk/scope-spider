@@ -1,0 +1,157 @@
+=== Table 1 (page 19) ===
+FOOD,ENVIRONMENT,PEOPLE,PACKAGING,COMMUNITIES
+,,,& WASTE,
+Objective,Objective,Objective,Objective,Objective
+"Sourcing fresh,",Taking action to,Changing lives,Designing for,Using the power
+nutritious ingredients,protect our planet;,by investing in,regeneration,of food as a force
+that support healthy,"climate, emissions",the wellbeing and,and elimination of,for good; giving back
+"systems for people,",and supporting,development of,"waste in materials,",to the communities
+animals and nature.,nature to thrive.,our people.,packaging and food.,we are connected to.
+Focus Areas,Focus Areas,Focus Areas,Focus Areas,Focus Areas
+"Implementation 
+•",• Reduce direct,• Employee,"100% reusable, 
+•",• $1.3 million raised
+of Sustainable,Scope 1 and 2,"engagement,",recyclable or,for community
+Sourcing Standard,emissions,Gender pay gap,compostable,partners
+,,,packaging,
+• Global roll-out,• Net-Zero roadmap,• Diversity &,,• Education and
+of Clean,,Inclusion Plan,• Organics separation,awareness programs
+,• Deforestation,,,
+,,,,in community.
+• Global animal,commitment.,"• Performance, training",• Recycling bottles/,
+welfare commitments.,,and development.,cans in restaurants.,
+
+=== Table 2 (page 24) ===
+FY25 PROGRESS,METRICS,LOOKING FORWARD
+Climate Action,,
+• Development of emissions reduction,• Scope 1 (direct),• Detailed assessment of Scope 3
+framework and initiatives across the,"emissions 4,651 tCO2e.",indirect emissions and development
+value chain.,,of decarbonisation strategies across
+,• Scope 2 (location-based),
+,,material emissions sources.
+• Preparation for Australian Sustainability,"emissions 11,697 tCO2e.",
+Reporting Standards mandatory,,• Adoption of data governance
+disclosure requirements –,,framework and digital tools to
+climate gap analysis and,,support emissions monitoring
+emissions inventory.,,and reporting.
+
+=== Table 3 (page 24) ===
+emissions inventory.,,and reporting.
+,,
+CLIMATE ACTION,emission sources most material,GYG is utilising a carbon accounting
+,to the Group’s overall footprint.,technology platform to support
+GYG’s approach to climate action,,
+,,the monitoring and calculation of
+is grounded in understanding not,,
+,,
+,SUSTAINABILITY REPORTING,emissions based on purchasing
+only the impact of climate change,,
+,,
+,STANDARDS,"activity and spend, creating"
+"on its operations but equally, the",,
+,,efficiencies from a resourcing and
+impacts of GYG on climate.,GYG is actively preparing for,
+,,data management perspective.
+,the introduction of mandatory,
+"In FY25, GYG continued its climate",,
+,climate-related financial disclosures,
+"action journey, aligned with current",,GHG EMISSIONS INVENTORY
+,"in Australia, effective from",
+climate science and evolving,,
+,1 January 2025. These disclosures will,As part of GYG’s commitment to
+regulatory standards. This work,,
+,follow the Australian Sustainability,transparency and accountability in
+reflects both an internal ambition,,
+,Reporting Standard – AASB S2,"environmental performance, the"
+and public commitment to,,
+,"Climate-Related Disclosures,",Company prepared a greenhouse gas
+transparency through emerging,,
+,which closely aligns with the,(“GHG”) emissions inventory for FY25.
+sustainability disclosure frameworks.,,
+,global IFRS S2 standard developed,
+,,The boundary for the inventory
+"While progress is ongoing, GYG is",,
+,by the International Sustainability,
+,,is defined in accordance with
+"dedicated to making a real,",,
+,Standards Board (“ISSB”).,
+,,"the Greenhouse Gas Protocol,"
+measurable difference – starting,,
+,In FY25 GYG completed a gap,encompassing all direct
+with the issues that matter most.,,
+,assessment and developed a,(Scope 1) and indirect (Scope 2)
+In FY25 GYG adopted a framework,,
+,disclosure readiness schedule,emissions from corporate restaurant
+to guide the Group’s emissions,,
+,aligned with AASB S2. Based on the,operations across Australia and
+reduction goals and initiatives.,,
+,"outcomes of the assessment, GYG",the US.
+Scope 2 emissions are a key focus,,
+,is developing an implementation,
+,,"In FY25, the Group’s scope 1 and 2"
+"for the year ahead, particularly in",,
+,roadmap. This roadmap will,
+,,"GHG emissions were 16,348 tonnes"
+relation to targeted reduction,,
+,"outline key actions, timelines, and",
+,,"of carbon dioxide equivalent,"
+initiatives that can be activated,,
+,disclosure priorities necessary to,
+,,representing an increase of 13%
+in the restaurant environment.,,
+,support the Group’s compliance,
+,,on FY24.
+GYG also recognises the significant,,
+,and alignment with AASB S2,
+opportunity to collaborate with,,
+,over the reporting horizon.,
+suppliers and prioritise Scope 3,,
+
+=== Table 4 (page 25) ===
+,,,,Farmer Garry Knagge and
+,,,,"Steven Marks at Bimbil Farm, NSW"
+Scope 1 and 2 comparison (Australia and US),,,,While absolute reduction of Scope 1 and 2 emissions
+,,,,"remains GYG’s long-term goal, an emissions intensity"
+Emissions,,,Change,model has been considered to provide greater visibility
+(tCO2e),FY25,FY24,(%),
+,,,,into performance during a period of rapid expansion.
+Scope 1,"4,651","4,518",3%,This enables GYG to track efficiency gains and support
+,,,,decarbonisation efforts as the company scales.
+Scope 2,"11,697","9,886",18%,
+Total Scope 1,,,,Emissions intensity per restaurant (Australia and US)
+and 2,"16,348","14,404",13%,
+,,,,Change
+
+=== Table 5 (page 25) ===
+,Scope 2,"11,697","9,886",18%,,,,
+,Total Scope 1,,,,,Emissions intensity per restaurant (Australia and US),,
+,and 2,"16,348","14,404",13%,,,,
+,,,,,,,,Change
+*,,Scope 1 includes combustion of stationary fuel (natural gas,,,,,,
+,,,,,Metric,FY25,FY24,%
+,,and LPG) and leakage of refrigerant gases (fugitive emissions).,,,,,,
+**,,Scope 2 emissions encompass emission generated to create,,,Total Scope 1,,,
+,,electricity used at GYG offices and corporate restaurants.,,,,,,
+,,,,,and 2 (tCO2e),"16,348","14,404",13%
+"In FY25, GYG increased its corporate restaurant count",,,,,,,,
+,,,,,Restaurants,,,
+by 28% and corporate restaurant sales increased by 27%,,,,,,,,
+,,,,,(Aus and US),87,68,28%
+across Australia and the US. The number of 24/7 restaurants,,,,,,,,
+,,,,,tCO2e per,,,
+have also increased from 5 to 18 in Australia during FY25.,,,,,,,,
+,,,,,restaurant,188,212,(11%)
+
+=== Table 6 (page 25) ===
+FY25 Scope 1 and 2 by Country,,,
+,,,POWERING
+"11,298",,,
+,,,87
+,,,CORPORATE GYG
+,,,RESTAURANTS
+"3,424",,,
+,,,
+"1,113",,,ACROSS AUSTRALIA
+,39,74,399
+,,,AND THE US
+Australia,,US,

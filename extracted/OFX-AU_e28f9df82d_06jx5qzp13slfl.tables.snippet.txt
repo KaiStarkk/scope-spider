@@ -1,0 +1,73 @@
+=== Table 1 (page 25) ===
+"The nature of OFX’s business, driven by our digital",
+,Carbon emissions reduction
+"+ human offering, means that OFX’s direct",
+,OFX is committed to understand the total carbon
+"environmental impact is not high. However,",
+,emission output for the OFX Group to assist us to
+we understand that we do have an indirect,
+,"develop our strategy to better manage, reduce"
+environmental impact and are committed to,
+,and mitigate our carbon emissions.
+doing what we can to help reduce this impact.,
+We remain committed to taking steps to actively,
+,"In FY25, we have continued to use an independent"
+"monitor, reduce and offset our consumption.",
+,carbon emissions management consultant to
+,"calculate and report on our scope 1, scope 2 and"
+"Determining high-priority, high-",upstream scope 3 carbon emissions according to
+,
+impact areas,the Greenhouse Gas (GHG) Protocol. This protocol
+,is compliant with the Australian Government’s
+We use the Sustainability Accounting Standards,
+,Climate Active Carbon Neutral Standard for
+Board (SASB) Materiality Map for the ‘Consumer,
+,Organisations and the British Standard
+Finance’ industry to help self-identify issues with,
+,Institution’s PAS 2060 Carbon Neutral.
+the greatest impact on the financial condition or,
+,"OFX calculates scope 2 emissions, relating to"
+operating performance of OFX.,
+,"purchased electricity, using the location-based"
+"In accordance with the SASB Materiality Map,",
+,method. This method reflects the average
+we have identified the following key issues:,
+,emissions intensity of the electricity grid where
+•  carbon emissions reduction; and,OFX’s energy consumption occurs. Where
+,"available, OFX also calculates scope 2 emissions"
+•  waste management and recycling.,
+,using the market-based method. This method
+,reflects emissions from electricity providers OFX
+,has chosen and derives emission factors from
+,contractual arrangements such as renewable or
+,green energy contracts. Scope 3 are calculated
+,on an ‘emission by spend’ basis. OFX’s carbon
+,emission in FY25 was as follows.
+,Total GHG emissions (CO₂e tonne)
+
+=== Table 2 (page 25) ===
+Total GHG emissions (CO₂e tonne),,
+,2025,2024
+Scope 1,0,0
+Scope 2 (market-based)1,57.23,–
+Scope 2 (location-based)2,245.71,280.65
+Scope 3,"7,074.40","8,401.48"
+Total33,"7,241.93","8,682.13"
+
+=== Table 3 (page 26) ===
+,,,Scope 2:,,,Indirect Upstream,,Total
+,,,Energy (Electricity),,,GHG emissions,,GHG emissions
+,,GHG emissions (CO2e tonne),,,,(CO2e tonne),,(CO2e tonne)
+,,Market-based,,Location-based,,,,
+Location,2025,2024,2025,2024,2025,2024,2025,2024
+Australia,57.23,–,133.501,123.33,"5,095.72","6,222.11","5,152.95","6,345.44"
+New Zealand,–,–,2.82,0.63,55.51,80.03,58.33,80.66
+Hong Kong,–,–,18.03,23.82,109.78,186.96,127.81,210.78
+Singapore,–,–,5.25,5.23,157.24,173.61,162.49,178.84
+United,,,,,,,,
+,–,–,12.29,6.59,345.62,275.12,357.91,281.71
+Kingdom,,,,,,,,
+Ireland,0.00,–,1.911,0.96,150.22,101.56,150.22,102.52
+United States,–,–,16.28,17.40,544.92,537.00,561.20,554.40
+Canada,–,–,55.63,102.69,615.39,825.09,671.02,927.78
+Total,57.23,–,245.71,280.65,"7,074.40","8,401.48","7,241.93","8,682.13"

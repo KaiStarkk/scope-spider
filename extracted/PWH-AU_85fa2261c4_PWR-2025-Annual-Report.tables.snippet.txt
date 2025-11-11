@@ -1,0 +1,179 @@
+=== Table 1 (page 32) ===
+companies to collect aluminium scrap for recycling.,,
+,,to have FY27 as our comparator year and commence
+,,reporting in FY28 aligned with the IISB disclosure
+Other significant waste items produced as part of PWR,,
+,,requirements. We intend to:
+manufacturing processes include comingled waste,,
+"containers, grease trap waste, liquid waste, oily water,",,
+,•,Explore opportunities to reduce our scope 1 and
+"and dry waste. In Australia, PWR engages national waste",,
+,,scope 2 emissions;
+"management Veolia to assist us with recycling, waste",,
+,•,Undertake an initial upstream scope 3 emissions
+"management, sustainable waste options, water treatment,",,
+,,assessment of raw material inputs (2026);
+and energy services. Veolia specialises in managing,,
+manufacturing waste and through its amalgamated plant,•,Implement processes to capture data for scope 3
+and facility services is able to support businesses like PWR,,emissions (2027); and
+"to improve key measures such as environmental, social,",,
+,•,Identify opportunities to reduce carbon intensity
+and economic business benchmarks.,,
+,,for Scopes 1 and 2 (2026) and Scope 3 (2028).
+
+=== Table 2 (page 32) ===
+Review of Operations,
+A Sustainable Business,
+continued,
+,"Obviously, the reductions in carbon emissions and"
+Practical measures to reduce,
+,mitigation of environmental impacts flowing from these
+environmental impacts,
+,initiatives are excellent from a sustainability perspective.
+PWR has taken substantial steps to reduce its,
+,"However, they also afford PWR substantial financial"
+environmental impacts and carbon footprint in FY25.,
+,benefits. PWR will continue to improve sustainability
+"As part of our move to the new Australian headquarters,",
+,throughout our businesses to adapt to the market’s
+"we installed 4,066 solar panels on our roof. This huge",
+,demands for lower impact goods and services.
+array will satisfy around 30% of our facility’s energy,
+requirements. We also installed a closed-loop wastewater,"Finally, PWR maintained its ISO14001 certification"
+"treatment plant onsite that captures, treats, and reuses","in Australia for 2025, the international standard for"
+around 90% of our trade wastewater.,establishing and improving a business’ environmental
+,management systems.
+"In Australia, PWR engaged local Yatala-based company",
+– and one of the largest aluminium recyclers in Australia,
+– SIMS Metals to collect aluminium scrap from our,"Preparing for mandatory Environmental,"
+manufacturing processes for recycling purposes. In FY25,Social and Governance reporting
+PWR Ormeau recycled over 300 tonnes of aluminium,
+,Our future focus will be understanding financial impacts
+"scrap. Additionally, PWR collects aluminium cans that",
+,flowing from the recommendations of the Task Force on
+"are donated to a local charity, Hearts of Purple. PWR",
+,"Climate Related Financial Disclosures, so that we have"
+Europe and PWR North America similarly engage local,
+,a foundation on which to build realistic targets. We aim
+companies to collect aluminium scrap for recycling.,
+,to have FY27 as our comparator year and commence
+,reporting in FY28 aligned with the IISB disclosure
+Other significant waste items produced as part of PWR,
+,requirements. We intend to:
+manufacturing processes include comingled waste,
+"containers, grease trap waste, liquid waste, oily water,",
+,"• 
+Explore opportunities to reduce our scope 1 and"
+"and dry waste. In Australia, PWR engages national waste",
+,scope 2 emissions;
+"management Veolia to assist us with recycling, waste",
+,"• 
+Undertake an initial upstream scope 3 emissions"
+"management, sustainable waste options, water treatment,",
+,assessment of raw material inputs (2026);
+and energy services. Veolia specialises in managing,
+manufacturing waste and through its amalgamated plant,"• 
+Implement processes to capture data for scope 3"
+and facility services is able to support businesses like PWR,emissions (2027); and
+"to improve key measures such as environmental, social,",
+,"• 
+Identify opportunities to reduce carbon intensity"
+and economic business benchmarks.,
+,for Scopes 1 and 2 (2026) and Scope 3 (2028).
+"PWR is not subject to the Federal Government’s National Greenhouse and Energy Reporting (NGER) Scheme. We have,",
+"however, undertaken scope 1 and 2 baseline emissions calculations for our global operations as follows:",
+,"2025  
+2024"
+PWR Location,"(t CO2-e)1
+(t CO2-e)1"
+"Ormeau, Australia2","3,294
+3,291"
+"Rugby, United Kingdom","122
+135"
+"Indianapolis, USA","1,027
+1,218"
+TOTAL,"4,644
+4,443"
+"1. 
+References for emissions factors used:",
+AUSTRALIA FACTORS Report per t,
+https://www.cleanenergyregulator.gov.au/NGER/Forms-and-resources/Calculators,
+UK FACTORS Report per kg and convert,
+https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting,
+USA FACTORS,
+https://www.epa.gov/system/files/documents/2025-01/ghg-emission-factors-hub-2025.pdf,
+https://ghgprotocol.org/calculation-tools-and-guidance,
+"2. 
+Includes Stapylton facility from January 2025",
+
+=== Table 3 (page 57) ===
+Operational Risks,,
+,Managing the challenges that come with rapid growth,
+PWR has worked hard to get,•,"First and foremost, we need to always stay focused on our people, no matter how demanding"
+where we are and have grown,,our business growth becomes - because our people are responsible for driving our growth.
+our business year on year but,,We have invested in a highly capable human resource area to provide the extra support and
+with this comes challenge.,,focus required.
+The challenge of managing,•,"We have focused on developing high performing leaders, targeting managers and supervisors"
+and communicating with,,for our in-house leadership program.
+"a larger, wider-spread",,
+,•,Competition for workers is ongoing and retaining our workforce is a key focus. We have seen
+"workforce, more workload,",,
+,,our staff turnover rate for the Group steadily decrease following our retention initiatives.
+"the move to a larger factory,",,
+,•,With growth comes change and maintaining open channels of communication with our
+investment in better,,
+,,people is essential. We are committed to ensuring each and every employee understands our
+and more streamlined,,
+,,vision and purpose and their role in helping to deliver them. We hold monthly team talks with
+"systems and processes,",,
+,,"consistent, transparent messages and giving employees an opportunity to ask questions."
+more customers and new,,
+,•,We are focused on ensuring we have robust systems and processes that facilitate knowledge
+"advances in technology, to",,
+,,"transfer to produce our many products. When everyone follows a well-tested set of steps, we"
+name a few.,,
+,,"reduce the likelihood of mistakes, delays and duplicated effort."
+,•,We have implemented a Human Resource Management System that will support the business
+,,for many years to come.
+,Protecting our intellectual property and managing cyber security risks,
+Second only to our people is,•,We have strict confidentiality procedures in place when developing new technology and
+PWR’s intellectual property,,manufacturing processes.
+and that of our customers.,•,We operate restricted areas within our manufacturing sites and do not permit phones or
+,,cameras on the factory floor.
+Cyber risk,,
+The Company is exposed,•,We regularly undertake independent external reviews of our IT and potential cyber security
+"to the risk of cyber threats,",,exposures and have implemented all recommendations arising from these reviews.
+including unauthorised,•,"To reduce exposure to cyber risk, the Company has implemented a range of controls, including"
+"access to systems, data",,"multi-factor authentication, continuous network monitoring, regular penetration testing, and"
+"breaches, and operational",,phishing exercises.
+"disruptions, which could",,
+,•,All team members undergo employee cyber awareness training and incident response planning.
+"result in financial loss,",,
+,•,"Technology security measures, including identity and access management and end point"
+reputational damage and,,
+,,solutions are used to mitigate risks.
+regulatory penalties.,,
+,•,These measures are reviewed and updated regularly to address the evolving threat landscape.
+Sustainability Risk,,
+PWR is committed to playing,•,We invest in new technologies and projects to support low emissions programs.
+its part in building a more,•,"We have installed 4,066 rooftop solar panels at our new Australian headquarters, to provide"
+sustainable world for the,,approximately one-third of our energy needs through renewable sources.
+future generations. How,,
+,•,We have installed a closed-loop wastewater treatment system at our new Australian
+we go about this requires,,
+,,headquarters to recycle water into demineralised form for reuse in production.
+focus and investment and,,
+,•,"We have integrated our material sustainability pillars into our strategy, described on page 12 and"
+close contact with our many,,
+,,reported outcomes in our review of operations on pages 12 to 50.
+stakeholders We believe,,
+,•,We have recorded our scope 1 and scope 2 baseline emissions outlined on page 30.
+that PWR can play its part,,
+,•,We will set realistic and measurable targets to meet and report against.
+in the transition towards,,
+a sustainable society,•,We will continuously review and revise our approach to sustainability and climate change
+through the use of emerging,,to ensure it keeps pace with the expectations of our stakeholders.
+technology and innovative,•,We will incorporate the recommendations from the Task Force on Climate Related Financial
+product development to,,Disclosures.
+support our customer’s,•,"We determine where to manufacture product considering source location of raw materials,"
+climate change targets.,,"capacity and capability of the PWR factory, and destination of the final product."

@@ -1,0 +1,395 @@
+=== Table 1 (page 3) ===
+Message from the CEO,,
+,have also begun working with,communities as we achieved
+I am pleased to share our 2023,,
+,our partners and suppliers on,significant milestones in our 5G
+Sustainability Report and provide,,
+,our scope 3 targets.,rollout and continued to deliver
+an update on the progress we have,,
+,,essential broadband services to
+"made on behalf of our people,",In 2023 we launched our Supplier,
+,,millions of Australians. Our 5G
+"customers, shareholders, and the","Engagement Program, marking a",
+,,mobile network now has more than
+communities we serve.,critical step towards embedding,
+,,"3,000 enabled sites across the"
+,our sustainability commitments,
+Customer wellbeing,,
+,,"nation, covering more than 98 per"
+,throughout our supply chain. This,
+The protection and service of our,,cent of the population in 12 of
+,program focuses on key areas,
+customers remain important,,Australia’s major cities and centres.
+,where our suppliers can make a,
+components of our Sustainability,,
+,"meaningful impact, including",Our community investment efforts
+Strategy.,,
+,"Energy & Emissions, Human Rights",have seen continued growth. With
+"In 2023, we continued to build on","& Modern Slavery, Nature &",increased funding allocated to the
+our defences against cyber security,"Biodiversity, and Waste & the","TPG Telecom Foundation in 2023,"
+threats through significant,Circular Economy.,we strengthened our impact
+investments in our systems and,,through strategic grants and
+,Inclusion and belonging,
+controls. These expanded security,,donations totalling over $1.3
+,"At TPG Telecom, diversity and",
+"capabilities, transformed IT",,million. The success of our Skilled
+,inclusion are integral to our vision,
+"architecture, and standardised",,Volunteering Program pilot inspired
+,for the future. We have made,
+policies have been built to better,,"us to expand our efforts, leveraging"
+,positive progress against our,
+protect customers from harmful,,the skills and expertise of our
+,gender diversity targets and we,
+scams and fraud.,,teams to support charitable causes.
+,continued to drive gender pay,
+Through cross-industry,,Looking ahead
+,equity for equivalent roles.,
+"collaboration, we actively engaged",,
+,,As we reflect on the
+,As we finalise our Innovate,
+in initiatives to protect customers,,
+,,"accomplishments of the past year,"
+,"Reconciliation Action Plan, we are",
+and explore new intelligence,,
+,,we enter 2024 energised and
+,excited to have received conditional,
+sharing partnerships.,,
+,,committed to our Sustainability
+,endorsement from Reconciliation,
+We have also formalised our,,Strategy. We also recognise the
+,Australia. We look forward to its,
+"Customer Wellbeing Strategy,",,continuing need for ongoing
+,"launch in 2024, continuing our",
+driving further focus on how we can,,adaptation to emerging challenges.
+,dedication to advancing,
+best support customers who face,,
+,reconciliation efforts.,I would like to thank our dedicated
+vulnerable circumstances.,,
+,,"team at TPG Telecom, whose"
+,"In 2023, we also established a",
+Environmental responsibility,,commitment continues to make
+,"new Employee Resource Group,",
+,,positive progress on our
+Having set our greenhouse gas,"DNA (Disability Network Alliance),",
+,,sustainability commitments. I also
+emissions reduction targets at the,a dedicated group of employees,
+,,thank our valued customers and
+"end of 2022, we were proud to",passionate about accessibility in all,
+,,shareholders for their continued
+become the first telco in Australia to,"its forms, either as people with lived",
+,,support and partnership as we
+have its net-zero target validated by,experience of disability or as allies.,
+,,navigate the journey ahead.
+the Science Based Target initiative,,
+,"Together, these efforts reaffirm our",
+in 2023. Our short-term and long-,,
+,commitment to building a future,
+"term targets were also validated,",,
+,"where diversity is celebrated,",
+and classified as in line with a,,
+,"reconciliation is not just a goal,",
+"1.5°C trajectory, aimed at limiting",,
+,"but a lived reality, and accessibility",
+global warming to 1.5°C.,,
+,is woven into the fabric of our,
+We remain committed to,organisation.,
+powering our operations with,,
+,Digital economy,
+100 per cent renewable electricity,,
+,"In 2023, TPG Telecom continued to",
+"from 2025, which will put us in",,Iñaki Berroeta
+,extend the social and economic,
+a strong position to achieve our,,
+,,Chief Executive Officer and
+,benefits of connectivity to more,
+"scope 1 and 2 targets, and we",,
+,,"Managing Director, TPG Telecom"
+
+=== Table 2 (page 17) ===
+allowing us for the first time to track trends in our,,"upstream leased assets,"
+data.,,and use of sold products)
+Energy consumed (TJ) and GHG emissions,Long-Term Targets,
+(ktCO2-e),,
+,We commit to,We commit to reduce
+"Category
+2021
+2022
+2023",,
+,maintaining at least,absolute scope 3 GHG
+"Energy consumed
+1,237
+1,291
+1,342",,
+,,emissions
+,,
+"Scope 1 emissions
+2.8
+2.8
+4.8",95%,
+,,
+"224.4
+224.8
+226.0
+Scope 2 emissions",,90%
+,absolute scope 1 and 2,
+(market-based),,
+,GHG emissions,"by 2050, from a 2021"
+"229.2
+227.6
+228.8
+Scope 1 and 2 emissions",,
+,reductions from 2030,base year.
+(market-based),,
+,"through 2050, from a",
+"Scope 3 emissions
+1,327.9
+1,473.8
+1,235.2",,(from purchased goods
+,2021 base year.,
+,,"and services, fuel- and"
+
+=== Table 3 (page 17) ===
+Environmental responsibility continued,
+"In 2023, we continued to build new mobile black spot",
+,Emissions reduction targets validation
+"sites and upgrade existing sites, including in disaster-",
+,"Our emissions reduction targets, set at the end of"
+prone areas. This enhances connectivity for our,
+,"2022, were formally validated by the Science Based"
+customers and improves resilience to our network,
+,Target initiative in late October 2023. At the time of
+in times of emergency.,
+,"validation, we became the fourth company in the"
+Carbon footprint reduction,Oceania region and the first telco in Australia to
+,have our long-term and net zero targets validated.
+As an operator and provider of critical communication,
+"services, we recognise the importance of supporting",
+,Our targets
+Australia’s net zero commitment and finding new and,
+better ways to reduce the carbon footprint of our,Overall Net-Zero Target
+networks and supply chains.,
+,We commit to reach
+,
+This is why we have committed to:,net-zero
+• Developing a strategy and implementation plan,
+,GHG emissions across our value chain by 2050.
+to support achievement of science-based,
+emissions reduction targets.,Near-Term Targets
+• Powering our Australian operations with,"We commit to reduce 
+We also commit to"
+100 per cent renewable electricity by 2025.,"absolute scope 1 and 2 
+reduce absolute scope 3"
+,"GHG emissions
+GHG emissions"
+,
+Energy and emissions reporting,"95%
+30%"
+"In 2022, we mapped the carbon footprint of our",
+"operations and value chain for the first time,","by 2030, from a 2021 
+by 2030, from a 2021"
+"establishing our 2021 GHG emissions baseline, used","base year.
+base year."
+in setting our emissions reduction targets. TPG,
+,(from purchased goods
+Telecom has now completed a full carbon footprint,"and services, fuel- and"
+"assessment for both the 2022 and 2023 years,","energy-related activities,"
+allowing us for the first time to track trends in our,"upstream leased assets,"
+data.,and use of sold products)
+Energy consumed (TJ) and GHG emissions,Long-Term Targets
+(ktCO2-e),
+,"We commit to 
+We commit to reduce"
+"Category
+2021
+2022
+2023",
+,"maintaining at least
+absolute scope 3 GHG"
+"Energy consumed
+1,237
+1,291
+1,342",
+,emissions
+,
+"Scope 1 emissions
+2.8
+2.8
+4.8",95%
+,
+"224.4
+224.8
+226.0
+Scope 2 emissions",90%
+,absolute scope 1 and 2
+(market-based),
+,"GHG emissions 
+by 2050, from a 2021"
+"229.2
+227.6
+228.8
+Scope 1 and 2 emissions",
+,"reductions from 2030 
+base year."
+(market-based),
+,"through 2050, from a"
+"Scope 3 emissions
+1,327.9
+1,473.8
+1,235.2",(from purchased goods
+,2021 base year.
+,"and services, fuel- and"
+"In 2023, energy reductions occurred in our fixed",
+,"energy-related activities,"
+"networks, corporate offices and retail footprint due",
+,"upstream leased assets,"
+to site consolidation and a reduction in locations. At,and use of sold products)
+"the same time, the energy consumed by our mobile",
+
+=== Table 4 (page 18) ===
+Environmental responsibility continued,
+"In just two years, we have significantly advanced our",
+,"The first stage of the program, our pilot ‘net-zero"
+understanding of emissions across our operations,
+,"initiative’, is focused on our emissions reduction"
+and value chain. This provides us with the information,
+,targets and aims to:
+required to drive impact where it matters most. This,
+is the result of significant effort across the business,• Raise awareness with our suppliers by providing
+and shows a clear commitment by TPG Telecom to,an overview of our emissions reduction targets.
+support the ambitions of a net-zero future.,
+,• Understand the level of maturity across our
+Roadmap to achievement,supply chain regarding their emissions footprints
+,and reduction strategies.
+Underpinning our science-based targets are a set,
+of emission reduction pathways which guide,• Collaborate with key suppliers to set and achieve
+their achievement.,emissions reduction targets.
+We expect to achieve our scope 1 and 2 emissions,
+,"In 2023, we developed a net-zero survey, which was"
+reduction targets through our renewable electricity,
+,issued to our top 150 suppliers to raise awareness of
+commitment. Powering our Australian operations,
+,our commitments and gather information on their
+with 100 per cent renewable electricity will reduce,
+,maturity regarding emissions and  reduction targets.
+associated emissions to zero. As these emissions,
+,Responses will guide engagement efforts with key
+account for the vast majority of our scope 1 and 2,
+,suppliers to drive the setting and achievement of
+"emissions footprint, maintaining our renewables",
+,supplier emission reduction targets.
+commitment should allow us to meet or exceed,
+our target of a 95 per cent reduction from our,Maintaining strong engagement with suppliers is
+2021 baseline.,critical for TPG Telecom to meet its science-based
+,targets. This helps identify and monitor activities we
+Comprising approximately 84 per cent of our carbon,
+,can influence and whether performance towards
+"footprint, scope 3 emissions are the most significant",
+,meeting these targets is on-track.
+part of our emissions profile. Through the mapping,
+"of these emissions, we identified that the majority",Renewable energy commitment
+(approximately 95 per cent) are concentrated in,We remain committed to powering our Australian
+two areas:,operations with 100 per cent renewable electricity
+• Emissions from our suppliers in the manufacture,from 2025 onward. Our Renewable Energy
+and delivery of goods and services we procure.,Procurement Strategy has been designed to drive
+These include the building and maintaining of our,our go-to-market approach in meeting this target. It is
+"mobile and fixed networks, as well as devices we",focused on long-term Power Purchase Agreements
+sell to our customers.,"and Large-scale Generation Certificates, aligned with"
+,our Energy Management Policy and dependant on
+• Emissions from our customers using the products,
+,availability and cost considerations.
+and services we provide.,
+,During 2023 we began to execute on our strategy and
+Recognising the influence and impact our suppliers,
+,developed a formal request for tender for renewable
+"have in both of these areas, we aim to leverage our",
+,energy providers to fulfill our requirements. The
+relationships to reduce the emissions of our,
+,"responses, expected in the first half of 2024, will be"
+customers and suppliers. We plan to achieve this,
+,used to determine our next steps in the process.
+by working with our suppliers to set and achieve,
+their own emissions reduction targets.,We will also continue to investigate other renewable
+,"energy opportunities available to us, including"
+Supplier Engagement Program,
+,increasing our on-site solar capacity where feasible.
+Collaboration and support from our suppliers is an,
+
+=== Table 5 (page 19) ===
+,Environmental responsibility continued,,,,,,
+,Australian electricity consumption (GWh),,,,,,
+Category,2021,2022,2023,,e-waste4 collection and recycling,,
+Total electricity consumed2,323,346,360,,,,
+,,,,,Recognising the significance of e-waste in the,,
+Renewable electricity3,,,,,,,
+,,,,,"telecommunications industry, we take seriously our",,
+National renewable,57,61,65,,,,
+,,,,,responsibility to reduce the amount of e-waste from,,
+energy target,,,,,,,
+,,,,our products.,,,
+Jurisdictional renewable,17,17,18,,,,
+energy target,,,,,"We continue to work with MobileMuster, the product",,
+Total renewable electricity,74,78,83,,stewardship program funded by the Australian,,
+Renewable electricity,22.9%,22.6%,22.9%,,"mobile telecommunications industry, to increase",,
+(as a percentage of total,,,,,the collection and recycling of end user e-waste.,,
+electricity consumed),,,,,,,
+,,,,,MobileMuster manages a free recycling program,,
+Energy efficiency,,,,,"across Australia, covering mobile devices and",,
+,,,,,"accessories, modems and routers, landline phones,",,
+,While fulfilling our renewable energy commitment,,,,,,
+,,,,,smart home technology and wearables. We enable,,
+,will enable us to achieve our near-term scope 1 and,,,,,,
+,,,,,customer participation by providing MobileMuster,,
+,"2 emissions reduction target, we acknowledge the",,,,,,
+,,,,,collection points in our Vodafone retail stores or,,
+,importance of electricity users improving the,,,,,,
+,,,,,allowing customers to print a MobileMuster label,,
+efficiency of their energy use.,,,,,,,
+,,,,,from our Vodafone and felix websites for free device,,
+,"Our technology team, who oversees the",,,,,,
+,,,,,mailing. Our logistics facilities also recycle devices,,
+,"development, operation, and maintenance of our IT",,,,,,
+,,,,,and accessories that cannot be sold or repaired.,,
+,"and telecommunications assets and networks, has",,,,,,
+,,,,,"This year, we conducted communications campaigns",,
+,"developed a sustainability action plan, aligned to",,,,,,
+,,,,,to raise awareness and encourage uptake of the,,
+,our broader Sustainability Strategy.,,,,,,
+,,,,,MobileMuster program. This included campaigns,,
+,TPG Telecom’s networks and assets account for,,,,,,
+,,,,,though Vodafone sales channels to encourage,,
+,"most of our energy consumption, and so the action",,,,,,
+,,,,,"customers to trade-in or recycle their devices, a",,
+,plan has placed a focus on energy efficiency.,,,,,,
+,,,,,Today Show segment filmed at one of our retail,,
+,Our technology team is in the process of developing,,,,,,
+,,,,,"stores, and internal messaging for retail employees",,
+,KPIs and assessing potential energy efficiency,,,,,,
+,,,,,to promote device recycling during new promotions.,,
+,opportunities. Outputs of this work will help to,,,,,,
+,,,,,e-waste collection by MobileMuster (kg),,
+,determine the feasibility of a future energy,,,,,,
+,,,,Category,2021,2022,2023
+efficiency target.,,,,,,,
+,,,,TPG Telecom – all brands,"13,055","17,329","7,581"
+Product stewardship,,,,,,,
+,,,,Source: MobileMuster,,,
+,We aim to be responsible for the products we sell by,,,,,,
+,,,,,"In 2023, the collection of fixed device e-waste at",,
+,minimising their environmental impact throughout,,,,,,
+,,,,,"our logistics facilities was temporarily paused, due",,
+,their lifecycle. We continue to monitor and report our,,,,,,
+,,,,,to an inventory management system transition as,,
+,operational waste footprint in our Sustainability Data,,,,,,
+,,,,,part of a broader logistics consolidation. This pause,,
+,Pack and aim to drive improvements across other,,,,,,
+,,,,,accounted for the decline in e-waste collection totals,,
+"parts of our value chain, working with our suppliers to",,,,,,,
+,,,,,"from the prior year. However, the fixed device",,
+reduce packaging and increase,,,,,,,
+,,,,,"collection will resume in 2024, including processing",,
+resource recoverability and with industry partners,,,,,,,
+,,,,,the backlog of devices received from customers,,
+on e-waste management.,,,,,,,
+,,,,,throughout 2023. We expect an increase in e-waste,,
+,,,,collection totals in 2024.,,,
+,This is why we have committed to:,,,,,,

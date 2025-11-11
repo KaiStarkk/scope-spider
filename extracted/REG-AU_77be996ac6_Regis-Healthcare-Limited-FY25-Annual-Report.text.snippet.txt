@@ -1,0 +1,227 @@
+=== Page 34 ===
+Environmental, Social and Governance
+At Regis, we are committed to integrating sustainable and ethical 
+practices throughout our operations and business value chain. 
+We recognise that robust environmental, social and governance 
+(ESG) practices are essential to our residents, clients, employees, 
+shareholders and the communities we serve. Our ESG initiatives 
+are designed to enhance compliance, reduce operational costs, 
+minimise our environmental impact, collectively improve our 
+performance, while building a climate resilient future for all. 
+ESG governance at Regis is overseen by the Board and Executive 
+Leadership Team, with responsibilities distributed across key 
+committees. The Sustainability Working Group provides strategic 
+guidance, while the Sustainability Manager leads implementation, 
+stakeholder engagement and data collection. ESG performance is 
+supported by structured reporting and both internal and external 
+audits, ensuring transparency and continuous improvement. This 
+governance structure enables alignment between sustainability 
+priorities and broader business objectives, while also supporting 
+regulatory compliance and stakeholder expectations. 
+Climate Resilience at Regis
+As an industry leader, Regis recognises the importance of 
+adapting to both the evolving needs of the ageing population 
+and the environmental challenges that affect us all. Regis is 
+dedicated to leading the transformation in how our residents 
+live and how we operate as a business to be more sustainable. 
+By taking proactive steps to reduce our environmental impact, 
+we aim to not only enhance the operational efficiency of our 
+Homes but also improve the health and wellbeing of our 
+residents. Climate change poses significant challenges, from 
+severe weather events to disruptions in supply chains and rising 
+energy costs. By managing and mitigating these risks, we can 
+reduce our environmental impact and improve operational 
+efficiency. At Regis, building a climate-resilient future is essential 
+to safeguarding business continuity, maintaining seamless 
+operations and supply chains and creating climate-resilient 
+environments for our employees and residents.
+Climate Disclosures
+In response to the increasing visibility and awareness of climate 
+change impacts, the Australian Government introduced 
+Mandatory climate-related disclosures through the Australian 
+Accounting Standards Board (AASB), under the Australian 
+Sustainability Reporting Standards (ASRS). As a Group 1 entity, 
+Regis will begin reporting in line with these requirements in FY26, 
+as its first reporting year. Regis is actively preparing to meet 
+mandatory climate disclosure requirements. 
+A new emissions Baseline 
+Regis has designated the 2023 financial year (FY23) as its 
+new base year for greenhouse gas (GHG) emissions reporting,  
+in alignment with the Greenhouse Gas Protocol: Corporate 
+Accounting and Reporting Standard. This decision reflects 
+a commitment to transparency, accuracy and continuous 
+improvement in our environmental performance. The  
+re-establishment of FY23 as the base year was informed  
+by the following considerations:
+• Organisational Changes: Significant structural changes, 
+including the acquisition of new sites and operations, 
+have altered the organisational boundaries, necessitating  
+a revised baseline.• Data Integrity: FY23 represents the first year in which a 
+complete and verifiable dataset was available, including 
+emissions from refrigerant use, enabling a more accurate 
+representation of scope 1 and scope 2 emissions.
+• Methodology improvements: FY23 Emissions calculation,  
+data collection and verification followed a robust approach  
+with higher accuracy and completeness. 
+• Post-Pandemic Stability: FY23 reflects a return to typical 
+operational conditions following the disruptions caused by  
+the COVID-19 pandemic.
+Emissions for FY23 and FY24 have been recalculated in 
+accordance with the Greenhouse Gas Protocol. Analysis  
+identified scope 2 electricity emissions as the primary emissions 
+hotspot, followed by scope 1 emissions from stationary fuel.
+Table 1: Emissions Summary
+ScopeFY25  
+(tco2e*)FY24  
+(tco2e*)FY23  
+(tco2e*)
+Scope 1 5,587.24 7,336.62 7,424.04
+Scope 2 31,756.18 27,488.35 26,712.49
+Total Scope 1 & 2 37,343.42 34,824.97 34,136.53
+* Tons of carbon dioxide equivalent emissions
+Notes:  
+•  Scope 1 emission sources include Natural gas, LPG, Stationary Diesel fuel,  
+Transport fuel and Refrigerants.
+• Scope 2 emissions include emissions from purchased grid electricity.
+• Emissions reported in the above table are unaudited.
+FY25 witnessed a 24% decrease in Scope 1 emissions, while 
+Scope 2 electricity emissions increased by 16%, reflecting a shift  
+in Regis’ energy reliance strategy from gas to electricity. Overall 
+emissions increased by 7% in FY25, mainly driven by business 
+growth and acquisitions.
+Table 2: Energy Consumption Summary
+ScopeFY25  
+(TJ*)FY24  
+(TJ*)FY23  
+(TJ*)
+Scope 1 87.77 124.01 123.81
+Scope 2 192.87 160.21 153.22
+Total Scope 1 & 2 280.65 284.22 277.03
+* Tera Joules of energy 
+Scope 1 energy consumption decreased by 29%, while Scope 2 
+energy consumption increased by 20%, reflecting a shift in Regis’ 
+energy reliance strategy from gas to electricity. 
+Overall, combined Scope 1 and 2 energy consumption decreased 
+by 1% in FY25.
+Emissions and energy per Site 
+In FY25, Regis concluded a review of its previously stated energy 
+reduction target, which aimed at a 10% combined reduction  
+by FY24 using an FY19 baseline. This target, while appropriate  
+at the time of its establishment, no longer reflects the scale and 
+nature of Regis’ current operations. The business has undergone 
+significant growth and transformation since FY19, including 
+acquisitions and expanded service delivery, which have materially 
+impacted energy consumption patterns. OUR STRATEGY
+Future Ready
+REGIS ANNUAL REPORT 2025 32
+
+=== Page 35 ===
+Building for Climate Resilience
+Regis has developed Environmentally Sustainable 
+Design (ESD) Guidelines to support the integration of 
+climate-responsive principles across new developments, 
+refurbishments, fit-outs and operational upgrades. These 
+guidelines are designed to ensure that Regis facilities are 
+built and maintained with long-term sustainability and 
+resilience in mind. The ESD framework focuses on:
+• Energy and water efficiency to reduce environmental 
+impact and operational costs
+• Material reuse and responsible sourcing  to support 
+circular economy outcomes
+• Climate-adaptive design features  that enhance resilience 
+to extreme weather and future climate conditions
+By embedding these principles into the design and 
+construction process, Regis is creating safer, more  
+efficient and environmentally responsible spaces for 
+residents and staff. This initiative reflects our commitment 
+to future-proofing our infrastructure and delivering lasting 
+value to the communities we serve.Key ESG ProgramKey ESG Program
+Energy Resilience: Building a Future-Ready Regis
+Regis is committed to building a future-ready organisation 
+that can withstand and adapt to the challenges posed by 
+climate change. Our Energy Resilience Strategy is designed 
+to ensure the safety, security and continuity of care for 
+residents and staff — 24/7 and in any climate scenario.
+As of FY25, 58% of our homes are equipped with solar 
+panels, marking a significant step toward decentralised 
+and renewable energy generation. This foundation 
+supports our broader goal of creating climate-resilient 
+homes, businesses and supply chains .
+The strategy embraces a hybrid energy model , combining:
+• Grid electricity  for reliability and scale
+•  On-site solar generation  for sustainability and  
+cost efficiency
+• Flexible energy systems  capable of operating  
+across multiple energy sources to ensure continuity 
+during disruption. This integrated approach will enable Regis to reduce 
+emissions and energy cost, enhance operational resilience 
+during climate-related events, support long-term 
+sustainability goals and strengthen energy independence 
+across our portfolio.
+In FY25, Regis Dandenong North was a recent addition to 
+our solar portfolio, with 99kW rooftop solar power. This 
+solar installation is expected to generate approximately 
+138,671kWh of electricity annually, contributing to a 
+reduction in grid energy use. The expansion of renewable 
+energy infrastructure will support operational resilience, 
+manage exposure to rising energy costs and lower 
+emissions associated with energy consumption.
+The Energy Resilience Strategy is a cornerstone of Regis’ 
+climate adaptation planning and reflects our commitment 
+to safeguarding the wellbeing of our communities while 
+contributing to a low-carbon future. 
+REGIS ANNUAL REPORT 2025 33
+
+=== Page 56 ===
+REGIS ANNUAL REPORT 22002255        54   
+Directors’ Report  
+Indemniﬁcation  and Insurance  of Directors  and Oﬃcers 
+The constitution  of the Company provides  for the Company to indemnify  Directors  and executive  oﬃcers of the Company and its related  
+bodies  corporate  against  liability  incurred  in their capacity  as an oﬃcer of the Company or related  body corporate,  except  as may be 
+prohibited by law. Premiums  have been paid by Regis  Aged Care Pty Ltd, a 100%  owned subsidiary  company,  with regard  to Directors’ 
+and oﬃcers’ liability  insurance  to insure  each of the Directors  and executive  oﬃcers of the Company against  certain liabilities  incurred  by 
+them  arising  out of their conduct  while  acting  in the capacity  of Directors  or executive  oﬃcers of the Company or its related  bodies  
+Corporate.  The contract  of insurance  prohibits  disclosure of the nature  of the liability  and the amount  of the premiums.   
+Indemniﬁcation  of Auditors  
+To the extent  permitted  by law, the Group  has agreed  to indemnify  its auditors,  Ernst & Young Australia,  as part of the terms  of its audit 
+engagement  agreement  against  claims  by third parties  arising  from the audit (for an unspeciﬁed amount).  No payment  has been made to 
+indemnify  Ernst & Young during or since the end of the ﬁnancial  year. 
+Options  
+No options  over issued  shares or interests  in the Company or a controlled  entity  were granted  during or since the end of the ﬁnancial  
+year and there were no options  outstanding  at the date of this report.  
+Proceedings on Behalf  of the Group  
+No person has applied  for leave of court to bring proceedings  on behalf  of the Group  or intervene  in any proceedings  to which  the Group  
+is a party for the purpose of taking responsibility  on behalf  of the Group  for all or any part of those proceedings.  The Group  was not a 
+party to any such proceedings  during the year. 
+Environmental Regulations and Performance  
+In response to the increasing visibility and awareness of climate change impacts, the Australian Government introduced mandat ory 
+climate -related disclosures through the Australian Accounting Standards Board. As a Group 1 entity, Regis will begin reporting in line with 
+these requirements for the ﬁnancial year ending 30 June 2026 . Regis is actively preparing to meet mandatory climate disclosure 
+requirements  and its approach encompasses four key pillars including Governance, Strategy, Risk Management and Metr ics & Targets.  
+The Group is subject to the reporting obligations under the National Greenhouse and Energy Reporting (NGER) Act 2007 (Cth). T his 
+requires the Group to report annual greenhouse gas emissions, energy use and production. The NGER report for the year ended          
+30 June 2025 will be submitted by the 31 October 2025 submission date. 
+Corporate Governance  
+Full details  of Regis’ compliance  with the ASX Corporate  Governance  Council  Principles  and Recommendations  (4th Edition),  can be 
+found  in the Regis  Healthcare Corporate  Governance Statement  on the Company website  at www.regis.com.au/corporate -governance.  
+Rounding  
+The Company is an entity  to which  ASIC Corporations  (Rounding  in Financial/Directors’  Reports)  Instrument  2016/191 applies  and, 
+accordingly,  amounts  in the ﬁnancial  statements and Directors’ Report  have been rounded  to the nearest  thousand  dollars.  
+Auditor’s  Independence  Declaration 
+The auditor’s  independence  declaration  as required  under  section  307C of the Corporations  Act 2001 is set out on page 68.  
+Non-Audit Services  
+The following  table sets out the  non-audit services  provided by the entity’s  auditor,  Ernst & Young Australia.  The Directors  are satisﬁed  that 
+the provision of non-audit services  is compatible  with the general  standard  of independence  for auditors  imposed  by the Corporations  Act 
+2001.  The nature  and scope  of each type of non-audit service  provided means  that auditor  independence  was not compromised.  
+ $$  
+Tax compliance      105,000 
+Other  services     114,000 
+TToottaall          221199,,000000  
+ 
+Signed  in accordance  with a resolution  of the Directors. 
+ 
+GGrraahhaamm  KK  HHooddggeess  
+CChhaaiirr  
+MMeellbboouurrnnee    
+2255  AAuugguusstt  22002255  
+REGIS ANNUAL REPORT 2025 54

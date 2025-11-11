@@ -1,0 +1,865 @@
+=== Table 1 (page 34) ===
+,Gas plays a critical role in fulfilling,
+Australian energy,,Beach’s sustainability
+,industrial energy needs that cannot be,
+supporting a sustainable,met by current renewable technologies.,journey
+,Industries such as steel and aluminium,
+transition,,"In recent years, Beach has refined its"
+,"manufacturing, mineral processing, cement,",
+,,approach to sustainability reporting. A
+,"bricks, and glass production depend on",
+"Beach is proud to supply local,",,2023 review of material topics utilised
+,"continuous, high-intensity heat. Gas is",
+"reliable, affordable energy",,an evidence-based methodology based on
+,an essential feedstock for producing,
+,,known sustainability frameworks(5).
+"that powers households,","plastics, fertilisers, pharmaceuticals, and",
+,,This review highlighted the significance
+,chemicals—applications where alternatives,
+"businesses, and essential",,
+,,of climate and greenhouse gas emissions.
+,remain limited or unavailable at scale.,
+industries. It also supports,,
+,,Beach published its inaugural CTAP in
+,AEMO forecasts risks of peak day shortfalls,
+the operation of the electricity,,"2024, which was based on the Financial"
+,"from 2028 in the East Coast gas market,",
+sector. As energy systems,,Stability Board’s Task Force on Climate-
+,with structural supply gaps emerging from,
+,,related Financial Disclosures framework.
+evolve to meet the challenges,2029(2). Supply gaps in the West Coast,
+,,The CTAP provides a strong foundation
+,gas market are forecast from 2030(3).,
+"of climate change, Beach is",,
+,,for Beach’s transition to reporting under
+,,
+committed to supporting,While there is some inherent uncertainty,"ASRS, specifically AASB S2 Climate-related"
+,in gas consumption forecasts in the,
+,,
+the transition to a lower-,,"Disclosures, given an aligned structure."
+,"various energy transition pathways, all",
+emissions future.,,As Beach prepares to report in line with
+,scenarios identify the need for new supply,
+,,"mandatory ASRS requirements in FY26,"
+,investments to maintain supply adequacy.,
+,,the FY25 Sustainability Report has been
+A just transition requires energy to,Beach is actively progressing new supply,
+,,structured with the transition towards
+"remain accessible, reliable, and affordable",projects to help close forecast gaps and,
+,,these obligations in mind. The first
+for all Australians—values that underpin,"support energy security, while maintaining",
+,,"section is the climate statement, in which"
+Beach’s contribution to the national,alignment with strategic priorities.,
+,,information is presented according to the
+energy landscape.,This is consistent with the Australian,
+,,main themes of AASB S2. The second
+,"Government’s Future Gas Strategy(4),",
+,,section is a sustainability update which
+,which affirms the strategic role of gas,
+Moomba CCS: a milestone,,
+,,presents information on matters other than
+,in Australia’s transition to net zero.,
+in emissions abatement,,climate.
+,Beach has a net zero Scope 1 and 2,
+"In FY25, Beach celebrated a significant",,
+,emissions ambition by 2050.,
+milestone with the successful,,
+,,External assurance
+commissioning of the Moomba CCS,,
+,,EY has provided limited external assurance
+project. This project with Santos is one,Energy security for Australia,
+,,in respect to some of the key metrics in this
+of the largest of its kind globally and,,
+,Beach’s Cooper Basin crude oil contributes,
+,,report. A copy of EY’s assurance report is
+sequestered over 1 million tonnes CO2e,,
+,to national fuel security. It is highly,
+,,available on page 53.
+"(gross) in FY25. At full capacity, Moomba",,
+,sought after by the market as it is low in,
+CCS is expected to store up to 1.7 million,,
+,"sulphur, allowing it to be simply processed",
+"tonnes of CO2e per year (gross), a key",,
+,at a modern refinery into high quality,
+contribution toward Beach's target of a,,
+,transportation fuels which meet regulated,
+35% reduction in equity Scope 1 and 2,,
+,specifications.,
+emissions intensity by 2030 (relative to a,,
+2018 baseline).,Beach remains dedicated to delivering,
+,"energy that is local, reliable, affordable,",
+,and aligned with a lower-emissions,
+The ongoing role of gas,,
+,future. Significant investments in projects,
+in the energy transition,,
+,like Moomba CCS demonstrate Beach’s,
+Natural gas continues to play a critical,commitment to emissions abatement.,
+role in Australia’s evolving energy mix. As,Beach will continue to assess other,
+"recognised by AEMO, gas remains essential","opportunities to further decarbonise,",
+,,(1)  2024 Integrated System Plan (ISP) published
+"in supporting electricity system reliability,",,"by the Australian Energy Market Operator, 2024"
+,guided by its strict operating principles,
+,,"(2)  2025 Gas Statement of Opportunities (GSOO),"
+particularly as coal-fired generation,and disciplined investment framework.,
+,,published by the Australian Energy Market
+retires and variable renewable generation,,"Operator, 2025"
+,,(3)  2024 Western Australia Gas Statement of
+grows. With renewables delivering nearly,,
+,,"Opportunities (WA GSOO), published by the"
+"40% of electricity in the NEM(1), firm and",,"Australian Energy Market Operator, 2024"
+,,"(4)  Future Gas Strategy, published by the"
+dispatchable sources such as gas remain,,
+,,Australian Government Department of
+vital to grid stability and energy security.,,"Industry, Science and Resources, 2024"
+,,(5)  GRI Standards 2021 (particularly
+,,"Standard 101, Section 1.3, Materiality),"
+,,GRI 11: Oil and Gas Sector 2021 and
+,,Ipieca Sustainability Guide 2020
+
+=== Table 2 (page 36) ===
+,Emissions reporting approach,Moomba CCS
+Greenhouse,,
+,Australian Scope 1 and Scope 2 emissions,Beach considers carbon capture and
+gas emissions,,
+,are reported under the National Greenhouse,storage to be a fundamental enabler of
+,and Energy Reporting Act 2007 (NGER),a low emissions energy supply system.
+FY25 targets achieved,and associated instruments such as the,Beach has a 33.4% ownership interest in
+,NGER Regulations 2008 and the NGER,"the Moomba CCS project, operated by joint"
+Moomba CCS first injection,(Measurement) Determination 2008. The,venture partner Santos.
+,Safeguard Mechanism is defined by the,
+<0.2% methane intensity,,Constructed adjacent to the Moomba
+,NGER (Safeguard Mechanism) Rule 2015.,
+,,"Gas Plant in the Cooper Basin, the project"
+Develop an approach for Scope 3,"Beach’s FY24 NGER submission,","is one of the world’s largest CCS projects,"
+emissions reporting by 2024,completed and submitted in October,delivering a material greenhouse gas
+,"2024, was independently assured by EY,",reduction for Beach’s portfolio. At full
+Scope 3 reporting terms and,,
+,"a qualified third party, at a reasonable","capacity, Moomba CCS is expected to"
+conditions in material existing,,
+,assurance level prior to submission to,safely store up to 1.7 Mtpa of carbon
+supplier contracts by 2024,,
+,the Clean Energy Regulator.,emissions in nearby depleted reservoirs.
+Emissions data assured,,
+by an external third party,New Zealand Scope 1 emissions are,Beach celebrated the first injection
+,reported under the Emission Trading,at Moomba CCS on 30 September
+,Scheme (Climate Change Response Act,2024. Following a successful
+,"2002) (ETS), and Scope 2 emissions for","commissioning process, Moomba CCS"
+,New Zealand are voluntarily disclosed. ETS,stored >1.0 MtCO2e (gross) in FY25.
+,data is reported on a calendar year basis.,
+,Beach’s 2024 calendar year data for New,
+,Zealand was independently assured by,
+,"EY, a qualified third party, at a reasonable",
+,assurance level prior to submission.,
+,Scope 3 emissions are calculated based on,
+,the Greenhouse Gas Protocol’s Corporate,
+,Value Chain (Scope 3) Accounting and,
+,Reporting Standard and Scope 3 guidance,
+,documents.,
+
+=== Table 3 (page 37) ===
+Emissions reduction trajectory,Reducing methane emissions
+to 2030,intensity
+Beach remains on track to meet its,Methane is reported as having a global
+Scope 1 and 2 equity emissions intensity,warming potential 28 times that of carbon
+reduction target of 35% by 2030 (from a,"dioxide(8). In the oil and gas industry,"
+2018 baseline).,methane emissions can occur from key
+,"sources including venting, flaring, process"
+Beach’s equity emissions intensity forecast,
+,leaks and fuel use.
+"to 2030 is shown in Chart 1, overlaid on the",
+IPCC global warming pathway envelopes,Beach recognises the importance of
+scaled to Beach’s emissions. The IPCC,reducing methane emissions and is
+1.5°C and 2°C pathway envelopes delineate,continuing to take steps to reduce its
+the percentage reductions required in,"operated methane emissions intensity,"
+net global greenhouse gas emissions to,which is the ratio of reported methane
+limit warming to 1.5°C and 2°C.(6) These,to natural gas throughput for operated
+pathway envelopes reflect the ambition,facilities. It is expressed as the cubic
+"of the Paris Agreement, to substantially",metres of methane emitted per cubic
+reduce global greenhouse gas emissions,metre of production.
+to hold global temperature increase to well,
+,Beach has achieved its target to maintain
+below 2°C above pre-industrial levels and,
+,a methane emissions intensity of <0.2%.
+pursue efforts to limit it to 1.5°C above,
+,"In FY25, Beach’s methane intensity was"
+pre-industrial levels.(7),
+,0.05% which is lower (better) than the
+The pathway envelopes in Chart 1 are,target set in the CTAP.
+scaled to Beach’s emissions baseline using,
+,Beach continues to conduct LDAR surveys
+the forecast reduction periods as defined,
+,at onshore and offshore gas facilities to
+"by the IPCC, out to 2030.",
+,proactively monitor and manage fugitive
+Beach has achieved a reduction in Scope 1,emissions.
+and 2 equity emissions intensity of ~25%,
+in FY25 (from the 2018 baseline). This,
+demonstrates the meaningful impact of,
+Moomba CCS together with smaller-scale,
+emissions reduction initiatives such as LDAR,
+surveys at Beach-operated gas facilities.,
+
+=== Table 4 (page 39) ===
+exploration and extraction of hydrocarbons,"The key value chain relationships are described in Table 1, highlighting the geographic"
+and their processing to make them ready,locations of significant Scope 3 emission sources.
+for sale.,
+,Table 1: Key upstream and downstream value chain relationships
+Beach applies the Greenhouse Gas,"Description
+Location"
+Protocol’s Corporate Value Chain (Scope 3),
+,"Key suppliers  
+Rig services (onshore and offshore)
+WA, NZ"
+Accounting and Reporting Standard to,
+,(Cat 1: Purchased goods
+,"Drilling and wellsite services
+SA, Vic"
+"describe the value chain. In this way, there",and services)
+,"Pipeline construction
+Vic"
+is consistency with the way in which Scope,
+,"Engineering services
+SA, WA, Vic, NZ"
+"1, 2 and 3 emissions are reported.",
+,"Plant and equipment supply and maintenance
+SA, WA, Vic, NZ"
+"Climate-related risks and opportunities,","IT services and hardware
+SA, WA, Vic, NZ"
+"as detailed on page 40, are present",Upstream
+,"Regulatory requirements e.g. licenses and levies  SA, Vic"
+throughout the value chain.,
+,"Insurance premiums
+SA, WA, Vic, NZ"
+Physical climate risks will need to be,"Cat 3: Fuel and energy  
+Fuel and energy purchased
+SA, WA, Vic, NZ"
+monitored and managed by Beach at,related activities
+"its operated assets, with acute physical","Cat 4: Upstream 
+Marine transport to support rigs and platforms
+Vic, NZ"
+risks from extreme weather events a,transportation and distribution
+,"Aviation – helicopter services
+Vic"
+consideration across all time horizons.,"Included in Scope 2 emissions
+Electricity for all operations
+SA, WA, Vic, NZ"
+Chronic physical risks arise from longer-,
+,"Cat 9: Downstream 
+Distribution pipelines
+SA, WA, Vic, NZ"
+"term shifts in climatic patterns, so are a",transportation and distribution
+more significant consideration for core,
+,"Cat 10: Processing  
+Processing through gas facility
+WA"
+assets with a longer intended operating life.,"Downstream
+of sold products"
+,"Key customers  
+Wholesale customers for hydrocarbon products  SA, WA, Vic, NZ"
+Transition risks are expected to manifest in,
+,(Cat 11: Use of sold products)
+"increasing operational costs. For example,",
+,"Cat 15: Investments
+Joint ventures
+SA, WA, Vic, NZ"
+"as Safeguard Mechanism obligations,",
+"mandatory reduction targets, and upward",
+
+=== Table 5 (page 39) ===
+,"Cat 15: Investments
+Joint ventures",
+"as Safeguard Mechanism obligations,",,
+"mandatory reduction targets, and upward",,
+pressure on carbon prices are expected to,Figure 3: Scope 3 emissions in FY25,
+have a greater impact on core assets.,,
+,UPSTREAM,
+Transition risks are expected to influence,"Scope 3
+48 ktCO2e
+212 ktCO2e",2 ktCO2e
+demand for products and commodity,"Purchased goods and services
+Upstream transportation and distribution",Employee commuting
+prices. These impacts are likely to vary,,
+,"149 tCO2e
+266 tCO2e",1 ktCO2e
+"according to the nature of the product,","Capital goods
+Waste generated from operations",Upstream leased assets
+for example demand for gas may increase,,
+,"3 ktCO2e
+5 ktCO2e",
+"while demand for oil may decrease,","Business travel
+Fuel and energy related activities",
+depending on factors such as government,,
+policies and incentive programs.,BEACH,
+
+=== Table 6 (page 39) ===
+"while demand for oil may decrease,",,"Business travel
+Fuel and energy related activities",
+depending on factors such as government,,,
+policies and incentive programs.,,BEACH,
+,,"CORE ASSETS 
+NON-CORE ASSETS",PRODUCTS
+SCOPE 3 EMISSIONS,Scope 1 and 2,,
+,,"Perth Basin, Cooper Basin 
+Otway (SA) Basin, Bass","Oil, sales gas, LPG,"
+Scope 3 emissions occur in a company’s,,"and Otway (Vic) Basin
+Basin and Taranaki Basin",condensate and LNG
+"value chain, from sources not owned or",,,
+,,Physical risks will need to be managed at operated assets.,Transition risks
+controlled by that company. Upstream,,,
+,,These risks differ by geographic region.,may impact demand
+Scope 3 emissions are considered by Beach,,,for products and
+to be controllable or can be influenced,,Transition risks include increasing,commodity prices.
+by actions taken by the company.,,"costs of doing business, which have a",
+
+=== Table 7 (page 39) ===
+,"In FY25, Beach advanced its approach to Scope 3 emissions by developing a dedicated"
+Value chain,
+,"reporting tool that centralises data, assumptions, and calculations related to Scope 3"
+"Beach depends on a number of entities,",
+,"categories, supporting more consistent and transparent emissions estimation. This tool was"
+people and resources to provide its,
+,used to prepare Beach’s Scope 3 emissions data. Beach is including appropriate terms and
+products for sale. This includes suppliers,
+,conditions addressing Scope 3 reporting in existing supplier contracts as they are renewed.
+of services and equipment to enable,
+exploration and extraction of hydrocarbons,"The key value chain relationships are described in Table 1, highlighting the geographic"
+and their processing to make them ready,locations of significant Scope 3 emission sources.
+for sale.,
+,Table 1: Key upstream and downstream value chain relationships
+Beach applies the Greenhouse Gas,"Description
+Location"
+Protocol’s Corporate Value Chain (Scope 3),
+,"Key suppliers  
+Rig services (onshore and offshore)
+WA, NZ"
+Accounting and Reporting Standard to,
+,(Cat 1: Purchased goods
+,"Drilling and wellsite services
+SA, Vic"
+"describe the value chain. In this way, there",and services)
+,"Pipeline construction
+Vic"
+is consistency with the way in which Scope,
+,"Engineering services
+SA, WA, Vic, NZ"
+"1, 2 and 3 emissions are reported.",
+,"Plant and equipment supply and maintenance
+SA, WA, Vic, NZ"
+"Climate-related risks and opportunities,","IT services and hardware
+SA, WA, Vic, NZ"
+"as detailed on page 40, are present",Upstream
+,"Regulatory requirements e.g. licenses and levies  SA, Vic"
+throughout the value chain.,
+,"Insurance premiums
+SA, WA, Vic, NZ"
+Physical climate risks will need to be,"Cat 3: Fuel and energy  
+Fuel and energy purchased
+SA, WA, Vic, NZ"
+monitored and managed by Beach at,related activities
+"its operated assets, with acute physical","Cat 4: Upstream 
+Marine transport to support rigs and platforms
+Vic, NZ"
+risks from extreme weather events a,transportation and distribution
+,"Aviation – helicopter services
+Vic"
+consideration across all time horizons.,"Included in Scope 2 emissions
+Electricity for all operations
+SA, WA, Vic, NZ"
+Chronic physical risks arise from longer-,
+,"Cat 9: Downstream 
+Distribution pipelines
+SA, WA, Vic, NZ"
+"term shifts in climatic patterns, so are a",transportation and distribution
+more significant consideration for core,
+,"Cat 10: Processing  
+Processing through gas facility
+WA"
+assets with a longer intended operating life.,"Downstream
+of sold products"
+,"Key customers  
+Wholesale customers for hydrocarbon products  SA, WA, Vic, NZ"
+Transition risks are expected to manifest in,
+,(Cat 11: Use of sold products)
+"increasing operational costs. For example,",
+,"Cat 15: Investments
+Joint ventures
+SA, WA, Vic, NZ"
+"as Safeguard Mechanism obligations,",
+"mandatory reduction targets, and upward",
+pressure on carbon prices are expected to,Figure 3: Scope 3 emissions in FY25
+have a greater impact on core assets.,
+,UPSTREAM
+Transition risks are expected to influence,"Scope 3
+48 ktCO2e
+212 ktCO2e
+2 ktCO2e"
+demand for products and commodity,"Purchased goods and services
+Upstream transportation and distribution
+Employee commuting"
+prices. These impacts are likely to vary,
+,"1 ktCO2e
+149 tCO2e
+266 tCO2e"
+"according to the nature of the product,","Upstream leased assets
+Capital goods
+Waste generated from operations"
+for example demand for gas may increase,
+,"3 ktCO2e
+5 ktCO2e"
+"while demand for oil may decrease,","Business travel
+Fuel and energy related activities"
+depending on factors such as government,
+policies and incentive programs.,BEACH
+,"CORE ASSETS 
+NON-CORE ASSETS 
+PRODUCTS"
+SCOPE 3 EMISSIONS,Scope 1 and 2
+,"Perth Basin, Cooper Basin 
+Otway (SA) Basin, Bass 
+Oil, sales gas, LPG,"
+Scope 3 emissions occur in a company’s,"and Otway (Vic) Basin
+Basin and Taranaki Basin
+condensate and LNG"
+"value chain, from sources not owned or",
+,"Physical risks will need to be managed at operated assets. 
+Transition risks"
+controlled by that company. Upstream,
+,"These risks differ by geographic region.
+may impact demand"
+Scope 3 emissions are considered by Beach,for products and
+to be controllable or can be influenced,"commodity prices.
+Transition risks include increasing"
+by actions taken by the company.,"costs of doing business, which have a"
+,greater impact at larger core assets.
+Downstream Scope 3 emissions are outside,
+Beach’s control. The largest source of non-,
+controllable emissions arises from the end,DOWNSTREAM
+use of sold products.,Scope 3
+,"152 ktCO2e
+126 ktCO2e
+909 ktCO2e
+4,915 ktCO2e"
+,"Transportation and 
+Processing of sold products
+Investments
+Use of sold products"
+
+=== Table 8 (page 41) ===
+In keeping with the principles of,"CLIMATE-RELATED PHYSICAL RISKS
+Opportunities that are more commercial"
+"ISO 31000, climate-related risks are",or contractual in nature are assessed on
+,Climate-related physical risks are those
+integrated within the broader Risk,"a case-by-case basis, following a similar"
+,which result from climate change and can
+"Management Framework, facilitating",methodology.
+,be event-driven (acute) or from longer-
+"a consistent approach to identifying,",
+,term shifts in climatic patterns (chronic).
+,"Projects undergo a cost-benefit analysis,"
+assessing and managing those risks. As,
+,Acute physical risks arise from weather-
+,including the application of an approved
+"with all business risks, the identification",
+,"related events such as storms, floods,"
+,internal carbon price and carbon price
+and assessment of climate-related risk is an,
+,"drought or heatwaves, which are increasing"
+,sensitivities are used to evaluate project
+iterative process that includes all relevant,
+,in severity and frequency. Chronic physical
+,economics and investments where direct
+stakeholders and subject matter experts.,
+,risks arise from longer-term shifts in
+,financial implications arise from carbon
+,climatic patterns including changes in
+Each asset-based and function-based team,emissions. Hurdle rates for investment are
+,precipitation and temperature which
+"is responsible for identifying, quantifying",described in the Investment Framework.
+,"could lead to sea level rise, reduced water"
+and managing the risks that relate to,
+,"availability, biodiversity loss and changes in"
+"its business or area of responsibility,",
+,"Climate risk assessment
+soil productivity."
+including climate risk. Climate risks may,
+,Climate change presents a range of risks
+be standalone or sit under other business,
+,Beach examines acute and chronic
+,and opportunities that may influence
+"units, with climate as a driver.",
+,physical risks as distinct categories.
+,Beach. The risks associated with climate
+,"Across the climate scenarios considered,"
+Climate risks are identified and assessed,
+,"change are considered over short-,"
+,the physical risks due to climate change
+using an impact and exposure methodology,
+,"medium- and long-term time horizons,"
+,increase over time. The exposure for each
+that considers both potential consequences,
+,as described in Figure 5.
+,asset varies depending on the location
+and likelihood of occurrence.,
+,"and proposed end of field life date. It is 
+In FY25, Beach conducted a review"
+"Once identified, material risks are reported",noted that the physical risks due to climate
+,of the climate risk assessment.
+"twice yearly to the Executive team, the","change increase over time, becoming more"
+Audit and Risk Committee and the Board,significant over the medium- and long-term
+,CLIMATE-RELATED TRANSITION RISKS
+together with the strategies developed to,time horizons.
+,Climate-related transition risks are those
+effectively control or mitigate them. Should,
+,"which arise from efforts to transition to a 
+Asset-level physical risk assessments"
+"it be required, ad hoc escalation of risks to",
+,"lower-carbon economy. Transition risks 
+consider changing climate patterns,"
+the Executive team or the Board occurs in,
+,"include policy, legal, technological, market 
+extreme weather events, and their potential"
+routine business reporting.,
+,"and reputational risks. Beach’s transition 
+impacts on Beach infrastructure, operations"
+Climate-related risks that have been,"risks are shown in Table 2.
+and supply chain. Each asset has a different"
+identified are also subject to review on,risk profile based on physical exposures.
+at least an annual basis and will be,The most significant long-term acute
+reassessed if and when a significant risk,physical risks for each asset are indicated
+event has occurred or there has been a,in Figure 6.
+"significant change in the context, such",
+as introduction of a new climate-related,
+regulation or a substantial change in the,
+operating asset base.,
+Beach’s Corporate Risk Management,
+Standard requires that each risk have an,
+,Figure 5: Time horizons for climate risk assessment
+executive sponsor and an owner with,
+accountability for day-to-day management,"Each year, Beach sets an annual emissions reduction target"
+"of the risk, including monitoring risk","for the coming year. This cadence reflects the annual business 
+Short term"
+,"planning and budgeting cycle. The annual target is aligned with 
+Now – 2027"
+controls and their effectiveness.,
+,the 2030 target.
+OPPORTUNITY MANAGEMENT APPROACH,
+,"Due to the scale and complexity of Beach’s facilities and operations,"
+Beach assesses opportunities which,
+,"projects often take several years to implement, from FEED through to FID,"
+"require capital investment, including",
+,and then construction and commissioning. Beach conducts medium-term
+"those related to climate, according to",
+,business planning with a rolling five-year outlook.
+,Medium term
+the Capital Assurance Framework and,
+,"2028 – 2036
+Beach’s existing target of 35% reduction in equity emissions intensity"
+associated governance instruments. This,
+,"(Scope 1 and 2 emissions) by 2030, from a 2018 baseline, is a"
+comprehensive project evaluation process,
+,medium-term target. It falls within the envelope of pathways to limit
+"incorporates financial viability, corporate",
+,warming to 2˚C.
+"strategy, environmental and social impact",
+and compliance with regulations.,
+,"Beach’s 2050 net zero Scope 1 and 2 emissions ambition is aligned 
+Long term"
+,"with the objectives of the Paris Agreement.
+2037 – 2050"
+
+=== Table 9 (page 54) ===
+,Unit,FY25,FY24,FY23,FY22
+National Pollutant Inventory reported data(8),,,,,
+Carbon monoxide,kg,N/R,"607,287","710,000","910,000"
+Hexane,kg,N/R,"14,684","14,150","160,000"
+Oxides of nitrogen (NOx),kg,N/R,"1,799,746","1,000,000","2,200,000"
+Particulate matter diameter <2.5 µm,kg,N/R,"78,894","53,000","110,000"
+Particulate matter diameter <10.0 µm,kg,N/R,"80,606","56,000","110,000"
+Polycyclic aromatic hydrocarbons,kg,N/R,0.36,1.3,0.40
+Sulphur dioxide (SOx),kg,N/R,"2,014","1,300","26,000"
+Total volatile organic compounds,kg,N/R,"410,233","3,269,630","3,300,000"
+Air emissions,kg,N/R,"4,399,317","11,828,992","6,930,029"
+Land emissions,kg,N/R,"80,665","91,837","151,180"
+Water emissions,kg,N/R,802,"2,734",0
+Waste(9),,,,,
+Hazardous,t,886,499,924,"1,743"
+Non-hazardous,t,"1,718","1,517(10)",567,678
+Total,t,"2,604","2,016","1,491","2,421"
+Produced water,,,,,
+Total,GL,18.3,18.5,25.2,18.8
+Community engagement and investment(11),,,,,
+Community investment by Beach – Australia,$m,1.65,2.06,1.511,3.93
+Community investment by Beach – New Zealand,$m,0.29,0.30,0.146,0.2
+Total community investment by Beach,$m,1.94,2.36,1.656,4.12
+Joint venture partner community investment,$m,0.76,0.68,0.331,N/R
+Indigenous participation,,,,,
+Indigenous cultural awareness training attendances,no.,49,104,321,N/R
+(Australia and New Zealand)(12),,,,,
+Indigenous procurement spend(13),$m,0.21,1.9,0.97,N/R
+Greenhouse gas emissions,,,,,
+Equity Scope 1 and 2 emissions intensity,tCO2e /TJ production,8.6,10.5,10.5,10.3
+Methane intensity – operated facilities,m3 CH4/m3 production,0.05,0.08,N/R,N/R
+Estimated Scope 3 emissions,MtCO2e,6.38,6.29,6.22,7.15
+Australia(14),,,,,
+Scope 1 emissions,tCO2e,"537,493","454,415","436,110","435,738"
+Scope 2 emissions,tCO2e,"21,194","17,726","18,199","19,471"
+Net energy consumption,GJ,"5,624,735","6,768,556","6,699,043","4,555,104"
+Gross energy consumption,GJ,"87,508,818","58,925,758","62,904,324","56,642,528"
+New Zealand (reported on calendar year)(15),,,,,
+Scope 1 emissions,tCO2e,"89,238","86,749","102,867","133,771"
+Scope 2 emissions,tCO2e,"5,238","5,332","9,901","12,734"
+
+=== Table 10 (page 55) ===
+and 2 below:,,,
+Table 1: Quantitative Subject Matter,,,"O
+ther than as described in the preceding paragraphs,"
+Performance data and disclosures,Unit,Value,"which set out the scope of our engagement, we did not"
+"Diversity, equity and inclusion",,,perform assurance procedures on the remaining
+Ratio of males to females at the 'Board' level,,71:29,"information included in the Report, and accordingly, we"
+,,,do not express an opinion or conclusion on this
+Ratio of males to females at the 'Chief Executive,,,
+,,100:0,
+Officer (CEO)' level,,,information.
+Ratio of males to females at the 'Key,,,
+,,57:43,
+Management Personnel (KMP)' level,,,
+,,,Criteria applied by Beach Energy Limited
+Ratio of males to females at the 'other executive,% (M:F),,
+,,87:13,
+and general manager' level,,,
+,,,"In preparing the selected disclosures, Beach Energy Limited"
+Ratio of males to females at the 'senior manager',,,
+,,80:20,applied the following Criteria:
+level,,,
+Ratio of males to females at the 'other manager',,,
+,,88:13,"Workplace Gender Equality Act 2012 
+▪"
+level,,,
+"Health, safety and environment",,,
+,,,"AASB124: Related party disclosures 2023 
+▪"
+Tier 1 process safety events,,0,
+,no.,,
+,,,"Informed by GRI 405: Diversity and Equal Opportunity 
+▪"
+Tier 2 process safety events,,1,
+,,,2016
+Waste collected,,,
+Hazardous waste,,886,
+,t,,In preparing disclosures in relation to Safety
+Non-hazardous waste,,"1,718",
+,,,"American Petroleum Institute (API) Recommended 
+▪"
+Produced water,,,
+,,,"Practice (RP), Process Safety Performance Indicators"
+Total produced water production,GL,18.3,
+,,,"for the Refining and Petrochemical Industries, Third"
+Community engagement and investment,,,Edition 2021
+Community investment by Beach – Australia,,1.65,
+,,,"Informed by GRI 403: Occupational Health and Safety 
+▪"
+Community investment by Beach – New Zealand,,0.29,2018
+,$m,,
+Total community investment by Beach,,1.94,
+Joint venture partner community investment,,0.76,In preparing disclosures related to Community Investment
+Indigenous participation,,,"Business for Societal Impact (B4SI) Framework 
+▪"
+Indigenous cultural awareness training,,,Community Investment Guidance Manual 2020
+,no.,49,
+attendances (Australia and New Zealand),,,
+Indigenous procurement spend,$m,0.21,
+,,,In preparing disclosures in relation to Greenhouse Gas
+Greenhouse gas (GHG) emissions,,,Emissions
+FY24 Australian total scope 1 GHG emissions,,"454,415",
+,,,"National Greenhouse and Energy Reporting Act 2007  
+▪"
+,tCO2-e,,
+FY24 Australian total scope 2 GHG emissions,,"17,726",
+,,,"National Greenhouse and Energy Reporting Regulations 
+▪"
+,,,2008 (the “NGER Regulations”)
+
+=== Table 11 (page 98) ===
+,"or complexity, or areas where assumptions and estimates are"
+"shares, incorporated in Australia and whose shares are publicly",
+,material to the financial statements are found in the following
+listed on the Australian Securities Exchange (ASX). The nature,
+,notes:
+of the Group’s operations are described in the segment note. The,
+consolidated general purpose financial report of the Group for,Note
+the financial year ended 30 June 2025 was authorised for issue in,"2
+Revenues from contracts with customers and other income"
+accordance with a resolution of the directors on 4 August 2025.,
+,"3
+Expenses"
+This general purpose financial report:,"5
+Taxation"
+,"9
+Petroleum assets"
+•  Has been prepared in accordance with Australian Accounting,
+Standards and other authoritative pronouncements of the,"10
+Exploration and evaluation assets"
+Australian Accounting Standards Board and the Corporations,"11
+Intangible assets"
+Act 2001. The financial statements comply with International,"13
+Provisions"
+Financial Reporting Standards (IFRS) as issued by the,
+,"14
+Leases"
+International Accounting Standards Board.,
+•  Has been prepared on a going concern and accruals basis and,
+,Climate change
+"is based on the historical cost convention, except for derivative",
+"financial instruments, contingent consideration and other","In preparing the Financial Report, management has considered the"
+financial instruments that have been measured at fair value.,impact of climate change and current climate-related legislation.
+,Beach is committed to managing climate risk and delivering a
+"• 
+Is presented in Australian dollars with all amounts rounded to",
+,sustainable business model in a low-carbon world. Beach reports
+"the nearest hundred thousand dollars unless otherwise stated,",
+,"on its climate strategy, annual emissions and emissions targets in"
+in accordance with ASIC (Rounding in Financial/Directors’,
+,the Sustainability Report which Beach has published annually since
+Reports) Instrument 2016/191 issued by the Australian,
+,2017.
+Securities and Investment Commission.,
+•  Has been prepared by consistently applying all accounting,"This year, the Sustainability Report comprises a Climate"
+"policies to all the financial years presented, unless otherwise",Statement and a Sustainability Update. This format is informed
+stated.,by the forthcoming requirements of the Australian Sustainability
+,Reporting Standards (ASRS) and is part of Beach’s preparations for
+"• 
+The consolidated financial statements provide comparative",
+,commencement of mandatory ASRS reporting from FY26.
+information in respect of the previous period. Where there,
+has been a change in the classification of items in the financial,
+,The Climate Statement outlines the progress made to date and
+"statements for the current period, the comparative for the",
+,the decarbonisation goals which have been set to align with the
+previous period has been reclassified to be consistent with the,
+,intent of the Paris Agreement. It includes a target of 35% equity
+classification of that item in the current period.,
+,emissions intensity reduction by 2030 (2018 base) and a net zero
+,scope 1 and 2 emissions ambition by 2050.
+
+=== Table 12 (page 112) ===
+9. Petroleum assets continued
+The recoverable amount of an asset or CGU is determined as the higher of its value in use and fair value less costs of disposal. Value
+in use is determined by estimating future cash flows based on reserves and in some cases resources after taking into account the risks
+specific to the asset and discounting it to its present value using an appropriate discount rate. Fair value less costs of disposal also
+considers value attributable to additional resource and exploration opportunities beyond reserves based on production plans as well as
+"costs of disposal. If the carrying amount of an asset or CGU exceeds its recoverable amount, the asset or CGU is written down and an"
+"impairment loss is recognised in the statement of profit or loss. For assets previously impaired, if the recoverable amount exceeds the"
+"carrying amount and the indicators driving the increase in value are sustained for a period of time, the impairment loss is reversed, except"
+"in relation to goodwill. The carrying amount of the asset or CGU is increased to the revised estimate of its recoverable amount, but only"
+"to the extent that the asset’s carrying amount does not exceed the carrying amount that would have been determined, net of depreciation"
+"or amortisation, if no impairment loss had been recognised."
+"Future cash flow information used for the recoverable amount calculations is based on the Group’s latest reserves, budget, five-year plan"
+and economic life of field plans which includes information sourced and reviewed from operators of our non-operated interests.
+The impact of the Safeguard Mechanism through either a carbon price or earning of SMCs on Beach facilities depending on emissions
+relative to their baseline and the earning of ACCUs on Beach’s interest in the Moomba carbon capture and storage project have been
+included as part of the recoverable amount calculations for each CGU where applicable. The actual and proposed investments required to
+deliver the Group’s emissions target of a 35% emissions intensity reduction by 2030 (against 2018 levels) for Scope 1 emissions as well
+as the ability to pass through any carbon costs incurred to customers are also included as part of the recoverable amount calculations for
+each applicable CGU. Beach continues to monitor the uncertainty around climate change risks and will reassess its assumptions as the
+energy transition progresses.
+Current climate change legislation is also factored into the calculation and future uncertainty around climate change risks continue to be
+monitored. These risks may include a proportion of a CGU’s reserves becoming incapable of extraction in an economically viable fashion;
+"demand for the Group’s products decreasing, due to policy, regulatory (including carbon pricing mechanisms), legal, technological,"
+market or societal responses to climate change and physical impacts related to acute risks resulting from increased severity of extreme
+"weather events, and those related to chronic risks resulting from longer-term changes in climate patterns."
+The value in use calculation for the Cooper Basin CGU includes a risked view of contingent resources that is expected to be converted to
+reserves based on a history of production and resource conversions over a significant period of time with the development cost of these
+resources included into the NPV calculation and in line with long term asset plans for the ongoing realisation of value from the asset.
+This is assessed against a carrying value including additional exploration transfers to development aligned to these projected resource
+conversions.
+IMPAIRMENT AND IMPAIRMENT REVERSAL INDICATOR MODELLING
+"In determining whether there is an indicator of impairment, in the absence of quoted market prices, estimates are made regarding the"
+present value of future cash flows for each CGU. These estimates require significant management judgement and are subject to risk and
+uncertainty and hence changes in economic conditions can also affect the assumptions used and the rates used to discount future cash
+"flow estimates. In most cases, the present value of future cash flows is most sensitive to the assumptions outlined below."
+"For impairment reversals, the present value of future cash flows are considered using lower oil price scenarios based on a Monte-Carlo"
+"simulation of Reuters Mean and a 10% reduction in life of asset production, assuming production loss under a long-term oil-price"
+constrained environment.
+
+=== Table 13 (page 146) ===
+Word/acronym/other,Definition,Word/acronym/other,Definition
+Process Safety Event,Unplanned or uncontrolled loss of primary,TRIFR,Total recordable injury frequency rate
+,containment (LOPC) of any material including,,
+,,TFR,Total fixed remuneration
+,non-toxic and non-flammable materials from a,,
+,"process, or an undesired event or condition.",Turnover Rate,Rate at which employees leave the Company
+,,,in a given fiscal year
+,Process safety events are classified as Tier 1 (loss,,
+,of primary containment of greatest consequences),μm,Micron
+,or Tier 2 (loss of primary containment of lesser,,
+,,Udacha Block,PRL 26
+,consequence) as defined by American Petroleum,,
+,,Unabated Emissions,Emissions that result if no action is taken
+,Institute Recommended Practice 754.,,
+,,,to reduce them
+Produced water,Water that enters Beach's boundary as a result of,,
+,,US$,Unites States dollar
+,"extraction, such as during crude oil production, or oil",,
+,"and gas exploration and development, and must be",Value Chain,The whole sequence of activities that occur
+,managed by Beach.,,upstream and downstream of the reporting
+,,,company
+PRRT,Petroleum Resources Rent Tax,,
+,,Vented Hydrocarbon,Intentional controlled release of uncombusted gas
+Q(4) (FY25),(Fourth) quarter period of (FY25),,
+,,"Victorian Otway Basin Produces gas from licences VIC/L1(V), which",
+Qtr,Quarter,,
+,,,"contain the Halladale, Black Watch and Speculant"
+RAP,Reconciliation Action Plan,,
+,,,"nearshore gas fields, VIC/L007745(V), which"
+ROC,Return on capital,,"contains the Enterprise gas field, and licences"
+,,,"VIC/L23, T/L2, T/L3 and T/L4 which contain the"
+SACB JV,"South Australian Cooper Basin Joint Ventures, which",,
+,,,Geographe and Thylacine offshore gas fields. Beach
+,"includes the Fixed Factor Area (Beach 33.4%, Santos",,
+,,,also holds non-producing offshore licences VIC/
+,66.6% and operator) and the Patchawarra East,,
+,,,"L35, VIC/L36, T/30P, T/50P VIC/P42(V), VIC/P43,"
+,"Block (Beach 27.68%, Santos 72.32% and operator)",,
+,,,VIC/P73 and VIC/P007192(V)
+SA,South Australia reporting segment,,
+,,WA,Western Australia reporting segment
+Santos,Santos Limited and its subsidiaries,,
+,,WAC,Work Area Clearance
+Scope 1,Greenhouse gas emissions that are released into the,,
+,,Waitsia,"Waitsia Gas Project (Beach 50%, MEPAU 50% and"
+,"atmosphere as a direct result of an activity, or series",,
+,,,operator) produces gas from the onshore Waitsia
+,of activities at a facility level. Scope 1 emissions are,,
+,,,gas field in the Perth Basin in licence L 1/L 2
+,sometimes referred to as direct emissions,,
+,,Webuild,Webuild SPA
+,"Beach’s Scope 1 emissions include fuel combustion,",,
+,"flaring, venting, CO2 removal and fugitive emissions",Western Flank Gas,Comprises gas production from ex PEL 91 and 106
+,from its operated facilities,,(Beach 100% and operator)
+Scope 2,Greenhouse gas emissions that are released into,Western Flank Oil,Comprises oil production from ex PEL 91 (Beach
+,the atmosphere from the indirect consumption of,,"100% and operator), ex PEL 92 (Beach 75% and"
+,"an energy commodity. For example, emissions from",,"operator, Cooper Energy 25%) and ex PEL 104/111"
+,the use of electricity produced by the burning of coal,,(Beach 100% and operator)
+,in another facility,,
+,,WesTrac,WesTrac Pty Limited
+Scope 3,Indirect greenhouse gas emissions other than,,
+,,YEJ(25),30 June (2025)
+,Scope 2 emissions that are generated in the wider,,
+,economy. They occur as a consequence of the,,
+,"activities of a facility, but from sources not owned",,
+,or controlled by that facility’s business,,
+Seven West Media,Seven West Media Limited,,
+SGH,Seven Group Holdings Limited,,
+Significant Spills,Spills that are included in the organisation’s financial,,
+,"statements, for example, due to resulting liabilities",,
+SMC,Safeguard Mechanism Credit unit,,
+SPA,Sale and Purchase Agreement,,
+SPE,Society of Petroleum Engineers,,
+STI,Short term incentive,,
+Supply Chain,The upstream component of the value chain,,
+SWQ JV,"South West Queensland Joint Ventures,",,
+,incorporating various equity interests (Beach,,
+,"30-52.5%, Santos operator)",,
+Tcf,Trillion cubic feet,,
+TFR,Total fixed remuneration,,
+TJ,Terajoule,,

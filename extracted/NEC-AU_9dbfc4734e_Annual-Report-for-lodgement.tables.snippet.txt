@@ -1,0 +1,798 @@
+=== Table 1 (page 17) ===
+Effects of identified risks on Nine’s business model as well as the concentration and mitigation,,,,,
+,Risk/,,,Mitigation strategy,Time
+,Opportunity,Topic,Nature,or adaption efforts,Horizon
+of those risks identified,,,,,
+,Risk,High digital energy use,The energy-intensive nature of ad,Nine will aim to:,Short-term
+The following table outlines the climate-related risks and opportunities assessed as relevant to the Group.,,,,,
+,,"(e.g. programmatic ads,",tech and cloud services can result in a,― understand and measure emissions,to Medium-
+,(Transition),,,,
+"As Nine is currently in the process of assessing relevant strategies, including the nature and extent of climate-related",,streaming),significant carbon footprint due to the vast,,term
+,,,,from various digital energy sources,
+,,,data and technology centers required,"(programmatic ad delivery, video",
+"targets, based on the recent GHG emission assessments performed for FY25, the strategies presented below are",,,,,
+,,,for processing and serving ads and data,"streaming, web traffic etc.).",
+"in a preliminary stage of development, with the Group intending to further develop these strategies in FY26.",,,"transmission, leading to scrutiny",,
+,,,,― review hosting and streaming partners,
+,,,"of digital emissions, regulatory pressure,",,
+,,,,to determine climate credentials and,
+,,,impact to advertiser demand and,,
+,,,,incorporate green credentials into,
+,,,investor sentiment.,,
+"Risk/
+Mitigation strategy  
+Time",,,,vendor selection policies.,
+"Opportunity
+Topic
+Nature
+or adaption efforts
+Horizon",,,,― review processes to ensure ad delivery,
+,,,,is optimised for efficiency,
+"Resilience to extreme 
+If governments and organisations fail to 
+Nine will ensure asset exposure to flood 
+Short-term 
+Risk",,,,,
+,,,,― monitor regulatory developments,
+"weather events 
+adequately respond to climate change, 
+or high temperature risks is regularly 
+to Long-
+(Physical)",,,,,
+,,,,regarding digital emissions to ensure,
+"we are likely to see an increase in 
+monitored with necessary resilience plans 
+term",,,,,
+,,,,proactive compliance,
+"physical climate risk, such as extreme 
+developed.",,,,,
+weather events.,,Savings from energy,There is an opportunity for Nine,Nine is exploring options to move more,Short-term
+,Opportunity,,,,
+Extreme weather events have the capacity,,efficiencies,to implement energy efficiency,of the Group’s operations to be digitally,
+"to significantly impact operating sites,",,,improvements to Nine controlled,based to reduce business travel and fuel,
+broadcasting assets and productions.,,,"buildings, operations and behaviours",consumption.,
+This may result in operational interruption,,,"which will likely enable energy, fuel",Nine is currently in the process,
+resulting in delay in delivering news and,,,and cost savings. This also provides an,of assessing and improving property,
+"current affairs, content, meeting consumer",,,opportunity to develop innovative and,utilisation analysis to better optimise,
+"contracts, adverse impact on property",,,efficient ways to produce and deliver,use of space.,
+operations and other unforeseen costs.,,,content. These changes can also improve,,
+,,,"our resilience and reduce costs, as well as",,
+"Increased costs in 
+Local and international net zero and 
+Nine is in the process of finalising and 
+Medium-
+Risk",,,,,
+,,,opening new creative opportunities.,,
+"the transition to a low 
+low carbon economy commitments will 
+implementing scope 1 and scope 2 
+term",,,,,
+(Transition),,,,,
+,,,This will lead to a reduction in direct,,
+"carbon world
+likely result in increased costs as part 
+emission reduction programs to develop",,,,,
+,,,costs from reduced energy consumption,,
+"of the transition. Furthermore, carbon 
+an overall cost profile and forecast to",,,,,
+,,,"across Nine, shifting to a more sustainable",,
+"emissions taxation is being imposed by 
+understand the full extent of the impact",,,,,
+,,,"energy and fuel types, as well as focusing",,
+"more countries to both limit and reduce 
+of the transition to a low carbon world.",,,,,
+,,,on innovative ways to produce and deliver,,
+"carbon intensive activities causing climate 
+Nine is also in the process of partnering",,,,,
+,,,programs and content.,,
+"change.
+with relevant suppliers to understand and",,,,,
+"Consequently, Nine may be exposed to 
+address emissions reductions as well as",,All disclosed risks and opportunities did not have a material impact in FY25 and are not expected to have a material impact on FY26,,,
+"increased costs of operating in all areas 
+the financial impacts of adapting to low",,,,,
+"of our business. This could come from 
+carbon alternatives.",,,,,
+"increased environmental regulation,",,,,,
+"carbon pricing or emissions taxation,",,,,,
+investment in low carbon processes and,,,,,
+"technologies, as well as throughout our",,,,,
+"supply chain. In addition, shifts in supply",,,,,
+and demand due to climate related,,,,,
+impacts may result in Nine not being,,,,,
+able to source higher cost materials for,,,,,
+production.,,,,,
+"Shifting public 
+The advertising market continues to shift 
+Nine aims to perform the following:
+Medium-
+Risk",,,,,
+"perception including 
+to the promotion of low-carbon products 
+term to 
+ ― Continuously monitor the regulatory",,,,,
+(Transition),,,,,
+"consumer preferences 
+and sustainable communications with 
+Long-term
+landscape for developments or shifts.",,,,,
+"in the advertising 
+increased pressure from government and",,,,,
+― Continue to work with advertisers to,,,,,
+"sector and investor 
+regulators, as well as customers, such as",,,,,
+seek out alternative options to replace,,,,,
+"sentiment
+agencies and brands within the industry,",,,,,
+"lost revenue, and monitor the share of",,,,,
+resulting in lost revenue.,,,,,
+our advertising revenue that is aligned,,,,,
+"Furthermore, given the emergence of 
+with Nine's climate targets.",,,,,
+customer and stakeholder expectations,,,,,
+"― Engage with stakeholders, including",,,,,
+"on climate and nature related issues,",,,,,
+"investors and customers, on an",,,,,
+there is an increasing need to carefully,,,,,
+ongoing basis to understand and meet,,,,,
+balance our preparation and responses,,,,,
+public perception and expectations.,,,,,
+as a business. This has the potential to,,,,,
+"impact revenue and investment, along",,,,,
+with shareholder activism regarding,,,,,
+perceived inaction on key ESG areas,,,,,
+(e.g. climate change).,,,,,
+
+=== Table 2 (page 18) ===
+GHG 2025 Results,FY25 GHG Emissions,A breakdown of the Group’s Scope 3 GHG emissions for FY25 are as follows:
+"In FY25, Nine quantified the Group’s GHG inventory with",Nine’s FY25 operational GHG emissions are as follows:,
+,,"Upstream  
+Calculation  
+FY25 GHG Emissions"
+the results of this exercise to be used in the Group’s,,"Scope
+Category
+/ Downstream
+Category Name
+Method"
+,GHG emissions (million metric tonnes of CO2-e),(t.CO2-e)1
+assessment of climate-related target setting and GHG,,"Scope 1
+–
+Direct operations
+Fleet fuel (diesel)
+Direct
+ 560"
+,"Indicator
+FY25 (t.CO2-e)",
+emissions monitoring going forwards.,,
+,,"Scope 1
+–
+Direct operations
+Fleet fuel (petrol)
+Direct
+ 470"
+,"Scope 1 Emissions
+1,573",
+Control Assessment,,"Scope 1
+–
+Direct operations
+Combustion of LPG onsite
+Direct
+ 6"
+,"Scope 2 (location-based)
+14,784",
+,,"Scope 1
+–
+Direct operations
+Combustion of natural gas onsite
+Direct
+ 5"
+Nine reports scope 1 and 2 emissions under a control,"Total Scope 1 & 2
+16,357",
+,,"Scope 1
+–
+Direct operations
+Fugitive emissions (refrigerants)
+Hybrid
+ 532"
+"approach, using operational control criteria, for the","Scope 3
+473,826",
+purposes of calculating the Group’s GHG emissions.,,"Scope 2
+–
+Direct operations
+Purchased electricity
+Location based
+ 14,784"
+,"Total
+490,183",
+The Group believes that the use of the operational control,,"Scope 3
+1
+Upstream
+Purchased goods and services
+Indirect
+ 81,682"
+,Scope 1 GHG Emissions,
+approach is the most appropriate method to measure the,,
+,,"Scope 3
+2
+Upstream
+Capital goods
+Indirect
+ 13,642"
+"Group’s GHG emissions, considering that there are entities",Scope 1 GHG emissions make up <1% of the Group’s total,
+,,"Scope 3
+3
+Upstream
+Fuel-related and energy-related activities
+Direct
+1,701"
+and assets outside the Group’s financial reporting group,FY25 GHG emissions. Scope 1 emissions refer to the direct,
+,,"Scope 3
+4
+Upstream
+Upstream transportation and distribution
+Hybrid
+ 37,796"
+over which it has operational control.,GHG emissions that occur from sources owned or,
+,,"Scope 3
+5
+Upstream
+Waste generated in operations
+Hybrid
+525"
+,controlled by the Group. Scope 1 direct emissions primarily,
+The Group is considered to have operational control over,,
+,,"Scope 3 
+6
+Upstream
+Business travel
+Hybrid
+ 10,405"
+,"comprise petrol and diesel used in our fleet vehicles,",
+an asset or operation where Management has the authority,,
+,,"Scope 3
+7
+Upstream
+Employee commute
+Indirect
+ 4,368"
+,natural gas used for hot water and heating in some,
+to introduce and implement operating policies in respect,,
+,,"Scope 3
+8
+Upstream
+Upstream leased assets
+Hybrid
+ 2,348"
+,"operational locations, and fugitive emissions from",
+of the day-to-day operation of the business or assets.,,
+,refrigerants used in mechanical systems at our facilities,"Modelled
+302,528 
+Scope 3
+11
+Downstream
+Use of Sold Products2"
+This approach enables the Group to focus on emissions,,
+,(HVAC).,"Scope 3
+12
+Downstream
+End-of-life treatment of sold products
+Modelled
+ 11,640"
+from assets/operations where Management has the ability,,
+,,"Scope 3
+15
+Downstream
+Investments
+Indirect
+7,191"
+to operate the related assets and therefore influence,Scope 2 GHG Emissions,
+"emissions, notwithstanding the legal ownership of an",,"Total
+490,183"
+,Scope 2 GHG emissions make up approximately 3%,
+"asset. For example, where the Group controls the power",,"1. 
+Excludes Domain Group"
+,of the Group’s total FY25 GHG emissions. Scope 2,
+supply of the asset and we pay the energy retailer directly.,,"2.  These emissions relate to electricity used by end users when viewing Nine content on personal devices, such as TVs, computers and mobile phones."
+,emissions refer to indirect GHG emissions from the,
+,,Nine does not produce or control the devices used to access its content and has limited influence over how content is accessed or energy is consumed.
+For those assets where Nine does not have operational,,
+,generation of electricity acquired and consumed by the,
+"control, these operations are included within our Scope 3",,
+,"Group. This includes offices, studios, data rooms and",
+emissions inventory.,,"These principles have been applied throughout. Emissions 
+Basis of Preparation"
+,transmitter locations.,
+,,are reported in tonnes of carbon dioxide equivalent
+Given the proposed disposal of Nine’s investment in,,Scope and Emissions Reporting Approach
+,Scope 3 GHG Emissions,
+,,"(tCO₂-e), covering all greenhouse gases recognised under"
+"Domain, Nine has not consolidated Domain’s FY25",,
+,,"This Basis of Preparation outlines the methodology,"
+,Scope 3 emissions refer to indirect GHG emissions that,"the Kyoto Protocol, with all values expressed as CO₂-e"
+GHG emissions within the Group’s FY25 reported,,
+,,"boundaries, data sources, and assumptions used to"
+,"occur throughout the Group’s value chain, outside of its",using 100-year global warming potentials (GWPs).
+GHG emissions.,,
+,,compile Nine Entertainment’s GHG emissions inventory
+,direct operational control. The Group has included all,
+,,Scope 1 and 2 emissions are measured by either internal or
+"As a result, the below climate-related disclosures have",,for the financial year from 1 July 2024 to 30 June 2025
+,relevant Scope 3 categories following a materiality,
+,,"external data sources, factoring in the uncertainty measurement"
+been prepared for the same consolidated reporting entity,,(FY25). It supports transparency and replicability in the
+,assessment of the 15 categories established by the GHG,
+,,and data quality (as detailed in the table below).
+and reporting period as the Group’s Consolidated Financial,,quantification and reporting of emissions and serves as a
+,Protocol. These categories are reviewed whenever there,
+Statements (refer to Note 6.3 Basis of Consolidation in the,,"reference document for internal and external stakeholders.
+Scope 3 emissions combine direct measurement and"
+,is a significant event or change in circumstances that,
+"financial statements), adjusted to remove Domain Group",,"estimates, where necessary. The Group prioritises inputs"
+,affects the Group’s value chain.,
+,,The emissions reporting approach undertaken by
+and its subsidiaries and include the AdventureTV Pty Ltd,,and assumptions based on the Scope 3 measurement
+,,Nine Entertainment for its FY25 GHG Emissions Report
+,"In FY25, over 96% of the Group's emissions came",
+joint venture which Management has determined the,,framework within AASB S2. The GHG Protocol: Corporate
+,,aligns with the GHG Protocol Corporate Accounting
+,"from Scope 3 sources, with the majority attributable",
+Group has operational control over.,,Value Chain (Scope 3) Accounting and Reporting Standard
+,,"and Reporting Standard (2004), which represents a step"
+,to Use of Sold Products (C11) (62%) and Purchased,
+,,(2011) establishes 15 categories of Scope 3 emissions
+,,towards Nine's efforts to prepare its first sustainability
+,Goods and Services (C1) (17%).,
+,,"sources, divided into ‘Upstream’ and ‘Downstream’"
+,,report in accordance with AASB S2 in FY26. The GHG
+,,emissions. The Upstream emissions are classified as
+,,"Protocol promotes the principles of relevance,"
+,,indirect GHG emissions related to goods and services
+,,"completeness, consistency, transparency, and"
+,,"purchased or acquired for use by the Group, being"
+,,accuracy by guiding organisations to:
+,,"divided into eight categories. The downstream emissions,"
+,,"―
+establish an organisational and operational boundary"
+,,"meanwhile, are related to goods and services that are"
+,,(determine which businesses and assets are to be
+,,"provided by the reporting organisation (the Group), being"
+,,included within scope)
+,,divided into seven categories.
+,,"―
+set an emissions boundary (identify relevant emission"
+,,The Group currently estimates certain Scope 3 emission
+,,sources within the organisational boundary)
+,,categories using methodologies that rely on industry
+,,"―
+calculate emissions (using appropriate activity data,"
+,,assumptions as opposed to supplier or customer specific
+,,"calculation methodologies, and emissions factors)"
+,,data as reflected in “Calculation Method” in the table above.
+,,"―
+report assumptions (to ensure transparency and"
+
+=== Table 3 (page 19) ===
+Calculation methods include:,Emissions Boundary,The emissions inventory accounts for all greenhouse
+,,"gases covered under the Kyoto Protocol, including:"
+,"To determine the emissions boundary, Nine undertook",
+― Direct: based on consumption invoices such as on-site,,
+,"a To determine the emissions boundary, Nine undertook",
+"fuel, electricity or waste tracking",,― Carbon dioxide (CO₂)
+,a materiality assessment. This assessment considered,
+"―
+Indirect: calculated using secondary data such as",,― Methane (CH₄)
+,"the magnitude of emissions, data availability and quality,",
+"spend, revenue or sector averages",,
+,,― Nitrous oxide (N₂O)
+,"stakeholder expectations, and Nine’s influence over",
+― Hybrid: integrates directly measured data with,,
+,,― Hydrofluorocarbons (HFCs)
+,emissions.,
+estimates or values derived from indirect calculations,,
+,,"―
+Perfluorocarbons (PFCs)"
+,The following emission sources were included and,
+― Modelled: based on specific activity metrics like,,
+,,"―
+Sulphur hexafluoride (SF₆)"
+,quantified in the FY25 inventory:,
+"usage rates or viewership, this data incorporates",,
+,,― Nitrogen trifluoride (NF₃)
+standardised assumptions or industry-average,SCOPE 1 – DIRECT EMISSIONS,
+emission factors.,― Combustion of LPG onsite,"However, for consistency and comparability, all emissions"
+,,are expressed and reported in carbon dioxide equivalent
+,― Combustion of natural gas onsite,
+Organisational and Operational Boundary,,
+,,(CO₂-e) using 100-year Global Warming Potentials (GWPs).
+,― Combustion of fuels in company-owned vehicles,
+Nine Entertainment has applied the operational control,,
+,,"In line with AASB S2 guidance, for emissions calculated"
+approach to define its organisational boundary. This,"―
+Fugitive emissions from refrigerants",
+,,"from raw greenhouse gas quantities, such as refrigerants,"
+includes all facilities and activities over which Nine has full,,
+,SCOPE 2 – INDIRECT EMISSIONS,the latest IPCC assessment (AR6) was used. For all other
+"authority to implement operational, health and safety, and",,
+,"―
+Purchased electricity (location-based)","sources, the GWPs embedded in the most recent relevant"
+environmental policies. The boundary encompasses,,
+,,"emissions factor sets, including the Australian National"
+,SCOPE 3 – VALUE CHAIN EMISSIONS,
+"operations across Broadcasting, Publishing, Stan and",,
+,,"Greenhouse Accounts Factors (2024), were applied."
+Corporate.,― Category 1: Purchased goods and services,
+,,Emission Factor References
+,― Category 2: Capital goods,
+"The operational boundary includes all direct (Scope 1),",,
+,,The Group follows the directives of the GHG Protocol
+"indirect (Scope 2), and relevant value chain (Scope 3)",― Category 3: Fuel and energy-related activities,
+,,in its selection of the emissions factors adopted in the
+emission sources. A total of 94 sites were identified within,― Category 4: Upstream transportation and distribution,
+,,calculation of the inventory. The following published
+"the operation boundary in FY25, including:",,
+,― Category 5: Waste generated in operations,
+,,sources were used for the selection of emissions factors
+― Controlled sites: 40,― Category 6: Business travel,
+,,datasets:
+― Non-controlled sites: 55,― Category 7: Employee commuting,
+,,"―
+(NGAF 2024): Department of Climate Change, Energy,"
+All sites are located in Australia with the exception of one,― Category 8: Upstream leased assets,"the Environment and Water (DCCEEW), National"
+non-operational controlled site in New Zealand.,― Category 11: Use of sold products,"Greenhouse Accounts (NGA) Factors Workbook 2024,"
+,,Australian Government.
+,― Category 12: End-of-life treatment of sold products,
+,,"―
+(MfE 2024): Ministry for the Environment (MfE),"
+,― Category 15: Investments,
+,,Measuring Emissions: A Guide for Organisations
+,The following categories were excluded based on the,
+,,"– 2024 Detailed Guide (ME 1829), New Zealand"
+,materiality assessment:,
+,,Government.
+
+=== Table 4 (page 19) ===
+,,,Measuring Emissions: A Guide for Organisations
+The following categories were excluded based on the,,,
+,,,"– 2024 Detailed Guide (ME 1829), New Zealand"
+materiality assessment:,,,
+,,,Government.
+Category,Reason for Exclusion,―,(DESNZ 2024): Department for Energy Security and
+Combustion of fuels onsite,No fuel was purchased for,,"Net Zero (DESNZ), Government Greenhouse Gas"
+(Scope 1),on-site generators in FY25,,
+,,,"Conversion Factors for Company Reporting 2024,"
+,Not applicable to Nine’s,,UK Government.
+Process emissions (Scope 1),,,
+,operations,,
+,,―,(IELab 2022): Industrial Ecology Virtual Laboratory
+,All transportation and,,
+Category 9: Downstream,,,"(IELab), ISAPC Scope 3 Emission Factors"
+,distribution was considered,,
+transportation and distribution,,,
+,upstream in FY25,,
+,,,"Documentation – 2022v0.3, FootprintLab."
+Category 10: Processing of sold,Not applicable to media,,
+products,sector outputs,,
+,Quantified but excluded,,
+Category 11: Use of sold,from boundary as Nine does,,
+products,not control or manufacture,,
+,end-user devices,,
+Category 13: Downstream,Not applicable to Nine's,,
+leased assets,operations,,
+,Nine does not operate under,,
+Category 14: Franchises,,,
+,a franchise model,,
+
+=== Table 5 (page 20) ===
+,Emissions,,Data,,Calculation,,Additional
+Scope,Category,Activity,Source,Emissions Factor (EF) Source,Methodology,Inputs and Assumptions,Notes
+1,Stationary,Natural Gas,Natural gas,― NGAF 2024: Table 5 Direct (Scope 1),Fuel-specific,"― Natural gas invoices were collected from the retailer,",Only one site recorded
+,combustion,,Invoices,emission factors for the consumption of,,"compiled, and matched to Nine's site list.",natural gas usage
+,,,,gaseous fuels including liquefied natural,,― Emission calculations were based on actual GJ,during the reporting
+,,,,gas,,consumption using published emission factors.,period.
+,,LPG,LPG Invoices,― NGAF 2024: Table 8 Direct (Scope 1) and,Fuel-specific,"― LPG invoices were collected from the retailer, compiled,",Only one site recorded
+,,,,indirect (scope 3) emission factors for,,and matched to Nine's site list.,LPG usage during the
+,,,,"the consumption of liquid fuels, including",,― Emissions were calculated from kL consumption using fuel-,reporting period.
+,,,,certain petroleum based products for,,specific energy and emission factors.,
+,,,,stationary energy purposes,,,
+,Transport,Fuel combusted,Fuel purchase,― NGAF 2024: Table 9 Direct (scope 1),Fuel-vehicle,― Fleet fuel invoices were compiled and matched to vehicle,"Petrol, diesel, and E10"
+,combustion,by Nine’s vehicles,transaction,and indirect (scope 3) emission factors,specific,types operated by Nine.,fuels were used across
+,,,history,for the consumption of transport fuels in,,― Emission calculations were based on actual consumption,the fleet during the
+,,,,different transport equipment,,data,reporting period.
+,Refrigerants,Fugitive,Facility,― Global Warming Potentials (GWPs) were,Estimation,"― Refrigerant type, amount (kg), and Global Warming Potential",For sites without
+,,emissions from,maintenance,sourced from the IPCC Sixth Assessment,,(AR5) were used to calculate emissions.,"refrigeration reports,"
+,,refrigerants,reports,Report (AR6).,,― Refrigerant maintenance and recharge reports were,cooling energy
+,,used for air,,― National averages using energy-based,,"sourced from Nine’s facilities, where available. For facilities",intensity derived
+,,conditioning,,intensity factor for refrigerant leakage,,"without refrigerant data, emissions were estimated using",from total electricity
+,,systems,,derived from DCCEEW (Cold Hard,,"a national average intensity factor, based on typical",use patterns for
+,,,,Facts 2020) and HVAC HESS Strategy,,refrigerant leakage rates and energy consumption in office,commercial offices.
+,,,,Factsheet.,,buildings.,
+,,,,,,"― Emissions were limited to office sites, with transmission and",
+,,,,,,link sites assumed to have negligible refrigerant use and,
+,,,,,,emissions.,
+2,Purchased,Electricity,Electricity,― NGAF 2024: Table 1 Indirect (scope,Location-based,― Electricity invoice data was compiled and matched to sites,Operational control
+,electricity,consumption,Invoices,2 and scope 3) emission factors from,,operated by Nine.,was determined
+,(location-,,,consumption of purchased or acquired,,"― Where actual electricity data was unavailable, estimates",during the boundary
+,based),,,electricity,,were made using the following methods:,assessment and was
+,,,,,,,primarily linked to the
+,,,,,,•  Office sites with known Net Lettable Area (NLA): an,
+,,,,,,,Group having control
+,,,,,,average electricity intensity (kWh/m²/year) derived from,
+,,,,,,,over the utility contract
+,,,,,,benchmark sites.,
+,,,,,,,of the site.
+,,,,,,•  Sites without NLA or complete data: average,
+,,,,,,"consumption intensities based on site type, using",
+,,,,,,historical benchmarks.,
+,,,,,,•  Transmission sites: used ACMA transmitter power ratings,
+,,,,,,"(W) as a proxy, applying an average electricity intensity",
+,,,,,,(kWh/W/year) based on benchmarked sites.,
+,,,,,,― Only sites within the Group’s operational control boundary,
+,,,,,,were included in Scope 2; non-operational control sites,
+,,,,,,"were accounted for under Scope 3, Category 8.",
+,,,,,,― Emissions were calculated using Australian location-based,
+,,,,,,emission factors.,
+
+=== Table 6 (page 21) ===
+,Emissions,,Data,,Calculation,,Additional
+Scope,Category,Activity,Source,Emissions Factor (EF) Source,Methodology,Inputs and Assumptions,Notes
+3,Category 7:,GHG emissions,― Full time,DESNZ 2024,Average data,― Emissions were estimated based on FTE per Australian,
+,Employee,from transportation,employee,,(distance-based),capital city.,
+,commuting,of employees,reports,,,― Days in the office per employee (i.e. days commuting) were,
+,,between their,― Industry-,,,estimated using swipe card data from major offices.,
+,,homes and their,average,,,,
+,,,,,,― Average commute distance and transport mode were,
+,,worksites during,emission,,,,
+,,,,,,estimated using Australian Bureau of Statistics (ABS) data.,
+,,the reporting,factors (spend-,,,,
+,,,,,,― Distance-based emission factors were used to calculate the,
+,,year (in vehicles,based),,,,
+,,,,,,resulting emissions.,
+,,not owned or,,,,,
+,,,,,,"― For employees based in overseas locations, similar",
+,,operated by the,,,,,
+,,,,,,Australian cities were used as proxy data.,
+,,Group).,,,,,
+,Category 8:,GHG emissions,Industry-average,― NGAF 2024: Table 1 Indirect (scope,Location-based,― Scope 3 Category 8 emissions relate to Scope 1 and 2,Operational control
+,Upstream,from the,emission factors,2 and scope 3) emission factors from,,emissions from the Group’s sites where it operates but,was determined
+,leased,consumption of,(spend-based),consumption of purchased or acquired,,does not have operational control.,during the boundary
+,assets,electricity and,,electricity,,― Emissions were calculated using the same methodologies,assessment and was
+,,fuel by leased,,― MfE 2024: Table 9: Emission factor for,,"and emission factors applied to Scope 1 and 2 sources,",primarily linked to the
+,,assets of the,,purchased grid-average electricity –,,based on available consumption data.,Group having control
+,,Group,,annual average,,,over the utility contract
+,,,,,,,of the site.
+,Category 11:,GHG emissions,Viewership data,― NGAF 2024: Table 1 Indirect (scope,Average-data,― Viewership emissions were calculated by determining total,Assuming BVOD
+,Use of sold,from products,from industry,2 and scope 3) emission factors from,method,viewing time (in minutes or hours) across various products,(Broadcaster Video
+,products,that directly,providers,consumption of purchased or acquired,,"and platforms (e.g. website, mobile, TV), then estimating",On Demand) refers
+,,consume energy,(minutes per,electricity:,,electricity consumption per hour of streaming per device,to mobile/apps. Big
+,,during their use,device type),,,type.,screen is modelled as
+,,when consuming,,,,― Average electricity consumption per device type was,TV viewership.
+,,the Group’s,,,,taken using average values from IEA (2020) and the Shift,
+,,content such,,,,Project’s 2019 data.,
+,,"as televisions,",,,,,
+,,,,,,― These electricity estimates were subsequently converted to,
+,,"smartphones, and",,,,,
+,,,,,,emissions using the Australian national average electricity,
+,,other electronic,,,,,
+,,,,,,emissions factor.,
+,,devices,,,,,
+,Category 12:,GHG emission,Paper supplier,― NGAF 2024: Table 15 Waste mix methane,Average-data,― The total tonnage of paper purchased for newspaper,Based on the National
+,End-of-life,from end of life of,report (total,conversion factors and emission factors,method,printing purposes was used as the basis for estimating,"Waste Report 2022,"
+,treatment,sold newspapers,weight per paper,,,associated end of life emissions.,"DCCEEW, it was"
+,of sold,,type),,,― End-of-life outcomes for the paper were determined using,assumed that paper
+,products,,,,,"average Australian resource recovery rates, which account",and cardboard (PAC)
+,,,,,,for the proportion of paper that is recycled versus sent to,resource recovery rate
+,,,,,,landfill.,was 62%.
+,,,,,,― Broad waste stream emission factors were used for the,
+,,,,,,resulting paper sent to landfill,
+,Category 15:,GHG,Annual revenue,― IELab 2022,Spend-based,― Revenue data was extracted from Profit and Loss (P&L),Domain’s emissions
+,Investments,emissions from,and expenses of,,,statements for each individual investment.,have not been
+,,organisations,Investments and,,,― The Group’s percentage ownership of the investment was,included in the Group’s
+,,associated with,Joint Ventures,,,used to allocate emissions.,emission
+,,the Group’s,,,,,
+,,,,,,― Emissions attributable to the Group’s share of investment,
+,,Investments and,,,,,
+,,,,,,revenue were calculated using IELab spend-based,
+,,Joint Venture,,,,,
+
+=== Table 7 (page 21) ===
+Emissions,,Data,,Calculation,,Additional
+Category,Activity,Source,Emissions Factor (EF) Source,Methodology,Inputs and Assumptions,Notes
+Category 7:,GHG emissions,― Full time,DESNZ 2024,Average data,― Emissions were estimated based on FTE per Australian,
+Employee,from transportation,employee,,(distance-based),capital city.,
+commuting,of employees,reports,,,― Days in the office per employee (i.e. days commuting) were,
+,between their,― Industry-,,,estimated using swipe card data from major offices.,
+,homes and their,average,,,,
+,,,,,― Average commute distance and transport mode were,
+,worksites during,emission,,,,
+,,,,,estimated using Australian Bureau of Statistics (ABS) data.,
+,the reporting,factors (spend-,,,,
+,,,,,― Distance-based emission factors were used to calculate the,
+,year (in vehicles,based),,,,
+,,,,,resulting emissions.,
+,not owned or,,,,,
+,,,,,"― For employees based in overseas locations, similar",
+,operated by the,,,,,
+,,,,,Australian cities were used as proxy data.,
+,Group).,,,,,
+Category 8:,GHG emissions,Industry-average,― NGAF 2024: Table 1 Indirect (scope,Location-based,― Scope 3 Category 8 emissions relate to Scope 1 and 2,Operational control
+Upstream,from the,emission factors,2 and scope 3) emission factors from,,emissions from the Group’s sites where it operates but,was determined
+leased,consumption of,(spend-based),consumption of purchased or acquired,,does not have operational control.,during the boundary
+assets,electricity and,,electricity,,― Emissions were calculated using the same methodologies,assessment and was
+,fuel by leased,,― MfE 2024: Table 9: Emission factor for,,"and emission factors applied to Scope 1 and 2 sources,",primarily linked to the
+,assets of the,,purchased grid-average electricity –,,based on available consumption data.,Group having control
+,Group,,annual average,,,over the utility contract
+,,,,,,of the site.
+Category 11:,GHG emissions,Viewership data,― NGAF 2024: Table 1 Indirect (scope,Average-data,― Viewership emissions were calculated by determining total,Assuming BVOD
+Use of sold,from products,from industry,2 and scope 3) emission factors from,method,viewing time (in minutes or hours) across various products,(Broadcaster Video
+products,that directly,providers,consumption of purchased or acquired,,"and platforms (e.g. website, mobile, TV), then estimating",On Demand) refers
+,consume energy,(minutes per,electricity:,,electricity consumption per hour of streaming per device,to mobile/apps. Big
+,during their use,device type),,,type.,screen is modelled as
+,when consuming,,,,― Average electricity consumption per device type was,TV viewership.
+,the Group’s,,,,taken using average values from IEA (2020) and the Shift,
+,content such,,,,Project’s 2019 data.,
+,"as televisions,",,,,,
+,,,,,― These electricity estimates were subsequently converted to,
+,"smartphones, and",,,,,
+,,,,,emissions using the Australian national average electricity,
+,other electronic,,,,,
+,,,,,emissions factor.,
+,devices,,,,,
+Category 12:,GHG emission,Paper supplier,― NGAF 2024: Table 15 Waste mix methane,Average-data,― The total tonnage of paper purchased for newspaper,Based on the National
+End-of-life,from end of life of,report (total,conversion factors and emission factors,method,printing purposes was used as the basis for estimating,"Waste Report 2022,"
+treatment,sold newspapers,weight per paper,,,associated end of life emissions.,"DCCEEW, it was"
+of sold,,type),,,― End-of-life outcomes for the paper were determined using,assumed that paper
+products,,,,,"average Australian resource recovery rates, which account",and cardboard (PAC)
+,,,,,for the proportion of paper that is recycled versus sent to,resource recovery rate
+,,,,,landfill.,was 62%.
+,,,,,― Broad waste stream emission factors were used for the,
+,,,,,resulting paper sent to landfill,
+Category 15:,GHG,Annual revenue,― IELab 2022,Spend-based,― Revenue data was extracted from Profit and Loss (P&L),Domain’s emissions
+Investments,emissions from,and expenses of,,,statements for each individual investment.,have not been
+,organisations,Investments and,,,― The Group’s percentage ownership of the investment was,included in the Group’s
+,associated with,Joint Ventures,,,used to allocate emissions.,emission
+,the Group’s,,,,,
+,,,,,― Emissions attributable to the Group’s share of investment,
+,Investments and,,,,,
+,,,,,revenue were calculated using IELab spend-based,
+,Joint Venture,,,,,
+,,,,,emission factors matched to the industry classification,
+,projects,,,,,
+,,,,,of each investment.,
+
+=== Table 8 (page 22) ===
+,Our approach to conducting the review,level of assurance obtained in a  review engagement is
+Independent Limited Assurance Report to the Management and Directors,,
+,,substantially lower than the assurance that would have
+of Nine Entertainment Co. Holdings Limited,,been obtained had a reasonable assurance engagement
+,We conducted this review in accordance with the,
+,,"been  performed.  Our  procedures  were  designed 
+to"
+,Australian Auditing and Assurance Standards Board’s,
+,,obtain a limited level of assurance on which to base our
+Our Conclusion:,Australian Standard on Assurance Engagements Other,
+,,conclusion and do not provide all the evidence that would
+,Than Audits or Reviews of Historical Financial,
+,,be required to provide a reasonable level of assurance.
+,Information (‘ASAE3000’) and the terms of reference,
+"Ernst & Young (‘EY’, ‘we’) were engaged by Nine Entertainment Co. Holdings Limited (‘Nine’) to undertake a limited",,
+,for this engagement as agreed with Nine on 8 April,
+"assurance engagement as defined by Australian Auditing Standards, hereafter referred to as a ‘review’, over the",,
+,2025. That standard requires that we plan and perform,While we considered the effectiveness of
+Subject Matter defined below for the year ended 30 June 2025. Based on the procedures we have performed and,,
+,our engagement to express a conclusion on whether,management’s internal controls when determining the
+"the evidence we have obtained, nothing has come to our attention that causes us to believe the Subject Matter has",,
+,anything has come to our attention that causes us to,"nature and extent of our procedures, our assurance"
+"not been prepared, in all material respects, in accordance with the Criteria defined below.",,
+,"believe that the Subject Matter is not prepared, in all",engagement was not designed to provide assurance on
+,"material respects, in accordance with the Criteria, and",internal controls. Our procedures did not include testing
+"►  The World Resource Institute/World Business 
+What our review covered",,
+,to issue a report.,controls or performing procedures relating to assessing
+Council for Sustainable Development Greenhouse,,
+,,aggregation or calculation of data within IT systems.
+Gas Protocol: A Corporate Accounting and,,
+We reviewed the following Subject Matter in Nine’s,,
+"Reporting Standard, including the Greenhouse Gas",Summary of review procedures performed,
+2025 Annual Report :,,
+,,The greenhouse gas quantification process is subject to
+Protocol: Scope 2 Guidance.,,
+,,"scientific 
+uncertainty, 
+which 
+arises 
+because 
+of"
+,"A review consists of making enquiries, primarily of",
+We reviewed a selection of material areas/performance,,incomplete scientific knowledge about the measurement
+►  The Greenhouse Gas Protocol: Corporate Value,,
+,persons responsible for preparing the subject matter,
+"metrics, as shown in the table below:",,"of  greenhouse  gases.  Additionally,  greenhouse  gas"
+Chain (Scope 3) Standard.,,
+,and related information and applying analytical and,
+,,procedures are subject to estimation and measurement
+,other review procedures.,
+Key responsibilities,,"uncertainty 
+resulting 
+from 
+the  measurement 
+and"
+Tonnes of carbon,,
+Report,,calculation processes used to quantify emissions within
+"Subject Matter 
+dioxide equivalent","The nature, timing, and extent of the procedures",
+"page 
+Nine’s responsibility",,the bounds of existing scientific knowledge.
+(tCO2-e),"selected depend on our judgement, including an",
+,"assessment of the risk of material misstatement,",
+Nine’s management is responsible for selecting the,,Other matters
+Scope 1 Greenhouse,whether due to fraud or error. The procedures we,
+"Criteria, and for presenting the Subject Matter in 
+1,573 
+34-35",,
+Gas Emissions,"performed included, but were not limited to:",
+"accordance with that Criteria, in all material respects.",,We have not performed assurance procedures in
+This responsibility includes establishing and,,respect of any information relating to prior reporting
+,►  Conducting interviews with personnel to understand,
+"Scope 2 Greenhouse 
+maintaining internal controls, maintaining adequate",,"periods, including those presented in the Subject"
+"414,784 
+34-35",the business and reporting process,
+"Gas Emissions 
+records and making estimates that are relevant to the",,Matter.  Our report does not extend to any disclosures
+,"► 
+Interviewing Nine personnel to understand the",
+"preparation of the subject matter, such that it is free",,or assertions made by Nine relating to future
+,"reporting processes at the group level, including",
+"from material misstatement, whether due to fraud or",,performance plans and/or strategies disclosed in Nine’s
+Scope 3 Greenhouse,management’s processes to: identify Nine’s material,
+"473,826 
+34-35 
+error.",,2025 Annual Report.
+Gas Emissions,issues; identify Nine’s material climate-related risks,
+,and opportunities; and understand Nine’s processes,
+EY’s responsibility and independence,,
+O,"for collecting, collating and reporting the",Use of our Assurance Report
+"ther than as described in the preceding paragraphs,",performance of its greenhouse gas emissions,
+"Our responsibility is to express a conclusion on the 
+which set out the scope of our engagement, we did not",metrics,We disclaim any assumption of responsibility for any
+"Subject Matter based on our review. 
+perform assurance procedures on the remaining",►  Assessed that the calculation criteria have been,reliance on this assurance report to any persons other
+"information included in  Nine’s 2025 Annual Report, and",correctly applied in accordance with the,"than management and the Directors of Nine, or for any"
+"accordingly, we do not express an opinion or 
+We have complied with the independence and relevant",methodologies outlined in the Criteria,purpose other than that for which it was prepared.
+"conclusion on this information. 
+ethical requirements, which are founded on",,
+,►  Undertook analytical review procedures to support,
+"fundamental principles of integrity, objectivity,",,Our review included web-based information that was
+,the reasonableness of the qualitative disclosures,
+"professional competence and due care, confidentiality 
+Criteria applied by Nine",,available via web links as of the date of this statement.
+,"► 
+Identified and tested assumptions supporting",
+and professional behaviour.,,We provide no assurance over changes to the content
+,calculations,
+Management’s own criteria as reported on in Nine’s,,of this web-based information after the date of this
+,"►  Reviewing data, information or explanation about",
+"The firm applies Auditing Standard ASQM 1 Quality 
+2025 Annual Report Climate-related Disclosures Basis",,assurance statement.
+,the sustainability performance data and statements,
+"Management for Firms that Perform Audits or Reviews 
+of Preparation, based on:",,
+,included within the Subject Matter,
+"of Financial Reports and Other Financial Information, or",,
+►  Select requirements of The Australian Sustainability,,
+"Other Assurance or Related Services Engagements,",We believe that the evidence obtained is sufficient and,
+Reporting Standards (‘ASRS Standards’) AASB S2,,
+"which requires the firm to design, implement and",appropriate to provide a basis for our review,
+"Climate-related Disclosures, pertaining to the",,
+operate a system of quality management including,conclusion.,M
+,,egan Wilson
+"disclosures of Scope 1, 2 and 3 Greenhouse Gas",,
+policies or procedures regarding compliance with,,
+,,Ernst & Young
+emissions.,,
+"ethical requirements, professional standards and",Inherent limitations,
+,,"Sydney, Australia"
+applicable legal and regulatory requirements.,,
+Additional Assurance Criteria for the disclosure of,,11 September 2025
+"Scope 1, 2 and 3 Greenhouse Gas emissions",Procedures performed in a  review engagement vary in,

@@ -1,0 +1,147 @@
+=== Table 1 (page 63) ===
+noted below are not anticipated to be material to AUB in the,to carbon dioxide and includes scope 3 emissions. AUB’s
+"short term; however, they may have a greater impact over",decarbonisation target was not derived using a sectoral
+the medium to long term. The anticipated impacts on the,decarbonisation approach.
+business will continue to be monitored.,
+,AUB does not employ an internal carbon pricing strategy as
+"–
+Greater public climate risk discussion has led to an","our emission intensity is not significant, and employing such"
+increasing awareness of climate-related risks. This in,a strategy would not have a material impact on decision
+turn has decreased risk appetite which directly correlates,making.
+"to increased demand for AUB’s services, which may",
+"result in increased sales over the medium to long term,",
+,4.2  CARBON MEASUREMENT
+as climate change becomes more widely discussed.,
+,AUB’s assumptions and methodologies for deriving carbon
+"–
+AUB could invest in product innovation and risk",
+,emissions are as follows.
+mitigation tools to position itself as a leader in offering,
+tailored coverage to meet emerging market demands,
+,Fuel usage - scope 1
+relating to climate-related changes. This could present,
+,"Activity logs detailing distance travelled, fuel cards and vehicle"
+an opportunity for AUB to capture new business,
+,model data are used in combination with National Greenhouse
+"opportunities over the medium to long term, resulting",
+,and Energy Reporting Scheme (NGER) (or equivalent outside
+in a larger customer base and generating increased,
+,of Australia) data on emissions factors to determine total
+revenue.,
+,emissions.
+"–
+AUB could establish a MGA dedicated to climate-focused",
+"insurance products, providing tailored solutions to",
+,Electricity (scope 2)
+address the evolving needs of clients facing climate-,
+,"Typically, electricity suppliers will provide data on emissions"
+"related risks. Over the medium to long term, this could",
+,based on actual usage. Where direct supplier data is
+lead to an increase of AUB’s client base and diversify,
+,"not available, electricity consumption, NGER data (or an"
+revenue streams.,
+,equivalent outside of Australia) on the state electricity mix
+,and emission factor are used to calculate total emissions.
+The remaining opportunities were not deemed to be material,
+,"Where consumption data is not available, we employ an"
+to AUB over any time horizon due to:,
+,equivalent floor space model.
+"–
+AUB not being a high emitter, so any cost savings linked",
+to energy and resource efficiency is not deemed to be,Natural gas (scope 2)
+material.,
+,Measured natural gas consumption and invoice data are
+"–
+The benefits in changing the disposal methods for",used to calculate carbon emissions where available. As
+hardware and e-waste is minimal to AUB.,"a limited number of sites use natural gas, no additional"
+,estimations are undertaken.
+
+=== Table 2 (page 63) ===
+"ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+YEAR ENDED 30 JUNE 2025,
+,We have reported on scope 1 and 2 emissions for a number
+"4. 
+ENVIRONMENT (CONTINUED)","of years, with scope 3 emissions related to business"
+,flights since FY23. In FY26 we will conduct a quantitative
+"4.1 
+CLIMATE-RELATED RISKS",assessment of all scope 3 exposures and work towards
+,more comprehensive reporting in the future.
+AND OPPORTUNITIES (CONTINUED),
+"Of the five climate-related opportunities, three opportunities",AUB’s net zero commitment by 2050 for head office relates
+noted below are not anticipated to be material to AUB in the,to carbon dioxide and includes scope 3 emissions. AUB’s
+"short term; however, they may have a greater impact over",decarbonisation target was not derived using a sectoral
+the medium to long term. The anticipated impacts on the,decarbonisation approach.
+business will continue to be monitored.,
+,AUB does not employ an internal carbon pricing strategy as
+"–
+Greater public climate risk discussion has led to an","our emission intensity is not significant, and employing such"
+increasing awareness of climate-related risks. This in,a strategy would not have a material impact on decision
+turn has decreased risk appetite which directly correlates,making.
+"to increased demand for AUB’s services, which may",
+"result in increased sales over the medium to long term,",
+,4.2  CARBON MEASUREMENT
+as climate change becomes more widely discussed.,
+,AUB’s assumptions and methodologies for deriving carbon
+"–
+AUB could invest in product innovation and risk",
+,emissions are as follows.
+mitigation tools to position itself as a leader in offering,
+tailored coverage to meet emerging market demands,
+,Fuel usage - scope 1
+relating to climate-related changes. This could present,
+,"Activity logs detailing distance travelled, fuel cards and vehicle"
+an opportunity for AUB to capture new business,
+,model data are used in combination with National Greenhouse
+"opportunities over the medium to long term, resulting",
+,and Energy Reporting Scheme (NGER) (or equivalent outside
+in a larger customer base and generating increased,
+,of Australia) data on emissions factors to determine total
+revenue.,
+,emissions.
+"–
+AUB could establish a MGA dedicated to climate-focused",
+"insurance products, providing tailored solutions to",
+,Electricity (scope 2)
+address the evolving needs of clients facing climate-,
+,"Typically, electricity suppliers will provide data on emissions"
+"related risks. Over the medium to long term, this could",
+,based on actual usage. Where direct supplier data is
+lead to an increase of AUB’s client base and diversify,
+,"not available, electricity consumption, NGER data (or an"
+revenue streams.,
+,equivalent outside of Australia) on the state electricity mix
+,and emission factor are used to calculate total emissions.
+The remaining opportunities were not deemed to be material,
+,"Where consumption data is not available, we employ an"
+to AUB over any time horizon due to:,
+,equivalent floor space model.
+"–
+AUB not being a high emitter, so any cost savings linked",
+to energy and resource efficiency is not deemed to be,Natural gas (scope 2)
+material.,
+,Measured natural gas consumption and invoice data are
+"–
+The benefits in changing the disposal methods for",used to calculate carbon emissions where available. As
+hardware and e-waste is minimal to AUB.,"a limited number of sites use natural gas, no additional"
+,estimations are undertaken.
+Carbon emissions,
+,Air travel (scope 3)
+AUB Group’s emissions reporting covers ours and our,
+,"Where available, emissions data supplied by the airline"
+"partners’ tenanted offices, car fleets and business flights.",
+,"provider is utilised. Where such data is unavailable,"
+"Our primary measures of these activities are scope 1, 2 and",
+,emissions on a comparable flight and class is used to
+3 emissions.,
+,determine the emissions.
+"–
+Scope 1 emissions relate to emissions from our car",
+
+=== Table 3 (page 64) ===
+"ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+YEAR ENDED 30 JUNE 2025,
+4.,ENVIRONMENT (CONTINUED)
+4.2  CARBON MEASUREMENT (CONTINUED),
+Scope 1 and 2 emissions,
+Our scope 1 and 2 emissions are presented below:,
+Our gross scope 1 and scope 2 emissions are shown below.,

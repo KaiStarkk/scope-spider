@@ -1,0 +1,396 @@
+=== Table 1 (page 4) ===
+Sustainability Report,
+Continued,
+Environment,
+Climate Change,
+Climate Governance,
+Board and Board Committees,Related functions
+"Macquarie’s Board, in accordance with its Charter, reviews and",To support the Board and Senior Management with their
+approves Macquarie’s Risk Appetite Statement and Risk,"responsibilities and drive progress, Macquarie has a centralised Net"
+"Management Strategy, and monitors material risks faced by",Zero and Climate Risk Program (the Program). Reporting to the
+Macquarie and reviews how they are managed. This includes,Chief Risk Officer (CRO) and led by the Head of Net Zero and
+specific consideration for climate risk.,"Climate Risk, the central Program team provides a coordinated"
+,approach to climate across Macquarie.
+The Board annually considers and approves the strategies and,
+"business plans of our Operating and Central Service Groups,","During the year, the Program was supported by the Net Zero and"
+which include the risks and opportunities pertaining to the energy,Climate Risk Steering Group. This body included senior
+transition and climate change where relevant. The Board are,"representatives from across Operating and Central Service Groups,"
+"informed by management on the development, progress",who were responsible for driving outcomes and recommending
+and delivery of related targets and approve related,decisions relevant to the Program. The Steering Group provided
+disclosures annually.,support to the Board and Senior Management in decision-making
+,and acted as an escalation body for key organisation-wide working
+"The BGCC, in accordance with its Charter, assists the Board by",
+,"groups, primarily the:"
+reviewing and monitoring Macquarie’s environmental and social,
+,"•
+Financed Emissions Working Group, which focused on the"
+"risk management policies, practices and performance, which",
+,"development of approaches, methodologies, frameworks and"
+includes climate-related matters. The BGCC receives climate-,
+,data governance related to financed emissions; and
+"related reporting from management at least twice a year, which",
+,"•
+Climate Risk Working Group, which focused on driving the"
+includes updates on Macquarie’s management of climate risk.,
+,continued operationalisation and embedment of climate risk
+Board and Board Committee members’ skills are regularly,
+,"across Macquarie’s frameworks, policies and procedures."
+assessed. Sustainability Governance is one of the skills included in,
+,Macquarie’s commitment to reach net zero emissions in its own
+the Board Skills Matrix. Board members are also supported,
+,"business operations (Scope 1 and Scope 2), and reduce upstream"
+"throughout the year with workshops and training on topical,",
+,"Scope 3 emissions (Categories 1 to 8), is managed by Macquarie’s"
+"emerging business and governance issues, which included",
+,Corporate Operations Group (COG) in line with Macquarie’s 2025
+sustainability reporting in FY2025.,
+,"Sustainability Plan, and commitments beyond 2025.2 COG has a"
+Further details on Macquarie’s Board and Board Committees is on,
+,"dedicated governance model to support this work, reporting into"
+pages 36-52 in the Corporate Governance Statement of this,
+,Macquarie’s Chief Operating Officer.
+Annual Report.,
+Management Committees,Link between climate considerations and
+Macquarie’s Executive Committee and Executive Risk Committee,remuneration outcomes
+act as executive advisory bodies for climate-related initiatives,"Relevant sustainability measures, including those pertaining to"
+"across Macquarie, receiving periodic updates on progress and","climate, are considered in the assessment of each Executive"
+providing guidance on next steps.,Key Management Personnel’s (KMP) performance by the Board
+,and the Board Remuneration Committee. Commentary on
+,sustainability considerations relevant to specific Executive
+,KMP is on pages 126-135 in the Remuneration Report of this
+,Annual Report.
+
+=== Table 2 (page 8) ===
+Sustainability Report,
+Continued,
+Climate Metrics and Targets,
+Progress in managing the emissions of Macquarie’s own business operations8,
+Net zero emissions in FY2025 for Scopes 1 and 2,"Scope 1 and 2 emissions and total energy use11,12"
+Macquarie has now achieved its commitment to net zero,
+,"Energy use in terajoules
+Emissions in tCO2e"
+emissions in its own business operations for Scope 1 and 2 by,
+FY2025. This commitment was delivered by improving energy,"29,767"
+,"30,000
+200"
+"efficiency within Macquarie’s premises, reducing electricity use by",
+"34% compared to the FY2014 baseline, and purchasing 100%",
+,"22,121"
+"renewable electricity in line with Macquarie’s RE100 commitment,",
+to deliver a 98% reduction in Scopes 1 and 2 emissions since,"20,000
+175"
+"FY2020. Macquarie offsets all Scope 1 residual emissions, that",
+"are difficult to abate, using carbon removal units with",
+"longer term storage, in line with industry guidance on credible",
+,"10,000
+150"
+"carbon offsets.9,10",
+
+=== Table 3 (page 8) ===
+"Macquarie continues to measure and manage emissions for the Scope 3 Categories 1 to 6 and 8, in its business operational value chain, and has",,
+established commitments for the most material categories as listed below.,,
+Scope 3 business operations emissions by Category,,
+Category,FY2020 baseline (tCO2e),FY2025 (tCO2e)
+Category 1: Purchased goods and services13,"137,030","164,983"
+Category 2: Capital goods,,Included in Category 1
+Category 3: Fuel and energy-related activities,"4,054","3,526"
+Category 4: Upstream transportation and distribution,,Included in Category 1
+Category 5: Waste generated in operations,112,223
+Category 6: Business travel,"67,141","59,164"
+Category 7: Employee commuting,,Commenced methodology development
+,,and collection of baseline data
+Category 8: Upstream leased assets,,Included in Category 1
+Total (Categories 1-6 & 8),"208,337","227,896"
+
+=== Table 4 (page 8) ===
+8,“Own business operations” excludes emissions associated with operationally segregated subsidiaries (OSS).
+9,
+,"Unless otherwise stated, all Scope 2 emissions related to Macquarie’s own business operations have been calculated using the market-based methodology as described by the GHG"
+,Protocol Scope 2 Guidance. PwC has provided limited assurance over this metric and Scope 1 emissions as detailed in the PwC independent assurance report available within
+,"Macquarie’s FY2025 Basis of Preparation for Sustainability Reporting. This also sets out the reporting boundaries, definitions, and measurement methodologies for the"
+,assured metrics.
+10,"Details on how this net zero position was delivered, and the guidance used, can be found in Macquarie’s FY2025 Basis of Preparation for Sustainability Reporting."
+11,"Increase in Scope 1 emissions in FY2025, compared to prior year, is due primarily to the inclusion of the base building at new global Headquarters at 1 Elizabeth Street, Sydney,"
+,including refrigerant emissions.
+12,Total Energy use for the year ended March 2025 is 159 Terajoules.
+13,"Scope 3 Categories 1, 2, 4 and 8, are calculated using the spend-based methodology as set out in the GHG Protocol and are directly correlated with the spend with suppliers that is"
+,processed via Macquarie’s procurement system. This methodology does not take into account any supplier-specific emissions reduction initiatives. Macquarie has restated its
+,"FY2020 baseline for Scope 3 Categories 1 ,2, 4 and 8 to correct an error in the application of inflation in that year. The restated FY2020 baseline has undergone limited assurance"
+,and is included in the scope of PwC’s limited assurance report.
+
+=== Table 5 (page 9) ===
+Macquarie’s own business operations commitments and progress,
+"Scopes 1, 2, and 3 (Categories 1 to 8) commitments and progress",
+Commitment,FY2025 progress against commitment
+Reduction in electricity use,"Macquarie’s FY2025 electricity consumption was 42.6 GWh, a 34% decrease compared with the FY2014"
+,baseline of 64.2 GWh.
+20% reduction in electricity use by FY2023,
+(from a FY2014 baseline) in Macquarie’s,"The reduction since FY2014 is mainly due to the consolidation, relocation, and upgrade of office premises"
+corporate offices and data centres,"to more sustainable buildings, together with Macquarie’s cloud transformation strategy that enables"
+,rationalisation of servers.
+,Macquarie will re-baseline electricity consumption in FY2026 to reflect the energy performance of the new
+,Sydney global headquarters at 1 Elizabeth Street and 50 Martin Place.
+Renewable electricity %,"Sourced the equivalent of 100% renewable energy for global electricity needs, through a combination of"
+,renewable energy from building owners or utilities (53.8%) and energy attribute certificates (46.2%).14
+Sourcing the equivalent of 100% renewable,
+energy for Macquarie’s global electricity,
+needs in line with our RE100 commitment,
+Scope 1 and 2 emissions,"Macquarie purchases the equivalent of 100% renewable electricity for office premises, reducing Scope 2"
+,"emissions to zero since FY2022, and is retiring carbon removal units with longer term storage to offset 482"
+Net zero emissions in Macquarie’s own,
+,tonnes of residual Scope 1 FY2025 emissions.
+business operations by FY2025,
+Supplier science-aligned targets,Progressing toward the 2030 target with an estimated 39% of emissions covered by Macquarie’s Scope 3
+,"Category 1: Purchased goods and services suppliers having a science-aligned target, and 89% of emissions"
+"By 2030, suppliers representing 75% of our",
+,covered by Macquarie’s Scope 3 Category 6: Business travel (specifically air and hotel) providers also having
+Scope 3 Category 1: Purchased goods and,
+,such a target in place.15
+services and Scope 3 Category 6: Business,
+travel (air and hotel) emissions have a,
+science-aligned emissions reduction target,
+Offsetting of business travel emissions,Macquarie is purchasing and retiring a portfolio of Australian Carbon Credit Units and other voluntary carbon
+,"offsets to cover 59,164 tonnes of FY2025 business travel related emissions. The offset projects are selected"
+Continuing to offset Scope 3 Category 6:,
+,"based on verifiable emissions reductions, after conducting internal due diligence and engaging an"
+"Business travel emissions including air, hotels,",
+,independent third party to assist with evaluation.
+"taxis, car rental, and food and beverage",
+
+=== Table 6 (page 11) ===
+"Macquarie’s Exposure at Default (EAD) and Absolute Financed Emissions by sector19,20",,,,,
+,,,,FY2024,
+,,,,Absolute financed,
+,Sector21,Scopes included,EAD $Ab,emissions (MtCO2e),PCAF data quality score
+,Oil/gas,"1, 2, 3 (Cat. 11)23",3.4,5.3,"Scope 1,2: 2.8; Scope 3: 2.8"
+,Upstream oil/gas24,"1, 2, 3 (Cat. 11)",2.3,5.0,"Scope 1,2: 2.2; Scope 3: 2.8"
+,Midstream and downstream oil/gas,"1, 2",0.3,0.1,2.2
+,Coal25,"1, 2, 3 (Cat. 11)",<0.1,0.1,2.0
+,Coal mining,"1, 2, 3 (Cat. 11)",0.0,0.0,N/A
+,Real estate,"1, 2",155.7,0.9,4.1
+,Residential mortgages,"1, 2",134.8,0.7,4.1
+,Commercial real estate,"1, 2",12.7,0.1,3.9
+Carbon-intensive sectors22,Transport,"1, 2, 3 (Cat. 13)26",10.2,2.0,2.9
+,Motor vehicles,"1, 2",4.4,0.2,2.1
+,Shipping,1,1.6,0.8,2.2
+,Aviation27,"1, 3 (Cat. 13)",1.3,0.7,2.0
+,Power,"1, 2",3.5,0.5,4.4
+,Power generation28,1,0.9,0.5,2.6
+,Agriculture,"1, 2",0.3,0.3,4.3
+,Farming,"1, 2",0.1,0.2,3.0
+,"Aluminium, Cement, Iron/Steel","1, 2",0.0,0.0,N/A
+,Manufacturing,"1, 2",0.8,0.1,5.0
+,Financial services,"1, 2",18.3,<0.1,5.0
+,Health and education,"1, 2",5.9,0.2,5.0
+Other sectors,"Technology, media, telecommunications","1, 2",6.3,0.2,5.0
+,Retail and wholesale trade,"1, 2",1.0,<0.1,5.0
+,Other mining,"1, 2",1.7,0.8,5.0
+,Other,"1, 2",9.3,1.0,5.0
+,Total,,216.3,11.4,
+
+=== Table 7 (page 11) ===
+19,"Includes on-balance sheet lending and equity investments for all sectors. This includes exposures from operationally segregated subsidiaries and, for motor vehicles, novated leases."
+,See FY2025 Basis of Preparation for Sustainability Reporting for details.
+20,"Since the publication of Macquarie’s 2023 Net Zero and Climate Risk Report, enhancements have been made to sector mapping and methodology. See FY2025 Basis of Preparation"
+,for Sustainability Reporting for detail.
+21,"Sector also includes segments in-scope for targets - italics indicate sectors with targets. On-balance sheet lending and equity exposures are mapped to an ANZSIC code sector,"
+,"reflecting the client’s primary business activity. In some cases, additional product-level analysis is performed to assign exposure to a sector. See FY2025 Basis of Preparation for"
+,Sustainability Reporting for details.
+22,"Sectors include segments which may not be deemed carbon-intensive. E.g., real estate agents within the real estate sector may not be considered carbon-intensive."
+23,Scope 3 is included for upstream oil/gas exposure only in this line.
+24,Includes both pre-production and production upstream oil/gas producers.
+25,"The coal sector includes coal mining and a small exposure to coal-fired power generation. For coal-fired power generation, Scope 1 is included only. As at December 2024, Macquarie"
+,"had zero coal company on-balance sheet lending and equity exposures, achieving the original 2021 goal. Further information on Macquarie’s approach to coal is on page 73."
+26,Scope 3 is included for aviation exposure only in this line.
+27,"In the Aviation sector, Macquarie’s current exposure is limited to lessor(s) only. Accordingly, this table only includes Scope 3 (Category 13)."
+28,"To avoid double counting, in this table Macquarie reported a small remaining coal-fired power exposure as part of the coal sector. It is not included in the power/power"
+,generation sector.
+
+=== Table 8 (page 13) ===
+"the needed transition, Macquarie recognises that much of the",,,
+,,"balance sheet lending and equity exposures, achieving the original",
+world will depend on oil/gas for years to come and will continue to,,,
+,,2021 goal.,
+support clients in these sectors.,,,
+,,Macquarie’s approach to coal has continued to evolve:,
+Progress update,,,
+,•,,reflecting the ongoing importance of and limited viable
+Macquarie is making progress towards its target of 56.3-59.6,,,alternatives to metallurgical coal for steel making and industry
+"gCO2e/MJ, which implies a 9-14% reduction in physical emissions",,,"practice, Macquarie now differentiates between metallurgical"
+"intensity by 2030 from the FY2020 baseline. In FY2024, the",,,coal and thermal coal
+physical emissions intensity of Macquarie’s upstream oil/gas,,,
+,,•,"in April 2024, advisory transactions where the underlying"
+"portfolio was 62.3 gCO2e/MJ, up slightly from the FY2023 level but",,,
+,,,"purpose is to fund the purchase, development or expansion"
+down 5% from the FY2020 baseline.,,,
+,,,of a metallurgical coal mine were brought into appetite30
+"As noted in Macquarie’s prior Net Zero and Climate Risk Reports,",,•,"in November 2024, Macquarie allowed balance sheet lending"
+annual physical emissions intensity outcomes are likely to exhibit,,,"and equity investments, where the underlying purpose is to"
+considerable volatility (in both directions) as the portfolio evolves,,,"fund the purchase, operation, development or expansion of"
+over time. Such volatility is to be expected and is consistent with,,,a metallurgical coal mine
+Macquarie’s 2030 target.,,,
+,,•,Macquarie continues to have no appetite for financing
+,,,>12 months using its balance sheet29 or to advise on
+"Upstream oil/gas emissions intensity – Scope 1, 2 and 3",,,
+,,,transactions where the underlying purpose relates to the
+(Cat. 11),,,
+,,,"purchase, operation, development or expansion of thermal"
+gCO2e/MJ,,,
+,,,coal activities
+68,,,
+,,•,Macquarie maintains the ability to work with coal companies
+Macquarie,,,to finance projects that will significantly reduce their carbon
+66,,,
+portfolio,,,emissions in line with science-based scenarios or are for the
+,,,purpose of diversifying away from the coal sector in line with
+64,,,
+NGFS Net Zero 2050,,,a credible transition plan.
+scenario pathway,,,
+
+=== Table 9 (page 13) ===
+Upstream oil/gas,
+,Coal
+Recap of Macquarie’s approach,
+,Progress and approach
+"In science‑based, net zero‑aligned climate scenarios (e.g., NGFS",
+,"In 2021, Macquarie announced its intention to run-off on-balance"
+"Net Zero 2050, International Energy Agency Net Zero Emissions",
+,sheet lending and equity exposures to coal companies by the end
+"and Intergovernmental Panel on Climate Change), oil and gas",
+,of 2024.29
+"generally remain critical components of the energy mix in 2030,",
+which means decarbonisation of the operations of oil/gas,"As a means of achieving that goal, Macquarie committed to not"
+"companies is an important element of the energy transition,",engaging in new balance sheet activity with any counterparty
+especially in the near term. Divestment strategies might not,"where the underlying purpose was to fund the purchase,"
+support real world emissions reductions and could result in a,development or expansion of a coal mine (both thermal and
+disorderly net zero transition that does not address the economic,metallurgical) or coal-fired power station.
+and social needs of the communities affected. Given the scale of,
+,"As at 31 December 2024, Macquarie had zero coal company on-"
+"the needed transition, Macquarie recognises that much of the",
+,"balance sheet lending and equity exposures, achieving the original"
+world will depend on oil/gas for years to come and will continue to,
+,2021 goal.
+support clients in these sectors.,
+,Macquarie’s approach to coal has continued to evolve:
+Progress update,
+,"•
+reflecting the ongoing importance of and limited viable"
+Macquarie is making progress towards its target of 56.3-59.6,alternatives to metallurgical coal for steel making and industry
+"gCO2e/MJ, which implies a 9-14% reduction in physical emissions","practice, Macquarie now differentiates between metallurgical"
+"intensity by 2030 from the FY2020 baseline. In FY2024, the",coal and thermal coal
+physical emissions intensity of Macquarie’s upstream oil/gas,
+,"•
+in April 2024, advisory transactions where the underlying"
+"portfolio was 62.3 gCO2e/MJ, up slightly from the FY2023 level but",
+,"purpose is to fund the purchase, development or expansion"
+down 5% from the FY2020 baseline.,
+,of a metallurgical coal mine were brought into appetite30
+"As noted in Macquarie’s prior Net Zero and Climate Risk Reports,","•
+in November 2024, Macquarie allowed balance sheet lending"
+annual physical emissions intensity outcomes are likely to exhibit,"and equity investments, where the underlying purpose is to"
+considerable volatility (in both directions) as the portfolio evolves,"fund the purchase, operation, development or expansion of"
+over time. Such volatility is to be expected and is consistent with,a metallurgical coal mine
+Macquarie’s 2030 target.,
+,"•
+Macquarie continues to have no appetite for financing"
+,>12 months using its balance sheet29 or to advise on
+"Upstream oil/gas emissions intensity – Scope 1, 2 and 3",
+,transactions where the underlying purpose relates to the
+(Cat. 11),
+,"purchase, operation, development or expansion of thermal"
+gCO2e/MJ,
+,coal activities
+68,
+,"•
+Macquarie maintains the ability to work with coal companies"
+Macquarie,to finance projects that will significantly reduce their carbon
+66,
+portfolio,emissions in line with science-based scenarios or are for the
+,purpose of diversifying away from the coal sector in line with
+64,
+NGFS Net Zero 2050,a credible transition plan.
+scenario pathway,
+62,
+60,
+2030,
+"58
+target",
+range,
+56,
+54,
+"FY2020
+FY2024
+2030",
+
+=== Table 10 (page 14) ===
+Sustainability Report,
+Continued,
+Residential mortgages,Managing progress towards Macquarie’s targets
+Recap of Macquarie’s approach,Progress towards Macquarie’s targets is managed and supported
+,by various control and monitoring mechanisms. This includes
+Reducing operational emissions in this sector is heavily reliant on,
+,Macquarie’s Net Zero Risk Assessment (NZRA) process and regular
+"the decarbonisation of the electricity grid, a reduction in",
+,sector-level and portfolio emissions progress reviews and
+household gas usage (via electrification) and improvements in,
+,management reporting.
+energy efficiency. Macquarie’s ability to meet targets in this sector,
+"will depend on a coordinated approach across federal, state and",The NZRA process is in place for the upstream oil/gas sector and
+local governments to encourage the growth of renewable energy,enables financed emissions targets to be appropriately considered
+"supplies, enforce building standards and energy codes, and","in financing decisions, using a combination of possible quantitative"
+incentivise home energy retrofits. Unless and until the grid is,and qualitative factors to evaluate clients’ climate ambition and
+"substantially rebalanced to renewable energy supplies,",performance for new in-scope transactions. This can include
+improvements in any other factor will only make marginal,assessment of the client’s transition plans. The NZRA process
+contributions to the sector’s decarbonisation.,includes 'second line’ review by the Risk Management Group.
+,
+Macquarie continues to face significant data challenges in,Assessing client transition plans
+"quantifying financed emissions from residential mortgages, with",
+,Macquarie is continuing to evolve its approach to assessing client
+data quality and availability currently low. Macquarie is supportive,
+,transition plans. Client transition plans are currently assessed for
+of government initiatives to deliver a mandatory national,
+,select sectors against a range of criteria that has been informed
+disclosure framework.,
+,by emerging best practices from industry bodies. Assessments
+Progress update,consider sector-specific criteria and evaluate the maturity of client
+,transition plans. Macquarie’s approach will continue to evolve as
+Macquarie continues to see pathways towards its target of,
+,harmonisation across global best practices occurs.
+"11.6-19.3 kgCO2e/m2 by 2030, which implies a reduction of 50-70%",
+"from the FY2021 baseline. However, only marginal progress has",
+been made in FY2024. The physical emissions intensity of,
+Macquarie’s residential mortgages sector has decreased by 14% to,
+"33.2 kgCO2e/m2 from the FY2021 baseline, primarily reflecting the",
+pace of decarbonisation within the Australian electricity grid.,
+"While the progress in FY2024 was relatively modest, it remains",
+"in line with Australian Government modelling, which suggests",
+that progress toward their 82% renewable target in 2030,
+will be backloaded.,
+With Australia’s population set to grow considerably in coming,
+"years, Macquarie plans to continue to increase lending to this",
+critical sector to support that growth.,
+Residential mortgages emissions intensity - Scope 1 and 2,
+kgCO2e/m2,
+45,
+
+=== Table 11 (page 14) ===
+,critical sector to support that growth.,,,,
+,Residential mortgages emissions intensity - Scope 1 and 2,,,,
+kgCO2e/m2,,,,,
+45,,,,,
+,,Macquarie,,,
+40,,portfolio,,,
+35,,,,Estimated pathway,
+,,,,implied by government,
+,,,,emission projections,
+30,,,,,
+25,,,CRREM,,
+,,,convergence,,
+,,,pathway,,
+20,,,,,
+,,,,,2030
+,,,,,target
+15,,,,,
+,,,,,range
+10,,,,,
+,FY2021,,FY2024,2030,

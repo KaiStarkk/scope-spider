@@ -1,5 +1,3 @@
-from typing import List
-
 from pydantic import BaseModel, ConfigDict, Field
 
 
@@ -34,14 +32,6 @@ class ExtractionRecord(BaseModel):
         default=0,
         ge=0,
         description="Count of tokens in the table snippet (OpenAI model equivalent or estimate).",
-    )
-    text_pages: List[int] = Field(
-        default_factory=list,
-        description="1-based page numbers included in the text snippet.",
-    )
-    table_pages: List[int] = Field(
-        default_factory=list,
-        description="1-based page numbers associated with extracted tables.",
     )
 
 

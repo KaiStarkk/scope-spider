@@ -1,0 +1,306 @@
+=== Page 3 ===
+Forward-looking statements 
+This report contains forward-looking statements 
+in relation to Coles Group Limited 
+(‘the Company’) and its controlled entities 
+(together, ‘Coles’, ‘Coles Group’, or ‘the 
+Group’), including statements regarding the 
+Group’s intent, belief, goals, objectives, 
+opinions, initiatives, commitments or current 
+expectations with respect to the Group’s 
+business, market and financial conditions, 
+results of operations and risk management 
+practices. Forward-looking statements can 
+generally be identified by the use of words such 
+as ‘forecast’, ‘estimate’, ‘plan’, ‘will’, ‘anticipate’, 
+‘may’, ‘believe’, ‘should’, ‘expect’, ‘intend’, 
+‘outlook’, ‘guidance’, ‘likely’, ‘aim’, ‘aspire’ 
+and other similar expressions. Similarly, 
+statements that describe the Group’s 
+objectives, plans, goals or expectations 
+are forward -looking statements.
+Any forward-looking statements are based 
+on the Group’s current knowledge and 
+assumptions as at the date of this report. 
+They are not guarantees or predictions of future 
+performance or outcomes and the Group does 
+not give any assurance that the assumptions 
+will be correct. The forward -looking statements 
+involve known and unknown risks, uncertainties 
+and assumptions, many of which are beyond 
+the control of the Group, that could cause the 
+actual outcomes to be materially different from 
+the relevant statements. Factors that may affect 
+forward-looking statements include legal and 
+regulatory change, industry competition, 
+changes to consumer behaviour, technological 
+changes and economic and geopolitical 
+factors, including global market conditions.Readers should not place undue reliance 
+on forward-looking statements and such 
+statements should be considered together 
+with the risks, uncertainties and 
+assumptions associated with the relevant 
+statements particularly given the inherent 
+unpredictability of future policy, market, 
+and technological developments. Except as 
+required by applicable laws or regulations, 
+the Group does not undertake to publicly 
+update, review or revise any of the 
+forward -looking statements in this report or to 
+advise of any change in assumptions on which 
+any such statement is based. Past performance 
+cannot be relied on as a guide for future 
+performance. This document may contain 
+statements that have been prepared by Coles 
+on the basis of information from publicly 
+available sources, and other third-party 
+sources, and this information has not been 
+verified by the Group. The Group does not 
+make any representation or warranty as to the 
+currency, accuracy, reliability or completeness 
+of such information in this report. 
+This report also includes forward-looking 
+statements regarding climate change 
+including energy transition and other 
+environmental scenarios. The long-term nature 
+of sustainability targets also means related 
+forward-looking statements are inherently 
+uncertain and should not be relied upon, as 
+outlined above.Report scope
+Unless otherwise stated, this Sustainability Report 
+covers the period 1 July 2024 to 29 June 2025 
+(FY25) for the Group. This is our retail 
+calendar, a reporting calendar based on 
+a defined number of weeks, with the annual 
+reporting period ending on the last Sunday 
+in June.
+The report focuses on topics that matter 
+most to our stakeholders and our business, 
+as determined through our 2025 materiality 
+assessment, detailed on page 10.
+This report has been prepared in 
+accordance with the Global Reporting 
+Initiative (GRI 1: Foundation 2021). Our 2025 
+Sustainability data pack (available at 
+colesgroup.com.au/sustainability) includes 
+the GRI Content Index for this report, as well 
+as our alignment with the United Nations 
+(UN) Global Compact Principles and the 
+UN Sustainable Development Goals (SDGs).
+Ernst & Young (EY) has provided 
+independent limited assurance1 in respect 
+of this report, including considering 
+whether the appropriate indicators have 
+been reported in accordance with GRI 
+Sustainability Reporting Standards. 
+A copy of EY’s independent assurance 
+report is on pages 71 to 74.
+1.  With the exception being greenhouse gas and energy metrics, which are subject to reasonable assurance.Report boundary 
+In this report, the terms ‘Coles’, ‘the Group’, 
+‘Coles Group’, ‘our business’, ‘organisation’, 
+‘we’, ‘us’, ‘our’ and ‘ourselves’ refer to Coles 
+Group Limited and its controlled entities. 
+This report contains information for Coles 
+Group Limited and its controlled entities 
+collectively during FY25 (unless 
+otherwise stated). 
+Refer to pages 67–70 in 
+the Appendix for a glossary of 
+terms included in this report.
+Feedback
+We welcome feedback on this report. 
+For more information or to provide 
+comments, please contact us at 
+sustainability@coles.com.au
+Coles Group 2025 Sustainability Report3
+Overview
+Climate
+Nature
+Circularity
+Foundational pillars
+Appendix
+Ernst & Young assurance report
+
+=== Page 4 ===
+Pictured: Coles Livestock Buyer Campbell Nettleton with 
+Kent Rochester from K&M Farming. Beef producers, Kent and 
+Michelle Rochester were awarded a Coles Nurture Fund 
+grant to expand their eShepherd virtual fencing program.FY25 sustainability snapshot 
+1. Renewable electricity percentage includes voluntary large-scale generation certificate (LGC) surrendered by us, renewable power percentage (RPP), 
+jurisdictional renewable power percentage (JRPP) and onsite solar within Coles’ operational control. The JRPP is only applicable in the Australian Capital Territory, 
+where the electricity supply is legislated to be 100% renewable. For all other Australian jurisdictions, the RPP is used to represent the renewable content of grid 
+electricity unless specific renewable procurement (e.g. LGC surrender) is demonstrated. FY25 electricity consumption includes one month of estimated data 
+(based on meter data or weighted averages of actuals) and 11 months of actual data. — 2. Excludes liquid waste except high-strength sludges (which contain 
+a high proportion of solids) and liquids diverted for use as food (such as donations to SecondBite and farmers). — 3. Coles uses SBTi’s Supplier Engagement 
+Guidance  to assess whether a supplier’s emissions reduction target is science-based. This guidance defines the key criteria that includes, but is not limited to: 
+a) target boundary (coverage of scopes, emission types and subsidiaries), b) target coverage (≥95% of scope 1 and 2 emissions, ≥67% near-term Scope 3 and ≥90% 
+long -term Scope 3), c) target type (absolute, intensity, or engagement), d) base year (≥2015), e) target year (near-term maximum 10 years and long-term maximum 
+2050), f) target reduction/ambition (Scope 1 and 2 1.5°C, Scope 3 near-term well below 2°C and long-term 1.5°C). — 4. Based on packaging data overlaid with 
+unit sales over a 52-week period until June 2025. — 5. FY25 Scope 1 emissions and Scope 2 emissions include one month of estimated data (based on meter data 
+or weighted averages of actuals) and 11 months of actual data and is calculated on a Scope 2 market-based methodology using LGCs. Coles has not relied on the 
+use of carbon offsets for the achievement of our Scope 1 and 2 emissions reduction. — 6. In addition to unsold edible food, these figures also include bulk food 
+and grocery donations to SecondBite and Foodbank.  — 7. Leadership positions comprises the Executive Leadership Team, general managers, team members 
+pay grade eight and above and supermarket store managers. Pay grade eight and above includes middle managers and specialist roles. — 8. Based on results 
+of our May 2025 mysay  team member engagement survey (69% participation).100 %
+renewable electricity1 sourced 
+for our operations88.0%
+of total solid waste2 
+diverted from landfill42.3%
+of suppliers have set Scope 1 
+and 2 science-based3 
+emissions reduction targets
+42.7%
+women in leadership roles7Awarded
+Platinum Status 
+in the Australian 
+Workplace Equality Index (AWEI)3.5%
+of team members8 identify 
+as Aboriginal or Torres 
+Strait Islander39.1m
+equivalent meals donated to 
+SecondBite and Foodbank687.6%
+of packaging across Coles Own 
+Brand and Coles Liquor Own 
+Brand is recyclable471.4%
+reduction in combined Scope 1 
+and 2 emissions from FY24 
+(81.3% reduction from FY20 
+baseline year)5
+Coles Group 2025 Sustainability Report4
+Overview
+FY25 sustainability snapshot
+Message from our Chairman 
+and CEO
+Our business and strategy
+Our approach to sustainability
+What matters most
+Stakeholder engagement
+Climate
+Nature
+Circularity
+Foundational pillars
+Appendix
+Ernst & Young assurance report
+
+=== Page 5 ===
+Message from our Chairman and CEO 
+In FY25, we have refreshed our 
+sustainability strategy, incorporating an 
+extended strategic focus out to FY30 on 
+three key environmental pillars – climate, 
+nature and circularity. These are the areas 
+where we aim to have the most significant 
+impact, and which we see as helping to 
+enhance long-term business resilience. 
+Importantly, our work under these pillars is 
+supported by our ongoing commitment to 
+human rights, enable and develop teams; 
+diversity and inclusion, health, safety and 
+wellbeing, community support and healthy, 
+safe and affordable food.We are pleased to share with you Coles Group’s 
+Sustainability Report for FY25, which details the progress 
+we have made against the key areas of our sustainability 
+strategy this past financial year. 
+1. For more detail on our emissions reduction and renewable electricity targets, refer to pages 14–15 of this report. — 2. For more 
+detail on our community contributions, refer to page 51 of this report. — 3. On a three-year rolling basis in the 2024 Giving Large 
+report from Strive Philanthropy.We acknowledge our shareholders have 
+provided feedback that they would like to 
+see increased reporting on nature impacts, 
+including deforestation and salmon farming,  
+and we have included more information on 
+these topics in this report. 
+Within our circularity pillar, we are focused 
+on reducing waste across our value chain, 
+in collaboration with our industry partners, 
+suppliers, producers and customers. 
+Reducing food waste continues to be a priority, 
+not only because of its impact on the environment, 
+but also because food insecurity continues to 
+be something many Australians experience. 
+In FY25, we provided the equivalent of 
+37.9 million meals to SecondBite and 
+1.2 million meals to Foodbank. Coles has 
+partnered with SecondBite since 2011, and 
+over that time has donated the equivalent of 
+296 million meals, as well as the equivalent 
+of 47 million meals to Foodbank since 2003.2
+Supporting the community 
+Our organisational purpose of ‘helping 
+Australians eat and live better every day’ 
+is reflected in the support we have given 
+throughout the year to the communities 
+in which we live and work. 
+For the fifth consecutive year, Coles placed 
+#1 for our contribution to the community as a 
+percentage of profit3 – something we could 
+only have achieved with the help of our 
+customers, team members and suppliers.
+This year many parts of Australia experienced 
+natural disasters, including multiple floods, 
+cyclones and ongoing drought, severely 
+impacting local communities. Despite the challenging circumstances, 
+our team members stepped in to support 
+our suppliers and customers, with some 
+tremendous examples shining through 
+of team members living our values. 
+Overall, we are pleased with the progress 
+we have made this year. We know, however, 
+there is more to do. Whether it is continuing 
+to improve customer satisfaction, reducing 
+unnecessary single use plastic packaging 
+or making it easier for our customers to shop 
+healthier and more affordable food, we are 
+committed to maintaining our focus to 
+create lasting and positive change. 
+Finally, on behalf of the Board and Executive 
+team, we would like to thank our team 
+members who go above and beyond every 
+day to serve our customers and support our 
+local communities. You are what makes 
+Coles such a great place to work – and 
+without you, the many achievements set out in 
+this report could not have been made possible. 
+Peter Allen
+Chairman, Coles Group Limited
+Leah Weckert
+Managing Director and Chief Executive 
+Officer, Coles Group LimitedAdvancing our approach to 
+climate, nature and circularity 
+The objective of our climate  pillar is to 
+progress towards decarbonisation of our 
+operations and work with our suppliers and 
+partners to reduce emissions to drive a more 
+resilient food system for Australia. 
+This year we met our target to source 100% 
+renewable electricity for our operations. 
+We also achieved a 71.4% reduction in 
+combined Scope 1 and 2 greenhouse gas 
+emissions (from FY24).1 
+We also set a new target this year to 
+reduce emissions in our supply chain, 
+related to forest, land and agriculture 
+(FLAG) sectors. 
+With approximately 55% of our total Scope 3 
+emissions related to these sectors, this will be 
+a key area of activity in the coming years. 
+Nature  continues to be an area of focus for 
+Coles, as we seek to better understand our 
+nature-related impacts and dependencies 
+and collaborate with farmers and suppliers 
+to drive more climate and nature resilient 
+supply chains. 
+Coles Group 2025 Sustainability Report5
+Overview
+FY25 sustainability snapshot
+Message from our Chairman 
+and CEO
+Our business and strategy
+Our approach to sustainability
+What matters most
+Stakeholder engagement
+Climate
+Nature
+Circularity
+Foundational pillars
+Appendix
+Ernst & Young assurance report

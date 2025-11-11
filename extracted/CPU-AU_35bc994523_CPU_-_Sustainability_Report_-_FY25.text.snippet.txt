@@ -1,0 +1,319 @@
+=== Page 3 ===
+Computershare Sustainability Report 2025 3
+Structure of the Sustainability Report 
+This report will cover content relating to:
+Governance Strategy Risk Management Metrics and targets
+ ›Materiality 
+assessment
+ ›Frameworks and 
+models ›Focus and priorities
+ ›Climate-related 
+opportunities 
+ ›Strategic 
+accomplishments ›Climate-related risks 
+ ›Material risk 
+assessments ›Our carbon footprint
+ ›Reporting methodologies and 
+data quality
+ ›5-year decarbonisation plan 
+and tracking against targets
+ ›Beyond value chain mitigationIntroduction
+Computershare aspires to effect positive change and aims to do the right thing in the 
+communities in which we operate by continuing to improve the sustainability of our 
+business activities. 
+Our commitment
+We are committed to; 
+ ›Helping create a more sustainable and equitable future 
+with shared value for our employees, clients, suppliers, 
+shareholders, community and the environment.
+ ›Identifying climate opportunities and mitigating 
+climate-related risks as part of our core strategic 
+priorities and day-to-day operations, in line with our 
+company values.
+This year’s Sustainability Report has been prepared in 
+alignment with voluntary and external frameworks, including 
+ISO 14064, and those developed by bodies such as the 
+Sustainability Accounting Standards Board (SASB), GHG 
+Protocol, Science-Based Targets Initiative (SBTi), and the  
+Task Force on Climate-Related Financial Disclosures (TCFD). 
+Data included within this Sustainability Report is for the 
+financial year ended 30 June 2025.We are working towards alignment with the Australian 
+Sustainability Reporting Standards (ASRS). For the 
+year ending 30 June 2026, Computershare will report 
+in accordance with the mandatory climate reporting 
+requirements of the Corporations Act 2001 (Cth), and 
+ASRS issued by the Australian Accounting Standard 
+Board (AASB).
+Materiality assessment
+Computershare’s internal materiality assessment has 
+identified the following topics as potential priorities:
+ ›Net Zero, greenhouse gas (GHG) emissions and climate
+ ›Energy management
+ ›Sustainable products and services
+These sustainability topics have been embedded within 
+our five-year sustainability strategy, which is regularly 
+reviewed by our Board.
+
+=== Page 4 ===
+Computershare Sustainability Report 2025 4
+IntRoductIon
+FY25 Year in focus
+In our 2024 ESG Report, we listed the following priorities for the FY25 reporting period. This table provides a progress update:
+1Preparing for the implementation and 
+governance of the new mandatory 
+reporting standards (ASRS) required 
+for FY26 In progressCompleted scenario analysis on climate-related risks 
+and opportunities. 
+Developed protocols to support governance models. 
+Changed internal management reporting approach 
+to begin transition to ASRS standards.
+2Ongoing implementation of our Net 
+Zero program (update on five-year 
+decarbonisation plan)In progressContinued work on our identified hotspot areas.
+3Agree on a third-party assurance 
+program for our FY25 greenhouse gas 
+data/carbon footprint measurementCompleteReviewed reporting approach for Scopes 1 and 2 in 
+line with ASRS Disclosures. 
+Computershare’s Internal Audit team completed a 
+validation review of the FY25 carbon footprint data.
+4Further our materiality assessment 
+by incorporating external stakeholder 
+engagementIn progressWork is due to be completed during FY26 in 
+readiness for mandatory climate reporting (ASRS). 
+5Increased supply-chain management 
+and supplier engagement in relation to 
+carbon dataIn progressIncreased the coverage of supplier carbon data 
+in relation to our total purchased goods and 
+services spend (from ~36% in FY24 to ~50% 
+in FY25) to improve the quality of our Scope 3 
+emissions reporting. 
+Over FY26, we aim to enhance our climate focus by:
+ ›Completing our implementation of new mandatory ASRS requirements and preparation for FY26 disclosures 
+ ›Ongoing implementation of our Net Zero program (including our five-year decarbonisation plan) Continuing to develop 
+and embed our supplier engagement program
+ ›Continuing to develop and embed our supplier engagement program
+ ›Continuing to improve the quality of our carbon data and calculation methodology
+
+=== Page 7 ===
+Computershare Sustainability Report 2025 7GoveRnAnce
+Assurance Model
+Computershare has a dedicated Internal Audit function led 
+by the Chief Audit Executive, who has a reporting line to 
+the Chair of the Risk and Audit Committee. Internal Audit is 
+authorised to audit, and has full and unrestricted access 
+to, all areas of the Computershare Group without needing 
+prior approval. The function’s key responsibilities are to: 
+ ›Review and appraise the adequacy, design and 
+effectiveness of the Group’s system of internal controls
+ ›Evaluate and improve the effectiveness of risk 
+management, control and governance processes 
+ ›Identify control gaps
+All internal audits are conducted in accordance with 
+Standards for the Professional Practice of Internal 
+Auditing issued by the Institute of Internal Auditors (IIA). 
+Our Internal Audit team issues written reports that are 
+distributed to management, and communicated to the Risk 
+and Audit Committee. Where the report identifies specific 
+findings and recommendations, the report will include an 
+action plan from management to implement appropriate 
+corrective action(s) within specific timeframes, which are 
+then actively monitored.
+Each year, Internal Audit prepares an annual audit plan 
+for approval by the Risk and Audit Committee. The plan 
+is based on a bottom-up risk assessment of auditable 
+Computershare entities (listed in the global audit 
+universe) and a top-down review of the enterprise risk 
+profile. The audit universe includes entities involved in 
+managing and governing sustainability risks. In FY25, two advisory engagements reviewed sustainability 
+data governance controls and reported sustainability 
+data. The global audit universe is subject to ongoing 
+reassessment to determine whether changes to the 
+annual audit plan should be made based on the enterprise 
+risk profile.  
+Computershare also engaged its statutory auditor to 
+conduct a readiness assessment of sustainability data 
+governance and regulatory ASRS reporting requirements 
+for FY25. The Group is in the process of implementing 
+responses to findings and recommendations from this 
+assessment ahead of formally engaging our statutory 
+auditor for limited assurance of greenhouse gas emission 
+data and required disclosures for the Group’s FY26 
+Sustainability Report, in line with the required assurance 
+timelines in Australia.
+Executive Remuneration
+Computershare continues to evaluate executive 
+remuneration to ensure reward is linked to sustainability 
+objectives. In FY25, 5% of the CEO and CFO’s objectives 
+(and financial outcomes) were linked to ESG-related 
+targets. Additionally, our short-term incentive 
+schemes for senior management include ESG-related 
+performance targets.
+Details of the allocation of executive remuneration in 
+relation to ESG targets can be found in our Annual Report 
+on page 38; our remuneration governance framework can 
+be found on page 40.
+
+=== Page 9 ===
+Computershare Sustainability Report 2025 9StRA teGy
+Sustainability Opportunities
+Computershare’s long-term success goes hand-in-hand 
+with our success in developing our people, strengthening 
+our communities and protecting our environment. 
+We’re proud of what we’ve accomplished so far and will 
+continue to share our progress as we expand our efforts in 
+these areas. 
+Key to developing our business and helping us deliver on 
+our sustainability goals is our ongoing work to increase 
+the levels of digitisation across our products and services, 
+reducing reliance on paper and transportation.
+Digitalisation and systems are at the core of 
+Computershare’s value proposition and are integral to our 
+growth strategy. As just one example, Computershare 
+is investing in new digital platforms to support Issuer 
+Services business. The initial launch saw the introduction 
+of Sphere in the USA, delivering an intuitive digital 
+platform which provides advanced insights to support 
+our Issuer clients deliver on their strategy and regulatory 
+requirements. Our intent is to roll this out globally.
+Computershare continues to seek opportunities to drive 
+growth across our business, including through further 
+digitisation   and identification of new clients in line with 
+our group business and sustainability strategy. Please 
+refer to our Annual Report for more details. 
+Strategic accomplishments for FY25
+digitisation Initiatives and Growth 
+Over the past year, we have embarked on a major project 
+to enhance our digital offerings, representing a significant, 
+multi-year investment. Our overarching goal is to make it 
+easier and more efficient for Issuer Services clients and 
+their shareholders to do business with us. 
+For instance, we have delivered a range of new product 
+features for shareholders, giving them more options to 
+transact with us digitally. These include a fully digital share 
+transfer service, instant registration when joining Investor 
+Centre, a new AI chatbot channel for customer support, 
+a new product to access tax information more efficiently, 
+and the Investor Centre mobile app, giving shareholders 
+instant access to information on the go. Since launching these new digital offerings in the US, 
+our largest market, we’ve seen a high take-up rate of 
+shareholders taking advantage of these features for 
+convenience. As a result, we’ve observed:  
+1. Increasing digital Self Service : Customers are 
+moving from analogue transactions (paper/mail, and 
+phone calls or emails to our employee agents) to new 
+digital offerings. Year-on-year, analogue transactions 
+have declined by 12%.
+2. Reduced consumption of paper: Our new digital 
+offerings have significantly reduced the incidence 
+of shareholders transacting with us via mail.  
+Examples include:
+ › A fully digital onboarding journey has reduced 
+mailing of  access codes by 41%
+ › A new customer journey for digital transfers has 
+reduced the number of paper forms being mailed 
+by shareholders to complete transfers by 14%
+ › The Investor Centre Mobile app allows customers 
+instant access to their portfolio, at any time 
+from anywhere; this includes access to digital 
+statements and tax documents, reducing the 
+need for them to receive hard copies
+As a consequence of shareholders increasing their 
+use of our digital products, we’ve seen a 13% reduction 
+(year-on-year) in the overall volume of inbound 
+documents, mail and paper.
+Sites and equipment
+We have initiated a global site rationalisation project 
+within our Communication Services business (CCS) that 
+will reduce the number of production sites in Australia. 
+We also plan to; reduce floor space and further energy 
+efficiencies. 
+We continue to invest in our print and mail fleets, replacing 
+legacy machines that have reached end-of-life with 
+more energy and resource efficient equipment resulting 
+in fewer machines in operation. Market forces, such 
+as regular increases in postage costs and regulatory 
+changes, are reducing demand for physical print and mail 
+across most of our regional businesses whilst our digital 
+offerings are seeing a corresponding increase in demand. 
+We expect this will result in Scope 1 emission benefits in 
+future periods.
+
+=== Page 13 ===
+Computershare Sustainability Report 2025 13
+Metrics and targets
+Calculating our FY25 carbon footprint 
+Computershare engages an external adviser to support 
+the annual calculation of our global carbon footprint. 
+This process includes any required adjustments 
+to previously reported years (or base years) where 
+acquisitions, divestitures, data improvements or identified 
+data errors result in a change to the calculated total 
+footprint that is greater than 5%, exceeding our materiality 
+threshold in line with the Greenhouse Gas (GHG) Protocol.
+We first calculated our carbon footprint for the 2020 
+calendar year (CY20) and published the results in our 
+2021 Annual Report. That same year, we reported a major 
+reduction in Scope 2 emissions by purchasing Renewable 
+Energy Certificates (RECs), covering 100% of our 
+non-renewable electricity consumption across all global 
+locations. We have renewed this commitment every 
+year since; we will continue to explore opportunities to 
+install renewable energy solutions across our portfolio of 
+offices globally.
+In 2022, we set a target to reach Net Zero by 2042. 
+To support this, we recalculated our CY21 footprint to 
+include all remaining Scope 3 emissions, as required by 
+the Science Based Targets initiative (SBTi) for Net Zero 
+target setting.
+Following three consecutive calendar year reports, 
+we transitioned to financial year (FY) reporting in FY24 
+to align with mandatory climate disclosures under 
+the upcoming ASRS, effective from FY26. FY25 marks 
+our second year of financial year carbon footprint 
+measurement. This alignment ensures consistency in 
+year-on-year emissions tracking and science-based target 
+reporting. 
+FY25 represents a transitional year in strengthening our 
+climate governance and preparing for the progressive 
+implementation of ASRS requirements. This year’s 
+footprint reflects a focus on data quality across all scopes, 
+driven by:
+ ›Systematic review of source data impacting 
+recalculations triggered by an uplift programs in 
+procurement.
+ ›Improved supplier engagement and access to primary 
+emissions data.
+ ›Updated methodologies and emission factors, aligned 
+with the latest GHG Protocol and DEFRA guidance.These enhancements have led to more accurate and 
+representative estimates of GHG emissions. Compared 
+to our base year, total emissions (including optional 
+categories) increased by 22%. This increase is a direct 
+result of Scope 3 emissions, which increased by approx. 
+56%. Scope 1 and 2 emissions decreased by approx. 34% 
+and approx. 99% respectively.
+Computershare has continued to focus on improving the 
+quality and maturity of our data collection. During FY25, 
+we have significantly improved our capacity to identify 
+Scope 3 emission exposures across our extensive global 
+supply chain. Within this category, we identified additional 
+supply chain exposures that hadn’t been captured in our 
+reporting history, due to system and process limitations; 
+for example, exposures arising from IT service activities 
+and employee benefits, as opposed to those related to 
+computer hardware manufacturers. Our introduction of a 
+new financial system during FY24 and FY25 has provided 
+greater transparency to components of our spending, and 
+has created clearer pathways for categorisation. 
+These improvements have enabled us to reassess 
+treatment across data sets, identify incomplete areas, and 
+improve the quality of our baseline emissions reporting.  
+In line with our re-baselining policy and the GHG Protocol, 
+any changes to reported emissions greater than 5% due to 
+methodology changes will result in re-baselining. We will 
+undertake this change and report on it in FY26.
+Our carbon footprint for FY25 (1 July 2024 to 30 June 2025) 
+was calculated in August 2025 using the most up-to-date 
+methodology and data sources. This positions us well for 
+the increasing regulatory expectations of ASRS so that 
+our emissions reporting remains robust, transparent, and 
+actionable.

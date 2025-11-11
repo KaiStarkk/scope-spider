@@ -1,0 +1,345 @@
+=== Page 33 ===
+Identify, analyse and manage 
+sustainability-related risks 
+and opportunities through 
+application of our Risk 
+Management  Framework.
+Monitor the regulatory and 
+policy landscape relating to 
+sustainability to implement 
+processes to comply with 
+requirements as they arise. Integrate management planning 
+for the sustainability-related 
+risks and opportunities into the 
+Company strategic and business 
+planning cycles.
+Establish processes to identify 
+opportunities to improve 
+energy and water efficiency, 
+reduce waste, reduce and 
+manage emissions and where 
+practicable, embracing clean 
+energy technologies. Engage with our stakeholders in 
+a respectful, open and honest 
+manner, in all cases upholding 
+ethical business practices and 
+complying with all applicable 
+legal requirements. 
+Promote awareness of 
+sustainability and sustainable 
+practices to strengthen 
+capabilities and skillset within 
+our workforce.Engage with Indigenous Peoples 
+to develop and strengthen 
+relationships. We will consult 
+with Indigenous Peoples on 
+how to manage the impacts of 
+our operations on Indigenous 
+cultural heritage, in accordance 
+with agreed plans and 
+arrangements.  Through the attraction and 
+retention of the “right people” and 
+creating a safe and respectful 
+working environment we will build 
+a workforce that represents the 
+communities in which we operate 
+and provides a platform for our 
+people to do their best. Contribute to the conservation 
+of biodiversity by implementing 
+integrated approaches to land 
+use planning and environmental 
+management in areas affected 
+by our operations.OUR SUSTAINABILITY PRINCIPLES 
+The core set of sustainability principles that guide our practices and underpin our sustainability approach and strategy are: 
+2024 ANNUAL REPORT | 29
+
+=== Page 36 ===
+MATERIALITY ASSESSMENT
+In our FY2023 Sustainability Report, we centred our reporting around four key focus areas which had been 
+developed to guide our sustainability efforts and initiatives. 
+These focus areas were:
+• Water Efficiency and Containment: 
+Optimise resource use in water, 
+energy, and consumables, 
+including waste.
+• Diversity and Inclusion: Foster a 
+diverse and inclusive workplace 
+that reflects community diversity.
+• Carbon and Climate Change: 
+Reduce carbon emissions and 
+promote renewable energy 
+adoption.
+• Biodiversity and Land: Ensure 
+positive environmental, economic, 
+and social outcomes throughout 
+the mining lifecycle.A materiality assessment was again 
+conducted this reporting period 
+which took into account future 
+mandatory reporting obligations and 
+anticipated legislative changes. The 
+revised materiality assessment results 
+have informed the structure of this 
+year’s Sustainability Report.
+Aeris Resources’ materiality 
+assessment was designed to identify 
+and prioritise the sustainability issues 
+that are most relevant to our business 
+and stakeholders. The assessment 
+involved evaluation of various factors, 
+including industry trends, stakeholder 
+expectations, and potential risks and 
+impacts on our operations and long-
+term strategy.The results were cross referenced with 
+the GRI 14 Mining Sector Standard to 
+determine which specific disclosure 
+topics are most relevant to our 
+operations. This focused approach 
+ensures that our reporting is 
+addressing the most material aspects 
+of our business, reflecting stakeholder 
+concerns and aligning our known 
+opportunities and risks against the 
+GRI reporting requirements. 
+Risk Matrix for Sustainability Reporting Purposes
+32 | AERIS RESOURCES
+
+=== Page 37 ===
+The assessment highlighted topics that are considered to 
+be of higher risk due to their potential on Aeris Resources’ 
+operations, activities, and stakeholders. All Standards 
+ranking as high risk on this matrix were determined to be 
+material topics for sustainability reporting purposes.
+Although not in the same high risk category, Water 
+and Effluents (GRI 14.7), Non-Discrimination and Equal 
+Opportunity (GRI 14.21), Local Communities (GRI 14.10) 
+and Occupational Health and Safety (GRI 14.16) were also 
+identified as material topics as they are considered to be 
+core sustainability reporting topics of interest to internal 
+and external stakeholders, as well as imperative to the 
+operation of our business and to maintaining our social 
+licence to operate.
+A total of nine material topics were identified 
+and included in the FY24 Sustainability Report.Environment
+Energy & Greenhouse Gas Emissions
+Climate Adaptation & Mitigation
+Water & Effluents
+Tailings
+Closure & Rehabilitation
+People
+Non-discrimination & Equal Opportunity
+Community
+Economic Impacts
+Local Communities
+Health, Safety & Wellbeing
+Occupational Health & SafetyMaterial Topics for Reporting
+2024 ANNUAL REPORT | 33
+
+=== Page 38 ===
+ENVIRONMENT
+With mines and projects across multiple states in Australia, we operate in several unique environments  
+home to diverse ecosystems. 
+Our mining operations impact these 
+environments, so we have designed 
+processes and procedures to monitor 
+and manage our environmental 
+impacts. We embed these processes 
+throughout our operations and 
+promote awareness among our 
+employees to ensure that we 
+maintain our social license to operate 
+and act responsibility in delivering our 
+products. 
+ENERGY & GREENHOUSE  
+GAS EMISSIONS 
+With the pressing challenges of 
+climate change and the global call 
+for sustainable solutions, the issues of 
+energy, carbon emissions and climate 
+change remain a central focus to 
+our operations and our stakeholders. 
+Sustainability is becoming a key 
+concern for consumers and with 
+growing regulatory, societal and 
+investor demands, there has been 
+an increase on the emphasis of Aeris 
+Resources’ operational emissions and 
+energy efficiency.
+We are conscious of the need to 
+manage our operational emissions 
+and the demand for producing 
+minerals with limited environmental 
+impact. Simultaneously, the mass 
+scale energy transition to a lower 
+carbon economy presents a rising 
+demand for the base and precious 
+metal we produce. Copper, in 
+particular, is essential for the 
+renewable energy infrastructure that 
+underpins the shift to sustainable 
+energy systems.Aeris Resources reports Scope 1 and 
+2 Greenhouse Gas (GHG) emissions 
+to the Clean Energy Regulator 
+(CER) annually, in accordance with 
+Australia’s National Greenhouse 
+and Energy Reporting (NGER) 
+Scheme. As a result, data on energy 
+consumption and greenhouse gas 
+emissions from fossil fuel combustion 
+and electricity usage at each facility 
+has been prepared and calculated 
+following the NGER methodology and 
+adhering to the guidelines set forth by 
+the Department of Climate Change, 
+Energy, the Environment and Water’s 
+National Greenhouse Accounts 
+(NGA) Factors (August, 2023).
+Mining operations are energy-
+intensive and contribute to  
+Scope 1 and 2 GHG emissions, 
+primarily from the use of fossil 
+fuel-powered machinery and the 
+consumption of both self-generated 
+and purchased electricity. Our operations heavily rely on 
+liquid fuels, primarily diesel, for 
+our machinery and vehicles. This 
+comprises 48% of our total energy 
+profile, while liquefied petroleum 
+gas (LPG) only used at our Cracow 
+site makes up almost 1%. Electricity 
+purchased from the grid powers our 
+offices, mining infrastructure, and 
+processing activities, and comprises 
+37% of our total energy profile. In 
+FY24, our total energy consumption 
+amounted to 1,332,575 GJ. The 
+energy mix across our sites varies 
+based on their location, operation 
+and infrastructure, with key forms of 
+energy being electricity (network grid 
+and natural gas generation supply) 
+and diesel.
+FY24 Total Energy Profile by Fuel Source
+Diesel (GJ) 
+47.9 %Electricity (GJ) 
+36.9%
+LPG (GJ)  
+0.6%
+Natural Gas (GJ) 
+14.6%
+34 | AERIS RESOURCES
+
+=== Page 39 ===
+At our Tritton and Cracow operations, 
+diesel is primarily used for mining 
+machinery, heavy transport, and 
+light vehicles. A diesel power plant 
+is also required at Tritton, while 
+Cracow uses LPG for boilers, furnaces, 
+and production activities. At both 
+sites, we use grid electricity to 
+power processing activities and site 
+infrastructure. 
+Jaguar and North Queensland 
+Operations are not connected 
+to the electricity grid and rely on 
+hydrocarbon-based fuels and  
+natural gas, as a result of their  
+remote locations.
+North Queensland Operations  
+use diesel as the fuel for electricity 
+generation and for mining 
+machinery.
+At Jaguar Operations, we supply 
+the natural gas used by the on-
+site power station, which is owned 
+and operated by Pacific Energy, 
+a third-party contractor. All of the 
+electricity generated from this power 
+station is used exclusively by Aeris 
+Resources, with none being fed back 
+into the grid. As such, natural gas 
+consumption for power generation 
+is classified as a Scope 1 emission 
+source.  Natural gas generated 
+electricity is also supplemented by 
+diesel-powered generators. The electricity consumption and, 
+hence, natural gas consumption 
+at Jaguar Operations has reduced 
+significantly during the year as a 
+result of the operation transitioning  
+to care and maintenance.
+Energy Consumption  
+& Intensity 
+The energy intensity of our operations 
+will change from year to year 
+depending on the changing 
+character of the operation. Important 
+characteristics that drive energy use 
+are the volume of development and 
+stoping activity, the depth of mining, 
+capital development of new mining 
+projects, grade and hardness of the 
+ore, and how electrical power is 
+sourced for remote operations. The 
+complex interaction of these drivers 
+does not allow for simple conclusions 
+to be made based on year-to-year 
+comparisons of energy intensity 
+statistics. Our sustainability objective 
+is to reduce energy consumption 
+to as low as reasonably practical 
+within the technical and economic 
+constraints for each operation.
+In FY24, Tritton experienced a 
+decrease in both diesel and 
+electricity consumed, amounting  
+to a 22% decrease in total energy  
+use as compared to FY23. The inverse trend was observed at our 
+Cracow Operations where an overall 
+16% increase in energy use occurred 
+as compared to FY23. A significant 
+contribution to this increase in energy 
+intensity is associated with the diesel 
+usage involved in the construction 
+activities for the Tailings Storage 
+Facility 2 (TSF2) capacity increase, 
+which occurred during the reporting 
+period.
+The following table provides detailed 
+information on our organisation’s 
+total fuel consumption from non-
+renewable sources. The data is 
+presented in gigajoules and includes 
+a breakdown by specific fuel types 
+used during the FY24 reporting 
+period.
+Where no unit of primary production 
+is available, as is the case for our 
+Corporate Head Office, we have 
+instead calculated energy and 
+emissions intensity using number  
+of full time employees (FTE) as at  
+30 June 2024.
+Due to entering care and 
+maintenance during the reporting 
+period, Jaguar’s energy intensity 
+figure has been calculated using 
+the copper and zinc production 
+figures from the first quarter while the 
+mine was still in production. This has 
+resulted in a higher energy intensity as 
+compared to FY2023.
+Energy Profile by Fuel Source1
+Energy Source Tritton Cracow JaguarNorth 
+QueenslandCorporate 
+(Head Office) Total
+Diesel (GJ) 338,743 146,097 22,534 131,511 - 638,884
+Natural Gas (GJ) - - 194,788 - - 194,788
+LPG (GJ) - 7, 512 - - - 7, 512
+Electricity (GJ) 302,270 189,023 - - 98 491,391
+Total (GJ) 641,013 342,632 217,322 131,511 98  1,332,575
+1.  All energy and GHG emissions calculations have been performed in accordance with the Department of Climate Change, Energy, the 
+Environment and Water’s National Greenhouse Accounts (NGA) Factors 2023, which provides methods, calculations and measurement 
+standards for estimating energy and greenhouse gas emissions. For further details refer to the publication www.dcceew.gov.au/sites/
+default/files/documents/national-greenhouse-account-factors-2023.pdf
+2024 ANNUAL REPORT | 35

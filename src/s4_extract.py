@@ -3,7 +3,7 @@ import os
 import re
 import sys
 from pathlib import Path
-from typing import List, Tuple
+from typing import Any, List, Optional, Tuple
 
 from src.models import Company, ExtractionRecord
 from src.utils.companies import dump_companies, load_companies
@@ -67,17 +67,17 @@ def extract_scope_tables(
     pdf_path: Path, hit_pages: List[int]
 ) -> Tuple[str, int, List[int]]:
     if camelot is None or not hit_pages:
-        return "", 0
+        return "", 0, []
     page_spec = ",".join(str(page_idx + 1) for page_idx in sorted(set(hit_pages)))
     if not page_spec:
-        return "", 0
+        return "", 0, []
     tables_collected: List[str] = []
     table_counter = 0
     table_page_numbers: List[int] = []
-    table_list = None
+    table_list: Optional[Any] = None
     for flavor in ("stream", "lattice"):
         try:
-            table_list = camelot.read_pdf(
+            table_list = camelot.read_pdf(  # type: ignore[attr-defined]
                 str(pdf_path),
                 pages=page_spec,
                 flavor=flavor,
@@ -87,7 +87,7 @@ def extract_scope_tables(
         if table_list and len(table_list) > 0:
             break
     if not table_list:
-        return "", 0
+        return "", 0, []
     for table in table_list:
         dataframe = table.df
         if dataframe is None or dataframe.empty:
@@ -148,6 +148,15 @@ def main():
     for company in candidates:
         idx_ok += 1
         download_record = company.download_record
+        if download_record is None or not download_record.pdf_path:
+            company.download_record = None
+            company.extraction_record = None
+            ticker = company.identity.ticker or "UNKNOWN"
+            print(
+                f"FAIL [{idx_ok}/{total_ok}] extract: missing PDF path for {ticker}; download record cleared",
+                flush=True,
+            )
+            continue
         pdf_path = Path(download_record.pdf_path)
         if not pdf_path.exists() or pdf_path.suffix.lower() != ".pdf":
             company.download_record = None
@@ -217,7 +226,6 @@ def main():
                 flush=True,
             )
             continue
-        text_pages = [page_index + 1 for page_index in chosen_pages]
         try:
             safe_write_text(out_txt, snippet)
         except OSError as e:
@@ -229,9 +237,7 @@ def main():
             continue
 
         text_tokens = count_tokens(snippet)
-        table_snippet, table_count, table_pages = extract_scope_tables(
-            pdf_path, chosen_pages
-        )
+        table_snippet, table_count, _ = extract_scope_tables(pdf_path, chosen_pages)
         table_path_str: str | None = None
         table_token_count = 0
         if table_count > 0 and table_snippet:
@@ -247,23 +253,18 @@ def main():
                 table_count = 0
                 table_token_count = 0
                 table_path_str = None
-                table_pages = []
                 if out_tables.exists():
                     out_tables.unlink(missing_ok=True)
         elif out_tables.exists():
             out_tables.unlink(missing_ok=True)
-        if table_count == 0:
-            table_pages = []
 
         company.extraction_record = ExtractionRecord(
-            text_path=str(out_txt),
+            json_path=str(out_txt),
             text_token_count=text_tokens,
-            snippet_page_count=len(chosen_pages),
+            snippet_count=len(chosen_pages),
             table_path=table_path_str,
             table_count=table_count,
             table_token_count=table_token_count,
-            text_pages=text_pages,
-            table_pages=table_pages,
         )
 
         print(

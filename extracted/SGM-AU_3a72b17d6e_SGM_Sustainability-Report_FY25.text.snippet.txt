@@ -1,0 +1,327 @@
+=== Page 2 ===
+CONTENTS
+About This Report 2
+Reporting scope 2
+Reporting Frameworks and Principles 3
+How to Navigate – Link to Indices 3
+Assurance Level and Scope  3
+Reporting in FY26 3
+Introduction 4
+Message from the CEO & Chair 4
+About Sims Limited 5
+Alignment to values 5
+Our business model and value creation 6
+Sustainability Strategy 8
+Financial Year Highlights 10
+Performance 10
+Awards, Certification and Recognition 11
+Corporate Governance 12
+Sustainability Leadership and Capability 12
+Board Engagement on Climate in FY25 13
+Informed Oversight and Decision-Making 14
+Management’s Role 14
+Governance Processes and Policies 15
+Advocacy Efforts 15
+Stakeholder Engagement 16
+Materiality and Prioritisation 18
+Operate responsibly 20
+Our People 20
+Health and safety 20
+Valuing human capital 22
+First Nations 29
+Reconciliation Action Plan 29
+Ethical Business Practices 30
+Human rights and modern slavery 30
+Ethical conduct 30
+Fair remuneration 31
+Privacy and security 31
+Economic contribution 31
+Tax matter 31Support communities 32
+Community Investment and Volunteering 32
+Complaints and Responsiveness 33
+Action on Climate 34
+Climate Strategy 34
+Avoided impact 34
+Circularity in Practice 38
+Climate targets 39
+Decarbonisation plan 40
+Climate Strategy Execution 41
+Performance against targets 42
+Next phase of our journey 46
+Use of carbon offsets 47
+Business model and value chain impacts 48
+Strategy and decision-making 48
+Climate-related financial planning 49
+Transition planning and governance 49
+Nature and Resource Stewardship 50
+Environmental management 50
+Risk Management 53
+Climate risks and opportunities 53
+Metrics and Targets 56
+Appendix 57
+Basis of Preparation 57
+Frameworks Indices 58
+Task Force on Climate-related Financial 
+Disclosures index 58
+Australian Sustainability Reporting 
+Standards index 59
+Global Reporting Index (GRI) Standard Index 60
+Sustainability Accounting Standards 
+Board (SASB) Index 66
+Assurance 68
+Assurance Statement 68
+Glossary 72
+
+=== Page 4 ===
+About This ReportOVERVIEW
+Reporting scope
+This report forms part of Sims Limited’s FY25 ESG disclosures, which include: 
+Sustainability Report
+Our primary sustainability 
+disclosure, now inclusive of 
+climate-related content which was 
+previously reported separately.ESG Databook
+A companion Excel 
+document containing 
+detailed ESG data points.Modern Slavery Statement
+A standalone report addressing 
+human rights due diligence and 
+modern slavery risks.
+Our reporting covers a broad range of ESG metrics, including but not limited to: greenhouse gas (GHG) 
+emissions, energy use, waste generation, water consumption, health and safety, gender pay equity, and other 
+workforce indicators.The FY25 Sustainability Report outlines Sims Limited’s performance and progress 
+across key environmental, social and governance (ESG) topics for the financial year 
+ended 30 June 2025. It includes both qualitative and quantitative data covering our 
+global operations and is intended to provide stakeholders with a transparent view of 
+how we manage our most material sustainability issues.
+2025 SUSTAINABILITY REPORTExecuting on strategy to deliver sustainable returnsCreating value
+through circularity
+2025 SUSTAINABILITY DATABOOKExecuting on strategy to deliver sustainable returnsDriving Change.
+Delivering Value.
+2025 MODERN SLAVERY STATEMENTExecuting on strategy to deliver sustainable returnsProtecting People.  
+Shaping Change.ABOUT THIS REPORT
+2 Sims Limited  Sustainability Report 2025
+
+=== Page 5 ===
+Reporting Frameworks and Principles
+This report has been prepared in line with key 
+international and national reporting frameworks. We have 
+commenced alignment to the Australian Sustainability 
+Reporting Standards (ASRS) – through AASB S1 and 
+AASB2 – and aim to progressively align with all ASRS 
+disclosure requirements in future reporting periods.
+GHG emissions data is reported in accordance with 
+the Greenhouse Gas Protocol: A Corporate Accounting 
+and Reporting Standard  and the Corporate Value Chain 
+(Scope 3) Accounting and Reporting Standard . For further 
+detail, refer to the Basis of  section in the Appendix of 
+this document.
+We also consider elements of the Global Reporting 
+Initiative (GRI) standards where relevant to our 
+material topics. 
+Beyond this report, we disclose sustainability-related 
+information in line with other frameworks and regulatory 
+programs, including:
+ ■CDP (formerly Carbon Disclosure Project) – Climate
+ ■Australia’s National Greenhouse and Energy 
+Reporting (NGER) Scheme.
+How to Navigate – Link to Indices
+This report includes several tools to support accessibility 
+and navigation:
+ ■hyperlinked table of contents to jump 
+between sections
+ ■reporting indices showing alignment to the four 
+Task Force on Climate-related Financial Disclosures  
+and ASRS pillars  (Frameworks Indices)
+ ■data tables and key messages throughout the report
+ ■cross-references to other policies and reports
+ ■a glossary of key terms and acronyms ( Glossary ).
+We encourage readers to explore the full suite of 
+materials to gain a comprehensive view of Sims Limited’s 
+sustainability performance and priorities.
+Assurance Level and Scope 
+While assurance of sustainability disclosures is not yet 
+mandatory under the ASRS, Sims Limited has voluntarily 
+obtained limited assurance over selected ESG metrics 
+since FY20. These metrics include:
+ ■total energy consumption
+ ■direct sources (Scope 1)
+ ■fugitive emissions, including refrigerants ■indirect sources (Scope 2 location-based and 
+market-based)
+ ■value chain sources (Scope 3)
+ ■NOx and SOx emissions from fuel combustion
+ ■total water consumption
+ ■waste volume
+ ■gender pay gap
+ ■health and safety data.
+The assurance statement , provided by Apex, offers 
+limited assurance over the selected ESG data listed 
+above. The assurance was conducted in accordance 
+with standard third-party procedures, referencing the 
+International Standard on Assurance Engagements (ISAE) 
+3000 (Revised).
+For GHG emissions, assurance was additionally 
+conducted in line with ISO 14064-3:2019 ( Greenhouse 
+gases – Part 3: Specification with guidance for 
+the verification and validation of greenhouse 
+gas statements ).
+The assurance was based on the following criteria:
+ ■WRI/WBCSD Greenhouse Gas Protocol: A Corporate 
+Accounting and Reporting Standard
+ ■WRI/WBCSD Corporate Value Chain (Scope 3) 
+Accounting and Reporting Standard.
+The objective of the assurance is to provide users with 
+confidence that the relevant data is free from material 
+misstatement, and that it supports decision-making with 
+a reasonable degree of confidence.
+Reporting in FY26
+Sims Limited’s sustainability reporting suite will 
+continue to evolve in FY26 as we move closer to full 
+alignment with the ASRS. In FY25, we consolidated 
+our disclosures into a single Sustainability Report, 
+supported by a Sustainability Databook and our Modern 
+Slavery Statement, which is published at the end of each 
+calendar year. Structured around the four ASRS pillars, 
+the report also reflects our initial progress in addressing 
+gaps as we align with ASRS requirements. In FY26, we 
+will further refine our approach, expanding coverage of 
+climate-related risks, opportunities and financial impacts, 
+with progress assessed against ASRS expectations as 
+part of our external review process.
+Sims Limited  Sustainability Report 2025 3
+
+=== Page 6 ===
+1 Scope 1 and Scope 2 market basedINTRODUCTION
+Message from 
+the CEO & ChairIntroduction
+FY25 was a milestone year for Sims Limited, with 
+our original sustainability targets achieved and now 
+embedded in our operations. Together, we reinforced 
+our leadership in the circular economy and laid the 
+foundations for the next phase of sustainability reporting 
+and accountability – always guided by our purpose to 
+create a world without waste to preserve our planet.
+Delivering on climate commitments
+We are proud to have achieved a 49% reduction in Scope 
+1 and 2 emissions against our FY20 baseline, significantly 
+exceeding our 23% reduction target. We also reached our 
+goal of sourcing 100% renewable electricity across all 
+operated businesses, marking a major milestone in our 
+decarbonisation journey. Alongside this, Sims Lifecycle 
+Services achieved carbon neutrality.
+Importantly, the positive impact of our operations 
+extends well beyond our own footprint. The emissions 
+we help avoid are more than 160 times greater than our 
+combined operational footprint.1 While these avoided 
+emissions are not part of our Scope 1, 2, or 3 inventories, 
+they highlight Sims’ dual role: enabling customer 
+decarbonisation through circular solutions, while 
+continuing to progressively reduce our own footprint.
+Embedding robust governance 
+FY25 was also a year of preparation for new regulatory 
+expectations. We strengthened our data quality 
+processes, positioning Sims strongly as we move toward 
+compliance with the Australian Sustainability Reporting 
+Standards (ASRS) from FY26.
+We will bring a non binding Climate resolution to 
+shareholders at the 2025 AGM, seeking support for the 
+Sustainability and Climate Report which lays out that 
+we are a key player in the circular economy, enabling 
+significant emissions reductions, and we have met our 
+2025 targets. However, our pathway to 2030 looks 
+more challenging and costly and we will review our way 
+forward during 2026.Prioritising safety and people
+Nothing matters more to Sims than the health and 
+wellbeing of our people. In FY25, we recorded an all-time 
+low Lost Time Injury Frequency Rate of 0.11, reducing 
+lost time events by more than 50% compared with last 
+year. This world-class result reflects the vigilance of our 
+employees and the strength of our safety culture.
+Our people are central to our progress on culture, 
+diversity, and inclusion. In FY25, our employee 
+engagement survey again achieved a score of 82% 
+– a level we have maintained at record highs since 
+FY21. This consistency highlights the resilience of our 
+culture through a period of significant transformation 
+and reinforces the commitment of our people to Sims’ 
+purpose and values.
+We also continued to invest in programs to strengthen 
+gender representation, including the Women 
+Leadership@Sims Forum, which has supported over 
+44% of its alumni into promotions or expanded 
+responsibilities. Female representation across senior 
+leadership rose to 23% in FY25, and we remain 
+committed to further increasing the participation of 
+women across our workforce and leadership pipelines.
+Our commitment to leadership development is central to 
+shaping the culture we want for Sims. In FY25, employees 
+completed more than 110,000 courses through the Sims 
+University Learning Centre, covering safety, professional 
+development, ethics and inclusive leadership. The 
+global Leaders’ Commitment curriculum reinforces 
+psychological safety, inclusion and accountability 
+as core expectations for managers and supervisors, 
+strengthening a culture of integrity, care and high 
+performance that reflects the values of Sims.
+4 Sims Limited  Sustainability Report 2025
+
+=== Page 7 ===
+About Sims Limited
+Looking forward with optimism
+The year ahead will bring new challenges, market 
+volatility, tighter regulatory demands, and the technical 
+complexity of decarbonisation. But it will also bring 
+opportunities. With the resilience of our people, the 
+trust of our shareholders, and the partnerships we have 
+built across industries and communities, Sims is well 
+positioned to continue creating value for all stakeholders 
+while advancing global decarbonisation.
+Importantly, in FY26 we will undertake a comprehensive 
+review of our decarbonisation plan. While we have made 
+strong progress in reducing emissions, Scope 1 emissions 
+account for nearly all remaining operational emissions 
+and remain harder to abate. By recalibrating our plan, 
+we will ensure that capital is directed toward the most 
+impactful and strategically aligned initiatives, with a 
+focus on tackling these difficult-to-abate sources while 
+maintaining momentum toward our long-term ambition.
+On behalf of the Board and Executive Leadership Team, 
+we thank our employees for their commitment, our 
+shareholders for their confidence, and our partners and 
+communities for their continued support. Together, we 
+are advancing toward a more sustainable, inclusive, and 
+circular future.
+ 
+Chairman  Global CEO and 
+Managing DirectorSims Limited is a global leader in 
+metal recycling and the provision 
+of circular solutions for technology. 
+Employing more than 4,750 
+employees globally, the company 
+operates more than 127 Sims 
+Metals sites and 20 SLS facilities 
+across 13 countries. By supplying 
+recycled materials and repurposed 
+products, Sims Limited plays a vital 
+role in helping increase circularity 
+and decarbonisation.  
+Alignment to values
+At Sims Limited, our purpose –  to create a world 
+without waste to preserve our planet – is the 
+foundation of our culture and strategy.
+Our core values of safety, integrity, respect, 
+transparency, excellence and social responsibility 
+guide how we operate, treat people and interact 
+with the planet. These values underpin our global 
+approach to circularity and are embedded in our 
+strategy, governance and policies – including 
+our sustainability strategy, Code of Conduct and 
+human rights commitments.
+We seek to align our actions with the United 
+Nations Sustainable Development Goals (UN SDGs), 
+in particular:
+ ■SDG 8 –  Decent Work and Economic Growth
+ ■SDG 12 –  Responsible Consumption 
+and Production
+ ■SDG 13 – Climate Action
+Sims Limited  Sustainability Report 2025 5

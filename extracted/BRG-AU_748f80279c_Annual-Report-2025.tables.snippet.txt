@@ -1,0 +1,1078 @@
+=== Table 1 (page 21) ===
+Operating and financial review continued,Environmental
+"Environmental, Social and Governance (ESG)",1. Sustainability – ASRS Climate update
+Report,
+,About this report
+,"During FY25, BRG Group developed a roadmap and"
+Our commitment to ESG,
+,progressed towards timely compliance with both ASRS1 and
+"BRG Group is committed to ethical, responsible, and",ASRS2 by adopting several of the upcoming requirements
+"sustainable conduct across and throughout its business,",in this year’s report. This built on the ASRS (Australian
+"reinforced through our culture, values, process, structure, and",Sustainability Reporting Standards) gap assessment on our
+policies. BRG Group’s ESG priorities and strategy are a central,"climate reporting completed in FY24, supported by Deloitte."
+part of our overall business strategy and are a fundamental part,
+,Introduction
+of the way we work.,
+"BRG Group’s ESG strategy – ”to	create	innovative,	attractive",BRG Group’s climate-related transition and adaption plans are
+"and	energy	efficient	kitchen	appliances,	designed	and","underpinned by competitive business model characteristics,"
+sourced	in	a	socially	and	environmentally	responsible	manner,namely: an asset-light advantage; an innovation advantage;
+"that	delights	our	consumers,	meets	the	expectations	of",materials management; and supply chain resilience.
+our	stakeholders	and	delivers	sustainable	value	creation” is,"Supported by robust climate-related governance, strategy,"
+embedded in our business operations and risk management,"risk management, and metrics and targets, BRG Group has"
+process.,positioned itself to act on impactful initiatives alongside its
+,mission to create products its customers love.
+As a consumer-facing company that operates in the heart,
+"of our consumers’ homes, the	kitchen, our reputation, and",Climate transition strategy
+"ability to meet ethical and behavioural expectations, is core",
+,BRG Group's transition strategy reflects a commitment to
+"to our sustained sales, business health and value creation.",
+,mitigating an emission-sensitive backdrop and heightened
+BRG Group’s ESG strategy and priorities are shaped by an,
+,risk of technological disruption by leveraging its asset-light
+ongoing engagement and dialogue with consumers and other,
+,business model (hereafter business	model) and innovation
+"stakeholders, allied with scientific analysis and measurement",
+,advantage. Three roadmaps are presented in response to those
+to ensure that we prioritise initiatives that empirically have the,
+,"risks, comprising: net zero (Scope 1 and Scope 2) emissions;"
+biggest impact on reducing carbon emissions.,
+,espresso-centric in-use energy (Scope 3) reduction; and
+"Table: FY25 ESG priority areas comprising Environment,",organic waste (Scope 1 and Scope 2) reduction and diversion
+Social and Governance domains,from landfill.
+,Climate adaption strategies
+Environmental,
+,BRG Group's adaption strategy reflects a commitment to
+1. Sustainability - ASRS Climate update,mitigate the risk of material restrictions and supply disruption by
+1.1 Governance,growing materials management capability and a region-sensitive
+,supply network. Three roadmaps are presented in response to
+1.2 Strategy,
+,"those risks, including: packaging waste (Scope 3) reduction;"
+1.3 Risk Management,auditable Scope 3 footprint empowering R&D; and diversifying
+,(Scope 3) finished goods manufacturing locations.
+1.4 Metrics & Targets,
+Social,
+,"Index: 1. Sustainability - ASRS Climate update
+Page"
+2. Ethical Sourcing,"1.1 Governance
+20"
+2.1 Human rights & modern slavery,Board oversight
+,Management responsibility
+3. Product quality & safety incl. product recall,
+,"1.2 Strategy
+20"
+4. Community relations,
+,Climate-related scenario analysis
+4.1 Community engagement,
+,Climate-related risks & opportunities
+4.2 Reconcilliation action plan,
+,Assessment of climate resilience
+5. Employee wellbeing,
+,Strategy & decision-making
+5.1 Diversity and inclusion,
+,Breville's Climate Transition Plan
+"5.2 Health, safety & wellbeing",Breville's Climate Adaption Plan
+Governance,"1.3 Risk Management
+28"
+,Processes and policies
+6. Corporate Governance,
+,Identifying climate-related risks and
+6.1 Board independence & diversity,
+,opportunities
+7. Corporate behaviour,
+,"1.4 Metrics & Targets
+28"
+7.1 Anti-bribery & corruption & whistle blowing,
+,Climate-related metrics
+7.2 Cyber security & data privacy,
+,Climate-related targets
+7.3 Policy availability,
+
+=== Table 2 (page 26) ===
+Directors’ report continued,
+,Graph: YoY BRG Group Scope 1 & Scope 2 emissions
+Operating and financial review continued,
+,captured in MT CO2eq. Lelit manufacturing facilities
+ESG Report continued,
+,added into scope in FY23. Baseline year is FY20.
+1. Sustainability – ASRS Climate update continued,
+,BRG Group Total Scope 1 and 2 Emissions
+BRG Group’s Climate Transition Plan Targets,
+,2000
+,1560
+,1435
+BRG Group’s business model is inherently low-carbon intensive,1500
+,"1121
+1116"
+"across Scope 1 and Scope 2 emissions, and supported by its",912
+,1000
+"innovation advantage, provides strategic flexibility to reduce",
+Scope 3 in-use consumer energy consumption. The following,"500
+Gross Emissions"
+transition-related targets have been adopted.,"MT CO2eq.
+Offsets
+0"
+,"Baseline
+FY22
+FY23
+FY24
+FY25"
+1.  Emission reduction roadmap (EmRR s1-2) – net zero Scope,-500
+1 and Scope 2 emissions in FY25.,-288 MT
+,"CO2eq. net
+-1000"
+2.  Energy reduction roadmap (EnRR s3) – 75% of espresso,
+,"-1200
+-1500"
+machines launched since 2020 and sold in 2028 to utilise,
+ThermoJet® technology.,
+,BRG Group has achieved its net zero emissions target in FY25
+3.  Waste reduction roadmap (WRR s1-2) – 100% of organic,by reducing gross emissions and limited use of carbon credits.
+waste produced at BRG Group headquarters be diverted,"Regarding its offset program, BRG Group has partnered with"
+from landfill.,Clima to curate a robust portfolio of projects in Australia and
+,overseas which it believes will resonate with BRG Group
+Transition plan pillars expanded,
+,investors and customers. Its selection reflects the Australian
+,"environment where the Company was founded, and cooking,"
+1. Emission reduction roadmap (EmRR – Scope 1-2),
+,one of the key pillars of this business. A portfolio mix of
+"Against an emission-sensitive backdrop, BRG Group’s EmRR",avoidance and removal projects with reputable certification was
+comprises a commitment to comprehensively measure and,"achieved, comprising:"
+reduce its carbon footprint across Scope 1 and Scope 2.,
+,"• 
+McLachlan Carbon Project: This project is a 73.6-hectare"
+"In line with ASRS, BRG Group aligns all its metrics with the",
+,mixed farming operation with a land management strategy
+Greenhouse Gas Protocol (GHGP) and measures all carbon,
+,that incorporates multi-species pastures and planned
+emissions against 100-year time horizon global warming,
+,grazing management. Positive impacts of the project
+potentials (GWP) relative to CO2.,
+,include soil improvement through the implementation of
+BRG Group has implemented IsoMetrix to comprehensively,"multi-species pastures, an 85% reduction in fertiliser usage"
+record and model emissions. The platform elevates BRG,"with no herbicide applied, and an increase in plant diversity"
+"Group’s capability to view data in aggregate to granular, across",that contributes to higher soil organic carbon levels.
+"the complete array of metrics, with an auditable record trail. To",
+,"• 
+APN Cape York: The project aims at an aggressive"
+date BRG Group has:,
+,"reduction in late season fires through zone managed, pre-"
+"• 
+Moved to renewable electricity and solar in key locations.","emptive burning with consideration taken for roads, fences,"
+
+=== Table 3 (page 26) ===
+Contractual instruments – Scope 1 and 2 GHG emissions (i.e. carbon abatement/credits),,,,,
+,,,FY25,,FY24
+Type,Verified by,,,,
+,,tCO2-e,%,tCO2-e,%
+Indigenous Savanna Burning,ACCU,120,10%,-,-
+Nature Based,ACCU,120,10%,-,-
+Technology,Gold Standard,960,80%,-,-
+,,1200,100%,,
+
+=== Table 4 (page 27) ===
+,
+Operating and financial review continued,"• 
+Based on units sold in FY20-25 the adoption of the"
+,ThermoJet® technology is estimated to have saved
+ESG Report continued,
+,"approximately 1,424 million kilowatt hours (kWh) of lifetime"
+1. Sustainability – ASRS Climate update continued,electricity used against an equivalent range of thermocoil
+,"machines, and 5,764 million kilowatt hours (kWh) against"
+2. Energy reduction roadmap (EnRR – Scope 3),
+,a range of dual boiler machines. Both estimates based on
+,assumed annual consumer usage and a 7- year lifecycle.
+"Facing the threat of technological disruption, BRG Group’s",
+EnRR leans into its innovation advantage. BRG Group,"• 
+Assuming 0.386 kgs of CO2 was generated per kWh"
+completed exhaustive lifecycle analysis and identified,(sourced from US Energy Information Administration) BRG
+consumer’s energy usage as the single largest contribution,Group’s transition to ThermoJet® heaters over FY20-25 is
+to Scope 3 emissions. In response it jointly pioneered the,"estimated to have saved between 550,220 and 2,227,005"
+ThermoJet® water heating platform comprising a printed thick,metric tonnes of CO2 over the lifetime of the machines sold.
+film element that efficiently delivers precise temperature control,
+,"This progress reflects a significant, and innovative, contribution"
+using significantly less energy than traditional methods.,
+,"to our energy reduction targets. Looking forward, BRG remains"
+Traditional espresso machines are one of the highest energy,committed to have at least 75% of our new Breville|Sage
+consuming products in the small kitchen appliances world,"coffee machines sold in FY28, and launched since 2020, using"
+due to the need to heat up and keep a body of water at,ThermoJet® or equivalent technology.
+"temperature, traditionally done using metal boilers. The",
+,3. Waste reduction roadmap (WRR – Scope 1-2)
+"alternative to boilers, thermocoils, still require the heating",
+"of blocks of aluminium to transfer energy, a process that",
+,"As part of our evolving sustainability strategy, BRG Group has"
+consumes significant amounts of energy.,
+,updated its Waste Reduction and Resource Recovery (WRR)
+Breville|Sage espresso machines fitted with a ThermoJet®,S1-2 target to focus on diverting 100% of organic waste
+heater:,generated at our Sydney headquarters from landfill. This shift
+,"aligns with forthcoming NSW organic waste legislation, set to"
+"• 
+Use approximately 2.5 times less total energy during normal",
+,"impact BRG Group from 2028, and ensures we remain ahead"
+"use than a Breville|Sage thermocoil machine, 6.6 times less",
+,of regulatory requirements. This refined target replaces our
+"energy than a Breville|Sage dual boiler machine, and 21.8",
+,previously announced goal of diverting 65% of all waste from
+times less energy than a traditional boiler machine.,
+,landfill and reflects a more strategic and operationally aligned
+"• 
+Save between 49 to 230 (kWh) per Thermojet® machine vs.",approach to waste management—focusing our efforts where
+a thermocoil or dual boiler machine respectively.,we can deliver the greatest environmental impact. To achieve
+,"this target, BRG Group has placed organic waste bins in"
+Graph: Boiler comparison of consumer use captured in,
+,all kitchens in the Sydney headquarters and have begun to
+"kg CO2eq for ThermoJet®, Thermocoil and Dual Boiler",construct an organic waste education session which will help
+technology platforms,employees to understand the importance of separating organic
+Average Carbon Emissions (kg CO2 equiv.) Arising from the Consumer Use,waste and education around which bins should be used for
+Phase of LCA for Each Boiler Type Used in BRG Group Espresso Machines,different types of waste.
+400,
+369.88,
+,"At our Sydney headquarters and global R&D centre, all"
+350,
+,recyclable waste streams are actively diverted from landfill.
+300,
+,"This includes co-mingled recycling, organic waste, paper and"
+,
+250,"cardboard, e-waste, and expanded polystyrene (EPS), all"
+"Consumer Use Phase Emissions (kgCO2 equiv.)
+200",of which are managed through responsible and sustainable
+"135.32
+150",disposal practices. Soft plastics remain a challenging waste
+,"stream, and we are continuing to explore partnerships with"
+100,
+55.72,specialised recyclers to identify viable long-term solutions.
+50,
+,In FY26 we will be expanding this initiative to our next largest
+0,
+,
+"Thermocoil
+Dual Boiler
+Thermojet","site, the Torrance office and warehouse in the Americas."
+*Modelled using internal LCA data,Table: Transition Plan Progress
+We believe that this is one of the most significant climate-,
+friendly innovations in small kitchen appliances in the last,
+,Progress
+decade and it forms a key part of our path to reduce our in-use,Plan
+energy consumption. The technology scores an A rating in,"Quantitative
+Qualitative"
+Swiss Energy Ratings for energy savings compared to a B or C,
+,"Net-Zero scope 1 & 2 
+100%
+This includes electricity"
+rating for thermocoils and a D rating for boilers.,
+,"emissions in FY25
+from renewable sources"
+Breville|Sage has embraced this informative energy reduction,"(43%), along with the"
+technology:,use of carbon offsets
+,(1200t CO2 eq.).
+"• 
+Doubling the number of machines sold using a ThermoJet®",
+"from FY20 to FY25 reaching over 794,188 in FY25.","75% of espresso 
+70% 
+In FY25 70% was"
+,"machines sold in 
+(EoFY25)
+achieved, and 100%"
+"• 
+Increasing the percentage of Breville|Sage coffee machines",
+,"2028 (launched 
+of espresso machines"
+using ThermoJet® from 41.5% in FY20 to 55.5% in FY25.,
+,"since 2020) utilise 
+launched in FY25"
+"• 
+Reducing the proportion of coffee machines using Boilers to",
+,"ThermoJet® tech.
+utilised a ThermoJet®."
+"2.5% in FY25, down from 5.9% in FY20.",
+,"100% of organic 
+100%
+In FY25 100% of"
+"• 
+Ensuring all new Breville|Sage coffee machines launched in",
+,"waste produced at 
+organic waste produced"
+FY25 and 71% of new models currently under development,
+,"BRG Group HQ to be 
+at BRG Group HQ was"
+use a ThermoJet®.,
+,"diverted from landfill 
+diverted from landfill."
+,BRG Group Annual Report 2025
+
+=== Table 5 (page 28) ===
+Directors’ report continued
+""
+"controlled, by BRG Group, such as the impact of third-party 
+Operating and financial review continued"
+"manufacturing including power, materials and parts used, third"
+ESG Report continued
+"party logistics, the usage of our products in consumers’ homes"
+"and finally their disposal. To date BRG Group has measured 
+1. Sustainability – ASRS Climate update continued"
+the critical 5 Scope 3 categories for BRG Group of the 15 set
+"BRG Group’s Climate Adaption Plan Targets
+out in the Greenhouse Gas Protocol through the completion"
+of life cycle assessments. In FY24 we estimated that these 5
+BRG Group is committed to minimising the impact of climate-
+categories would be responsible for over 90% our Scope 3
+"related risks through improvements in materials management,"
+emissions. In FY25 we have completed the full assessment and
+"robust emissions reporting, and improving resilience by"
+measurement of the remaining minor categories and include
+diversifying finished goods locations from China. The following
+"these in our Scope 3 emissions estimate, which found that"
+adaption-related targets have been adopted.
+products contribute 99% of BRG Group scope 3 emissions.
+1.  Waste reduction roadmap (WRR s3) – 100% of ANZ
+These results will be utilised in the decision-making process for
+"packaging to be reusable, recyclable or compostable by"
+initiatives around emission reduction.
+Eo2025.
+"Through the completion of LCAs for key products, we have"
+2.  Emission reduction roadmap (EmRR s3) – Auditable Scope
+identified that the largest contributor to BRG Group product
+3 measurement methodology supporting ASRS compliance
+"emissions is the in-use electricity, making up 82% of total"
+and fact-based prioritisation of reduction initiatives.
+product emissions. This is highest in ovens and lower in juicers.
+"The manufacturing phase, led by material usage, is the second 
+3.  Supply chain diversification roadmap (SCDR s1-3) –"
+"largest contributor. Packaging, transport and end of life disposal 
+Materially increase the climate-resilience and region"
+"have a more minor impact. These findings inform both BRG 
+sensitivity of the supply of finished goods by EoFY26."
+Group’s current focus on energy efficiency (i.e. ThermoJet®
+"Adaption plan pillars expanded
+initiative) as well as medium term product development"
+strategies focused on alternative production material and
+1. Waste reduction roadmap (WRR - Scope 3)
+reduced usage.
+"Packaging materials constitute only an estimated 0.7% of BRG 
+BRG Group’s LCAs also highlight an emissions reduction"
+"Group emissions impact but are important to our customers 
+opportunity from reducing key material usage, notably plastics"
+"and employees, and this is an area where we are making rapid 
+and metals, in our products’ manufacturing phase."
+and significant progress.
+"In both FY25 and FY24, the Espresso category—including"
+"BRG Group is a decade-long member of the Australian 
+both products with complete and partial life cycle assessments"
+"Packaging Covenant Organisation (APCO) and has entered into 
+(LCA)—accounted for the largest share of emissions. This"
+"a voluntary agreement to reduce the impact of packaging on 
+category increased slightly in its proportional contribution in"
+"the environment. In FY25 our comprehensive packaging audit 
+FY25, rising from approximately 30% to over 32% of total"
+"was extended to include all new SKUs to support the rapid 
+emissions. The change reflects both increased sales volumes"
+"roll out of key developments in recyclable packaging across all 
+and a broader scope of LCA coverage. Other significant"
+"existing as well as new products. 
+contributors to overall emissions included grinders, which"
+"maintained a relatively stable share year-on-year, and ovens,"
+BRG Group’s key sustainable packaging commitments are:
+whose combined emissions (complete and partial LCA)
+"• 
+All new packaging to be reusable, recyclable or"
+"remained consistent, with a slight shift toward products with"
+compostable by end 2025 (aligned to APCO target);
+more complete impact data. Categories such as Drip Coffee
+"Machines, Kettles, Sandwich Press & Grill, Slow Cookers, 
+• 
+Removal of expanded polystyrene (EPS) from consumer"
+"Toasters, and Microwaves represented smaller proportions 
+packaging by July 2025; and"
+"of emissions individually, but collectively remain material in"
+"• 
+Removal of non-essential packaging (ongoing target), for"
+shaping the overall footprint. The “Others” category consistently
+example the combination of shipper and inner display box.
+"contributed just under 20%, representing a diverse set of lower-"
+"In 2023 BRG Group launched the company-wide sustainable 
+volume products not disaggregated here but still relevant to our"
+"Brown Box initiative to achieve best-in-class sustainable 
+emissions profile. These insights will inform future emissions"
+"packaging including use of a recyclable outer box, the complete 
+reduction efforts, with a particular focus on the Espresso, Oven,"
+"removal of EPS and minimal use of soft plastics. In FY25 BRG 
+and Grinder categories where the greatest opportunities for"
+"Group has launched the sustainable Brown Box in the ANZ 
+impact have been identified."
+region. All Breville products sold in these markets are packaged
+Graph: YoY BRG Group Scope 3 product related emission
+"EPS-free, and all new Breville|Sage products are packaged in"
+"the new sustainable Brown Box 
+distribution per product category, captured in MT CO2eq."
+"cartons. A minority of legacy 
+Emission Distribution Per Product Category (MT CO2 eq.)"
+
+=== Table 6 (page 29) ===
+,locations will increase the Group’s resilience to both geopolitical
+working to optimise the strength and weight of materials used,
+,and climate-related shocks as well as in the case of Mexico
+in our key machines to reduce material consumption whilst,
+,reducing emissions associated with long-distance freight.
+"maintaining desired quality, using Finite Element Analysis (FEA),",
+"Computational Fluid Dynamics (CFD), Design for Manufacturing",Key manufacturing locations will include:
+"studies (DFM), as well as Failure Mode and Effect Analysis tools",
+,"• 
+Europe: Manufacturing capabilities in Italy through the"
+(FMEA).,
+,"Italian-based Lelit operations, and strategic collaboration"
+"To complement this approach, the BRG Group R&D team has",with Nespresso in Europe.
+completed the discovery phase of its Forever Project with the,
+,"• 
+Mexico: Development of a broad-based production"
+objective of identifying the most impactful design changes,
+,capability to support the North American market for Breville-
+BRG Group could undertake to materially reduce the per unit,
+,branded products.
+carbon impact (Scope 3 emissions) of the products it designs,
+and engineers. This phase of the project was undertaken by,"• 
+Southeast Asia: Diversified manufacturing footprint across"
+the strategic business unit of Design and Innovation known as,"Indonesia, Cambodia, Vietnam, initially focused on 120V"
+"‘deep dive’, which is responsible for many of the innovations in","Americas production, but potentially providing backup for"
+our award-winning products.,240V China facilities.
+The primary consideration of the Forever Project was to,"• 
+China: Retained as key manufacturing base for APAC and"
+examine how circular economy principles could deliver,EMEA with some ability to provide back up for America’s
+sustainable outcomes for the environment whilst delivering,volume
+elevated customer experiences and ongoing strong commercial,
+,The diversified footprint will not initially include built-in spare
+
+=== Table 7 (page 29) ===
+extending the lifecycle of our products. Breville|Sage already,,
+,Table: Adaption Plan Progress,
+"sells key spare parts, filters, and cleaners for our most popular",,
+appliances to help extend their lifecycle. Baratza grinders are,,
+explicitly designed to be user repairable and repairability is a key,,Progress
+part of the Lelit brand identity and driver of consumer choice.,Plan,
+,,"Quantitative
+Qualitative"
+"In core Breville|Sage ranges a ‘serviceability index,’ has been",,
+"introduced, to track and encourage repairability as a design",100% of ANZ,"100%
+ANZ EPS-free during"
+criterion in new products.,packaging to be,FY25. Majority of legacy
+,"reusable, recyclable",products moved to
+The impact of Scope 3 emissions far outweighs that of BRG,,
+,or compostable by,Brown Box. All new
+"Group Scope 1 and 2 emissions, so whilst we will work towards",,
+,EoFY25,products launched with
+net zero carbon emissions for Scope 1 and 2 with less reliance,,
+,,Brown Box. Roll out
+"on carbon offsets, the largest priority for BRG Group remains",,
+,,globally by EoFY30.
+Scope 3 targeted reductions.,,
+,Robust auditable,"90%
+20% of products sold"
+3. Supply chain diversification roadmap (SCDR Scope 3),,
+,Scope 3,in FY25 have been
+BRG Group tactically holds significant finished goods,measurement,assessed using a Life
+inventories in its various end consumer markets to mitigate any,methodology in,Cycle Analysis. Scope
+"short-term disruption to its supply chain, be it climate or other",place allowing,3 product emissions
+factor related.,ASRS compliance,estimated and reported
+,and fact-based,"as 3,045,679 MT CO2"
+BRG Group sources most of its products from long-term,,
+,prioritisation of,eq. including biogenic
+"manufacturing partners, although its Lelit brand is made in-",,
+,reduction initiatives.,carbon for FY25. Total
+"house in Brescia, Italy. Before FY25 BRG Group’s manufacturing",,
+,,scope 3 emissions
+"partners were concentrated in southern China, which although",,
+,,estimated and reported
+"it benefited BRG Group, and partners through manufacturing",,
+,,"as 3,273,664 MT CO2"
+"scale, represented a risk in terms of location concentration to",,
+,,eq. including biogenic
+both climate and geo-political factors. In response to rising,,
+,,carbon for FY25.
+"geopolitical uncertainties, as well as climate vulnerability,",,
+"BRG Group during FY25 actively, and rapidly, accelerated the",,
+,Increase the,"20%
+Support region-sensitive"
+diversification of its manufacturing footprint outside of southern,,
+,climate-resilience,supply of finished goods.
+"China. In partnership with its long-term manufacturing partners,",,
+,and region,"Investment in Mexico,"
+"120V product, or product made for the Americas market, is",,
+,sensitivity of the,Indonesia and Cambodia
+"being moved to locations in Mexico, Indonesia, Vietnam and",,
+,supply of finished,"is well underway, and"
+Cambodia. This relocation will continue through FY26 with an,,
+,goods,to a lesser extent but
+"initial target to move 90% of Americas production value, or",,
+,,"developing quickly,"
+"~40-45% of total BRG Group production value, to these new",,
+,,"Vietnam, for 120V"
+"locations. The Mexico project has been running for some time,",,
+,,goods.
+"but alongside the new locations, it was significantly accelerated",,
+
+=== Table 8 (page 29) ===
+Operating and financial review continued,
+,"in FY25. The majority of 240V production, or approximately half"
+ESG Report continued,
+,of BRG Group production value will remain in Southern China at
+1. Sustainability – ASRS Climate update continued,this time.
+,The diversification of BRG Group's manufacturing / sourcing
+The BRG Group design and engineering teams are continually,
+,locations will increase the Group’s resilience to both geopolitical
+working to optimise the strength and weight of materials used,
+,and climate-related shocks as well as in the case of Mexico
+in our key machines to reduce material consumption whilst,
+,reducing emissions associated with long-distance freight.
+"maintaining desired quality, using Finite Element Analysis (FEA),",
+"Computational Fluid Dynamics (CFD), Design for Manufacturing",Key manufacturing locations will include:
+"studies (DFM), as well as Failure Mode and Effect Analysis tools",
+,"• 
+Europe: Manufacturing capabilities in Italy through the"
+(FMEA).,
+,"Italian-based Lelit operations, and strategic collaboration"
+"To complement this approach, the BRG Group R&D team has",with Nespresso in Europe.
+completed the discovery phase of its Forever Project with the,
+,"• 
+Mexico: Development of a broad-based production"
+objective of identifying the most impactful design changes,
+,capability to support the North American market for Breville-
+BRG Group could undertake to materially reduce the per unit,
+,branded products.
+carbon impact (Scope 3 emissions) of the products it designs,
+and engineers. This phase of the project was undertaken by,"• 
+Southeast Asia: Diversified manufacturing footprint across"
+the strategic business unit of Design and Innovation known as,"Indonesia, Cambodia, Vietnam, initially focused on 120V"
+"‘deep dive’, which is responsible for many of the innovations in","Americas production, but potentially providing backup for"
+our award-winning products.,240V China facilities.
+The primary consideration of the Forever Project was to,"• 
+China: Retained as key manufacturing base for APAC and"
+examine how circular economy principles could deliver,EMEA with some ability to provide back up for America’s
+sustainable outcomes for the environment whilst delivering,volume
+elevated customer experiences and ongoing strong commercial,
+,The diversified footprint will not initially include built-in spare
+growth. The Forever Project resulted in several promising,
+,"capacity, but it adds optionality if any location is impacted by"
+"avenues that were reviewed for priority, investment and action.",
+,a climate or geopolitical event. A diversified manufacturing
+An initial project has been placed into the next phase of the,
+,footprint diversifies both climate and geopolitical based risks
+"innovation funnel, the exploration phase.",
+,and makes commercial sense now BRG Group has grown in
+Material usage emissions impact can also be reduced by,scale over the last few years.
+extending the lifecycle of our products. Breville|Sage already,
+,Table: Adaption Plan Progress
+"sells key spare parts, filters, and cleaners for our most popular",
+appliances to help extend their lifecycle. Baratza grinders are,
+explicitly designed to be user repairable and repairability is a key,Progress
+part of the Lelit brand identity and driver of consumer choice.,Plan
+,"Quantitative
+Qualitative"
+"In core Breville|Sage ranges a ‘serviceability index,’ has been",
+"introduced, to track and encourage repairability as a design","100% of ANZ 
+100%
+ANZ EPS-free during"
+criterion in new products.,"packaging to be 
+FY25. Majority of legacy"
+,"reusable, recyclable 
+products moved to"
+The impact of Scope 3 emissions far outweighs that of BRG,
+,"or compostable by 
+Brown Box. All new"
+"Group Scope 1 and 2 emissions, so whilst we will work towards",
+,"EoFY25
+products launched with"
+net zero carbon emissions for Scope 1 and 2 with less reliance,
+,Brown Box. Roll out
+"on carbon offsets, the largest priority for BRG Group remains",
+,globally by EoFY30.
+Scope 3 targeted reductions.,
+,"Robust auditable 
+90%
+20% of products sold"
+3. Supply chain diversification roadmap (SCDR Scope 3),
+,"Scope 3 
+in FY25 have been"
+BRG Group tactically holds significant finished goods,"measurement 
+assessed using a Life"
+inventories in its various end consumer markets to mitigate any,"methodology in 
+Cycle Analysis. Scope"
+"short-term disruption to its supply chain, be it climate or other","place allowing 
+3 product emissions"
+factor related.,"ASRS compliance 
+estimated and reported"
+,"and fact-based 
+as 3,045,679 MT CO2"
+BRG Group sources most of its products from long-term,
+,"prioritisation of 
+eq. including biogenic"
+"manufacturing partners, although its Lelit brand is made in-",
+,"reduction initiatives.
+carbon for FY25. Total"
+"house in Brescia, Italy. Before FY25 BRG Group’s manufacturing",
+,scope 3 emissions
+"partners were concentrated in southern China, which although",
+,estimated and reported
+"it benefited BRG Group, and partners through manufacturing",
+,"as 3,273,664 MT CO2"
+"scale, represented a risk in terms of location concentration to",
+,eq. including biogenic
+both climate and geo-political factors. In response to rising,
+,carbon for FY25.
+"geopolitical uncertainties, as well as climate vulnerability,",
+"BRG Group during FY25 actively, and rapidly, accelerated the",
+,"Increase the 
+20%
+Support region-sensitive"
+diversification of its manufacturing footprint outside of southern,
+,"climate-resilience 
+supply of finished goods."
+"China. In partnership with its long-term manufacturing partners,",
+,"and region 
+Investment in Mexico,"
+"120V product, or product made for the Americas market, is",
+,"sensitivity of the 
+Indonesia and Cambodia"
+"being moved to locations in Mexico, Indonesia, Vietnam and",
+,"supply of finished 
+is well underway, and"
+Cambodia. This relocation will continue through FY26 with an,
+,"goods
+to a lesser extent but"
+"initial target to move 90% of Americas production value, or",
+,"developing quickly,"
+"~40-45% of total BRG Group production value, to these new",
+,"Vietnam, for 120V"
+"locations. The Mexico project has been running for some time,",
+,goods.
+"but alongside the new locations, it was significantly accelerated",
+
+=== Table 9 (page 30) ===
+opportunity identification exercise in view of incoming ASRS1,,
+,,estimate is determined based on the dollar amount spent for
+and ASRS2 obligations and the outlined low and high global,,
+,the service.,
+warming scenarios (as detailed in Strategy 1.2). Our approach,,
+has evolved year on year but is not a new undertaking. BRG,,
+,,Scope 3 GHG Emission Inputs
+first completed and reported climate risks & opportunities,,
+"identification in FY21, and then climate resilience assessment",•,For Scope 3 collation BRG Group uses both direct physical
+"and climate-scenario analysis in FY24, both in line with",,data and spend.
+frameworks provided by the Task Force for Climate-related,,
+,•,Products: BRG Group use detailed BOMs to complete
+Financial Disclosures (TCFD). This year builds on the TCFD,,
+,,an LCA for all products. Product emissions are calculated
+approach as we prepare for ASRS compliance.,,
+,,using a cradle to grave model. For those products which do
+,,"not have a completed LCA, an estimate for the categories"
+1.4 Metrics and targets,,
+,,of products that BRG Group sell has been used.
+The disclosures in this section demonstrate BRG Group’s,,
+,•,Goods	and	Services: Emissions arising from goods and
+performance in relation to its climate-related risks and,,
+,,services relating to products are factored into the product
+"opportunities, including progress towards all current climate-",,
+,,emissions. All other goods and services are calculated using
+related targets.,,
+,,total spend.
+Climate-related metrics,•,Capital	Goods: Emissions arising from the purchase of
+,,capital goods are calculated using total spend.
+"The climate-related metrics, emission factors and scenario",,
+analysis presented in this Annual Report have been prepared,•,Upstream	Transportation	and	Distribution: Emissions
+in good faith for the purposes of complying with the,,determined through LCA.
+Australian Sustainability Reporting Standards ASRS	1	General,,
+,,•  Waste	Generated	in	Operations: Emissions arising from
+Requirements	for	Disclosure	of	Climate-related	Financial,,
+,,waste generated in BRG Group offices are calculated using
+"Information and ASRS	2	Climate-related	Disclosures, as issued",,
+,,"weight data where available, for locations without weight"
+
+=== Table 10 (page 30) ===
+,Directors’ report continued,
+,,
+,Operating and financial review continued,by the Australian Accounting Standards Board in September
+,,"2024. All figures rely on internal methodologies, third party"
+,ESG Report continued,
+,,"lifecycle data sets, grid emissions databases and forward-"
+,1. Sustainability – ASRS Climate update continued,looking assumptions that are inherently subject to estimation
+,,"uncertainty, data availability constraints and future changes in"
+,1.3 Risk Management,"technology, policy and market conditions. Consequently, Scope"
+,,1 and Scope 2 results should be regarded as best estimate
+,Processes and policies,
+,,"approximations, and Scope 3 as indicative approximations,"
+,BRG Group’s operations expose the Company in 101,"rather than precise measurements; they are unaudited, may"
+,countries to a variety of climate-related risks among others.,differ materially from actual outcomes and are not necessarily
+,Several climate-related processes and policies were cited,comparable with disclosures made by other entities. Scenario
+,in Governance 1.1. This section provides an opportunity to,analyses are illustrative in nature and do not constitute forecasts
+,expand on the risk management matrix underpinning the,or guarantees of future performance.
+,climate-related materiality assessment report among others,
+,,Measurement approach
+,detailed further in Strategy 1.3.,
+,,"In FY25, BRG Group transitioned to IsoMetrix as our emissions"
+,BRG Group has a risk management matrix (RMM) tailored,
+,,"data platform, marking a significant advancement in the"
+,"to BRG Group’s business which is used to identify, assess,",
+,,accuracy and auditability of our emissions reporting. This
+,"prioritise and monitor risks and opportunities. Like the ARC, the",
+,,new system enables the use of region-specific emissions
+,CMA taskforce considers risks and opportunities along a 5 by,
+,,"factors rather than broad global estimates, allowing for a more"
+,5 likelihood to impact axis to support cohesive integration and,
+,,precise and granular calculation of our greenhouse gas (GHG)
+,alignment. The ARC is responsible for the Group-wide RMM,
+,,emissions across all scopes. While our FY24 methodology relied
+,and reviews it and its contents at each meeting.,
+,,on global emissions factors and reported Scope 3 emissions
+,Environment is one of six categories captured and managed,
+,,"solely for product-related categories, our FY25 reporting"
+,by the ARC in consultation where needed with climate-related,
+,,encompasses all 15 categories of the Greenhouse Gas Protocol
+,"stakeholders like the SComm, ESC and CMA taskforce.",
+,,"(GHGP). Additionally, in FY24, emissions estimates were derived"
+,Climate-related stakeholders convey information from their,
+,,"using life cycle assessments (LCAs) conducted on 16 products,"
+,respective channels via the SComm no less frequently than the,
+,,"extrapolated based on total annual revenue. In contrast, FY25"
+,SComm meeting schedule.,
+,,estimates leverage both internal LCA data and aggregated
+,The RMM underpins the climate-related materiality assessment.,"market data, calculated on a per-unit-sold basis. Although"
+,The assessment report comprises the climate resilience,"estimations remain part of our approach, the FY25 methodology"
+,"assessment, climate-scenario analysis, and risk and opportunity",reflects a more robust and comprehensive framework. To
+,"identification, by the CMA taskforce. This approach improves","ensure consistency and improve comparability over time, BRG"
+,consistency and alignment with the broader scope of risk and,Group has also retrospectively recalculated FY24 emissions
+,opportunities BRG Group has. It also improves BRG Group’s,using the updated FY25 methodology.
+,ability to distribute the right level of knowledge and resourcing,
+,,Inputs
+,to current and potential climate-related vulnerabilities as they,
+,"arise with tailored adaption and transition planning, metrics and",
+,,Scope 1 and 2 Emission Inputs
+,"targets, and performance management.",
+,,Scope 1 and 2 emissions data is collected through vendor
+,Identifying climate-related risks and opportunities,reports sent to the BRG Group accounts payable team. Where
+,,"usage data is included, this is used to calculate accurate"
+,In FY25 the CMA taskforce again completed a risk and,
+,,"emissions. In instances where usage data is not available, an"
+,opportunity identification exercise in view of incoming ASRS1,
+,,estimate is determined based on the dollar amount spent for
+,and ASRS2 obligations and the outlined low and high global,
+,,the service.
+,warming scenarios (as detailed in Strategy 1.2). Our approach,
+,has evolved year on year but is not a new undertaking. BRG,
+,,Scope 3 GHG Emission Inputs
+,first completed and reported climate risks & opportunities,
+,"identification in FY21, and then climate resilience assessment","• 
+For Scope 3 collation BRG Group uses both direct physical"
+,"and climate-scenario analysis in FY24, both in line with",data and spend.
+,frameworks provided by the Task Force for Climate-related,
+,,"• 
+Products: BRG Group use detailed BOMs to complete"
+,Financial Disclosures (TCFD). This year builds on the TCFD,
+,,an LCA for all products. Product emissions are calculated
+,approach as we prepare for ASRS compliance.,
+,,using a cradle to grave model. For those products which do
+,,"not have a completed LCA, an estimate for the categories"
+,1.4 Metrics and targets,
+,,of products that BRG Group sell has been used.
+,The disclosures in this section demonstrate BRG Group’s,
+,,"• 
+Goods	and	Services: Emissions arising from goods and"
+,performance in relation to its climate-related risks and,
+,,services relating to products are factored into the product
+,"opportunities, including progress towards all current climate-",
+,,emissions. All other goods and services are calculated using
+,related targets.,
+,,total spend.
+,Climate-related metrics,"• 
+Capital	Goods: Emissions arising from the purchase of"
+,,capital goods are calculated using total spend.
+,"The climate-related metrics, emission factors and scenario",
+,analysis presented in this Annual Report have been prepared,"• 
+Upstream	Transportation	and	Distribution: Emissions"
+,in good faith for the purposes of complying with the,determined through LCA.
+,Australian Sustainability Reporting Standards ASRS	1	General,
+,,•  Waste	Generated	in	Operations: Emissions arising from
+,Requirements	for	Disclosure	of	Climate-related	Financial,
+,,waste generated in BRG Group offices are calculated using
+,"Information and ASRS	2	Climate-related	Disclosures, as issued",
+,,"weight data where available, for locations without weight"
+,BRG Group Annual Report 2025,
+28,,
+
+=== Table 11 (page 31) ===
+,MTCO2-e,MTCO2-e
+Scope 1 & 2,,
+Market based method,-,-
+Location based method,"1,116",912
+Scope 3,,
+1. Purchased goods and services (non-product related),-,"226,042"
+"1. Purchased goods and services (product - espresso and ovens, LCA based)","119,304","131,669"
+"1. Purchased goods and services (product - other, industry data based)","480,031","501,897"
+2. Capital Goods,-,-
+3. Fuel and energy related activities,-,5
+"4. Upstream transportation & distribution (espresso and ovens, LCA based)","4,155","4,568"
+"4. Upstream transportation & distribution (other, industry data based)","16,399","17,238"
+5. Waste generated in operations,-,370
+6. Business travel,-,811
+7. Employee commuting,-,762
+8. Upstream leased assets,N/A,N/A
+9. Downstream transportation & distribution,*All transportation accounted for in category 4,
+"10. Processing of sold products (espresso and ovens, LCA based)","3,740","4,170"
+"10. Processing of sold products (other, industry data based)","13,278","13,998"
+"11. Use of sold products (espresso and ovens, LCA based)","680,662","753,460"
+"11. Use of sold products (other, industry data based)","1,506,338","1,552,129"
+"12. End-of-life treatment of sold products (espresso and ovens, LCA based)","15,628","17,257"
+"12. End-of-life treatment of sold products (other, industry data based)","46,339","49,287"
+13. Downstream leased assets,N/A,N/A
+14. Franchises,N/A,N/A
+15. Investments,N/A,N/A
+"Total Scope 1, 2 and 3","2,886,988","3,274,576"
+Note: BRG Group commenced Scope 3 emission reporting in FY24.,,
+
+=== Table 12 (page 31) ===
+Graph: Comparison of Scope 3 emissions by Category between FY24 and FY25 where comparison available.,,,,,,,,,,,
+,,,,FY24 vs FY25 Scope 3 Emissions by Category,,,,,,,
+"1,800,000",,,,,,,,,,,
+,,,,,,,,,"1,552,129",,
+"1,600,000",,,,,,,,,"1,506,338",,
+"1,400,000",,,,,,,,,,,
+"1,200,000",,,,,,,,,,,
+"1,000,000",,,,,,,,,,,
+MT CO2 eq.,,,,,,,,"753,460",,,
+"800,000",,,,,,,,"680,662",,,
+"600,000",,"501,897",,,,,,,,,
+,"480,031",,,,,,,,,,
+"400,000",,,,,,,,,,,
+"119,304",,,,,,,,,,"17,257","49,287"
+"200,000","131,669",,"4,568",,"17,238",,"13,998",,,,
+,,,,,,"4,170",,,,,
+,,,,"16,399",,,"13,278",,,"15,628","46,339"
+,,"4,155",,,,"3,740",,,,,
+-,,,,,,,,,,,
+
+=== Table 13 (page 32) ===
+Directors’ report continued,,,,
+Operating and financial review continued,,,,
+ESG Report continued,,,,
+1. Sustainability – ASRS Climate update continued,,,,
+Climate-related targets,,,,
+,"BRG Group has reviewed, adjusted, aligned and committed to the following climate-related targets based on extensive analysis",,,
+,"and consideration. The targets may be categorised into five key areas: Decarbonisation, Waste Elimination, Material Restrictions,",,,
+,Emissions Measurement and Climate Resilience (supply chain).,,,
+,"Table: Climate-related targets comprising progress metric, objective, milestones and target type",,,
+,,,,Absolute
+,Metric used to set,,,
+,,"Objective (mitigation, adaption or",,target or
+Target,& monitor process,,Milestones,
+,,conformance),,Intensity
+,against target,,,
+,,,,target
+Decarbonisation,,,,
+BRG Group to be net-zero,% of Scope 1 and,Mitigation: Reduce scope 1 and 2,Carbon neutrality,Absolute
+from 2025 for scope 1 and,2 emissions not,emissions from non-renewable sources.,by EoFY25,target
+2 emissions,eliminated or offset,For those emissions that are not yet,,
+,,"avoided, purchase carbon offsets to",,
+,,achieve neutrality.,,
+Increase use of Thermojet,% of espresso,Mitigation: Reduce scope 3 emissions,75% of espresso,Intensity
+technology in espresso,appliance sales which,arising from the consumer use phase by,appliance sales,target
+machines,utilise ThermoJet Tech,implementing the more energy efficient,utilise ThermoJet,
+,(since 2020),ThermoJet.,Tech by EoFY26,
+Waste elimination,,,,
+All organic waste,% organic waste,Mitigation: Eliminate scope 3 emissions,All organic waste,Absolute
+generated at BRG Group,diverted from landfill,arising from organic waste in landfill.,diverted by,target
+HQ to be diverted from,,,EoFY28,
+landfill,,,,
+Expand recyclable waste,% waste diverted from,Mitigation: Reduce scope 3 emissions,"Torrance, USA",Intensity
+stream initiative globally,landfill,arising from recycled waste being sent to,office and,target
+,,landfill.,warehouse to,
+,,,BRG Group HQ,
+,,,benchmark by,
+,,,EoFY26,
+Material Restrictions,,,,
+Eliminate the use of EPS,% of product packaging,Adaption: No EPS are used in BRG Group,All EPS removed,Intensity
+"from packaging (Stage 1,",with unnecessary,product packaging.,from BRG Group,target
+ANZ),plastics,,packaging by,
+,,,EoFY25,
+Emissions Measurement,,,,
+Robust auditable,% of GHGP emission,Adaption: Robust measurement of all,100% of GHGP,Absolute
+measurement of all BRG,categories unmeasured,emissions will provide the necessary data,categories,target
+Group emissions,,to make informed decisions regarding,captured in FY26,
+,,project prioritisation.,annual report,
+Climate Resilient Supply,,,,
+Chain,,,,
+Gain upstream input,% of SEDEX,Adaption: Increase transparency and,SEDEX incl. 75%,Intensity
+transparency and control,assessments,control of upstream actors and inputs,by annual spend,target
+,,contributing to product BOM to support,on supplier by,
+,,more resilient outcomes.,EoFY26,
+"Diversified, region-sensitive",% of FOB of finished,Adaption: Diversify finished goods locations,40% of FOB of,Intensity
+& proximate for regions,goods diversified,for major theatres to mitigate climate-,finished goods by,target
+,outside China,related disruption to legacy finished goods,EoFY28,
+,,location.,,
+
+=== Table 14 (page 33) ===
+,
+Operating and financial review continued,"• 
+For product categories that have not yet undergone"
+,"an internal lifecycle assessment (LCA), we have utilised"
+ESG Report continued,
+,aggregated market data to estimate environmental impacts.
+1. Sustainability – ASRS Climate update continued,These estimates are based on the same core assumptions
+,applied to our ovens and espresso machines—specifically
+Notes to the Sustainability Report,"in relation to product lifespan, transportation, and end-of-life"
+,"treatment. Data sources include, but are not limited to, the"
+Approach to measuring GHG emissions,
+,"International Energy Agency (IEA), the U.S. Environmental"
+,"Protection Agency (EPA), and the EcoInvent database,"
+Emissions Factors,
+,ensuring a robust and credible foundation for our modelling.
+"The source of an emission factor must be accessible,",
+"reasonable, and measurable relative to the reporting needs",
+,2. Ethical sourcing – human rights and modern
+"of BRG Group. Therefore, BRG Group prioritises the use of",
+,slavery
+"emissions factors relative to the site location foremost, and then",
+"by country, region, theatre, and globally, in that order.",
+,Ethical procurement
+Table: Source of emission factors for FY25 modelling.,
+,BRG Group conducts its business in a socially responsible
+,manner. This includes upholding consistently high ethical
+Source of emissions,standards in our procurement decisions and processes. The
+Geography,
+factors,"consumer facing nature of BRG Group, and the importance of"
+,this issue to our stakeholders ensures that this is a key focus
+"APAC
+DEFRA, ANGA",
+,issue within our operations.
+"Americas
+US EPA, ECCC",
+,The BRG Group Ethical Sourcing Policy sets out requirements
+,for our manufacturing partners and sub-contractors including
+"EMEA
+DEFRA",
+,compliance with the protection of human rights and all local
+,and international labour and employment laws and generally
+Assumptions BRG Group uses to measure its GHG,
+,ensuring a safe and fair work environment. All suppliers are
+emissions,
+,required to sign and are held accountable to adhere to this
+Scope 1 and 2,"policy. Ensuring compliance with the policy, and the highest"
+,"ethical standards, is the responsibility of the BRG Group Chief"
+"• 
+BRG Group endeavours to measure scope 1 and 2",
+
+=== Table 15 (page 33) ===
+Approach to measuring GHG emissions,
+,"International Energy Agency (IEA), the U.S. Environmental"
+,"Protection Agency (EPA), and the EcoInvent database,"
+Emissions Factors,
+,ensuring a robust and credible foundation for our modelling.
+"The source of an emission factor must be accessible,",
+"reasonable, and measurable relative to the reporting needs",
+,2. Ethical sourcing – human rights and modern
+"of BRG Group. Therefore, BRG Group prioritises the use of",
+,slavery
+"emissions factors relative to the site location foremost, and then",
+"by country, region, theatre, and globally, in that order.",
+,Ethical procurement
+Table: Source of emission factors for FY25 modelling.,
+,BRG Group conducts its business in a socially responsible
+,manner. This includes upholding consistently high ethical
+Source of emissions,standards in our procurement decisions and processes. The
+Geography,
+factors,"consumer facing nature of BRG Group, and the importance of"
+,this issue to our stakeholders ensures that this is a key focus
+"APAC
+DEFRA, ANGA",
+,issue within our operations.
+"Americas
+US EPA, ECCC",
+,The BRG Group Ethical Sourcing Policy sets out requirements
+,for our manufacturing partners and sub-contractors including
+"EMEA
+DEFRA",
+,compliance with the protection of human rights and all local
+,and international labour and employment laws and generally
+Assumptions BRG Group uses to measure its GHG,
+,ensuring a safe and fair work environment. All suppliers are
+emissions,
+,required to sign and are held accountable to adhere to this
+Scope 1 and 2,"policy. Ensuring compliance with the policy, and the highest"
+,"ethical standards, is the responsibility of the BRG Group Chief"
+"• 
+BRG Group endeavours to measure scope 1 and 2",
+,"Operating Officer, who also manages the overall commercial"
+emissions using invoices containing usage data wherever,
+,"relationship with suppliers, supported by BRG Group General"
+possible.,
+,Manager Quality who has frequent interaction with the suppliers
+"• 
+For those offices that do not receive usage data, BRG",via their QA team and procedures.
+"Group use a combination of office size, comparing with",
+,Human rights and modern slavery
+BRG Group offices of a similar size and researching average,
+usage in each region to estimate the total usage of the site,BRG Group respects and upholds the Universal Declaration
+for the various contributors to scope 1 and 2 emissions.,of Human Rights through its sound business activities. Our
+,"suppliers, bound by our Ethical Sourcing Policy, are required"
+Scope 3,
+,to do likewise to partner with us. This includes upholding the
+"• 
+Life Cycle Analysis assumptions",following human rights in their operations:
+"• 
+Products are used for 7 years before disposal","• 
+Freedom from discrimination"
+
+=== Table 16 (page 33) ===
+,for the various contributors to scope 1 and 2 emissions.,of Human Rights through its sound business activities. Our
+,,"suppliers, bound by our Ethical Sourcing Policy, are required"
+Scope 3,,
+,,to do likewise to partner with us. This includes upholding the
+•,Life Cycle Analysis assumptions,following human rights in their operations:
+,"• 
+Products are used for 7 years before disposal","• 
+Freedom from discrimination"
+,"• 
+Emissions impact of electricity consumption matches","• 
+Freedom from slavery or servitude"
+,the average electricity matrix of the theatre in which the,
+,,"• 
+Freedom of movement"
+,product was sold,
+,,"• 
+Freedom of expression"
+,"• 
+Ovens’ usage frequency is explicitly modelled on the",
+,,"• 
+Freedom of thought"
+,patterns we observe from our connected oven data,
+,,BRG Group’s Code of Conduct for employees is predicated on
+,"• 
+Espresso machines are used to make an average of 10",
+,,the same principles. BRG Group is bound by the requirements
+,"lattes per week, every week of ownership, for all users",
+,,"of the Australian Modern Slavery Act 2018 (Cth), the United"
+,"• 
+Products are transported by road and sea travel from",
+,,"Kingdom’s Modern Slavery Act (2015), the California"
+,Shenzhen to our in-market warehouses,
+,,Transparency in Supply Chain Act 2010 and Canada’s Fighting
+,"• 
+1,000km of further road transport occurs from",Against Forced Labour and Child Labour in Supply Chains Act.
+,warehouse to the consumer's home,BRG Group’s Modern Slavery Act Statement is published on
+,,our website https://brevillegroup.com/corporate-governance/
+,"• 
+All paper packaging waste is recycled, and plastic",
+,,and the Australian government platform. The actions BRG
+,packaging waste is sent to landfill; and,
+,,Group is taking to identify and address modern slavery and
+,"• 
+At their end of life, all products are sent to landfill, with",human trafficking risks in our operations and supply chains
+,150km of road transport (despite recycling options),corroborates our commitment to our Ethical Sourcing Policy.
+•,For espresso and oven appliances without an internal,
+
+=== Table 17 (page 42) ===
+,"USA, Canada, Australia and New Zealand from a base of 24% in FY25;"
+,"d.  Acceleration of the solutions agenda measured as the success of key initiatives including beanz.com and Breville+; and,"
+,e.  Progress on the Group’s sustainability agenda including reduction in the Group’s emissions footprint driven by:
+-,increasing the energy efficiency of products (measured as percentage of espresso machines using Thermojets or similar
+,technology with a mid-term target of 75% of post-2020 launched products by 2028);
+-,recyclability of packaging (measured as % of range using fully recyclable packaging);
+-,marked progress on repairability and recyclability of products; and
+-,maintaining net zero Scope 1 and 2 emissions from FY25 and making business sustainability led reductions in measured
+,Scope 3 emissions.
+"The use of these 3 criteria is intended to deliver a balanced view of business progress, with the largest weighting linked to TSR.",

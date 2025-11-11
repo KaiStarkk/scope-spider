@@ -1,0 +1,355 @@
+=== Table 1 (page 6) ===
+Waypoints REIT’s key ESG highlights and achievements for 2023,,
+are summarised in the table below.,,
+Pillar,Focus area,2023 achievement
+,Climate change,"Maintained full offset of Scope 1, Scope 2 and selected (direct) Scope 3 emissions"
+Environment,,
+,and energy,under our direct operational control through the purchase of carbon offsets.1
+,Reporting and transition,Integrated first-pass climate risk assessments into portfolio asset planning.
+,risk and opportunities,
+,,Further developed our portfolio physical climate risk assessment by grouping assets
+,,with common characteristics to enable scalable plans to be developed to respond
+,,to these physical risks.
+,,Completed a gap analysis and forward-looking roadmap to enable Waypoint REIT
+,,to continue to evolve and prepare for proposed mandatory climate-related
+,,reporting in Australia.
+,,Completed a high-level assessment of end-of-lease site remediation considerations
+,,in the context of potential future alternate use.
+,,European study tour undertaken to better understand the long-term implications
+,,of the energy transition on fuel and convenience retail.
+,,Ongoing involvement in ESG surveys (S&P CSA and Sustainalytics).
+,Our people,Zero employee turnover – stable team of 8 employees.
+Social,,
+,,100% compliance for employee training.
+,"Workplace health,",No employee recordable injuries and no environmental infringements
+,safety and environment,by Waypoint REIT.2
+,Risk management,Implemented additional resilience measures to our technology environment
+Governance,,
+,,based on recommendations suggested by the cybersecurity maturity assessment
+,,conducted by Deloitte in 2022.
+,,Continued prudent and disciplined approach to capital management evidenced by
+,,"active management of exposure to floating interest rates, with 93% of Waypoint"
+,,REIT’s drawn debt being hedged at 31 December 2023 and early assessment of
+,,potential refinancing strategies to be executed in 2024 well in advance of debt
+,,maturities commencing in April 2025.
+,Ethical conduct,Issued third annual Modern Slavery Statement.
+,and transparency,
+,,No reportable compliance breaches.
+
+=== Table 2 (page 10) ===
+Tenant initiatives1,
+Waypoint REIT also acknowledges the sustainability,Viva Energy has a target to achieve net zero Scope 1 and 2
+commitments and actions of our tenant operator Viva Energy.,greenhouse gas emissions across its Convenience &
+,Mobility and Commercial & Industrial businesses by 2030.
+"In December 2023, Viva Energy entered into a co-funding",Viva Energy’s decarbonisation roadmap identifies the
+agreement with the NSW Government for the development of,following initiatives in its Convenience & Mobility business:
+30 EV charging stations across its Shell-branded network in NSW.,
+,• a multi-year rooftop solar PV rollout commencing in 2024;
+"In 2023, Viva Energy announced opt-in Certified Carbon Neutral",• canopy LED lighting upgrades during 2024 (expanding
+Diesel (certified by Climate Active). Opt-in carbon neutral products,on upgrades undertaken in 2022); and
+will be available to Viva Energy’s Shell Card customers in 2024.,
+,• entering into renewable power purchase agreements.
+
+=== Table 3 (page 11) ===
+Energy efficiency,2022 re-statement
+"Since 2021, Waypoint REIT has offset its Scope 1, Scope 2",It is acknowledged that Measured Emissions reported in
+and Scope 3 (direct) greenhouse gas emissions (Measured,Waypoint REIT’s 2022 Sustainability Report were 18.64 t-CO2-e.
+Emissions) through the purchase and surrender of carbon,"In this report, 2022 Measured Emissions are re-stated as"
+offsets. These emissions have been determined by Waypoint REIT,63.59 t-CO2-e.
+"as most directly related to, and within more direct influence of,",
+its business. Further details of the measurement methodologies,"During the preparation and review of 2023 Measured Emissions,"
+applied for Measured Emissions are contained in the Basis of,there were three key calculation changes to 2022 Measured
+Preparation – Appendix C. Waypoint REIT’s Measured Emissions,Emissions that were identified:
+"are relatively modest; nonetheless, we remain committed to",
+,1.  Scope 2 and Scope 3 (category 3) – Fuel and energy related
+identifying opportunities to reduce these greenhouse gas (GHG),
+,emissions (calculation methodology change) – In 2022
+"emissions where possible, and to offsetting residual emissions,",
+,GHG emissions associated with Waypoint REIT’s electricity
+through the acquisition and retirement of carbon offsets.,
+,"consumption, which are reported using a market-based"
+,"method, were estimated using a calculated residual mix"
+"In 2023, Waypoint REIT’s Measured Emissions were 68.80 tonnes",
+,factor for each relevant state. The residual mix factor was
+"of carbon dioxide equivalent (t-CO2-e), a like-for-like increase of",
+,calculated using the Scope 2 and Scope 3 emission factors
+5.21 t-CO2-e (8%) from the 2022 Measured Emissions (re-stated).,
+,for each relevant state (as set out within the 2022 National
+Details of key change drivers for 2023 GHG emissions include:,
+,Greenhouse Accounts (NGA) Factors workbook) which were
+• Travel-related emissions increased by 6.78 t-CO2-e (13%),adjusted to account for the estimated amount of renewable
+compared with 2022. Despite travel activity being lower than,electricity within the electricity grid using the Renewable Power
+"2022, published emissions factors for air travel increased,",Percentage (set by regulation under the Renewable Energy
+more than offsetting Waypoint REIT’s decreased activity.,(Electricity) Act 2000). The 2022 GHG emissions have been
+,"restated to apply a national residual mix factor, rather than"
+• Emissions related to waste from operations and upstream,
+,"relevant state based factors, to align with the new market-based"
+leased assets increased by 1.56 t-CO2-e (was zero in 2022).,
+,method details and residual mix factor included within the 2023
+Waypoint REIT relocated its Sydney offices during 2023.,
+,National Greenhouse Accounts (NGA) Factors Workbook.
+The relocation delivered a positive economic benefit to,
+"Waypoint REIT, however the new premises is not certified",2.  Scope 3 (category 6) Business Travel – emissions factor
+carbon neutral.,applied for business travel flights was incorrect. Business travel
+,"emissions factors have been corrected for 2023 calculations,"
+• Emissions from electricity supply at Waypoint REIT’s corporate,
+,and 2022 emissions re-stated.
+offices decreased by 2.57 t-CO2-e (45%). This was achieved,
+by switching to certified carbon neutral electricity agreements,3.  Scope 3 (category 7) Employee Commuting – a calculation
+during the second half of 2023. A full year benefit of this change,error was made in relation to employee commuting statistics
+will be seen during 2024.,whereby only one-way travel distances had been used in parts
+,of the calculation. 2022 emissions have been re-stated to
+• Decreased emissions of approximately 0.67 t-CO2-e (9% year-,
+,reflect the inclusion of return journeys where required.
+"on-year) from employee commuting (including home working),",
+which fell after a reduction in full-time employment in late 2022.,
+,"To maintain its commitment to offsetting Measured Emissions,"
+,Waypoint REIT has acquired and surrendered a total of 115 tonnes
+
+=== Table 4 (page 22) ===
+Transition risk categories,Transition opportunity categories,Metrics and targets
+Policy and legal,Resource efficiency,Waypoint REIT completed a carbon footprint assessment for
+,,2023 as part of its ESG strategy. This included our operational
+Technology,Energy source,
+,,"footprint for Scope 1, 2 and selected (direct) Scope 3 emissions"
+Market,Products/services,
+,,"categories analysing fuel and energy consumption, waste"
+Reputation,Markets,"generated, business travel, employee commuting (including"
+,,"working from home), and upstream leased assets emissions."
+,Resilience,
+,,This carbon footprint represents Waypoint REIT’s view of the
+,,"GHG emissions that it has the greatest opportunity to influence,"
+,,also referred to in this report as ‘Measured Emissions’.
+A total of 41 transition risk factors and 46 opportunity factors,,
+were identified across the above categories. These risks were,,
+,,"Overall, gross Measured Emissions increased in 2023 as a"
+filtered by the likelihood and severity of impact to Waypoint,,
+,,result of the net sum of increase related to corporate office
+REIT over a five-year period. Risks and opportunities with higher,,
+,,"emissions, increased emissions factors/emissions intensity"
+likelihood and severity have now been identified and will be,,
+,,"on business travel, decreased emissions on office electricity"
+prioritised for validation and further future assessment.,,
+,,supply and decreased employee commuting/work from
+,,home emissions.
+Risk management,,
+,,After accounting for changes in Waypoint REIT’s Measured
+"The ultimate responsibility for overseeing and managing risks,",,
+,,Emissions profile (including 2022 re-statement detailed on
+"including those related to climate change, rests with the Board.",,
+,,"page 9 of this report), Waypoint REIT maintained net Measured"
+,,Emissions of zero in 2023 through the purchase and retirement
+"Waypoint REIT’s Risk Management Framework is used to identify,",,
+,,of Australian Carbon Credit Units (ACCUs) through Tasman
+"assess, manage, monitor and report key risks. The Board, via the",,
+,,Environmental Markets (TEM).
+"Management Director and CEO, is responsible for overseeing",,
+the establishment and implementation of the framework and,,
+,,"Waypoint REIT also acknowledges our major tenant, Viva Energy,"
+for approving and monitoring compliance.,,
+,,and its target to achieve net zero for its Scope 1 and Scope 2
+,,emissions across its Convenience & Mobility (which includes
+"Climate change risk is included in the risk register, which is",,
+,,assets leased from Waypoint REIT) and Commercial & Industrial
+"communicated to the ARMC and the Board. The ARMC, among",,
+,,businesses by 20301.
+"other things, reviews and recommends updates to Waypoint",,
+REIT’s Risk Management Framework and material strategic,,
+
+=== Table 5 (page 23) ===
+,,,FY22,
+,Units,FY23,(restated),FY22
+Our people,,,,
+Total employees,#,8,8,8
+Total employees in full-time roles,#,4,4,4
+Total employees in part-time roles,#,4,4,4
+Employee turnover voluntary,%,–,11,11
+Employee turnover involuntary,%,–,11,11
+Total employees (male/female),%,50/50,50/50,50/50
+Executives (male/female),%,75/25,75/25,75/25
+Board of Directors (male/female),%,60/40,60/40,60/40
+Climate change and energy,,,,
+Greenhouse gas (GHG) emissions,,,,
+Total Scope 1,tCO2-e,–,–,–
+Total Scope 2,tCO2-e,2.84,5.08,5.97
+Direct Scope 3,,,,
+Category 3: Fuel and energy related emissions,tCO2-e,0.35,0.67,0.49
+Category 5: Waste generated in operations,tCO2-e,0.11,–,–
+Category 6: Business travel,tCO2-e,57.51,50.73,6.67
+Category 7: Employee commuting,tCO2-e,6.43,7.10,5.52
+Category 8: Upstream leased assets,tCO2-e,1.56,–,–
+Total – Direct Scope 3,tCO2-e,65.96,58.50,12.67
+"Total Scope 1, Scope 2 and Direct Scope 3 GHG emissions",tCO2-e,68.80,63.59,18.64
+Carbon offsets purchased and surrendered1,tCO2-e,115.00,20.00,20.00
+
+=== Table 6 (page 24) ===
+Table 1. Subject Matter Information
+Our people (as at 31 December 2023):
+Total employees - 8
+Total employees in full-time roles - 4
+Total employees in part-time roles - 4
+Employee turnover (voluntary) % - 0
+Total employees (male/female) % - (50/50)
+Executives (male/female) % - (75/25)
+Board of Directors (male/female) % - (60/40)
+Climate change and energy:
+Greenhouse gas (GHG) emissions (for the year ended 31 December 2023):
+Total Scope 1 - 0 tCO2-e
+
+=== Table 7 (page 24) ===
+Greenhouse gas (GHG) emissions (for the year ended 31 December 2023):
+Total Scope 1 - 0 tCO2-e
+Total Scope 2 - 2.84 tCO2-e
+Direct Scope 3
+Category 3: Fuel and energy related emissions - 0.35 tCO2-e
+Category 5: Waste generated in operations - 0.11 tCO2-e
+Category 6: Business travel - 57.51 tCO2-e
+Category 7: Employee commuting - 6.43 tCO2-e
+Category 8: Upstream leased assets - 1.56 tCO2-e
+Carbon offsets (by the date of issuance of this assurance report1):
+
+=== Table 8 (page 28) ===
+,• Activity data for emission calculations is actual data where
+Environmental metrics,
+,"available, supplemented by management estimates, spend"
+Reporting boundaries,based consumption data and relevant industry information
+,"and/or research, as set out below:"
+• GHG emissions reporting boundaries have been established,
+"with reference to the WRI/WBCSD, 2004: The Greenhouse Gas",– Scope 1 emissions: Direct emissions generated from
+Protocol: A Corporate Accounting and Reporting Standard. World,"the operation Waypoint facilities, consisting primarily"
+Business Council for Sustainable Development and the World,of emissions from the combustion of fuels. Total fuel
+"Resources Institute and WRI/WBCSD, Corporate Value Chain",consumption at Waypoint facilities is based on third party
+"(Scope 3) Accounting and Reporting Standard, Supplement to",invoices supplemented by management estimates.
+the GHG Protocol Corporate Accounting and Reporting Standard,
+,– Scope 2 emissions: Indirect emissions as a result of one
+"(together, the GHG Protocol).",
+,"or more activities that generate electricity or, where relevant,"
+• Scope 1 and 2 emissions are reported for facilities under,"heating, cooling or steam, that is consumed at Waypoint"
+operational control of Waypoint REIT (as defined within the,"facilities, where the direct emissions are generated at"
+"National Greenhouse and Energy Reporting Act 2017) (together,",facilities which are not Waypoint facilities. Scope 2 emissions
+the Waypoint facilities).,for Waypoint facilities consist primarily of emissions
+,"associated with the consumption of electricity, with the"
+• Selected (direct) Scope 3 emissions reported consists of the,
+,amount of electricity consumed based on third party invoices
+following GHG Protocol categories: Fuel and Energy-related,
+,supplemented by management estimates. Scope 2 emissions
+"Activities (category 3), Waste Generated in Operations",
+,in relation to electricity are reported using market-based
+"(category 5), Business Travel (category 6), Employee Commuting",
+,method in accordance with Method B – market-based
+(including working from home) (category 7) and Upstream,
+,method from the National Greenhouse and Energy Reporting
+Leased Assets (category 8).,
+,(Measurement) Determination 2008.
+• Other (indirect) Scope 3 emissions not reported consist of,
+,– Direct Scope 3 emissions: Direct Scope 3 emissions reported
+the following GHG Protocol categories: Purchased Goods,
+,consists of the following GHG Protocol categories:
+"and Services (Category 1), Capital Goods (Category 2),",
+"and Downstream leased assets (Category 13), including",a)  Scope 3 emissions: Fuel- and Energy-related Activities
+but not limited to fuel and convenience tenants’ electricity,"(category 3) – Emissions associated with the production,"
+"consumption, shop refrigerant use and fugitive emissions.",transmission and distribution of fuel and energy
+,consumed at Waypoint facilities (where not included as
+• All other GHG Protocol Scope 3 emissions categories were,
+,a Scope 2 emission). Total fuel and energy consumption
+not deemed relevant.,
+,at Waypoint facilities is based on third party invoices
+,supplemented by management estimates.
+Emissions calculations,
+,b)  Scope 3 emissions: Waste Generated in Operations
+"• Scope 1, 2 and 3 emissions are calculated in accordance with",(category 5) – Emissions associated with waste
+"the GHG Protocol methodology using available emission factors,","generated by Waypoint facilities. Total waste generated,"
+"in order of priority, from the Australian National Greenhouse","including both waste recycled, and waste sent to landfill,"
+"Accounts Factors 2023 (Department of Climate Change, Energy,",is based on waste amounts for each Waypoint facility
+"the Environment and Water (Fed)) (NGA Factors), UK Government",reported by relevant property managers within the most
+GHG Conversion Factors for Company Reporting 2023,recent available reporting period for these buildings.
+(Department for Energy Security & Net Zero (UK)) (UK Company,
+,c)  Scope 3 emissions: Business Travel (category 6) –
+Reporting factors) and other industry based methodologies.,
+,Emissions associated with business travel of
+Emission factors including Well to tank emissions and Radiative,
+,"Waypoint REIT employees, consisting of emissions"
+factoring have been utilised where applicable where UK Company,
+,associated with air and land travel and accommodation.
+Reporting factors have been applied.,
+,"i) 
+Air travel – Emissions are estimated using the total"
+• Where buildings in which Waypoint facilities are located,
+,distance travelled and class of travel is based on
+"are certified as carbon neutral by Climate Active, emission",
+,travel data provided by Waypoint REIT’s corporate
+factors of zero are applied where relevant.,
+,travel providers.
+,ii)  Car hire/taxi – Emissions are estimated using the
+,total distance travelled is based on total spend on
+,taxis and other car travel (Uber etc) converted with
+,reference to the 2014 State & Territory Taxi Statistics
+,"from the Australian Taxi Industry Association (ATIA),"
+,adjusted for inflation.
+,iii)  Public transport – Emissions are estimated using
+,the total distance travelled which is estimated based
+,"on spend on public transport, and average trip"
+,distances of routes utilised.
+,iv)  Accommodation – Emissions are estimated using
+,the total nights of accommodation based on actual
+,spend on accommodation and meals whilst travelling
+,converted to nights of accommodation using an
+,estimated average spend per night.
+
+=== Table 9 (page 29) ===
+d)  Scope 3 emissions: Employee Commuting (including,
+,People metrics
+working from home) (category 7) – Emissions,
+,"• Total Employee – Total number of permanent, fixed-term and"
+associated with Waypoint REIT employees commuting,
+,part-time employees of Waypoint REIT as at the end of the
+and working from home.,
+,reporting period
+"i) 
+Employee commuting – Days/hours working from",
+,• Total employees in full-time roles – An employee under a
+"office, travel distances and methods of travel are",
+,"permanent contract who works a standard work week, which"
+based on data from employee surveys undertaken,
+,is 38 hours.
+by Waypoint.,
+,• Total employees in part-time roles – An employee under
+ii)  Working from home – Working-from-home employee,
+,a permanent contract who works less than a standard
+data are based on data from employee surveys,
+,work week.
+undertaken by Waypoint. The working-from-home,
+emissions have been calculated with reference to,• Employee turnover % – The number of employees who left
+the UK Company Reporting factors.,Waypoint REIT as a percentage of the average total employees
+,during the 12-month reporting period.
+e)  Scope 3 emissions: Upstream Leased Assets emissions,
+(category 8) – Emissions associated with the operation,Voluntary turnover covers voluntary exits of employees
+of assets that are leased by Waypoint REIT and not,"as a result of resignation, relocation or retirement."
+"already included in the reporting of Scope 1, Scope 2 or",
+,Involuntary turnover covers involuntary exits of employee
+other Scope 3 categories consisting primarily of share,
+,as a result of employment termination by the employer.
+of base building emissions for offices in which Waypoint,
+leases office space on a share of Net Lettable Area basis.,"• Total employees (Male/Female) % – The number of permanent,"
+Emissions are based on actual data provided by the,fixed-term and part-time casual employees of Waypoint REIT
+building managers for the most recent annual reporting,of each gender as a percentage of the total employees as at
+period and/or management estimates.,the end of the reporting period.
+,• Executives – Executives are defined as the Managing Director
+• Scope 3 emissions not reported consists of the following,
+,and CEO and direct reports of the Managing Director and CEO
+GHG Protocol categories: Purchased Goods and Services,
+,"who are heads of organisational function areas (e.g. Finance,"
+"(category 1), Capital Goods (Category 2), and Downstream",
+,"Legal/Compliance, Property)."
+leased assets (Category 13).,
+,• Executives (Male/Female) % – The number Executives of each
+,gender as a percentage of the total number of Executives.
+Carbon offsets,
+,• Board of Directors (Male/Female) % – The number of Directors
+Carbon offsets are purchased and surrendered to compensate,
+,of the Waypoint REIT Board of Directors (Board members)
+"for the Scope 1, Scope 2 and selected direct Scope 3 emissions",
+,of each gender as a percentage of the total number of Board
+generated by Waypoint REIT’s activities during the reporting,
+,members as at the end of the reporting period.
+period. Each carbon offset represents the offset of one (1) tonne,

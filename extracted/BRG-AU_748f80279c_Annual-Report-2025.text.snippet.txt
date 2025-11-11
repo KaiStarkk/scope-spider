@@ -1,0 +1,270 @@
+=== Page 19 ===
+17
+BRG Group Annual Report 2025
+Risk Nature of risk Key actions to mitigate risk
+ESG risk and 
+sustainability  The potential exists for reputational risk 
+with employees, customers, investors, 
+regulators and society, and subsequent 
+financial impact, if the Company fails 
+to act adequately on ESG issues and 
+/ or fails to communicate its strategy 
+and approach, including in response to 
+relevant regulations. 
+There is a risk to supply continuity from 
+extreme climate events (see above).
+Changing consumer trends, preferences 
+or expectations regarding sustainable 
+product design could adversely influence 
+demand for the Group’s products if the 
+Group fails to adapt to these.The Company’s approach to ESG issues and risks is detailed in 
+the ESG report section of the Directors report on pages 19 to 35 
+which cover the Group’s approach to climate emissions and ESG 
+responsibilities more generally.  
+The Group’s commitment to a sustainable business model is guided 
+by the Board Sustainability Committee. 
+Product 
+development 
+and 
+innovation 
+riskInsufficient or ineffective investment in 
+product development and innovation, 
+and inadequate communication of the 
+innovative range to customers and 
+consumers may result in loss of revenues 
+and competitive advantage.Securing of proven, world class leadership for product 
+development, technology services, marketing and solutions 
+functions helps to mitigate this risk.
+The Company has a strategic annual target of increasing its 
+investment in product development, technology and solutions as 
+well as marketing and communications. This forms part of the LTI 
+(long term incentive) plan. 
+The prioritisation of investment in these growth drivers is 
+communicated as a core part of Group strategy in investor 
+engagements and results presentations.
+Cyber 
+security riskBreaches of cyber security is a 
+growing global risk as the volume and 
+sophistication of threats has increased. 
+Risks include:
+• Unauthorised access to data / 
+information leading to reputational 
+damage and / or risk of litigation.
+• Malicious attacks that result in outages 
+and service and revenue disruption. 
+• Ransom demands with direct financial 
+consequence to the business.  
+• Failure to comply with regulatory 
+standards risks financial fines or 
+restrictions to conduct business. 
+• Business interruption and availability of 
+systems following a breach.The technology services team has further developed the Group’s 
+cyber security and privacy programs in FY25 within an overall 
+security and privacy framework, including: 
+• Continuous improvements to our core IT infrastructure and 
+cloud platforms with modern security defences, proactive 
+monitoring & alerting.
+• Penetration testing and vulnerability assessments.
+• Continuous cyber threat monitoring, alerting and incident 
+management process.
+• PCI Audits and external reviews of our key cloud operating 
+environments.
+• Continuous improvements & enhancements to our privacy and 
+data mapping platforms. Including operations to support our 
+ongoing global privacy compliance obligations across multiple 
+geographies.
+• Further alignment to the NIST CSF & Privacy Frameworks.
+• Employee mandatory multi-factor authentication and annual 
+cyber security and phishing training.
+• Establishment of guidelines to support safe Generative AI usage 
+across the organisation.Operating and financial review continued
+Material business risks continued
+
+=== Page 21 ===
+19
+BRG Group Annual Report 2025
+Environmental, Social and Governance (ESG) 
+Report
+Our commitment to ESG
+BRG Group is committed to ethical, responsible, and 
+sustainable conduct across and throughout its business, 
+reinforced through our culture, values, process, structure, and 
+policies. BRG Group’s ESG priorities and strategy are a central 
+part of our overall business strategy and are a fundamental part 
+of the way we work. 
+BRG Group’s ESG strategy – ”to	create	innovative,	attractive	
+and	energy	efficient	kitchen	appliances,	designed	and	
+sourced	in	a	socially	and	environmentally	responsible	manner	
+that	delights	our	consumers,	meets	the	expectations	of	
+our	stakeholders	and	delivers	sustainable	value	creation”  is 
+embedded in our business operations and risk management 
+process. 
+As a consumer-facing company that operates in the heart 
+of our consumers’ homes, the	kitchen , our reputation, and 
+ability to meet ethical and behavioural expectations, is core 
+to our sustained sales, business health and value creation. 
+BRG Group’s ESG strategy and priorities are shaped by an 
+ongoing engagement and dialogue with consumers and other 
+stakeholders, allied with scientific analysis and measurement 
+to ensure that we prioritise initiatives that empirically have the 
+biggest impact on reducing carbon emissions. 
+Table: FY25 ESG priority areas comprising Environment, 
+Social and Governance domains
+Environmental
+1. Sustainability - ASRS Climate update
+1.1 Governance
+1.2 Strategy
+1.3 Risk Management
+1.4 Metrics & Targets
+Social
+2. Ethical Sourcing
+2.1 Human rights & modern slavery
+3. Product quality & safety incl. product recall
+4. Community relations
+4.1 Community engagement
+4.2 Reconcilliation action plan
+5. Employee wellbeing
+5.1 Diversity and inclusion
+5.2 Health, safety & wellbeing
+Governance
+6. Corporate Governance
+6.1 Board independence & diversity
+7. Corporate behaviour
+7.1 Anti-bribery & corruption & whistle blowing
+7.2 Cyber security & data privacy 
+7.3 Policy availabilityEnvironmental
+1. Sustainability – ASRS Climate update
+About this report
+During FY25, BRG Group developed a roadmap and 
+progressed towards timely compliance with both ASRS1 and 
+ASRS2 by adopting several of the upcoming requirements 
+in this year’s report. This built on the ASRS (Australian 
+Sustainability Reporting Standards) gap assessment on our 
+climate reporting completed in FY24, supported by Deloitte. 
+Introduction
+BRG Group’s climate-related transition and adaption plans are 
+underpinned by competitive business model characteristics, 
+namely: an asset-light advantage; an innovation advantage; 
+materials management; and supply chain resilience. 
+Supported by robust climate-related governance, strategy, 
+risk management, and metrics and targets, BRG Group has 
+positioned itself to act on impactful initiatives alongside its 
+mission to create products its customers love.  
+Climate transition strategy
+BRG Group's transition strategy reflects a commitment to 
+mitigating an emission-sensitive backdrop and heightened 
+risk of technological disruption by leveraging its asset-light 
+business model (hereafter business	model ) and innovation 
+advantage. Three roadmaps are presented in response to those 
+risks, comprising: net zero (Scope 1 and Scope 2) emissions; 
+espresso-centric in-use energy (Scope 3) reduction; and 
+organic waste (Scope 1 and Scope 2) reduction and diversion 
+from landfill.
+Climate adaption strategies
+BRG Group's adaption strategy reflects a commitment to 
+mitigate the risk of material restrictions and supply disruption by 
+growing materials management capability and a region-sensitive 
+supply network. Three roadmaps are presented in response to 
+those risks, including: packaging waste (Scope 3) reduction; 
+auditable Scope 3 footprint empowering R&D; and diversifying 
+(Scope 3) finished goods manufacturing locations.
+Index: 1. Sustainability - ASRS Climate update Page
+1.1 Governance 20
+Board oversight
+Management responsibility
+1.2 Strategy 20
+Climate-related scenario analysis
+Climate-related risks & opportunities
+Assessment of climate resilience
+Strategy & decision-making
+Breville's Climate Transition Plan
+Breville's Climate Adaption Plan
+1.3 Risk Management 28
+Processes and policies
+Identifying climate-related risks and 
+opportunities
+1.4 Metrics & Targets 28
+Climate-related metrics
+Climate-related targetsOperating and financial review continued
+
+=== Page 23 ===
+21
+BRG Group Annual Report 2025
+Table: climate scenario analysis comprising low and high global warming scenarios per Climate Change Act s296D(2B)
+Low global warming scenario
+<1.5°C above pre-industrial levelsHigh global warming scenario
+>2.5°C above pre-industrial levels
+Defined as an increase of 1.5°C above pre-industrial levels. 
+Arising from the implementation of stringent climate policies 
+and innovation, reaching global net zero emissions around 
+2050 with the US, EU and Japan also reaching net zero for 
+all greenhouse gases. Physical risks are relatively low, but 
+transition risks are conversely high.
+• Policy ambition: <1.5°C 
+• Policy Reaction: Immediate and smooth 
+• Technology change: Fast change 
+• Carbon Dioxide Removal (CDR) technologies: Medium-
+high use  
+• Regional policy variation: Medium variation 
+In practice, world steadily moving towards sustainable 
+trajectory, emphasising greater commitment to fulfilling UN 
+SDGs, comprising:
+• Rapid and significant reduction in emissions.
+• State-led transformation.
+• Swift transition of the energy system to zero emissions 
+through increased use of renewable sources.
+• Carbon taxes increase to $250 per tonne. 
+• Uptick in carbon sequestration, fueled by the high carbon 
+prices. 
+• Closure of high-carbon industries. 
+• Decreased overall consumption of non-essential items, 
+incl. luxury products. 
+• Most severe physical effects of climate change are 
+mitigated, considerable alterations to ecosystems still 
+occur. Defined as an increase of >2.5°C above pre-industrial levels. 
+Arising from moderate and heterogeneous NDCs (Nationally 
+Determined Contributions) pursued from 2021 across 21st 
+century. Result in emissions decline, but nonetheless >2.5°C 
+of warming, and associated moderate to severe physical 
+risks. Transition risks, in contrast, are relatively low.
+• Policy ambition: >2.5°C 
+• Policy reaction: NDCs 
+• Technology change: Slow change 
+• CDR technologies: Low-medium use 
+• Regional policy variation: Medium variation
+In practice, world on trajectory where trends remain largely 
+consistent with historical patterns, resulting in uneven 
+development and income growth, comprising:
+• Significant emissions reductions, peaking around 2030.
+• Business-led initiatives, supported by state.
+• A market-focused transition, backed by favorable 
+policies.
+• High levels of global trade, although resource 
+consumption independent of economic growth.
+• Emphasis on circular economy.
+• Rapid advancements (technology), with collaborative 
+research and development.
+• Decentralised energy framework primarily relying on 
+renewable sources.
+• Carbon price set at $100 per tonne.
+• Uptick in the frequency and severity of extreme weather 
+events, along with shifts in agricultural regions. 
+In its climate-related scenario analysis, BRG Group has integrated both transition and physical climates risks with its overall 
+risk management matrix, thereby managing the materiality and possible impact of climate risks as an integral part of its overall 
+risk management. BRG Group has, as an example, a relatively geographically concentrated supply chain, which, coupled with 
+increasingly unpredictable, impactful, and frequent climate events, could manifest in a range of transition and physical risks 
+demanding mitigation and contingency. The diversification of this supply chain is driven by the alignment of both sustainability and 
+commercial risk factors. Likewise, changing consumer, employee, and authority expectations will increasingly guide the type of 
+products BRG Group develops, how they are packaged, how energy efficient they are, and how BRG Group communicates this to 
+consumers. This again is driven by the natural alignment of sustainability and commercial drivers
+The materiality report completed by the CMA taskforce containing the climate-scenario analysis is substantive. Therefore, a 
+consolidated representation reflecting key risks and opportunities from that body of work is provided.  
+BRG Group has selected timeframes of 0-2 years (Short-term), 2-5 years (Mid-term), and 5+ years (Long-term) that reflect the array 
+of product, platform and solution cycles from development through removal from the market.  
+Table: time horizon timeframes comprising short-term, mid-term and long-term horizons
+Time Horizon Number of years from current financial period
+Short-term 0-2 years
+Mid-term 2-5 years
+Long-term 5+ yearsOperating and financial review continued   
+ESG Report continued
+1. Sustainability – ASRS Climate update continued

@@ -1,0 +1,85 @@
+=== Table 1 (page 15) ===
+,,,
+,Sustainable,Greenhouse Gas,Total (Gross) Emissions:
+,,,
+Foreword,practice in action,(GHG) Emissions,
+,,,
+Corporate structure,In FY24 we donated ex-demo laptops to Stepping,report FY23,
+United Nations SDGs,,,
+,"Stone Clubhouse, a member-based community",,
+,,"Our FY23 GHG Emissions report, finalised in",
+,organisation that successfully addresses the,,
+Our Planet,,,
+,,"May 2024, is a comprehensive independent",
+,serious impact of mental illness. The machines,,
+Our sustainability journey,,,
+,,assessment of carbon dioxide equivalents,
+,"were kept out of landfill, and members now use the",,
+Sustainable practice in action    ,,,
+,,(tCO2-e) accountable to Data#3.,
+,laptops to access information and apply for jobs,,
+Greenhouse Gas Emissions report FY23    ,,,
+,as they work to get back on their feet.,,
+,,,
+Sustain: meaningful environmental action,,Changes to data gathering methods and the,
+Major awards,,inclusion of new data means we have improved,
+,Built on a long-standing relationship with,,
+,,"accuracy in FY23 data. As such, the year-on-year",
+,"Circonomy that began in 2013, Data#3 delivered",,
+,,,-186.5
+,,figures are not directly comparable but provide a,
+Our People,a successful pilot programme to integrate circular,,(-3.5%)
+,,,-96.7
+,,"useful guide. Overall, they reflect the phases of",
+Who we are,economy principles across our operations in,,
+,,,(-1.9%)
+,,information gathering and strategic planning that,
+,FY24. We have diverted valuable resources from,,
+Diversity and inclusion: Embrace program,,,
+,,have dominated FY23.,
+,"premature disposal, explored circular design for",,
+Reconciliation Action Plan,,,
+,"our product offerings, and measured and reported",,
+Safety,,,
+,,"Scope 1 direct emissions, such as those from fuel",
+,environmental and social impact. It is by developing,,
+Health and wellbeing: Thrive program,,,As expected for an organisation centred around
+,,"use, have remained steady in FY23, while indirect",
+,a comprehensive circular strategy with the help of,,
+Rewards and recognition: Inspire program,,,"people, the Employees sector was the largest"
+,,energy import such as purchased electricity,
+,Circonomy that we have positioned ourselves to,,
+,,,"contributor, with post-pandemic travel increases a"
+Learning and development: Data#3 Academy,,,
+,,has reduced by 3.9%. Indirect upstream and,
+,"responsibly re-commerce more materials, helping",,
+,,,notable factor. The overall emissions per employee
+,,,
+Q&A with our Chief People Officer,,downstream emissions (scope 3) that result from,
+,us to foster a culture of sustainability where the first,,
+,,,did compare favourably with major competitors.
+,,"activities along the supply chain dropped by 2%,",
+,"thought is reuse, rather than dispose.",,
+O,,,ICT Services achieved the largest reduction in
+ur Policies,,with environmental considerations now factoring,
+,,,"emissions at -994.0 (-55% compared to FY22), due"
+"Board, management, and staff diversity data",,more heavily into procurement choices.,
+,,,to the Dynamics 365 implementation impacting on
+Ethics,,,
+,,,
+,ICT Services achieved the,,"the prior year data, and an overall improvement to"
+,,"During FY24, measures such as a major solar",
+,,,energy efficiency of newer devices helping reduce
+,largest reduction in emissions,installation at our Brisbane logistics hub and,
+,,,
+Our Partnerships,,,impact.
+,,"greener building choices have been introduced,",
+,at -994.0,,
+Vendor partners,,,
+,,and their effect will be analysed in FY24 figures,
+Our Device as a Service program,,,
+,,,
+,(-55% compared to FY22).,(expected finalisation May 2025) and FY25 figures,
+Data centres,,,
+,,(expected finalisation May 2026).,
+Environmental partners,,,

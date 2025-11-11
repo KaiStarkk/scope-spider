@@ -1,0 +1,352 @@
+=== Page 2 ===
+STANMORE RESOURCES LIMITED  
+ACN 131 920 968
+Contents
+1. ABOUT THIS REPORT  1
+1.1 Reporting Scope and Boundary  2
+1.2 Reporting Framework  3
+1.3 External Assurance 3
+2. INTRODUCTION 4
+2.1  A Message from the  
+Chief Executive Officer  4
+2.2 Highlights 6
+3. OUR BUSINESS AND PERFORMANCE 8
+3.1 Our Business 8
+3.2 Our Operations 11
+3.3 Operational Changes 14
+3.4 Our Value Chain 15
+3.5 Financial and Operational Performance 15
+4. OUR APPROACH TO SUSTAINABILITY  16
+4.1  A Message from the Chair  
+of the Sustainability Committee 16
+4.2 Sustainability Committee 18
+4.3 Key Sustainability Milestones in 2024 19
+4.4 Our Material Topics 20
+4.5 Stanmore NextGen 22
+5. PEOPLE 24
+5.1 Health, Safety and Wellbeing 26
+5.2 Employment Practices 34
+5.3  Workforce Development,  
+Retention and Inclusion 366. COMMUNITY  40
+6.1 Local Communities 42
+6.2 Land and Resource Rights 48
+6.3 Economic Benefits 51
+7. CLIMATE 54
+7.1  Governance 56
+7.2 Strategy  57
+7.3  Risk Management 66
+7.4 Metrics and Targets — 
+ Scope 1 and 2 Emissions 67
+8. ENVIRONMENT  70
+8.1  Environmental Management  
+and Compliance 72
+8.2 Water  73
+8.3 Sustainable Land Use and Biodiversity  75
+8.4 Rehabilitation and Mine Closure 78
+8.5 Waste 79
+8.6 Air Quality and Noise 81
+9. GOVERNANCE 82
+9.1 Board Details 84
+9.2 Corporate Governance Framework  86
+9.3 Anti-Corruption and Bribery  87
+9.4 Modern Slavery  89
+9.5 Compliance with Laws  
+ and Regulations 89
+10. APPENDICES 91
+Appendix 1: GRI Content Index 91
+Appendix 2: Glossary of Terms 103
+CORPORATE DIRECTORY  104
+
+=== Page 5 ===
+1.  About  
+This Report7. Climate
+2. Introduction 8.  Environment3.  Our Business and 
+Performance9. Governance
+4.     Our Approach  
+to Sustainability10. Appendices5. People
+6. Community
+3
+Stanmore  |  Sustainability Report 20241.2  Reporting  
+Framework1.3  External  
+Assurance
+This Report references the GRI 12: Coal Sector 
+Standard 2022, which provides a structured 
+approach to data collection, analysis,  
+and reporting to ensure consistency and 
+comparability with previous reports.  
+We continue to use the GRI framework to 
+guide our methodology for assessing key 
+Environmental, Social, and Governance (ESG) 
+issues that are critical to stakeholder 
+decision-making and our long-term business 
+sustainability goals.  
+Additionally, we have advanced our efforts to align our 
+sustainability reporting with evolving global and Australian 
+standards and requirements. Specifically, we are aligning 
+with the Australian Sustainability Reporting Standards 
+(ASRS), which were legislated in September 2024 and 
+developed in consideration of the International Financial 
+Reporting Standards’ (IFRS) first two Sustainability 
+Disclosure Standards (IFRS S1 and S2), released by the 
+International Sustainability Standards Board (ISSB) in  
+June 2023. 
+Our material topics and objectives remain consistent with 
+those used in the 2023 Report. For a complete list of 
+disclosures included in this Report, refer to Appendix 1 
+— GRI Content Index.
+We have made reference in this Report to our climate risk 
+management processes, aligned with the 
+recommendations of the Taskforce on Climate-related 
+Financial Disclosures (TCFD), now assumed by the ISSB 
+and subsequently the ASRS as stated above.The Company has obtained independent assurance on its 
+FY24 energy consumption and greenhouse gas emissions 
+data for the purpose of NGER reporting. This data has been 
+disclosed in Section 7.4 of this Report. We have not sought 
+further external assurance associated with other 
+disclosures. Contact information for any queries in relation 
+to this Report:
+Stanmore Resources Limited  
+(ACN 131 920 968) 
+Corporate Office Address 
+Level 32, 12 Creek Street  
+Brisbane QLD 4000 Australia 
+ 
+Postal Address
+GPO Box 2602  
+Brisbane QLD 4001 Australia 
+ 
+Telephone +61 (7) 3238 1000 
+Website  www.stanmore.au
+Email  info@stanmore.net.au 
+ASX Code  ASX: SMR
+Share Registry  MUFG Corporate Markets
+ 
+This Report is authorised for release to  
+the market by the Board of Directors of  
+Stanmore Resources Limited.
+
+=== Page 6 ===
+Introduction 2.2. Introduction
+4
+Stanmore  |  Sustainability Report 20242024 has been another pivotal year in the 
+evolution of Stanmore’s sustainability journey, 
+as we strengthened our processes and 
+developed our resources responsibly.
+I am pleased to provide our valued stakeholders this report 
+which outlines how sustainability is central to our 
+operations, and how we are dedicated to enhancing our 
+practices to create a lasting positive impact for the 
+communities and environment in which we operate.
+Maintaining the momentum of previous years, in 2024  
+we have again made significant progress with delivering on 
+commitments outlined in our Sustainability Roadmap. 
+During the past 12 months, we have adapted to the 
+evolving regulatory landscape, strengthened our 
+engagement with key stakeholders, and reinforced our 
+focus on environmental stewardship, social responsibility 
+and strong governance. These efforts are not just about 
+compliance, they reflect our deep commitment to creating 
+long-term value for our workforce, shareholders, 
+customers, and the communities in which we operate.
+Our operational and financial achievements during the past 
+12 months have been aided by the integration of 
+sustainability into all aspects of our business. This has 
+significantly contributed to organisational efficiency, 
+resilience and business success.Our people and the communities in which we operate 
+remain integral to our purpose. Over the past year we have 
+enhanced our Social Performance Framework by 
+formalising key standards and procedures that guide our 
+investments and engagement with local communities, 
+stakeholders and First Nations peoples. Complementing 
+this, we have developed a comprehensive Community and 
+Stakeholder Engagement Plan to enhance transparency 
+and collaboration and further solidified our approach to 
+meaningful and lasting community partnerships.
+Our commitment to social investment in the communities 
+in which we operate has resulted in an 84% increase in 
+community grants, higher spending with local and 
+First Nations vendors, and expanded health and safety 
+initiatives, including enhanced psychosocial risk 
+management and proactive workforce wellbeing programs. 
+We also announced that our Gas to Electricity Project at 
+South Walker Creek will be the first project to be funded 
+through the Queensland Government’s $520 million  
+Low Emissions Investment Partnerships (LEIP) program. 
+The project will generate electricity from gas that would 
+otherwise be released as fugitive emissions as part of 
+future mining operations. Our teams are finalising details to 
+bring the project to a final investment decision during 2025. 
+Responsible land management is critical to the way we run 
+our business, and we take all reasonable measures to 
+minimise our impact. In 2024, we strengthened our land 
+disturbance processes and reassessed our designated 
+biodiversity-managed areas through offset property 
+reviews, adding new sites to meet our project obligations.  
+We now actively manage 9,000 hectares of natural habitat 
+reserves, supporting Australian flora and fauna. 2.1  A Message from the  
+Chief Executive Officer
+
+=== Page 11 ===
+9
+Stanmore  |  Sustainability Report 20241.  About  
+This Report7. Climate
+2. Introduction 8.  Environment3.  Our Business and 
+Performance9. Governance
+4.     Our Approach  
+to Sustainability10. Appendices5. People
+6. Community
+Our Mission
+Genuine care for our people, their safety,  
+the environment and the stakeholders involved  
+with our operations.
+Achieve sustainable development by:
+• having high standards and a strong safety and 
+health culture
+• responsibly managing and maximising extraction  
+of our resources and reserves via best-in-class 
+mining practices
+• ensuring the continuity of our business by  
+fostering and developing growth and reserve 
+replacement initiatives
+• developing projects in the renewable energy space 
+to support our existing businesses reducing our 
+carbon and emissions footprint.
+Building and fostering a culture of an agile, 
+entrepreneurial and simple organisation.
+Focusing on continuous improvement and  
+operational excellence.
+The metallurgical coals that we 
+produce are predominately used 
+in the manufacturing of steel.
+
+=== Page 12 ===
+3.Our Business  
+and Performance10
+Stanmore  |  Sustainability Report 2024Product Mix and Customer Base
+Stanmore maintains a diversiﬁed customer base in traditional and emerging markets
+Customer Mix (2024, by tonnes) Product Mix (2024, by revenue)
+Pulverised Coal for Injection3%
+34% 63%
+Thermal Coal
+Coking Coal
+23%
+24%
+40%
+6%
+7%
+Europe India Southeast
+AsiaOtherJapan
+Korea
+TaiwanThe Importance of Steel in the Transition  
+to a Lower-Carbon Economy
+Metallurgical coal remains a fundamental component  
+of the global economy, playing a vital role in 
+underpinning economic activity for many years to come. 
+The growing demand for steel, driven by urbanisation 
+and growth in developing economies, particularly in 
+India, Southeast Asia, and China, continues to drive the 
+need for high-quality metallurgical coal. 
+Steel is integral to the modern economy, serving as a 
+foundation for transport, construction, and energy 
+infrastructure, including renewable energy developments.  
+It is a key material in wind turbines, solar farms, and electric 
+vehicles, highlighting its role in enabling a lower-carbon 
+future. Steel offers a unique combination of strength, 
+durability, versatility and sustainability. It is 100% recyclable, 
+and its strength and durability minimise the environmental 
+impact by reducing the quantity of other materials required 
+for construction, as well as the need for frequent 
+maintenance and repairs. 
+2  Source: Resources and Energy Quarterly; Department of Industry, Science and Resources (September 2024).Metallurgical coal is a critical component of blast furnace 
+steelmaking. While the steel industry continues to develop  
+lower-emission alternatives, metallurgical coal will be 
+required in the long term until genuine, cost-effective, and 
+scalable alternatives can fully replace conventional 
+integrated blast furnace capacity and production volumes.
+Global metallurgical coal export volumes are forecast to 
+increase by approximately 6% between 2023 and 2026, 
+driven largely by increased supply from Australia. Australian 
+metallurgical coal exports alone are expected to rise by 15% 
+over this period, reinforcing the country’s position as the 
+world’s largest exporter of metallurgical coal. 
+In 2024, Australia accounted for approximately 48% of 
+global exports2, supplying the high-quality metallurgical 
+coal that remains essential to steelmakers across Asia and 
+beyond. Australia’s proximity to key Asian steelmaking 
+markets, coupled with its high-quality metallurgical coal, 
+ensures its continued role in supporting steel production 
+and economic development.
+
+=== Page 18 ===
+Our Approach  
+to Sustainability 4.16
+Stanmore  |  Sustainability Report 2024This year our sustainability journey  
+further matured, as we adapted to  
+changing regulatory demands while 
+continuing to deliver tangible value to  
+our workforce, shareholders, customers  
+and local communities.   
+On behalf of the Sustainability Committee, I am pleased  
+to share an overview of Stanmore’s progress as we 
+continue advancing the commitments outlined in our 
+Sustainability Roadmap. 
+In 2024, as in previous years, we focused on continuous 
+improvement, enhancing sustainability and ESG metrics 
+and outcomes, addressing climate and environmental risks, 
+and maintaining strong financial performance. As a result, 
+we are proud to report that we remain on track with the 
+deliverables in the Roadmap. 
+Our initiatives this year have been driven by a proactive 
+approach to risk management and responsible resource 
+use, ensuring that our operations deliver lasting benefits to 
+the communities in which we operate, and minimising our 
+impact on the environment. 
+Against the backdrop of an evolving landscape of 
+sustainability practices and disclosures across the industry 
+and our ongoing commitment to aligning with best 
+practice, our material topics remain unchanged from the 
+prior year, though subject to ongoing review to reflect 
+emerging issues. This has allowed us to reinforce our  
+long-term focus on our themes of People, Community, 
+Climate, Environment, and Governance. 
+In 2024, regulatory and reporting expectations evolved, 
+and we have made significant progress in developing  
+climate metrics and processes to align with the Australian 
+Sustainability Reporting Standards (ASRS). Additionally,  
+we have commenced data collection processes in 
+preparation for future Scope 3 reporting, recognising the 
+importance of understanding and addressing our full 
+value chain emissions. Another key area of focus throughout the year has been  
+our preparation for future Taskforce on Nature-related 
+Financial Disclosures (TNFD) reporting. We have 
+commenced preparation for relevant data collection and 
+future reporting, as well as conducting an initial double-
+materiality assessment. In simple terms, this means we are 
+required to assess both how nature impacts Stanmore's 
+financial performance, and how we impact nature. This 
+approach is helping evolve our thinking and underscores 
+our commitment to a holistic understanding of 
+environmental impact. 
+Other key highlights of 2024 include: 
+• Further development of our Environmental Management 
+System (EMS), with the approval of our Environment 
+Policy and updates to supporting documents. 
+• Progression of our Reconciliation Action Plan (RAP) 
+commitments and initiation of preparations for our next 
+RAP, set for submission in 2025. 
+• A review of our five-year Sustainability Roadmap  
+to ensure alignment with our long-term vision and 
+stakeholder expectations. 
+• Advancing the development of our Social Performance 
+Framework, including a comprehensive five-year 
+roadmap, standards and site procedures.  
+• Refinement of our ESG data collection to improve  
+the accuracy, consistency and efficiency of our 
+sustainability reporting. 
+We have made progress on our Decarbonisation Plan,  
+with key projects identified and advancements towards 
+investment decisions. These initiatives reflect our 
+unwavering commitment to reducing our operational 
+carbon footprint and transitioning towards a more 
+sustainable operational model. 4.1  A Message from the Chair of the 
+Sustainability Committee

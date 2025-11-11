@@ -1,0 +1,254 @@
+=== Table 1 (page 5) ===
+,"As we enter this next chapter, I am"
+"“Our new learning and development roadmap,",
+,confident that Ridley is well-positioned
+"aligned with our FY26 strategy, ensures we are",to continue to make progress on
+,
+building the future-fit skills our business needs,our Sustainability Commitments.
+,"Our expanded capabilities, renewed"
+to thrive.”,
+,"focus, and clear strategic direction"
+,provide a strong foundation from which
+,to go forward. I am proud of what we
+"Within the Effective Solutions pillar  
+We expanded mental health training,",
+,have achieved this year and excited
+"we deepened our technical capabilities  
+enhanced our diversity and inclusion",
+,about the opportunities ahead.
+"to support customers to reduce their 
+initiatives, and increased our financial",
+"environmental impact. We completed  
+contributions to local communities.",
+,"Thank you to our employees, partners,"
+"life cycle assessments (LCAs) for key 
+Our new learning and development",
+,and customers for your continued
+"products, trained our sales teams in 
+roadmap, aligned with our FY26",
+,support and shared commitment to
+"emissions reduction strategies, and 
+strategy, ensures we are building",
+,building a more sustainable future.
+"continued to support research into 
+the future-fit skills our business",
+"methane-reducing feed additives.  
+needs to thrive.",
+,"Sincerely,"
+While FY25 marked our final year of,
+"Looking ahead to FY26, we will update 
+reporting against aquafeed targets",
+"our sustainability baselines to reflect our 
+due to our withdrawal from this market,",
+"expanded operations and refresh our 
+we achieved a 22.5% reduction in",
+"strategy to ensure it remains aligned 
+Fish-in Fish-out (FIFO) ratios, which",
+"with stakeholder expectations and 
+refer to the amount of wild fish used",
+"regulatory developments. We are also 
+to produce a certain amount of",
+"preparing for a full Scope 3 emissions 
+farmed fish).",Quinton Hildebrand
+assessment and a more detailed,Chief Executive Officer
+"scenario analysis of climate-related  
+Through Meaningful Partnerships,",and Managing Director
+"risks and opportunities.
+we strengthened our commitment",
+to our people and communities.,
+
+=== Table 2 (page 11) ===
+,FY25 GHG emissions derived from energy per tonne of finished product4,
+Measure and reduce,,
+greenhouse gas intensity,,
+,CO2 emissions calculated,
+of our operations,Baseline,
+Optimising the energy used to power,"(FY23)5 
+FY24",FY25
+our mills continues to be a focus at,"Scope 1
+52,910
+53,821","57,081"
+"Ridley. In FY25, our total Scope 1 GHG",,
+,"Scope 2
+52,147
+48,612","50,977"
+"emissions were 57,081 tCO₂-e, primarily",,
+,"Total emissions
+105,057
+102,433","108,058"
+from the natural gas and diesel used,,
+in our operations. Our total Scope 2,"t CO2-e / kg finished product
+56.58
+54.11",53.49
+"emissions were 50,977 tCO₂-e, resulting",,
+,"% change from the baseline
+4.4%",5.6%
+from electricity consumption at our,,
+operational sites and office locations.,,
+These emissions were calculated in,,
+"accordance with the GHG Protocol,",,
+using emission factors from the National,,
+Greenhouse and Energy Reporting,,
+(NGER) Measurement Determination.,,
+,Case study – Improving energy efficiency through thermal insulation,
+Capital projects are enabling us,,
+,Detailed assessments have shown that uninsulated pipes can lead to,
+to reduce our energy consumption,,
+,"significant thermal losses of up to 22%, presenting both economic and",
+"and, as a result, our GHG emissions,",,
+,"environmental costs to our business. As such, Ridley engaged a third party",
+with 4 new projects added in FY25.,,
+,to supply and install the thermal insulation across 15 of our operating sites,
+Combined with the 15 projects approved,,
+,"after successful trials at St Arnaud, Wellsford and Wasleys sites.",
+"in FY24, our total capital expenditure",,
+on energy reduction projects is now,,
+,The project involved installing thermal insulation on pipework and associated,
+$6.1 million. We completed 18 of these,,
+,equipment identified using thermal imaging audits during normal operations,
+"projects by the end of FY25, resulting",,
+,at each mill.,
+in an additional reduction of 1.2% GHG,,
+emissions per tonne of finished product.,"While early indications are positive, we will use a third party auditor to",
+This was achieved through a mix of,measure and verify the anticipated energy reduction 12 months after the,
+"equipment upgrades and optimisation,",final installation.,
+"thermal insulation, heat recovery,",,
+data-driven solutions and,,
+electrification options.,,
+"In the year ahead, we will continue",,
+to work with the production sites not,,
+included in the FY23 baseline to align,,
+"their energy and GHG reporting,",,
+and to identify and develop energy,,
+efficiency opportunities.3,,
+
+=== Table 3 (page 19) ===
+In FY24 we engaged an external,"risks, and another aligned with the Paris",were consolidated and prioritised.
+consultant to assess gaps against,"Agreement, reflecting a global transition",Key strategic risks were identified
+the Australian Sustainability Reporting,to a low-carbon economy. They identified,and reported through management
+Standards (ASRS) and create a,"and rated 59 risks and 17 opportunities,",and committees. Further details of the
+compliance roadmap. This year we,resulting in 6 priority risks and 5 priority,risks can be found in our annual report.
+have made progress in addressing,"opportunities. Details, including mitigation",Risk management of risks is handled
+"the identified gaps and actions,","actions and outcomes, can be found on",through our committees; regular
+as detailed in the sections below.,pages 19-21 in our FY24 report. We plan,"budgetary, financial and management"
+,to use these findings in FY26 for a more,"reporting; our organisational structures,"
+,detailed scenario analysis to better,"procedures, manuals, policies, audits"
+Governance,,
+,understand the financial and reputational,"(including internal and external,"
+Since the last report we have,implications for our business.,"environmental and safety), insurance"
+"updated our governance processes,",,programs and specialised staff and
+including Board governance and,,external advisors.
+,Risk Management,
+oversight of climate-related risks,,
+and opportunities. The new processes,In FY25 we worked with an external,
+,,Metrics and targets
+are described below.,consultant to review and update Ridley’s,
+,"Risk Management Program, including",This year we started assessing our
+,our Risk Management Framework,Scope 3 emissions. This involved
+Strategy,,
+,Policy and procedures. A copy of the,engaging an external consultant to
+"In FY24, our senior management team",policy can be found on our website.,identify our most significant emission
+worked with external consultants to,Workshops were held with each,sources based on the categories
+identify key business functions and,business unit to discuss and agree,outlined in the GHG Protocol’s
+assess potential physical and transition,on material risks. Climate-related,Corporate Value Chain Standard.
+risks. Two climate scenarios were,"risks, previously considered in",This will be used to guide the full
+evaluated: one with minimal climate,"isolation, were now covered in each",assessment of our Scope 3
+action leading to significant physical,business unit workshop. These risks,emissions in FY26.
+
+=== Table 4 (page 24) ===
+Pillar,Activity,Intent of Commitment,FY23 Baseline,2030 Commitment
+Meaningful,Support,Technical expertise,2023: Ridley’s Nutrition and,Ridley will:
+Partnerships,customers,in sustainability,Technical team continue to build,
+,,,,Offer technical expertise to assist
+,to meet their,opportunities linked,capability to assist customers to,
+,,,,customers to reduce the GHG
+,sustainability,to animal nutrition,reduce GHG intensity of customer’s,
+,,,,intensity of customer’s products
+,goals,,products through animal nutrition.,
+,,,,through animal nutrition.
+,Ensure safe,Employee health,2023: Ridley safety programs,Ridley will:
+,and healthy,and safety,include a well-being strategy,
+,,,,Continue to foster an environment
+,employees,,"and action plan, mental health",
+,,,,where they can perform their
+,,,first aid training and the ongoing,
+,,,,duties safely.
+,,,support and guidance of a,
+,,,qualified HSE team.,
+,Create diverse,"Diversity, equity",2023: WEGA report 2022 =,Ridley will:
+,workplaces,and inclusion,"22% Female, 78% Male employees.",
+,,,,≥ 30% of Ridley’s employees and
+,,,,Board to be female by 2030.16
+,,,,Have an embedded RAP or
+,,,,equivalent by 2030.
+,,,,Note: This commitment originally
+,,,,referred to employees only. In the FY24
+,,,,"Sustainability Report, it was expanded"
+,,,,to include Ridley’s Board.
+,Provide,Training and,2023: Basic compliance training,Ridley will:
+,training and,development,for all employees ad hoc external,
+,,,,Embed a formalised learning
+,development,,learning and development,
+,,,,and development program that
+,opportunities,,opportunities supported ad hoc,
+,,,,includes an annual review of Ridley’s
+,,,technical training supported,
+,,,,requirements and development
+,,,relevant to industry,
+,,,,"plans, where necessary, to ensure"
+,,,,our business has “future fit” skills
+,,,,by 2030.
+,Support local,Community,2023: Each site has access to,Ridley will:
+,communities,engagement,"$2,000 per year to support local",
+,,,,Increase the baseline financial
+,,,charities and or community groups.,
+,,,,contribution five-fold to 0.15%
+,,,This represents approximately,of group EBITDA and continue
+,,,0.03% ($34k) of the Group EBITDA.,our ongoing non-financial support
+,,,,of our local communities including
+,,,,targeting charities and community
+,,,,groups that align with the values
+,,,,of the company by 2030.
+Others,,Climate risks and,2023: Ridley currently includes,Ridley will:
+,,opportunities,some climate risks in the risk,
+,,,,Actively manage climate-related
+,,Note: This name of,register and discloses its Scope 1,
+,,,,risks and opportunities across
+,,this pillar has been,and 2 emissions as part of the,
+,,,,"Ridley’s operations, integrating"
+,,updated in line with,obligations for the National,
+,,,,such risks in strategic decision
+,,the release of the,Greenhouse Gas and Energy,
+,,,,making in line with ASRS
+,,draft ASRS.,Reporting (NGER) Act.,
+
+=== Table 5 (page 26) ===
+National Association of Women in Operations (NAWO) is an Australian organization that promotes gender diversity and inclusion
+in operational industries by supporting women in leadership and career development.
+National Greenhouse and Energy Reporting (NGER) is an Australian government program that collects data on greenhouse
+"gas emissions, energy production, and energy consumption from corporations."
+Packaged Products means all bags less than 25kg sold to retail and wholesale customers and excludes bulk bags.
+Reconciliation Action Plan (RAP) means a reconciliation action plan with Reconciliation Australia.
+"Renewable Diesel is a fuel made from fats and oils, such as tallow, soybean oil or canola oil, and is processed to be chemically"
+the same as petroleum diesel.
+Ridley Aqua Feed Programs FY23 means our program for feeding prawn and barramundi over their production cycle
+as at 30 June 2023.
+Ridley Aqua Feeding Programs 2030 means our commercially available Ridley programs for feeding prawn and barramundi
+over their production cycle as at 30 June 2030.
+"Risk Consequence is determined based on the potential financial impact of the risk, measured using Net Present Value (NPV)."
+Risk Likelihood descriptions are:
+Almost certain: The event is expected to occur during the period under review;
+Likely: The event will probably occur during the period under review;
+Possible: The event may occur during the period under review;
+Unlikely: The event is not likely to occur during the period under review; and
+Rare: The event may occur only in exceptional circumstances during the period under review.
+"Round Table for Responsible Soy (RTRS) is a global multi-stakeholder initiative that promotes the responsible production,"
+"processing, and trading of soy, ensuring environmental, social, and economic sustainability."
+Science Based Target initiative (SBTi) is a global body that helps companies set greenhouse gas emissions reduction targets
+in line with climate science and the goals of the Paris Agreement.
+Scope Emissions refer to the classification of greenhouse gas (GHG) emission based on their source and the level of control
+an organisation has over them. Scope 1 Emissions are emissions from sources owned or controlled by an organisation.
+Scope 2 emissions are emissions from the generation of purchased energy by an organisation.
+Sustainable Aviation Fuel is an alternative fuel made from non-petroleum feedstocks that reduces emissions from air transportation.
+"Woven Polypropylene (WPP) is a strong, durable plastic material made from interwoven polypropylene strips, commonly used"
+for packaging and transporting bulk goods.

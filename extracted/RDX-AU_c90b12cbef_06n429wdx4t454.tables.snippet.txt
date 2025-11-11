@@ -1,0 +1,59 @@
+=== Table 1 (page 8) ===
+Redox Limited
+"Environmental, social and governance (ESG) report"
+30 June 2025
+"Redox is committed to Corporate Social Responsibility (CSR) and believes that CSR is about demonstrable, responsible"
+and pro-active business leadership.
+The  Board  assumes  overall  responsibility  for  Redox’s  CSR  policies  and  procedures  which  cover  areas  such  as
+"workplace diversity, human-rights, anti-bribery and anti-corruption, health, safety and environmental matters."
+"CSR/ESG considerations influence how Redox’s business is conducted, its interactions with stakeholders, and the value"
+that the business contributes to society.
+The longevity of this ethos is shown by Redox’s status as a long-term signatory to the Responsible Care® program. The
+"program is administered by Chemistry Australia and tackles a wide range of issues including environmental protection,"
+"employee  health  and  safety,  storage  and  transport  safety,  manufacturing  process  safety,  product  stewardship  and"
+industry transparency and engagement.
+"In  2024,  Redox  obtained  its  latest  EcoVadis  certification,  which  ranks  the  quality  of  the  Company’s  sustainability"
+management system against global applicants across a range of different industries. Redox achieved a bronze medal
+indicating a top 35 percentile ranking.
+"Redox’s values are centred around leadership, integrity, hard work, knowledge, service and health and safety."
+"Redox conducts business in a manner that is ethical, values-driven and in compliance with the laws of all countries in"
+"which it operates. Redox continues to develop its ESG strategy and intertwine it in its day-to-day business activities,"
+influenced by Redox’s values and stakeholder engagement.
+"E
+nvironmental Stewardship"
+"Redox has a number of initiatives to mitigate the Company’s environmental impact, including through monitoring and"
+"evaluating Redox’s greenhouse gas emissions footprint, installing solar generation systems in its Australian sites and"
+offering returnable packaging solutions and package-free bulk delivery options to its customers and suppliers.
+Greenhouse gas emissions footprint
+"Over  the  past  four  years,  Redox  has  engaged  Carbon  Neutral  Pty  Ltd  (Carbon  Neutral),  an  independent  third-party"
+"consulting firm, to evaluate and assess the Scope 1, 2 and 3 greenhouse gas emissions associated with the Group’s"
+operations in the previous  year. A summary of  Carbon Neutral’s assessment of  Redox’s  greenhouse gas emissions
+footprint for the years ended 30 June 2023 (FY23) and 30 June 2024 (FY24) is outlined below.
+
+=== Table 2 (page 9) ===
+30 June 2025,,
+"GHG emissions inventory, in tonnes of CO2 equivalent (tCO2e)",,
+,FY2024,FY2023
+,tCO2e,tCO2e
+Direct Scope 1 GHG emissions,474.82,515.97
+Indirect (location-based) Scope 2 GHG emissions (purchased electricity),"1,322.73","1,322.23"
+Other indirect Scope 3 GHG emissions (value chain),"178,939.51","156,102.40"
+Cat. 1 Purchased goods & services*,"5,339.52","4,287.59"
+Cat. 2 Capital goods,"1,031.88",NM
+Cat. 3 Fuel- and energy-related activities,260.08,311.65
+"Upstream 
+Cat. 4 Upstream transportation and distribution","162,511.77","143,440.81"
+Cat. 5 Waste generated in operations,"3,163.20","2,935.02"
+Cat. 6 Business travel,251.91,104.78
+Cat. 7 Employee commuting,553.50,455.48
+Cat. 8 Upstream leased assets,"5,827.65","4,567.07"
+Cat. 9 Downstream transportation and distribution**,n/a,n/a
+Cat. 10 Processing of sold goods,NM,NM
+Cat. 11 Use of sold products,NM,NM
+"Downstream 
+Cat. 12 End-of-life treatment of sold products",NM,NM
+Cat. 13 Downstream leased assets**,n/a,n/a
+Cat. 14 Franchises,n/a,n/a
+Cat. 15 Investments,n/a,n/a
+Total Scope 1 and 2 GHG emissions,"1,797.55","1,838.20"
+Total Scope 1-3 GHG emissions,"180,737.06","157,940.60"

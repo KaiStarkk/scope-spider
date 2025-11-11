@@ -1,0 +1,364 @@
+=== Page 2 ===
+Contents  
+GOLD FIELDS Climate Change and Environment Report 2024 2Welcome to our Climate Change 
+and Environment Report (CCER) for 
+the year ended 31 December 2024.About this report 3
+Introduction 4
+Gold Fields operations’ environmental 
+performance at a glance5
+Reflections from our CEO and SHSD 
+Committee Chairperson 6
+2024 highlights and performance 
+against 2030 targets7
+Gold Fields’ climate change and 
+environmental stewardship journey 8
+Governance 10
+Climate change and environment 
+leadership and management11
+Position and policies 12
+Resilience to climate change 13
+Climate-related risk management 
+processes14
+Financial risks: the impact of weather 
+events on Gold Fields’ financial 
+performance15
+Asset-based physical risks 16
+Country-based transition risks 20Our Decarbonisation Strategy and 
+roadmap22
+Gold Fields’ Decarbonisation Strategy 23
+Electricity mix 26
+Towards a zero-emissions mining 
+fleet: decarbonising material transport27
+Scope 3: Decarbonising our supply 
+chain28
+Environmental performance 29
+Overview 30
+Nature 31
+Energy and carbon management 32
+Water stewardship 35
+Integrated mine closure 40
+Tailings storage facility management 41
+Data and assurance 43
+Group and operational carbon and 
+environmental performances44
+External assurance statement 46
+Task Force on Climate-Related 
+Financial Disclosures Index48
+Disclaimer and forward-looking 
+statements50
+Glossary 51
+Administration and corporate 
+information52About our cover
+The cover photo of our 2024 
+Climate Change and 
+Environment Report shows 
+monitoring work at a 
+revegetated tailings storage 
+facility (TSF) in Ghana. The 
+secondary photo shows solar 
+panels at Granny Smith.Send us your feedback  
+We value your feedback on our reporting suite. To support 
+our efforts to report on the issues our stakeholders care 
+about, please send any feedback and questions to 
+investors@goldfields.com or sustainability@goldfields.com. 
+You can also visit www.goldfields.com and download the 
+feedback form.
+linkedin.com/
+company/gold-fields
+business.facebook.com/
+GoldFieldsLTD
+@GoldFields_LTD
+instagram.com/
+goldfields_ltd/Navigation icons
+Further information 
+available online
+Further reading available 
+within this reportIntroduction GovernanceResilience to 
+climate changeOur Decarbonisation 
+Strategy and roadmapEnvironmental 
+performanceData and 
+assuranceTCFD IndexDisclaimer and forward-
+looking statementsGlossary Administration
+
+=== Page 3 ===
+About  this report 
+Our CCER contains information about Gold Fields’ climate change and environment-related stewardship and performance relating to the 
+atmosphere (energy and carbon management), freshwater (water stewardship) and land use (mine closure and tailings stewardship). The 
+report provides information about our performance in 2024 at both a Group and operation level, where appropriate, as well as progress 
+against our 2030 social and environmental targets.
+Interactive features are incorporated for ease of navigation – including links to additional information available on our website or other 
+reports included in our reporting suite. 
+As part of Gold Fields’ integrated annual reporting suite, this report 
+should be read in conjunction with the Integrated Annual Report 
+(IAR) and Report to Stakeholders, as well as relevant information on 
+our website, such as our ESG databook. 
+Our full reporting suite is outlined in our 2024 IAR.
+Reporting  boundary and landscape
+The reporting boundary is informed by the operational control 
+consolidation approach as set out in the Greenhouse Gas (GHG) 
+Protocol. Unless stated otherwise, non-financial data included in this 
+report relates to our eight operating mines and excludes Salares 
+Norte (which has not yet achieved commercial levels of production) 
+and the Windfall project. All energy, water and carbon data per 
+operation is based on the operation’s managed production.
+Consideration of global standards
+We are dedicated to transparent reporting, providing stakeholders 
+with the information needed to assess our performance and 
+understand the challenges and risks we face. To support this 
+commitment, we have considered the following global frameworks, 
+standards and principles:
+•The CDP (Carbon Disclosure Project)
+•Sustainability Accounting Standards Board Metals and Mining 
+Standard
+•Global Reporting Initiative Universal Standards
+•Johannesburg Stock Exchange (JSE) Sustainability and Climate 
+Disclosure Guidance 
+•The ICMM Sustainable Development Framework, Mining 
+Principles and Performance Expectations
+•World Gold Council (WGC) Responsible Gold Mining Principles
+•The IFRS International Sustainability Standards Board’s (ISSB) 
+climate-related disclosure standard, which includes the Task 
+Force on Climate-Related Financial Disclosures (TCFD) 
+Recommendations 
+PwC Inc. provided an independent reasonable assurance opinion 
+(RA) over key sustainability information in this report. 
+Refer to our website for the definitions used in preparing assured 
+information: https://www.goldfields.com/sustainability-
+performance.php
+GOLD FIELDS Climate Change and Environment Report 2024 3United Nations Sustainable Development Goals
+As a responsible gold miner, we believe we can create 
+lasting socio-economic value for our people, host 
+communities and governments. The United Nations (UN) 
+Sustainable Development Goals (SDGs)  – a universal call 
+to action to end poverty, protect the planet and ensure that 
+by 2030 all people enjoy peace and prosperity – are key to 
+our purpose of creating enduring value beyond mining .  
+While we recognise the equal importance of all 17 SDGs, 
+we prioritise 12 where we believe we have the greatest 
+ability to deliver meaningful impact.Introduction GovernanceResilience to 
+climate changeOur Decarbonisation 
+Strategy and roadmapEnvironmental 
+performanceData and 
+assuranceTCFD IndexDisclaimer and forward-
+looking statementsGlossary Administration
+
+=== Page 5 ===
+Gold  Fields operations’ environmental performance at a glance
+GOLD FIELDS Climate Change and Environment Report 2024 5Attributable gold 
+production2 Energy intensity
+287koz 8.81GJ/oz
+Renewable electricityScope 1 and 2 
+emissions
+9% 231kt CO2e
+Emissions intensity 
+(Scope 1 and 2)Water recycled/
+reused3
+804kg CO2e 36%
+Gruyere, Australia1Granny Smith, Australia St Ives, Australia Agnew, Australia South Deep, South Africa1
+Attributable gold 
+production Energy intensity
+287koz 3.80GJ/oz
+Renewable electricityScope 1 and 2 
+emissions
+7% 119kt CO2e
+Emissions intensity 
+(Scope 1 and 2)Water recycled/
+reused3
+412kg CO2e 26%Attributable gold 
+production Energy intensity
+331koz 5.52GJ/oz
+Renewable electricityScope 1 and 2 
+emissions
+0 195kt CO2e
+Emissions intensity 
+(Scope 1 and 2)Water recycled/
+reused3
+590kg CO2e 69%Attributable gold 
+production Energy intensity
+229koz 4.08GJ/oz
+Renewable electricityScope 1 and 2 
+emissions
+48% 74kt CO2e
+Emissions intensity 
+(Scope 1 and 2)Water recycled/
+reused3
+320kg CO2e 52%Attributable gold 
+production Energy intensity
+267koz 7.26GJ/oz
+Renewable electricityScope 1 and 2 
+emissions
+17% 431kt CO2e
+Emissions intensity 
+(Scope 1 and 2)Water recycled/
+reused
+1,614kg CO2e 77%
+Damang, Ghana1Tarkwa, Ghana1Salares Norte, Chile Cerro Corona, Peru Windfall project, Québec, Canada
+Attributable gold 
+production Energy intensity
+134koz 5.15GJ/oz
+Renewable electricityScope 1 and 2 
+emissions
+0 114kt CO2e
+Emissions intensity 
+(Scope 1 and 2)Water recycled/
+reused
+847kg CO2e 82%Attributable gold 
+production Energy intensity
+537koz 7.71GJ/oz
+Renewable electricityScope 1 and 2 
+emissions
+3% 420kt CO2e
+Emissions intensity 
+(Scope 1 and 2)Water recycled/
+reused
+782kg CO2e 86%Attributable gold 
+production Energy intensity
+45koz Not reported
+Renewable electricityScope 1 and 2 
+emissions
+0 Not reported
+Emissions intensity 
+(Scope 1 and 2)Water recycled/
+reused
+Not reported Not reportedAttributable gold 
+production Energy intensity
+173koz 6.89GJ/oz
+Renewable electricityScope 1 and 2 
+emissions
+100% 48kt CO2e
+Emissions intensity 
+(Scope 1 and 2)Water recycled/
+reused
+278kg CO2e 84%Attributable gold 
+production Energy intensity
+0 Not reported
+Renewable electricityScope 1 and 2 
+emissions
+100% Not reported
+Emissions intensity 
+(Scope 1 and 2)Water recycled/
+reused
+Not reported Not reported1   Data applies to 100% of these operations
+2  For definition of attributable gold production, refer to p3 of our IAR3  Water used is highly-saline and not easily recyclableIntroduction GovernanceResilience to 
+climate changeOur Decarbonisation 
+Strategy and roadmapEnvironmental 
+performanceData and 
+assuranceTCFD IndexDisclaimer and forward-
+looking statementsGlossary Administration
+
+=== Page 6 ===
+Reflections from our CEO and SHSD Committee Chairperson  
+Our mining activities often impact our host communities and the 
+environment in which they live. Successfully embedding sustainability 
+considerations and practices into our business, to both manage these 
+impacts and drive positive outcomes, is intrinsic to Gold Fields’ 
+long-term performance and success.
+Responsible mining is embedded in pillar 2 of Gold Fields’ strategy to 
+deliver positive social and environmental impact. This is supported by 
+our 2030 targets, which include three social and three environmental 
+priority areas. Our primary environmental commitment to communities is 
+to ensure that we uphold the highest standards of environmental 
+stewardship – a commitment we have successfully achieved for almost 
+a decade by having zero serious environmental incidents. This is further 
+supported by our 2030 targets related to climate change, water 
+stewardship and tailings management to ensure we responsibly 
+manage our natural resources and mitigate our impact on the 
+environment.
+Gold Fields have adopted these programmes, targets and policies 
+because they made sense for our business then, and continue to make 
+sense for our business today. They form the foundation of our social 
+licences to operate, which must endure beyond political, regulatory or 
+economic cycles. This commitment is reflected in our reporting, as we 
+aim for transparency in our disclosures to enable our stakeholders to 
+clearly understand our performance, risks and opportunities.
+Gold Fields’ decarbonisation journey, which commenced in 2016, was 
+driven by the need to secure our operations’ electricity supply and 
+mitigate rapidly rising energy costs. Our investment in renewable 
+energy microgrids is proving to be a valuable business solution while, 
+at the same time, addressing one of the most critical challenges facing 
+society: climate change.Applying a commercial lens has always been critical and our 
+decarbonisation work prioritises energy resilience and cost-effective 
+reduction in emissions while optimising operational efficiency and 
+maintaining business sustainability. At the same time, we have adopted 
+a portfolio-based view of our decarbonisation efforts, critically 
+assessing where the greatest opportunities lie to enhance operational 
+flexibility and energy security and meet our carbon reduction priorities.
+In doing this, we ensure capital resources are allocated efficiently by 
+applying rigorous capital allocation criteria to these investments across 
+our portfolio. Our two largest investments in renewables – South 
+Deep’s Khanyisa solar plant, commissioned in late 2022, and the 
+St Ives renewable energy project currently under construction – will 
+both substantially reduce Scope 1 and 2 carbon emissions for these 
+operations while also creating long-term energy resilience at reduced 
+costs. 
+To date, three of our Australian mines and South Deep have renewable 
+electricity sources, while Cerro Corona in Peru and the Windfall project 
+in Canada are fully supplied by hydropower. We have seen the benefits 
+of these investments, with 18% of our electricity derived from renewable 
+sources in 2024, compared with 3% in 2016. Our Scope 1 and 2 
+emissions are now 4% below the 2016 baseline.
+Our largest investment in renewables to date is expected to improve 
+these metrics further, with construction of the US$195m solar and wind 
+energy project at St Ives currently underway. The plant is scheduled for 
+commissioning in early 2026. Through this investment, 73% of the 
+mine’s electricity will be sourced from renewable energy – reducing the 
+mine’s future Scope 1 and 2 emissions by approximately 50% a year 
+and the Group’s emissions by 6% a year. It will also lead an estimated 
+operating cost reduction of US$67/oz a year for the mine and  affords 
+long-term operational flexibility to this cornerstone asset in our portfolio.
+Our other operations are also investigating potential for further 
+renewable electricity sources, but we will only proceed with these 
+where it makes technical and commercial sense to do so.
+During 2023, we set a Scope 3 emission target: a net 10% reduction by 
+2030 against a 2022 baseline. At the time, these emissions comprised 
+36% of our overall emissions. While it is still early days, we continued to 
+work towards this target in 2024 through extensive engagement with 
+our main suppliers.Among our other environmental priorities, we focused our work in 
+areas where we impact our stakeholders directly – namely, how we 
+manage our tailings facilities and how we treat the water we require for 
+our operations and for use by our neighbouring communities. For both 
+these focus areas, we have teams conducting industry-leading work to 
+achieve our 2030 targets.  
+We discuss our 2030 environmental, social and governance (ESG) 
+targets, as well as our performance against these, in detail throughout 
+our reporting suite. Given that the strategies, programmes and 
+initiatives to achieve our targets were established based on the 
+knowledge and expectations of technology maturity in 2021, we have 
+now initiated a mid-term review to be concluded in 2025. This review 
+will assess our progress, future business models and technology 
+readiness profiles. It will also help identify any gaps to deliver on the 
+targets and support their extension to 2035 to accommodate portfolio 
+growth and evolving technological capabilities.
+Having reviewed our performance over the year, we are more 
+convinced than ever that our continued commitment to a sound 
+environmental and social performance benefits our stakeholders, 
+including host communities, and the business, and will translate into 
+more sustainable returns for our shareholders.
+Mike Fraser
+Chief Executive Officer (CEO)
+Terence Goodlace
+Chairperson of the Safety, Health and Sustainable 
+Development (SHSD) Committee
+GOLD FIELDS Climate Change and Environment Report 2024 6“Our continued commitment to 
+responsible management of 
+our environmental and social 
+impacts is key to delivering on 
+our purpose and will translate 
+into more sustainable returns 
+for our shareholders”
+Mike Fraser
+CEO“Our decarbonisation work 
+prioritises energy resilience 
+and cost-effective reduction in 
+emissions while optimising 
+operational efficiency and 
+maintaining business 
+sustainability.”
+Terence Goodlace
+Chairperson of the SHSD 
+CommitteeIntroduction GovernanceResilience to 
+climate changeOur Decarbonisation 
+Strategy and roadmapEnvironmental 
+performanceData and 
+assuranceTCFD IndexDisclaimer and forward-
+looking statementsGlossary Administration

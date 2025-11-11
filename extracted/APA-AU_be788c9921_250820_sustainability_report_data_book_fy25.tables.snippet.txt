@@ -1,0 +1,598 @@
+=== Table 1 (page 4) ===
+,,APA FY25 Annual Report,"APA Greenhouse Gas Emissions & Energy 
+APA Climate Transition Plan"
+,,Sustainability Data Book Index,
+REPORTING STANDARDS NAVIGATOR,,(including Climate Report),"Calculation Methodology
+2025"
+,Sustainability Accounting Standards Board Index,,
+SASB sector,Code,Accounting metric,APA response / reference FY25
+GOVERNANCE,,,
+Extractives & Minerals Processing Sector - Oil & Gas (Midstream),EM-MD-520a.1,Total amount of monetary losses as a result,APA Annual Report 2025 - Environment
+,,of legal proceedings associated with federal,APA FY25 Sustainability Data Book - (Infrastructure & Business Intelligence)
+,,pipeline and storage regulations,
+,,,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets to reflect all APA asset types
+,,,"and regulatory compliance landscape (inc. environment, health and safety)"
+Infrastructure - Gas Utilities & Distributors,IF-GU-540a.1 EM-MD-,"Number of reportable pipeline incidents,",Metric partially disclosed
+,540a.1,percentage significant,
+Extractives & Minerals Processing Sector - Oil & Gas (Midstream),,,APA FY25 Sustainability Data Book -  (Environment)
+,,,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets to reflect all APA asset types
+,,,"and regulatory compliance landscape (inc. environment, health and safety)"
+Infrastructure - Electric Utilities & Power Generators,IF-EU-140a.2,Number of incidents of non-compliance,Metric partially disclosed
+,,associated with water quantity and/or,
+,,"quality permits, standards, and regulations",APA FY25 Sustainability Data Book - (Environment) &  (Infrastructure & Business Intelligence)
+,,,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets
+,,,"to reflect all APA asset types and regulatory compliance landscape (inc. environment, health and"
+,,,safety)
+Infrastructure - Electric Utilities & Power Generators,IF-EU-550a.1,Number of incidents of non-compliance with,Metric partially disclosed
+,,physical and/or cybersecurity standards or,
+,,regulations,APA FY25 Sustainability Data Book - (Infrastructure & Business Intelligence)
+INFRASTRUCTURE,,,
+Extractives & Minerals Processing Sector - Oil & Gas (Midstream),,IF-GU-000.B EM-MD-000.A Amount (total) of natural gas delivered to:,Metric partially disclosed
+,,(1) residential customers,
+,,(2) commercial customers,APA FY25 Sustainability Data Book - (Infrastructure & Business Intelligence)
+,,(3) industrial customers,
+,,(4) transferred to a third party,
+Infrastructure - Gas Utilities & Distributors,IF-GU-000.C,Length of gas:,APA Annual Report 2025 – About APA
+,,(1) transmission,
+,,(2) distribution pipelines,
+Extractives & Minerals Processing Sector - Oil & Gas (Midstream),EM-MD-540a.2 IF-GU-,Percentage of natural gas pipelines,Metric partially disclosed
+,540a.3,inspected,
+Infrastructure - Gas Utilities & Distributors,,,APA FY25 Sustainability Data Book - (Infrastructure & Business Intelligence)
+,,,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets
+,,,"to reflect all APA asset types and regulatory compliance landscape (inc. environment, health and"
+,,,safety)
+Infrastructure - Electric Utilities & Power Generators,IF-EU-000.B,Total electricity delivered to:,Metric partially disclosed
+,,(1) residential,
+,,(2) commercial,APA FY25 Sustainability Data Book -  (Infrastructure & Business Intelligence)
+,,"(3) industrial,",
+,,(4) all other retail customers,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets
+,,(5) wholesale customers,"to reflect all APA asset types and regulatory compliance landscape (inc. environment, health and"
+,,,safety)
+Infrastructure - Electric Utilities & Power Generators,IF-EU-000.C,Length of transmission and distribution lines,APA Annual Report 2025 – About APA
+Infrastructure - Electric Utilities & Power Generators,IF-EU-000.D,"Total electricity generated, % by major",APA FY25 Sustainability Data Book - (Infrastructure & Business Intelligence)
+,,"energy source, % in regulated markets",
+,,,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets to reflect all APA asset types
+,,,"and regulatory compliance landscape (inc. environment, health and safety)"
+Infrastructure - Electric Utilities & Power Generators,IF-EU-000.E,Total wholesale electricity purchased,Metric not disclosed
+Renewable Resources & Alternative Energy - Solar Technology & Project Developers,RR-ST-000.B,Total capacity of completed solar energy,APA FY25 Sustainability Data Book - (Infrastructure & Business Intelligence)
+,,systems,
+,,,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets to reflect all APA asset types
+,,,"and regulatory compliance landscape (inc. environment, health and safety)"
+GREENHOUSE GAS (GHG) EMISSIONS,,,
+Extractives & Minerals Processing Sector - Oil & Gas (Midstream),EM-MD-110a.1 IF-EU-110a.1,"Gross global Scope 1 emissions, percentage",APA Climate Transition Plan 2025
+,,covered under:,APA FY25 Sustainability Data Book - Climate
+Infrastructure - Electric Utilities & Power Generators,,"(1) emissions- limiting regulations, and",
+,,(2) emissions- reporting regulation,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets to reflect all APA asset types
+,,,"and regulatory compliance landscape (inc. environment, health and safety)"
+
+=== Table 2 (page 5) ===
+Infrastructure - Electric Utilities & Power Generators,IF-EU-110a.2,Greenhouse gas (GHG) emissions,APA Climate Transition Plan 2025
+,,associated with power deliveries,
+,,,APA FY25 Sustainability Data Book - Climate
+,,,Note: Metric scope expanded beyond original SASB Sub-Sector(s) assets to reflect all APA asset types
+,,,and regulatory compliance landscape.
+Extractives & Minerals Processing Sector - Oil & Gas (Midstream),EM-MD-110a.2 IF-EU-110a.3,Discussion of long-term and short-term,APA Climate Transition Plan 2025
+,,strategy or plan to manage Scope 1,
+Infrastructure - Electric Utilities & Power Generators,,"emissions, emissions reduction targets, and",APA Annual Report 2025 - Climate Report
+,,an analysis of performance against those,
+,,targets,
+,,,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets to reflect all APA asset types
+,,,"and regulatory compliance landscape (inc. environment, health and safety)"
+,,,Note: Metric scope expanded beyond original SASB Sub-Sector(s) assets to reflect all APA asset types
+,,,and regulatory compliance landscape.
+ENERGY,,,
+Renewable Resources & Alternative Energy - Solar Technology & Project Developers,RR-ST-130a.1,(1) Total energy consumed,APA Climate Transition Plan 2025
+,,(2) percentage grid electricity,APA FY25 Sustainability Data Book - Climate
+,,(3) percentage renewable,
+,,,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets to reflect all APA asset types
+,,,"and regulatory compliance landscape (inc. environment, health and safety)"
+SOCIETY,,,
+Extractives & Minerals Processing Sector - Oil & Gas (Midstream),EM-MD-540a.4,Discussion of management systems used,APA Annual Report 2025 - Infrastructure & Business Intelligence
+,,to integrate a culture of safety and,
+,,emergency preparedness throughout the,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets to reflect management
+,,value chain and throughout project,systems that apply to total APA asset portfolio.
+,,lifecycles,
+Infrastructure - Electric Utilities & Power Generators,IF-EU-320a.1 RR-WT-320a.1,(1) Total recordable incident rate (TRIR),Metric partially disclosed
+,,(2) fatality rate,
+Renewable Resources & Alternative Energy - Wind Technology & Project Developers,,(3) near miss frequency rate (NMFR),APA Annual Report 2025 - People
+,,,APA FY25 Sustainability Data Book - (People)
+,,,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets to reflect safety statistics that
+,,,apply to the total APA asset portfolio.
+Infrastructure - Gas Utilities & Distributors,IF-GU-540a.4,Description of efforts to manage the integrity,APA Annual Report 2025 - Infrastructure & Business Intelligence
+,,"of gas delivery infrastructure, including risks",APA Annual Report 2025 - Risks and Opportunities
+,,related to safety and emissions,
+,,,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets to reflect infrastructure process
+,,,safety and integrity efforts across total APA asset portfolio.
+VALUE CHAIN,,,
+Infrastructure - Electric Utilities & Power Generators; Gas Utilities & Distributors,IF-EU-000.A IF-GU-000.A,Number of customers served:,Metric partially disclosed
+,,(1) residential,
+,,(2) commercial,APA Annual Report 2025 - Our Customers & Partners
+,,(3) industrial,APA FY25 Sustainability Data Book - (Customers & Partners)
+,,,Note: Metric has been allocated by APA division customers (excluding customers of assets currently
+,,,under construction by the Infrastructure Development division).
+ENVIRONMENT,,,
+Extractives & Minerals Processing Sector - Oil & Gas (Midstream),EM-MD-160a.1,Description of environmental management,Metric partially disclosed
+,,policies and practices for active operations,
+,,,APA Annual Report 2025 - Environment
+,,,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets to reflect total APA asset
+,,,portfolio.
+Extractives & Minerals Processing Sector - Oil & Gas (Midstream),EM-MD-160a.4 & RR-ST-,Number and aggregate quantity of,Metric partially disclosed
+,150a.2,"reportable spills, quantity recovered",
+Renewable Resources & Alternative Energy - Solar Technology & Project Developers,,,APA FY25 Sustainability Data Book - (Environment)
+,,,Note: Metric scope expanded beyond original SASB Sub Sector(s) assets to reflect reportable spill
+,,,incidents on total APA asset portfolio. Omission: spills in Artic not relevant to APA business (EM-MD-
+,,,160a.4 measure)
+Extractives & Minerals Processing Sector - Oil & Gas (Midstream),EM-MD-160a.2,"Percentage of land owned, leased, and/or",Metric not disclosed
+,,operated within areas of protected,
+,,conservation status or endangered,
+,,species habitat,
+Extractives & Minerals Processing Sector - Oil & Gas (Midstream),EM-MD-160a.3,"Terrestrial acreage disturbed, percentage of",Metric not disclosed
+,,impacted area restored,
+
+=== Table 3 (page 9) ===
+,205-2,Communication and training about anti-corruption policies and procedures,"APA Annual Report 2025 - Governance & risk management, Ethics and Integrity"
+,,,APA Code of Conduct
+,,,Anti-Bribery and Corruption Policy
+,,,Whistleblower Policy
+,205-3,Confirmed incidents of corruption and actions taken,APA Annual Report 2025 - Ethics and Integrity
+,,,APA FY25 Sustainability Data Book - People
+GRI 206: ANTI-,,,
+COMPETITIVE,,,
+BEHAVIOUR,,,
+2016,,,
+,206-1,"Legal actions for anti-competitive behaviour; anti-trust, and monopoly practices.",Metric not disclosed
+GRI 207: TAX,,,
+(2019),,,
+,207-1,Approach to tax,APA Tax Transparency Report 2025
+,207-2,"Tax governance, control, and risk management.",APA Tax Transparency Report 2025
+,207-3,Stakeholder engagement and management of concerns related to tax,Metric not disclosed
+,207-4,Country-by-country reporting,Metric not disclosed
+ENVIRONMENT,,,
+GRI 301:,,,
+MATERIALS,,,
+(2016),,,
+,301-1,Materials used by weight or volume,Metric not disclosed
+,301-2,Percentage of recycled input materials used to manufacture the organization's primary products and services.,Metric not disclosed
+,301-3,Reclaimed products and their packaging materials.,Metric not disclosed
+GRI 302:,,,
+ENERGY (2016),,,
+,302-1,Energy consumption within the organisation,APA FY25 Sustainability Data Book - (Climate) - tab 'Energy'
+,302-2,Energy consumption outside of the organisation,Metric not disclosed
+,302-3,Energy intensity,Metric not disclosed
+,302-4,Reduction of energy consumption,Metric not disclosed
+,302-5,Reductions in energy requirements of products and services,Metric not disclosed
+GRI 303:,,,
+WATER AND,,,
+EFFLUENTS,,,
+(2018),,,
+,303-1,A description of how the organisation interacts with water,Metric not disclosed
+,303-2,Management of water discharge-related impacts,Metric not disclosed
+,303-3,Water withdrawal,FY25 Sustainability Data Book - (Environment)
+,303-4,Water discharge,Metric not disclosed
+,303-5,Water consumption,Metric not disclosed
+GRI 304:,,,
+BIODIVERSITY,,,
+(2016),,,
+,304-1,"Operational sites owned, leased, managed in, or adjacent to, protected areas and areas of high biodiversity value outside protected areas",Metric not disclosed
+,304-2,"Significant impacts of activities, products, and services on biodiversity",Metric not disclosed
+,304-3,Habitats protected or restored,Metric not disclosed
+,304-4,IUCN Red List species and national conservation list species with habitats in areas affected by operations,Metric not disclosed
+GRI 305:,,,
+EMISSIONS,,,
+(2016),,,
+,305-1,Direct (Scope 1) GHG emissions,FY25 Sustainability Data Book - (Climate) - tab GHG emissions
+,305-2,Energy indirect (Scope 2) GHG emissions,FY25 Sustainability Data Book - (Climate) - tab GHG emissions
+,305-3,Other indirect (Scope 3) GHG emissions,FY25 Sustainability Data Book - (Climate) - tab GHG emissions
+,305-4,GHG emissions intensity,APA Annual report - Climate report section under Materics and Targets
+,,,APA Climate Transition Plan 2025
+,305-5,Reduction of GHG emissions,APA Annual report - Climate report section under Materics and Targets
+,,,APA Climate Transition Plan 2025
+,305-6,Emissions of ozone-depleting substances (ODS),Metric not disclosed
+,305-7,"Nitrogen oxides (NOX), sulphur oxides (SOX), and other significant air emissions","APA FY25 Sustainability Data Book, tab (Environment) and GHG emisssions tab"
+GRI 306:,,,
+WASTE (2020),,,
+,306-1,Waste generation and significant waste-related impacts,Metric not disclosed
+,306-2,Management of significant waste-related impacts,Metric not disclosed
+,306-3,Waste generated,APA FY25 Sustainability Data Book -  (Environment)
+,306-4,Waste diverted from disposal,APA FY25 Sustainability Data Book -  (Environment)
+,306-5,Waste directed to disposal,APA FY25 Sustainability Data Book - (Environment)
+
+=== Table 4 (page 16) ===
+Disclose the metrics and targets used to,a. Disclose the metrics used by the,Guidance for all sectors,Organisations should provide the key metrics used to measure and manage climate related risks,"APA FY25 Sustainability Data Book-"" Energy"" & ""GHG emissions"""
+assess and manage relevant climate-related,organisation to assess climate-,,"and opportunities,  as well as metrics consistent with the cross-industry, climate-related metric",
+risks and opportunities where such,related risks and opportunities in line,,categories.,"APA Climate Transition Plan 2025 - ""Additional Information"""
+information is material.,with its strategy and risk,,,section
+,management process.,,,
+,,,,"APA Annual Report 2025 - ""Climate Report - Metrics and"
+,,,,"Targets"" section"
+,,,"Organisations should consider including metrics on climate-related risks associated with water,","APA FY25 Sustainability Data Book -""Energy"""
+,,,"energy, land use, and waste management where relevant and applicable.",
+,,,,"APA Climate Transition Plan 2025 - ""Additional Information"""
+,,,,section
+,,,"Where climate-related issues are material, organisations should consider describing whether and","APA Annual Report 2025 - ""Climate Report -Climate-related"
+,,,how related performance metrics are incorporated into remuneration policies.,"governance"" section"
+,,,,APA Climate Transition Plan 2025 - below sections:
+,,,,Overview
+,,,,APA's Strategy and Role in the Energy Transition
+,,,,Governance
+,,,,Additional Information
+,,,"Where relevant, organisations should provide their internal carbon prices as well as climate-related","APA Annual Report 2025 - ""Climate Report -Strategy"" section"
+,,,opportunity metrics such as revenue from products and services designed for a low-carbon,
+,,,economy. Metrics should be provided for historical periods to allow for trend analysis.,APA Climate Transition Plan 2025 - below sections:
+,,,,APA's Strategy and Role in the Energy Transition
+,,,,Transition Plan Impacts and Dependencies
+,,,,Additional Information
+,,,,Climate-related risks and opportunities
+,,,"Where appropriate, organisations should consider providing forward-looking metrics for the cross-",APA Annual Report 2025 - below sections:
+,,,"industry, climate-related metric categories, consistent with their business or strategic planning time",Climate Report - Strategy
+,,,horizons.,Climate Report - Metrics and Targets
+,,,,"APA Climate Transition Plan 2025 - ""Additional Information"""
+,,,,section
+,,,"In addition, where not apparent, organisations should provide a description of the methodologies",APA FY25 Greenhouse Gas Emissions and Energy Calculation
+,,,used to calculate or estimate climate-related metrics.,Methodology
+,"b. Disclose Scope 1, Scope 2 and, if",Guidance for all sectors,Organisations should provide their Scope 1 and Scope 2 GHG emissions independent of a,"APA FY25 Sustainability Data Book - ""GHG emissions"""
+,"appropriate, Scope 3 greenhouse",,"materiality assessment, and, if appropriate, Scope 3 GHG emissions and the related risks. All",
+,gas (GHG) emissions and the related,,organisations should consider disclosing Scope 3 GHG emissions.,APA Climate Transition Plan 2025 - below sections:
+,risks.,,,Overview
+,,,,Operational Greenhouse Gas Emissions
+,,,,Value Chain GHG Emissions
+,,,,"APA Annual Report 2025 - ""Climate Report - Metrics and"
+,,,,"Targets"" section"
+,,,GHG emissions should be calculated in line with the GHG Protocol methodology to allow for,"APA FY25 Sustainability Data Book, tab 'GHG emissions'"
+,,,"aggregation and comparability across organisations and jurisdictions. As appropriate,",
+,,,"organisations should consider providing related, generally accepted industry-specific GHG",APA FY25 Greenhouse Gas Emissions and Energy
+,,,efficiency ratios.,Calculation Methodology
+,,,,"APA Climate Transition Plan 2025 - "" Value Chain GHG"
+,,,,"Emissions"" section"
+,,,GHG emissions and associated metrics should be provided for historical periods to allow for trend,"APA FY25 Sustainability Data Book, tab 'GHG emissions'"
+,,,"analysis. In addition, where not apparent, organisations should provide a description of the",
+,,,methodologies used to calculate or estimate the metrics,APA FY25 Greenhouse Gas Emissions and Energy Calculation
+,,,,Methodology
+,,,,"APA Climate Transition Plan 2025 - ""Overview"" section"
+
+=== Table 5 (page 40) ===
+Metrics,Spreadsheet tab
+Energy consumption and production,Energy
+"Operational GHG emissions by asset class and total, including performance against",
+,Greenhouse gas emissions
+targets and goals,
+Operational scope 1 GHG emissions by greenhouse gas split by asset class and total,Greenhouse gas emissions
+Equity Share GHG emissions by asset class and total,Greenhouse gas emissions
+Scope 3 GHG emissions by category,Greenhouse gas emissions
+End-user GHG emissions,Greenhouse gas emissions
+Offsets - Units surrendered for FY25,Offsets
+Offsets - Units Issued in FY25,Offsets
+Other offset holdings as of Climate Report 2025 publication date,Offsets
+Large-scale Generation Certificates (LGCs),Large-scale generation certificates (LGCs)
+Methane direct measurement emissions data,Enhanced methane reporting
+Safeguard mechanism compliance,Safeguard position statement
+Re-baseline of gas infrastructure Scope 1 and Scope 2 GHG emissions (t CO2-e),Rebaselining graphs
+Re-baseline of power generation infrastructure Scope 1 and Scope 2 GHG emissions,
+,Rebaselining graphs
+(t CO2-e),
+Re-baseline of power generation infrastructure electricity generated (MWh),Rebaselining graphs
+Re-baseline of electricity transmission infrastructure Scope 1 and Scope 2 GHG,
+,Rebaselining graphs
+emissions (t CO2-e),
+Re-baseline of operational Scope 1 methane emissions (tonnes),Rebaselining graphs
+
+=== Table 6 (page 42) ===
+CLIMATE: GREENHOUSE GAS (GHG) EMISSIONS,,(including Climate Report),,Energy Calculation Methodology,,2025,,
+"Operational GHG emissions by asset class and total, including performance against targets and goals¹",,,,,,,,
+Year-end 30 June,SASB,GRI,UoM,FY25,FY24,FY23,FY22,FY21
+Gas Infrastructure,,,,,,,,
+Scope 1,,,t CO2-e,"517,292","543,917","598,218","617,205","558,744"
+Scope 2 (market method),,,t CO2-e,-,-,-,"10,636","8,660"
+Total Scope 1 and Scope 2 (market method) (gross),EM-MD-110a.1 IF-EU-110a.1,,t CO2-e,"517,292","543,917","598,218","627,840","567,404"
+Scope 2 (location method),,,t CO2-e,"6,723","7,329","9,578","10,636","8,660"
+Scope 1 adjustment (due to re-baselining for NGER method change for natural gas storage fugitive emissions),,,t CO2-e,-,-,-,-,"36,057"
+Scope 1 adjustment (due to re-baselining for Orbost divestment),,,t CO2-e,-,-,"(66,236)","(70,971)","(43,948)"
+Scope 1 adjustment (due to re-baselining for historical reporting error associated with fuel gas emissions at,,,,,,,,
+,,,t CO2-e,-,-,-,"10,873","6,528"
+Moomba compressor station),,,,,,,,
+Scope 1 adjustment (due to re-baselining for NGER calculation change for gas distribution fugitive emissions),,,t CO2-e,-,-,-,"(14,035)","(13,692)"
+Scope 1 adjustment (due to re-baselining for historical reporting error associated with fugitive emissions on the,,,,,,,,
+,,,t CO2-e,-,-,"1,255","1,255","1,255"
+VTS),,,,,,,,
+Scope 2 adjustment (due to re-baselining for Orbost divestment),,,t CO2-e,-,-,-,(38),(92)
+Total Scope 1 and Scope 2 (adjusted) (gross),EM-MD-110a.1 IF-EU-110a.1,,t CO2-e,"517,292","543,917","533,237","554,925","553,512"
+Gas Infrastructure emissions change compared to base year (adjusted) (gross),,,t CO2-e,"(36,220)","(9,595)","(20,275)","1,412","553,512"
+,,,%,-6.5%,-1.7%,-3.7%,0.3%,
+Carbon offsets surrendered,,,#,"(37,582)","(45,590)","(7,363)","(19,537)",
+Carbon offsets surrendered for true-up²,,,#,-,-,"(9,400)",-,-
+Total Scope 1 and Scope 2 (adjusted) (net),EM-MD-110a.1 IF-EU-110a.1,,t CO2-e,"479,710","498,327","516,474","535,388","553,512"
+Gas Infrastructure emissions change compared to base year (net),EM-MD-110a.1 IF-EU-110a.1,,t CO2-e,"(73,802)","(55,185)","(37,038)","(18,124)",
+,,,%,-13.3%,-10.0%,-6.7%,-3.3%,
+Power Generation Infrastructure,,,,,,,,
+Scope 1,,,t CO2-e,"1,345,312","1,361,334","781,029","875,741","871,083"
+Scope 2 (market method),,,t CO2-e,-,-,-,"2,566","2,138"
+Total Scope 1 and Scope 2 (market method) (gross),IF-EU-110a.2,,t CO2-e,"1,345,312","1,361,334","781,029","878,307","873,221"
+Scope 2 (location method),,,t CO2-e,"1,208","1,304","1,141","2,566","2,138"
+Scope 1 adjustment (due to re-baselining for Newman Power Station),,,t CO2-e,-,-,"379,196","389,496","202,430"
+Scope 1 adjustment (due to re-baselining for Port Headland Power Station),,,t CO2-e,-,-,"352,397","389,478","412,528"
+Scope 2 adjustment,,,t CO2-e,-,-,-,-,-
+Total Scope 1 and Scope 2 (adjusted) (gross),IF-EU-110a.2,,t CO2-e,"1,345,312","1,361,334","1,512,622","1,657,281","1,488,179"
+Total electricity generation,,,MWh,"3,963,756","3,996,556","2,864,313","3,124,932","3,031,642"
+Electricity generation adjustment (due to re-baselining for Newman Power Station),,,MWh,-,-,"798,399","673,796","291,052"
+Electricity generation adjustment (due to re-baselining for Port Headland Power Station),,,MWh,-,-,"461,349","507,307","551,410"
+Total electricity generation (adjusted) (gross),,,MWh,"3,963,756","3,996,556","4,124,061","4,306,035","3,874,104"
+Power generation intensity (adjusted),,,t CO2-e / MWh,0.34,0.34,0.37,0.38,0.38
+Power generation emissions intensity change compared to base year (adjusted) (gross),IF-EU-110a.2,,t CO2-e / MWh,(0.045),(0.044),(0.017),0.001,
+,,,%,-11.6%,-11.3%,-4.5%,0.2%,
+ACCUs issued,,,#,"63,088","53,575",-,-,-
+Total Scope 1 and Scope 2 (adjusted) (net),,,t CO2-e,"1,408,400","1,414,909",,,
+Electricity Transmission Infrastructure,,,,,,,,
+Scope 1,,,t CO2-e,55,76,91,31,152
+Scope 2 (market method) - line loss³,,,t CO2-e,"139,281","129,718","137,643","76,737","68,264"
+Scope 2 (market method) - grid electricity,,,t CO2-e,-,-,-,"2,755","2,729"
+Total Scope 1 and Scope 2 (market method including line losses) (gross),IF-EU-110a.2,,t CO2-e,"139,336","129,794","137,733","79,523","71,145"
+Total Scope 1 and Scope 2 (market method excluding line losses) (gross),IF-EU-110a.2,,t CO2-e,55,76,91,"2,786","2,881"
+Scope 2 (location method) - line loss,,,t CO2-e,"139,281","129,718","137,643","76,737","68,264"
+Scope 2 (location method) - grid electricity,,,t CO2-e,"3,259","3,491","3,656","2,755","2,729"
+Scope 1 adjustment (due to Basslink acquisition)⁴,,,t CO2-e,-,-,-,4,4
+Scope 2 adjustment - line loss (due to Basslink acquisition)⁴,,,t CO2-e,-,-,-,"70,298","70,298"
+Scope 2 adjustment - grid electricity (due to Basslink acquisition)⁴,,,t CO2-e,-,-,-,"1,286","1,286"
+Total Scope 1 and Scope 2 (adjusted including line losses) (gross),,,t CO2-e,"139,336","129,794","137,733","151,111","142,733"
+Total Scope 1 and Scope 2 (adjusted excluding line losses) (gross),,,t CO2-e,55,76,91,"4,076","4,172"
+Electricity transmission emissions (Scope 1 and Scope 2 (adjusted excluding line loss) change compared,,,,,,,,
+,IF-EU-110a.2,,t CO2-e,"(4,116)","(4,095)","(4,081)",(96),
+to base year (gross)),,,,,,,,
+,,,%,-99%,-98%,-98%,-2%,
+
+=== Table 7 (page 43) ===
+Total,,,UoM,FY25,FY24,FY23,FY22,FY21
+Scope 1,,305-1,t CO2-e,"1,862,659","1,905,327","1,379,338","1,492,977","1,429,979"
+Scope 2 (market method) - line loss,,,t CO2-e,"139,281","129,718","137,643","76,737","68,264"
+Scope 2 (market method) - grid electricity,,,t CO2-e,-,-,-,"15,956","13,527"
+Total Scope 1 and Scope 2 (market method) (gross),EM-MD-110a.1 IF-EU-110a.1 IF-EU-110a.2,,t CO2-e,"2,001,940","2,035,046","1,516,981","1,585,670","1,511,770"
+Scope 2 (location method) - line loss,,,t CO2-e,"139,281","129,718","137,643","76,737","68,264"
+Scope 2 (location method) - grid electricity,,,t CO2-e,"11,190","12,125","14,375","15,956","13,527"
+Scope 1 adjustments,,305-1,t CO2-e,-,-,"666,612","706,100","601,162"
+Scope 2 adjustments,,,t CO2-e,-,-,-,"71,547","71,492"
+Total Scope 1 and Scope 2 (market method) (adjusted) (gross),EM-MD-110a.1 IF-EU-110a.1 IF-EU-110a.2,,t CO2-e,"2,001,940","2,035,046","2,183,593","2,363,316","2,184,424"
+Carbon offsets surrendered,,,#,"(37,582)","(45,590)","(16,763)","(19,537)",-
+ACCUs issued,,,#,"63,088","53,575",-,-,-
+Total Scope 1 and Scope 2 (market method) (adjusted) (net),EM-MD-110a.1 IF-EU-110a.1 IF-EU-110a.2,,t CO2-e,"2,027,446","2,043,031","2,166,830","2,343,779","2,184,424"
+Renewable electricity as a percentage of grid electricity consumed,,,%,100 %,100 %,100 %,- %,- %
+Electricity - grid consumed,,,MWh,"17,741","19,039","21,563",,
+LGC volume to meet 100% Renewable Energy commitment,,,#,"17,741","19,039","21,563",,
+LGCs surrendered - voluntary,,,#,"16,000","15,200","19,000",,
+LGCs surrendered - regulatory ⁵,,,#,"3,228","3,565","4,052",,
+Total LGCs surrendered,,,#,"20,443","20,254","23,052",,
+LGC surplus/deficit carried forward from prior reporting period,,,#,"1,215","1,489",-,,
+LGC true-up (surplus/deficit). Note: carried forward to next reporting period,,,#,"2,702","1,215","1,489",,
+Percentage of Scope 1 GHG emissions covered under an emissions-limiting regulation,EM-MD-110a.1 IF-EU-110a.1,,%,80 %,84 %,75 %,,
+Operational scope 1 GHG emissions by greenhouse gas split by asset class and total⁶,,,,,,,,
+Year-end 30 June,SASB,GRI,UoM,FY25,FY24,FY23,FY22,FY21
+Gas Infrastructure,,,,,,,,
+Methane (CH4),EM-MD-110a.1 IF-EU-110a.1,,t CO2-e,"254,721","256,349","262,658","278,418","224,630"
+,,,t,"9,097","9,155","9,381","9,943","8,022"
+Carbon dioxide (CO2),EM-MD-110a.1 IF-EU-110a.1,,t CO2-e,"263,043","287,354","335,081","338,289","333,672"
+,,,t,"263,043","287,354","335,081","338,289","333,672"
+Nitrous oxide (N2O),EM-MD-110a.1 IF-EU-110a.1,,t CO2-e,194,214,479,498,442
+,,,t,1,1,2,2,2
+Sulphur hexafluoride (SF6),EM-MD-110a.1 IF-EU-110a.1,,t CO2-e,-,-,-,-,-
+,,,t,-,-,-,-,-
+Power Generation Infrastructure,,,,,,,,
+Methane (CH4),IF-EU-110a.2,,t CO2-e,"2,659","2,709","1,559","1,744","1,834"
+,,,t,95,97,56,62,66
+Carbon dioxide (CO2),IF-EU-110a.2,,t CO2-e,"1,341,630","1,357,814","778,957","873,419","868,440"
+,,,t,"1,341,630","1,357,814","778,957","873,419","868,440"
+Nitrous oxide (N2O),IF-EU-110a.2,,t CO2-e,796,811,466,515,513
+,,,t,3,3,2,2,2
+Sulphur hexafluoride (SF6),IF-EU-110a.2,,t CO2-e,-,-,47,62,296
+,,,t,-,-,0.002,0.003,0.013
+Electricity Transmission Infrastructure,,,,,,,,
+Methane (CH4),IF-EU-110a.2,,t CO2-e,0.078,0.050,0.021,0.004,0.069
+,,,t,0.003,0.002,0.001,0.0002,0.0025
+Carbon dioxide (CO2),IF-EU-110a.2,,t CO2-e,55,34,14,3,38
+,,,t,55,34,14,3,38
+Nitrous oxide (N2O),IF-EU-110a.2,,t CO2-e,0.313,0.196,0.083,0.018,0.254
+,,,t,0.001,0.001,0.0003,0.0001,0.001
+Sulphur hexafluoride (SF6),IF-EU-110a.2,,t CO2-e,-,42,76,28,113
+,,,t,-,0.002,0.003,0.001,0.005
+Total,,,,,,,,
+Methane (CH4),IF-EU-110a.2,,t CO2-e,"257,381","259,058","264,217","280,162","226,464"
+,,,t,"9,192","9,252","9,436","10,006","8,088"
+Methane adjustment (due to re-baselining for NGER method change for natural gas storage fugitive,,,,,,,,
+,,,t,-,-,-,-,"1,287"
+emissions),,,,,,,,
+
+=== Table 8 (page 43) ===
+Total,,,UoM,FY25,FY24,FY23,FY22,FY21
+Scope 1,,305-1,t CO2-e,"1,862,659","1,905,327","1,379,338","1,492,977","1,429,979"
+Scope 2 (market method) - line loss,,,t CO2-e,"139,281","129,718","137,643","76,737","68,264"
+Scope 2 (market method) - grid electricity,,,t CO2-e,-,-,-,"15,956","13,527"
+Total Scope 1 and Scope 2 (market method) (gross),EM-MD-110a.1 IF-EU-110a.1 IF-EU-110a.2,,t CO2-e,"2,001,940","2,035,046","1,516,981","1,585,670","1,511,770"
+Scope 2 (location method) - line loss,,,t CO2-e,"139,281","129,718","137,643","76,737","68,264"
+Scope 2 (location method) - grid electricity,,,t CO2-e,"11,190","12,125","14,375","15,956","13,527"
+Scope 1 adjustments,,305-1,t CO2-e,-,-,"666,612","706,100","601,162"
+Scope 2 adjustments,,,t CO2-e,-,-,-,"71,547","71,492"
+Total Scope 1 and Scope 2 (market method) (adjusted) (gross),EM-MD-110a.1 IF-EU-110a.1 IF-EU-110a.2,,t CO2-e,"2,001,940","2,035,046","2,183,593","2,363,316","2,184,424"
+Carbon offsets surrendered,,,#,"(37,582)","(45,590)","(16,763)","(19,537)",-
+ACCUs issued,,,#,"63,088","53,575",-,-,-
+Total Scope 1 and Scope 2 (market method) (adjusted) (net),EM-MD-110a.1 IF-EU-110a.1 IF-EU-110a.2,,t CO2-e,"2,027,446","2,043,031","2,166,830","2,343,779","2,184,424"
+Renewable electricity as a percentage of grid electricity consumed,,,%,100 %,100 %,100 %,- %,- %
+Electricity - grid consumed,,,MWh,"17,741","19,039","21,563",,
+LGC volume to meet 100% Renewable Energy commitment,,,#,"17,741","19,039","21,563",,
+LGCs surrendered - voluntary,,,#,"16,000","15,200","19,000",,
+LGCs surrendered - regulatory ⁵,,,#,"3,228","3,565","4,052",,
+Total LGCs surrendered,,,#,"20,443","20,254","23,052",,
+LGC surplus/deficit carried forward from prior reporting period,,,#,"1,215","1,489",-,,
+LGC true-up (surplus/deficit). Note: carried forward to next reporting period,,,#,"2,702","1,215","1,489",,
+Percentage of Scope 1 GHG emissions covered under an emissions-limiting regulation,EM-MD-110a.1 IF-EU-110a.1,,%,80 %,84 %,75 %,,
+Operational scope 1 GHG emissions by greenhouse gas split by asset class and total⁶,,,,,,,,
+Year-end 30 June,SASB,GRI,UoM,FY25,FY24,FY23,FY22,FY21
+Gas Infrastructure,,,,,,,,
+Methane (CH4),EM-MD-110a.1 IF-EU-110a.1,,t CO2-e,"254,721","256,349","262,658","278,418","224,630"
+,,,t,"9,097","9,155","9,381","9,943","8,022"
+Carbon dioxide (CO2),EM-MD-110a.1 IF-EU-110a.1,,t CO2-e,"263,043","287,354","335,081","338,289","333,672"
+,,,t,"263,043","287,354","335,081","338,289","333,672"
+Nitrous oxide (N2O),EM-MD-110a.1 IF-EU-110a.1,,t CO2-e,194,214,479,498,442
+,,,t,1,1,2,2,2
+Sulphur hexafluoride (SF6),EM-MD-110a.1 IF-EU-110a.1,,t CO2-e,-,-,-,-,-
+,,,t,-,-,-,-,-
+Power Generation Infrastructure,,,,,,,,
+Methane (CH4),IF-EU-110a.2,,t CO2-e,"2,659","2,709","1,559","1,744","1,834"
+,,,t,95,97,56,62,66
+Carbon dioxide (CO2),IF-EU-110a.2,,t CO2-e,"1,341,630","1,357,814","778,957","873,419","868,440"
+,,,t,"1,341,630","1,357,814","778,957","873,419","868,440"
+Nitrous oxide (N2O),IF-EU-110a.2,,t CO2-e,796,811,466,515,513
+,,,t,3,3,2,2,2
+Sulphur hexafluoride (SF6),IF-EU-110a.2,,t CO2-e,-,-,47,62,296
+,,,t,-,-,0.002,0.003,0.013
+Electricity Transmission Infrastructure,,,,,,,,
+Methane (CH4),IF-EU-110a.2,,t CO2-e,0.078,0.050,0.021,0.004,0.069
+,,,t,0.003,0.002,0.001,0.0002,0.0025
+Carbon dioxide (CO2),IF-EU-110a.2,,t CO2-e,55,34,14,3,38
+,,,t,55,34,14,3,38
+Nitrous oxide (N2O),IF-EU-110a.2,,t CO2-e,0.313,0.196,0.083,0.018,0.254
+,,,t,0.001,0.001,0.0003,0.0001,0.001
+Sulphur hexafluoride (SF6),IF-EU-110a.2,,t CO2-e,-,42,76,28,113
+,,,t,-,0.002,0.003,0.001,0.005
+Total,,,,,,,,
+Methane (CH4),IF-EU-110a.2,,t CO2-e,"257,381","259,058","264,217","280,162","226,464"
+,,,t,"9,192","9,252","9,436","10,006","8,088"
+Methane adjustment (due to re-baselining for NGER method change for natural gas storage fugitive,,,,,,,,
+,,,t,-,-,-,-,"1,287"
+emissions),,,,,,,,
+Methane adjustment (due to re-baselining for Orbost divestment),,,t,-,-,(560),(566),(54)
+Methane adjustment (due to re-baselining for historical reporting error associated with fuel gas emissions at,,,,,,,,
+,,,t,-,-,-,0.8,0.5
+Moomba compressor station),,,,,,,,
+Methane adjustment (due to re-baselining for NGER calculation change for gas distribution fugitive emissions),,,t,-,-,-,(500),(488)
+Methane adjustment (due to Basslink acquisition),,,t,-,-,-,0.0002,0.0002
+Methane adjustment (due to re-baselining for Newman Power Station acquisition),,,t,-,-,27,28,14
+Methane adjustment (due to re-baselining for Port Hedland Power Station acquisition),,,t,-,-,24,27,28
+
+=== Table 9 (page 44) ===
+Methane adjustment (due to re-baselining for historical reporting error associated with fugitive emissions on,,,,,,,,,
+,,,t,-,-,45,45,45,
+the VTS),,,,,,,,,
+Methane (CH4) (adjusted),IF-EU-110a.2,,t,"9,192","9,252","8,972","9,041","8,920",
+Carbon dioxide (CO2),IF-EU-110a.2,,t CO2-e,"1,604,728","1,645,202","1,114,053","1,211,711","1,202,150",
+,,,t,"1,604,728","1,645,202","1,114,053","1,211,711","1,202,150",
+Nitrous oxide (N2O),IF-EU-110a.2,,t CO2-e,991,"1,026",945,"1,013",955,
+,,,t,4,4,4,4,4,
+Sulphur hexafluoride (SF6),IF-EU-110a.2,,t CO2-e,-,42,123,90,409,
+,,,t,-,0.002,0.005,0.004,0.017,
+Equity Share GHG emissions by asset class and total,,,,,,,,,
+Year-end 30 June,SASB,GRI,UoM,FY25,FY24,FY23,,,
+Gas Infrastructure,,,,,,,,,
+Scope 1,,,t CO2-e,"522,915","515,043","544,953",,,
+Scope 2 (market method) ⁷,,,t CO2-e,92,184,213,,,
+Total Scope 1 and Scope 2 (market method) (gross),EM-MD-110a.1 IF-EU-110a.1,,t CO2-e,"523,007","515,227","545,166",,,
+Power Generation Infrastructure ⁸,,,,,,,,,
+Scope 1,,,t CO2-e,"1,486,017","1,259,168","932,586",,,
+Scope 2 (market method) ⁷,,,t CO2-e,52,47,16,,,
+Total Scope 1 and Scope 2 (market method) (gross),IF-EU-110a.2,,t CO2-e,"1,486,069","1,259,215","932,602",,,
+Power generation intensity,,,t CO2-e / MWh,0.34,0.32,-,,,
+Electricity Transmission Infrastructure,,,,,,,,,
+Scope 1,,,t CO2-e,34,3,21,,,
+Scope 2 (market method) - line loss,,,t CO2-e,"93,259","81,981","74,215",,,
+Scope 2 (market method) - grid electricity ⁷,,,t CO2-e,0,0,0,,,
+Total Scope 1 and Scope 2 (market method),IF-EU-110a.2,,t CO2-e,"93,293","81,984","74,236",,,
+Total,,,,,,,,,
+Scope 1,,,t CO2-e,"2,008,966","1,774,214","1,477,559",,,
+Scope 2 (market method) - line loss,,,t CO2-e,"93,259","81,981","74,215",,,
+Scope 2 (market method) - grid electricity ⁷,,,t CO2-e,145,231,229,,,
+Total Scope 1 and Scope 2 (market method),EM-MD-110a.1 IF-EU-110a.1 IF-EU-110a.2,,t CO2-e,"2,102,369","1,856,426","1,552,004",,,
+Scope 3 GHG emissions by category,,,,,,,,,
+Year-end 30 June,SASB,GRI,UoM,FY25,FY24,FY23,FY22,FY21,FY20
+Upstream (gross),,,,,,,,,
+Category 1: Purchased goods and services (including capital goods),,305-3,t CO2-e,"186,094","213,459","325,956","280,898","171,425","137,726"
+Category 3: Fuel and energy related activities,,305-3,t CO2-e,"234,640","238,590","205,675","215,237","214,642","418,351"
+Category 5: Waste,,305-3,t CO2-e,648,759,"1,104","1,023","1,660","1,833"
+Category 6: Business travel,,305-3,t CO2-e,"6,883","7,757","5,646","2,265","1,832","4,739"
+Category 7: Employee commuting ⁹,,305-3,t CO2-e,"2,407","2,451","2,812","2,512","2,316","1,886"
+Downstream (gross),,,,,,,,,
+Category 11: Use of sold products,,305-3,t CO2-e,"9,265","23,103","52,375","111,331","159,610","144,367"
+Category 15: Investments,,305-3,t CO2-e,"196,347","178,479","221,716","240,205","220,186",-
+Total Upstream and Downstream (gross),,305-3,t CO2-e,"636,284","664,598","815,284","853,473","771,671","708,901"
+Carbon offsets surrendered - due to 100% business travel being offset,,,#,"(6,883)","(7,757)","(5,646)",,,
+Total Upsteam and Downstream (net),,305-3,t CO2-e,"629,401","656,841","809,638","853,473","771,671","708,901"
+Category 15: Investments - gas infrastructure assets only,,,t CO2-e,"55,590","43,639","70,144","93,739","83,286",—
+Category 15 adjustment (due to divestment of Tipton West),,,t CO2-e,-,0,—,"7,405","13,387",
+Total Category 15: Investments - gas infrastructure assets (adjusted),,,t CO2-e,"55,590","43,639","70,144","86,334","69,899",
+Category 15: Investments - gas infrastructure assets emissions change compared to base year,,,,,,,,,
+,,,t CO2-e,"(14,309)","(26,260)",245,"16,435",,
+(adjusted),,,,,,,,,
+,,,%,-20%,-38%,0 %,24 %,,
+"Category 1 and 2 suppliers, as a percentage of total spend, engaged to set a Net Zero goal9",,,%,-,,,,,
+"Category 1 and 2 suppliers, as a percentage of total spend, who have a set a Net Zero goal",,,%,14%,,,,,
+End-user GHG emissions,,,,,,,,,
+Year-end 30 June,SASB,GRI,UoM,FY25,FY24,FY23,FY22,FY21,FY20
+End-user emissions (upstream and downstream),,305-3,t CO2-e,"62,775,374","64,035,270","62,329,409","66,834,654","66,286,223","68,286,483"
+"¹ All calculations are based on Scope 2 market method, except when indicated otherwise.",,,,,,,,,
+"² A true-up occurs where there is any variance between the pre-assured actuals on which the unit amount is calculated, and assured actuals disclosed.",,,,,,,,,
+
+=== Table 10 (page 45) ===
+"³ Where there has been no voluntary surrender of LGCs, there will be minor differences in the Scope 2 emissions value calculated between the location-based and market-based methods. This is in part is due to the residual mix factor being applied at a national level rather than on a state-by-state basis. Where this is the case i.e., there has been no voluntary surrender of LGCs, we"
+assume the location-based method calculation value also represents the market-based method calculation value. APA has not surrendered LGCs for electricity transmission line losses in the reporting period.
+⁴ Emissions for Basslink in FY23 have been applied to FY22 and FY21 as actuals are not available for both years.
+⁵ Required to be surrendered by liable entities under the LRET according to the renewable power percentage.
+⁶ These values are not adjusted due to re-baselining activity and use the Global Warming Potentials (GWP) from the Intergovernmental Panel on Climate Change Assessment Report 5 based on a 100-year timeframe.
+"⁷ To determine Scope 2 emissions using the market method, LGCs are only allocated to facilities under APA's operational control."
+8 Work from home emissions are included in Category 7: Employee commuting for FY24
+⁹ Net zero goal or equivalent (e.g. carbon neutral goal) covering operational emisisons
+
+=== Table 11 (page 46) ===
+,,APA FY25 Annual Report,APA Greenhouse Gas Emissions &,APA Climate Transition Plan,,,,
+,Sustainability Data Book Index,,,,APA Website,,,
+CLIMATE: OFFSETS,,(including Climate Report),"Energy Calculation Methodology
+2025",,,,,
+Units Surrendered for FY25,,,,,,,,
+Legend: VCU = Verified Carbon Unit; ACCU = Australian Carbon Credit Unit; KACCU = Kyoto Australian Carbon Credit Unit; REDD+ = Reducing emissions from deforestation and forest degradation in developing countries; HIR = Human-Induced Regeneration; IFM = Integrated Farm Management,,,,,,,,
+Project Name,Project Location and Host Country,Project ID,Link to Project,Credit type,Abatement Method,Year of Issuance,Number of Units (#),Attributable to
+Aak Puul Ngantam (APN),"Cape York, Queensland, Australia",EOP100972,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,ACCU,Savanna Burning,2024,"5,000 SWQP Safeguard Mechanism compliance (early surrender) and gas infrastructure",
+,,,contract-register/project/EOP100972,,,,,target
+Warbreccan Regeneration Project,"Queensland, Australia",ERF121758,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,ACCU,HIR,2024,,SWQP Safeguard Mechanism compliance (early surrender) and gas infrastructure
+,,,,,,,"1,845",
+,,,contract-register/project/ERF121758,,,,,target
+Hillview Station Regeneration Project,"Western Australia, Australia",ERF123583,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,ACCU,HIR,2024,"2,348 SWQP Safeguard Mechanism compliance (early surrender) and gas infrastructure",
+,,,contract-register/project/ERF123583,,,,,target
+Hillview Station Regeneration Project,"Western Australia, Australia",ERF123583,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,ACCU,HIR,2023,579,SWQP Safeguard Mechanism compliance (early surrender) and gas infrastructure
+,,,contract-register/project/ERF123583,,,,,target
+Austin Downs Station Regeneration Project,"Western Australia, Australia",ERF121665,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,ACCU,HIR,2023,"6,450 SWQP Safeguard Mechanism compliance (early surrender) and gas infrastructure",
+,,,contract-register/project/ERF121665,,,,,target
+Austin Downs Station Regeneration Project,"Western Australia, Australia",ERF121665,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,ACCU,HIR,2023,251,
+,,,,,,,,Gas infrastructure target
+,,,contract-register/project/ERF121665,,,,,
+Katingan Peatland Restoration and Conservation Project,Indonesia,VCS 1477,https://registry.verra.org/app/projectDetail/VCS/1477,VCU,REDD+,2022,"20,000 Gas infrastructure target",
+Katingan Peatland Restoration and Conservation Project,Indonesia,VCS 1477,https://registry.verra.org/app/projectDetail/VCS/1477,VCU,REDD+,2022,"4,000 Scope 3 category 6 - business travel offsetting commitment",
+Kuamut Rainforest Conservation Project,Malaysia,VCS 2609,https://registry.verra.org/app/projectDetail/VCS/2609,VCU,IFM,2024,"1,109 Gas infrastructure target",
+Kuamut Rainforest Conservation Project,Malaysia,VCS 2609,https://registry.verra.org/app/projectDetail/VCS/2609,VCU,IFM,2024,"2,883 Scope 3 category 6 - business travel offsetting commitment",
+Total,,,,,,,"44,465",
+Units Issued in FY25,,,,,,,,
+Project Name,Project Location and Host Country,Project ID,Link to Project,Credit type,Abatement Method,Year of Issuance,Number of Units (#),
+,,,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,,Industrial and Commercial,,,
+Newman Power Station,"Western Australia, Australia",ERF152447,,KACCU,,2024,"63,088",
+,,,contract-register/project/ERF152447,,Emissions Reduction,,,
+Total,,,,,,,"63,088",
+Other Offset Holdings as of 5 August 2025,,,,,,,,
+Project Name,Project Location and Host Country,Project ID,Link to Project,Credit type,Abatement Method,Year of Issuance,Number of Units (#),
+,,,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,,,,,
+Aak Puul Ngantam (APN),"Cape York, Queensland, Australia",EOP100972,,ACCU,Savanna Burning,2024,"25,000",
+,,,contract-register/project/EOP100972,,,,,
+,,,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,,,,,
+Aak Puul Ngantam (APN),"Cape York, Queensland, Australia",EOP100972,,ACCU,Savanna Burning,2025,"10,000",
+,,,contract-register/project/EOP100972,,,,,
+,,,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,,,,,
+Hillview Station Regeneration Project,"Western Australia, Australia",ERF123583,,ACCU,HIR,2024,"1,689",
+,,,contract-register/project/ERF123583,,,,,
+,,,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,,,,,
+Austin Downs Station Regeneration Project,"Western Australia, Australia",ERF121665,,ACCU,HIR,2024,"5,583",
+,,,contract-register/project/ERF121665,,,,,
+,,,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,,,,,
+Lakemere Human-Induced Regeneration Project,"New South Wales, Australia",ERF101409,,ACCU,HIR,2024,"6,700",
+,,,contract-register/project/ERF101409,,,,,
+,,,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,,,,,
+Moombidary Forest Regeneration Project,"Queensland, Australia",ERF101548,,ACCU,HIR,2025,"3,540",
+,,,contract-register/project/ERF101548,,,,,
+,,,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,,,,,
+Darling River Conservation Initiative Site #9,"New South Wales, Australia",ERF132688,,ACCU,HIR,2024,"5,547",
+,,,contract-register/project/ERF132688,,,,,
+,,,https://cer.gov.au/schemes/australian-carbon-credit-unit-scheme/accu-project-and-,,,,,
+Western Australia Conservation Initiative - Site 2,"Western Australia, Australia",ERF123913,,ACCU,HIR,2024,"20,913",
+,,,contract-register/project/ERF123913,,,,,
+Total,,,,,,,"78,972",

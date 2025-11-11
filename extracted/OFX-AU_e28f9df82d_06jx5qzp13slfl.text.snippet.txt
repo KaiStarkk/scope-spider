@@ -1,0 +1,279 @@
+=== Page 12 ===
+PlasmaLeap designs, manufactures and 
+distributes cutting-edge zero-
+emissions chemical reactors for hard to 
+abate industries, including agriculture, 
+energy and transport. PlasmaLeap is 
+a deep tech innovator with a mission to 
+significantly reduce carbon emissions 
+in the chemicals sector. 
+Before adopting OFX, PlasmaLeap used manual 
+processes for managing its financial operations. 
+With a typical start-up mix of personal and 
+corporate cards, and a manual process to 
+reconcile invoices and expenses, it created a 
+time-consuming reconciliation process. 
+“Like a lot of start-ups, paper receipts were the 
+norm; some venues didn’t take certain cards, 
+others did, so we had a mix of different cards and 
+personal expenses. It was a drain on precious time 
+to manage effectively, diverting resources from 
+the massive scale-up opportunity we have in front 
+of us at PlasmaLeap. There wasn’t enough 
+visibility for the growing complexity of the 
+business, essentially. We knew it wasn’t 
+sustainable,” said Chief Financial Officer, 
+Nick Bishop when describing the pre-OFX 
+financial management challenges. 
+“OFX is impactful around budget, cards, and 
+access management. It’s particularly useful when 
+employees have different seniority levels and 
+budget approval. The big kicker is being able to 
+integrate with Xero. The fact we could plug and 
+play there is a big advantage,” he said. 
+“Compared to other platforms we’ve used, OFX 
+is much easier to navigate, which is crucial 
+when time and resources are precious.” 
+“We knew we needed a solution. So that was one 
+thing, this centralisation and visibility around 
+expenses and allowing reconciliations to be done 
+by those that are actually incurring the expenses. The second thing was platform integration with 
+systems we already use,” said Nick. 
+OFX’s ability to set up virtual accounts in multiple 
+currencies, in practically real-time, and offer 
+significant cost savings on FX transactions 
+were vital. 
+“Previously, reconciliation was a bottleneck, but 
+now, with virtual cards and automated processes, 
+we’ve seen a real uplift in productivity.”
+One of the most significant benefits for 
+PlasmaLeap has been the substantial savings on 
+FX fees and the flexibility of managing payments 
+in multiple currencies from a single platform. 
+“On our international payments, we’ve very quickly 
+earned back the platform fees… cost recovery is 
+extremely quick on the platform by just a few FX 
+transactions.” 
+In fact, PlasmaLeap saved $5,000+ on their first 
+transaction with OFX. 
+The results speak for themselves.
+Since adopting OFX, PlasmaLeap has experienced 
+a significant transformation in its financial 
+operations. 
+Beyond the platform and its features, OFX’s 
+onboarding process was smooth and supported 
+by attentive client service, a crucial factor in 
+PlasmaLeap’s decision-making process. 
+“Michael and Melissa from the OFX team were 
+fantastic. They guided us through the process, 
+especially during an issue with a third-party 
+platform on a public holiday. Their support was a 
+stark contrast to the generic, impersonal support 
+we’ve experienced with other platforms,” Nick 
+Bishop said. 
+“On our international payments, we’ve very quickly 
+earned back the platform fees… cost recovery is 
+extremely quick on the platform by just a few 
+FX transactions.”PlasmaLeap
+10 
+OFX Group Limited | ABN 12 165 602 273Meet our clientCase studyFor personal use only
+
+=== Page 24 ===
+Metric FY23 FY24 FY25 Target for FY26
+Diversity Female representation 
+on the Board50% 50% 67% Min 40%
+Female representation 
+at SLT1 level44% 43% 42% Min 40%
+Pricing Time taken to action 
+client complaints2.0 business 
+days<2.0 business 
+days<2.0 business 
+daysMaintain the time 
+taken to action 
+client complaint at 
+2 business days
+Privacy % of all employees & 
+contractors trained 
+each year97.93% 99.35% 98.81% 98%
+Number of privacy 
+impact assessments6 1 3 >= number of new 
+high risk initiatives 
+involving personal 
+information
+Fraud and 
+financial crimeFraud training for 
+employees & 
+contractors trained 
+each year97.69% 99.01% 99.84% 98%
+OFX fraud preventions 97.58% 96.23% 97.33% 97%
+Cyber Number of P1 cyber 
+incidents3 3 3 <=5
+Percentage of cyber 
+attacks thwarted99.99% 100% 99.99% 99.99%
+Environmental Carbon emission 
+reporting coverage 
+across OFX100% OFX 
+entities100% OFX and 
+Firma entities100% OFX 
+Group entities100% OFX Group 
+entities 
+1. SLT (Senior Leadership Team) includes the direct reports of the OFX Global Executive Team.Primary ESG 
+Metrics and KPIs
+22 
+OFX Group Limited | ABN 12 165 602 273For personal use only
+
+=== Page 25 ===
+The nature of OFX’s business, driven by our digital 
++ human offering, means that OFX’s direct 
+environmental impact is not high. However, 
+we understand that we do have an indirect 
+environmental impact and are committed to 
+doing what we can to help reduce this impact. 
+We remain committed to taking steps to actively 
+monitor, reduce and offset our consumption.
+Determining high-priority, high-
+impact areas
+We use the Sustainability Accounting Standards 
+Board ( SASB) Materiality Map for the ‘Consumer 
+Finance’ industry to help self-identify issues with 
+the greatest impact on the financial condition or 
+operating performance of OFX.
+In accordance with the SASB Materiality Map, 
+we have identified the following key issues:
+• carbon emissions reduction; and 
+• waste management and recycling.Carbon emissions reduction
+OFX is committed to understand the total carbon 
+emission output for the OFX Group to assist us to 
+develop our strategy to better manage, reduce 
+and mitigate our carbon emissions.
+In FY25, we have continued to use an independent 
+carbon emissions management consultant to 
+calculate and report on our scope 1, scope 2 and 
+upstream scope 3 carbon emissions according to 
+the Greenhouse Gas ( GHG) Protocol. This protocol 
+is compliant with the Australian Government’s 
+Climate Active Carbon Neutral Standard for 
+Organisations and the British Standard 
+Institution’s PAS 2060 Carbon Neutral.
+OFX calculates scope 2 emissions, relating to 
+purchased electricity, using the location-based 
+method. This method reflects the average 
+emissions intensity of the electricity grid where 
+OFX’s energy consumption occurs. Where 
+available, OFX also calculates scope 2 emissions 
+using the market-based method. This method 
+reflects emissions from electricity providers OFX 
+has chosen and derives emission factors from 
+contractual arrangements such as renewable or 
+green energy contracts. Scope 3 are calculated 
+on an ‘emission by spend’ basis. OFX’s carbon 
+emission in FY25 was as follows.
+Total GHG emissions (CO₂e tonne)
+2025 2024
+Scope 1 0 0
+Scope 2 (market-based)157.23 –
+Scope 2 (location-based)2245.71 280.65
+Scope 3 7,074.40 8,401.48
+TotalTotal337,241.93 8,682.13
+1. See table below for locations where market-based method has 
+been  used.
+2. Includes locations where market-based method was also used.
+3. This total includes combination of market-based where available 
+and location-based otherwise. Environmental
+23
+Annual Report 2025For personal use only
+
+=== Page 26 ===
+Green House Gas (GHG) emissions output of the OFX Group of companies
+1. The Total GHG emissions in these tables include the market-based figure for this location instead of this location-based figure.  
+ 
+ Scope 2:  
+Energy (Electricity) 
+GHG emissions (CO2e tonne) Scope 3: 
+Indirect Upstream  
+GHG emissions  
+(CO2e tonne) 
+Total  
+GHG emissions  
+(CO2e tonne)
+Market-based Location-based
+Location 2025 2024 2025 2024 2025 2024 2025 2024
+Australia 57.23 – 133.501 123.33 5,095.72 6,222.11 5,152.95 6,345.44
+New Zealand – – 2.82 0.63 55.51 80.03 58.33 80.66
+Hong Kong – – 18.03 23.82 109.78 186.96 127.81 210.78
+Singapore – – 5.25 5.23 157.24 173.61 162.49 178.84
+United 
+Kingdom– – 12.29 6.59 345.62 275.12 357.91 281.71
+Ireland 0.00 – 1.9110.96 150.22 101.56 150.22 102.52
+United States – – 16.28 17.40 544.92 537.00 561.20 554.40
+Canada – – 55.63 102.69 615.39 825.09 671.02 927.78
+Total 57.23 – 245.71 280.65 7,074.40 8,401.48 7,241.93 8,682.13 
+In summary, OFX does not contribute to scope 1 
+emissions. OFX’s energy consumption is limited to 
+scope 2 and 3 emissions. We estimate that 98% 
+of our emissions are upstream scope 3 emissions.
+Cloud computing forms an integral part of the OFX 
+business and OFX remains committed to using 
+energy-efficient cloud computing providers.
+OFX also remains committed to only using air 
+travel purposefully. As a global business, OFX 
+relies upon and is continuing to explore further 
+opportunities to connect to our people virtually 
+to reduce emissions related to commuting.
+In FY25, we switched our head office in Sydney 
+and our office in Dublin to green power using a 
+market-based electricity calculation approach. 
+Emissions for these two offices are now carbon 
+neutral.For FY26, OFX has reaffirmed its commitment to a 
+global hybrid working model, and in those office 
+spaces that continue to house our people, we are 
+continuing to look for ways to better use energy-
+saving technologies for things such as lighting, 
+heating and cooling, including identifying 
+opportunities where we can take advantage 
+of greener power options for our offices.
+In FY26, we will continue to measure, identify and 
+understand the main sources of OFX’s carbon 
+emissions, and we are now equipped with a 
+year-on-year comparison to help with that 
+understanding. We will continue to investigate 
+the best way to invest funds towards our goal to 
+reduce and, where it makes sense, offset our 
+carbon emissions.
+24 
+OFX Group Limited | ABN 12 165 602 273Environmental, Social and GovernanceFor personal use only
+
+=== Page 27 ===
+Waste management and recycling
+Waste management and recycling 
+continues to be a focus for OFX. 
+In FY25, we have maintained our 
+commitment to waste reduction. 
+We continue to encourage the use of 
+recycling at all our office locations 
+globally and have adopted office 
+composting where available. We have 
+focused on avoiding the use of single-use 
+plastics for corporate catering globally 
+and continue to embrace paperless ways 
+of working through the use of e-signature 
+tools across our business.
+In addition, we successfully continued a 
+technology hardware recycling program, 
+which includes donating out-of-
+commission technology to charities at 
+least annually.
+In FY26, we remain committed to 
+minimising our environmental impact by 
+maintaining the use of e-signature tools 
+to reduce paper use, selecting off-site 
+venues that provide recycling facilities 
+and ensuring corporate catering globally 
+is free from single-use plastic cutlery.Top 3 quantified emissions
+ Professional services – 49.8%
+  Cloud computing  
+services – 22.6%
+ Travel – 12.0%
+ Other – 15.6%
+25
+Annual Report 2025For personal use only

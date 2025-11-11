@@ -15,7 +15,8 @@ def _path_exists(path: Optional[str]) -> bool:
 def emissions_complete(emissions: Optional[EmissionsData]) -> bool:
     if emissions is None:
         return False
-    if emissions.scope_1 is None or emissions.scope_1 <= 0:
+    scope1_value = emissions.scope_1.value if emissions.scope_1 else None
+    if scope1_value is None or scope1_value <= 0:
         return False
     scope_2_value = emissions.scope_2.value if emissions.scope_2 else None
     if scope_2_value is None or scope_2_value <= 0:

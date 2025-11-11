@@ -1,0 +1,370 @@
+=== Page 5 ===
+3
+Annual Report 2025 Hansen Technologies Ltd$72.6m
+Up 22.9%OPERATING CASH FLOW
+0.2x
+Sufficient capital for further 
+acquisition opportunitiesLEVERAGE RATIODriving Growth Through 
+Customer Success
+Recent customer wins reflect strong demand  
+for Hansen’s scalable, mission-critical software. 
+These wins reinforce our competitive position, 
+extend our recurring revenue base, and  
+highlight our ability to deliver value in complex, 
+evolving markets.
+Industry-specific Technology – 
+Powered by Innovation  
+and Intelligence
+In FY25 approximately $34.5m was invested in R&D, 
+with $18.3m capitalised and $16.2m expensed  
+on continuous enhancements and operational 
+improvements. Investment was directed toward 
+cloud-native billing platforms, AI-powered 
+engagement tools, and modular market-specific 
+upgrades. Hansen’s global delivery centres in India, 
+Vietnam, and Argentina enabled rapid development 
+cycles, cost efficiency, and client-aligned outcomes.
+Sustainability in Action: From 
+Code to Supply Chain
+Hansen’s commitment to sustainability is reflected 
+in four years of carbon neutrality in Australia, early 
+achievement of emissions targets, and global 
+Green House Gas (GHG) benchmarking. We’re 
+reducing impact through efficient code, low-waste 
+devices, and supplier engagement. Our progress 
+has been recognised with a Morgan Stanley  
+Capital International (MSCI) Environmental,  
+Social and Governance (ESG) upgrade to AA  
+and an EcoVadis Committed Badge.
+
+=== Page 12 ===
+10
+Annual Report 2025 Hansen Technologies LtdCHAIRPERSON AND MANAGING DIRECTOR JOINT REPORT CONTINUED  
+Sustainability and responsible  
+business practices
+Hansen is proud to have reduced its Australian Operations 
+carbon emissions by 40% since FY22. Our Australian 
+operations have now maintained carbon neutrality for four 
+consecutive years, and Hansen was recognised by EcoVadis 
+with a ‘Committed’ badge for our global Environmental,  
+Social and Governance (ESG) performance. In addition to this, 
+in March 2025, Morgan Stanley Capital International (MSCI) 
+awarded Hansen with an AA rating placing us among industry 
+leaders in sustainability performance. FY25 was also marked  
+by our progressive alignment with the Australian Sustainability 
+Reporting Standards (ASRS) S1 and S2 sustainability reporting 
+standards, reflecting our commitment to transparent, 
+stakeholder-focused disclosure.
+Performance overview
+Hansen achieved Operating Revenue of $392.5m in FY25, 
+representing a year-on-year increase of 11.2%. This growth 
+reflects the success of the powercloud acquisition completed  
+in February 2025 and increasing momentum across our 
+Communications & Media vertical. While our top-line growth 
+was modestly below initial guidance due to delayed project 
+delivery, the underlying business remained robust, with strong 
+recurring revenues and a healthy pipeline of future work.
+Group Underlying EBITDA was $111.7m, (Underlying EBITDA 
+Margin of 28.5%) and Cash EBITDA was $93.4m, (Cash EBITDA 
+Margin of 23.8%). As expected in the first half of FY25, earnings 
+were impacted by lower licence fee recognition and investment 
+in resources to support growth opportunities in Europe and 
+North America. The second half, however delivered a significant 
+increase in earnings and cash flow, bolstered by new customer 
+agreements and stronger licence fee contributions.
+A$ Million FY25 FY24Variance  
+(%)
+Operating revenue  392.5  353.1  11.2% 
+Underlying EBITDA(1), (2), (3) 111.7  92.4  20.9% 
+Cash EBITDA(1), (2), (3), (4) 93.4  76.9  21.5% 
+Underlying NPAT(5) 39.6  26.0  52.3% 
+Underlying NPATA(6) 56.9  39.7  43.3% 
+(1) The Directors believe the information additional to IFRS measures included in the 
+report is relevant and useful in measuring the financial performance of the Group.
+(2) EBITDA is a non-IFRS term, defined as earnings before interest, tax, depreciation 
+and amortisation, and excluding net foreign exchange gains (losses).
+(3) Underlying EBITDA, excludes separately disclosed items, which represent  
+the one-off costs during the period. Further details of the separately 
+disclosed items are outlined in Note 4 to the Financial Report.
+(4) Cash EBITDA is Underlying EBITDA less capitalised development costs.
+(5) Underlying Net Profit After Tax attributable to members excludes separately 
+disclosed items (net of tax). Further details of the separately disclosed items 
+are outlined in Note 4 to the Financial Report.
+(6) Underlying net profit after tax (adjusted) attributable to members excludes 
+separately disclosed items and acquired amortisation (net of tax).  
+Further details of the separately disclosed items are outlined in Note 4  
+to the Financial Report.FY25 FY24 FY23 FY22392.5353.1
+311.8 296.5307.7Operating Revenue ($m)
+FY25 FY24 FY23 FY2293.4
+76.9 78.484.7Cash EBITDA ($m)
+ 
+Vertical financial overview
+Energy & Utilites
+A$ Million FY25 FY24Variance  
+(%)
+Revenue  221.2  204.2  8.3% 
+Segment result  80.7  87.9  (8.2%) 
+Contribution margin  36.5%  43.0% 
+Communications & Media
+A$ Million FY25 FY24Variance  
+(%)
+Revenue  171.3  148.9  15.0% 
+Segment result  93.9  73.0  28.6% 
+Contribution margin  54.8%  49.0%
+FY25 FY24 FY23 FY22221.2204.2
+164.7149.1171.3
+148.9
+147.1147.4
+Energy & Utilities
+Communications & MediaVertical Operating revenue ($m)
+
+=== Page 14 ===
+CORPORATE SUSTAINABILITY
+At Hansen, sustainability is embedded in our strategy.  
+We don’t just build market-leading software and services, 
+we drive positive change in the Energy & Utilities and 
+Communications & Media sectors.
+Our sustainability journey reflects our ongoing commitment 
+to environmental responsibility, diversity, good governance, 
+and long-term value creation. As we look ahead, we remain 
+focused on deepening our impact by embedding sustainable 
+practices across our operations and driving positive change  
+for our stakeholders and the communities we operate in. 
+Building on our FY24 efforts, we have further incorporated and 
+strengthened our global sustainability strategy and continued 
+to integrate recognised sustainability reporting frameworks 
+and guidelines into our approach. This report has been 
+developed in line with the Global Reporting Initiative (GRI)  
+and we are evolving our climate-related disclosures with  
+global and major jurisdictional reporting requirements.
+We are committed to supporting our customers’ transition  
+to net zero through innovative solutions while minimising 
+our own environmental impact. Collaboration is essential to 
+achieving the transformative change needed to limit global 
+warming to 1.5°C, and we are actively working towards setting 
+science based Greenhouse Gas (GHG) reduction targets.  
+Our responsibility extends to fostering an inclusive workplace, 
+strengthening our communities, and ensuring a resilient  
+and ethical approach to business.
+While full compliance will commence in FY27, we  
+are progressively aligning our disclosures with the  
+Australian Sustainability Reporting Standard’s (ASRS), 
+Australian Accounting Standards Board (AASB) S2 
+disclosure expectations.
+Andrew Hansen  
+Global CEO and Managing DirectorAs we continue our phased approach towards  
+net-zero, we have taken significant steps 
+in understanding and mitigating our global 
+environmental impact. I am proud to share that 
+Hansen’s Australian operations have been certified 
+carbon neutral for the fourth consecutive year. 
+Moreover, we have achieved our emissions reduction 
+targets by reducing the absolute emissions of 
+our Australia operations by no less than 40%, 
+demonstrating our firm commitment to sustainability.
+In FY25, we expanded our efforts by conducting 
+climate scenario analyses to assess potential  
+risks and opportunities for Hansen under 
+various climate-related conditions. We have also 
+benchmarked our global FY24 GHG emissions 
+retrospectively and begun surveying our suppliers  
+on their own sustainability criteria.ACTING ON CLIMATE CHANGE  
+AND THE ENVIRONMENT
+GLOBAL CEO AND MANAGING  
+DIRECTOR’S MESSAGE
+12
+Annual Report 2025 Hansen Technologies Ltd
+
+=== Page 16 ===
+CORPORATE SUSTAINABILITY CONTINUED
+FY25 (Completed) FY26 (Planned)FY27 and Beyond  
+(Strategic Direction) 
+Emissions ●Completed benchmarking 
+global Scope 1-3 GHG 
+emissions for FY24
+ ●Recertified Climate Active 
+(carbon neutral) ●Establish global baseline and 
+reduction targets  
+in preparation for  
+SBTi submission
+ ●Begin forecasting emissions 
+trajectory incl. Scope 3
+ ●Begin preparation of a  
+climate transition plan ●Implement and submit 
+reduction initiatives  
+aligned with SBTi
+ ●Explore carbon offset 
+opportunities for  
+hard-to-abate emissions
+ ●Embed and implement  
+climate transition plan
+Product innovation ●Supported our customers  
+net-zero journey’s through 
+product innovation ●Continue advancing sustainable product offerings
+Reporting and 
+frameworks ●Conducted AASB S2 
+readiness assessment ●Sustainability Report in 
+alignment with ASRS S2 
+ ●Begin preparations for an 
+Environmental Management 
+System in line with ISO 14001 ●Enhance reporting to better 
+align with frameworks  
+(GRI, ISSB, ASRS)
+ ●Continue ISO 14001 
+preparation
+Materiality and 
+stakeholder engagement ●Refreshed materiality 
+assessment with internal 
+and external stakeholder 
+engagement ●Ongoing updates based on materiality and regulatory reviews
+Strategy integration ●Continued to embed our 
+Sustainability Strategy  
+across the organisation,  
+in line with mandatory climate 
+reporting requirements. ●Continue Sustainability 
+Strategy rollout and further 
+integrate with operations ●Evolve Sustainability Strategy 
+in line with business and 
+stakeholder expectations
+Governance and risk ●Conducted global climate 
+scenario analysis ●Evolve sustainability 
+governance structures ●Maintain strong governance 
+aligned with regulatory change
+Supply chain ●Assessed our biggest 
+suppliers for climate and 
+sustainability risks ●Expand supplier sustainability 
+assessment scope
+ ●Attempt mitigate risks with 
+potential high risk suppliers ●Collaborate with suppliers to 
+reduce Scope 3 emissions 
+and help mitigate social and 
+governance risks
+PERFORMANCE
+Metric s ●Set key sustainability  
+metrics and published 
+Sustainability Databook ●Define and report Global 
+Scope 1, 2, 3 GHG emissions ●Expand metrics, targets,  
+and track completion rates
+KPIs ●Completed EcoVadis 
+Assessment
+ ●Achieved AA Rating MSCI ●Complete annual EcoVadis 
+Assessment ●Continue to evolve  
+and improve annual  
+EcoVadis AssessmentHANSEN’S SUSTAINABILITY ROADMAP
+14
+Annual Report 2025 Hansen Technologies Ltd
+
+=== Page 17 ===
+Supplier Assessment Sustainability Databook Sustainability Strategy GHG Emissions
+In FY24 we launched our 
+Supplier Code of Conduct 
+seeking supplier alignment 
+with the code.
+In FY25, we initiated a 
+sustainability assessment  
+of our largest suppliers  
+by spend, to identify risks 
+and opportunities across 
+our supply chain.
+This process helped 
+establish a baseline 
+understanding, laying 
+the groundwork for 
+future expansion of 
+the assessment and 
+engagement program.We defined key sustainability 
+metrics and incorporated 
+them into a detailed 
+Sustainability Databook, 
+ensuring transparency and 
+structured reporting. 
+This document seeks to 
+provide stakeholders with a 
+comprehensive view of our 
+sustainability performance, 
+tracking progress against 
+established benchmarks 
+and enhancing our  
+reporting transparency  
+and capabilities.Hansen’s Sustainability 
+Strategy was formally 
+introduced, aligning 
+business operations with 
+long-term sustainability 
+objectives. This initiative 
+involved company wide 
+engagement. These activities 
+continue to be supported by 
+our codes and policies.Completed benchmarking of 
+our FY24 global Scope 1, 2, 
+and 3 GHG emissions. This 
+provides a critical foundation 
+for our future plans to set 
+science-based emissions 
+reduction targets and 
+helps refine our long-term 
+decarbonisation strategy 
+and climate transition plan.
+Climate Active Climate ScenariosASRS Readiness 
+Assessment Material Topics
+We successfully recertified 
+with Climate Active in FY24 
+for our Australian Operations. 
+Hansen’s focus will begin  
+to shift from Climate  
+Active carbon neutral 
+certification to establishing  
+an emissions reduction 
+pathway aligned with the 
+Science-Based Targets 
+initiative (SBTi) principles.
+While offsetting remains  
+an option for hard-to-abate 
+emissions in the future,  
+our immediate priority  
+is on measurable  
+emissions reductions.Utilising independent 
+experts, a comprehensive 
+climate scenario analysis 
+was conducted to assess 
+high-priority risks and 
+opportunities related  
+to climate change. This 
+analysis enables proactive 
+risk management and 
+strategic planning, ensuring 
+that our business remains 
+resilient in a transitioning 
+global economy.To align with evolving global 
+sustainability reporting 
+requirements, we conducted 
+an AASB S2 readiness 
+assessment and enhanced 
+our sustainability reporting 
+structure. This process 
+ensures that our disclosures 
+remain transparent,  
+robust, and progressively 
+aligned with emerging 
+international standards.A refreshed materiality 
+assessment was undertaken 
+with broad internal and 
+external stakeholder 
+engagement across  
+our global operations.  
+This process helped identify 
+and prioritise the most 
+significant Environmental, 
+Social and Governance 
+(ESG) topics, ensuring that 
+our sustainability strategy 
+and reporting remains 
+aligned with Hansen’s 
+broader business strategy 
+and reflects the expectations 
+of investors, customers,  
+and regulatory bodies.FY25 ROADMAP PROGRESS
+Sandro Peluso Vitznauerstock with view of 
+Lake Lucerne Switzerland
+15
+Annual Report 2025 Hansen Technologies Ltd

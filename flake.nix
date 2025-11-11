@@ -20,7 +20,7 @@
           fi
           . .venv/bin/activate
           python -m pip install --no-input --upgrade pip >/dev/null 2>&1
-          python -m pip install --no-input "openai==2.7.1" openpyxl requests tqdm PyPDF2 rapidfuzz camelot-py[cv] tiktoken pycryptodome >/dev/null 2>&1
+          python -m pip install --no-input "openai==2.7.1" openpyxl pandas plotly dash requests tqdm PyPDF2 rapidfuzz camelot-py[cv] tiktoken pycryptodome llama-cpp-python >/dev/null 2>&1
         '';
       };
     });

@@ -1,0 +1,123 @@
+=== Page 1 ===
+INDEPENDENT ASSURANCE STATEMENT  
+ 
+ 
+To the Stakeholders of Northern Star Resources Limited (“Northern Star”)  
+ 
+Conclusion  
+Reasonable Assurance Conclusion  
+In our opinion, the total Scope 1 and Scope 2 Greenhouse Gas (GHG) emissions of 836,894 tCO 2eq and 467,881 tCO 2eq reported by Northern Star, 
+along with the associated GHG emissions methods, assumptions, and estimation uncertainty within the scope of our reasonable a ssurance engagement, 
+are fairly presented and prepared in all material respects in accordance with the Reporting Criteria, as disclosed in Northern Star's Environment and Social 
+Responsibility (ESR) Disclosure Suite (“the ESR Suite”) for the period of 1st July 2024  to 30th June 2025 . 
+ 
+Limited Assurance Conclusion  
+Based on the procedures  we have performed and evidence we have obtained, nothing has come to our attention that causes us to believe  the Sustainability 
+Information, including associated methods, assumptions, and estimation uncertainty within the scope of our limited assurance engagement , included  in 
+Northern Star's ESR Suite for the period of 1st July 2024  to 30th June 2025 , is not fairly presented and prepared, in all material  respects, in accordance 
+with the Reporting Criteria, . 
+ Scope of the Assurance Engagement  
+The scope of assurance was limited to the Sustainability Information and Greenhouse Gas (GHG) emissions related to Northern S tar's operating assets: 
+Kalgoorlie Production Centre, Yandal Production Centre, Pilbara Operations, Pogo Production Centre, Perth Corporate Office, and Exploration, for the 
+period of 1
+st July 2024 to 30th June 2025.  
+ 
+We performed a reasonable assurance engagement over Northern Star's Scope 1 and Scope 2 GHG emissions. We also conducted a li mited assurance 
+engagement over the Sustainability Information presented within the GRI Index of the ESR Suite.  
+ Our assurance engagement does not extend to any other information included in the ESR Suite or information from earlier periods. We have not performed 
+any procedures on the excluded information and, therefore, do not express any conclusion on it.  
+ 
+Reporting Criteria  
+The reporting criteria used for the reporting of the Sustainability Information subject to assurance are the GRI Standards is sued by the Global Sustainability 
+Standards Board (GSSB). The ESR Suite was prepared in accordance with the GRI Standards including the reporting principles and additional 
+requirements specified  in GRI 1: Foundation 2021.  
+ 
+The reporting criteria used for the reporting of the GHG emissions are the GHG Protocol  Corporate Accounting and Reporting Standard (Revised Edition) 
+(2015) issued by the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD) and G RI Standards.  
+ 
+Northern Star ’s Responsibilities  
+Management of Northern Star was responsible for:  
+- Selecting and establishing suitable reporting criteria for preparing the disclosures  subject to assurance.  
+- Preparing and presenting the disclosures  in accordance with the Reporting Criteria.  
+- Designing, implementing, and maintaining internal controls relevant to the preparation of  the disclosures  that is free from material misstatement 
+whether due to fraud or error . 
+- Advising us of any known or suspected issues related to the disclosures . 
+ Inherent Uncertainty in preparing GHG disclosures  
+The GHG quantification is subject to inherent uncertainty because of incomplete scientific knowledge used to determine emissions factors and the values 
+needed to combine emissions of different gases .  
+ 
+Our Responsibilities  
+Bureau Veritas  Australia Pty Ltd (“Bureau Veritas”)  was responsible for:  
+- Planning and performing the engagement to obtain the intended level of assurance about whether the disclosures  are free from material 
+misstatement, whether due to fraud or error . 
+- Forming an independent conclusion based on the procedures performed and evidence obtained.  
+- Reporting our conclusion to the Directors of Northern Star . 
+ 
+Bureau Veritas was not involved in the drafting of the ESR Suite and our independence has not been compromised.  
+ 
+Summary of Work Performed  
+Our reasonable assurance engagement on the GHG emissions was performed in accordance with ISAE 3410 Assurance Engagements on Greenhouse 
+Gas Statements  issued by the International Auditing and Assurance Standards Board (IAASB ).
+
+=== Page 2 ===
+INDEPENDENT ASSURANCE STATEMENT  
+ 
+ 
+ 
+ 
+ 
+ 
+Our limited assurance engagement on the Sustainability Information was conducted in accordance with ISAE 3000 Assurance Engagements other than 
+Audits or Reviews of Historical Financial Information issued by IAASB , and informed by Bureau Veritas' standard procedures and guidelines for external 
+verification and assurance of ESG Information and Sustainability Reports  
+ 
+Our work was planned and executed in a manner designed to produce the intended  level of assurance and to provide a sound basis for our conclusions.  
+ 
+The procedures we performed were based on our professional judgement and included enquiries, observation of processes perform ed, inspection of 
+documents, analytical procedures, evaluating the appropriateness of quantification methods and reporting policies , and agreeing or reconciling with 
+underlying records. In undertaking our assurance engagement, our procedures comprised:  
+ 
+- Review of the suitability and application of the Reporting Criteria used as the basis for preparing the disclosures . 
+- Enquiries of Northern Star representatives to gain an understanding and evaluate implementation of processes , systems  and internal controls  
+to collect, aggregate, calculate, analyse and report the disclosures . 
+- Enquiries of personnel  responsible for the performance of the processes and preparation of the disclosures . 
+- Review of documentary evidence produced by Northern Star representatives .  
+- Comprehensive performance data testing, involving source verification as well as mathematical accuracy of the calculations pertaining the 
+disclosures.  
+- Assessment of whether the methods for developing estimates are appropriate and had been consistently applied.  
+- Review of the presentation and disclosure of the Sustainability Information and GHG emissions within the ESR Suite.  
+- Request  of Management Representation Letter on key assertions.  
+ 
+The scope of a limited assurance engagement is significantly narrower than a reasonable assurance engagement. This includes f ewer risk assessment 
+procedures, a more limited understanding of internal controls, and less extensive responsive testing. Consequently, the level of assurance obtained in a 
+limited engagement is substantially lower than a reasonable assurance. Even a reasonable assurance engagement, while providing a high level of assurance, does not guarantee the detection of all material misstatements, should they exist.  
+ 
+Inherent  Limitations and Exclusions  
+Excluded from the scope of our work is any assurance of information relating to:  
+- Activities outside the defined reporting period.  
+- Statements of commitment to, or intention to undertake future actions by Northern Star . 
+- Statements of position, opinion, belief and/or aspiration by Northern Star .  
+- Financial data audited by an external third party.  
+- Other sites and/or activities not included in the scope.  
+ 
+This independent assurance statement should not be relied upon to detect all errors, omissions or misstatements that may exis t within the ESR Suite . 
+ 
+Statement of Independence, Impartiality , Competence  
+Bureau Veritas is a global leader in Testing, Inspection and Certification (“TIC”) services  whose  mission is to support its clients complying with regulations, 
+managing risks and improving performance to meet the challenges of quality, health, safety, hygiene, environmental protection and social responsibility. 
+Leveraging its renowned expertise, as well as its impartiality, integrity and independence, Bureau Veritas has helped build t rust between companies, 
+public authorities and consumers for nearly 200 years  (https://group.bureauveritas.com/ ).  
+ Bureau Veritas operates a quality management system across its activities and has implemented a robust Code of Ethics to maintain high ethical standards 
+among its personnel and business partners in their day -to-day business activities. We are particularly vigilant in the prevention  of conflicts of interest.  
+ 
+No member of the assurance team has a business relationship with Northern Star , its Directors  or Managers beyond that required of this assignment. We 
+have conducted this assurance engagement independently and there has been no conflict of interest.  
+ 
+The assurance team was selected based on its extensive i ndustry sector knowledge and experience in conducting independent verification, validation 
+and assurance of Environmental Social and Governance (ESG) information and associated systems and processes.  
+  
+Bureau Veritas Australia Pty Ltd  
+20
+th August 2025  
+ Jeremy Leu  
+General Manager, Perth, Australia

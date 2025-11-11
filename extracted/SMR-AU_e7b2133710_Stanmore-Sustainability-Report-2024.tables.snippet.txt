@@ -1,0 +1,365 @@
+=== Table 1 (page 2) ===
+1.,ABOUT THIS REPORT,1,6.,COMMUNITY,40
+1.1,Reporting Scope and Boundary,2,6.1,Local Communities,42
+1.2,Reporting Framework,3,6.2,Land and Resource Rights,48
+1.3,External Assurance,3,6.3,Economic Benefits,51
+2.,INTRODUCTION,4,7.,CLIMATE,54
+2.1,A Message from the,,7.1,Governance,56
+,Chief Executive Officer,4,,,
+,,,7.2,Strategy,57
+2.2,Highlights,6,,,
+,,,7.3,Risk Management,66
+,,,7.4,Metrics and Targets —,
+3.,OUR BUSINESS AND PERFORMANCE,8,,,
+,,,,Scope 1 and 2 Emissions,67
+3.1,Our Business,8,,,
+,,,8.,ENVIRONMENT,70
+3.2,Our Operations,11,,,
+3.3,Operational Changes,14,8.1,Environmental Management,
+,,,,and Compliance,72
+3.4,Our Value Chain,15,,,
+,,,8.2  Water,,73
+3.5,Financial and Operational Performance,15,,,
+,,,8.3,Sustainable Land Use and Biodiversity,75
+4.,OUR APPROACH TO SUSTAINABILITY,16,8.4,Rehabilitation and Mine Closure,78
+,,,8.5  Waste,,79
+4.1,A Message from the Chair,,,,
+,of the Sustainability Committee,16,8.6,Air Quality and Noise,81
+4.2,Sustainability Committee,18,,,
+,,,9.,GOVERNANCE,82
+4.3,Key Sustainability Milestones in 2024,19,,,
+4.4,Our Material Topics,20,9.1,Board Details,84
+4.5,Stanmore NextGen,22,9.2,Corporate Governance Framework,86
+,,,9.3,Anti-Corruption and Bribery,87
+5.,PEOPLE,24,,,
+,,,9.4,Modern Slavery,89
+5.1,"Health, Safety and Wellbeing",26,9.5,Compliance with Laws,
+,,,,and Regulations,89
+5.2,Employment Practices,34,,,
+5.3,"Workforce Development,",,,,
+,,,10.,APPENDICES,91
+,Retention and Inclusion,36,,,
+,,,Appendix 1: GRI Content Index,,91
+,,,Appendix 2: Glossary of Terms,,103
+,,,CORPORATE DIRECTORY,,104
+
+=== Table 2 (page 19) ===
+to sustainability. We will continuously enhance our,
+"strategies, navigate emerging challenges, and explore",
+new ways to embed sustainability into our daily operations.,
+We will achieve the regulated reduction in operational,
+,2024 has seen an evolution of
+"emissions by 2030, meeting our obligations of the",
+"Safeguard Mechanism. In parallel, we remain committed to",regulatory and reporting
+"enhancing the accuracy, consistency, and transparency of",
+,expectations... we have taken
+our ESG data and reporting to ensure stakeholders have,
+clear insights into our progress.,important steps in preparing
+As we look ahead with enthusiasm for the continued,"for future Scope 3 reporting,"
+,
+"evolution of our sustainability journey, I would like to",recognising the importance of
+"sincerely thank our dedicated employees, partners, and",
+,understanding and addressing
+stakeholders for their support and meaningful contributions.,
+,our full value chain emissions.
+Your commitment and collaboration have been,
+"instrumental in driving our progress. Together, we will",
+
+=== Table 3 (page 20) ===
+shareholders,,,
+OCTOBER 2024 >,NOVEMBER 2024 >,NOVEMBER 2024 >,NOVEMBER 2024 >
+NGER Reasonable,Social Performance,Climate-Related,Initial Scope 3
+Assurance Audit,Framework updated,Risk Management,upstream emissions
+completed,and associated,Procedure finalised,assessment
+,documents developed,,undertaken
+
+=== Table 4 (page 57) ===
+"1.  About  
+3.  Our Business and",5. People,"7. Climate
+9. Governance",
+"This Report
+Performance",,,
+"2. Introduction
+4.     Our Approach",6. Community,"8.  Environment
+10. Appendices",
+to Sustainability,,,
+Material Topics and Related UN SDGs,,We are an active participant in the,
+Climate,,industry’s response to addressing,
+,,,
+"Adaptation,",,climate challenges.,
+Resilience and,,,
+Transition,,,
+Energy,,,
+Consumption and,,,
+Greenhouse Gas,,,
+Emissions,,,
+Objectives,,,
+•   Reduce greenhouse gas (GHG) emissions (Scope 1 and 2),,,
+taking into consideration economic and technical factors,,,
+•  Refine climate change adaptation/mitigation strategies,,,
+•   Report in accordance with the Australian Accounting,,,
+Standards Board (AASB) S2 climate-related disclosures,,,
+•   Consider climate-related risks and opportunities in,,,
+formal business decision-making,,,
+•   Prepare for future mandatory Scope 3 emissions reporting.,,,
+Targets,,,
+•   Reduce net Scope 1 greenhouse gas (GHG) emissions,,,
+intensity (tCO2-e/ROM t) in accordance with Safeguard,,,
+Mechanism requirements in alignment with Australia’s,,,
+national climate targets,,,
+•   Continue to investigate lower-carbon-emissions fuels,,,
+and on-site optimisation strategies,,,
+•   Collect and analyse Scope 3 emissions data for,,,
+future disclosures.,,,
+,,Stanmore  |  Sustainability Report 2024,55
+
+=== Table 5 (page 62) ===
+Decarbonisation,,
+Pillars,Focus Areas,Priority Areas 2025
+Study and Monitor,•  Study current technology for diesel,Progressing further studies on a small
+,replacement,number of existing technologies
+,,(e.g. dual-fuel trucks) while monitoring the
+,•  Monitor developing technologies for,
+,,readiness of other technologies still
+,future adoption,
+,,under development (e.g. battery-electric
+,•  Regular market scan for emerging,
+,,haul trucks).
+,technologies.,
+SWC Power Station,•  Develop power station and gas drainage field,Progressing South Walker Creek (SWC)
+,,Gas to Electricity Project. SWC’s
+,•  Construct integration infrastructure,
+,,fugitive emissions represent the
+,•  Supply SWC behind the meter and export,
+,,biggest opportunity for Stanmore to
+,the excess.,
+,,reduce emissions.
+Fugitive Emissions,•  Understand changes to regulations around,Working with the Australian Government
+Accounting,open cut reporting,to resolve legislative uncertainty around
+,,gas drainage in open-cut mines regarding
+,•  Open cut drainage study to build certainty,
+,,emissions reporting.
+,on targeting specific gas that can be claimed,
+,as an emission reduction,
+,•  Exploration and gas testing to form,
+,NGERS-compliant data sets.,
+Scope 2 Reductions,•  Align reduction goals with Queensland,Aligning Scope 2 emission reduction
+,electricity grid,goals with the Queensland electricity
+
+=== Table 6 (page 64) ===
+Our Decarbonisation Plan underpins future activities in the
+"years to come through a phased approach. At Stanmore,"
+we have prioritised abatement opportunities at specific
+"facilities, including South Walker Creek and Poitrel. Fugitive"
+emissions have been identified as a significant contributor
+"to our overall Scope 1 emissions, accounting for 48% of our"
+"Scope 1 emissions. As a result, we are focusing on reducing"
+these emissions across our facilities. In the short to
+"medium term, we have prioritised the reduction of fugitive"
+emissions at our South Walker Creek facility through the
+use of gas for the power station.
+
+=== Table 7 (page 66) ===
+"In August 2024, Stanmore proudly announced securing",While we have a strong commitment to pursuing
+funding from the Queensland Government’s Low Emissions,"decarbonisation of our operations, Stanmore will continue"
+Investment Partnerships (LEIP) program to advance the,to purchase carbon offsets to meet our decarbonisation
+innovative Gas to Electricity Project at South Walker Creek.,"requirements. In 2024, we expanded our commercial"
+This groundbreaking initiative aims to drain gas from the,relationships to streamline the trading of Australian Carbon
+coal seams being mined at South Walker Creek in advance,Credit Units (ACCUs). While we progress our emissions
+of mining activities. By harnessing the methane that would,"reduction projects, carbon offsetting remains an important"
+"otherwise be released as fugitive emissions, we will convert",part in our and other hard-to-abate sectors
+it into on-site power for the mine. This approach will reduce,decarbonisation journey. Stanmore only purchases ACCUs
+Scope 1 and 2 emissions at South Walker Creek. As we,that are verified and certified by the Australian Government
+continue to evaluate our gas resource and establish reliable,through the Clean Energy Regulator.
+"supply, we plan to explore additional opportunities to",
+,In line with our strategic imperative to ‘Embrace our
+expand our drainage activities. This could lead to further,
+,"Sustainability Journey’, we launched the Energy Saver"
+"beneficial uses of gas, both on and off-site.",
+,Challenge in late 2023. This internal initiative encourages
+"In 2024, we also conducted a site-specific study to assess",the identification and evaluation of sustainability
+"diesel replacement options, aiming to identify technologies",opportunities to reduce energy consumption and associated
+"that offer the suitability, carbon reduction benefits, and",emissions. Employees can submit energy saving ideas for
+business case to justify their implementation. Several,"assessment, and if a real business benefit can be realised,"
+options were ruled out due to high capital costs and,individuals may be eligible for a financial reward based on
+"minimal emissions reduction potential. However,",the project’s impact. This initiative helps to support positive
+"alternatives such as dual-fuel trucks, electric excavators,",environmental outcomes aimed at reducing our emissions
+"draglines and shovels, and in-pit crushing conveying",intensity and sustainability improvement.
+systems were identified for further study.,
+,"At South Walker Creek, we implemented a new hybrid"
+Additional engineering and change management,battery/diesel generator for our mobile crib hub. Previously
+assessments will be undertaken in 2025 to inform the,"powered by a 250 KVA generator, the new system utilises a"
+implementation of these opportunities. While some,"smaller 125 KVA generator, effectively reducing diesel"
+technologies were considered not viable in the near term,consumption. Smart metering technologies allow the
+"due to scalability and cost concerns, we will continue to","generator to charge batteries, which then supply power to"
+monitor these developments as part of our long-term,"the crib hut. In times of peak demand, the battery and"
+decarbonisation strategy.,generator both supply power to the building. This system
+,reduces diesel consumption while meeting energy
+Scope 2 emissions represent approximately 10% of,
+,requirements of the crib hut.
+emissions (excluding Scope 3). Offsetting Scope 2,
+emissions can be achieved with behind-the-meter,These endeavours underscore our commitment to
+renewables or an alternative is to enter into a green,reducing our operational carbon footprint and positioning
+Power Purchase Agreement (PPA) with other renewable,Stanmore as a leader in environmentally responsible
+providers. Stanmore continues to evaluate electricity,mining operations.
+"procurement strategies with our account managers,",
+"considering green PPAs where feasible. Furthermore,",
+Stanmore has partnered with a renewable energy,
+developer to assess the potential for small-scale solar,
+projects at our Poitrel and Isaac Plains facilities. While these,
+"opportunities are being further assessed, we acknowledge",
+that the Queensland Government has a renewable energy,
+"target of 50% by 2030 and 80% by 2050, which will",
+contribute to lowering Stanmore’s Scope 2 emissions.,
+
+=== Table 8 (page 69) ===
+7.4  Metrics and Targets — Scope 1 and 2 Emissions,
+,reduced efficiency over time as extraction moves deeper.
+"Each year, we report our Scope 1 and 2",
+,"At certain stages, significant overburden must be moved to"
+greenhouse gas (GHG) emissions to the Clean,
+,"enable future coal extraction, which can temporarily impact"
+Energy Regulator as part of our compliance,
+,energy efficiency when measured against a run of mine
+with Australia’s National Greenhouse and,"(ROM) coal production. In 2024, our energy efficiency —"
+Energy Reporting (NGER) Scheme. This,measured against ROM tonnes — declined by approximately
+,20% year-on-year. This was primarily driven by additional
+reporting also includes the disclosure of our,
+,overburden movement at Isaac Plains and South Walker
+"energy consumption and production,",
+,Creek compared to 2023.
+ensuring transparency and accountability in,
+our environmental performance.,Greenhouse Gas Emissions
+,Greenhouse gas (GHG) emissions from our mining and
+Energy,
+,processing activities remain a key focus for Stanmore and
+,are central to our Sustainability Roadmap.
+Recognising that our extraction and processing activities,
+"are energy intensive, we intend to reduce, optimise and",
+,As a producer of metallurgical coal operating within a global
+transition the energy consumption of our operations.,
+,"supply network, we acknowledge our contribution to global"
+The primary source of energy consumed for our activities,
+,GHG emissions through Scope 3 emissions associated with
+"is diesel fuel, used for combustion in plant, equipment",
+,the end use of our coal. We recognise that emissions
+"and machinery, and the consumption of grid-purchased",
+,generated both upstream and downstream of our
+electricity for processing and utility uses.,
+,"operations, stem from activities beyond Stanmore’s direct"
+,"ownership or control, including those from our suppliers and"
+"We continue to explore, assess and implement opportunities",
+,the utilisation of Stanmore products by our customers.
+"to enhance the energy efficiency of our operations. However,",
+we recognise that the nature of mining often leads to,
+
+=== Table 9 (page 69) ===
+Emissions and Energy Consumption,,,,
+Indicators,Unit,FY22,FY23,FY24
+Production,,,,
+Total ROM Production,KT,"16,718","18,757","18,810"
+Energy Consumption and Energy Intensity,,,,
+Total Energy Consumed (Liquid Fuels Combustion),GJ,"4,544,365","5,967,855","7,468,387"
+Total Energy Consumed (Electricity and Liquid,GJ,"469,252","795,776","741,229"
+Non-Fuels Combustion),,,,
+Total Energy Consumed,GJ,"5,013,617","6,763,631","8,209,616"
+Energy Intensity,GJ/ROM t,0.300,0.361,0.436
+Emissions and Emissions Intensity,,,,
+Total Scope 1 Emissions,tCO2-e,"582,483","797,805","997,048"
+Total Scope 2 Emissions,tCO2-e,"114,865","109,674","111,075"
+Total Emissions,tCO2-e,"697,348","907,479","1,108,123"
+Emissions Intensity,tCO2-e/ROM t,0.042,0.048,0.059
+Note: values above for period 1 July to 30 June.,,,,
+
+=== Table 10 (page 70) ===
+,,In line with Australia’s National Greenhouse and Energy
+,,"Reporting (NGER) scheme, we do not currently report"
+Relative Greenhouse Gas Emissions by Source,,
+,,"Scope 3 emissions. However, we are actively preparing for"
+,,relevant data collection and future reporting to align with
+,,"AASB S2 requirements, which will mandate disclosure of"
+,,these emissions.
+,,"As with our energy intensity, our GHG emissions intensity"
+,,increased year-on-year when measured against ROM
+,,tonnes. This was driven by the increased overburden
+45%,45%,
+,,movement at our Isaac Plains and South Walker Creek
+,,"mines. Additionally, at Poitrel, mining has progressed into"
+,,"an area of higher methane content, resulting in elevated"
+,,fugitive emissions per tonne compared to 2023.
+
+=== Table 11 (page 70) ===
+CASE STUDY
+Dragline DC to AC Upgrade Project
+"In July 2024, our Dragline 27 (DRE 27) at"
+South Walker Creek walked off the pad having
+completed its conversion from a direct current
+system (DC) to an alternating current system
+(AC). This conversion makes South Walker Creek
+the first Australian coal mine to have a fully
+converted fleet from aging DC rotating
+equipment to new AC rotating and control.
+"The conversion to AC equipment improves the safety,"
+reliability and operational efficiency of the dragline.
+The upgrade provided standardisation between the
+two draglines onsite at SWC and allows reduced
+maintenance and production improvements. The new
+AC drives also offer better control over motor speed
+and torque compared to traditional DC systems
+resulting in less energy loss. This will reduce the
+"overall energy consumed by DRE27, reducing"
+associated Scope 2 emissions.
+
+=== Table 12 (page 98) ===
+,,,,,GRI SECTOR
+,,REPORT,DATABOOK,,STANDARD
+GRI STANDARD,DISCLOSURE,LOCATION,LOCATION,NOTES,REFERENCE
+Tax,,,,,
+GRI 207: Tax 2019,207-1 Approach to tax,"Payments to Governments,",,,SS 12.21
+,,p.88,,,
+,207-4 Country-by-country,"Payments to Governments,",Databook: Economic,,SS 12.21
+,reporting,p.88,Contribution,,
+Energy,,,,,
+GRI 302: Energy,302-1 Energy consumption within,Climate: Metrics and,Databook: Energy,,SS 12.1
+2016,the organization,Targets — Scope 1 & 2,Use,,
+,,"Emissions, p.67–69",,,
+,302-3 Energy intensity,Climate: Metrics and,Databook: Energy,,SS 12.1
+,,Targets — Scope 1 & 2,Use,,
+,,"Emissions, p.67–69",,,
+Water and effluents,,,,,
+GRI 303: Water and,303-1 Interactions with water as a,"Water, p.73–74",,,SS 12.7
+Effluents 2018,shared resource,,,,
+,303-2 Management of water,"Water, p.73–74",,,SS 12.7
+,discharge-related impacts,,,,
+,303-3 Water withdrawal,"Water, p.73–74",Databook: Water,,SS 12.7
+,303-4 Water discharge,"Water, p.73–74",Databook: Water,,SS 12.7
+,303-5 Water consumption,"Water, p.73–74",Databook: Water,,SS 12.7
+Biodiversity,,,,,
+GRI 304:,"304-1 Operational sites owned,",Sustainable Land Use and,,,SS 12.5
+Biodiversity 2016,"leased, managed in, or adjacent to,","Biodiversity, p.75–77",,,
+,protected areas and areas of high,,,,
+,biodiversity value outside protected,,,,
+,areas,,,,
+,304-2 Significant impacts of,Sustainable Land Use and,,,SS 12.5
+,"activities, products and services on","Biodiversity, p.75–77",,,
+,biodiversity,,,,
+,304-3 Habitats protected or,Rehabilitation and Mine,Databook: Land,,SS 12.5
+,restored,"Closure, p.78",Management,,
+,304-4 IUCN Red List species and,Sustainable Land Use and,,Information pertaining to,SS 12.5
+,national conservation list species,"Biodiversity, p.75–77",,this disclosure was only,
+,with habitats in areas affected by,,,partially available for this,
+,operations,,,reporting period. We are,
+,,,,working on our data,
+
+=== Table 13 (page 99) ===
+,,,,,GRI SECTOR
+,,REPORT,DATABOOK,,STANDARD
+GRI STANDARD,DISCLOSURE,LOCATION,LOCATION,NOTES,REFERENCE
+Emissions,,,,,
+GRI 305: Emissions,305-1 Direct (Scope 1) GHG,Climate: Metrics and,Databook:,,SS 12.1
+2016,emissions,Targets — Scope 1 & 2,GHG Emissions,,
+,,"Emissions, p.67–69",,,
+,305-2 Energy indirect (Scope 2),Climate: Metrics and,Databook:,Information pertaining to,SS 12.1
+,GHG emissions,Targets — Scope 1 & 2,GHG Emissions,this disclosure was only,
+,,"Emissions, p.67–69",,partially available for this,
+,,,,reporting period. We are,

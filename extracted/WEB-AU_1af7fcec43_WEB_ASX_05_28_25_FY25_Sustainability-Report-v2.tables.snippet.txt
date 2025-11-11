@@ -1,0 +1,86 @@
+=== Table 1 (page 18) ===
+FY25 IN REVIEW. (CONTINUED),,
+,,Location and market-based definitions
+Carbon emissions performance,,
+,,Location-based emissions use average emission
+,,factors for the geographic location where energy is
+,"FY25
+Scopes",
+,,"consumed, while market-based emissions reflect a"
+,,"company’s specific energy choices and contracts,"
+,"Scope 1
+227.22",
+,,including renewable energy purchases. Both are
+,"Scope 2 (Location-based)
+828.20",included for completeness in Web Travel Group’s
+,,"reporting, and to reflect the Company’s purchase of"
+,"Scope 2 (Market-based)
+939.74",
+,,renewable energy in Malaysia.
+,"Scope 3 (Location-based)
+648,466",
+,,Breakdown of the Scopes
+,"Scope 3 (Market-based)
+648,559",
+,,Scope 1 emissions — consist of emissions relating
+,"Total Emissions (Location-based)
+649,521",to mobile fuel (petrol) combustion in fleet vehicles
+,,and fugitive emissions from air conditioning within
+,"Total Emissions (Market-based)
+649,726",
+,,Web Travel Group properties.
+,,Scope 2 emissions — include all electricity purchased
+•,"In September 2024, Webjet Limited underwent a demerger, resulting",
+,,for Web Travel Group operational locations.
+,in the formation of Webjet Group Limited to manage its former B2C,
+,,Scope 3 emissions — are emissions associated with
+,"businesses, leaving Webjet Limited operating the WebBeds B2B",
+,,Web Travel Group’s upstream and downstream business
+,business only. As a result a new emissions baseline for Webjet Limited,
+,(now Web Travel Group) has been established in FY25.,activities. These include indirect emissions sources
+•,Reporting year is 1st Apr 2024- 31st Mar 2025. Actual data was,"such as purchased goods and services, employee"
+,provided for half year (1st Apr 2024-30th Sep 2024) and then an uplift,commute and waste generated.
+,factor applied to project the full year emissions.,
+•,Emissions calculated in this report have been assessed in line with,
+,the Greenhouse Gas Protocol Standard and Greenhouse Gas Scope,Breakdown of Web Travel Group’s
+,3 Standard methodology and prepared in line with the operational,
+,,Scope 3 emissions
+,control consolidation approach.,
+•,Emission sources from all properties owned and leased by,
+,Web Travel Group have been included in the footprint’s boundary which,
+,includes all 25 facilities leased globally.,Cat 11: Use of sold
+•,Both Location-based and Market-based emissions were calculated for,products 94.21%
+,Scope 2 and Scope 3 Category 3 emissions for completeness.,
+•,"Category 11: Use of Sold Products contributed 94% of emissions,",
+,followed by Category 1: Purchased Goods and Services and Category,
+,"2: Capital Goods, contributing 2.5% and 2.1%, respectively. These",
+,figures have used the Market-based approach.,
+•,"Activity or spend data was used for the footprint calculation, where a",
+,"data gap existed, an estimation was made to fill the gap.",
+•,Scope 1 & 2 for fuel and electricity were calculated based on the actual,
+,consumption and Scope 1 refrigerants emissions were estimated,
+,based on the m2 area of sites.,
+•,"Scope 3 Categories 1, 2, 4, & 6 emissions were calculated based on",
+,the spend.,
+•,Scope 3 Category 3 emissions were calculated based on the actual fuel,
+,and electricity consumption.,
+•,Scope 3 Category 7 emissions were calculated based on the number,
+,,"Cat 1: Purchased goods  
+Cat 4: Upstream transportation"
+,"of full-time equivalent (FTE) employees, the expected proportion of",
+,,"and services 2.55%
+and distribution 0.003%"
+,"employees working from home, and the number of days per week",
+,,"Cat 2: Capital goods  
+Cat 5: Waste generated"
+,working from office. The average distance for commute and modes of,
+,,"2.10%
+in operations 0.05%"
+,transport were sourced from standard industry information.,
+•,Scope 3 Category 11 emissions were calculated per night stays in different,"Cat 3: Fuel- and energy- 
+Cat 6: Business travel 0.74%"
+,star rated sold accommodation and per spend for sold land transport.,"related emissions  
+Cat 7: Employee commuting"
+,,"(Market-based) 0.02%
+0.13%"
+"Data preparation was externally supported, and the Company",,

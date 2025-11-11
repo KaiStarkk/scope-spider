@@ -1,0 +1,270 @@
+=== Page 56 ===
+Sustainability Report.
+Climate Statements
+Basis of preparation
+Reporting framework
+This report represents the climate-related financial disclosures 
+(Climate Statements ) for Bank of Queensland Limited and its 
+controlled subsidiaries (collectively, BOQ , BOQ Group or the Group ) 
+for the year ended 31 August 2025. 
+This is the final year BOQ will prepare the Climate Statements 
+on a voluntary basis. From the year ending 31 August 2026, 
+BOQ will be required to prepare an annual sustainability report 
+in accordance with the mandatory climate-related financial 
+disclosure requirements of the Corporations Act 2001 (Cth) and 
+related requirements in the new Australian Sustainability Reporting 
+Standard AASB S2 Climate-related disclosures ( AASB S2 ).
+These Climate Statements have been prepared with reference 
+to AASB S2 and voluntary reporting framework the Global 
+Reporting Initiative ( GRI ) Standards, issued by the GRI. Data 
+used and included within the Climate Statements is for the 
+financial year ended 31 August 2025, unless otherwise stated. 
+The Climate Statements should be read in conjunction with 
+the accompanying notes on pages 60 to 62 and the Glossary 
+commencing on page 219.
+Governance
+Board oversight of climate-related risks and opportunities
+The Board is responsible for the oversight of environmental, social 
+and governance ( ESG ) and sustainability matters. The Board 
+oversees progress and approves changes to the Group’s climate and 
+sustainability-related priorities, including climate commitments.
+The Board is supported in this work by its Committees. Each 
+Committee has a Charter which sets out its purpose, composition, 
+and responsibilities. Committee Chairs report throughout the year 
+to the Board on their Committee's work. For further information on 
+the Board and its Committees, including Chairs and frequency of 
+meetings, see pages 37 to 38 in the Corporate Governance section 
+of this Annual Report.
+Below is a summary of the key Committees and their role in 
+overseeing sustainability-related matters.Climate matters considered in 2025
+The following is an outline of key climate-related matters that were 
+considered by the Board and its Committees in 2025:
+• BOQ’s Sustainability Commitments, including becoming a 
+signatory to UN Environment Programme Finance Initiative’s 
+(UNEPFI ) Principles for Responsible Banking  (UN PRB ) and 
+adopting the Guidance for Climate Target Setting for Banks  in 
+place of the Group’s prior commitments including on fossil fuel 
+extraction, and decision to discontinue BOQ’s Climate Active 
+Carbon Neutral Certification from 2025.
+• Oversight of strategic sustainability priorities, including 
+updates on:
+a) Stakeholder engagement and the annual Materiality 
+Assessment refresh;
+b) Carbon Market participation;
+c) Uplifts to sustainability governance; 
+d) Quantification of the Group’s greenhouse gas ( GHG ) 
+emissions; and
+e) Climate Risk Appetite (Target) setting activities.
+• Oversight of sustainability reporting and assurance activities 
+with a focus on preparing for mandatory climate-related financial 
+disclosures, and related obligations and guidance.
+• Oversight of training to Executive and Key Management 
+Personnel ( KMP ) on climate-related matters. 
+• Development of documents relating to Sustainability governance.
+Board Committee Roles and Responsibilities
+Board Audit Committee 
+(BAC )BAC oversees and monitors the Group’s sustainability-related reporting, ensuring transparency 
+and accountability. 
+In 2025, BAC reviewed the effectiveness of processes and controls in place for sustainability 
+reporting, and engagement with senior management, the external auditor and other relevant 
+stakeholders.
+Board Risk Committee 
+(BRC )BRC is responsible for overseeing BOQ’s management of Sustainability (ESG) risk and  
+related controls.
+In 2025, BRC confirmed Sustainability (ESG) remained a material risk for BOQ.
+Nomination and  
+Governance Committee  
+(NGC )NGC is responsible for ensuring the Board comprises Directors who collectively bring 
+appropriate skills, knowledge, experience, and independence to effectively oversee the Group’s 
+sustainability responsibilities. The Board Skills Matrix enables the Board to regularly assess its 
+collective capabilities and identify areas for ongoing development, and includes Sustainability & 
+Stakeholder Engagement as a requisite skill. 
+In 2025, the NGC oversaw the assessment of Directors against the Board Skills Matrix. For more 
+information see page 39 of the Corporate Governance section of this Annual Report.
+56
+Bank of Queensland Limited and its Controlled Entities
+
+=== Page 58 ===
+Sustainability Report.
+Strategy 
+BOQ recognises the importance of addressing climate change 
+and incorporating climate-related risks and opportunities 
+(CRROs ) into decision-making. The Group seeks to align its 
+climate aspirations with the Paris Climate Agreement. 
+BOQ also recognises that significant challenges lie ahead for both 
+global and local economies in transitioning to and achieving net-
+zero GHG emissions by 2050. A transition to net zero is dependent 
+on many factors, including the effectiveness of GHG emissions 
+reduction activities by BOQ’s customers, suppliers and partners, 
+as well as broader industry collaboration and government policy.
+Engaging with stakeholders
+During 2025, the Group reviewed its stakeholder engagement 
+approach, established a new Stakeholder Engagement Standard 
+and approved an annual engagement plan. The 2025 annual 
+engagement plan involved a range of stakeholders, with a focus 
+on primary users of the Climate Statements and Financial Report.
+For more information on our stakeholder engagement process 
+refer to the Sustainability Data Pack.
+ Identification of climate-related risks and opportunities
+Together with insights from environmental scans, BOQ's 
+stakeholder engagement identified BOQ’s potential exposure to 
+climate-related risks, and potential climate-related opportunities 
+for the Group. These CRROs were presented to the Sustainability 
+Committee for consideration in strategic decision-making. 
+BOQ acknowledges that it will need to develop and undertake 
+detailed qualitative and quantitative scenario analysis to better 
+understand the Group’s exposure to physical and transition 
+climate risks, including transmission pathways. For more 
+detail on our Climate Risk Management Roadmap, including 
+our evolving approach to scenario analysis, see the Risk 
+Management section of this report.
+Response to climate related-risks and opportunities 
+In September 2024, BOQ became a signatory to the Net-Zero 
+Banking Alliance ( NZBA ) and the UN PRB, aligning with the 
+Group’s commitment to the Paris Agreement and net-zero by 
+2050. While NZBA ceased operations in October 2025, BOQ 
+remains committed to implementation of UNEPFI’s Guidance 
+for Climate Target Setting for Banks . As a result, BOQ’s previous 
+climate targets and commitments were retired.
+During 2025, as part of implementing the UN PRB framework, and 
+in preparation for Australia's mandatory climate-related financial 
+disclosure requirements, the Group has quantified Scope 1 emissions, 
+Scope 2 emissions (location and market based) and Scope 3 
+operational emissions (Categories 1-14). In addition, the Group 
+has identified four key sectors within the lending and investment 
+portfolios where it has, or is most likely to have, the most significant 
+impact when seeking to align with pathways to net-zero by 2050.
+ Operational emissions
+ Financed emissionsIn 2026, BOQ intends to set and disclose appropriate near-term 
+science-based targets to align with UNEPFI’s Guidance for 
+Climate Target Setting for Banks , and with reference to the BOQ 
+RAS. In determining the level of climate transition risk the Group 
+might be willing to tolerate (risk appetite), BOQ is considering 
+convergence to science-based sectoral decarbonisation 
+pathways to represent triggers and limits (lower and upper 
+boundaries). This is distinct from performance targets, which the 
+Group may additionally adopt to measure progress against 
+climate action plans.
+In the near term and the longer term, this may involve working 
+directly with suppliers and customers to understand their:
+• Plans to reduce their reliance on fossil fuels across their  
+value chain; 
+• Pathways for a just and inclusive transition to a lower carbon 
+economy; and
+• Consideration of potential adverse impacts on people  
+and communities.
+Metrics and Targets
+Estimating BOQ’s GHG emissions is an important step in 
+quantifying the Group’s climate transition risk and identifying 
+where and how the Group can take meaningful action to reduce 
+negative climate impacts.
+In preparation for mandatory climate-related financial 
+disclosures, during 2025 BOQ continued enhancing processes 
+and controls in relation to the quantification of emissions. BOQ 
+also made progress on the Group’s estimate of GHG emissions 
+associated with financing activities (financed emissions), as an 
+important part of understanding CRROs.
+The methodologies and scientific knowledge underpinning 
+these estimates are detailed, complex and inherently uncertain. 
+As reasonably available data and methodologies improve, 
+and impacts of mandatory reporting on BOQ’s value-chain 
+stakeholders is better understood, BOQ generally expect 
+accuracy of emissions estimation to improve over time.
+See Notes to the Climate Statements for further details on 
+metrics and targets including definitions and methodology.
+Operational emissions
+BOQ remains committed to reducing operational emissions, 
+through consideration and management of the Group’s energy 
+usage and sourcing, and the procurement and retirement of 
+carbon credits where appropriate. Below is a summary of the 
+Groups operational emissions for the period.
+Scope 1 and 2 emissions 
+Absolute gross GHG emissions for the 
+financial year ended 31 August (tC0 2-e) 2025 2024
+Scope 1 emissions 270 328
+Scope 2 emissions – location-based 2,785 3,293
+Scope 2 emissions – market-based - -
+58
+Bank of Queensland Limited and its Controlled Entities
+
+=== Page 59 ===
+Scope 3 operational emissions
+Absolute gross GHG emissions for the 
+financial year ended 31 August (tC0 2-e) 2025 2024
+Category 1 & 2 Purchased goods and 
+services, Capital Goods27,175 30,515
+Category 3 Fuel- and Energy-Related Activities 96 83
+Category 4 Upstream Transportation and 
+Distribution474 511
+Category 5 Waste Generated in Operations 491 557
+Category 6 Business Travel 1,952 1,792
+Category 7 Employee Commuting 4,293 5,108
+Category 8 Upstream Leased Assets 1,146 1,378
+Category 12 End-of-Life Treatment of Sold 
+Products73 59
+Total Scope 3 operational GHG emissions 
+(categories 1-14) (tC0 2-e)35,700 40,003
+Categories 9-11, 13 and 14 were assessed as not relevant to BOQ’s 
+business model and therefore have not been disclosed.
+Use of Large-scale Generation Certificates 
+In 2025, BOQ met its commitment to source the equivalent of 100 
+per cent of electricity demands from renewables (2024: 100 per 
+cent) through the purchase of GreenPower and the purchase and 
+surrender of Large-scale Generation Certificates ( LGCs ). In meeting 
+this commitment, LGCs may be surrendered in advance, with 
+some LGCs then used to claim electricity consumed as renewable 
+during the reporting period, and other LGCs banked for use in 
+future reporting periods. LGCs used for the reporting period were 
+sourced from facilities on the East Coast of Australia where the 
+majority of BOQ facilities are located and to support the transition to 
+a lower carbon economy in the local communities BOQ serves. BOQ 
+continues to work with its partners on expanding the direct sourcing 
+of renewable electricity for its sites where possible.
+Below is a summary of BOQ’s LGC bank, and utilisation for the 
+reporting period:
+2025 2024
+Climate Active Carbon Neutral Certified 
+Organisation statusNo longer 
+certifiedCertified
+LGC bank opening balance 1,031 413
+LGC acquired and surrendered (2)- 2,000
+LGC used to claim electricity consumed  
+as renewable(652) (1,382)(1)
+LGC bank closing balance 379 1,031
+(1) Restated to align with new information from third party suppliers on procurement 
+of 100% GreenPower for several of BOQ's corporate offices and branches. BOQ's 
+Climate Active Public Disclosure Statement for FY24 reported this as 375.
+(2) LGCs may have been acquired and retired before or after the reporting period.Use of carbon credits
+BOQ’s priority is to operationalise direct emissions reductions. 
+BOQ recognises the role of carbon credits and has previously 
+relied on carbon credits to offset residual operational emissions. 
+The Group has not sought to renew its Climate Active Carbon 
+Neutral Certification beyond 2024.
+Below is a summary of BOQ’s carbon credit bank, and utilisation 
+for the reporting period:
+2025 2024 2023
+Climate Active Carbon Neutral 
+Certified Organisation statusNo longer 
+certifiedCertified Certified
+Total Scope 1, Scope 2 market-
+based and Scope 3 operational 
+emissions for the reporting 
+period (tC0 2-e)35,970 40,331 38,425 (1)
+Carbon bank opening balance 1,133 25,464 33,690 (2)
+Carbon credits acquired and 
+retired for the reporting period (4) - 16,000 62,500
+Carbon credits used to  
+offset emissions- (40,331) (38,425) (1)
+Carbon bank closing balance 1,133 1,133 25,464 (3)
+(1) Restated to align with information reported within BOQ's Climate Active Public 
+Disclosure for FY24. BOQ Group reported this as 30,199 in the FY24 Annual Report.
+(2) Restated to align with information reported within BOQ's Climate Active Public 
+Disclosure for FY24. BOQ Group reported this as 1,389 in the FY24 Annual Report.
+(3) Restated to align with information reported within BOQ's Climate Active Public 
+Disclosure Statement for FY23. BOQ Group reported this as 33,690 in the FY24 
+Annual Report.
+(4) Carbon credits may have been acquired and retired before or after the  
+reporting period.
+ 
+2025 Annual Report
+59

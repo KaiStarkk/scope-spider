@@ -1,0 +1,338 @@
+=== Page 6 ===
+NEXTDC supports a broad 
+range of industries, including:
+National critical 
+infrastructure
+Government
+Research and 
+education
+Technology and AI
+Machine learning
+Hyperscale cloud 
+providers
+Financial services
+Healthcare
+Telecommunications
+Media and 
+entertainment
+Retail and 
+e-commerce
+Professional 
+services
+FY25 sustainability highlights
+Environmental highlights
+ ▪NEXTDC’s M2 Melbourne was the first data 
+centre in the Asia-Pacific region to be awarded 
+an Uptime Institute Sustainability Award.
+ ▪NEXTDC’s KL1 Kuala Lumpur was awarded a 
+provisional Platinum rating, the highest rating 
+under Malaysia’s Green Building Index (GBI) for 
+the design of the facility.
+ ▪First deployment of direct liquid-to-chip cooling 
+as the primary solution supporting 50MW of IT 
+load.
+Social highlights
+ ▪Our inaugural Graduate Program launched 
+successfully in February 2025.
+ ▪Achieved a 75% employee engagement score on 
+our NXTPulse survey, with high levels of career 
+satisfaction, inclusion, and access to mental 
+health support highlighted across the business.
+ ▪Our Reflect Reconciliation Action Plan (RAP is 
+now on track for final submission and imminent 
+public launch, marking a significant step in our 
+reconciliation journey.
+ ▪We continued the Women Rising program to 
+support women’s leadership development, 
+alongside the Male Allies program to equip men 
+to champion gender equity.
+ ▪Strengthened supplier codes of conduct and 
+human rights due diligence across supply chain 
+in Asia. 
+Governance highlights
+ ▪Completed our first comprehensive and 
+independent Double Materiality Assessment.
+ ▪Implemented enhanced monitoring tools and 
+completed third-party audits on cybersecurity 
+and privacy controls aligned with ISO/IEC 27001.PUE 1.44 WUE 2.25 CUE 1.04
+Scope 2 emissions7 ,927 tCO₂-e 358,348 tCO₂-e  significant 
+environmental 
+incidents0 Scope 1 emissionsData centres
+operational17
+under 
+construction4
+in planning7On-site solar generation884,955 kWh
+80272.06%
+Landfill diversion
+hours volunteering
+Mental Health 
+First Aid Officers 
+globally56staff
+As of 30 June 2025
+Female 
+representation total31%
+Female Board 
+representation38%381
+LTIFR
+In our data centres1.4
+0
+In our construction projectsLTIFRTRIFR 1.4
+TRIFR 1.4Training completed for WHS88.2%
+Information 
+Security training96%
+Modern Slavery 
+training 97.3%6
+NEXTDC FY25 Environmental, Social and Governance Report
+
+=== Page 8 ===
+Sustainable procurement and 
+supply chains
+NEXTDC’s supply chain spans building 
+contractors, equipment 
+manufacturers, utility providers, and 
+technology and service partners. We 
+manage these relationships through 
+procurement practices that emphasise 
+sustainability, compliance, and ethical 
+conduct. While our direct influence 
+may lessen further upstream, we 
+promote responsible business 
+practices through our Supplier Code of 
+Conduct and ESG due diligence 
+processes. These include modern 
+slavery risk assessments, supplier 
+self-assessments and targeted ESG 
+questionnaires. Our approach is 
+grounded in a risk-based methodology 
+that helps identify and manage key 
+environmental, social, and governance 
+risks across the value chain, with an 
+emphasis on transparency, 
+accountability, and continuous 
+improvement.
+Design and innovation
+Our design and engineering teams 
+embed high-performance, scalable, 
+and sustainable infrastructure 
+principles from day one. This includes 
+modular builds, advanced cooling 
+systems, and automation-ready 
+facilities in order to futureproof our 
+operations. We also focus on climate 
+risk resilience and energy efficiency at 
+the design stage.
+Site selection and design
+NEXTDC’s value chain begins with 
+identifying and securing sites that 
+support our growth while minimising 
+environmental and community 
+impacts. Our site selection process 
+integrates sustainability considerations 
+such as energy security, water 
+availability and biodiversity.
+Customer success and digital 
+access
+NEXTDC supports a diverse 
+customer base with a global 
+footprint, focused on building 
+long-term, collaborative 
+relationships. Our customers rely on 
+us for reliable, secure, and 
+lower-carbon digital infrastructure. 
+Through initiatives like NEXTNeutral 
+and customised sustainability 
+reporting, we enable them to 
+progress their own ESG goals. 
+We’re also helping expand access 
+to secure, high-performance digital 
+services that underpin modern 
+digital economies.
+Capital works and 
+construction
+We deliver high-quality 
+digital infrastructure 
+through disciplined 
+capital works 
+execution. This 
+includes coordination 
+with utility providers, 
+regulators, and delivery 
+partners to ensure 
+on-time, on-budget 
+builds while managing 
+resource efficiency and 
+embodied carbon 
+outcomes.
+Operations
+Our data centres are optimised for 
+uptime, energy efficiency, and security. 
+Operations teams use digital 
+monitoring, AI-powered analytics, and 
+predictive maintenance to improve 
+resource performance.
+Emissions and circularity
+We measure Scope 1 and 2 emissions. Waste from operations and 
+construction is managed through recycling, reuse, and diversion from 
+landfill. Circular design principles are applied to reduce the lifecycle impacts 
+of our infrastructure.
+People
+At NEXTDC, we strive to be a leading employer by fostering a safe, 
+inclusive, and high-performing workplace. Globally, our people help drive a 
+culture of excellence and value creation. We are committed to protecting 
+the physical, mental, and social wellbeing of our workforce. Through strong 
+DE&I principles, comprehensive policies, and ongoing training, we nurture 
+talent and provide meaningful pathways for growth and development.
+Energy and water stewardship
+NEXTDC is taking a more conscious approach 
+to the resources and energy that support the 
+delivery of our data centres. We are prioritising 
+lower-carbon and embodied carbon materials in 
+construction, with a preference for those that 
+are locally sourced, supporting regional 
+suppliers and reducing emissions associated 
+with transport. We also recognise the 
+importance of managing long-term energy risks 
+and are progressively exploring opportunities to 
+transition to lower-emission energy sources. 
+This includes long-term sourcing of renewable 
+energy, co-locating with low emissions energy 
+sources, low-carbon alternate fuels, continuing 
+to invest in on-site solar generation where 
+feasible, and working closely with our partners 
+to identify solutions that support more 
+sustainable energy outcomes over time. 
+We continue to maintain a strong focus on 
+PUE and WUE. Water-based cooling is 
+preferred for its efficiency, and we  
+continue to fine-tune system  
+performance to reduce impact.
+Connectivity and partnerships
+With over 750 partners in our 
+ecosystem, we enable seamless 
+cloud, network, and digital platform 
+connectivity. Our partnerships with 
+digital, energy, and technology 
+providers help build more integrated, 
+resilient infrastructure across 
+Australia and the region.
+Community engagement
+We invest in local communities 
+through volunteering, charity 
+partnerships, and programs that 
+support skills development and 
+long-term resilience.
+End-user value creation
+Our operations create local 
+economic value through 
+employment, supply chain contracts 
+and investment in digital 
+infrastructure that provides a 
+material services. We prioritise local 
+supplier engagement and invest in 
+community initiatives focused on 
+STEM, inclusion, and digital 
+empowerment.Upstream Downstream
+ Own operations
+8
+NEXTDC FY25 Environmental, Social and Governance Report
+
+=== Page 9 ===
+Our material topics
+Our assessment identified 13 material topics from highest to moderate intensity. In addition, six topics were 
+identified as having peripheral materiality, including air quality, biodiversity, waste and circularity, health and 
+wellbeing, and Whistleblower protections. We will consider the materiality of these peripheral topics in future 
+materiality assessments. 
+The materiality matrix maps financial materiality on the horizontal axis and impact materiality on the vertical 
+axis. Topics appearing in the upper-right quadrant represent those most critical to NEXTDC, as they combine 
+both strong business relevance and substantial societal or environmental impact.
+A detailed table on the next page provides an overview of each material topic. It includes the topic definition, 
+its level of financial and impact materiality, associated risks and opportunities, and the management 
+approach, alongside the relevant GRI topic references.Understanding what matters most to our stakeholders 
+is fundamental to how we operate and grow 
+responsibly. While we have engaged with our key 
+stakeholders over many years and previously 
+undertaken impact materiality assessments, in FY25 
+we deepened and formalised our approach through 
+our first Double Materiality Assessment (DMA). This 
+shift reflects the growing complexity of stakeholder 
+expectations and the introduction of new sustainability 
+disclosure standards in Australia, ensuring our ESG 
+strategy remains relevant, balanced and future-
+focused. We engaged an independent advisory firm to 
+facilitate our DMA process, which allowed us to 
+refresh our understanding of the sustainability issues 
+that matter most, both to our stakeholders and to the 
+long-term success of our business.
+Our DMA aligned with best practice guidance from 
+global sustainability frameworks, including the GRI 3: 
+Material Topics standard to evaluate both:
+Impact Materiality
+How NEXTDC’s activities impact the 
+environment, society and economy.
+Financial Materiality
+How sustainability-related risks and opportunities 
+could affect NEXTDC’s financial performance.
+Outside in
+How society and/or 
+environment 
+impacts NEXTDC's 
+enterprise value.Inside out
+How NEXTDC impacts 
+society and/or the 
+environment.
+Double  
+materiality
+Planet and 
+societyOverview of our methodology
+The assessment was led by NEXTDC’s Sustainability 
+and Risk teams, with deep subject matter input from 
+across the business. To ensure rigour and objectivity, 
+we engaged an independent stakeholder advisory 
+firm, to ensure that help align our approach aligns with 
+evolving global standards and best practice.
+1. Desktop Research and Topic Identification 
+Publicly available sources were reviewed, including 
+peer disclosures, global frameworks (GRI, SASB, 
+CSRD, UN SDGs), investor and regulatory 
+expectations, and internal documents. Topics were 
+screened through market, regulatory, and strategic 
+lenses, then mapped across our value chain to assess 
+both actual and potential impacts.
+2. Stakeholder Engagement
+A diverse range of internal and external stakeholders 
+across key geographies were engaged through 
+one-on-one interviews with executives, Board 
+members, customers, and investors. We held a 
+dedicated materiality workshop with our ESG Council 
+and senior leaders, and conducted a broad stakeholder 
+survey designed to capture both qualitative and 
+quantitative insights.
+3. Assessment and Analysis
+Topics were assessed for their potential financial 
+impact based on likelihood, urgency, and risk 
+tolerance, with validation workshop refining findings, 
+prioritising emerging risks, and identifying value 
+creation opportunities.
+4. Finalisation and Prioritisation
+Topics were mapped across two dissension, impact 
+materiality (which is the effect on people, planet and 
+economy) and financial materiality (which is an 
+influence on enterprise value). The resulting double 
+materiality matrix provides a balanced view of our 
+priority ESG issues, enabling us to focus on what 
+matters most for stakeholders and long-term 
+resilience.Materiality
+Impact on stakeholders
+Financial impact on NEXTDC
+Key Protecting the Environment Social Empowerment  Responsible Governance  HIGHESTHIGHEST
+HIGHHIGH
+MODERATEMODERATE
+PERIPHERALPERIPHERALEnergy management
+Sustainability focused innovationESG governance
+Employee relations and benefitsCybersecurity and data privacy
+Water use and stewardship
+Climate change and GHG emissionsSafety management and performance
+Business ethics and transparencyDiversity, equity and inclusion
+Community impacts, rights and interests
+Customer relationship9
+NEXTDC FY25 Environmental, Social and Governance Report

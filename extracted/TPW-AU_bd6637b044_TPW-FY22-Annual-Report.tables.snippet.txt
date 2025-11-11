@@ -1,0 +1,32 @@
+=== Table 1 (page 23) ===
+Caring for the planet
+Carbon and energy management
+Climate change is one of the most significant crises of our time. It is clear that business as usual is no longer good enough.
+"Instead, businesses, communities and countries must step up their efforts to combat climate change by reducing the"
+amount of carbon they emit.
+"In FY21, we disclosed our intention to reduce our carbon footprint. In order to do this, we first needed to assess and"
+understand the scale of the issue in relation to our business.
+"In the current financial year, we partnered with an independent external carbon consultant, Carbon Neutral, to calculate our"
+"carbon footprint in line with the Greenhouse Gas Protocol Corporate Standard. Carbon emissions are classified as Scope 1,"
+Scope 2 and Scope 3.
+"Scope 1 emissions are direct emissions that occur as a result of operations that we control, such as the functioning of our"
+head office. Scope 2 emissions are indirect emissions that relate to the consumption of electricity. Scope 3 emissions are
+"also indirect emissions (not included in Scope 2) that occur in the value chain outside of our operational control, such as the"
+"manufacturing, transportation and disposal of our products."
+In FY22 we focused on emissions within our operational control and calculated Scope 1 and 2 emissions. This assessment
+found we emitted 197.21 tonnes of carbon dioxide equivalent in Scope 1 and Scope 2 emissions over the course of the
+year. We plan to add the measurement of our Scope 3 emissions – indirect emissions that occur through our value chain –
+in FY23.
+Following the calculation of our carbon inventory we will establish a carbon reduction plan in H1 of FY23 and set measurable
+"emission reduction targets for FY24. Our goal is to achieve a 45% carbon reduction by 2030, in line with the United Nations"
+Sustainable Development Goal (‘SDG’) on climate action.
+
+=== Table 2 (page 23) ===
+"emission reduction targets for FY24. Our goal is to achieve a 45% carbon reduction by 2030, in line with the United Nations",
+Sustainable Development Goal (‘SDG’) on climate action.,
+FY22 Key Achievements,Our Objectives
+COMPLETED CARBON,WE WILL OFFSET 100%
+ASSESSMENT,of our Scope 1 and 2 emissions from FY22
+of our Scope 1 and 2 emissions,in FY23
+,WE WILL COMMENCE PROCURING RENEWABLE
+,ENERGY for our head office in FY23

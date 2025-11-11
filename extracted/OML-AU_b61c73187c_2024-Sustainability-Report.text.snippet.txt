@@ -1,0 +1,356 @@
+=== Page 12 ===
+2. Upcoming Climate Related Financial Disclosures 
+oOh! is amongst the first tranche of Australian 
+businesses required to report under the Australian 
+Sustainability Reporting Standards (ASRS) mandatory 
+climate-related financial disclosures and will be 
+subject to the new standards for oOh!’s CY25 
+reporting year. Accordingly, the business is preparing 
+for the standards, and has already carried out work 
+to identify transition and physical climate-related 
+risks and opportunities to the business, including a 
+materiality assessment across the short, medium 
+and long-term, and against low warming and 
+high warming scenarios (in alignment with ASRS 
+requirements).
+The risk and opportunities work will be finalised 
+ready for full disclosure in the CY25 mandatory 
+climate-related financial disclosures report, however 
+preliminary findings are that:
+Physical Risk - Impacts from identified physical risks 
+(extreme heat, extreme rain and storm surges) are 
+immaterial across all tested scenarios and time 
+horizons^.  This is largely due to oOh!’s network being 
+so extensive that revenue loss due to compromised 
+sites impacted by extreme weather, can typically 
+be (and historically have been) reallocated and 
+retained, and secondly oOh!’s end of life asset 
+renewal plan is already well established, and asset 
+technology and advancements are constantly 
+evolving to manage extreme heat and moisture 
+exposure, making climate-related repair and 
+replacement costs immaterial in all tested scenarios.Transition Risk - exposure to electricity pricing as 
+Australia transitions to a low emissions economy has 
+been identified as oOh!’s most significant transition 
+risk. As oOh! continues to drive digitisation of assets 
+across our business, management of electricity 
+pricing is essential to minimise cost exposure. This 
+risk also poses our greatest opportunity to drive 
+innovation of more efficient digital product and 
+to seek out off-grid power opportunities. With an 
+annual spend of approximately $7m per annum on 
+electricity, and with a business model that includes 
+major digitisation plans, electricity pricing has been 
+determined by oOh! to be potentially material across 
+all scenarios and time horizons. Mitigation strategies 
+are in development to minimise our exposure to this 
+risk and maximise the opportunity. 
+oOh! welcomes the 
+new standards as a 
+critical step towards 
+greater transparency 
+and accountability in 
+addressing climate-
+related risks and 
+opportunities. 
+^There is a slight increase in risk of exposure to extreme heat in 2050 under the low warming scenario only, due to aerosol reductions in 
+the atmosphere, however given the extensive time horizon (2050) and plans already in place to manage heat related asset repairs and 
+replacement, we do not consider this information to be material.
+
+=== Page 14 ===
+What matters 
+most to our 
+stakeholders
+Our business has identified key sustainability topics by actively engaging with a range of stakeholders to 
+understand their priorities. This process ensures that our initiatives align with the concerns of our stakeholders 
+and address the issues that matter most to them. From 2022 to 2024, the ESG team has engaged with key 
+stakeholders via surveys and face-to-face meetings to gather valuable insights that help shape our approach 
+to sustainability. oOh!’s key stakeholders include:
+Investors
+AdvertisesCommercial 
+PartnersCommunitiesMedia 
+AgenciesGovernment 
+and CouncilsEmployees
+From this work, we identified oOh!’s material topics are:
+01.  
+Energy and emissions 
+reduction
+04.  
+Diversity, Equity, and 
+Inclusion02.
+Transparency and 
+accountability
+05.  
+Data privacy and cyber 
+security03.
+Employee health, safety, 
+and wellbeing
+06.
+Community engagement
+
+=== Page 15 ===
+1. Energy and emissions reduction
+oOh! is committed to reducing our operational 
+impact on the planet. We strive to be a sustainable 
+business for our customers and the communities in 
+which we operate. We aim to achieve this through 
+several considered approaches to decarbonisation 
+including energy reduction initiatives, circularity, 
+waste reduction and procurement with consideration 
+to energy efficiency.
+Our carbon footprint
+In last year’s Sustainability Report, oOh! shared 
+estimated figures for our CY22 carbon footprint 
+measurement for our Australian and New Zealand 
+operations. oOh!’s next footprint disclosure will be 
+CY25, in accordance with the ASRS climate-related 
+financial disclosures. This allows us the ability to 
+continue to refine our electricity-related data in 
+particular (across Scope 2 and Scope 3), which 
+is complex and high volume in our business, and 
+represents the majority share of our operational 
+footprint. 
+In alignment with our carbon footprint reduction 
+approaches, we have continued to invest in 
+renewable power options throughout 2024 (e.g. 
+GreenPower®/state equivalent or solar), with 
+our entire street furniture business, excluding WA, 
+now transitioned over to renewable power, this 
+represents a drop in our Scope 2 related emissions in 
+comparison to the reported CY22 number.
+Other than for business travel and as a component 
+of our NZ Toitu certification, we do not use offsetting 
+as a means to negate our carbon footprint. Instead 
+we are focusing on how we reduce our emissions, 
+although we are yet to set reduction targets. In 
+relation to business travel, we offset business flights, 
+accommodation and car rental that are booked 
+through our travel partner.  In CY24 we offset 
+546tCO2e of business travel related emissions against 
+a renewable energy project in South Asia and nature 
+conservation projects in Oceania. During CY24, 118 
+carbon units have been retired.
+The majority of oOh!’s Scope 3 emissions are those 
+associated with the electricity consumed through 
+our commercial partners and landlords. In these 
+instances, we are investigating ways we can access 
+renewable energy sources for the assets out of our 
+operational control, alongside other measures to 
+reduce the emissions of our capital goods & services.Our key area of focus as we decarbonise our 
+operations include:
+02
+Digital black 
+out trial03
+Electric 
+vehicle trial
+04
+Ecobanner™
+05
+Scope 3 energy emissions
+01
+Energy efficient assets and innovations
+
+=== Page 16 ===
+2. Transparency & Accountability
+oOh! is committed to being a transparent and accountable business, leading the advertising industry toward 
+a more sustainable future. We strive to foster ethical operations in our business, on our screens and throughout 
+our industry. We are doing this by embedding modern slavery safeguards, strengthening sustainable 
+procurement frameworks with a focus on vendor risk management, and ensuring the delivery of safe, 
+responsible advertising content on our platform. As Australia’s leading Out of Home company, we aim to drive 
+the industry’s commitment to sustainable practices forward.
+1. Sustainability Policy
+2. Procurement 
+framework
+3. Modern Slavery
+4. AI users and trials1. Regulations and 
+Standards
+2. Public Complaints
+3. Anti-Greenwashing 
+Guidelines1. OMA ESG 
+Committee
+2. Ad net Zero 
+Australia
+3. Campaign 
+Emissions ReportingOur commitment to 
+transition assets to LED 
+technology means the 
+power consumption is ~60% 
+less than equivalent LCD 
+displays in the market. 
+The lifespan of LED displays 
+is predicted to be at 
+least double that of LCD 
+displays used in outdoor 
+environments.  LED screens 
+also deliver a power saving 
+when darker creative is run.
+Our tests show that 
+predominantly black 
+creative can have a power 
+saving of 59% compared 
+to predominantly white 
+creative. We encourage our 
+clients to prioritise impactful 
+colours on our screens 
+however this testing is an 
+opportunity for clients to 
+measure different creative 
+options and test for the most 
+energy efficient version of 
+their campaign.01.02.03.04.05.
+As part of our commitment 
+to environmental 
+sustainability, we are proud 
+to report we are in the final 
+stages of integrating six 
+electric vehicles into our 
+fleet. The electric vehicles 
+have potential in delivering 
+both environmental and 
+operational benefits. 
+They produce zero tailpipe 
+emissions, minimizing the 
+main source of our Scope 
+1 emissions. We expect 
+them to be servicing our 
+assets by the end of Q1 
+2025 and will be actively 
+evaluating the performance 
+and outcomes to inform 
+future decisions regarding 
+the expansion of electric 
+vehicles into our fleet. 
+Our aim is to gradually 
+transition towards a more 
+sustainable transportation 
+model that benefits both 
+our organization and 
+environment.We are continually exploring 
+ways to reduce carbon 
+emissions resulting from 
+our operations. In 2024, 
+oOh! launched an energy 
+saving trial to assess the 
+impact of reduced energy 
+consumption across our 
+large format digital network. 
+The first phase blacked out 
+70 large format LED sites 
+across Australia between 
+1am to 4am for a minimum 
+trial period of six months. This 
+large format digital trial, the 
+first of its scale for oOh!, will 
+provide valuable insights 
+and learnings on how we 
+may enable our broader 
+digital network to reduce its 
+electricity consumption. In 2023, alongside GALE 
+Pacific we launched the 
+world's first ever 100% 
+closed-loop recyclable 
+and PVC free billboard 
+skin. The EcoBanner™ is 
+a sustainable innovation 
+which allows advertising 
+banners to be put back into 
+the manufacturing process 
+to remake new banners 
+thus eliminating waste and 
+reducing our contribution to 
+landfill. 
+In 2024, this product was 
+recognized as a market-
+leading innovation which 
+won oOh! the Sustainability 
+award at the World Out of 
+Home Conference in Hong 
+Kong. We will continue to 
+develop and expand this 
+product across our assets.As we near 100% of assets 
+within our operational 
+control (Scope 2) sourcing 
+renewable energy, we will 
+focus efforts on gaining 
+a deeper understanding 
+of the energy sources 
+utilised by our commercial 
+partners, which power 
+the assets we run within 
+their properties (Scope 3). 
+As an illustration, recently 
+Melbourne Airport became 
+Australia’s first Airport to be 
+a GreenPower™ approved 
+provider, enabling it to sell 
+on-site solar-generated 
+power to tenants, retailers, 
+and partners. 
+oOh!’s transition to 
+Melbourne Airport’s 
+embedded network 
+facilitated an increase in the 
+number of sites available for 
+us to offer on GreenPower™ 
+to our clients. As we enter 
+2025, we will work with more 
+of our commercial partners 
+to explore ways to access 
+renewable energy sources 
+for our assets and identify 
+any potential obstacles. 
+On our platform In our operations
+
+=== Page 17 ===
+In our 
+operations 
+Sustainability Policy
+oOh! is committed to promoting sustainable business practices across our operations and throughout our 
+supply chains. Our goal is to minimise our impact on the planet and promote positive social outcomes, thereby 
+structuring our business for long-term, sustainable success. In 2024, we formalised our Sustainability Policy 
+to educate and empower our workforce to act responsibly across our operations. This policy applies to all 
+representatives of oOh!, including oOh!’s Board of Directors,  employees, contractors, and consultants of oOh! 
+and may also be applied to persons in our supply chain. 
+For the purposes of this Policy, sustainability is achieved by meeting the social, environmental, and economic 
+needs of the present without compromising the ability of future generations to meet their own needs.
+Our Sustainability Policy focuses on three key areas with actionable priorities:
+Procurement Framework 
+To further support oOh!’s Sustainability Policy, a Procurement Framework which includes sustainable 
+Procurement practices was developed in 2024, along with comprehensive training and support delivered 
+across the business. 
+In today's rapidly evolving business landscape, implementing a sustainable Procurement Framework is vital 
+to proactively identify and mitigate risks, enhance operational efficiency and drive sustainable growth. The 
+framework’s purpose is to foster innovation, strengthen relationships with our suppliers, and optimise spending 
+to ensure value for money. It is foundational to oOh!’s efforts to reduce our Scope 3 carbon emissions, 
+associated with capital goods and goods and services. Key decision makers across our business received in 
+depth training of our Procurement Framework including 3 key pillars of our sustainability agenda:Business Practices Environmental Stewardship Social Responsibility
+oOh! strives to be a responsible, 
+transparent and accountable 
+business leading the advertising 
+industry to a more sustainable 
+future.oOh! is dedicated to minimising 
+our environmental impact and 
+being a sustainable partner for 
+our customers and communities. 
+Our goal is to efficiently use 
+resources and combat climate 
+change through actively reducing 
+the contribution we make to 
+greenhouse gas emissions.We are committed to providing 
+a safe, supportive and inclusive 
+environment for our people
+and our communities and using 
+our media platforms for good. 
+Business Practices Environmental Stewardship Social Responsibility
+Investing in environmentally and 
+socially sustainable businesses to 
+strengthen our supply chains and 
+the sustainability of our business 
+operations into the future.Seeking out and prioritising 
+energy efficient products & 
+services that reduce our waste, 
+energy consumption and carbon 
+emissions. Supporting and investing in 
+community-oriented businesses 
+and not-for-profit organisations 
+that positively impact society.

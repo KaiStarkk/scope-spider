@@ -1,0 +1,219 @@
+=== Table 1 (page 16) ===
+,,FY27 and Beyond
+,FY25 (Completed),FY26 (Planned)
+,,(Strategic Direction)
+,● Completed benchmarking,"●
+ ● Establish global baseline and 
+Implement and submit"
+Emissions,,
+,global Scope 1-3 GHG,"reduction targets  
+reduction initiatives"
+,emissions for FY24,"in preparation for  
+aligned with SBTi"
+,,SBTi submission
+,● Recertified Climate Active,● Explore carbon offset
+,(carbon neutral),"● Begin forecasting emissions 
+opportunities for"
+,,"trajectory incl. Scope 3
+hard-to-abate emissions"
+,,"● Begin preparation of a  
+ ● Embed and implement"
+,,"climate transition plan
+climate transition plan"
+,● Supported our customers,● Continue advancing sustainable product offerings
+Product innovation,,
+,net-zero journey’s through,
+,product innovation,
+,● Conducted AASB S2,"● Sustainability Report in 
+ ● Enhance reporting to better"
+Reporting and,,
+,readiness assessment,"alignment with ASRS S2 
+align with frameworks"
+frameworks,,
+,,"(GRI, ISSB, ASRS)"
+,,● Begin preparations for an
+,,"Environmental Management 
+ ● Continue ISO 14001"
+,,"System in line with ISO 14001
+preparation"
+,● Refreshed materiality,● Ongoing updates based on materiality and regulatory reviews
+Materiality and,,
+,assessment with internal,
+stakeholder engagement,,
+
+=== Table 2 (page 17) ===
+FY25 ROADMAP PROGRESS,,,
+Supplier Assessment,Sustainability Databook,Sustainability Strategy,GHG Emissions
+In FY24 we launched our,We defined key sustainability,Hansen’s Sustainability,Completed benchmarking of
+Supplier Code of Conduct,metrics and incorporated,Strategy was formally,"our FY24 global Scope 1, 2,"
+seeking supplier alignment,them into a detailed,"introduced, aligning",and 3 GHG emissions. This
+with the code.,"Sustainability Databook,",business operations with,provides a critical foundation
+,ensuring transparency and,long-term sustainability,for our future plans to set
+"In FY25, we initiated a",,,
+,structured reporting.,objectives. This initiative,science-based emissions
+sustainability assessment,,,
+,,involved company wide,reduction targets and
+of our largest suppliers,This document seeks to,,
+,,engagement. These activities,helps refine our long-term
+"by spend, to identify risks",provide stakeholders with a,,
+,,continue to be supported by,decarbonisation strategy
+and opportunities across,comprehensive view of our,,
+,,our codes and policies.,and climate transition plan.
+our supply chain.,"sustainability performance,",,
+,tracking progress against,,
+This process helped,,,
+,established benchmarks,,
+establish a baseline,,,
+,and enhancing our,,
+"understanding, laying",,,
+,reporting transparency,,
+the groundwork for,,,
+,and capabilities.,,
+future expansion of,,,
+the assessment and,,,
+engagement program.,,,
+,,ASRS Readiness,
+Climate Active,Climate Scenarios,Assessment,Material Topics
+We successfully recertified,Utilising independent,To align with evolving global,A refreshed materiality
+with Climate Active in FY24,"experts, a comprehensive",sustainability reporting,assessment was undertaken
+for our Australian Operations.,climate scenario analysis,"requirements, we conducted",with broad internal and
+,was conducted to assess,an AASB S2 readiness,external stakeholder
+Hansen’s focus will begin,,,
+,high-priority risks and,assessment and enhanced,engagement across
+to shift from Climate,,,
+,opportunities related,our sustainability reporting,our global operations.
+Active carbon neutral,,,
+,to climate change. This,structure. This process,This process helped identify
+certification to establishing,,,
+,analysis enables proactive,ensures that our disclosures,and prioritise the most
+an emissions reduction,,,
+,risk management and,"remain transparent,","significant Environmental,"
+pathway aligned with the,,,
+,"strategic planning, ensuring","robust, and progressively",Social and Governance
+Science-Based Targets,,,
+,that our business remains,aligned with emerging,"(ESG) topics, ensuring that"
+initiative (SBTi) principles.,,,
+,resilient in a transitioning,international standards.,our sustainability strategy
+,global economy.,,and reporting remains
+While offsetting remains,,,
+,,,aligned with Hansen’s
+an option for hard-to-abate,,,
+,,,broader business strategy
+"emissions in the future,",,,
+,,,and reflects the expectations
+our immediate priority,,,
+,,,"of investors, customers,"
+is on measurable,,,
+,,,and regulatory bodies.
+emissions reductions.,,,
+
+=== Table 3 (page 48) ===
+SUSTAINABILITY REPORT CONTINUED,,
+Key Findings,,
+Physical Risks:,,
+"Under both scenarios, Hansen’s operations may be affected by climate-related hazards including rising temperatures,",,
+"rainfall variability, and sea level rise. The high emissions scenario presents greater physical risk exposure, including:",,
+● Europe: +3.1°C warming by 2060,,
+● South Asia: +9.3% increase in rainfall,,
+● Coastal sites: Up to +0.23m sea level rise by 2050,,
+"These changes elevate chronic risks, including risks of flooding, infrastructure stress, and heat-related productivity losses,",,
+"particularly in Vietnam, India, Europe, and North America.",,
+Transition Risks and Opportunities:,,
+"Under the low emissions scenario, accelerated decarbonisation and digitisation are expected to drive strong global demand",,
+"for Hansen’s software solutions, including billing, DER management, and grid analytics. Supporting trends include:",,
+●,Investor preference for low-carbon technologies,
+● Strong regulatory signals in Europe and Australia,,
+● Market growth of digital utilities at 9.5% CAGR to 2030,,
+"Under the high emissions scenario, policy progress is fragmented, with fossil fuels remaining dominant in many regions.",,
+Impacts include:,,
+"● Slower client decarbonisation, with fewer use cases related to complex renewable energy systems",,
+"● Continued software uptake, but with reduced demand for advanced functionality tied to renewables integration",,
+●,"Increased exposure to Scope 2 emissions, especially in India and Vietnam",
+● Reduced growth in the digital utility market (5.2% CAGR to 2030),,
+Operational Resilience,,
+Operational and Strategic Resilience,,
+"Hansen’s remote-enabled, cloud-based delivery model reduces its exposure to physical climate risks such as localised",,
+"flooding, storm damage, or extreme temperatures. Although offices in Pune, Ho Chi Minh City, and Melbourne may experience",,
+"climate-related disruption under the high emissions scenario, Hansen’s distributed workforce, business continuity planning,",,
+and flexible leasing arrangements enhance resilience. Hansen’s products are designed to support long-term energy system,,
+"transformation, ensuring strategic relevance across both emissions scenarios.",,
+Capacity to Adapt and Financial Implications,,
+"Hansen’s modular and scaleable software suite allows the company to adapt quickly to evolving client needs, policy changes, and market",,
+dynamics across jurisdictions. This agility is further supported by its low reliance on high-emission assets or long-lived infrastructure.,,
+A full emissions assessment has been calculated for FY24 only at this stage but Hansen has planned for a formal emissions,,
+reduction strategy and climate transition plan to commence in FY26.,,
+"While Hansen has not yet publicly disclosed quantitative data on capital allocation for climate adaptation, its SaaS-driven,",,
+relatively low capital intensity model offers flexibility to redirect resources as needed.,,
+Hansen has limited exposure to owned high-risk infrastructure. While leased offices and outsourced data centres provide some,,
+"protection from physical risks (supported by contracts that typically include flexible exit or upgrade clauses), these facilities remain",,
+part of Hansen’s broader value chain. The use of outsourced data centres means that Hansen retains indirect exposure to climate,,
+"risks affecting data centre infrastructure. However, the contracted data centre providers have committed to a comprehensive",,
+"climate resilience strategy, including renewable energy targets and physical risk assessments, which helps mitigate this exposure.",,
+"Hansen’s current investment priorities include enhancing its product suite in DER management, real-time analytics, and",,
+customer-centric energy services—areas that support decarbonisation and grid modernisation.,,
+Uncertainties and Limitations,,
+"Model Assumptions: The scenarios rely on IPCC CMIP6 SSP-RCP and IEA pathways, which assume future socioeconomic and",,
+policy developments that may diverge in practice.,,
+"Physical Risk Projections: Sea level rise, extreme weather, and tipping point events (e.g. ice sheet loss) are subject to uncertainty",,
+due to model limitations.,,
+"Transition Risk Timing: The feasibility and timing of the NZE scenario is highly uncertain, requiring coordinated global action not",,
+yet evident.,,
+Hansen Technologies Ltd,46,Annual Report 2025
+
+=== Table 4 (page 50) ===
+FY24 GHG protocol summary – Market-based (tCO2-e )(1),,,,
+,Americas,APAC,EMEA,Global
+Scope 1(2),–,77.8,7.8,85.6
+Scope 2(3),30.9,"1,568.3",32.1,"1,631.3"
+Business travel,502.0,965.5,249.0,"1,716.5"
+Capital goods,102.0,376.1,149.8,627.8
+Employee commuting,144.1,478.2,377.9,"1,000.2"
+Fuel and energy related activities,3.6,190.0,12.8,206.4
+Purchased goods & services,"1,873.8","3,864.1","1,801.9","7,539.9"
+Upstream leased assets,111.7,52.8,21.9,186.5
+Waste generated in operations,87.4,7.3,6.2,100.9
+Scope 3(4),"2,824.6","5,934.0","2,619.5","11,378.2"
+Total,"2,855.5","7,580.1","2,659.4","13,095.0"
+
+=== Table 5 (page 59) ===
+Artificial Intelligence (AI) integration
+"During the year, Hansen made significant progress embedding AI across our operations and product portfolio. AI is now a core"
+"enabler of our technology roadmap, delivering productivity improvements, automation efficiencies, and enhanced scalability."
+"Hansen is applying AI across its entire value chain, including testing, documentation, software development and product"
+"enhancement. This is reducing time-to-market, improving quality, and optimising resource use."
+"On the product side, AI is enhancing the customer experience through predictive analytics, self-service capabilities, and"
+optimisation of key utility processes such as power trading.
+"Looking forward, Hansen expects deeper AI integration to support R&D efficiency, customer engagement, and structural cost"
+"savings, helping to drive sustained margin expansion and long-term competitive advantage."
+Sustainability
+"In FY25, Hansen advanced its global Sustainability Strategy, with key highlights presented within this Annual Report on page 15."
+"The Sustainability Strategy is aligned with the UN Global Compact principles and the UN Sustainable Development Goals, and"
+Hansen continues to prepare for the progressive adoption of the Australian Sustainability Reporting Standards (ASRS) ahead
+of mandatory timelines.
+"Hansen’s Australian operations remained carbon neutral for the fourth consecutive year. In addition to this, during FY25 Hansen"
+"achieved its Australian Operations emissions intensity reduction target of 40%, two years ahead of schedule. The Company"
+has benchmarked its global Scope 1-3 GHG emissions retrospectively for FY24 and completed a climate scenario analysis
+"in readiness for ASRS reporting requirements. By establishing a global GHG baseline, Hansen is laying the foundation for"
+science-based reduction targets and a climate transition plan that reflects the full scale of our operations and value chain.
+"Hansen strengthened its responsible sourcing practices through a targeted ESG assessment of key suppliers. Internally, the"
+"company continued to assess its gender diversity at leadership levels and foster a culture focused on safety, inclusion, and"
+"wellbeing. Hansen’s approach to ethical business conduct is underpinned by its Code of Conduct, strong data governance,"
+and cybersecurity frameworks.
+"During the year, Hansen was recognised with the EcoVadis ‘Committed’ badge and received an AA ESG rating from Morgan"
+"Stanley Capital International (MSCI), placing it among industry leaders in sustainability performance. These achievements reflect"
+Hansen’s long-standing commitment to responsible and ethical growth and its preparation for evolving global reporting expectations.
+The Group’s operations are not subject to any significant environmental Commonwealth or state regulations or laws.
+Corporate governance statement
+Hansen and the Board are committed to achieving and demonstrating the highest standards of corporate governance.
+"A description of the Group’s current corporate governance practices is set out in the Group’s corporate governance statement,"
+which can be viewed on Hansen’s website.
+Dividends paid and declared
+"A final dividend of 5 cents per share has been declared, partially franked to 2.5 cents per share, comprising of a regular"
+"dividend of 5 cents per share. The final dividend was announced to the market on 20 August 2025, with payment to be made"
+on 19 September 2025. The amount declared has not been recognised as a liability in the accounts of the Company as at
+30 June 2025.
+"Dividends paid during the year, excluding dividends reinvested as part of the Company’s Dividend Reinvestment Plan (DRP):"
+"•  5 cents per share partially franked to 3.3 cents dividend paid on 27 March 2025, totalling $9,490,381; and"
+"•  5 cents per share partially franked to 2.1 cents final dividend paid on 20 September 2024, totalling $9,406,590."
+This is consistent with the Board’s capital management policy that balances growth through acquisitions against the payment
+of dividends.

@@ -1,0 +1,162 @@
+=== Page 5 ===
+Statement from our Chair and CEO 
+We are delighted to share our  
+2025 Bigger Picture Sustainability Report 
+Operating sustainably and responsibly is fundamental to supporting our overall ambitions,  
+delivering value to shareholders over the longer term, and to supporting the prosperity of Australia. Sustainability creates ongoing value for our business and positive impact for our customers,  our stakeholders, our communities and our environment. 
+This year we completed our T25 strategy and are proud that 
+we have met and exceeded many of our ambitions. We again surpassed our target to help 1 million customers in vulnerable circumstances stay connected, this year supporting more than  1.9 million customers and introducing expanded means of support. We have increased digitally active customers by 2 million and helped build digital skills for more than 677,000 people over the past four years, which is critical to helping reduce the digital divide as technologies advance. We have also continued to make good progress against our climate targets, including to reduce our absolute scope 1+2 emissions by 70 per cent and scope 3 emissions by 50 per cent by 2030, and to enable renewable energy generation equivalent to 100 per cent of our consumption by the end of this calendar year. 
+Energised by what we’ve achieved and inspired by what’s ahead,  
+we are excited to move into the next phase of our journey with a  new five-year strategy - Connected Future 30. Telstra’s purpose is to build a connected future so everyone can thrive. Our new strategy will see us heighten our engagement with our customers and communities to deliver reliable, resilient, secure and environmentally responsible connectivity in ways that work best for them. This is why we are investing in rolling out high speed, low latency fibre across Australia, enhancing our mobile network across the country and investing in new products and services  
+for our customers such as satellite-to-mobile services. 
+This new strategy will also see us focus on our country’s need  
+to increase productivity and prosperity. The telecommunications connectivity that we provide will play a critical role in Australia’s future and in realising the benefits of transformative technologies, including AI. There is no AI without connectivity, and to realise its potential we need to get the foundations right. Earlier this year we entered a seven-year joint venture with Accenture to build upon our AI foundations and develop specialised AI capabilities. This will see us tap into the global best to complement these leading AI capabilities, enabling our teams to work smarter and faster. 
+We are also investing in our people and the way we operate to 
+ensure that we develop leading AI capabilities. For example, our Data and AI Academy offers personalised learning experiences that enable our people to make confident data driven decisions, embrace emerging technologies responsibly and be prepared to operate in a workforce that will continue to be transformed by these technologies. This year we launched Career Connect, enabling deeper development conversations and integrated performance planning. This AI-enabled talent marketplace aims  to drive a new era of skills-based development to help our teams find meaningful work, learn, experiment and grow.
+Telstra 2025 Bigger Picture Sustainability Report
+5
+
+=== Page 6 ===
+Our achievements this year 
+Supporting our communities 
+We know that many people are feeling the impacts of cost-of-living 
+pressures, and we remain committed to keeping our customers connected regardless of location or circumstance. To do our best  
+for these customers, we work to understand their circumstances  
+and have various specialised support available to help address needs. We also offer a range of programs to help people afford our services when they are experiencing financial hardship. These include concession offers and payment assistance, and we have expanded some services such as our Top Up program to make it easier for people experiencing financial hardship to access  
+products and services they need.
+Our Chief Customer Advocate prepares an independent report that 
+summarises initiatives Telstra has in place to support customers 
+in vulnerable circumstances. Each year we review the Chief 
+Customer Advocate Report and consider how our strategy and 
+programs respond to the matters raised. For example, the ‘Chief Customer Advocate Report on Customer Vulnerability 2024’ noted that there was still more work to be done to provide payment flexibility to existing customers migrating to our new in-market plans. All customers on our new digital platform now have access to those flexible payment terms – by the end of FY25 this equated to around 98 per cent of our consumer customers, with a plan to complete the migration to the new digital platform in the first half of FY26. In addition, the 2024 Chief Customer Advocate Report noted the important role that free payphones play as a lifeline for Australians in need. We have now upgraded over 1,000 payphones with free Wi-Fi and backup power in disaster prone areas. We will consider this year’s Chief Customer Advocate Report and continue to report on actions taken.
+We know for someone experiencing domestic, family and/or  
+sexual violence (DFSV), a mobile phone is an essential lifeline, and 
+our customers have access to specialised support like our Enhanced Care team who are trained to support victim-survivors. We also offer more than 6,000 smart phones every year with pre-paid credits to victim-survivors through our community partner WESNET. Telstra is a long-time supporter of reconciliation and has strong connections with First Nations people through our employees, customers, stakeholders and communities across the country. This year we completed the third and final year of our FY23-FY25 Stretch Reconciliation Action Plan (RAP) and recently launched our new three-year FY26-FY28 Stretch RAP. Our achievements over the three-year RAP include delivering new infrastructure to over 30 regional or remote First Nations communities, expanding scope of our First Nations Connect team members, delivering face to face cultural learning for over 1,750 of our people and (in FY25) creating over 480 employment opportunities for First Nations people through the Indigenous Workforce Program. 
+In late 2024 we closed our 3G network. Closure of our 3G network 
+was a critical step to make spectrum available to further improve 5G services, with flow on benefits to 4G services. By repurposing spectrum used for 3G, we’ve also been able to expand capacity and improve speeds at over 4,300 existing 5G mobile sites and activate new 5G at another 631 sites. The total volume of customer data usage flowing through these sites is now more than 50 per cent higher which would not have been possible without the closure of 3G. That means more emails sent, photos uploaded, apps used, webpages browsed and videos streamed. Despite ongoing growth in demand for data on our mobile network, our expansion of 5G and use of additional spectrum has helped increase the average speeds our mobile customers enjoy by around 11 per cent since the closure of our 3G network. 
+We started talking to our customers about our plans to close  
+our 3G network in October 2019, to make sure they had time to prepare for the change. To help support customers with the transition, we created a ‘3G Helpline’, which routed calls from customers in relation to the 3G shutdown to a specialised customer service team. We also put in place a hypercare program  
+to support customers transition from 3G and provided nearly 19,000 free phones to customers in vulnerable circumstances across Australia who had not yet transitioned to a 4G device. 
+We upgraded more than 11,000 4G mobile sites in preparation  
+for 3G closure, and we are investing in technology innovations, such as fixed, mobile and satellite connectivity to provide  better experiences, including for our regional, rural and  remote communities. We are committed to addressing 3G coverage issues identified by customers and our efforts to  address customer concerns are ongoing.
+We also engage with Government on policy that creates the 
+conditions for the economic sustainability of our industry and  
+delivers better experiences for consumers.
+For more information on the 3G closure, see  
+the Closing 3G to improve our mobile network  section of this report.
+Telstra 2025 Bigger Picture Sustainability Report
+6Mitigating environmental impacts and 
+adapting to a changing environment 
+In addition to our progress on emissions and renewable energy 
+generation, we have exceeded our FY25 circular economy targets to reuse or recycle 650,000 devices and to increase our network waste recycling rate to 90 per cent. We have also continued to  use sustainable packaging for all Telstra-branded products, so that valuable materials and minerals can be kept in circulation  for longer, reducing waste. 
+Our teams work all year round to ensure we’re as prepared as 
+we can be for when extreme weather or disaster strikes, and we have stepped up our response when it does. We have provided disaster support in the form of additional data to more than 1 million services, and as noted above, upgraded over 1,000 payphones in disaster prone areas. We also expanded our use of portable Starlink kits for priority locations like evacuation centres, mobilised more than 3,000 of our people to repair critical equipment or answer calls on our 24/7 disaster assistance line, and supported digital training for disaster preparedness to help people securely digitise and store their essential documents.
+
+=== Page 8 ===
+FY25 sustainability highlights
+Community Environment
+$126min social and
+communityvalueContributed
+>1mSupported 
+services
+with disasterrelief packages 
+>1,000
+payphones in disaster-prone areas with free Telstra Wi-Fi and battery backup for service continuityCompleted upgrades of>480
+for First Nations people through 
+the Indigenous Workforce Programemployment opport
+unitiesCreated>677,000
+people over the 
+last four years to 
+build digital skillsSupported
+Launched the inaugural
+18mscam
+callsBlocked
+8mscamtexts
+every month every month>$24mPurchased
+ 70 First Nations suppliers1.9m
+stay connected this year and 
+an average of 1.3m per year over the past four yearscustomers
+in vulnerable circumstancesHelped
+fromover 
+$131m
+including the provision of in-kind 
+data packages during climate-related mass disruption eventsof climate
+r
+elated costsExperienced769 ,000Reused or recycled
+devices
+>1.7m
+from Telstra branded 
+headsets and accessoriesEliminated 
+$20m
+including both energy eﬃciency 
+and decommissioningin energy
+r
+eduction
+projectsInvested$3.4bIncluded climate clauses
+in contracts covering over$1.6bSupported renewable 
+energy projects which are worth more than 
+of our 
+supplier spendReduced our
+combined
+scope 1+2  
+emissions by
+44%scope 3  
+emissions by
+43%
+94%Achieved
+network
+waste recyclingplasticbagssince2017
+On average over FY25, 
+enabled renewable energy generation
+of our consumptionequivalent to
+76%
+Australian Digital Youth Index
+Telstra 2025 Bigger Picture Sustainability Report
+8*From an FY19 baseline (excluding Digicel Pacific).* *
+
+=== Page 9 ===
+FY25 progress against targetsOn track for delivery 
+Progress made but below target Not on track 
+✓Completed
+Focus area Target SDG1 Progress More infoDoing business responsiblyLeading conduct and 
+governanceAchieve 100% annual completion of Business Essentials refresher conduct training course SDG 16 98.3% of our total target audience completed the mandatory refresher trainingpage 17
+Fair and transparent products Achieve a 50% reduction in Telecommunications Industry Ombudsman (TIO) consumer 
+and small business complaints by FY25 SDG 8 SDG 10 
+✓ Reduced our TIO referral complaints by more than 70% since FY21page 20
+Ethical supply chain    Continue to conduct independent third-party supply chain audits SDG 8 ✓53 sites across 21 suppliers audited using the Joint Alliance for Corporate Social Responsibility (JAC) 
+guidelines.2 Closed 204 corrective actions relating to priority and major findings identified in this or 
+previous years’ audits, including 106, or 65%, of corrective actions relating to priority and major findings identified in FY25’s audits2025 Modern 
+Slavery Act Statement
+Our peopleRemain at 90th per centile employee engagement (equivalent to high-performance norm) SDG 8Achieved our target for FY25 with a score of 79, which places us above Glint’s Global 75th per centile 
+benchmark. This is three points below our 90th per centile stretch targetpage 26
+Achieve 40:40:20 gender balance by 2030 across our executive leadership and the global workforceSDG 5 SDG 10
+By the end of FY25 women made up 40% of the CEO team (including CEO), 36.8% of the global workforce, this is on track to meet our 2030 target page 27Creating a better digital worldConnecting regional, rural and remote communities ~95% population coverage for 5G by FY25 
+SDG 9
+✓5G now covers ~95% of the Australian population assisted by reuse of spectrum made possible by the closure of our 3G network in November 2024 2025 Annual 
+Report
+Expand regional coverage by 100,000 km2 by FY25   ✓ 360,000 km2 regional coverage added since FY21 – more than triple our goal of 100,000km22025 Annual Report
+Building responsible 
+tech skills     Increase digitally active customers by 2 million, by FY25, including building digital skills for 500,000 Australians by FY25SDG 9
+✓Increased digitally active customers by 2 million by the end of FY25 and supported over 254,0003
+Australians to build digital skills in FY25 (677,000 over the past four years)page 38
+Supporting people in vulnerable circumstancesHelp keep 1 million customers in vulnerable circumstances connected each year from FY22-FY25SDG 9 SGD 10
+✓Helped more than 1.9 million customers in vulnerable circumstances stay connected in FY25, and an average of 1.3 million per year over the past four yearspage 40Sustaining our planetTaking climate action
+4Reduce our absolute scope 1+2 emissions by 70% by 2030 (from an FY19 baseline)
+SDG 13  Reduced our combined scope 1+2 emissions by 44% from an FY19 baseline (excluding Digicel Pacific) page 48
+Reduce our absolute scope 3 emissions by 50% by 2030 (from an FY19 baseline) Reduced our scope 3 emissions by 43% from an FY19 baseline (excluding Digicel Pacific)5 page 52
+Enable renewable energy generation equivalent to 100% of our consumption by 2025 Enabled renewable energy generation equivalent to 76% of our consumption on average over FY25. Contracted renewable energy generation equivalent to more than 100% of forecast consumption at the end of this calendar yearpage 54
+Net-zero greenhouse gas (GHG) emissions by 20506 
+✓Reduced our combined scope 1+2 emissions by 44% and our scope 3 emissions by 43% from a FY19 baseline
+7 page 48
+Progressing  
+a circular economy8 Reuse or recycle 650,000 mobile phones, modems and other devices each year to 20259 
+SDG 12✓ Reused or recycled over 769,000 mobile phones, modems and other devices in FY25 page 59
+Increase our network waste recycling rate to 90% by 2025 page 61
+Targets are baselined to FY21 unless otherwise stated.
+1. See the Management approach and governance section for more information on the Sustainable Development Goals (SDGs).
+2. Telstra led 11 site audits and JAC peers led 42 audits. Telstra reports the number of audits Conducted by Telstra and JAC peers under the JAC guidelines on suppliers relevant to Telstra.3. Figure includes FY24 digital skills project data from Telstra Foundation, however final data was not available until FY25.4.  Digicel Pacific has been excluded from reporting against FY25 emissions targets, Digicel Pacific emissions are reported separately below and further details can be found in the 2025 Data Pack on our website .
+5. This is ahead of the trajectory required to reach our target of a 50 per cent reduction by 2030, however there is still some risk relating to our scope 3 target – For more information, see the Managing our scope 3 emissions section of this report.
+6. We are committed to achieving net-zero greenhouse gas (GHG) emissions by 2050, through the Business Ambition for 1.5°C campaign. During FY25 our net-zero target was validated by the Science Based Targets initiative (SBTi) as aligning to their Corporate Net-Zero Standard.
+7. See the Our use of carbon credits section of this report for more information on our use of carbon credits and our GHG emissions targets.8. Digicel Pacific has been excluded from Telstra’s circular economy reporting in FY25 as we are still working to compile timely and suitable data. A multi-year program has commenced with the aim to progressively report relevant Digicel Pacific circular economy data in future periods.9. From FY26 we have set a new target to donate, reuse, repair or recycle one connected device for every two devices sold by FY30. It applies to connected devices (phones, tablets, modems, streaming devices, wearables, IoT devices, etc). For more information, see the Devices section of this report.
+Telstra 2025 Bigger Picture Sustainability Report
+9Achieved 94% network waste recycling rate in FY25

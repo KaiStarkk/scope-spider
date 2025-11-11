@@ -1,0 +1,180 @@
+=== Page 15 ===
+Directors’ Report13
+SONIC HEALTHCARE  |  ANNUAL REPORT 2025OPERATING AND FINANCIAL REVIEW
+Diagnostic imaging (including radiology) is the medical specialty of using medical imaging technologies to diagnose and 
+treat diseases. The array of imaging technologies includes magnetic resonance imaging (MRI), computed tomography (CT), 
+positron emission tomography (PET), nuclear medicine studies, ultrasound, mammography, bone densitometry and general 
+X-ray. Diagnostic imaging also includes interventional radiology, the performance of medical procedures under the guidance of 
+imaging technologies.
+In addition to clinical laboratories and diagnostic imaging, Sonic conducts a number of smaller complementary businesses 
+(disclosed in the Other category in the Segment information note, along with corporate office costs). The most significant 
+of these are the Independent Practitioner Network (IPN) medical centre business, the Sonic HealthPlus occupational health 
+business, and Australia’s largest skin health business, together involve more than 200 primary care clinics across Australia, 
+providing facilities and administrative services to around 2,000 general practitioners. Approximately 70% of all Australians live 
+within 10 kilometres of a Sonic clinic.
+Financial results
+A summary of consolidated revenue and earnings is set out below. 
+% Change
+2025 
+Constant 
+Currency12025 
+Statutory 20242025  
+Constant 
+Currency v 
+20242025  
+Statutory v 
+2024
+$’000 $’000 $’000
+Revenue 9,516,049  9,645,448 8,967,405 6.1% 7.6%
+Gain related to sale of West division in USA – – 32,341
+Total 9,516,049 9,645,448 8,999,746
+EBITDA  before gain related to sale of West division 1,702,303 1,724,994 1,602,201 6.2% 7.7%
+Gain related to sale of West division – 32,341
+EBITDA21,702,303 1,724,994 1,634,542   
+Depreciation (715,277) (722,519) (694,389) 3.0% 4.1%
+EBITA 987,026 1,002,475 940,153 5.0% 6.6%
+Amortisation of intangibles (92,106) (92,846) (82,916) 11.1% 12.0%
+Net interest expense (157,068) (158,764) (126,586) 24.1% 25.4%
+Income tax expense (203,929) (206,943) (186,847) 9.1% 10.8%
+Net (profit) attributable to minority interests (29,579) (30,325) (32,710) (9.6)% (7.3)%
+Net profit attributable to Sonic shareholders 504,344 513,597 511,094 (1.3)% 0.5%
+Gain related to sale of West division   – – (32,341)
+Net profit before gain related to West division 504,344 513,597 478,753 5.3% 7.3%
+Cash generated from operations  1,296,790 1,071,512 21.0%
+Earnings per share
+Basic earnings per share (cents per share) 105.0 107.0 107.3 (2.1)% (0.3)%
+Diluted earnings per share (cents per share) 104.8 106.7 107.2 (2.2)% (0.5)%
+Diluted earnings per share before gain 
+related to sale of West division (cents per share) 104.8 106.7 100.4 4.4% 6.3%
+1 For an explanation of Constant Currency refer to (a) on the following page
+2 EBITDA = Earnings before interest, tax, depreciation and amortisation
+An explanation of the figures reported above is provided in the following pages of this report.
+
+=== Page 24 ===
+Directors’ Report22
+SONIC HEALTHCARE  |  ANNUAL REPORT 2025OPERATING AND FINANCIAL REVIEW
+ ¡Sonic’s businesses rely on information technology systems. A disruption to a core IT platform, including as a result of a 
+cybersecurity breach, could have significant operational, financial and/or reputational impacts, particularly if confidential 
+patient data were to be obtained by unauthorised persons. Sonic has implemented strategies to mitigate this risk. The 
+Company has a comprehensive Information Security Management System (ISMS) in place, supported by staff training and 
+awareness programs. Internal systems are monitored and regularly tested (at a minimum, as changes are made to the core 
+software or infrastructure). The information security objectives of confidentiality, integrity, access and privacy are achieved 
+by the implementation of a multi-layered approach and application of key controls (defence-in-depth). Sonic’s ISMS sets out 
+the controls in the following domains: Governance and Administrative, Information Security, Personnel Security, Physical 
+Security, Operational Security, Technical Security and Cyber Security. External facing systems are monitored and regularly 
+tested (including third party penetration testing). As part of Sonic’s compliance work for specific country requirements (such 
+as KRITIS in Germany, ISO27001 in the UK, ISM and ISO27001 in Australia, SOC2, ISO27001 and HITRUST in USA) these 
+protections are continually reviewed and improved. An external provider is engaged to conduct Global NIST Maturity Audits 
+for all of Sonic’s countries of operation, assessing ongoing improvements against a baseline.
+ ¡Whilst individual events are unlikely to have any significant impact, inaccurate diagnostic results due to actual or alleged 
+mistakes or errors could result in financial loss and/or reputational damage, particularly if the issue is systemic. Sonic maintains 
+insurance cover to mitigate its financial exposure and has processes in place to manage reputational risks.
+ ¡Sonic uses prudent levels of debt to reduce its cost of capital and to increase earnings per share. It is therefore subject to the 
+risk of rising interest rates (either on floating rate debt or when existing facilities expire), the future availability of funding, and 
+potential breach of a term or condition of its debt facilities. Sonic has a sophisticated Treasury Policy in place to manage these 
+risks, developed and overseen by Sonic’s Treasury Management Committee, which includes a renowned expert external 
+consultant.
+ ¡With operations in seven jurisdictions, Sonic is potentially exposed to changes in taxation legislation or interpretation which 
+could increase its effective tax rate.
+The Sonic Board has continued its careful consideration of environmental and social sustainability risks, with a particular focus 
+on climate-related risks and human rights. 
+In FY2025, the Company completed a quantitative assessment of the potential financial impacts of climate-related risks and 
+opportunities. This assessment built on qualitative analysis conducted in FY2023 by quantifying potential financial impacts of 
+prioritised climate-related risks and opportunities deemed to be most potentially material for Sonic. For the quantitative analysis, 
+three time horizons were considered – short-term (to 2030), medium-term (to 2040), and long-term (to 2050). For each horizon, 
+the analysis evaluated physical and transition-related outcomes under two distinct emissions scenarios: a low-emissions 
+scenario (1.5°C aligned, assuming strong global climate action) and a high-emissions scenario (3°C+, business-as-usual). This 
+approach ensured the assessment captured near-term influences as well as longer-range uncertainties under a changing 
+climate. In total, five climate-related risks and one opportunity were examined across these scenarios and timeframes.
+The exercise found that most assessed climate risks and opportunities are unlikely to cause material financial impacts for Sonic 
+in the near to long-term, with the exception of potential carbon pricing under a scenario of aggressive climate action. The carbon 
+pricing risk refers to a scenario that considers an additional operating expense that may be borne by companies for each tonne 
+of carbon that they produce in future. The per tonne cost of carbon evaluated by Sonic is based on the Network for Greening 
+the Financial System’s (NGFS) ‘shadow emissions price’ which acts as a proxy for policy stringency (such as governments 
+introducing a carbon tax) and technological change (such as costs associated with development of low carbon products 
+passed through from the supply chain), which rises with more ambitious climate action. 
+Under the low-emissions scenario (NGFS ‘Net Zero’, strong climate action), where aggressive policies to limit warming are 
+assumed, modelling showed Sonic could face potentially material financial exposure across all time horizons if our emissions 
+were to continue to grow without any mitigation efforts. In practice, Sonic is actively reducing emissions, and has committed 
+to net zero emissions by 2050. By contrast, in a high-emissions scenario (NGFS ‘Current Policies’, with slower or minimal policy 
+action), the NGFS shadow carbon price remains significantly lower, resulting in a smaller financial impact. As such, the overall 
+materiality impact of this risk is highly scenario dependent.
+Whilst a carbon pricing cost carries potential material risk for Sonic, the magnitude of its impact is uncertain. The assessment 
+conducted requires assumptions about future carbon price levels, timing, and geographic scope, which are uncertain given 
+evolving climate policies. 
+Additionally, Sonic’s own future emissions profile (influenced by growth and decarbonisation efforts) will affect costs – if Sonic 
+reduces its carbon footprint, the financial impact from any given carbon price would lessen, and vice versa.
+
+=== Page 25 ===
+Directors’ Report23
+SONIC HEALTHCARE  |  ANNUAL REPORT 2025OPERATING AND FINANCIAL REVIEW
+Ultimately, the quantitative risk assessment exercise identified a potential carbon pricing cost as material under certain scenarios 
+and time horizons, but the exact scale of impact has a confidence range. Sonic will continue to refine this analysis as policies 
+and our ability to project future emissions evolve.
+Despite the uncertainties associated with this risk, importantly, it highlights carbon cost exposure as a key climate-related risk 
+for Sonic to strategically manage. As with other climate risks evaluated in the quantitative analysis and found to be non-material, 
+Sonic recognises that monitoring and management of these risks provides vital insights for enhancing climate and operational 
+resilience for the future, even in the event they don’t materially impact short-, medium-, or long-term finances at a corporate level. 
+Details of Sonic’s FY2025 quantitative assessment of climate-related risks and opportunities will be available in the Company’s 
+2025 Sustainability Report, ahead of disclosure in Sonic’s FY2026 Annual Report in accordance with the Australian 
+Sustainability Reporting Standards (ASRS).
+Although Sonic’s operations are located in developed nations with well-established laws governing labour standards and 
+human rights, the Company remains vigilant in its review of its own operations and global supply chain to identify and reduce 
+the risk of modern slavery practices. Please refer to our 2025 Modern Slavery Statement (available in November 2025) for 
+more details.
+The above list should not be taken to be a comprehensive list of risks associated with Sonic. In particular, it excludes risks 
+relating to the general economic environment and other generic risk areas that affect most companies.
+Sonic’s geographic, business line and branding diversification, plus our federation structure, broad menu of tests offered and 
+low customer concentrations mean that few, if any, of the usual operating risks faced by a healthcare business would have a 
+material impact on Sonic as a whole.
+MATTERS SUBSEQUENT TO THE END OF THE FINANCIAL YEAR
+Since the end of the financial year, the Directors are not aware of any matter or circumstance not otherwise dealt with in these 
+financial statements that has significantly or may significantly affect the operations of the Group, the results of those operations 
+or the state of affairs of the Group in subsequent financial years other than on 1 July 2025 Sonic completed the transaction to 
+acquire Laboratory Group Dr. Kramer & Colleagues (‘LADR’) for a cash and debt free enterprise value of €423 million. This was 
+satisfied by cash and the issue of 13,833,980 Sonic ordinary shares.
+
+=== Page 37 ===
+Directors’ Report35
+SONIC HEALTHCARE  |  ANNUAL REPORT 2025REMUNERATION REPORT
+50% of the portion of the target STI award related to qualitative strategic performance conditions (the 20%) is assessed based on 
+progress with the Company’s environmental, governance and sustainability objectives, and is assessed against the achievement 
+of specific milestones/objectives for the year. For the 2025 year these were: 
+ ¡completion of a comprehensive quantitative assessment of Sonic’s climate related risks and opportunities under low (1.5°C 
+aligned) and high (3°C+) emissions scenarios over short-term, medium-term and long-term time horizons
+ ¡undertake assurance of Sonic’s global scope 1 and 2 greenhouse gas (GHG) emissions for FY2025, in preparation for limited 
+assurance requirements of mandatory disclosures in FY2026
+ ¡monitor and support preparations for upcoming mandatory disclosures including ASRS and California SB253 and SB261 
+ ¡oversight of Sonic’s sustainability ratings agency submissions, including annual Climate Disclosure Project (CDP) submission
+ ¡progress towards environmental targets
+ ¡increased share of renewable energy in total energy consumption
+ ¡increased engagement with suppliers on environmental issues
+ ¡ensuring appropriate resourcing and organisational structures are in place to progress the Company’s sustainability strategies, 
+progress against targets and overall sustainability program maturity. 
+These milestones/objectives were achieved.
+The other 50% of the relevant portion (20%) of the target STI award was assessed with reference to the following factors:
+ ¡promotion of, and adherence to, Sonic Healthcare’s Core Values and Foundation Principles
+ ¡the exercise and promulgation of Sonic’s Medical Leadership culture
+ ¡the Federation model employed at Sonic Healthcare, and its effective management 
+ ¡risk management within the Company
+ ¡the external standing and reputation of the Company
+ ¡financial leadership and innovation (for the Finance Director).
+These ‘qualitative’ factors are not able to be measured in the same way as the EBITDA target. However the Board believes it is 
+these factors, and the behaviours and actions that are linked to them, which are the basis of Sonic Healthcare’s success as a 
+healthcare provider and as a business. The Board believes that the Company is driven by the ideal of Medical Leadership, which 
+means putting the patient and their treating clinician at the centre of all Sonic does. Sonic’s Values and Principles derive from 
+Medical Leadership, and the Company’s standing and reputation have been built from it. 
+The table below summarises the 2025 STI outcomes. 
+STI target as 
+a % of Fixed 
+Remuneration Target STI $% of Target 
+STI actually 
+awarded% of Target 
+STI forfeitedActual STI 
+award $
+Dr CS Goldschmidt
+2025 92% 2,201,368 75.0% 25.0% 1,650,643
+2024 92% 2,201,368 20.0% 80.0% 440,274
+CD Wilks
+2025 105% 1,263,206 75.0% 25.0% 947,185
+2024 105% 1,263,206 20.0% 80.0% 252,641

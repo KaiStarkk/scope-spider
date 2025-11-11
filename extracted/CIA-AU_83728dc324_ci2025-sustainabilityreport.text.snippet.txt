@@ -1,0 +1,134 @@
+=== Page 3 ===
+ESG PERFORMANCE
+HIGHLIGHTS
+Environment 
+No major environmental incidents since Bloom Lake was 
+recommissioned in 2018;
+Maintained a 99% water reuse rate at Bloom Lake1;
+Achieved an 8.7% reduction year-over-year in water con-
+sumption per tonne of iron ore concentrate produced1;
+Reduced greenhouse gas emissions (“GHG”) per tonne of material mined and hauled by 15.0% year-over-year
+2.People & Community
+EmployeeTotal Recordable Injury Frequency Rate (“TRIFR”) of 1.98
+2, outperforming the Québec industry average of 2.613;
+Launched the Kapatakan initiative, an immersive cultural program fostering connections between the Innu community and our workforce, with participation from 89 employees; 
+Continued supporting local communities through donations 
+and sponsorships, reinforcing our commitment to positively impact Québec’s Côte-Nord region.Governance
+Successfully met or exceeded 13 of the 14 sustainability targets for the reporting period
+2;
+The Government of Canada joined Québec and Newfound-land and Labrador in recognizing high-purity iron ore as a critical mineral;
+Strengthened sustainability oversight by assigning account-
+able executive officers to material sustainability risks
+2; 
+Reviewed, assessed, and updated all corporate policies and committee charters to align governance practices with industry standards
+2.
+1. October 1, 2023 to September 30, 2024
+2.
+ Financial year 2025
+3.
+ Benchmark based on latest data from the Québec Mining Association, available on their website: https:/
+/amq-inc.com/contenu/.
+2025 SUSTAINABILITY REPORT
+3
+
+=== Page 5 ===
+Our Reporting Practice
+Champion’s sixth annual sustainability report has been prepared with reference to the 
+Global Reporting Initiative (“GRI”) Standards (2021). The report is also aligned with the Sustainability Accounting Standards Board (“SASB”) Metals & Mining Industry Standard, the recommendation from the Task Force on Climate-related Financial Disclosures (“TCFD”) and the Greenhouse Gas Protocol (“GHG Protocol”) reporting standard developed by the World Resources Institute (“WRI”) and World Business Council for Sustainable Development (“WBCSD”).
+This report provides an overview of Champion’s approach to managing material sustain-
+ability topics associated with our business activities, including the potential impacts of our operations and the associated enterprise risks. As there have been no substantial changes to our operations or business activities during the reporting period, this year’s report continues to report on the 23 material topics identified through our most recent Materiality Assessment review, conducted in January 2024. These topics have been integrated into the structure of this report and systematically organized into relevant chapters and subtopics to ensure clarity and alignment with our strategic priorities. This report additionally considers Champion’s values, business strategy, corporate sustain-ability policies, standards, procedures, management systems, and the broader regulatory and industry environment in which we operate. This report covers a 12-month period ending March 31, 2025, aligned with the Company’s 2025 financial year. Exceptions to this timeline include waste and air emissions data, which is reported on a calendar-year basis (January 1 to December 31, 2024), and water stew-ardship data, which follows a consistent 12-month reporting period ending September 30, 2024. Data related to energy and climate change, health and safety, human resources (including training), and financials (including procurement) are aligned with the financial year. Notably, this is our first sustainability report in which health and safety, workforce, training, land use as well as sterile rock data, follow the financial calendar.
+There are no additional changes in reporting periods from our previous report. All data has 
+been subject to internal reviews and evaluations.
+4 This report was prepared by the Executive 
+Management of Champion (“Management” or the “Management team”) and approved by the Board of Directors (the “Board”) on May 28, 2025 (Montréal) / May 29, 2025 (Sydney). Unless otherwise indicated, all dollar amounts are expressed in Canadian dollars. 
+The GRI, SASB and TCFD content index for the report and in the ESG Databook are available on Champion’s website at www.championiron.com.We welcome your comments and questions via our contact platform at the following address: info@championiron.com.Performance Indicators: GRI 2-1, 2-2, 2-3, 2-54. W e will not be seeking external assurance for this report. 
+5
+2025 SUSTAINABILITY REPORT | ABOUT THIS REPORT
+
+=== Page 7 ===
+Message from 
+the CEOI am proud of our dedicated workforce. Their resilience, adaptability and commitment enabled us to pursue our growth 
+ambitions, even while navigating economic uncertainty and unexpected challenges, including last year’s forest fires. 
+Over the past several years, Bloom Lake has proven its operational stability. This has provided a solid foundation to 
+strengthen our position as a leading high-purity iron ore producer, a critical mineral now recognized by the Government of Canada and the provinces where we operate. This recognition underscores the unique role our Company plays in contributing to the decarbonization of the steel industry, which represents nearly 10% of global GHG emissions. 
+Leveraging our skilled workforce, access to hydroelectric power, and the ongoing support of our communities and 
+governments, we continue to develop projects that meet the rising demand for high-purity products essential to the green steel transition. 
+Our DRPF project remains on track for commissioning in December 2025. Not only will this project enable steelmakers 
+to reduce emissions, it will also improve our Company’s ability to command higher pricing premiums and strengthen our presence in growing global markets. 
+We are also proud to welcome Nippon and Sojitz as future partners in the Kami Project. As strategic partners of our 
+Company, they share our long-term vision for the future of high-purity iron ore products and will be instrumental in advancing a project that can bring lasting economic benefits to the Labrador West region. 
+This past year, we further optimized operations while upholding our deep commitment to sustainability. We imple-
+mented new initiatives to reduce our carbon footprint and maintained our support for the communities where we operate. 
+Champion also reinforced its commitment to raise employee awareness of the rich cultural heritage of its First Nations 
+partners. We launched Kapatakan, a cultural immersion program designed to strengthen employee interaction and engagement with the Uashat Mak Mani-Utenam Innu community.
+At the heart of our success are the strong trust-based relationships we have developed with our Innu partners, the 
+extraordinary talent within our workforce, and the ongoing support of our shareholders.
+On behalf of the entire management team at Champion: thank you, merci, tshinashkumitin.
+DAVID CATAFORD
+CEOPerformance Indicators: GRI 2-22 
+7
+2025 SUSTAINABILITY REPORT | ABOUT THIS REPORT
+
+=== Page 10 ===
+Our Plans
+Empowering its vision, Champion provides a sustainable solution for the green steel5 
+supply chain by transforming its high-purity resources to enable emission reductions 
+for the steelmaking industry, which represents nearly 10% of global greenhouse gases emissions
+6. The Company has proven its capability to produce a direct reduction quality 
+iron ore which is used in direct reduced iron and electric arc furnace steelmaking, which generates significantly less GHG emissions than traditional steelmaking methods due to its lower dependence on coal. Enabled by its significant resources across the Labrador Trough, our Company’s growth initiatives include several projects including:
+1-Direct Reduction Pellet Feed Project 
+The Direct Reduction Pellet Feed Project aimed at upgrading half of Bloom Lake’s capacity to DR-quality iron ore grading up to 69% Fe. DR-quality iron ore enables a structural shift in the steel industry to produce steel with significantly less GHG emissions. More details on the DRPF project are available on our website at championiron.com. 
+2-Kami Project 
+Champion owns the Kamistiatusset mining properties, located a few kilometres south-east of Bloom Lake near available infrastructure. In March 2024, the Company announced the findings of a study for the Kami Project, which evaluated an estimated annual production of 9M wmt per year of DR quality iron grading above 67.5% Fe. In December 2024, Champion entered into a binding agreement with Nippon and Sojitz to form a partnership for the joint ownership and development of Kami, including the completion of a definitive feasibil-ity study by end of calendar 2026. More details on the Kami Project and the partnership announcement with Nippon and Sojitz are available on our website at championiron.com. 
+In addition to these projects, Champion owns a portfolio of exploration and development 
+projects in the Labrador Trough, including the Cluster II portfolio of properties, located within 60 km south of Bloom Lake.PERFORMANCE SPOTLIGHT
+Our Economic 
+Contributions (FY2025)Revenues: $1,606.6MNet Profit: $142.0MProcurement Spent
+7 : $1,650M
+Salary Spent: $259.9MIncome and mining taxes paid: $96.6M
+Our Production (FY2025)Ore mined and hauled: 39,884,000 wet metric tonnes 
+Iron ore concentrate produced: 
+13,834,200 wet metric tonnes
+Iron concentrate sold: 
+13,491,200 dry metric tonnes
+Our People (FY2025)Total number of Champion’s employees
+8  : 1,307
+Local and First Nations employees: 72
+5.  Green steel refers to steel that is produced using processes that significantly reduce or eliminate carbon dioxide (CO2) emis-
+sions compared to traditional steelmaking, which typically relies on blast furnaces that use coal as both a fuel and a reductant. 
+6.
+ IEA (2023), Emissions Measurement and Data Collection for a Net Zero Steel Industry
+, IEA, Paris 
+https://www.iea.org/reports/emissions-measurement-and-data-collection-for-a-net-zero-steel-industry, Licence: CC BY 4.0
+7.
+ Including capital investments
+8.
+ T
+otal permanent and contractual positions.
+10
+2025 SUSTAINABILITY REPORT | ABOUT CHAMPION IRON LIMITED
+
+=== Page 11 ===
+Our ProductsBenefiting from an industry-leading high-purity resource, Champion 
+commercially produces a low contaminant 66.2% Fe iron ore concentrate, with a proven ability to produce a DR quality pellet feed at 67.5% Fe, while advancing the DRPF project which is expected to produce DR quality pellet feed at up to 69% Fe. Our high-purity products meet the highest standards among steelmakers who rely on our materials to decarbonize their operations and are located primarily in China, Japan, Europe, the Middle East and South Korea. 
+Due to the low impurities and favourable characteristics of our 
+iron-bearing minerals, the extraction and concentration of our high-purity 66.2% Fe iron ore concentrate is completed using chemical-free gravimetric and magnetic processes. Champion’s high-purity iron ore concentrate enables steelmakers to use significantly less energy in the steelmaking process, and less coal, which reduces GHG emissions in the steelmaking pro-cess. Production of DR-quality pellet feed iron ore will enhance the Company’s ability to engage with DRI and EAF steelmakers, further contributing to the decarbonization of the steel indus-try. Accordingly, the transition to DRI-EAF steelmaking is critical as this transformation process produces approximately 50% of the emissions associated with the traditional BF-BOF steelmaking process.
+11
+2025 SUSTAINABILITY REPORT | ABOUT CHAMPION IRON LIMITED
+
+=== Page 14 ===
+Our Approach to Sustainability
+Champion aims to positively impact its stakeholders and our dedication to sustainability is 
+deeply anchored in our culture. Champion’s vision, strategy and values guide its approach to sustainability.  By innovating and producing high-purity iron ore products, we enable our customers to produce steel more sustainably. We continuously strive to provide a safe and inclusive working environment, avoiding social inequities, embracing cultures, respecting human rights, and protecting the environment and biodiversity. 
+Our commitment is articulated in our sustainability policies, including our Human Rights, 
+Environment, Responsible Procurement, Occupational Health and Safety, Prevention of 
+Harassment and Discrimination at Work, and Donation and Sponsorship Policies. Our policies are guided by legal and regulatory requirements that govern the jurisdictions where we operate, and authoritative international instruments such as the United Nations Guiding Principles on Business and Human Rights
+10.
+Our Human Rights Policy is informed by the United Nations Guiding Principles on Business and Human Rights, the International Bill of Human Rights (which includes the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights), and the International Labour Organization Core Conventions. It is additionally inspired by the risk management framework of the Equator Principles. The policy specifically references the rights of Indigenous peoples and members of host communities and includes prohibitions against child labour and all forms of modern slavery.Our commitment to human rights is included in mandatory human rights training that all Champion employees and Management must undertake as part of our annual Code of Conduct training. In addition, training on the Prevention and Management of Harassment and Discrimination is included in our employees’ annual learning program. While our policy commitments mainly apply to our organization, several commitments, including our Responsible Procurement Policy, also apply to our supply chain. Relevant policies and commitments are communicated to our employees when they are hired. All our publicly available policies can be found on our website at www.championiron.com. Champion’s Board of Directors and its relevant committees annually review the policies and how they are applied, in line with the vision, values, and objectives of the Company. Accordingly, during the reporting period, all corporate policies were thoroughly reviewed and updated when deemed required. 
+In line with our sustainability commitments, we aim to reduce the environmental footprint 
+of our activities along three primary axes. First, we strive to reduce our GHG emissions at the Bloom Lake mine site and from our supply chain. Second, we seek to maximize the use of recycled water at the mine site, hence reducing freshwater use. At Bloom Lake, a system of 50 collector basins collects rainwater and snowmelt that comes in contact with our infrastructure and this water is then used in our ore treatment process. Finally, in line with our goal to preserve, to the extent possible, the natural features of the site while we operate and in anticipation of the end of mine life, we strive to preserve ecosystems and to enhance local biodiversity. 
+Performance Indicators: GRI 2-24
+10. Our governance and sustainability policies do not explicitly reference due diligence and the application of the precautionary 
+principle, but they are guided by those principles. 
+14
+2025 SUSTAINABILITY REPORT | OUR APPROACH TO SUSTAINABILITY

@@ -1,0 +1,553 @@
+=== Table 1 (page 4) ===
+Key Developments in 2024,2024 standard ahead of its effective date of January 2026.,
+,,implement to achieve our aim of creating a positive mining
+A substantial portion of our efforts in 2024 has revolved,This provides a reporting framework that better focuses on,
+,,legacy.
+around the development of the Kiaka Project. Upon acquiring,"material topics relevant to the mining industry. Additionally, we",
+"the project in 2022, we inherited not only a mining permit with",are preparing for compliance with the Australian Sustainability,
+specific construction milestones but also over a decade of,"Reporting Standards (AASB), which includes:",
+community expectations for job creation and development. It,,
+,"+
+Assurance: Commencing assurance of Scope 1 and",
+became our responsibility to fulfill these expectations. Between,,
+,2 greenhouse gas emissions and energy consumption,
+"then and the end of 2024, we refined the project design which",,
+,presented in this Sustainability Report.,
+not only resulted in improved project economics but reduced,,
+,"+
+Climate Change Risk Assessment: Conducting a Climate",
+its land take footprint and associated impacts. We updated,,Mirey Lopez
+,Change Risk Assessment to identify climate-related risks,
+the Environmental and Social Impact Assessment (ESIA) and,,General Manager Sustainability
+,and opportunities. The risk assessment will be presented to,
+Resettlement Action Plan (RAP) to reflect these changes and,,
+,the WAF Board of Directors in Q1 2025 and integrated into,
+"align with current social and environmental context, leading to",,
+,future reporting.,
+the renewal of the project’s Environmental Certificate. While,,
+"we achieved our 2024 targets, what stands out for me above",,
+
+=== Table 2 (page 5) ===
+,Operations,,Environment,,
+,"206,622 ounces
+$730 million",$154 million,Biodiversity Strategy,GHG Scope 1 & 2 calculator,
+,"Annual gold production
+Annual revenue",Paid to Government of,Developed a WAF global Biodiversity Strategy,External review and update of GHG Scope,
+,,Burkina Faso in taxes and,,1 and 2 calculator,
+,,royalties,,,
+,Awards,,Social,,
+,Medal of honour,Multiple awards,$51 million,"$7 million
+$2.2 million",
+,,,,,
+,Awarded to SOMISA for,at MERC 2024,Paid as wages and,"Paid to Local Development
+Spent on community",
+,‘Local Communities’,,benefits to employees,"Mining Fund
+initiatives",
+,Held in Australia,,,,
+,,,95%,1.51,
+,,,Sanbrado employees are,Sanbrado TRIFR per million,
+,2024,,Burkinabé,hours worked,
+,,,,,
+,,,Governance,,
+,,,TSF Management Policy,"Privacy Policy
+Disclosure Policy",
+,,,,,
+,Highlights,,Published: December 2024,"Published: March 2024
+Published: December 2024",
+6,,West African Resources / Sustainability Report 2024,West African Resources / Sustainability Report 2024,,7
+
+=== Table 3 (page 6) ===
+,,,
+Report,effect 1 January 2026. Information was collated by the WAF,"unit manager. As part of this process, we recognise that",particular relevance to mining operations.  This ensures that
+,Sustainability Department in consultation with project Heads,stakeholder concerns vary across different projects areas.,our materiality assessment remains responsive and reflects
+This report presents the activities of West African,of Department. This Report and supporting information are,"To capture these nuances, we undertake direct engagement","global sustainability commitments, industry-specific risks and"
+"Resources Limited’s corporate office in Perth,",available online at WAF’s website:,"with local stakeholders, including project affected",local priorities.
+,www.westafricanresources.com,"communities, employees, government bodies, and NGOs. An",
+Australia and exploration and mining activities,,,
+,,,The complete list of material topics addressed in this Report
+,,essential tool in this process is the grievance mechanisms that,
+carried out by its subsidiaries in Burkina Faso.,This Report presents an update on WAF’s performance in 2024,,is presented in the GRI Content Index and described in
+,,"have been implemented at Sanbrado, Kiaka and Toega, which",
+,"across environmental, social and governance (ESG) topics",,Management of Material Topics.
+"In this report, ‘WAF’ and ‘the Company’ refer to West African",,set out a procedure for stakeholders to raise concerns and,
+,deemed to be material to our operations and our influence,,
+"Resources Limited and ‘WAF Group’, ‘we’ and ‘our’ refer to",,provide insights into emerging risks and material issues at the,
+,on those topics. Our approach to managing material topics,,Approving Entity
+"the Company and, or through, its operating subsidiaries,",,relevant site.,
+,is described in the section titled Management of Material,,
+,,,This Report has been approved for release by the Board of
+unless otherwise explicitly stated.  A full list of the Company’s,,,
+,"Topics. In conjunction with this Report, the related performance",The findings of the enterprise-level risk assessment are,
+,,,Directors of West African Resources Limited.
+subsidiaries can be found in the 2024 Annual Report.  The,,,
+,data and statistical information is presented in the 2024,"reviewed by WAF’s Board of Directors Risk Committee, which",
+management approaches described in this report apply to,,,
+,Sustainability Databook available on WAF’s website.,meets twice a year. The 2024 enterprise-level risk assessment,Third-party limited assurance has been provided by Bureau
+"the Group, however statistical information is focused on",,,
+,,did not identify new or emerging ESG risks. A summary of,Veritas of the Scope 1 and 2 greenhouse gas emissions and
+"the Sanbrado Gold Mine, the Kiaka Gold Project (under",,,
+,Materiality Assessment Process,stakeholder feedback is presented in Our Stakeholders.,energy consumption presented in this Report. Refer to Limited
+construction) and the Toega gold deposit (commencing mining,,,
+,,,Assurance Statement.
+,WAF applies a dual materiality approach to understand WAF,This Sustainability Report also incorporates relevant ESG,
+"in 2025), in addition to WAF’s corporate office.",,,
+,"Group’s impacts on its environmental, social, and governance","topics outlined in the new GRI 14: Mining Sector Standard,",The contact point for any enquiries related to this Report is
+This report covers a reporting period of 1 January 2024 to,,,
+,(ESG) context and the potential impacts of these issues on the,which aims to provide greater insight into ESG issues of,info@westafricanresources.com.
+31 December 2024 (aligned with financial reporting in the,,,
+,Company itself.,,
+Company’s 2024 Annual Report). Reports are prepared,,,
+,Assessment of ESG risks is informed by:,,
+annually and information from the previous reporting period,,,
+has been included where it provides the context necessary for,,,
+
+=== Table 4 (page 14) ===
+Environmental,,,,,,
+,,,,,,Alignment with Australian Sustainability Reporting Standard S2:
+Footprint,,,,,Climate-related Disclosures,
+,,,,,,The initial stage was a qualitative assessment of risks and
+,,,,,"In September 2024, the Australian Accounting",
+,,,,,,opportunities in alignment with the recommendations of the
+,,,,,,
+,,,,,Standards Board (AASB) published the,"Taskforce on Climate-related Financial Disclosures (TCFD),"
+,,,,,"Australian Sustainability Reporting Standards,",
+,,,,,,the Australian Sustainability Reporting Standard S2 and
+,,,,,which closely align with the international,
+,,,,,,ISO 31000:2018 Risk Management. This assessment
+,,,,,benchmark: the IFRS Sustainability Disclosure,"identified physical and transition risks, under the high"
+Key environmental metrics,,2024,2023,2022,Standards.,emissions scenario and low emissions scenario respectively.
+,,,,,,The assessment also provided an analysis of WAF’s current
+,Scope 1 emissions (t CO2e),"168,660","129,068","121,354",,
+,,,,,The Australian Standards comprise:,
+,,,,,,alignment with AASB S2 and a path forward for meeting the
+,Scope 3 emissions (t CO2e),"207,946","128,540",-,,
+"GHG 
+emissions",,,,,,disclosure requirements.
+,,,,,"S1: General Requirements for Disclosure of Sustainability-
+ +",
+,Emissions intensity - Scope 1 only (t CO2e/oz),0.82,0.57,0.53,,
+,,,,,related Financial Information [for which disclosure is,
+,,,,,,"In 2025, WAF will undertake a decarbonisation study to"
+,Energy consumption (GJ),"1,693,215","1,657,571",-,,
+,,,,,voluntary]; and,
+,,,,,,identify and prioritise emissions reduction opportunities
+,Water withdrawal (megalitres),"3,458","5,520","4,076",,
+,,,,,"S2: Climate-related Disclosures [for which disclosure is 
+ +",
+,,,,,,which maximise both financial and environmental outcomes.
+Water,Water recycled or reused (megalitres),"2,954","1,693","2,841",mandatory for WAF].,
+,,,,,,This will inform preparation of a robust transition plan.
+,Water consumed (megalitres),"5,736","4,510","3,312",To ensure compliance with AASB S2 starting from 1 January,
+,,,,,,Foresight also supported WAF in 2024 to provide a review
+,Cumulative land clearance for mining operations (ha),"1,503*",892*,757,"2025, WAF is pursuing a work program to collect and report",
+,,,,,,"of our in-house Scope 1 and 2 calculations, as well as"
+,,,,,"the necessary information. In 2024, we engaged Foresight",
+"Biodi-
+versity",Cumulative area rehabilitated (ha),28,23.8,13.8,,
+,,,,,,"developing a bespoke Scope 3 emissions calculator, which"
+,,,,,Consulting Group (Foresight) to undertake a scenario-based,
+,Number of plants produced by nurseries,"31,700","33,800","20,000",,will enable reliable and consistent calculation and reporting
+,,,,,assessment of risks and opportunities across our operations,
+,Total waste generated (t),"10,732,753","18,521,049","18,945,232",,of emissions going forward. These initiatives also put us in a
+,,,,,and value chain. The assessment adopted a high emission,
+,,,,,,strong position in advance of the introduction of mandatory
+,Waste diverted from disposal – non-mineral waste (t),"3,163","1,814","1,176",,
+,,,,,scenario (SSP 5/RCP 8.5) and low emission scenario (SSP 1/,
+Waste,,,,,,"assurance of emissions reporting, under AASB S2."
+,Waste directed to disposal – non-mineral waste (t),309,258,241,RCP 2.6) and considered risks and opportunities over three,
+
+=== Table 5 (page 14) ===
+,,,,,"Taskforce on Climate-related Financial Disclosures (TCFD),"
+,,,,"Australian Sustainability Reporting Standards,",
+,,,,,the Australian Sustainability Reporting Standard S2 and
+,,,,which closely align with the international,
+,,,,,ISO 31000:2018 Risk Management. This assessment
+,,,,benchmark: the IFRS Sustainability Disclosure,"identified physical and transition risks, under the high"
+Key environmental metrics,2024,2023,2022,Standards.,emissions scenario and low emissions scenario respectively.
+,,,,,The assessment also provided an analysis of WAF’s current
+Scope 1 emissions (t CO2e),"168,660","129,068","121,354",,
+,,,,The Australian Standards comprise:,
+,,,,,alignment with AASB S2 and a path forward for meeting the
+Scope 3 emissions (t CO2e),"207,946","128,540",-,,
+,,,,,disclosure requirements.
+,,,,"S1: General Requirements for Disclosure of Sustainability-
+ +",
+Emissions intensity - Scope 1 only (t CO2e/oz),0.82,0.57,0.53,,
+,,,,related Financial Information [for which disclosure is,
+,,,,,"In 2025, WAF will undertake a decarbonisation study to"
+Energy consumption (GJ),"1,693,215","1,657,571",-,,
+,,,,voluntary]; and,
+,,,,,identify and prioritise emissions reduction opportunities
+Water withdrawal (megalitres),"3,458","5,520","4,076",,
+,,,,"S2: Climate-related Disclosures [for which disclosure is 
+ +",
+,,,,,which maximise both financial and environmental outcomes.
+Water recycled or reused (megalitres),"2,954","1,693","2,841",mandatory for WAF].,
+,,,,,This will inform preparation of a robust transition plan.
+Water consumed (megalitres),"5,736","4,510","3,312",To ensure compliance with AASB S2 starting from 1 January,
+,,,,,Foresight also supported WAF in 2024 to provide a review
+Cumulative land clearance for mining operations (ha),"1,503*",892*,757,"2025, WAF is pursuing a work program to collect and report",
+,,,,,"of our in-house Scope 1 and 2 calculations, as well as"
+,,,,"the necessary information. In 2024, we engaged Foresight",
+Cumulative area rehabilitated (ha),28,23.8,13.8,,
+,,,,,"developing a bespoke Scope 3 emissions calculator, which"
+,,,,Consulting Group (Foresight) to undertake a scenario-based,
+Number of plants produced by nurseries,"31,700","33,800","20,000",,will enable reliable and consistent calculation and reporting
+,,,,assessment of risks and opportunities across our operations,
+Total waste generated (t),"10,732,753","18,521,049","18,945,232",,of emissions going forward. These initiatives also put us in a
+,,,,and value chain. The assessment adopted a high emission,
+,,,,,strong position in advance of the introduction of mandatory
+Waste diverted from disposal – non-mineral waste (t),"3,163","1,814","1,176",,
+,,,,scenario (SSP 5/RCP 8.5) and low emission scenario (SSP 1/,
+,,,,,"assurance of emissions reporting, under AASB S2."
+Waste directed to disposal – non-mineral waste (t),309,258,241,RCP 2.6) and considered risks and opportunities over three,
+"Income for community projects, generated by waste",,,,"industry standard time horizons (2030, 2050 and 2090).",
+,"$122,000","$145,000","$84,000",,
+recycling initiatives,,,,,
+
+=== Table 6 (page 15) ===
+,,,,,,,,Water withdrawal in 2024 was lower than in 2023 due to a
+,,,,,,,,shift in mining operations from a deep open pit operation (with
+,,,,,,,,"high dewatering needs) to a pit area which is shallower, with"
+,,,,,,,,lower dewatering needs. Surface water withdrawal metrics
+,,,,,,,,"have remained constant, as a function of the capacity of the"
+,,,,,,,,water storage facility and seasonal water extraction criteria set
+,,,,,,,,out by the Nakambé River Water Authority. Extraction is only
+,,,,,,,,"permissible during the rainy season,  when there is sufficient"
+,,,,,,,,flow to avoid impact on the environment or downstream users.
+,,,,,,,,"Similarly, water discharge reduced significantly in 2024, as a"
+,,,,,,,,result of the reduced need for dewatering.
+,,,,,,,,Kiaka
+,,,,,,,,Key water infrastructure to support Kiaka was installed during
+,,,,,,,,2024. The water storage facility (WSF) was constructed to
+,,,,,,,,have a capacity of 2.1Mm3 fed by a pipeline to the.  Recycling
+,,,,,,,,"and reuse of water (e.g., decant water from the TSF, contact"
+,,,,,,,,water from other parts of the site) will be prioritised to
+,,,,,,,,minimise the amount of water that needs to be sourced from
+,,,,,,,,the Nakambé River.
+,,,,,,,,Water withdrawal and consumption at Kiaka remained relatively
+,,,,,,,,low during 2024 (265 megalitres). A small proportion of this
+,,,,,,,,"was used for general consumption (e.g., drinking, washing,"
+,,,,,,,,"cooking), with 94% of all water consumption used in the"
+,,,,,,,,construction of the project. Dust suppression in particular
+,,,,,,,,requires a significant amount of water. During the dry season
+,,Emissions and Climate Change,,,,,,
+,,,,,,,Water Stewardship,targeted dust control measures are implemented on the main
+Highlights,,,,,,,,"mine access road, haul roads, ring road and other areas prone"
+,,,,,,,,
+,,WAF Group’s 2024 GHG emissions,,,Breakdown of Scope 1 emissions,,Sanbrado,to dust generation to minimise dust nuisance to surrounding
+,,Scope 2,,,,,Water management at Sanbrado continued to improve in,
+,,,,,,,,households and communities. Dust suppression is carried out
+,,<0.1%,,,,,"2024, with improvements to the water balance model which is",
+,,,,,,,,by local contractors.
+,,,,,,,used to monitor and report on water use and loss around the,
+,,,,,,,,Water quality monitoring was undertaken on a quarterly basis
+,,,,,,,site. By incorporating evaporation and TSF residual water into,
+,,,,,,,,
+Community waste initiatives,,,,,,,"the model, the Sanbrado environmental management team","throughout the year, as described in Management of Material"
+,,,,,,,,"Topics. This includes monitoring of surface water, groundwater"
+"generated $122,000, while",,,,,,,is better able to account for water use and to forecast future,
+,Scope 1,,,,,,,"(via boreholes on site), community boreholes, and discharge"
+,,,,,,,,
+pig farmers benefited from,,,,,Kiaka,,water availability. This improvement to the model also enabled,
+,44.8%,,,,,,,of treated water from the on-site wastewater treatment plant
+,,,Scope 3,,15.7%,,"a recalculation of water use in previous years, resulting in the",
+236t of food waste from Kiaka,,,,,,Sanbrado,,
+,,,55.2%,,,,,(which is reused in the on-site plant nursery).
+,,,,,,29.1%,restatement of water consumption data for 2022 and 2023,
+and Sanbrado,,,,,,,,
+,,,,,,,(refer to the Sustainability Databook).,
+"11,700 trees planted at",,,,,,,,
+Sanbrado through the,,,,,,,,
+,,Breakdown of Scope 3 emissions,,,,,,
+progressive rehabilitation,,,,,,,,
+program,,,,,,,,
+,,,"Categories 4, 5, 6, 7 and 10",,,,,
+,Category 3,,,,,,,
+,,,,Category 1,,,,
+Water reuse increased from,,,,,,,,
+2023,,,,,,,,
+
+=== Table 7 (page 22) ===
+GRI CONTENT INDEX,,,,,,,,,
+Topic no.,Disclosure,Disclosure title,Location of disclosure,,Topic no.,Disclosure,Disclosure title,Location of disclosure,
+,no.,,,,,no.,,,
+,GRI General Disclosures,,,,14.4.6,101-6,Direct drivers of biodiversity loss,Sustainability Databook,Biodiversity
+GRI 2,2-1 to,General Disclosures,Sustainability Databook,General Disclosures,14.4.7,101-7,Changes to the state of biodiversity,Information unavailable. This information is not presently,
+,2-30,,,,,,,,collected consistently for all project sites. This disclosure will be
+,,,,,,,,"included in future reporting, where appropriate.",
+GRI 3,3-1,Process to determine material,Sustainability Report,Materiality Assessment Process,,,,,
+,,topics,,(page 8),14.4.8,101-8,Ecosystem services,Sustainability Databook,Biodiversity
+,3-2,List of material topics,Sustainability Report,Management of Material Topics,14.5,Waste,,,
+,3-3,Management of material topics,Sustainability Report,Management of Material Topics,14.5.1,3-3,Management of material topic,Sustainability Report,Management of Material Topics
+,GRI Mining Sector Standard,,,,14.5.2,306-1,Waste generation and significant,Sustainability Report,Management of Material Topics
+,,,,,,,waste-related impacts,,
+14.0.1,-,Mine site disclosures,Sustainability Databook,Projects and Impact ID,,,,,
+,,,,,14.5.3,306-2,Management of significant waste-,Sustainability Report,Management of Material Topics
+14.1,GHG emissions,,,,,,,,
+,,,,,,,related impacts,,
+14.1.1,3-3,Management of material topic,Sustainability Report,Management of Material Topics,,,,,
+,,,,,14.5.4,306-3,Waste generated,Sustainability Report,Managing our Environmental
+14.1.2,302-1,Energy consumption within the,Sustainability Report,Managing our Environmental,,,,,
+,,,,,,,,,"Footprint (pages 24, 29)"
+,,organization,,Footprint (page 24),,,,S,
+,,,S,,,,,ustainability Databook,Waste
+,,,ustainability Databook,Energy & emissions,,,,,
+,,,,,14.5.5,306-4,Waste diverted from disposal,Sustainability Report,Managing our Environmental
+14.1.3,302-2,Energy consumption outside the,Information unavailable. WAF has not sourced energy consumption,,,,,,
+,,,,,,,,,"Footprint (pages 24, 29)"
+,,organization,data from its supply chain. This data gap will be incorporated into,,,,,S,
+,,,,,,,,ustainability Databook,Waste
+,,,WAF's supply chain due diligence exercise.,,,,,,
+,,,,,14.5.6,306-5,Waste directed to disposal,Sustainability Report,Managing our Environmental
+14.1.4,302-3,Energy intensity,Sustainability Databook,Energy & emissions,,,,,"Footprint (pages 24, 29)"
+14.1.5,305-1,Direct (Scope 1) GHG emissions,Sustainability Report,Managing our Environmental,,,,"S
+ustainability Databook",Waste
+,,,S,Footprint (page 24),-,-,Acid rock drainage,Sustainability Databook,Waste
+,,,ustainability Databook,Energy & emissions,,,,,
+,,,,,14.6,Tailings,,,
+14.1.6,305-2,Energy indirect (Scope 2) GHG,Sustainability Databook,Energy & emissions,,,,,
+,,,,,14.6.1,3-3,Management of material topic,Sustainability Report,Management of Material Topics
+,,emissions,,,,,,,
+,,,,,14.6.2,-,Tailings disposal methods,Sustainability Databook,Tailings
+14.1.7,305-3,Other indirect (Scope 3) GHG,Sustainability Report,Managing our Environmental,,,,,
+,,,,,14.6.3,-,Tailings facilities,Sustainability Report,Managing our Environmental
+,,emissions,,Footprint (page 24),,,,,
+,,,S,,,,,,Footprint (page 29)
+,,,ustainability Databook,Energy & emissions,,,,S,
+,,,,,,,,ustainability Databook,Tailings
+14.1.8,305-4,GHG emissions intensity,Sustainability Report,Managing our Environmental,,,,,
+,,,,Footprint (page 24),14.7,Water and effluents,,,
+,,,ustainability Databook,Energy & emissions,14.7.1,3-3,Management of material topic,Sustainability Report,Management of Material Topics
+14.1.9,305-5,Reduction of GHG emissions,No significant GHG reduction initiatives were implemented in,,,,,,
+,,,,,14.7.2,303-1,Interactions with water as a shared,Sustainability Report,Management of Material Topics
+,,,2024. WAF will determine suitable GHG emissions reduction,,,,,,
+,,,,,,,resource,,
+,,,initiatives as part of its future climate change strategy.,,,,,,
+,,,,,14.7.3,303-2,Management of water discharge-,Sustainability Report,Management of Material Topics
+14.2,Climate adaptation and resilience,,,,,,related impacts,,
+14.2.1,3-3,Management of material topic,Sustainability Report,Management of Material Topics,14.7.4,303-3,Water withdrawal,Sustainability Report,Managing our Environmental
+,,,,,,,,,"Footprint (pages 24, 27)"
+14.2.2,201-2,Financial implications and other,Confidentiality constraints. WAF conducted a qualitative climate,,,,,S,
+,,,,,,,,ustainability Databook,Water
+,,risks and opportunities due to,"change risk assessment in 2024, which is to be presented to",,,,,,
+,,climate change,the WAF Board of Directors in 2025. Risks and opportunities,,14.7.5,303-4,Water discharge,Sustainability Databook,Water
+,,,due to climate change will not be disclosed before the Board of,,,,,,
+,,,,,14.7.6,303-5,Water consumption,Sustainability Report,Managing our Environmental
+,,,Directors has reviewed the risk assessment.,,,,,,
+,,,,,,,,,"Footprint (pages 24, 27)"
+14.3,Air emissions,,,,,,,"S
+ustainability Databook",Water
+14.3.1,3-3,Management of material topic,Sustainability Report,Management of Material Topics,14.8,Closure and Rehabilitation,,,
+14.3.2,305-7,"Nitrogen oxides (NOX), sulfur",Sustainability Databook,Energy & Emissions,14.8.1,3-3,Management of material topic,Sustainability Report,Management of Material Topics
+,,"oxides (SOX), and other significant",,,,,,,
+,,,,,14.8.2,402-1,Minimum notice periods regarding,,Not applicable. This topic is not addressed in current company
+
+=== Table 8 (page 34) ===
+"the government with the delivery of services to the communities and people of Burkina Faso. This, and our compliance with tax",,
+,"any procedures on the excluded information and, therefore, do not express any conclusion on it.",
+"laws, was recognised in 2023 when SOMISA was awarded two certificates of excellence by the Burkina Faso tax department.",,
+,Subject Matter Information,Assured Figure
+"In terms of engagement regarding tax and tax policy, we are a member of the Burkina Faso Chamber of Mines.",,
+,Scope 1 GHG emissions – Sanbrado site,"109, 686 tCO2-eq"
+Our Whistleblower Policy is the primary route by which concerns around our business conduct can be reported. The policy is,,
+,Scope 1 GHG emissions – Kiaka site,"58,974 tCO2-eq"
+published on our website and the mechanism set out in this policy is available to everyone and can be used to report concerns,,
+,Subtotal Scope 1 GHG emissions (Sanbrado and Kiaka sites only),"168,660 tCO2-eq"
+both internally and to an external party.,,
+,Scope 2 GHG emissions (location based) – all sites,132.8 tCO2-eq
+,Total Energy Consumption – all sites,"1,693,215 GJ"
+Topic 14.22 Anti-Corruption,R,
+
+=== Table 9 (page 34) ===
+Topic 14.23 Government and tax transparency,LIMITED ASSURANCE STATEMENT
+"We are committed to being responsible participants in the economy of Burkina Faso. As such, we pay all taxes, royalties and other",
+economic contributions as required by national legislation and the applicable conditions of our mining permits. Our approach to,
+"tax is reflected in our Code of Conduct, which states that “it is essential that all personnel, suppliers, consultants and contractors:",
+comply with all laws and regulations under which the Company operates; comply with the ethical and technical requirements of,
+any relevant regulatory or professional body; do not knowingly participate in illegal activities or unethical conduct.”,
+"Recognising that tax is a highly complex, highly specialised, and rapidly changing regulatory environment, our approach is to",
+,INDEPENDENT ASSURANCE STATEMENT
+"have open, honest and transparent relationships with our highly regarded and highly qualified external tax advisors in each tax",
+"jurisdiction in which we do business. As such, these external tax advisors have a comprehensive understanding of our planned",T
+,o the Stakeholders of West African Resources Limited (“WAF”)
+and historical business transactions and can effectively advise and support us to fully comply in all aspects of tax in each,
+,"L
+imited Assurance Conclusion"
+jurisdiction in which our companies are domiciled.,
+,"Based on the procedures performed and evidence obtained, nothing has come to our attention that causes us to believe the scope 1 and 2 GHG emissions"
+,"and total energy consumption (“Subject Matter Information”) , including associated methods, assumptions, and estimation uncertainty, presented in WAF's"
+"We aim for full legal tax compliance in each jurisdiction in which our companies are domiciled, including complete and accurate",
+,"2024 Sustainability Report for the period of 1st January 2024 to 31st December 2024 (“the Report”), is not fairly presented and prepared, in all material"
+"tax reporting to relevant authorities. In the interests of transparency, we also publicly disclose payments to governments (Burkina","respects, in accordance with the Reporting Criteria, within the scope of our limited assurance engagement."
+"Faso, Australia, and Canada) in our annual Sustainability Report (refer to the ESG Databook).",S
+,cope of the Assurance Engagement
+,The scope of assurance was limited to the below Subject Matter Information applicable for the following sites under WAF’s operational control including
+The CFO has delegated responsibility for the WAF Group’s overall tax planning and tax compliance.,"WAF’s corporate office in Perth, Australia, and sites located in Burkina Faso: Sanbrado Gold Project (legal entity ""Société des Mines de Sanbrado SA""),"
+,"Kiaka Gold Project (legal entity ""Kiaka SA"") and Toega gold deposit (legal entity ""Toega SA"")."
+We are one of the largest contributors of tax and royalty revenue to the government of Burkina Faso.  This revenue greatly assists,
+,"O
+ur assurance engagement does not extend to any other information included in the Report or information from earlier periods. We have not performed"
+"the government with the delivery of services to the communities and people of Burkina Faso. This, and our compliance with tax",
+,"any procedures on the excluded information and, therefore, do not express any conclusion on it."
+"laws, was recognised in 2023 when SOMISA was awarded two certificates of excellence by the Burkina Faso tax department.",
+,"Subject Matter Information 
+Assured Figure"
+"In terms of engagement regarding tax and tax policy, we are a member of the Burkina Faso Chamber of Mines.",
+,"Scope 1 GHG emissions – Sanbrado site  
+109, 686 tCO2-eq"
+Our Whistleblower Policy is the primary route by which concerns around our business conduct can be reported. The policy is,
+,"Scope 1 GHG emissions – Kiaka site 
+58,974 tCO2-eq"
+published on our website and the mechanism set out in this policy is available to everyone and can be used to report concerns,
+,"Subtotal Scope 1 GHG emissions (Sanbrado and Kiaka sites only) 
+168,660 tCO2-eq"
+both internally and to an external party.,
+,"Scope 2 GHG emissions (location based) – all sites 
+132.8 tCO2-eq"
+,"Total Energy Consumption – all sites 
+1,693,215 GJ"
+Topic 14.22 Anti-Corruption,
+,"R
+eporting Criteria"
+We stand firmly against corruption. This position is formalised through our Code of Conduct which applies to everyone working for,
+,The Subject Matter Information was prepared in accordance with WAF’s self-determined criteria presented in the following internal document “Scope 1 &
+"and on behalf of WAF, including all employees and members of the Board and all business partners (i.e., suppliers, consultants,","2  greenhouse  gas  emissions  quantification  assessment  version  3”  (dated  November  2024),  the  GHG  Protocol  Corporate  Accounting  and  Reporting"
+,Standard (Revised Edition) (2015) issued by the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD)
+contractors). The Code of Conduct is communicated to employees during their induction into the WAF Group and through ongoing,
+,"and the GRI Standards 302-1:2016 Energy consumption within the organisation, 305-1:2016 Direct (Scope 1) GHG emissions and 305:2 Energy indirect"
+internal announcements.,(Scope 2) GHG emissions developed by the Global Sustainability Standards Board (GSSB). Refer to the notes as presented in the “Energy & Emissions”
+,tab of the Sustainability Databook 2024 for more information.
+Actions taken to prevent corruption:,W
+,AF’s Responsibilities
+,
+In our operations:,Management of WAF was responsible for:
+,"- 
+Selecting and establishing suitable reporting criteria for preparing the Subject Matter Information subject to assurance."
+,"- 
+Preparing and presenting the Subject Matter Information in accordance with the Reporting Criteria."
+"Diligence in financial reporting is overseen by our Commercial Managers, as well as corporate oversight and review. 
+ +",
+,"- 
+Designing, implementing, and maintaining internal controls relevant to the preparation of the Subject Matter Information that is free from material"
+"Each project has a competent Security Department, capable of investigating any complaints received or anomalies detected.
+ +",misstatement whether due to fraud or error.
+,"- 
+Advising us of any known or suspected issues related to the Subject Matter Information."
+"Each project has a grievance mechanism in place, monitored by its Community Relations Department. 
+ +",
+,"O
+ur Responsibilities"
+"A WAF Group Whistleblower Policy is in place, enabling concerns to be raised by anyone associated with the WAF Group.   
+ +",
+,Bureau Veritas was responsible for:
+"Corporate Risk and Human Resource functions oversee and investigate any areas of concern.
+ +","- 
+Planning and performing the engagement to obtain the intended level of assurance about whether the Subject Matter Information is free from"
+,"material misstatement, whether due to fraud or error."
+"+
+Corruption is included in our enterprise-level risk assessments which are reviewed and updated annually.",
+,"- 
+Forming an independent conclusion based on the procedures performed and evidence obtained."
+,"- 
+Reporting our conclusion to the Directors of WAF."
+"In our dealings with suppliers, contractors and business partners",
+,"B
+ureau Veritas was not involved in the drafting of the report and our independence has not been compromised."
+"+
+Due diligence of contractual arrangements by our Commercial Teams, Safety Teams and Project Directors.",S
+,ummary of Work Performed
+,Our limited assurance engagement on the Subject Matter Information was conducted in accordance with ISAE 3000 Assurance Engagements other than
+In our dealings with government and other authorities:,
+,Audits or Reviews of Historical Financial Information and ISAE 3410 Assurance Engagements on Greenhouse Gas Statements issued by the International
+,"Auditing and Assurance Standards Board (IAASB), and Bureau Veritas’ procedure for Sustainability Assurance Engagements."
+"All meetings with government personnel are documented.
+ +",
++ We maintain an executive-level oversight of government interactions and advice is provided to the Board when considered,"O
+ur work was planned and executed in a manner designed to produce the intended level of assurance and to provide a sound basis for our conclusions."
+necessary.,
+
+=== Table 10 (page 36) ===
+Acronyms and abbreviations,,Glossary,
+OHS,occupational health & safety,governance body,"Formalised group of individuals responsible for the strategic guidance of the organisation, the"
+PAF,,,"effective monitoring of management, and the accountability of management to the broader"
+,potentially acid forming,,
+,,,organisation and its stakeholders
+PAP,project-affected people,,
+,,greenhouse gas,Gas that contributes to the greenhouse effect by absorbing infrared radiation
+PDA,project development area,,
+,,grievance,"Perceived injustice evoking an individual’s or a group’s sense of entitlement, which may be"
+PM,particulate matter,,
+,,,"based on law, contract, explicit or implicit promises, customary practice, or general notions of"
+"Q1, Q2, Q3, Q4","quarter 1, quarter 2, quarter 3, quarter 4 of the calendar year",,
+,,,fairness of aggrieved communities
+RAP,Resettlement Action Plan,,
+,,grievance mechanism,Routinised process through which grievances can be raised and remedy can be sought
+RL,reduced level (the RL of a point is its height above/below the adopted datum.,,
+,,groundwater,"Water that is being held in, and that can be recovered from, an underground formation"
+,"It provides an absolute height, instead of relative height)",,
+,,hazardous waste,"Waste that possesses any of the characteristics contained in Annex III of the Basel Convention,"
+SDG,Sustainable Development Goals,,
+,,,or that is considered to be hazardous by national legislation
+SEP,Stakeholder Engagement Plan,,
+,,hierarchy of controls,"Systematic approach to enhance occupational health and safety, eliminate hazards, and"
+SOMISA,Société des Mines de Sanbrado SA,,
+,,,minimise risks
+SONASP,National Company of Precious Substances / Société Nationale des Substances Précieuses,,
+,,high-consequence work-,"Work-related injury that results in a fatality or in an injury from which the worker cannot, does"
+STI,sexually transmitted infection,,
+,,related injury,"not, or is not expected to recover fully to pre-injury health status within six months"
+TRIFR,total recordable injury frequency rate,,
+,,human rights,"Rights inherent to all human beings, which include, at a minimum, the rights set out in the UN"
+TSF,tailings storage facility,,International Bill of Rights and the principles concerning fundamental rights set out in the ILO
+WAF,West African Resources Limited,,Declaration on Fundamental Principles and Rights at Work
+,,impact,"Effect the organisation has or could have on the economy, environment, and people, including"
+Glossary,,,"on their human rights, which in turn can indicate its contribution (negative or positive) to"
+area of high biodiversity,"Area not subject to legal protection, but recognised for important biodiversity features by a",,sustainable development
+value,number of governmental or non-governmental organisations,incineration,Controlled burning of waste at high temperatures
+base year,Historical datum (such as year) against which a measurement is tracked over time,infrastructure,"Facilities built primarily to provide a public service or good rather than a commercial purpose,"
+baseline,Starting point used for comparisons,,and from which the organisation does not seek to gain direct economic benefit
+basic salary,"Fixed, minimum amount paid to an employee for performing his or her duties",landfilling,"Final depositing of solid waste at, below, or above ground level at engineered disposal sites"
+biogenic carbon dioxide,,local community,Individuals or groups of individuals living or working in areas that are affected or that could be
+,Emission of CO2 from the combustion or biodegradation of biomass,,
+,,,affected by the organisation’s activities
+(CO2) emission,,,
+,,local supplier,"Organisation or person that provides a product or service to the organisation, and that is based"
+carbon dioxide (CO2),Measure used to compare the emissions from various types of greenhouse gas based on their,,
+equivalent,global warming potential,,in the same geographic market
+community development,"Program that details actions to minimise, mitigate, or compensate for adverse social and/or",material topics,"Topics that represent the organisation’s most significant impacts on the economy, environment,"
+program,"economic impacts, and/or to identify opportunities or actions to enhance positive impacts of a",,"and people, including impacts on their human rights"
+,project on the community,mitigation,Action(s) taken to reduce the extent of a negative impact
+direct (Scope 1) GHG,Greenhouse gas emissions from sources that are owned or controlled by the organisation,non-guaranteed hours,"Employee who is not guaranteed a minimum or fixed number of working hours per day, week, or"
+emissions,,employee,"month, but who may need to make themselves available for work as required"
+discrimination,Act and result of treating persons unequally by imposing unequal burdens or denying benefits,occupational health and,Set of interrelated or interacting elements to establish an occupational health and safety policy
+,instead of treating each person fairly on the basis of individual merit,safety management system,"and objectives, and to achieve those objectives"
+disposal,"Any operation which is not recovery, even where the operation has as a secondary consequence",occupational health and,"Combination of the likelihood of occurrence of a work-related hazardous situation or exposure,"
+,the recovery of energy,safety risk,and the severity of injury or ill health that can be caused by the situation or exposure
+effluent,Treated or untreated wastewater that is discharged,occupational health,"Services entrusted with essentially preventative functions, and responsible for advising the"
+employee,Individual who is in an employment relationship with the organisation according to national law,services,"employer, the workers, and their representatives in the undertaking, on the requirements for"
+,or practice,,"establishing and maintaining a safe and healthy work environment, which will facilitate optimal"
+,,,physical and mental health in relation to work and the adaptation of work to the capabilities of
+employee category,Breakdown of employees by level or function,,
+,,,workers in the light of their state of physical and mental health
+employee turnover,"Employees who leave the organisation voluntarily or due to dismissal, retirement, or death in",,
+,,operation with significant,"Operation, considered alone or in combination with the characteristics of local communities,"
+,service,,
+,,actual or potential,"that has a higher than average potential of negative impacts, or actual negative impacts, on the"
+energy indirect (Scope 2),"Greenhouse gas emissions that result from the generation of purchased or acquired electricity,",,
+,,negative impacts on local,"social, economic or environmental well-being of local communities"
+GHG emissions,"heating, cooling, and steam consumed by the organisation",,
+,,communities,
+environmental laws and,Laws and regulations related to all types of environmental issues applicable to the organisation,,
+,,other indirect (Scope 3),Indirect greenhouse gas emissions not included in energy indirect (Scope 2) GHG emissions
+regulations,,,
+,,GHG emissions,"that occur outside of the organisation, including both upstream and downstream emissions"
+freshwater,"Water with concentration of total dissolved solids equal to or below 1,000 mg/L",,
+,,part-time employee,"Employee whose working hours per week, month or year are less than the number of working"
+full-time employee,"Employee whose working hours per week, month, or year are defined as full-time according to",,
+,,,hours for full-time employees
+,national law or practice regarding working time,,
+,,permanent employee,"Employee with a contract for an indeterminate period (i.e., indefinite contract) for full-time or"
+global warming potential,Value describing the radiative forcing impact of one unit of a given greenhouse gas relative to,,
+,,,part-time work
+,one unit of CO2 over a given period of time,,

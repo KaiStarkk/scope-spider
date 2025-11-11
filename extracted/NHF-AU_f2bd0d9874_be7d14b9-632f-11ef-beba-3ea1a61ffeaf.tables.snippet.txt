@@ -1,0 +1,285 @@
+=== Table 1 (page 13) ===
+,,,"Partially achieved 
+  Not achieved
+  Achieved"
+Sustainability,,,
+Pillar,Target,Performance,Commentary
+,"42,000 members participating",,"This year, more than 90,600 members across the Group had"
+,in a general health interaction,,a general health interaction.
+,across the Group,,
+,"20,000 members enrolled in",,"22,733 members enrolled in a health management program"
+,health management programs,,during FY24.
+,across the Group,,
+,"28,000 health assessments",,"More than 78,600 health assessments or screens were"
+Population,,,
+,or screens undertaken by,,undertaken by nib members this year.
+Health,,,
+,nib members,,
+,Launch care navigation pathway,,"The development of Bourke Pathways, our care navigation"
+,"in Bourke, NSW",,"program in Bourke, was completed in FY24. Launch is"
+,,,expected later this year.
+,Introduce one new mechanism,,
+,,,We introduced environmental performance-related
+,designed to improve,,
+,,,conditions into new contractual agreements with strategic
+,environmental performance of,,
+,,,"suppliers, where possible."
+,suppliers,,
+,Develop a Climate Action and,,Our Climate Action and Resilience Plan was developed and
+,Resilience Plan,,approved in June.
+,Maintain carbon neutral,,We are proud to have received carbon neutral certification
+,certification,,for our operational FY23 emissions from Climate Active.
+Natural,,,
+,Maintain Scope 1 and 2 emissions,,In FY24 our total emissions rose 23.8%. Scope 1 emissions
+Environment,,,
+,and 2.5% reduction in Scope 3,,rose by 7.2% and our Scope 2 emissions fell by 9.9%. Our
+,emissions,,Scope 3 emissions increased by 24.4% driven by an uplift
+,,,in marketing and advertising expenses to support business
+,,,"growth, as well as increased business travel. Accordingly,"
+,,,we have not achieved this target.
+,,,For more information on our emissions see page 17.
+,Maintain 40/40/20 gender mix,,The gender mix for our leadership population for the year
+,"in Board, heads of business unit,",,"was 57% female-identifying, 43% male-identifying and 0%"
+,team leaders and management,,gender diverse.
+,positions1,,
+,,,"In Board positions, we are slightly below target at 37.5%"
+,,,"female representation2. In Non-Executive Director positions,"
+,,,we achieved 40/40/20 representation.
+,,,"As a result, we consider our target to be partially met."
+,,,See page 19 for further information.
+,100% of FY24 DEI deliverables,,We have delivered 100% of our FY24 actions as committed to
+"People,",achieved,,under our DEI Plan.
+Culture &,,,
+,Provide three career pathway,,During the year we provided three career pathway programs
+Employment,,,
+,programs for people early in,,to people early in their career to join nib. These were our
+,their career to join nib,,"Tupu Toa Internship Program in New Zealand, our 2024"
+,,,"Graduate Program, and a program that saw us welcome"
+,,,four First Nations trainees into the arhi Contact Centre.
+,Employee engagement score of,,Our FY24 employee engagement score was 77%. This is
+,79% or greater,,above the global benchmark of 73% but is below our target
+,,,of 79%.
+
+=== Table 2 (page 20) ===
+Taking action on emissions
+"In FY24, we took the next step in our 
+of our environmental footprint and 
+the amount of waste generated from"
+"climate strategy, developing our internal 
+opportunities for improvement.
+producing physical cards and mailing"
+"Climate Action and Resilience Plan 
+with more than 100,000 physical cards"
+Our shift to the cloud for on-premise
+"(Plan). The Plan features a roadmap 
+expected to be avoided in FY25."
+workloads across all business lines
+to reducing our environmental impact
+"has also delivered emissions benefits 
+Despite these positive changes, our"
+and making our business more resilient.
+"by allowing us to close the last of our 
+emissions footprint rose 23.8% during"
+It sets out the actions we will take to
+"data centres to operate within the 
+FY241. This was due to a rise in Scope"
+lower our emissions and sits within our
+"3 emissions, driven by an uplift in 
+AWS Ecosystem, which uses renewable"
+wider strategic approach of limiting our
+"marketing and advertising expenses 
+energy."
+footprint on our path to net zero.
+"to support business growth, as well"
+"This year, we transitioned to providing"
+"as increased business travel across 
+The Plan was developed in consultation"
+new Australian health members with
+"the Group. Pleasingly, our efforts 
+with our internal environmental working"
+digital welcome packs instead of paper
+"towards more digital communications 
+group which features representatives"
+documents. This change reflects our
+"contributed to a reduction in our paper-
+from across the business, particularly"
+ongoing digital-first commitment and
+"based emissions. 
+those within identified high emissions"
+will provide members with access to
+areas. The group meets quarterly to
+"During the year, we also acquired two 
+critical policy documents sooner."
+"track progress, discuss roadblocks,"
+new plan management businesses and
+"and drive accountability for emissions 
+It’s a great example of how our actions"
+one digital marketplace as part of our
+"reductions activities. 
+can benefit our business, our members"
+nib Thrive expansion. These acquisitions
+and the planet. We’ll reduce the costs
+"have resulted in a small uplift in our 
+Scope 3 emissions remain our largest"
+associated with producing physical
+"emissions. Our FY24 emissions data 
+area of impact, accounting for 98.6%"
+"documents, improve reaction time when"
+"is also inclusive of our digital health 
+of our total emissions in FY24. One of"
+updating documents to reflect changes
+"platform, Midnight Health, due to our 
+our key levers for decarbonisation is to"
+within the business (such as product
+"major ownership in the business bringing 
+use our sphere of influence to reduce"
+"changes), while reducing paper usage"
+"them within our emissions boundary 
+emissions within our supply chain."
+"and its associated carbon emissions, and"
+and contributing 7% of our total
+"As such, this year we started to 
+improving accessibility for screen readers."
+Group emissions.
+introduce environmental performance-
+"In March 2024, we also moved to a"
+"A key focus in the year ahead, is working 
+related conditions into new contractual"
+digital-first nib member card for our
+"closely with these businesses to support 
+agreements with strategic suppliers."
+"international members, removing the"
+them to reduce their carbon footprint in
+"This will require them to provide us with 
+default distribution of physical cards."
+line with the wider business ambition of
+"actual emissions data (where available) 
+This change will not only improve the"
+being net zero by 2040.
+"to help us gain a better understanding 
+member experience but also reduces"
+"1. 
+In FY24, we engaged a new emissions consultancy and went through a process of improving, updating and recategorising our emissions inventory to align with"
+"the Greenhouse Gas Protocol categories. As such, FY24 Scope 3 emissions category data is not directly comparable to FY23 Scope 3 emissions category data"
+
+=== Table 3 (page 20) ===
+1.,"In FY24, we engaged a new emissions consultancy and went through a process of improving, updating and recategorising our emissions inventory to align with"
+,"the Greenhouse Gas Protocol categories. As such, FY24 Scope 3 emissions category data is not directly comparable to FY23 Scope 3 emissions category data"
+,previously reported by nib Group.
+,A carbon neutral business
+,nib was proud to be certified carbon neutral by Climate Active for our Australian business operations for the third year in a
+,row through the purchase of 100% Australian Carbon Credits (ACCUs)2.
+,Our strategy is to choose ACCUs that not only support our environmental goals but have co-benefits for First Nation
+,communities.
+,"Through our ongoing partnership with the Aboriginal Carbon Foundation, we contributed to carbon farming projects that"
+,"centre around savanna burning, a traditional land management practice that’s existed for thousands of years."
+,"Beyond reducing emissions, it fosters connections to Country, improves land access for Traditional Custodians, opens up"
+,"educational and employment opportunities in remote communities, and promotes the sharing of First Nations knowledge to"
+,new generations.
+,2.  Climate Active certification available at nib.com.au/docs/2024-climate-active-carbon-neutral-certificate
+,Decarbonising our media and advertising
+,Media and advertising accounts for 59.5% of our total Group
+,"emissions profile in FY24, making it the biggest contributor to"
+,our environmental footprint.
+,"To help reduce our impact, we’ve built a media sustainability"
+,"tool in partnership with our media agency, Group M, and"
+,Scope3 to allow us to better visualise and optimise our digital
+,media emissions in Australia.
+,Through the tool we’ll be able to calculate the emissions
+,impact of our digital media activity and in turn seek to
+,"optimise through a range of actions, including removal of"
+,high emissions inventory and optimising our ad creative.
+,"Importantly, this can all be achieved without compromising on"
+,the quality or impact of our media and advertising.
+,We’re also using our influence to encourage broader industry
+,"change, by including sustainability goals and targets as part"
+,of our requirements in our media briefings.
+
+=== Table 4 (page 33) ===
+Emissions1,,
+,FY24,FY23
+Group emissions,,
+(tonnes C02-e),,
+Scope 1,27.1,25.3
+Scope 22,182.3,202.3
+Scope 3,"14,660.8","11,783.9"
+Total emissions,"14,870.2","12,011.5"
+
+=== Table 5 (page 33) ===
+Scope (tonnes C02-e),,,
+Scope 1,,,
+Stationary combustion,27.1,Natural gas,24.9
+,,Fuel,0.4
+Total,27.1,,25.3
+Scope 2,,,
+Purchased electricity,182.3,Electricity – renewable,202.3
+,,Electricity – other,0.0
+
+=== Table 6 (page 34) ===
+Emissions continued,,,Activities,,
+,FY24,FY23,,FY24,FY23
+Country/Region,,,Electricity – renewable (kWh),"1,180,629.2","637,105.4"
+(tonnes C02-e),,,,,
+,,,Electricity – other (kWh),"899,728.9","2,658,058.3"
+Australia,,,,,
+,,,Gas (GJ),526.4,482.5
+Scope 1,27.1,25.3,,,
+,,,Paper (tonnes),41.8,45.3
+Scope 2,169.4,191.7,,,
+,,,Waste (tonnes),67.6,144.6
+Scope 3,"12,226.5","10,237.0",,,
+,,,Landfill,57.2,77.0
+Total,"12,423.0","10,454.0",,,
+,,,Diverted,10.4,67.6
+New Zealand4,,,,,
+,,,Water (ML),11.6,12.4
+Scope 1,0,0,,,
+Scope 2,1.8,0,,,
+,,,,FY24,FY23
+Scope 3,"2,032.9","1,399",,,
+,,,Efforts to reduce paper consumption,,
+Total,"2,034.6","1,399.0",,,
+,,,Members with email as preferred,,
+Overseas,,,method of contact,,
+Scope 1,0,0,Australian Residents Health,92.6%,91.7%
+,,,Insurance,,
+Scope 2,11.1,10.6,,,
+,,,International Students Health,99.7%,99.5%
+Scope 3,401.5,147.9,,,
+,,,Insurance,,
+Total,412.6,158.5,,,
+,,,International Workers Health,99.9%,99.8%
+,,,Insurance,,
+Carbon offset5,,,,,
+,,,New Zealand,95.1%,94.0%
+Carbon credits purchased,"12,200","8,275",,,
+,,,nib Thrive participants and,84.6%,–
+,,,authorised representatives on,,
+,,,e-comms7,,
+Emissions intensity,,,,,
+,,,Shareholders on partial eComms,5.0%,5.0%
+Scope 1 & 2 (tonnes CO2-e),,,,,
+,,,Shareholders on full eComms,49.4%,49.4%
+Employee (FTE),0.114,0.121,,,
+Customer6 (‘000),0.111,0.125,,,
+Revenue ($m),0.063,0.074,,,
+Total emissions,,,,,
+(tonnes CO2-e),,,,,
+Employee (FTE),8.128,6.362,,,
+Customer3 (’000),7.914,6.622,,,
+Revenue ($m),4.456,3.921,,,
+
+=== Table 7 (page 43) ===
+Subject Matter,
+The Subject Matter covered as part of this assurance engagement consists of NIB’s performance against the following,
+FY24 targets:,
+,"42,000  members participating in a general health interaction across the Group"
+,"20,000  members enrolled in health management programs across the Group"
+,"28,000  health assessments or screens  undertaken by NIB members"
+,Maintain Scope 1 and 2 emissions and 2.5% reduction in Scope 3 emissions
+,"Maintain 40/40/20  gender mix in Board, Executive, heads of business units, team leaders and manager positions"
+,Employee engagement score of 79% or greater
+,"1,520  employee volunteering hours"
+,"250,000  people reached via NIB foundation's Prevention Partnerships"
+,20% of our sponsorship  funding directly invested in diversity and inclusion initiatives
+,Complete modern slavery continuous improvement plans with at least 40 suppliers

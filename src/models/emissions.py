@@ -3,10 +3,23 @@ from typing import Any, Dict, Optional
 from pydantic import BaseModel, Field, field_validator, model_validator
 
 
-class Scope2Emissions(BaseModel):
+class ScopeValue(BaseModel):
     value: int = Field(
-        description="Total Scope 2 emissions in kgCO2e (rounded to nearest whole number)."
+        description="Total emissions in kgCO2e (rounded to nearest whole number)."
     )
+    confidence: Optional[float] = Field(
+        default=None,
+        ge=0.0,
+        le=1.0,
+        description="Confidence score (0-1) returned by the analysis method.",
+    )
+    context: Optional[str] = Field(
+        default=None,
+        description="Source sentence or excerpt that supports the extracted value.",
+    )
+
+
+class Scope2Emissions(ScopeValue):
     method: Optional[str] = Field(
         default=None,
         description="Reporting method for Scope 2 emissions (market, location, or unsure).",
@@ -30,10 +43,7 @@ class Scope2Emissions(BaseModel):
         return mapping[normalised]
 
 
-class Scope3Emissions(BaseModel):
-    value: int = Field(
-        description="Total Scope 3 emissions in kgCO2e (rounded to nearest whole number)."
-    )
+class Scope3Emissions(ScopeValue):
     qualifiers: Optional[str] = Field(
         default=None,
         description="Free-text qualifiers or caveats describing Scope 3 coverage.",
@@ -48,17 +58,17 @@ class Scope3Emissions(BaseModel):
 
 
 class EmissionsData(BaseModel):
-    scope_1: Optional[int] = Field(
+    scope_1: Optional[ScopeValue] = Field(
         default=None,
-        description="Total Scope 1 emissions in kgCO2e.",
+        description="Total Scope 1 emissions in kgCO2e with context metadata.",
     )
     scope_2: Optional[Scope2Emissions] = Field(
         default=None,
-        description="Scope 2 emissions with reporting method if available.",
+        description="Scope 2 emissions with reporting method and context metadata.",
     )
     scope_3: Optional[Scope3Emissions] = Field(
         default=None,
-        description="Scope 3 emissions with optional qualifier text.",
+        description="Scope 3 emissions with optional qualifier and context metadata.",
     )
 
     @model_validator(mode="before")
@@ -67,38 +77,44 @@ class EmissionsData(BaseModel):
         if not isinstance(value, dict):
             return value
         coerced = dict(value)
-        scope1 = coerced.get("scope_1")
-        if scope1 is not None and not isinstance(scope1, int):
-            try:
-                coerced["scope_1"] = int(scope1)
-            except (TypeError, ValueError):
-                pass
-
-        scope2 = coerced.get("scope_2")
-        if isinstance(scope2, (int, float)):
-            coerced["scope_2"] = {"value": int(scope2)}
-        elif isinstance(scope2, dict):
-            scope2_value = scope2.get("value")
-            if scope2_value is not None and not isinstance(scope2_value, int):
-                try:
-                    scope2["value"] = int(scope2_value)
-                except (TypeError, ValueError):
-                    pass
-
+        cls._normalise_scope_value(coerced, "scope_1")
+        cls._normalise_scope_value(coerced, "scope_2")
+        cls._normalise_scope_value(coerced, "scope_3")
         scope3 = coerced.get("scope_3")
-        if isinstance(scope3, (int, float)):
-            coerced["scope_3"] = {"value": int(scope3)}
-        elif isinstance(scope3, dict):
-            scope3_value = scope3.get("value")
-            if scope3_value is not None and not isinstance(scope3_value, int):
-                try:
-                    scope3["value"] = int(scope3_value)
-                except (TypeError, ValueError):
-                    pass
+        if isinstance(scope3, dict):
             qualifiers = scope3.get("qualifiers")
             if qualifiers is not None:
                 scope3["qualifiers"] = str(qualifiers).strip()
         return coerced
 
+    @staticmethod
+    def _normalise_scope_value(data: Dict[str, Any], key: str) -> None:
+        value = data.get(key)
+        if value is None:
+            return
 
-__all__ = ["Scope2Emissions", "Scope3Emissions", "EmissionsData"]
+        if isinstance(value, (int, float)):
+            data[key] = {"value": int(value)}
+            return
+
+        if isinstance(value, str):
+            stripped = value.strip()
+            if not stripped:
+                data.pop(key, None)
+                return
+            try:
+                data[key] = {"value": int(stripped)}
+            except ValueError:
+                pass
+            return
+
+        if isinstance(value, dict):
+            raw = value.get("value")
+            if raw is not None and not isinstance(raw, int):
+                try:
+                    value["value"] = int(raw)
+                except (TypeError, ValueError):
+                    pass
+
+
+__all__ = ["ScopeValue", "Scope2Emissions", "Scope3Emissions", "EmissionsData"]

@@ -1,0 +1,657 @@
+=== Table 1 (page 5) ===
+"delivering value to shareholders over the longer term, and to supporting the prosperity of Australia.",
+"Sustainability creates ongoing value for our business and positive impact for our customers,",
+"our stakeholders, our communities and our environment.",
+This year we completed our T25 strategy and are proud that,across the country and investing in new products and services
+we have met and exceeded many of our ambitions. We again,for our customers such as satellite-to-mobile services.
+surpassed our target to help 1 million customers in vulnerable,
+,This new strategy will also see us focus on our country’s need
+"circumstances stay connected, this year supporting more than",
+,to increase productivity and prosperity. The telecommunications
+1.9 million customers and introducing expanded means of support.,
+,connectivity that we provide will play a critical role in Australia’s
+We have increased digitally active customers by 2 million and,
+,"future and in realising the benefits of transformative technologies,"
+"helped build digital skills for more than 677,000 people over the",
+,"including AI. There is no AI without connectivity, and to realise its"
+"past four years, which is critical to helping reduce the digital",
+,potential we need to get the foundations right. Earlier this year we
+divide as technologies advance. We have also continued to make,
+,entered a seven-year joint venture with Accenture to build upon
+"good progress against our climate targets, including to reduce",
+,our AI foundations and develop specialised AI capabilities. This
+our absolute scope 1+2 emissions by 70 per cent and scope 3,
+,will see us tap into the global best to complement these leading
+"emissions by 50 per cent by 2030, and to enable renewable energy",
+,"AI capabilities, enabling our teams to work smarter and faster."
+generation equivalent to 100 per cent of our consumption by the,
+end of this calendar year.,
+,We are also investing in our people and the way we operate to
+,"ensure that we develop leading AI capabilities. For example, our"
+"Energised by what we’ve achieved and inspired by what’s ahead,",
+,Data and AI Academy offers personalised learning experiences
+we are excited to move into the next phase of our journey with a,
+,"that enable our people to make confident data driven decisions,"
+new five-year strategy - Connected Future 30. Telstra’s purpose is,
+,embrace emerging technologies responsibly and be prepared
+to build a connected future so everyone can thrive. Our new,
+,to operate in a workforce that will continue to be transformed
+strategy will see us heighten our engagement with our customers,
+,"by these technologies. This year we launched Career Connect,"
+"and communities to deliver reliable, resilient, secure and",
+,enabling deeper development conversations and integrated
+environmentally responsible connectivity in ways that work best,
+,performance planning. This AI-enabled talent marketplace aims
+"for them. This is why we are investing in rolling out high speed,",
+,to drive a new era of skills-based development to help our teams
+"low latency fibre across Australia, enhancing our mobile network",
+,"find meaningful work, learn, experiment and grow."
+
+=== Table 2 (page 8) ===
+,,,,,,,Environment
+Helped,,,,,,,
+,Contributed,Reduced our,,,,,
+,,,,,,,Supported renewable
+customers,,,,,,,
+,,,combined,,,,
+in vulnerable,,,,,,,energy projects which
+1.9m,$126m in social and,,scope 1+2,,scope 3,,
+,,,,,,,
+,,,,,,,
+circumstances,,,emissions by,,emissions by,,are worth more than
+stay connected this year and,,,,,,,
+,,,,*,,*,
+,,,,,,,since
+an average of 1.3m per year,,,44%,,43%,,$1.6b
+,,,,,,,2017
+,,,,,,,
+over the past four years,Supported,,,,,,
+
+=== Table 3 (page 8) ===
+customers,,,,,,,
+,,combined,,,,,
+in vulnerable,,,,,,,energy projects which
+1.9m,$126m in social and,scope 1+2,,scope 3,,,
+,,,,,,,
+,,,,,,,
+circumstances,,,emissions by,emissions by,,,are worth more than
+stay connected this year and,,,,,,,
+,,,*,,*,,
+an average of 1.3m per year,,44%,,43%,,,$1.6b
+,,,,,,,
+over the past four years,Supported,,,,,,
+,">677,000",,"On average over FY25,",,,,
+,,,,,,,
+Supported,,,,,,,
+services,people over the,,enabled renewable,,,,
+,,,,,,Reused or recycled,
+"with disaster
+>1m",last four years to,,energy generation,,,,
+relief packages,build digital skills,,,,,,
+,,,,,,,
+,,equivalent to,,,,,
+,,,,,,"769,000",
+,,76%,,,,devices,
+,,,,,,,
+Launched the inaugural,,,,,,,
+,,,of our consumption,,,,
+Australian Digital Youth Index,,,,,,,
+
+=== Table 4 (page 9) ===
+,,,,Progress made but below target
+,,,,
+FY25 progress against targets,,,Not on track,
+,,,✓ Completed,
+Focus area,Target,SDG1,Progress,More info
+Leading conduct and,,,,page 17
+,Achieve 100% annual completion of Business Essentials refresher conduct training course,SDG 16,98.3% of our total target audience completed the mandatory refresher training,
+governance,,,,
+Fair and transparent,Achieve a 50% reduction in Telecommunications Industry Ombudsman (TIO) consumer,SDG 8,,page 20
+products,and small business complaints by FY25,SDG 10  ✓ Reduced our TIO referral complaints by more than 70% since FY21,,
+,,,,2025 Modern
+,,,53 sites across 21 suppliers audited using the Joint Alliance for Corporate Social Responsibility (JAC),
+,,,,Slavery Act
+,,,guidelines.2 Closed 204 corrective actions relating to priority and major findings identified in this or,
+Ethical supply chain,Continue to conduct independent third-party supply chain audits,,,
+,,SDG 8,✓,Statement
+,,,"previous years’ audits, including 106, or 65%, of corrective actions relating to priority and major findings",
+,,,identified in FY25’s audits,
+,,,"Achieved our target for FY25 with a score of 79, which places us above Glint’s Global 75th per centile",page 26
+,Remain at 90th per centile employee engagement (equivalent to high-performance norm),SDG 8,,
+,,,benchmark. This is three points below our 90th per centile stretch target,
+Our people,,,,
+,Achieve 40:40:20 gender balance by 2030 across our executive leadership and the,SDG 5,"By the end of FY25 women made up 40% of the CEO team (including CEO), 36.8% of the global",page 27
+,global workforce,SDG 10,"workforce, this is on track to meet our 2030 target",
+,,,5G now covers ~95% of the Australian population assisted by reuse of spectrum made possible by the,2025 Annual
+,~95% population coverage for 5G by FY25,,,
+"Connecting regional,",,,✓,
+,,,closure of our 3G network in November 2024,Report
+rural and remote,,SDG 9,,
+,,,,2025 Annual
+communities,,,,
+,,,"✓ 360,000 km2 regional coverage added since FY21 – more than triple our goal of 100,000km2",
+,,,,Report
+,,,,page 38
+Building responsible,"Increase digitally active customers by 2 million, by FY25, including building digital",,"Increased digitally active customers by 2 million by the end of FY25 and supported over 254,0003",
+,,,,
+,,SDG 9,✓,
+tech skills,"skills for 500,000 Australians by FY25",,"Australians to build digital skills in FY25 (677,000 over the past four years)",
+Supporting people,,,,page 40
+,Help keep 1 million customers in vulnerable circumstances connected each,,"Helped more than 1.9 million customers in vulnerable circumstances stay connected in FY25, and",
+,,SDG 9,,
+,,,,
+in vulnerable,,,✓,
+,year from FY22-FY25,,an average of 1.3 million per year over the past four years,
+,,SGD 10,,
+circumstances,,,,
+,,,,page 48
+,Reduce our absolute scope 1+2 emissions by 70% by 2030 (from an FY19 baseline),,Reduced our combined scope 1+2 emissions by 44% from an FY19 baseline (excluding Digicel Pacific),
+,,,,page 52
+,Reduce our absolute scope 3 emissions by 50% by 2030 (from an FY19 baseline),,Reduced our scope 3 emissions by 43% from an FY19 baseline (excluding Digicel Pacific)5,
+,,,Enabled renewable energy generation equivalent to 76% of our consumption on average over FY25.,page 54
+Taking climate,,,,
+,,SDG 13,,
+,Enable renewable energy generation equivalent to 100% of our consumption by 2025,,Contracted renewable energy generation equivalent to more than 100% of forecast consumption at,
+action4,,,,
+,,,the end of this calendar year,
+,,,Reduced our combined scope 1+2 emissions by 44% and our scope 3 emissions by 43% from,page 48
+,Net-zero greenhouse gas (GHG) emissions by 20506,,,
+,,,a FY19 baseline7,
+,,,,page 59
+,"Reuse or recycle 650,000 mobile phones, modems and other devices each year to 20259",,,
+Progressing,,,"✓ Reused or recycled over 769,000 mobile phones, modems and other devices in FY25",
+,,SDG 12,,
+a circular economy8,,,,page 61
+,Increase our network waste recycling rate to 90% by 2025,,,
+,,,"Achieved 94% network waste recycling rate in FY25
+✓",
+
+=== Table 5 (page 9) ===
+,"Reuse or recycle 650,000 mobile phones, modems and other devices each year to 20259"
+,"✓ Reused or recycled over 769,000 mobile phones, modems and other devices in FY25
+Progressing"
+,SDG 12
+,a circular economy8
+,Increase our network waste recycling rate to 90% by 2025
+,"Achieved 94% network waste recycling rate in FY25
+✓"
+Targets are baselined to FY21 unless otherwise stated.,
+1.,See the Management approach and governance section for more information on the Sustainable Development Goals (SDGs).
+2.,Telstra led 11 site audits and JAC peers led 42 audits. Telstra reports the number of audits Conducted by Telstra and JAC peers under the JAC guidelines on suppliers relevant to Telstra.
+3.,"Figure includes FY24 digital skills project data from Telstra Foundation, however final data was not available until FY25."
+4.,"Digicel Pacific has been excluded from reporting against FY25 emissions targets, Digicel Pacific emissions are reported separately below and further details can be found in the 2025 Data Pack on our website."
+5.,"This is ahead of the trajectory required to reach our target of a 50 per cent reduction by 2030, however there is still some risk relating to our scope 3 target – For more information, see the Managing our scope 3 emissions section of this report."
+"6.  We are committed to achieving net-zero greenhouse gas (GHG) emissions by 2050, through the Business Ambition for 1.5°C campaign. During FY25 our net-zero target was validated by the Science Based Targets initiative (SBTi) as aligning to their Corporate Net-Zero Standard.",
+7.,See the Our use of carbon credits section of this report for more information on our use of carbon credits and our GHG emissions targets.
+8.,Digicel Pacific has been excluded from Telstra’s circular economy reporting in FY25 as we are still working to compile timely and suitable data. A multi-year program has commenced with the aim to progressively report relevant Digicel Pacific circular economy data in future periods.
+9.,"From FY26 we have set a new target to donate, reuse, repair or recycle one connected device for every two devices sold by FY30. It applies to connected devices (phones, tablets, modems, streaming devices, wearables, IoT devices, etc). For more information, see the Devices section of this report."
+,Telstra 2025 Bigger Picture Sustainability Report
+
+=== Table 6 (page 47) ===
+,,,,Progress made but below target
+,,,,
+FY25 progress against targets,,,Not on track,
+,,,✓  Completed,
+Focus area,Target,SDG,Progress,More info
+,Reduce our absolute scope 1+2 emissions by,,Reduced our combined scope 1+2 emissions by 44%,
+Taking climate,,SDG 13,,page 48
+,70% by 2030 (from an FY19 baseline),,from an FY19 baseline (excluding Digicel Pacific),
+action19,,,,
+,Reduce our absolute scope 3 emissions by,,Reduced our scope 3 emissions by 43% from an FY19,
+,,,,page 52
+,50% by 2030 (from an FY19 baseline),,baseline (excluding Digicel Pacific)20,
+,,,Enabled renewable energy generation equivalent to,
+,,,,page 54
+,,,76% of our consumption on average over FY25.,
+,Enable renewable energy generation equivalent,,,
+,,,Contracted renewable energy generation equivalent,
+,to 100% of our consumption by 2025,,,
+,,,to more than 100% of forecast consumption at,
+,,,the end of this calendar year,
+,,,Reduced our combined scope 1+2 emissions by 44% and,
+,Net-zero greenhouse gas emissions by 205021,,,page 48
+,,,our scope 3 emissions by 43% from an FY19 baseline22,
+Progressing,"Reuse or recycle 650,000 mobile phones,",SDG 12,"Reused or recycled over 769,000 mobile phones,",page 59
+,,✓,,
+a circular,modems and other devices each year to 202524,,modems and other devices in FY25,
+economy23,,,,
+,Increase our network waste recycling rate to,,,page 61
+,,,✓ Achieved 94% network waste recycling rate in FY25,
+,90% by 2025,,,
+
+=== Table 7 (page 48) ===
+,,For our 2030 target we assume that Australia will meet the current
+,,
+Approach,Taking climate action,national renewable energy target of 82 per cent by 2030. We have
+,,conducted scenario analysis considering a delay of up to two
+,,years for the decarbonisation target for the Australian grid. If that
+,Addressing climate change is an urgent global challenge that we,
+We believe that operating sustainably creates,,
+,,"scenario occurred, we would consider mitigation options such as"
+,believe is critical to ensuring long-term sustainability. Our action,
+"ongoing value and positive impact for our business,",,
+,,the use of Renewable Energy Certificates.
+,includes taking ambitious steps to decarbonise our business and our,
+"stakeholders, communities and the environment.",supply chain and support Australia’s energy transition. It also means,
+,,To support the decarbonisation of the Australian electricity
+,"preparing, adapting and responding to the present and increasing",
+We seek to minimise our impact on the planet,,
+,,"grid, we have also set a target to enable renewable energy"
+,impact of climate change on our business and our customers.,
+"through action on climate, circularity and nature.",,generation equivalent to 100 per cent of our consumption by the
+,,end of this calendar year. We are on track to achieve this target.
+,We are committed to achieving net-zero by 2050 including scope,
+"These focus areas are interrelated – for example, reducing",,
+,"1, 2 and 3 emissions, and our net-zero target was validated to",
+emissions and improving circularity can reduce the consumption,,"In 2024, we joined the Australian Climate Leaders Coalition"
+,the Science Based Targets initiative (SBTi) Corporate Net-Zero,
+of natural resources (including water) and hence our impact on,,"(CLC), a cross-sectoral group of Australian CEOs supporting the"
+,"Standard in FY25.25 To help ensure progress, we have set the",
+nature and biodiversity.,,Paris Agreement commitments and the road to decarbonisation.
+,following near-term emissions reduction targets aligned to a,
+,,"In FY25, we participated in two working groups: Solving for Nature"
+,trajectory to limit global warming to 1.5°C:,
+We are:,,
+,,and Climate Together and AI for Climate. We participated in
+,"reduce our absolute scope 1+2 emissions by at least 70 per cent 
+•",
+,,these groups to share our knowledge and experience to support
+"reducing the emissions and energy across the design,  
+•",,
+,by 2030 (from an FY19 baseline),
+,,Australian industry in considering these important topics and to
+"build and operation of our network, infrastructure and",,
+,,inform our own climate-linked nature and AI activities.
+our value chain,,
+,"reduce our absolute scope 3 emissions by at least 50 per cent 
+•",
+,by 2030 (from an FY19 baseline).,
+"•  providing customers with technology, devices and service",,"This year, we were recognised by CDP for our climate leadership"
+options that are more environmentally sustainable,,receiving an A- rating for our performance in 2024.26
+,To meet these targets we are dependent on decarbonisation of,
+,the Australian electricity grid. For our scope 2 emissions,
+•  working to provide our customers and communities with,,
+,"modelling, we use the latest estimates of Australia’s GHG",For more information on our Sustainability
+resilient connectivity services and support them through,,
+,emissions issued by the Australian Energy Market Operator,
+,,"partnerships, see our In focus: Sustainability at"
+natural disasters.,,
+,(AEMO) in its Integrated System Plan out to 2050.,
+,,Telstra paper on our website.
+
+=== Table 8 (page 49) ===
+,,,,,
+Decarbonise Telstra,,,,,750 vehicles in FY25 and making up 30 per cent of our entire
+,,,,,salary sacrifice program. Telstra’s partnership with Greenfleet
+,,,,,continued in FY25 with all salary sacrificed fleet vehicle
+"In FY25, we achieved a 10 per cent reduction in our scope",,,,,
+,,,,,deductions including a contribution to Greenfleet.
+"1+2 emissions compared to the previous year, and a cumulative",,,,,
+44 per cent reduction against our baseline year of FY19.,,,,,
+,,,,,We are continuing testing of EVs within our operational Field
+"We achieved this by decommissioning legacy technology,",,,,,
+,,,,,"Services teams, enabling onsite chargers and piloting a number"
+"improving the energy efficiency of our network and infrastructure,",,,,,
+,,,,,of electric SUV vehicles in the field. We are also exploring
+and benefitting from the reduction in emissions intensity of the,,,,,
+,,,,,installation of EV chargers at network sites. For employees in
+grid electricity we consume.27 28,,,,,
+,,,,,"Melbourne and Sydney, we have EV chargers and EV pool cars at"
+,,,,,four of our major office locations.
+,GHG emissions (scope 1+2)27,,,,
+1.5M,"1,306,495",,,,
+,,,,,Managing our electricity consumption
+,"1,237,452",,,,
+1.25M,,,,,
+,,,,,Electricity consumption across our network sites (including our
+,,"910,607",,,
+1.0M,,,,,
+,,,"817,606",,
+,,,,,"fixed and mobile infrastructure), data centres, offices and other"
+,,"887,190",,,
+,,,"790,745",,
+,,,,,
+750k,,,,"735,783",buildings represents around 96 per cent of our total FY25 scope
+,,,,"709,095",
+,,,,,"1+2 emissions, making it our single largest emissions source."
+500k,,,,,
+250k,,,,,"In FY25, we invested $20 million in energy reduction projects,"
+,"69,044",,,,
+,,"23,417","26,861","26,688",including both energy efficiency and legacy equipment
+0,,,,,
+,FY19,FY23,FY24,FY25,decommissioning within our operations in Australia.
+,Total GHG emissions (tCO2e)28,,Australia,International,
+,,,,,"In FY25, our energy efficiency programs delivered a collective"
+,,,,,"annualised saving of 9,034 MWh electricity and 7,137 tCO2e."
+,,,,,
+Reducing scope 1 emissions by investing,,,,,"In addition to our infrastructure energy efficiency projects,"
+,,,,,"we saved a further 107,482 MWh and 66,086 tCO2e annualised"
+in electric and hybrid vehicles,,,,,
+,,,,,through decommissioning legacy network equipment and
+,,,,,network energy efficiency enhancements. Across FY20 and
+"Telstra has an overall fleet of almost 6,250 assets, consisting",,,,,
+,,,,,"FY25, and based on current electricity prices, savings from our"
+"of 3,000 operational vehicles, 800 plant, trucks and trailers and",,,,,
+,,,,,energy efficiency and decommissioning programs would equate
+"2,450 staff salary-sacrificed vehicles. Telstra operational fleet",,,,,
+,,,,,to around $92 million in gross electricity savings and a net
+vehicles made up approximately three per cent of our FY25 scope,,,,,
+,,,,,power consumption reduction of 26 per cent.
+"1+2 emissions. Over the past five years, we have transitioned over",,,,,
+
+=== Table 9 (page 52) ===
+Managing our scope 3 emissions,,,,,
+FY25 scope 3 GHG emissions by category,,,,,
+"Scope 3 emissions are the largest part of our carbon footprint,",,,,,
+Scope 3 categories (aligned to GHG Protocol)30,,,,,GHG emissions (tCO2e)
+accounting for 66 per cent of our total emissions. We believe,,,,,
+we have a responsibility to contribute to reducing the emissions,,,,,
+Cat 1: Purchased goods and services,,,,,"722,927"
+"of the activities, products and businesses we rely upon and are",,,,,
+"Cat 2: Capital goods
+committed to reducing our scope 3 emissions by at least 50 per",,,"331,933",,
+cent by 2030 (from an FY19 baseline). At the end of FY25 we,,,,,
+Cat 11: Use of sold products,"136,206",,,,
+have achieved a 43 per cent reduction towards this target.,,,,,
+"Cat 3: Fuel and energy-related emissions
+79,891",,,,,
+"While we have made progress, there is still some risk to",,,,,
+"Cat 7: Employee commuting
+58,688",,,,,
+achieving this target by 2030. This is in part due to potential,,,,,
+"emissions from the broad adoption of AI across the economy,",,,,,
+"51,271
+Cat 8: Upstream leased assets",,,,,
+"satellite services and other product growth, as well as dependence",,,,,
+"Cat 15: Investments
+38,698",,,,,
+on key suppliers decarbonising. We continue to assess these,,,,,
+potential impacts and to develop mitigation strategies.,,,,,
+"Cat 4: Upstream transportation and distribution
+17,069",,,,,
+We are also embedding our emissions reduction commitments,,,,,
+"Cat 9: Downstream transportation and distribution
+  8,830",,,,,
+"into business processes to drive greater action. As part of this,",,,,,
+"Cat 6: Business travel
+6,366",,,,,
+"we incorporated our scope 1, 2 and 3 emissions reduction targets",,,,,
+into our FY25 Executive Variable Remuneration program and,,,,,
+"Cat 5: Waste generated in operations
+2,422",,,,,
+the FY25 Short Term Incentive program for most Telstra Group,,,,,
+"Cat 12: End-of-life treatment of sold products
+628",,,,,
+"staff. We have also incorporated our scope 1, 2 and 3 emissions",,,,,
+reduction commitments into our annual financial planning process,,,,,
+100K,200K,300K,400K,500K,"600K
+700K
+800K"
+to better align investment decisions with those commitments.30,,,,,
+
+=== Table 10 (page 53) ===
+,,
+Working together to reduce,challenges. We continued our partnership with the CDP Supply,We are not planning to use carbon credits to achieve our 2030
+,"Chain program, where 345 suppliers disclosed their CDP","emissions reduction targets. However, as we approach our 2050"
+scope 3 emissions,,
+,questionnaire to Telstra in FY25.,net-zero target we may revisit our use of carbon credits for
+,,hard-to-abate emissions. The current SBTi net-zero standard
+Reducing scope 3 emissions requires significant and,,
+,Our efforts to engage our suppliers on scope 3 emissions,
+,,"requires organisations to reduce absolute scope 1, 2 and 3"
+ongoing collaboration across sectors and value chains. This,,
+,were recognised through an A rating in the 2024 CDP Supplier,
+,,emissions by at least 90 per cent by 2050. Companies may then
+is particularly true for industries with complex supply chains,,
+,Engagement Assessment Leaderboard.,
+,,use carbon credits to neutralise any hard-to-abate residual
+such as the information and communications technology sector.,,
+,,"emissions. If at that time we use carbon credits, it will be in"
+"Of our total scope 3 emissions, approximately 74 per cent comes",,
+,This year we led a subgroup of the JAC to develop standard,
+,,"accordance with the SBTi net-zero standard., and we will"
+"from our supply chain (categories 1, 2 and 4). This means we",,
+,climate clauses for our industry. We are also signatories to the,
+,,provide guidance on carbon credit verification and certification
+are closely dependent on the commitments and actions of our,,
+,Supplier Engagement Program (SEP) through JAC. This program,
+,,"arrangements, the type(s) of carbon credit used, and other"
+suppliers to achieving their own decarbonisation goals.,,
+,uses predominantly CDP data to assess the maturity of suppliers,
+,,information to enable users of financial reports to understand
+,against five categories which range from ‘getting started’ to ‘best,
+"At Telstra, we are working with suppliers to identify, prioritise",,
+,,the credibility and integrity of those carbon credits.
+,practice’ and delivers supplier capacity and capability training,
+and execute emissions reduction opportunities and drive,,
+,tailored to suppliers’ maturity rating. The program tracks the,
+improvements in environmental practices throughout the,,
+,development of suppliers up the maturity ladder on the journey,"For more information, see the Science Based"
+global supply chain. This includes providing training and,,
+,to best practice. This is in an additional activity to our JAC site,Targets website.
+support to suppliers on how to measure and reduce their,,
+,audits which are performed by independent third-party auditors.,
+"emissions footprint, adding our climate commitments in",,
+commercial agreements and considering emissions reduction,,
+opportunities in the delivery of their goods and services to us.,"For more information, see the JAC website.",
+We continue to embed climate clauses in contracts with our,,
+,,
+"major suppliers. By the end of FY25, 168 supplier contracts",Our use of carbon credits,
+"now include these clauses, which contractually commit them",,
+to disclosing and reducing their absolute emissions. This is an,"In FY24, we announced that from the start of FY25 we were no",
+"increase of 41 per cent from FY24, representing over $3.4 billion",longer making claims to be a carbon neutral organisation. This,
+of our FY25 spend now being linked to suppliers with climate,included stopping the purchase of carbon credits to offset the,
+clauses embedded in our contracts.,emissions from our operations. We continued to offset emissions,
+,associated with Telstra and Belong mobile phone plans and mobile,
+We are also working towards further understanding the scope,,
+,broadband plans until the end of August 2024 to help ensure,
+3 emissions profile across Telstra’s functional units. A material,,
+,"sufficient time to inform customers of this change. Therefore,",
+source of Telstra’s scope 3 emissions is the manufacturing of,,
+,we have not undertaken Climate Active certification in FY25 and,
+"devices provided to our customers to connect to our network,",,
+,are no longer members of this program. This was a significant,
+"including modems and mobile phones. This year, we further",,
+,change to our climate ambition driven by the need to take greater,
+"developed our eco-design standards, communicated these",,
+,direct action to reduce our own emissions impact. As a result of,
+standards to our suppliers and embedded them in the,,
+,"this change, we redirected funding previously spent on carbon",
+sourcing process for the devices we sell to market.,,
+,credits to our own emissions reduction activities and increased,
+,our 2030 scope 1+2 emissions reduction target from 50 per cent,
+"As part of this ongoing collaboration, we engage with industry",,
+,to 70 per cent (from an FY19 baseline).,
+"associations to drive collective, industry level action on climate",,
+
+=== Table 11 (page 54) ===
+,"In total, our Telstra contracted capacity as of the end of",,,,
+Decarbonise the grid,,PPAs Location Map,,,
+,,,,,
+,"FY25 is 868 MW, not all of which is fully constructed.",,,,
+,,Wind,Solar,,
+,"On average over FY25, we had enabled renewable energy",,,,
+We support grid decarbonisation through investment in,,,,,
+,generation equivalent to 76 per cent of our consumption.,,,,
+renewable energy generation projects. In 2020 we set a,,,,,
+,This result was due to the Crookwell III and MacIntyre Wind,,,,
+target to enable renewable energy generation equivalent,,,,,
+,"Farms becoming operational, increased output from the",,,,
+"to 100 per cent of our consumption by 2025. To meet this target,",,,,,
+,"Emerald Solar Park and Murra Warra Wind Farm, and reduced",,,,
+we are supporting the development of new Australian solar and,,,,,
+,electricity consumption across our operations. We also,,,,
+,,,,,Emerald
+wind farms through long-term renewable energy contracts,,,,,
+,increased our contracted offtake amount from the MacIntyre,,,Bundaberg,
+"(Power Purchase Agreements, or PPAs).",,,,,
+,,,,Munna Creek,
+,"Wind Farm during FY25. With this in place, we have now",,,,
+,,,,MacIntyre,
+These investments increase renewable energy in Australia’s,"contracted renewable energy generation which, once fully up",,,,
+electricity grid for the benefit of all users. We do not claim the,"and running, should be equivalent to more than 100 per cent",,,,
+"use of renewable energy from the projects ourselves, nor does","of our forecast consumption by the end of 2025. As a result,",,,,
+it directly contribute to our 2030 scope 1+2 emissions reduction,"while there are still some risks to the construction, grid",,,,
+,,,,,Crookwell III
+target. These investments also help us manage our energy,"connection and operational output of some sites, we are",,,Glenellen,
+costs by mitigating volatile electricity prices.,on track to reach our target of enabling renewable energy,,,,
+,,,,Murra Warra,
+,equivalent to 100 per cent of our consumption by the,,,,
+"To date, we have supported investment in renewable energy",,,,,
+,end of this calendar year.,,,,
+"projects across Queensland, Victoria and New South Wales",,,,,
+which are worth more than $1.6 billion.,,,,,
+Telstra’s Power Purchase Agreements,,,,,
+
+=== Table 12 (page 64) ===
+Enabling the transition,,
+,Partnering with Microsoft,Collaborating across industry
+for our customers,to help customers manage,for nature protection
+,,
+,sustainability data,Collaboration is critical to the systems-level impacts
+Digital technologies play a crucial role in helping businesses,,
+,,"we need to drive meaningful, scaled climate and nature"
+to reduce their emissions and protect the natural resources,We have partnered with Microsoft to help customers,
+,,action—while also prioritising the specific place-
+they rely on.,"improve the way they collect, analyse and visualise data",
+,,based outcomes necessary for the environments and
+,through the Microsoft Cloud for Sustainability Manager,
+,,communities we are operating in.
+"As Australia’s leading telecommunications provider, we see",,
+,platform. This partnership builds on our expertise and,
+a significant opportunity to help our customers and society,,
+,learnings from managing Telstra’s climate and emissions,We shared our
+transition to a lower carbon future by accelerating the adoption,,
+,data. It provides us the ability to offer customers an end-to-,experience
+of innovative emissions-avoiding technologies.,,
+,"end solution for reporting—from IoT devices to collect data,",considering
+,through to systems to visualise and interrogate the data,nature risks and
+The Enabling Positive Climate Action Report by Deloitte Access,,
+,for management action and reporting. You can view more,opportunities at
+Economics analysed the impact of Telstra’s products and,,
+,information here.,the Global Nature
+services by looking at our enablement potential. This quantifies,,
+,,Positive Summit
+the emissions avoided by our customers using our products,,
+,,"in October 2024,"
+and services when compared to our own emissions. The report,,
+,"We are also proud of the role we play to help business,",convened by the
+found that by 2030 we could help customers to reduce or avoid,,
+,"industry, partners and customers to think differently and to",Department of
+emissions by almost seven times the emissions we release.,,
+,harness technology to address some of the consistent challenges,"Climate Change,"
+,facing us as we work to conserve the special places we have,"Energy, the Environment and Water. We then initiated and"
+"For more information, see the Enabling Positive",,
+,"custodianship of, halt and reverse environmental degradation,",hosted a follow-on Business for Nature Action symposium
+Climate Action Report.,,
+,and restore natural and biodiversity values where possible. Video,at our Sydney offices for over 150 leaders to share
+,or acoustic-based AI detection can process large volumes of,learnings and opportunities specifically for the private
+"In FY25, we developed a Telstra Emissions Calculator to assist",,sector. We are committed to supporting greater industry
+,information to identify species in wild places. Fast computing,
+our Enterprise customers to estimate emissions associated with,,action on nature and are also active members of the CLC
+,can provide quick action-reaction indicators for the public,
+the usage of Telstra products. We believe this is a valuable step,,Working Group on Nature and the GSMA Biodiversity
+,or conservation managers to take immediate steps. We are,
+towards supporting our business and Enterprise customers to,,"Project Group. In addition, we have engaged directly with"
+,continuing to explore use cases to support greater action,
+understand and track more detailed data on our products and,,many business customers and stakeholders to share our
+,"through technology, data and connectivity solutions.",
+services for their scope 3 emissions. The tool is currently being,,"approach, insights and learnings from being an early"
+
+=== Table 13 (page 65) ===
+,"43 per cent, despite data traffic across all our Australian networks",
+,,
+AI and climate,increasing by 103 per cent over the same period and mobile data,
+,traffic having tripled over the past five years.,
+We see great potential for AI to support our climate commitments,,
+,"In FY25, we commissioned independent research to understand",
+and broader environmental objectives. For example:,,
+,the impact of AI-related growth on our existing emissions profile.,
+•  AI-enabled networks can monitor and dynamically optimise,"For scope 1 and 2 emissions, initial findings suggest the most",
+"network performance, which can reduce energy consumption",notable increases in energy demand will occur in our data centres,
+and as a result also reduce emissions,which represented a small part of our FY24 emissions profile,
+,(7 per cent of scope 1+2 emissions). We expect the emissions,
+•  we can improve the timeliness and effectiveness of,,
+,impacts of data centre growth to be further limited by ongoing,
+response to natural disasters and other climate events,,
+,"electricity grid decarbonisation. In contrast, our networks (which",
+through AI-enabled digital twins.,,
+,constituted 87 per cent of our FY24 scope 1+2 emissions) are not,
+,projected to see substantial changes in energy requirements due,
+AI also has the potential to significantly reduce the,,
+,"to AI, as energy consumption largely remains stable regardless of",
+environmental impact of other sectors and industries.,,
+,data traffic. We do anticipate an impact to our scope 3 emissions,
+GSMA has progressed valuable research on the benefits,,
+,profile via partnering with our platform providers on AI-related,
+of AI to address climate challenges via its ‘AI for Impact’,,
+,opportunities. The most significant impacts are expected in a,
+taskforce. We participated in a research project investigating,,
+,small segment of our scope 3 emissions (7-12 per cent of our,
+"the value of using mobile data to reduce transport emissions,",,
+,scope 3 profile) and we anticipate that the upstream electricity,
+demonstrating how our sector can help enable others to access,,
+,impact will be largely matched with the use of renewable energy,
+the data they need to leverage AI for emissions reduction.,,
+,by our platform providers by 2030.,
+,We will continue to monitor the impact of the adoption of,
+"For more information on AI-enabled digital twins,",,
+,AI across the economy on our emissions profile. This includes,
+visit the Telstra International website.,,
+,the potential benefits of resource efficiencies gained through,development of an AI enabled platform that allows companies
+,"the application of AI, as well as increased energy use by our",to collaborate and share product level emissions data. We’re
+,business and partners. We are also monitoring the potential,continuing to monitor and manage the impact of AI on our
+While we expect increased data traffic across our network related,,"emissions, particularly our scope 3 emissions."
+,"impacts from increased data traffic due to streaming, gaming",
+"to the broad adoption of AI across the economy, this will not",,
+,and new business areas.,
+necessarily mean increased emissions for Telstra. We continue to,,
+,It is critical that the increased energy demand of AI technologies,For more information on our investment in renewable
+"invest in reducing emissions, including in part to offset expected",,
+,be met through low or zero emissions sources of energy.,"energy projects, see the Decarbonise the grid section"
+"increases in data traffic, through decommissioning legacy",,
+,Telstra has supported the renewable energy transition through,of this report.
+"equipment and moving to more energy efficient hardware, as",,
+,investment in new wind and solar farm projects in Australia.,
+well as leveraging the transition of electricity grids to renewable,,
+"energy. Historically, this has helped us manage changes to our",,
+,We will continue to work collaboratively with suppliers and,
+"emissions profile. For example, since FY19 we have reduced our",,
+,partners to both leverage the benefits of AI and reduce our,
+scope 1+2 emissions by 44 per cent and scope 3 emissions by,,
+,emissions. In 2023 we joined CDP and CO2 AI to support the,
+
+=== Table 14 (page 70) ===
+Reserve energy capacity
+We can support a more resilient energy grid
+by managing our demand for power to draw
+"electricity from the grid when it is stable, and"
+switch to backup power when the grid is at risk
+of becoming overloaded.
+We can do this by switching to our ‘reserve capacity’ when
+we become aware of an urgent need to reduce pressure
+on the grid. This can also help us draw more power when
+"there are more renewables in the electricity grid, when"
+the emissions associated with that power are lower and it
+"is more cost effective. This is beneficial for the grid, cost"
+management and reducing our contribution to a changing
+climate through our scope 2 emissions.
+
+=== Table 15 (page 70) ===
+"there are more renewables in the electricity grid, when",
+the emissions associated with that power are lower and it,
+"is more cost effective. This is beneficial for the grid, cost",
+management and reducing our contribution to a changing,
+climate through our scope 2 emissions.,
+,Improving network resilience
+,begins in customers’ homes
+For more information on how we’re managing climate,
+"risk, see the ‘Acting on climate and nature’ section of",
+,The Telstra Smart Modem is designed to provide additional
+our 2025 Annual Report on our website.,
+,"resilience and the most connected internet experience, with"
+,its design considering the impact of outages or disruptions
+,to available fixed broadband connection. When the fixed
+,"broadband connection fails, the Smart Modem automatically"
+,"switches over to the Telstra mobile network, connecting"
+,directly to a backup source of internet where available.

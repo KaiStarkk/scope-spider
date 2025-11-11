@@ -1,0 +1,357 @@
+=== Table 1 (page 20) ===
+,,Risk management,
+,,,Outlook
+,,We assess climate risks through our risk management,
+,,"framework, aligned with the recommendations of the",While we are proud of the progress made
+,,Task Force on Climate-related Financial Disclosures (TCFD).,"in 2024, we know there is much more to be done."
+,,Climate risks are incorporated into our Risk Appetite,Our priorities for 2025 include:
+,,"Statement and monitored across all levels of governance,",
+,,including the Board.,"1. 
+Improving Advocacy:"
+,,,We will strengthen our efforts to amplify
+,,"In 2024, we conducted a scenario analysis of physical",
+,,,"contributor voices, ensuring they have"
+,,risks affecting our global offices to identify vulnerabilities,
+Environmental footprint,Strategy,,a say in shaping the future of the platform.
+,,and inform mitigation strategies. Further details can,
+Our environmental and climate commitments are outlined,Our Net Zero Carbon Roadmap outlines key strategic,,
+,,be found in the section ‘TCFD-based Scenario Analysis.’,"2. 
+Advancing Fairness:"
+in our Environment Position Statement (EPS). This statement,actions to achieve net-zero emissions by 2030 for our,,
+,,,Building on our partnerships with
+"reaffirms our dedication to engaging external stakeholders,",broader value chain.,,
+,,Metrics and targets,"industry bodies, we will continue"
+"such as suppliers, clients, and contractors, to reduce",,,
+,These actions include:,,
+,,Our 2024 GHG emissions inventory was completed,to advocate for ethical.
+our environmental impact. It also ensures transparency in our,,,
+,Sustainable office design and operational efficiency,"in accordance with the GHG Protocol, categorising",
+progress and establishes a governance structure to oversee,,,
+,,,"3. 
+Supporting Innovation:"
+the management of environmental risks and compliance.,Better energy management and sourcing,"emissions into scopes 1, 2, and 3. While direct operations",
+,,,By investing in new technologies
+,renewable energy,"account for a portion of emissions, the majority stem from",
+Given the relatively small environmental footprint,,,"and platform features, we will create"
+,,"our supply chain, including contractors and suppliers.",
+,Partner engagement to achieve shared net-zero goals,,
+"of our direct operations, our focus remains on minimising",,,"a more seamless, rewarding experience"
+"the impact of our offices, facilities, travel, and data centre","Procuring carbon offsets aligned with our values,",,for contributors and customers alike.
+,,"Source
+2024 tCO2e
+2023 tCO2e",
+usage by:,providing additional social and economic benefits,,
+,beyond carbon reductions.,,"4. 
+Expanding Carbon Offset Strategy:"
+Reducing electricity consumption and increasing,,Scope 1,
+,,"309
+283",Finalising and implementing our offset
+the use of renewable energy,,Natural gas,
+,Our offset strategy includes:,,
+,,,"strategy, ensuring carbon credits are sourced"
+Optimising data centre requirements,,,
+,Current and forecasted greenhouse gas emissions,,from projects that align with our company
+,,Scope 2 Electricity,
+by collaborating with a cloud provider committed,,"1,631
+1,945",
+,for Appen,– Location-Based,values and deliver social and economic
+to 100% renewable energy,,,
+,,,benefits beyond emissions reductions.
+,Scenario modelling and budget planning for offsets,,
+Reducing water consumption and waste,,Scope 2 Electricity,
+,,"1,637
+1,990",
+,Criteria for selecting carbon offsets to align with,– Market-Based,
+generation while increasing recycling,,,
+,our company values and sustainability objectives.,,
+and reprocessing of used technology equipment,,,
+,,"13,515
+Scope 3
+12,509",
+Minimising travel through enhanced digital,,,
+,Progress,,
+collaboration tools,,,
+,We have continued the implementation of our net zero,Total,
+,,"15,455
+14,737",
+Partnering with suppliers to pursue,,"Scope 1, 2 & 3 Emissions",
+,strategy this year and achieved the following:,,
+sustainable procurement solutions.,,,
+
+=== Table 2 (page 20) ===
+,,"Statement and monitored across all levels of governance,",,
+,,including the Board.,1.,Improving Advocacy:
+,,,,We will strengthen our efforts to amplify
+,,"In 2024, we conducted a scenario analysis of physical",,
+,,,,"contributor voices, ensuring they have"
+,,risks affecting our global offices to identify vulnerabilities,,
+Environmental footprint,Strategy,,,a say in shaping the future of the platform.
+,,and inform mitigation strategies. Further details can,,
+Our environmental and climate commitments are outlined,Our Net Zero Carbon Roadmap outlines key strategic,,,
+,,be found in the section ‘TCFD-based Scenario Analysis.’,2.,Advancing Fairness:
+in our Environment Position Statement (EPS). This statement,actions to achieve net-zero emissions by 2030 for our,,,
+,,,,Building on our partnerships with
+"reaffirms our dedication to engaging external stakeholders,",broader value chain.,,,
+,,Metrics and targets,,"industry bodies, we will continue"
+"such as suppliers, clients, and contractors, to reduce",,,,
+,These actions include:,,,
+,,Our 2024 GHG emissions inventory was completed,,to advocate for ethical.
+our environmental impact. It also ensures transparency in our,,,,
+,Sustainable office design and operational efficiency,"in accordance with the GHG Protocol, categorising",,
+progress and establishes a governance structure to oversee,,,,
+,,,3.,Supporting Innovation:
+the management of environmental risks and compliance.,Better energy management and sourcing,"emissions into scopes 1, 2, and 3. While direct operations",,
+,,,,By investing in new technologies
+,renewable energy,"account for a portion of emissions, the majority stem from",,
+Given the relatively small environmental footprint,,,,"and platform features, we will create"
+,,"our supply chain, including contractors and suppliers.",,
+,Partner engagement to achieve shared net-zero goals,,,
+"of our direct operations, our focus remains on minimising",,,,"a more seamless, rewarding experience"
+"the impact of our offices, facilities, travel, and data centre","Procuring carbon offsets aligned with our values,",,,for contributors and customers alike.
+,,"Source
+2024 tCO2e
+2023 tCO2e",,
+usage by:,providing additional social and economic benefits,,,
+,beyond carbon reductions.,,4.,Expanding Carbon Offset Strategy:
+Reducing electricity consumption and increasing,,Scope 1,,
+,,"309
+283",,Finalising and implementing our offset
+the use of renewable energy,,Natural gas,,
+,Our offset strategy includes:,,,
+,,,,"strategy, ensuring carbon credits are sourced"
+Optimising data centre requirements,,,,
+,Current and forecasted greenhouse gas emissions,,,from projects that align with our company
+,,Scope 2 Electricity,,
+by collaborating with a cloud provider committed,,"1,631
+1,945",,
+,for Appen,– Location-Based,,values and deliver social and economic
+to 100% renewable energy,,,,
+,,,,benefits beyond emissions reductions.
+,Scenario modelling and budget planning for offsets,,,
+Reducing water consumption and waste,,Scope 2 Electricity,,
+,,"1,637
+1,990",,
+,Criteria for selecting carbon offsets to align with,– Market-Based,,
+generation while increasing recycling,,,,
+,our company values and sustainability objectives.,,,
+and reprocessing of used technology equipment,,,,
+,,"13,515
+Scope 3
+12,509",,
+Minimising travel through enhanced digital,,,,
+,Progress,,,
+collaboration tools,,,,
+,We have continued the implementation of our net zero,Total,,
+,,"15,455
+14,737",,
+Partnering with suppliers to pursue,,"Scope 1, 2 & 3 Emissions",,
+,strategy this year and achieved the following:,,,
+sustainable procurement solutions.,,,,
+,"1. 
+Renewable energy",,,
+,,The reporting boundary for scope 1 and 2 includes all,,
+
+=== Table 3 (page 21) ===
+,,Risk management,
+,,,Outlook
+,,We assess climate risks through our risk management,
+,,"framework, aligned with the recommendations of the",While we are proud of the progress made
+,,Task Force on Climate-related Financial Disclosures (TCFD).,"in 2024, we know there is much more to be done."
+,,Climate risks are incorporated into our Risk Appetite,Our priorities for 2025 include:
+,,"Statement and monitored across all levels of governance,",
+,,including the Board.,"1. 
+Improving Advocacy:"
+,,,We will strengthen our efforts to amplify
+,,"In 2024, we conducted a scenario analysis of physical",
+,,,"contributor voices, ensuring they have"
+,,risks affecting our global offices to identify vulnerabilities,
+Environmental footprint,Strategy,,a say in shaping the future of the platform.
+,,and inform mitigation strategies. Further details can,
+Our environmental and climate commitments are outlined,Our Net Zero Carbon Roadmap outlines key strategic,,
+,,be found in the section ‘TCFD-based Scenario Analysis.’,"2. 
+Advancing Fairness:"
+in our Environment Position Statement (EPS). This statement,actions to achieve net-zero emissions by 2030 for our,,
+,,,Building on our partnerships with
+"reaffirms our dedication to engaging external stakeholders,",broader value chain.,,
+,,Metrics and targets,"industry bodies, we will continue"
+"such as suppliers, clients, and contractors, to reduce",,,
+,These actions include:,,
+,,Our 2024 GHG emissions inventory was completed,to advocate for ethical.
+our environmental impact. It also ensures transparency in our,,,
+,Sustainable office design and operational efficiency,"in accordance with the GHG Protocol, categorising",
+progress and establishes a governance structure to oversee,,,
+,,,"3. 
+Supporting Innovation:"
+the management of environmental risks and compliance.,Better energy management and sourcing,"emissions into scopes 1, 2, and 3. While direct operations",
+,,,By investing in new technologies
+,renewable energy,"account for a portion of emissions, the majority stem from",
+Given the relatively small environmental footprint,,,"and platform features, we will create"
+,,"our supply chain, including contractors and suppliers.",
+,Partner engagement to achieve shared net-zero goals,,
+"of our direct operations, our focus remains on minimising",,,"a more seamless, rewarding experience"
+"the impact of our offices, facilities, travel, and data centre","Procuring carbon offsets aligned with our values,",,for contributors and customers alike.
+,,"Source
+2024 tCO2e
+2023 tCO2e",
+usage by:,providing additional social and economic benefits,,
+,beyond carbon reductions.,,"4. 
+Expanding Carbon Offset Strategy:"
+Reducing electricity consumption and increasing,,Scope 1,
+,,"309
+283",Finalising and implementing our offset
+the use of renewable energy,,Natural gas,
+,Our offset strategy includes:,,
+,,,"strategy, ensuring carbon credits are sourced"
+Optimising data centre requirements,,,
+,Current and forecasted greenhouse gas emissions,,from projects that align with our company
+,,Scope 2 Electricity,
+by collaborating with a cloud provider committed,,"1,631
+1,945",
+,for Appen,– Location-Based,values and deliver social and economic
+to 100% renewable energy,,,
+,,,benefits beyond emissions reductions.
+,Scenario modelling and budget planning for offsets,,
+Reducing water consumption and waste,,Scope 2 Electricity,
+,,"1,637
+1,990",
+,Criteria for selecting carbon offsets to align with,– Market-Based,
+generation while increasing recycling,,,
+,our company values and sustainability objectives.,,
+and reprocessing of used technology equipment,,,
+,,"13,515
+Scope 3
+12,509",
+Minimising travel through enhanced digital,,,
+,Progress,,
+collaboration tools,,,
+,We have continued the implementation of our net zero,Total,
+,,"15,455
+14,737",
+Partnering with suppliers to pursue,,"Scope 1, 2 & 3 Emissions",
+,strategy this year and achieved the following:,,
+sustainable procurement solutions.,,,
+
+=== Table 4 (page 21) ===
+,,"Statement and monitored across all levels of governance,",,
+,,including the Board.,1.,Improving Advocacy:
+,,,,We will strengthen our efforts to amplify
+,,"In 2024, we conducted a scenario analysis of physical",,
+,,,,"contributor voices, ensuring they have"
+,,risks affecting our global offices to identify vulnerabilities,,
+Environmental footprint,Strategy,,,a say in shaping the future of the platform.
+,,and inform mitigation strategies. Further details can,,
+Our environmental and climate commitments are outlined,Our Net Zero Carbon Roadmap outlines key strategic,,,
+,,be found in the section ‘TCFD-based Scenario Analysis.’,2.,Advancing Fairness:
+in our Environment Position Statement (EPS). This statement,actions to achieve net-zero emissions by 2030 for our,,,
+,,,,Building on our partnerships with
+"reaffirms our dedication to engaging external stakeholders,",broader value chain.,,,
+,,Metrics and targets,,"industry bodies, we will continue"
+"such as suppliers, clients, and contractors, to reduce",,,,
+,These actions include:,,,
+,,Our 2024 GHG emissions inventory was completed,,to advocate for ethical.
+our environmental impact. It also ensures transparency in our,,,,
+,Sustainable office design and operational efficiency,"in accordance with the GHG Protocol, categorising",,
+progress and establishes a governance structure to oversee,,,,
+,,,3.,Supporting Innovation:
+the management of environmental risks and compliance.,Better energy management and sourcing,"emissions into scopes 1, 2, and 3. While direct operations",,
+,,,,By investing in new technologies
+,renewable energy,"account for a portion of emissions, the majority stem from",,
+Given the relatively small environmental footprint,,,,"and platform features, we will create"
+,,"our supply chain, including contractors and suppliers.",,
+,Partner engagement to achieve shared net-zero goals,,,
+"of our direct operations, our focus remains on minimising",,,,"a more seamless, rewarding experience"
+"the impact of our offices, facilities, travel, and data centre","Procuring carbon offsets aligned with our values,",,,for contributors and customers alike.
+,,"Source
+2024 tCO2e
+2023 tCO2e",,
+usage by:,providing additional social and economic benefits,,,
+,beyond carbon reductions.,,4.,Expanding Carbon Offset Strategy:
+Reducing electricity consumption and increasing,,Scope 1,,
+,,"309
+283",,Finalising and implementing our offset
+the use of renewable energy,,Natural gas,,
+,Our offset strategy includes:,,,
+,,,,"strategy, ensuring carbon credits are sourced"
+Optimising data centre requirements,,,,
+,Current and forecasted greenhouse gas emissions,,,from projects that align with our company
+,,Scope 2 Electricity,,
+by collaborating with a cloud provider committed,,"1,631
+1,945",,
+,for Appen,– Location-Based,,values and deliver social and economic
+to 100% renewable energy,,,,
+,,,,benefits beyond emissions reductions.
+,Scenario modelling and budget planning for offsets,,,
+Reducing water consumption and waste,,Scope 2 Electricity,,
+,,"1,637
+1,990",,
+,Criteria for selecting carbon offsets to align with,– Market-Based,,
+generation while increasing recycling,,,,
+,our company values and sustainability objectives.,,,
+and reprocessing of used technology equipment,,,,
+,,"13,515
+Scope 3
+12,509",,
+Minimising travel through enhanced digital,,,,
+,Progress,,,
+collaboration tools,,,,
+,We have continued the implementation of our net zero,Total,,
+,,"15,455
+14,737",,
+Partnering with suppliers to pursue,,"Scope 1, 2 & 3 Emissions",,
+,strategy this year and achieved the following:,,,
+sustainable procurement solutions.,,,,
+,"1. 
+Renewable energy",,,
+,,The reporting boundary for scope 1 and 2 includes all,,
+
+=== Table 5 (page 132) ===
+,,,,,,,Registered office,Auditor
+Environment,,,,,,,,
+,,,,,,,"Level 6, 9 Help Street",KPMG
+"Geographic distribution of emissions (Scope 1 and 2) 1,2",,,,,,,,
+,,,,,,,Chatswood NSW 2067,Tower Three
+,,,Electricity,,,Scope 2,,
+,,,,,,,+61 2 9468 6300,International Towers Sydney
+,Gas,Electricity,–renewable,Scope 1,Scope 2,(location based),,
+,,,,,,,www.appen.com,300 Barangaroo Avenue
+,(MWh),(MWh),(MWh),tCO2e,tCO2e,tCO2e,,
+,,,,,,,,Sydney NSW 2000
+Australia,–,–,52.0,–,–,37.9,,
+US and Canada,120.0,210.3,–,21.8,44.6,39.9,Company secretary,
+"China, Japan and Vietnam","1,406.7","1,064.6",–,254.9,892.5,892.5,Carl Middlehurst,Stock exchange listing
+,,,,,,,,Appen Limited shares are listed on the
+UK,35.6,26.9,65.5,6.5,1.8,13.6,,
+,,,,,,,,Australian Securities Exchange (ASX code: APX)
+India,–,174.6,–,–,173.0,173.0,,
+,,,,,,,Investor relations,
+Philippines,–,"1,309.4",–,–,832.8,832.8,,
+,,,,,,,+61 2 9468 6300,
+Total,"1,562.3","2,785.8",90.6,283.2,"1,944.7","1,989.7",,Corporate Governance Statement
+,,,,,,,investorrelations@appen.com,
+,,,,,,,www.appen.com/investors,www.appen.com/investors/corporate-governance
+
+=== Table 6 (page 133) ===
+,,,,,,,Registered office,Auditor
+Environment,,,,,,,,
+,,,,,,,"Level 6, 9 Help Street",KPMG
+"Geographic distribution of emissions (Scope 1 and 2) 1,2",,,,,,,,
+,,,,,,,Chatswood NSW 2067,Tower Three
+,,,Electricity,,,Scope 2,,
+,,,,,,,+61 2 9468 6300,International Towers Sydney
+,Gas,Electricity,–renewable,Scope 1,Scope 2,(location based),,
+,,,,,,,www.appen.com,300 Barangaroo Avenue
+,(MWh),(MWh),(MWh),tCO2e,tCO2e,tCO2e,,
+,,,,,,,,Sydney NSW 2000
+Australia,–,–,52.0,–,–,37.9,,
+US and Canada,120.0,210.3,–,21.8,44.6,39.9,Company secretary,
+"China, Japan and Vietnam","1,406.7","1,064.6",–,254.9,892.5,892.5,Carl Middlehurst,Stock exchange listing
+,,,,,,,,Appen Limited shares are listed on the
+UK,35.6,26.9,65.5,6.5,1.8,13.6,,
+,,,,,,,,Australian Securities Exchange (ASX code: APX)
+India,–,174.6,–,–,173.0,173.0,,
+,,,,,,,Investor relations,
+Philippines,–,"1,309.4",–,–,832.8,832.8,,
+,,,,,,,+61 2 9468 6300,
+Total,"1,562.3","2,785.8",90.6,283.2,"1,944.7","1,989.7",,Corporate Governance Statement
+,,,,,,,investorrelations@appen.com,
+,,,,,,,www.appen.com/investors,www.appen.com/investors/corporate-governance

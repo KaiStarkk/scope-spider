@@ -1,0 +1,134 @@
+=== Table 1 (page 13) ===
+Providing Low and Zero Emission Transport Solutions,
+Kelsian is committed to supporting our customers and partners to,"• 
+Improving the Passenger Experience: Our zero emission buses offer"
+"achieve their emissions reduction targets by delivering smart, low and","a smoother, quieter ride, with upgraded interiors including improved"
+zero emission transport solutions that reduce operational emissions,seating and onboard USB charging.
+"and enhance liveability in the communities we serve. As governments,",
+,•  Policy Collaboration: We work closely with government partners to
+"customers and investors increasingly focus on decarbonisation, we are",
+,"align services with climate targets, secure funding for infrastructure"
+"helping to accelerate this shift through practical investments, service",
+,"upgrades, and shape forward-looking transport strategies."
+innovation and strategic collaboration.,
+,•  Public Awareness Campaigns: Initiatives have helped promote
+"Globally, the transport sector accounts for around 27% of all energy",
+,the environmental benefits of public transport and influence
+"use, and 64% of total oil consumption.3 On the emissions front, the",
+,commuter behaviour.
+transport sector accounts for 23% of global carbon emissions.4,
+"Despite the challenge, decarbonising the transport sector presents",•  Service Frequency and Reliability: While operations vary across
+one of the greatest opportunities for climate action. Through targeted,"regions, high-frequency, on-time services are key to making public"
+"investment in technology and partnerships with transport authorities,",transport a convenient alternative to car travel.
+Kelsian continues to enable the shift from high-emission transport,
+modes to more sustainable alternatives.,•  Digital Innovation: Real-time tracking apps and tap-and-go payment
+,options improve convenience and build trust in service reliability.
+"Mode shift plays a central role in reducing emissions and pollution,",
+while also delivering broader social and economic benefits including,Kelsian has set a target to reduce the Scope 1 carbon intensity of our
+reduced road congestion and increased connectivity. Kelsian supports,"Australian public bus fleet by at least 50% by 2035, with a pathway"
+this shift by encouraging people to move from private cars to shared,to net zero by 2050. While we have not set a Group-wide Scope 1
+transport options such as buses and ferries. Our contribution is made,"reduction target, we continue to seek opportunities that balance"
+possible through:,emissions reduction with operational and commercial value.
+,"Through continued investment, innovation and collaboration, Kelsian"
+"• 
+Investment in Zero Emissions Buses (ZEBs) and Infrastructure:",
+,is proud to work with our government clients and customers to support
+"As of 30 June 2025, our fleet included 204 ZEBs and one of the",
+,the broader decarbonisation of transport systems and create more
+"largest electrified bus depots in Australia at Leichhardt, Sydney.",
+,"sustainable, connected communities."
+
+=== Table 2 (page 20) ===
+PERFORMANCE TABLE CONTINUED,,,
+As at 30 June 2025,,,
+,FY25,FY24,FY23
+Our Environment continued,,,
+FINES,,,
+Number of fines for non-compliance with environmental regulations,0,0,0
+GREENHOUSE GAS EMISSIONS BY COUNTRY,,,
+Australia,,,
+"e) 
+Scope 1 emissions (tCO2","258,374","249,233","223,285"
+"e) 
+Scope 2 emissions (tCO2","11,947","10,989","8,607"
+"e) 
+Total GHG emissions (tCO2","270,321","260,222","213,892"
+Singapore,,,
+"e) 
+Scope 1 emissions (tCO2","100,375","95,934","90,067"
+"e) 
+Scope 2 emissions (tCO2","3,818","3,607","2,089"
+"e) 
+Total GHG emissions (tCO2","104,193","99,541","92,156"
+Total Group Level Emissions8,,,
+"e) 
+Scope 1 emissions (tCO2","358,749","345,167","313,352"
+"e)
+Scope 2 emissions (tCO2","15,765","14,596","10,696"
+"e)
+Total GHG emissions (tCO2","374,514","359,763","324,048"
+Emissions by Division,,,
+"e)
+Australian Bus - Scope 1 & 2 (tCO2","221,191","214,098","178,249"
+"e)
+Australian Marine and Tourism - Scope 1 & 2 (tCO2","49,110","35,135","45,036"
+"e /AUD$m)
+Scope 1 emissions intensity Australian Bus (tCO2",192.1,206.5,211
+"e /km travelled)
+Scope 1 emissions intensity Australian Bus (tCO2",0.0011,0.0012,0.0012
+
+=== Table 3 (page 22) ===
+,GRI CONTENT INDEX - SPECIFIC STANDARD DISCLOSURES,
+SPECIFIC STANDARD DISCLOSURES,DISCLOSURE TITLE,PAGE NUMBER (OR LINK)
+CATEGORY : ETHICAL CONDUCT & TRANSPARENCY,,
+GRI 103-1,Generic Disclosure on Management Approach,"Governance, p. 16"
+GRI 103-2,,
+GRI 103-3,,
+GRI 415-1,Political contributions,"Governance, p. 16"
+CATEGORY : PEOPLE,,
+GRI 103-1,Generic Disclosure on Management Approach,"Ensuring the Health and Safety of our Employees,"
+GRI 103-2,,"Passengers and Communities, p. 7"
+GRI 103-3,,
+GRI 403-2,Injury rates,"Safety Performance, p.7, Performance Table, p.17"
+GRI 103-1,Generic Disclosure on Management Approach,"Promoting a Diverse and Inclusive Culture, p. 9"
+GRI 103-2,,
+GRI 103-3,,
+GRI 405-1,Composition of governance bodies and employees,"Performance Table, p. 17"
+CATEGORY : SOCIAL/COMMUNITIES,,
+GRI 103-1,Generic Disclosure on Management Approach,Driving positive change in the communities where
+GRI 103-2,,"we operate, p. 14"
+GRI 103-3,,
+GRI 403-1,Operations with implemented local community,Specific information requested is currently not
+,"engagement, impact assessments and",reported by the company
+,development programs,
+GRI 411-1,Incidents of violations involving rights of,There were no known violations involving rights of
+,indigenous peoples,indigenous peoples in the reporting period
+GRI 205-2,Communicating and training on anti-corruption,Specific information requested is currently not
+,policies and procedures,reported by the company
+GRI 205-3,Confirmed incidents of corruption and actions taken,"Governance, p. 16"
+CATEGORY : ENVIRONMENT,,
+GRI 103-1,Generic Disclosure on Management Approach,"Reducing our Environmental Impact, p. 8"
+GRI 103-2,,
+GRI 103-3,,
+GRI 306-3,Number and volume of spills,"Performance Table, p. 17"
+GRI 305-1,Direct greenhouse gas emissions (Scope 1),"Performance Table, p. 18"
+GRI 305-2,Indirect greenhouse gas emissions (Scope 2),"Performance Table, p. 18"
+
+=== Table 4 (page 23) ===
+GLOSSARY,
+Board,Board of Directors of Kelsian Group Limited
+Fatalities,Death resulting from work related injuries or occupational illness
+GRI,The Global Reporting Initiative is a network-based organisation that sets out guidelines and indicators that
+,"organisations can use to measure and report their economic, social, and environmental performance"
+IFRS,International Financial Reporting Standard
+Scope 1,Greenhouse gas emissions that are released to the atmosphere as a direct result of an activity such as diesel
+,combustion in buses and marine vessels
+Scope 2,Greenhouse gas emissions that are released to the atmosphere from the indirect consumption of an energy
+,commodity such as from electricity purchased from the grid
+e,
+tCO2,tonnes of carbon dioxide equivalent is a term for describing different greenhouse gases in a common unit
+TCFD,Task Force on Climate Related Financial Disclosures
+LTIFR,"Loss Time Injury Frequency rate calculated as (Number of Loss Time Injury / Number of hours worked) *1,000,000"
+TRIFR,Total Recordable injury Frequency rate calculated as (Number of Total Recordable Injury / Number of hours
+,"worked) *1,000,000"
+Significant spill,Incident that results in a remedial notice from the regulator
