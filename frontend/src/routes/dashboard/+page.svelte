@@ -278,10 +278,10 @@
 	}
 </script>
 
-<section class="mx-auto max-w-7xl space-y-8 px-6 py-8">
+<section class="space-y-10">
 	<header class="space-y-2">
-		<h1 class="text-3xl font-semibold text-slate-900">Dashboard</h1>
-		<p class="text-sm text-slate-600">
+		<h1 class="text-3xl font-semibold text-slate-800">Dashboard</h1>
+		<p class="text-sm text-slate-500">
 			Overview of extraction status and key indicators across the portfolio.
 		</p>
 	</header>
@@ -389,7 +389,7 @@
 				</button>
 			{/each}
 		</div>
-		<div class="rounded-lg border border-slate-100 bg-slate-50 p-3">
+		<div class="rounded-lg border border-slate-100 bg-white p-3">
 			{#if activeChartConfig.data.length}
 				<PlotlyChart data={activeChartConfig.data} layout={activeChartConfig.layout} config={plotConfig} />
 			{:else}

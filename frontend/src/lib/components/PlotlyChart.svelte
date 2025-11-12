@@ -19,7 +19,11 @@
 		Plotly = module.default ?? module;
 	}
 
-	async function render() {
+	async function render(
+		currentData: Array<Record<string, unknown>> = data,
+		currentLayout: Record<string, unknown> = layout,
+		currentConfig: Record<string, unknown> = config
+	) {
 		if (!browser || !Plotly || !container) {
 			return;
 		}
@@ -29,10 +33,10 @@
 		pending = true;
 		try {
 			if (!initialized) {
-				await Plotly.newPlot(container, data, layout, config);
+				await Plotly.newPlot(container, currentData, currentLayout, currentConfig);
 				initialized = true;
 			} else {
-				await Plotly.react(container, data, layout, config);
+				await Plotly.react(container, currentData, currentLayout, currentConfig);
 			}
 		} finally {
 			pending = false;
@@ -52,8 +56,8 @@
 	});
 
 	$: if (browser && Plotly && container) {
-		render();
+		render(data, layout, config);
 	}
 </script>
 
-<div class="w-full min-h-[320px]" bind:this={container}></div>
+<div class="w-full min-h-[640px]" bind:this={container}></div>

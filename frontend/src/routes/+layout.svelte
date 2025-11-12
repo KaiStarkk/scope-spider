@@ -46,7 +46,7 @@ const { children } = $props<{ children?: Snippet }>();
 	</ul>
 </nav>
 
-<main class="mx-auto min-h-[calc(100vh-8rem)] max-w-5xl px-6 py-8">
+<main class="mx-auto w-full min-h-[calc(100vh-8rem)] px-6 py-10 bg-slate-50 lg:max-w-[80vw]">
 	{@render children?.()}
 </main>
 
