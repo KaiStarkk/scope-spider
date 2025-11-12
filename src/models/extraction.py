@@ -4,9 +4,10 @@ from pydantic import BaseModel, ConfigDict, Field
 class ExtractionRecord(BaseModel):
     model_config = ConfigDict(populate_by_name=True)
 
-    text_path: str = Field(
+    text_path: str | None = Field(
+        default=None,
         alias="json_path",
-        description="Path to text snippet file containing relevant PDF excerpts.",
+        description="Path to text snippet file containing relevant PDF excerpts (if generated).",
     )
     text_token_count: int = Field(
         default=0,

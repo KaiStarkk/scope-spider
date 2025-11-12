@@ -2,13 +2,13 @@ from __future__ import annotations
 
 from contextlib import suppress
 from pathlib import Path
-from typing import List, Pattern, Tuple
+from typing import List, Optional, Pattern, Tuple
 
 from PyPDF2 import PdfReader
 from PyPDF2.errors import DependencyError, PdfReadError
 
 
-def extract_pdf_text(pdf_path: Path) -> List[str]:
+def extract_pdf_text(pdf_path: Path, *, max_pages: Optional[int] = None) -> List[str]:
     pages: List[str] = []
     try:
         reader = PdfReader(str(pdf_path))
@@ -20,11 +20,13 @@ def extract_pdf_text(pdf_path: Path) -> List[str]:
         return pages
     except (PdfReadError, OSError):
         return pages
-    for page in reader.pages:
+    for page_index, page in enumerate(reader.pages):
         text_content = ""
         with suppress(Exception):
             text_content = page.extract_text() or ""
         pages.append(text_content)
+        if max_pages is not None and page_index + 1 >= max_pages:
+            break
     return pages
 
 

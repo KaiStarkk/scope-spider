@@ -2,6 +2,7 @@ import io
 import os
 import re
 import sys
+import warnings
 from pathlib import Path
 from typing import Any, List, Optional, Tuple
 
@@ -27,12 +28,10 @@ KEYWORDS = [
     r"\bscope\s*1\b",
     r"\bscope\s*2\b",
     r"\bscope\s*3\b",
-    r"\bghg\b",
-    r"\bgreenhouse\s+gas",
-    r"\bemissions?\b",
-    r"\btco2e\b",
-    r"\bktco2e\b",
-    r"\bmtco2e\b",
+    r"\btco2\b",
+    r"\bktco2\b",
+    r"\bmtco2\b",
+    r"\bkgco2\b",
 ]
 KEYWORD_RE = re.compile("|".join(KEYWORDS), re.IGNORECASE)
 SCOPE_TABLE_RE = re.compile(r"\bscope\s*\d+\b", re.IGNORECASE)
@@ -77,11 +76,13 @@ def extract_scope_tables(
     table_list: Optional[Any] = None
     for flavor in ("stream", "lattice"):
         try:
-            table_list = camelot.read_pdf(  # type: ignore[attr-defined]
-                str(pdf_path),
-                pages=page_spec,
-                flavor=flavor,
-            )
+            with warnings.catch_warnings():
+                warnings.simplefilter("ignore", category=UserWarning)
+                table_list = camelot.read_pdf(  # type: ignore[attr-defined]
+                    str(pdf_path),
+                    pages=page_spec,
+                    flavor=flavor,
+                )
         except Exception:
             table_list = None
         if table_list and len(table_list) > 0:
@@ -115,14 +116,28 @@ def extract_scope_tables(
 
 
 def main():
-    # Usage: s4_extract.py <companies.json> [extracted_dir]
+    # Usage: s4_extract.py <companies.json> [extracted_dir] [--debug]
     if len(sys.argv) < 2:
-        sys.exit("Usage: s4_extract.py <companies.json> [extracted_dir]")
+        sys.exit("Usage: s4_extract.py <companies.json> [extracted_dir] [--debug]")
     companies_path = Path(sys.argv[1])
-    extract_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else DEFAULT_EXTRACT_DIR
+    extra_args = sys.argv[2:]
+    debug = "--debug" in extra_args
+    # Support optional extracted_dir as the first non-flag extra arg
+    dir_args = [arg for arg in extra_args if not arg.startswith("-")]
+    extract_dir = Path(dir_args[0]) if dir_args else DEFAULT_EXTRACT_DIR
     extract_dir.mkdir(parents=True, exist_ok=True)
 
     companies, payload = load_companies(companies_path)
+    deleted_files = 0
+
+    def delete_path(path: Path) -> bool:
+        nonlocal deleted_files
+        if path.exists():
+            path.unlink(missing_ok=True)
+            deleted_files += 1
+            return True
+        return False
+
     # Count candidates with download status ok for progress
     candidates: List[Company] = [
         company
@@ -168,29 +183,36 @@ def main():
             )
             continue
         ticker = company.identity.ticker or "UNKNOWN"
-        print(f"EXTRACT [{idx_ok}/{total_ok}] {ticker}: {pdf_path.name}", flush=True)
         base = pdf_path.stem
         out_txt = extract_dir / f"{base}.text.snippet.txt"
         out_tables = extract_dir / f"{base}.tables.snippet.txt"
         existing_extraction = company.extraction_record
-        if (
-            existing_extraction
-            and existing_extraction.text_path == str(out_txt)
-            and existing_extraction.text_token_count > 0
-            and Path(existing_extraction.text_path).exists()
-            and (
-                existing_extraction.table_count == 0
-                or (
-                    existing_extraction.table_path
-                    and Path(existing_extraction.table_path).exists()
-                )
+        if existing_extraction:
+            text_ready = (
+                existing_extraction.text_path
+                and existing_extraction.text_path == str(out_txt)
+                and Path(existing_extraction.text_path).exists()
+                and existing_extraction.text_token_count > 0
             )
-        ):
-            print(
-                f"SKIP [{idx_ok}/{total_ok}] extract {ticker}: already exists",
-                flush=True,
+            tables_expected = existing_extraction.table_count > 0
+            tables_ready = (
+                tables_expected
+                and existing_extraction.table_path
+                and existing_extraction.table_path == str(out_tables)
+                and Path(existing_extraction.table_path).exists()
             )
-            continue
+
+            if tables_expected and not tables_ready:
+                existing_extraction = None
+            elif not tables_expected and not text_ready:
+                existing_extraction = None
+            elif tables_ready or text_ready:
+                if debug:
+                    print(
+                        f"SKIP [{idx_ok}/{total_ok}] extract {ticker}: already exists",
+                        flush=True,
+                    )
+                continue
 
         pages = extract_pdf_text(pdf_path)
         if not pages:
@@ -207,59 +229,105 @@ def main():
             )
         hits = keyword_hit_pages(pages, KEYWORD_RE)
         if not hits:
+            # No relevant keywords found anywhere; clear records and delete artefacts
+            company.search_record = None
+            company.download_record = None
             company.extraction_record = None
+            deleted_in_case = 0
+            # Delete extracted snippets and the original PDF if present
             for orphan in (out_txt, out_tables):
-                if orphan.exists():
-                    orphan.unlink(missing_ok=True)
+                if delete_path(orphan):
+                    deleted_in_case += 1
+            if delete_path(pdf_path):
+                deleted_in_case += 1
+            removed_detail = (
+                f"removed {deleted_in_case} file{'s' if deleted_in_case != 1 else ''}"
+                if deleted_in_case
+                else "no files removed"
+            )
             print(
-                f"MISS [{idx_ok}/{total_ok}] extract {ticker}: pattern not found; skipping extraction",
+                f"CLEAR [{idx_ok}/{total_ok}] extract {ticker}: no keywords found; cleared search/download/extraction and {removed_detail}",
                 flush=True,
             )
             continue
-        snippet, chosen_pages = build_text_snippet(pages, hits, max_chars=12000)
-        if not snippet:
-            company.extraction_record = None
-            if out_txt.exists():
-                out_txt.unlink(missing_ok=True)
-            print(
-                f"FAIL [{idx_ok}/{total_ok}] extract {ticker}: matched pages contained no extractable text",
-                flush=True,
-            )
-            continue
-        try:
-            safe_write_text(out_txt, snippet)
-        except OSError as e:
-            company.extraction_record = None
-            print(
-                f"FAIL [{idx_ok}/{total_ok}] extract {ticker}: unable to write snippet ({e}); extraction record cleared",
-                flush=True,
-            )
-            continue
+        # Only announce EXTRACT after we know we won't skip
+        print(f"EXTRACT [{idx_ok}/{total_ok}] {ticker}: {pdf_path.name}", flush=True)
 
-        text_tokens = count_tokens(snippet)
-        table_snippet, table_count, _ = extract_scope_tables(pdf_path, chosen_pages)
+        selected_pages = sorted(set(hits))
+        table_snippet, table_count, _ = extract_scope_tables(pdf_path, selected_pages)
+        use_tables_only = table_count > 0 and bool(table_snippet)
+
+        text_path_str: str | None = None
+        text_tokens = 0
+        chosen_pages: List[int] = []
         table_path_str: str | None = None
         table_token_count = 0
-        if table_count > 0 and table_snippet:
-            table_token_count = count_tokens(table_snippet)
+
+        if use_tables_only:
             try:
                 safe_write_text(out_tables, table_snippet)
                 table_path_str = str(out_tables)
+                table_token_count = count_tokens(table_snippet)
+                delete_path(out_txt)
             except OSError as e:
                 print(
-                    f"NOTE [{idx_ok}/{total_ok}] {ticker}: unable to write table snippet ({e}); continuing without tables",
+                    f"NOTE [{idx_ok}/{total_ok}] {ticker}: unable to write table snippet ({e}); falling back to text extraction",
                     flush=True,
                 )
+                delete_path(out_tables)
+                table_snippet = ""
                 table_count = 0
-                table_token_count = 0
-                table_path_str = None
-                if out_tables.exists():
-                    out_tables.unlink(missing_ok=True)
-        elif out_tables.exists():
-            out_tables.unlink(missing_ok=True)
+                use_tables_only = False
+
+        if not use_tables_only:
+            snippet, chosen_pages = build_text_snippet(pages, hits, max_chars=12000)
+            if not snippet:
+                company.extraction_record = None
+                delete_path(out_txt)
+                print(
+                    f"FAIL [{idx_ok}/{total_ok}] extract {ticker}: matched pages contained no extractable text",
+                    flush=True,
+                )
+                if table_count == 0:
+                    delete_path(out_tables)
+                continue
+            try:
+                safe_write_text(out_txt, snippet)
+            except OSError as e:
+                company.extraction_record = None
+                delete_path(out_txt)
+                print(
+                    f"FAIL [{idx_ok}/{total_ok}] extract {ticker}: unable to write snippet ({e}); extraction record cleared",
+                    flush=True,
+                )
+                if table_count == 0:
+                    delete_path(out_tables)
+                continue
+
+            text_path_str = str(out_txt)
+            text_tokens = count_tokens(snippet)
+
+            if table_count > 0 and table_snippet:
+                try:
+                    safe_write_text(out_tables, table_snippet)
+                    table_path_str = str(out_tables)
+                    table_token_count = count_tokens(table_snippet)
+                except OSError as e:
+                    print(
+                        f"NOTE [{idx_ok}/{total_ok}] {ticker}: unable to write table snippet ({e}); continuing without tables",
+                        flush=True,
+                    )
+                    table_count = 0
+                    table_token_count = 0
+                    table_path_str = None
+                    delete_path(out_tables)
+            elif delete_path(out_tables):
+                pass
+        else:
+            delete_path(out_txt)
 
         company.extraction_record = ExtractionRecord(
-            json_path=str(out_txt),
+            json_path=text_path_str,
             text_token_count=text_tokens,
             snippet_count=len(chosen_pages),
             table_path=table_path_str,
@@ -274,6 +342,10 @@ def main():
         )
 
     dump_companies(companies_path, payload, companies)
+    print(
+        f"Deleted files during extraction: {deleted_files}",
+        flush=True,
+    )
     print(f"Updated {companies_path}", flush=True)
 
 

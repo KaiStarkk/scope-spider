@@ -132,14 +132,18 @@ def validate_search_record(
         record.doc_type = derived_type
         changes = True
 
-    inferred_year = infer_year_from_text(record.title, record.filename, record.url)
+    inferred_year = (
+        infer_year_from_text(record.title, record.filename, record.url)
+        if check_pdf_year
+        else None
+    )
     if inferred_year:
         if record.year != inferred_year:
             issues.append(Issue(ticker, f"year set to {inferred_year}", True))
             record.year = inferred_year
             changes = True
     elif not record.year:
-        issues.append(Issue(ticker, "year missing and could not be inferred", False))
+        issues.append(Issue(ticker, "year missing", False))
     else:
         if len(record.year) != 4 or not record.year.isdigit():
             issues.append(Issue(ticker, "invalid year format; cleared", True))
@@ -161,7 +165,7 @@ def validate_search_record(
 
     if check_pdf_year:
         if pdf_path and pdf_path.exists() and pdf_path.suffix.lower() == ".pdf":
-            pages = extract_pdf_text(pdf_path)[:1]
+            pages = extract_pdf_text(pdf_path, max_pages=1)
             pdf_year, future_year = _highest_year_from_pages(pages)
             if future_year:
                 issues.append(
@@ -307,7 +311,9 @@ def summarise_stages(company: Company, stage_counts: Counter) -> None:
     if download and download.pdf_path:
         stage_counts["downloaded"] += 1
     extraction = company.extraction_record
-    if extraction and extraction.text_path:
+    if extraction and (
+        extraction.text_path or (extraction.table_count > 0 and extraction.table_path)
+    ):
         stage_counts["extracted"] += 1
     if emissions_complete(company.emissions):
         stage_counts["verified"] += 1
@@ -539,33 +545,44 @@ def main(argv: list[str]) -> int:
                 scope_source = "unknown"
                 scope_notes: List[str] = []
 
-                snippet_path: Optional[Path] = None
-                if company.extraction_record and company.extraction_record.text_path:
-                    candidate_snippet = Path(
-                        company.extraction_record.text_path
-                    ).expanduser()
-                    if not candidate_snippet.is_absolute():
-                        candidate_snippet = (path.parent / candidate_snippet).resolve()
-                    snippet_path = candidate_snippet
+                snippet_candidates: List[Tuple[str, Path]] = []
+                if company.extraction_record:
+                    if company.extraction_record.text_path:
+                        snippet_candidates.append(
+                            ("text snippet", Path(company.extraction_record.text_path))
+                        )
+                    if company.extraction_record.table_path:
+                        snippet_candidates.append(
+                            (
+                                "table snippet",
+                                Path(company.extraction_record.table_path),
+                            )
+                        )
+
+                for label, candidate_snippet in snippet_candidates:
+                    snippet_path = candidate_snippet.expanduser()
+                    if not snippet_path.is_absolute():
+                        snippet_path = (path.parent / snippet_path).resolve()
                     if snippet_path.exists():
                         try:
                             snippet_text = snippet_path.read_text(encoding="utf-8")
                             if SCOPE_KEYWORDS_RE.search(snippet_text):
                                 scope_present = True
-                                scope_source = "snippet"
+                                scope_source = label
+                                break
                         except OSError as exc:
-                            scope_notes.append(f"snippet read error ({exc})")
+                            scope_notes.append(f"{label} read error ({exc})")
                     else:
-                        scope_notes.append("snippet missing")
+                        scope_notes.append(f"{label} missing")
 
                 if not scope_present:
                     pdf_candidate = _resolve_pdf_path(
                         path, company.download_record.pdf_path
                     )
                     if pdf_candidate.exists():
-                        pdf_pages = extract_pdf_text(pdf_candidate)[
-                            :SCOPE_SCAN_MAX_PAGES
-                        ]
+                        pdf_pages = extract_pdf_text(
+                            pdf_candidate, max_pages=SCOPE_SCAN_MAX_PAGES
+                        )
                         if not pdf_pages:
                             scope_notes.append("no text extracted from PDF")
                         else:

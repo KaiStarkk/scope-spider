@@ -5,11 +5,7 @@
         "name": "Woodside Energy Group Ltd.",
         "ticker": "WDS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -44,11 +40,7 @@
         "name": "BHP Group Ltd.",
         "ticker": "BHP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -84,11 +76,7 @@
         "name": "Mineral Resources Ltd.",
         "ticker": "MIN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -123,11 +111,7 @@
         "name": "Liontown Resources Ltd.",
         "ticker": "LTR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -162,11 +146,7 @@
         "name": "Whitehaven Coal Ltd.",
         "ticker": "WHC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -201,11 +181,7 @@
         "name": "Wesfarmers Ltd.",
         "ticker": "WES-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Wholesale Trade",
         "anzsic_confidence": 0.9,
@@ -240,11 +216,7 @@
         "name": "Qantas Airways Ltd.",
         "ticker": "QAN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.95,
@@ -279,11 +251,7 @@
         "name": "Mirvac Group",
         "ticker": "MGR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -318,11 +286,7 @@
         "name": "Iluka Resources Ltd.",
         "ticker": "ILU-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -357,11 +321,7 @@
         "name": "Ramsay Health Care Ltd.",
         "ticker": "RHC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.95,
@@ -396,11 +356,7 @@
         "name": "Monadelphous Group Ltd.",
         "ticker": "MND-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -435,11 +391,7 @@
         "name": "BlueScope Steel Ltd.",
         "ticker": "BSL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.95,
@@ -474,11 +426,7 @@
         "name": "Fortescue Ltd.",
         "ticker": "FMG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -513,11 +461,7 @@
         "name": "Worley Ltd.",
         "ticker": "WOR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.9,
@@ -552,11 +496,7 @@
         "name": "Vicinity Centres",
         "ticker": "VCX-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -591,11 +531,7 @@
         "name": "Dexus",
         "ticker": "DXS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -630,11 +566,7 @@
         "name": "Cochlear Ltd.",
         "ticker": "COH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.9,
@@ -669,11 +601,7 @@
         "name": "Cedar Woods Properties Ltd.",
         "ticker": "CWP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -708,11 +636,7 @@
         "name": "Centuria Capital Group",
         "ticker": "CNI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -746,11 +670,7 @@
         "name": "Charter Hall Group",
         "ticker": "CHC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -785,11 +705,7 @@
         "name": "Scentre Group",
         "ticker": "SCG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -823,11 +739,7 @@
         "name": "South32 Ltd.",
         "ticker": "S32-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -862,11 +774,7 @@
         "name": "Shape Australia Corp. Ltd.",
         "ticker": "SHA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -876,16 +784,6 @@
         "profitability_ebitda_mm_aud": 28.0299897579297,
         "profitability_net_income_mm_aud": 21.123,
         "profitability_total_assets_mm_aud": 275.066006779419
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250820/pdf/06n29gysvb8yw6.pdf",
-        "title": "06n29gysvb8yw6.pdf",
-        "filename": "06n29gysvb8yw6.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/SHA-AU_c0ce0e542f_06n29gysvb8yw6.pdf"
       }
     },
     {
@@ -893,11 +791,7 @@
         "name": "Macquarie Group Ltd.",
         "ticker": "MQG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.95,
@@ -931,11 +825,7 @@
         "name": "CDC",
         "ticker": "Private"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.8,
@@ -966,11 +856,7 @@
         "name": "Inghams Group Ltd.",
         "ticker": "ING-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Agriculture, Forestry and Fishing",
         "anzsic_confidence": 0.9,
@@ -1005,11 +891,7 @@
         "name": "Telstra Group Ltd.",
         "ticker": "TLS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.95,
@@ -1044,11 +926,7 @@
         "name": "Lendlease Group",
         "ticker": "LLC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -1083,11 +961,7 @@
         "name": "NextDC Ltd.",
         "ticker": "NXT-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -1122,11 +996,7 @@
         "name": "Perenti Ltd.",
         "ticker": "PRN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -1161,11 +1031,7 @@
         "name": "Nick Scali Ltd.",
         "ticker": "NCK-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -1199,11 +1065,7 @@
         "name": "Santos Ltd.",
         "ticker": "STO-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -1239,11 +1101,7 @@
         "name": "Karoon Energy Ltd.",
         "ticker": "KAR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -1278,11 +1136,7 @@
         "name": "The Reject Shop Ltd.",
         "ticker": "TRS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -1292,16 +1146,6 @@
         "profitability_ebitda_mm_aud": 126.403005057251,
         "profitability_net_income_mm_aud": 4.713,
         "profitability_total_assets_mm_aud": 492.714996273185
-      },
-      "search_record": {
-        "url": "https://trs-storefront.cdn.prismic.io/trs-storefront/ZsZt6EaF0TcGJM-H_5.TRS013.16A_WEB-TRSANNUALREPORT2024AW.pdf",
-        "title": "ZsZt6EaF0TcGJM-H_5.TRS013.16A_WEB-TRSANNUALREPORT2024AW.pdf",
-        "filename": "ZsZt6EaF0TcGJM-H_5.TRS013.16A_WEB-TRSANNUALREPORT2024AW.pdf",
-        "year": "2024",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/TRS-AU_ead9534e98_ZsZt6EaF0TcGJM-H_5.TRS013.16A_WEB-TRSANNUALREPORT2024AW.pdf"
       }
     },
     {
@@ -1309,11 +1153,7 @@
         "name": "Sandfire Resources Ltd.",
         "ticker": "SFR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -1348,11 +1188,7 @@
         "name": "Shaver Shop Group Ltd.",
         "ticker": "SSG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -1386,11 +1222,7 @@
         "name": "Woolworths Group Ltd.",
         "ticker": "WOW-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.95,
@@ -1425,11 +1257,7 @@
         "name": "Perpetual Ltd.",
         "ticker": "PPT-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -1465,11 +1293,7 @@
         "name": "Wisr Ltd.",
         "ticker": "WZR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -1479,16 +1303,6 @@
         "profitability_ebitda_mm_aud": 50.4310178700661,
         "profitability_net_income_mm_aud": -7.25991099999999,
         "profitability_total_assets_mm_aud": 871.405091477102
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250729/pdf/06m7h3wzvl0y5z.pdf",
-        "title": "06m7h3wzvl0y5z.pdf",
-        "filename": "06m7h3wzvl0y5z.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/WZR-AU_8ebbf9bec5_06m7h3wzvl0y5z.pdf"
       }
     },
     {
@@ -1496,11 +1310,7 @@
         "name": "National Australia Bank Ltd.",
         "ticker": "NAB-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.95,
@@ -1535,11 +1345,7 @@
         "name": "Ansell Ltd.",
         "ticker": "ANN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -1564,11 +1370,7 @@
         "name": "Atlas Pearls Ltd.",
         "ticker": "ATP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Agriculture, Forestry and Fishing",
         "anzsic_confidence": 0.9,
@@ -1604,11 +1406,7 @@
         "name": "Origin Energy Ltd.",
         "ticker": "ORG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Electricity, Gas, Water and Waste Services",
         "anzsic_confidence": 0.9,
@@ -1643,11 +1441,7 @@
         "name": "Tabcorp Holdings Ltd.",
         "ticker": "TAH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Other Services",
         "anzsic_confidence": 0.9,
@@ -1683,11 +1477,7 @@
         "name": "CSL Ltd.",
         "ticker": "CSL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.9,
@@ -1723,11 +1513,7 @@
         "name": "Codan Ltd.",
         "ticker": "CDA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -1763,11 +1549,7 @@
         "name": "Omni Bridgeway Ltd.",
         "ticker": "OBL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -1777,16 +1559,6 @@
         "profitability_ebitda_mm_aud": -25.7779974600702,
         "profitability_net_income_mm_aud": 349.797,
         "profitability_total_assets_mm_aud": 1191.95502937754
-      },
-      "search_record": {
-        "url": "https://omnibridgeway.com/docs/default-source/investors/investor-presentations/omni-bridgeway-annual-report-2024.pdf",
-        "title": "omni-bridgeway-annual-report-2024.pdf",
-        "filename": "omni-bridgeway-annual-report-2024.pdf",
-        "year": "2024",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/OBL-AU_37bf7e923f_omni-bridgeway-annual-report-2024.pdf"
       }
     },
     {
@@ -1794,11 +1566,7 @@
         "name": "Mosaic Brands Ltd.",
         "ticker": "MOZ-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -1833,11 +1601,7 @@
         "name": "Northern Star Resources Ltd.",
         "ticker": "NST-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -1872,11 +1636,7 @@
         "name": "Enero Group Ltd.",
         "ticker": "EGG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.9,
@@ -1886,16 +1646,6 @@
         "profitability_ebitda_mm_aud": 14.1940088574437,
         "profitability_net_income_mm_aud": -7.49199999999999,
         "profitability_total_assets_mm_aud": 225.785005564813
-      },
-      "search_record": {
-        "url": "https://enero.com/wp-content/uploads/2025/02/2855237.pdf",
-        "title": "2855237.pdf",
-        "filename": "2855237.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/EGG-AU_f7b4b65892_2855237.pdf"
       }
     },
     {
@@ -1903,11 +1653,7 @@
         "name": "Accent Group Ltd.",
         "ticker": "AX1-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -1942,11 +1688,7 @@
         "name": "Ingenia Communities Group",
         "ticker": "INA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -1981,11 +1723,7 @@
         "name": "McMillan Shakespeare Ltd.",
         "ticker": "MMS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -2020,11 +1758,7 @@
         "name": "Peet Ltd.",
         "ticker": "PPC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -2058,11 +1792,7 @@
         "name": "Perseus Mining Ltd.",
         "ticker": "PRU-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -2097,11 +1827,7 @@
         "name": "Emeco Holdings Ltd.",
         "ticker": "EHL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -2136,11 +1862,7 @@
         "name": "SEEK Ltd.",
         "ticker": "SEK-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -2175,11 +1897,7 @@
         "name": "Cleanaway Waste Management Ltd.",
         "ticker": "CWY-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Electricity, Gas, Water and Waste Services",
         "anzsic_confidence": 0.9,
@@ -2214,11 +1932,7 @@
         "name": "Capitol Health Ltd.",
         "ticker": "CAJ-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.9,
@@ -2252,11 +1966,7 @@
         "name": "Gold Road Resources Ltd.",
         "ticker": "GOR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -2291,11 +2001,7 @@
         "name": "Solvar Ltd.",
         "ticker": "SVR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.8,
@@ -2330,11 +2036,7 @@
         "name": "Humm Group Ltd.",
         "ticker": "HUM-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -2344,16 +2046,6 @@
         "profitability_ebitda_mm_aud": 376.299997971212,
         "profitability_net_income_mm_aud": 39.5999999999999,
         "profitability_total_assets_mm_aud": 5338.30013157051
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250218/pdf/06fmmb6nb1pvrv.pdf",
-        "title": "Humm Group Limited Interim Report 2025",
-        "filename": "06fmmb6nb1pvrv.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/HUM-AU_ed256bc12a_06fmmb6nb1pvrv.pdf"
       }
     },
     {
@@ -2361,11 +2053,7 @@
         "name": "Engenco Ltd.",
         "ticker": "EGN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -2399,11 +2087,7 @@
         "name": "BCI Minerals Ltd.",
         "ticker": "BCI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -2438,11 +2122,7 @@
         "name": "Genesis Minerals Ltd.",
         "ticker": "GMD-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -2477,11 +2157,7 @@
         "name": "SRG Global Ltd.",
         "ticker": "SRG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -2515,11 +2191,7 @@
         "name": "Syrah Resources Ltd.",
         "ticker": "SYR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -2554,11 +2226,7 @@
         "name": "NIB Holdings Ltd.",
         "ticker": "NHF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -2592,11 +2260,7 @@
         "name": "G8 Education Ltd.",
         "ticker": "GEM-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Education and Training",
         "anzsic_confidence": 0.9,
@@ -2631,11 +2295,7 @@
         "name": "Collins Foods Ltd.",
         "ticker": "CKF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Accommodation and Food Services",
         "anzsic_confidence": 0.9,
@@ -2670,11 +2330,7 @@
         "name": "Westpac Banking Corp.",
         "ticker": "WBC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.95,
@@ -2708,11 +2364,7 @@
         "name": "Commonwealth Bank of Australia",
         "ticker": "CBA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.95,
@@ -2746,11 +2398,7 @@
         "name": "AMP Ltd.",
         "ticker": "AMP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.95,
@@ -2785,11 +2433,7 @@
         "name": "Downer EDI Ltd.",
         "ticker": "DOW-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -2824,11 +2468,7 @@
         "name": "Suncorp Group Ltd.",
         "ticker": "SUN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.95,
@@ -2862,11 +2502,7 @@
         "name": "Insurance Australia Group Ltd.",
         "ticker": "IAG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.95,
@@ -2900,11 +2536,7 @@
         "name": "QBE Insurance Group Ltd.",
         "ticker": "QBE-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.95,
@@ -2938,11 +2570,7 @@
         "name": "Stockland",
         "ticker": "SGP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -2977,11 +2605,7 @@
         "name": "Harvey Norman Holdings Ltd.",
         "ticker": "HVN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -3016,11 +2640,7 @@
         "name": "Aristocrat Leisure Ltd.",
         "ticker": "ALL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Arts and Recreation Services",
         "anzsic_confidence": 0.9,
@@ -3043,11 +2663,7 @@
         "name": "Orica Ltd.",
         "ticker": "ORI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -3071,11 +2687,7 @@
         "name": "Flight Centre Travel Group Ltd.",
         "ticker": "FLT-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Accommodation and Food Services",
         "anzsic_confidence": 0.9,
@@ -3110,11 +2722,7 @@
         "name": "Transurban Group Ltd.",
         "ticker": "TCL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -3149,11 +2757,7 @@
         "name": "ARN Media Ltd.",
         "ticker": "A1N-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -3176,11 +2780,7 @@
         "name": "Washington H. Soul Pattinson & Co. Ltd.",
         "ticker": "SOL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -3214,11 +2814,7 @@
         "name": "ASX Ltd.",
         "ticker": "ASX-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -3253,11 +2849,7 @@
         "name": "Sonic Healthcare Ltd.",
         "ticker": "SHL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.95,
@@ -3291,11 +2883,7 @@
         "name": "Dyno Nobel Ltd.",
         "ticker": "DNL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -3330,11 +2918,7 @@
         "name": "Computershare Ltd.",
         "ticker": "CPU-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -3369,11 +2953,7 @@
         "name": "Reece Ltd.",
         "ticker": "REH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Wholesale Trade",
         "anzsic_confidence": 0.9,
@@ -3408,11 +2988,7 @@
         "name": "GWA Group Ltd.",
         "ticker": "GWA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -3447,11 +3023,7 @@
         "name": "Nufarm Ltd.",
         "ticker": "NUF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Agriculture, Forestry and Fishing",
         "anzsic_confidence": 0.9,
@@ -3486,11 +3058,7 @@
         "name": "Sims Ltd.",
         "ticker": "SGM-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -3525,11 +3093,7 @@
         "name": "APA Group",
         "ticker": "APA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Electricity, Gas, Water and Waste Services",
         "anzsic_confidence": 0.9,
@@ -3564,11 +3128,7 @@
         "name": "GrainCorp Ltd.",
         "ticker": "GNC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Agriculture, Forestry and Fishing",
         "anzsic_confidence": 0.95,
@@ -3603,11 +3163,7 @@
         "name": "Bank of Queensland Ltd.",
         "ticker": "BOQ-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.95,
@@ -3640,11 +3196,7 @@
         "name": "Ampol Ltd.",
         "ticker": "ALD-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Wholesale Trade",
         "anzsic_confidence": 0.9,
@@ -3679,11 +3231,7 @@
         "name": "Beach Energy Ltd.",
         "ticker": "BPT-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -3718,11 +3266,7 @@
         "name": "Healius Ltd.",
         "ticker": "HLS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.9,
@@ -3757,11 +3301,7 @@
         "name": "Challenger Ltd.",
         "ticker": "CGF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -3795,11 +3335,7 @@
         "name": "Ridley Corp. Ltd.",
         "ticker": "RIC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -3834,11 +3370,7 @@
         "name": "EVT Ltd.",
         "ticker": "EVT-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -3872,11 +3404,7 @@
         "name": "Energy Resources of Australia Ltd.",
         "ticker": "ERA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -3910,11 +3438,7 @@
         "name": "Austal Ltd.",
         "ticker": "ASB-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -3937,11 +3461,7 @@
         "name": "ALS Ltd.",
         "ticker": "ALQ-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.9,
@@ -3976,11 +3496,7 @@
         "name": "Capral Ltd.",
         "ticker": "CAA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -4015,11 +3531,7 @@
         "name": "Servcorp Ltd.",
         "ticker": "SRV-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.9,
@@ -4053,11 +3565,7 @@
         "name": "Amotiv Ltd.",
         "ticker": "AOV-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.8,
@@ -4092,11 +3600,7 @@
         "name": "Premier Investments Ltd.",
         "ticker": "PMV-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -4130,11 +3634,7 @@
         "name": "ARB Corp. Ltd.",
         "ticker": "ARB-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -4168,11 +3668,7 @@
         "name": "Resolute Mining Ltd.",
         "ticker": "RSG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -4207,11 +3703,7 @@
         "name": "Select Harvests Ltd.",
         "ticker": "SHV-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Agriculture, Forestry and Fishing",
         "anzsic_confidence": 0.9,
@@ -4246,11 +3738,7 @@
         "name": "Fleetwood Ltd.",
         "ticker": "FWD-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -4284,11 +3772,7 @@
         "name": "Eagers Automotive Ltd.",
         "ticker": "APE-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -4323,11 +3807,7 @@
         "name": "Macmahon Holdings Ltd.",
         "ticker": "MAH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -4362,11 +3842,7 @@
         "name": "K&S Corp. Ltd.",
         "ticker": "KSC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -4400,11 +3876,7 @@
         "name": "EBOS Group Ltd.",
         "ticker": "EBO-NZ"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Wholesale Trade",
         "anzsic_confidence": 0.9,
@@ -4439,11 +3911,7 @@
         "name": "Energy World Corp. Ltd.",
         "ticker": "EWC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Electricity, Gas, Water and Waste Services",
         "anzsic_confidence": 0.9,
@@ -4453,16 +3921,6 @@
         "profitability_ebitda_mm_aud": -4.17676121779818,
         "profitability_net_income_mm_aud": 544.195700585878,
         "profitability_total_assets_mm_aud": 1187.08784493609
-      },
-      "search_record": {
-        "url": "https://company-announcements.afr.com/asx/ewc/72b9d3a8-f57b-11ef-9ad2-9673c0dd99c7.pdf",
-        "title": "72b9d3a8-f57b-11ef-9ad2-9673c0dd99c7.pdf",
-        "filename": "72b9d3a8-f57b-11ef-9ad2-9673c0dd99c7.pdf",
-        "year": "2024",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/EWC-AU_61d61b3ceb_72b9d3a8-f57b-11ef-9ad2-9673c0dd99c7.pdf"
       }
     },
     {
@@ -4470,11 +3928,7 @@
         "name": "Hansen Technologies Ltd.",
         "ticker": "HSN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -4509,11 +3963,7 @@
         "name": "Imdex Ltd.",
         "ticker": "IMD-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -4548,11 +3998,7 @@
         "name": "Lynas Rare Earths Ltd.",
         "ticker": "LYC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -4587,11 +4033,7 @@
         "name": "Cromwell Property Group",
         "ticker": "CMW-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -4626,11 +4068,7 @@
         "name": "Noumi Ltd.",
         "ticker": "NOU-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -4665,11 +4103,7 @@
         "name": "Grange Resources Ltd.",
         "ticker": "GRR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -4703,11 +4137,7 @@
         "name": "Westgold Resources Ltd.",
         "ticker": "WGX-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -4742,11 +4172,7 @@
         "name": "Paladin Energy Ltd.",
         "ticker": "PDN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -4781,11 +4207,7 @@
         "name": "Regis Resources Ltd.",
         "ticker": "RRL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -4820,11 +4242,7 @@
         "name": "Axiom Properties Ltd.",
         "ticker": "AXI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -4834,16 +4252,6 @@
         "profitability_ebitda_mm_aud": -2.57899950329583,
         "profitability_net_income_mm_aud": -2.247,
         "profitability_total_assets_mm_aud": 15.3230003776586
-      },
-      "search_record": {
-        "url": "https://www.axiompl.com.au/media/uploads/files/Annual%20Report/Annual-Report-2024.pdf",
-        "title": "Annual-Report-2024.pdf",
-        "filename": "Annual-Report-2024.pdf",
-        "year": "2024",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/AXI-AU_6ad13f4b10_Annual-Report-2024.pdf"
       }
     },
     {
@@ -4851,11 +4259,7 @@
         "name": "Ainsworth Game Technology Ltd.",
         "ticker": "AGI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -4865,16 +4269,6 @@
         "profitability_ebitda_mm_aud": 51.2120048117797,
         "profitability_net_income_mm_aud": 30.3189999999999,
         "profitability_total_assets_mm_aud": 460.547985714603
-      },
-      "search_record": {
-        "url": "https://www.agtslots.com/assets/investor/financial%20reports/2025/ASX-Release---Annual-Report--Year-Ended-31.12.24-28.04.25.pdf",
-        "title": "ASX-Release---Annual-Report--Year-Ended-31.12.24-28.04.25.pdf",
-        "filename": "ASX-Release---Annual-Report--Year-Ended-31.12.24-28.04.25.pdf",
-        "year": "2024",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/AGI-AU_833d15afa6_ASX-Release---Annual-Report--Year-Ended-31.12.24-28.04.25.pdf"
       }
     },
     {
@@ -4882,11 +4276,7 @@
         "name": "SKS Technologies Group Ltd.",
         "ticker": "SKS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -4920,11 +4310,7 @@
         "name": "Australian Agricultural Co. Ltd.",
         "ticker": "AAC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Agriculture, Forestry and Fishing",
         "anzsic_confidence": 0.95,
@@ -4959,11 +4345,7 @@
         "name": "Lindsay Australia Ltd.",
         "ticker": "LAU-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -4973,16 +4355,6 @@
         "profitability_ebitda_mm_aud": 91.7359900494984,
         "profitability_net_income_mm_aud": 17.3899999999999,
         "profitability_total_assets_mm_aud": 635.139015653965
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250825/pdf/06n81lymrvcmkx.pdf",
-        "title": "06n81lymrvcmkx.pdf",
-        "filename": "06n81lymrvcmkx.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/LAU-AU_f745526fd3_06n81lymrvcmkx.pdf"
       }
     },
     {
@@ -4990,11 +4362,7 @@
         "name": "Insignia Financial Ltd.",
         "ticker": "IFL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -5029,11 +4397,7 @@
         "name": "BWP Trust",
         "ticker": "BWP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -5068,11 +4432,7 @@
         "name": "New Hope Corp. Ltd.",
         "ticker": "NHC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -5107,11 +4467,7 @@
         "name": "Carindale Property Trust",
         "ticker": "CDP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -5146,11 +4502,7 @@
         "name": "Iress Ltd.",
         "ticker": "IRE-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -5185,11 +4537,7 @@
         "name": "Breville Group Ltd.",
         "ticker": "BRG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -5224,11 +4572,7 @@
         "name": "Gale Pacific Ltd.",
         "ticker": "GAP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -5263,11 +4607,7 @@
         "name": "Technology One Ltd.",
         "ticker": "TNE-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -5302,11 +4642,7 @@
         "name": "PRL Global Ltd.",
         "ticker": "PRG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.8,
@@ -5340,11 +4676,7 @@
         "name": "JB Hi-Fi Ltd.",
         "ticker": "JBH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.95,
@@ -5379,11 +4711,7 @@
         "name": "Vault Minerals Ltd.",
         "ticker": "VAU-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -5393,16 +4721,6 @@
         "profitability_ebitda_mm_aud": 616.6319965102,
         "profitability_net_income_mm_aud": 236.981999999999,
         "profitability_total_assets_mm_aud": 2443.51906022424
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lds08v7hs31z.pdf",
-        "title": "06lds08v7hs31z.pdf",
-        "filename": "06lds08v7hs31z.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/VAU-AU_ec9ee9ce51_06lds08v7hs31z.pdf"
       }
     },
     {
@@ -5410,11 +4728,7 @@
         "name": "Charter Hall Social Infrastructure REIT",
         "ticker": "CQE-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -5449,11 +4763,7 @@
         "name": "Super Retail Group Ltd.",
         "ticker": "SUL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -5488,11 +4798,7 @@
         "name": "Data#3 Ltd.",
         "ticker": "DTL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -5527,11 +4833,7 @@
         "name": "Virgin Australia Holdings Ltd.",
         "ticker": "VGN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -5566,11 +4868,7 @@
         "name": "Abacus Group",
         "ticker": "ABG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.8,
@@ -5605,11 +4903,7 @@
         "name": "Boom Logistics Ltd.",
         "ticker": "BOL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -5643,11 +4937,7 @@
         "name": "Lake Resources NL",
         "ticker": "LKE-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -5681,11 +4971,7 @@
         "name": "Amplitude Energy Ltd.",
         "ticker": "AEL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Electricity, Gas, Water and Waste Services",
         "anzsic_confidence": 0.9,
@@ -5719,11 +5005,7 @@
         "name": "Ramelius Resources Ltd.",
         "ticker": "RMS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -5758,11 +5040,7 @@
         "name": "Helloworld Travel Ltd.",
         "ticker": "HLO-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Accommodation and Food Services",
         "anzsic_confidence": 0.9,
@@ -5772,16 +5050,6 @@
         "profitability_ebitda_mm_aud": 48.5529885294482,
         "profitability_net_income_mm_aud": 33.092,
         "profitability_total_assets_mm_aud": 568.149014002895
-      },
-      "search_record": {
-        "url": "https://www.helloworldlimited.com.au/wp-content/uploads/2025/08/HLO-Annual-Report-to-shareholders.pdf",
-        "title": "HLO-Annual-Report-to-shareholders.pdf",
-        "filename": "HLO-Annual-Report-to-shareholders.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/HLO-AU_8ca6c58f95_HLO-Annual-Report-to-shareholders.pdf"
       }
     },
     {
@@ -5789,11 +5057,7 @@
         "name": "Credit Corp. Group Ltd.",
         "ticker": "CCP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -5828,11 +5092,7 @@
         "name": "Resimac Group Ltd.",
         "ticker": "RMC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -5866,11 +5126,7 @@
         "name": "WEB Travel Group Ltd.",
         "ticker": "WEB-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Accommodation and Food Services",
         "anzsic_confidence": 0.9,
@@ -5905,11 +5161,7 @@
         "name": "REA Group Ltd.",
         "ticker": "REA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -5943,11 +5195,7 @@
         "name": "Domino'S Pizza Enterprises Ltd.",
         "ticker": "DMP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Accommodation and Food Services",
         "anzsic_confidence": 0.9,
@@ -5982,11 +5230,7 @@
         "name": "GPT Group",
         "ticker": "GPT-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -6021,11 +5265,7 @@
         "name": "IGO Ltd.",
         "ticker": "IGO-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -6060,11 +5300,7 @@
         "name": "Goodman Group",
         "ticker": "GMG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -6099,11 +5335,7 @@
         "name": "Metcash Ltd.",
         "ticker": "MTS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Wholesale Trade",
         "anzsic_confidence": 0.9,
@@ -6138,11 +5370,7 @@
         "name": "FSA Group Ltd.",
         "ticker": "FSA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.9,
@@ -6177,11 +5405,7 @@
         "name": "MMG Ltd.",
         "ticker": "1208-HK"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -6216,11 +5440,7 @@
         "name": "Mesoblast Ltd.",
         "ticker": "MSB-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.9,
@@ -6230,16 +5450,6 @@
         "profitability_ebitda_mm_aud": -86.6666372024312,
         "profitability_net_income_mm_aud": -157.716356491759,
         "profitability_total_assets_mm_aud": 1197.3495374146
-      },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/MSB-AU_ASX_MSB_2024.pdf",
-        "title": "MSB-AU_ASX_MSB_2024.pdf",
-        "filename": "MSB-AU_ASX_MSB_2024.pdf",
-        "year": "2024",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "/home/user/code/scope-spider/downloads/MSB-AU_ASX_MSB_2024.pdf"
       }
     },
     {
@@ -6247,11 +5457,7 @@
         "name": "Regional Express Holdings Ltd.",
         "ticker": "REX-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -6261,16 +5467,6 @@
         "profitability_ebitda_mm_aud": 29.2589947759033,
         "profitability_net_income_mm_aud": 14.362,
         "profitability_total_assets_mm_aud": 681.688013449114
-      },
-      "search_record": {
-        "url": "https://www.rex.com.au/AboutRex/InvestorRelations/_lib/pdf/HY/HY_FY2324.pdf",
-        "title": "HY_FY2324.pdf",
-        "filename": "HY_FY2324.pdf",
-        "year": "2023",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/REX-AU_cf6f0f62ee_HY_FY2324.pdf"
       }
     },
     {
@@ -6278,11 +5474,7 @@
         "name": "CAR Group Ltd.",
         "ticker": "CAR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.85,
@@ -6317,11 +5509,7 @@
         "name": "AUB Group Ltd.",
         "ticker": "AUB-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -6356,11 +5544,7 @@
         "name": "Ora Banda Mining Ltd.",
         "ticker": "OBM-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -6394,11 +5578,7 @@
         "name": "Sigma Healthcare Ltd.",
         "ticker": "SIG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Wholesale Trade",
         "anzsic_confidence": 0.9,
@@ -6421,11 +5601,7 @@
         "name": "Bravura Solutions Ltd.",
         "ticker": "BVS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.9,
@@ -6459,11 +5635,7 @@
         "name": "Navigator Global Investments Ltd.",
         "ticker": "NGI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -6473,16 +5645,6 @@
         "profitability_ebitda_mm_aud": 229.014674136847,
         "profitability_net_income_mm_aud": 184.305572081703,
         "profitability_total_assets_mm_aud": 1432.6589198846
-      },
-      "search_record": {
-        "url": "https://1ngi.live.irmau.com/site/pdf/f26fd8d8-c711-4bbf-95bd-d17490c48494/2025-Appendix-4E-and-Annual-Report.pdf",
-        "title": "2025-Appendix-4E-and-Annual-Report.pdf",
-        "filename": "2025-Appendix-4E-and-Annual-Report.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/NGI-AU_1eda3b2935_2025-Appendix-4E-and-Annual-Report.pdf"
       }
     },
     {
@@ -6490,11 +5652,7 @@
         "name": "Emerald Resources NL",
         "ticker": "EMR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -6504,16 +5662,6 @@
         "profitability_ebitda_mm_aud": 204.331003556732,
         "profitability_net_income_mm_aud": 87.6089999999999,
         "profitability_total_assets_mm_aud": 780.718019241981
-      },
-      "search_record": {
-        "url": "https://www.emeraldresources.com.au/wp-content/uploads/2025/08/Annual-Report-2025-Final.pdf",
-        "title": "Annual-Report-2025-Final.pdf",
-        "filename": "Annual-Report-2025-Final.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/EMR-AU_5f37537601_Annual-Report-2025-Final.pdf"
       }
     },
     {
@@ -6521,11 +5669,7 @@
         "name": "United Overseas Australia Ltd.",
         "ticker": "UOS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -6535,16 +5679,6 @@
         "profitability_ebitda_mm_aud": 138.311007649864,
         "profitability_net_income_mm_aud": 91.568,
         "profitability_total_assets_mm_aud": 3419.53189393208
-      },
-      "search_record": {
-        "url": "https://uoa.com.my/wp-content/uploads/2025/04/UOA-LTD-ANNUAL-REPORT-2024.pdf",
-        "title": "UOA-LTD-ANNUAL-REPORT-2024.pdf",
-        "filename": "UOA-LTD-ANNUAL-REPORT-2024.pdf",
-        "year": "2024",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/UOS-AU_c35822bdb1_UOA-LTD-ANNUAL-REPORT-2024.pdf"
       }
     },
     {
@@ -6552,11 +5686,7 @@
         "name": "IDP Education Ltd.",
         "ticker": "IEL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Education and Training",
         "anzsic_confidence": 0.9,
@@ -6591,11 +5721,7 @@
         "name": "Brambles Ltd.",
         "ticker": "BXB-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -6630,11 +5756,7 @@
         "name": "AMA Group Ltd.",
         "ticker": "AMA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -6644,16 +5766,6 @@
         "profitability_ebitda_mm_aud": 107.844993742404,
         "profitability_net_income_mm_aud": -7.46899999999999,
         "profitability_total_assets_mm_aud": 993.272024480697
-      },
-      "search_record": {
-        "url": "https://www.amagroupltd.com/wp-content/uploads/2025/08/FY25-Annual-Report.pdf",
-        "title": "FY25-Annual-Report.pdf",
-        "filename": "FY25-Annual-Report.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/AMA-AU_c72b2b3677_FY25-Annual-Report.pdf"
       }
     },
     {
@@ -6661,11 +5773,7 @@
         "name": "AGL Energy Ltd.",
         "ticker": "AGL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Electricity, Gas, Water and Waste Services",
         "anzsic_confidence": 0.9,
@@ -6700,11 +5808,7 @@
         "name": "Generation Development Group Ltd.",
         "ticker": "GDG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -6714,16 +5818,6 @@
         "profitability_ebitda_mm_aud": 380.224980008169,
         "profitability_net_income_mm_aud": 38.247,
         "profitability_total_assets_mm_aud": 5514.56613591486
-      },
-      "search_record": {
-        "url": "https://gendevelopmentgroup.com.au/wp-content/uploads/2025/02/GDG_Financial-Report_1HY25_-FINAL.pdf",
-        "title": "GDG_Financial-Report_1HY25_-FINAL.pdf",
-        "filename": "GDG_Financial-Report_1HY25_-FINAL.pdf",
-        "year": "2024",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/GDG-AU_1679da4b6f_GDG_Financial-Report_1HY25_-FINAL.pdf"
       }
     },
     {
@@ -6731,11 +5825,7 @@
         "name": "Coles Group Ltd.",
         "ticker": "COL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.95,
@@ -6770,11 +5860,7 @@
         "name": "City Chic Collective Ltd.",
         "ticker": "CCX-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -6808,11 +5894,7 @@
         "name": "Cuscal Ltd.",
         "ticker": "CCL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -6847,11 +5929,7 @@
         "name": "Service Stream Ltd.",
         "ticker": "SSM-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Administrative and Support Services",
         "anzsic_confidence": 0.9,
@@ -6861,16 +5939,6 @@
         "profitability_ebitda_mm_aud": 132.263991997069,
         "profitability_net_income_mm_aud": 59.1839999999999,
         "profitability_total_assets_mm_aud": 1045.94602577892
-      },
-      "search_record": {
-        "url": "https://servicestream.com.au/files/Service-Stream-Annual-Report-2025.pdf",
-        "title": "Service-Stream-Annual-Report-2025.pdf",
-        "filename": "Service-Stream-Annual-Report-2025.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/SSM-AU_b2466dea9e_Service-Stream-Annual-Report-2025.pdf"
       }
     },
     {
@@ -6878,11 +5946,7 @@
         "name": "Nine Entertainment Co. Holdings Ltd.",
         "ticker": "NEC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -6917,11 +5981,7 @@
         "name": "Medibank Private Ltd.",
         "ticker": "MPL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.95,
@@ -6955,11 +6015,7 @@
         "name": "Qube Holdings Ltd.",
         "ticker": "QUB-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -6994,11 +6050,7 @@
         "name": "MFF Capital Investments Ltd.",
         "ticker": "MFF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -7008,16 +6060,6 @@
         "profitability_ebitda_mm_aud": 612.175013988962,
         "profitability_net_income_mm_aud": 431.971,
         "profitability_total_assets_mm_aud": 2952.71907277425
-      },
-      "search_record": {
-        "url": "https://www.mffcapital.com.au/wp-content/uploads/2025/08/MFF-Annual-Report-2025.pdf",
-        "title": "MFF-Annual-Report-2025.pdf",
-        "filename": "MFF-Annual-Report-2025.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/MFF-AU_4f4c63509c_MFF-Annual-Report-2025.pdf"
       }
     },
     {
@@ -7025,11 +6067,7 @@
         "name": "Pinnacle Investment Management Group Ltd.",
         "ticker": "PNI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -7064,11 +6102,7 @@
         "name": "Lifestyle Communities Ltd.",
         "ticker": "LIC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -7103,11 +6137,7 @@
         "name": "NRW Holdings Ltd.",
         "ticker": "NWH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -7142,11 +6172,7 @@
         "name": "BNK Banking Corp. Ltd.",
         "ticker": "BBC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.95,
@@ -7180,11 +6206,7 @@
         "name": "Magellan Financial Group Ltd.",
         "ticker": "MFG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -7218,11 +6240,7 @@
         "name": "Southern Cross Electrical Engineering Ltd.",
         "ticker": "SXE-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -7257,11 +6275,7 @@
         "name": "Bell Financial Group Ltd.",
         "ticker": "BFG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -7271,16 +6285,6 @@
         "profitability_ebitda_mm_aud": 78.6860132281027,
         "profitability_net_income_mm_aud": 30.741,
         "profitability_total_assets_mm_aud": 1053.96496730784
-      },
-      "search_record": {
-        "url": "https://www.bellfg.com.au/wp-content/uploads/2025/02/BFG-2024-Annual-Report-and-Appendix-4E.pdf",
-        "title": "BFG-2024-Annual-Report-and-Appendix-4E.pdf",
-        "filename": "BFG-2024-Annual-Report-and-Appendix-4E.pdf",
-        "year": "2024",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/BFG-AU_BFG-2024-Annual-Report-and-Appendix-4E.pdf"
       }
     },
     {
@@ -7288,11 +6292,7 @@
         "name": "Bellevue Gold Ltd.",
         "ticker": "BGL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -7327,11 +6327,7 @@
         "name": "HUB24 Ltd.",
         "ticker": "HUB-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -7366,11 +6362,7 @@
         "name": "Bendigo & Adelaide Bank Ltd.",
         "ticker": "BEN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -7404,11 +6396,7 @@
         "name": "Capricorn Metals Ltd.",
         "ticker": "CMM-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -7418,16 +6406,6 @@
         "profitability_ebitda_mm_aud": 299.198993206584,
         "profitability_net_income_mm_aud": 150.277,
         "profitability_total_assets_mm_aud": 1071.49202640854
-      },
-      "search_record": {
-        "url": "https://capmetals.com.au/wp-content/uploads/2025/03/250306-HY-report.pdf",
-        "title": "250306-HY-report.pdf",
-        "filename": "250306-HY-report.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/CMM-AU_e24b7675cb_250306-HY-report.pdf"
       }
     },
     {
@@ -7435,11 +6413,7 @@
         "name": "Paragon Care Ltd.",
         "ticker": "PGC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.9,
@@ -7449,16 +6423,6 @@
         "profitability_ebitda_mm_aud": 96.2640006727771,
         "profitability_net_income_mm_aud": 20.5739999999999,
         "profitability_total_assets_mm_aud": 1234.04703041496
-      },
-      "search_record": {
-        "url": "https://paragoncare.com.au/sites/default/files/2025-08/2936103%20-%20FY25%20Appendix%204E%20and%20Preliminary%20Final%20Report_0.pdf",
-        "title": "2936103%20-%20FY25%20Appendix%204E%20and%20Preliminary%20Final%20Report_0.pdf",
-        "filename": "2936103%20-%20FY25%20Appendix%204E%20and%20Preliminary%20Final%20Report_0.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/PGC-AU_24a7c69a23_2936103_-_FY25_Appendix_4E_and_Preliminary_Final_Report_0.pdf"
       }
     },
     {
@@ -7466,11 +6430,7 @@
         "name": "West African Resources Ltd.",
         "ticker": "WAF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -7505,11 +6465,7 @@
         "name": "Mastermyne Group Ltd.",
         "ticker": "MYE-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -7543,11 +6499,7 @@
         "name": "Elders Ltd.",
         "ticker": "ELD-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Agriculture, Forestry and Fishing",
         "anzsic_confidence": 0.9,
@@ -7582,11 +6534,7 @@
         "name": "Growthpoint Properties Australia",
         "ticker": "GOZ-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -7620,11 +6568,7 @@
         "name": "MyState Ltd.",
         "ticker": "MYS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -7633,16 +6577,6 @@
         "profitability_revenue_mm_aud": 638.651999999999,
         "profitability_net_income_mm_aud": 35.558,
         "profitability_total_assets_mm_aud": 15277.578376539
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20231215/pdf/05ylx9ksxpm4wc.pdf",
-        "title": "MyState Limited Annual Report 2025",
-        "filename": "05ylx9ksxpm4wc.pdf",
-        "year": "2023",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/MYS-AU_6678521cfe_05ylx9ksxpm4wc.pdf"
       }
     },
     {
@@ -7650,11 +6584,7 @@
         "name": "Myer Holdings Ltd.",
         "ticker": "MYR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.95,
@@ -7688,11 +6618,7 @@
         "name": "Stanmore Resources Ltd.",
         "ticker": "SMR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -7727,11 +6653,7 @@
         "name": "Bega Cheese Ltd.",
         "ticker": "BGA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.95,
@@ -7766,11 +6688,7 @@
         "name": "Redox Ltd.",
         "ticker": "RDX-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Wholesale Trade",
         "anzsic_confidence": 0.9,
@@ -7805,11 +6723,7 @@
         "name": "Southern Cross Media Group Ltd.",
         "ticker": "SXL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -7819,16 +6733,6 @@
         "profitability_ebitda_mm_aud": 57.2290094300906,
         "profitability_net_income_mm_aud": 6.40599999999999,
         "profitability_total_assets_mm_aud": 686.06201690904
-      },
-      "search_record": {
-        "url": "https://www.sca.com.au/wp-content/uploads/2024/10/Corporate-Governance-Statement-2025-1.pdf",
-        "title": "Corporate-Governance-Statement-2025-1.pdf",
-        "filename": "Corporate-Governance-Statement-2025-1.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/SXL-AU_3528f3a464_Corporate-Governance-Statement-2025-1.pdf"
       }
     },
     {
@@ -7836,11 +6740,7 @@
         "name": "Ricegrowers Ltd.",
         "ticker": "SGLLV-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Agriculture, Forestry and Fishing",
         "anzsic_confidence": 0.9,
@@ -7875,11 +6775,7 @@
         "name": "Pilbara Minerals Ltd.",
         "ticker": "PLS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -7889,16 +6785,6 @@
         "profitability_ebitda_mm_aud": 77.5100031052448,
         "profitability_net_income_mm_aud": -195.766,
         "profitability_total_assets_mm_aud": 4667.39511503504
-      },
-      "search_record": {
-        "url": "https://www.pilbaraminerals.com.au/wp-content/uploads/2025/04/PLS-POL-SS-001_4.pdf",
-        "title": "PLS-POL-SS-001_4.pdf",
-        "filename": "PLS-POL-SS-001_4.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/PLS-AU_7470749752_PLS-POL-SS-001_4.pdf"
       }
     },
     {
@@ -7906,11 +6792,7 @@
         "name": "Atlas Arteria Ltd.",
         "ticker": "ALX-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -7945,11 +6827,7 @@
         "name": "SGH Ltd.",
         "ticker": "SGH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -7984,11 +6862,7 @@
         "name": "Appen Ltd.",
         "ticker": "APX-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.9,
@@ -8023,11 +6897,7 @@
         "name": "Aurizon Holdings Ltd.",
         "ticker": "AZJ-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -8062,11 +6932,7 @@
         "name": "Aussie Broadband Ltd.",
         "ticker": "ABB-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -8078,22 +6944,21 @@
         "profitability_total_assets_mm_aud": 1082.18302667204
       },
       "search_record": {
-        "url": "https://wcsecure.weblink.com.au/pdf/ABB/02871321.pdf",
-        "title": "02871321.pdf",
-        "filename": "02871321.pdf",
-        "year": "2024",
+        "url": "https://wcsecure.weblink.com.au/pdf/ABB/02982687.pdf",
+        "title": "02982687.pdf",
+        "filename": "02982687.pdf",
         "doc_type": "other"
       },
       "download_record": {
-        "pdf_path": "downloads/ABB-AU_c51d94227d_02871321.pdf"
+        "pdf_path": "downloads/ABB-AU_d5b3347e61_02982687.pdf"
       },
       "extraction_record": {
-        "text_path": "extracted/ABB-AU_c51d94227d_02871321.text.snippet.txt",
-        "text_token_count": 536,
+        "text_path": "extracted/ABB-AU_d5b3347e61_02982687.text.snippet.txt",
+        "text_token_count": 405,
         "snippet_page_count": 1,
-        "table_path": "extracted/ABB-AU_c51d94227d_02871321.tables.snippet.txt",
-        "table_count": 1,
-        "table_token_count": 541
+        "table_path": "extracted/ABB-AU_d5b3347e61_02982687.tables.snippet.txt",
+        "table_count": 2,
+        "table_token_count": 456
       }
     },
     {
@@ -8101,11 +6966,7 @@
         "name": "Clearview Wealth Ltd.",
         "ticker": "CVW-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -8139,11 +7000,7 @@
         "name": "EcoGraf Ltd.",
         "ticker": "EGR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -8177,11 +7034,7 @@
         "name": "Treasury Wine Estates Ltd.",
         "ticker": "TWE-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -8216,11 +7069,7 @@
         "name": "Yancoal Australia Ltd.",
         "ticker": "YAL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -8255,11 +7104,7 @@
         "name": "The Star Entertainment Group Ltd.",
         "ticker": "SGR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Accommodation and Food Services",
         "anzsic_confidence": 0.9,
@@ -8294,11 +7139,7 @@
         "name": "Corporate Travel Management Ltd.",
         "ticker": "CTD-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -8333,11 +7174,7 @@
         "name": "Mayne Pharma Group Ltd.",
         "ticker": "MYX-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -8371,11 +7208,7 @@
         "name": "Adairs Ltd.",
         "ticker": "ADH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -8410,11 +7243,7 @@
         "name": "SiteMinder Ltd.",
         "ticker": "SDR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -8424,16 +7253,6 @@
         "profitability_ebitda_mm_aud": 15.4409998341098,
         "profitability_net_income_mm_aud": -24.5089999999999,
         "profitability_total_assets_mm_aud": 128.683003171588
-      },
-      "search_record": {
-        "url": "https://www.siteminder.com/wp-content/uploads/2025/08/250827_FY25-Annual-Report.pdf",
-        "title": "250827_FY25-Annual-Report.pdf",
-        "filename": "250827_FY25-Annual-Report.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/SDR-AU_8957a2bc50_250827_FY25-Annual-Report.pdf"
       }
     },
     {
@@ -8441,11 +7260,7 @@
         "name": "OFX Group Ltd.",
         "ticker": "OFX-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -8480,11 +7295,7 @@
         "name": "Dicker Data Ltd.",
         "ticker": "DDR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Wholesale Trade",
         "anzsic_confidence": 0.9,
@@ -8518,11 +7329,7 @@
         "name": "Kelsian Group Ltd.",
         "ticker": "KLS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -8557,11 +7364,7 @@
         "name": "Australian Finance Group Ltd.",
         "ticker": "AFG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -8596,11 +7399,7 @@
         "name": "Aeris Resources Ltd.",
         "ticker": "AIS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -8635,11 +7434,7 @@
         "name": "GR Engineering Services Ltd.",
         "ticker": "GNG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.9,
@@ -8649,16 +7444,6 @@
         "profitability_ebitda_mm_aud": 55.4422512005943,
         "profitability_net_income_mm_aud": 34.2086919999999,
         "profitability_total_assets_mm_aud": 196.044861831823
-      },
-      "search_record": {
-        "url": "https://www.gres.com.au/theme/grescomau/assets/public/Image/Annual_Reports/GRES_Consolidated_Annual_Report_June_2024.pdf",
-        "title": "GR Engineering Services Limited Annual Report 2024",
-        "filename": "GRES_Consolidated_Annual_Report_June_2024.pdf",
-        "year": "2024",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/GNG-AU_6dfaf466ab_GRES_Consolidated_Annual_Report_June_2024.pdf"
       }
     },
     {
@@ -8666,11 +7451,7 @@
         "name": "Bowen Coking Coal Ltd.",
         "ticker": "BCB-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -8680,16 +7461,6 @@
         "profitability_ebitda_mm_aud": -34.8026415988583,
         "profitability_net_income_mm_aud": -95.456841,
         "profitability_total_assets_mm_aud": 335.524710462147
-      },
-      "search_record": {
-        "url": "https://www.bowencokingcoal.com.au/wp-content/uploads/2025/01/SP_BCB-Jan25.pdf",
-        "title": "SP_BCB-Jan25.pdf",
-        "filename": "SP_BCB-Jan25.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/BCB-AU_82f1a1b7b4_SP_BCB-Jan25.pdf"
       }
     },
     {
@@ -8697,11 +7468,7 @@
         "name": "Seven West Media Ltd.",
         "ticker": "SWM-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -8736,11 +7503,7 @@
         "name": "EML Payments Ltd.",
         "ticker": "EML-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -8750,16 +7513,6 @@
         "profitability_ebitda_mm_aud": 16.9280040321047,
         "profitability_net_income_mm_aud": -52.9499999999999,
         "profitability_total_assets_mm_aud": 2682.367066111
-      },
-      "search_record": {
-        "url": "https://emlpayments-stagingcms.bla.bio/wp-content/uploads/2025/08/FY25-Annual-Report.pdf",
-        "title": "FY25-Annual-Report.pdf",
-        "filename": "FY25-Annual-Report.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/EML-AU_fe1b3ed23c_FY25-Annual-Report.pdf"
       }
     },
     {
@@ -8767,11 +7520,7 @@
         "name": "Evolution Mining Ltd.",
         "ticker": "EVN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -8806,11 +7555,7 @@
         "name": "US Masters Residential Property Fund",
         "ticker": "URF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -8820,16 +7565,6 @@
         "profitability_ebitda_mm_aud": 2.43499439061201,
         "profitability_net_income_mm_aud": -44.556,
         "profitability_total_assets_mm_aud": 811.605974825397
-      },
-      "search_record": {
-        "url": "https://www.usmastersresidential.com.au/wp-content/uploads/2025/03/URF_ANNUAL-REPORT_2024-WEBSITE-compressed.pdf",
-        "title": "URF_ANNUAL-REPORT_2024-WEBSITE-compressed.pdf",
-        "filename": "URF_ANNUAL-REPORT_2024-WEBSITE-compressed.pdf",
-        "year": "2024",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/URF-AU_511af916fe_URF_ANNUAL-REPORT_2024-WEBSITE-compressed.pdf"
       }
     },
     {
@@ -8837,11 +7572,7 @@
         "name": "Alliance Aviation Services Ltd.",
         "ticker": "AQZ-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -8876,11 +7607,7 @@
         "name": "Articore Group Ltd.",
         "ticker": "ATG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.85,
@@ -8890,16 +7617,6 @@
         "profitability_ebitda_mm_aud": 4.18800218699063,
         "profitability_net_income_mm_aud": -11.295,
         "profitability_total_assets_mm_aud": 109.414002696674
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20251001/pdf/06pyxkjw7g00rd.pdf",
-        "title": "06pyxkjw7g00rd.pdf",
-        "filename": "06pyxkjw7g00rd.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/ATG-AU_86aa7cb15c_06pyxkjw7g00rd.pdf"
       }
     },
     {
@@ -8907,11 +7624,7 @@
         "name": "Tyro Payments Ltd.",
         "ticker": "TYR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -8946,11 +7659,7 @@
         "name": "Netwealth Group Ltd.",
         "ticker": "NWL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -8985,11 +7694,7 @@
         "name": "Nickel Industries Ltd.",
         "ticker": "NIC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -9024,11 +7729,7 @@
         "name": "Region Group",
         "ticker": "RGN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.8,
@@ -9063,11 +7764,7 @@
         "name": "Burgundy Diamond Mines Ltd.",
         "ticker": "BDM-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -9101,11 +7798,7 @@
         "name": "Centuria Industrial REIT",
         "ticker": "CIP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -9140,11 +7833,7 @@
         "name": "Arena REIT",
         "ticker": "ARF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -9178,11 +7867,7 @@
         "name": "Steadfast Group Ltd. (Australia)",
         "ticker": "SDF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -9217,11 +7902,7 @@
         "name": "Bapcor Ltd.",
         "ticker": "BAP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Wholesale Trade",
         "anzsic_confidence": 0.9,
@@ -9256,11 +7937,7 @@
         "name": "Wisetech Global Ltd.",
         "ticker": "WTC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -9295,11 +7972,7 @@
         "name": "Cobram Estate Olives Ltd.",
         "ticker": "CBO-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -9334,11 +8007,7 @@
         "name": "Motorcycle Holdings Ltd.",
         "ticker": "MTO-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -9372,11 +8041,7 @@
         "name": "Dexus Industria REIT",
         "ticker": "DXI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -9411,11 +8076,7 @@
         "name": "Liberty Financial Group Ltd. (Australia)",
         "ticker": "LFG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -9449,11 +8110,7 @@
         "name": "Orora Ltd.",
         "ticker": "ORA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -9488,11 +8145,7 @@
         "name": "Hotel Property Investments Ltd.",
         "ticker": "HPI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Accommodation and Food Services",
         "anzsic_confidence": 0.9,
@@ -9502,16 +8155,6 @@
         "profitability_ebitda_mm_aud": 64.0140003609734,
         "profitability_net_income_mm_aud": 35.995,
         "profitability_total_assets_mm_aud": 1288.80899025166
-      },
-      "search_record": {
-        "url": "https://www.hpitrust.com.au/wp-content/uploads/2024/09/HPI-2024-Sustainability-Update.pdf",
-        "title": "Sustainability Update 2024",
-        "filename": "HPI-2024-Sustainability-Update.pdf",
-        "year": "2023",
-        "doc_type": "sustainability"
-      },
-      "download_record": {
-        "pdf_path": "downloads/HPI-AU_SUSTAINABILITY REPORT 2023.pdf"
       }
     },
     {
@@ -9519,11 +8162,7 @@
         "name": "National Storage REIT",
         "ticker": "NSR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -9558,11 +8197,7 @@
         "name": "GDI Property Group Ltd.",
         "ticker": "GDI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -9596,11 +8231,7 @@
         "name": "Pact Group Holdings Ltd.",
         "ticker": "PGH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -9633,11 +8264,7 @@
         "name": "Rural Funds Group",
         "ticker": "RFF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Agriculture, Forestry and Fishing",
         "anzsic_confidence": 0.9,
@@ -9647,16 +8274,6 @@
         "profitability_ebitda_mm_aud": 74.8449978349133,
         "profitability_net_income_mm_aud": 26.0759999999999,
         "profitability_total_assets_mm_aud": 1913.97004717269
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250221/pdf/06fs8mjttfq19y.pdf",
-        "title": "Rural Funds Group Half-Year Financial Report for the period ended 31 December 2024",
-        "filename": "06fs8mjttfq19y.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/RFF-AU_5e3605d418_06fs8mjttfq19y.pdf"
       }
     },
     {
@@ -9664,11 +8281,7 @@
         "name": "SG Fleet Group Ltd.",
         "ticker": "SGF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -9703,11 +8316,7 @@
         "name": "oOh!media Ltd.",
         "ticker": "OML-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -9742,11 +8351,7 @@
         "name": "Champion Iron Ltd.",
         "ticker": "CIA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -9781,11 +8386,7 @@
         "name": "Helia Group Ltd.",
         "ticker": "HLI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.85,
@@ -9819,11 +8420,7 @@
         "name": "Monash IVF Group Ltd.",
         "ticker": "MVF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.9,
@@ -9833,16 +8430,6 @@
         "profitability_ebitda_mm_aud": 66.7080030242973,
         "profitability_net_income_mm_aud": 25.008,
         "profitability_total_assets_mm_aud": 492.607012141047
-      },
-      "search_record": {
-        "url": "https://assets.monashivf.com/assets/FY2025-Annual-Report-to-Shareholders.pdf",
-        "title": "FY2025-Annual-Report-to-Shareholders.pdf",
-        "filename": "FY2025-Annual-Report-to-Shareholders.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/MVF-AU_6d4ec82721_FY2025-Annual-Report-to-Shareholders.pdf"
       }
     },
     {
@@ -9850,11 +8437,7 @@
         "name": "Smartgroup Corp. Ltd.",
         "ticker": "SIQ-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.9,
@@ -9889,11 +8472,7 @@
         "name": "Ashley Services Group Ltd.",
         "ticker": "ASH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Administrative and Support Services",
         "anzsic_confidence": 0.9,
@@ -9903,16 +8482,6 @@
         "profitability_ebitda_mm_aud": 9.17400510040281,
         "profitability_net_income_mm_aud": 2.17199999999999,
         "profitability_total_assets_mm_aud": 86.5790021338711
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln388276jlp5.pdf",
-        "title": "06ln388276jlp5.pdf",
-        "filename": "06ln388276jlp5.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/ASH-AU_c081498031_06ln388276jlp5.pdf"
       }
     },
     {
@@ -9920,11 +8489,7 @@
         "name": "Regis Healthcare Ltd.",
         "ticker": "REG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.95,
@@ -9959,11 +8524,7 @@
         "name": "IPH Ltd.",
         "ticker": "IPH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.9,
@@ -9998,11 +8559,7 @@
         "name": "Simonds Group Ltd.",
         "ticker": "SIO-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -10012,16 +8569,6 @@
         "profitability_ebitda_mm_aud": 30.2140112503151,
         "profitability_net_income_mm_aud": 1.39899999999999,
         "profitability_total_assets_mm_aud": 186.222004589724
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250818/pdf/06mzlt5nwzv4sd.pdf",
-        "title": "06mzlt5nwzv4sd.pdf",
-        "filename": "06mzlt5nwzv4sd.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/SIO-AU_e8b3f53e75_06mzlt5nwzv4sd.pdf"
       }
     },
     {
@@ -10029,11 +8576,7 @@
         "name": "Centuria Office REIT",
         "ticker": "COF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -10068,11 +8611,7 @@
         "name": "Lovisa Holdings Ltd.",
         "ticker": "LOV-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -10082,16 +8621,6 @@
         "profitability_ebitda_mm_aud": 272.921498790265,
         "profitability_net_income_mm_aud": 86.3359566443241,
         "profitability_total_assets_mm_aud": 701.161271187436
-      },
-      "search_record": {
-        "url": "https://cdn.shopify.com/s/files/1/0023/1512/4788/files/Lovisa_Holdings_Limited_Annual_Report_2025_16c653d4-b421-4656-b732-dfa2f42475bd.pdf",
-        "title": "Lovisa_Holdings_Limited_Annual_Report_2025_16c653d4-b421-4656-b732-dfa2f42475bd.pdf",
-        "filename": "Lovisa_Holdings_Limited_Annual_Report_2025_16c653d4-b421-4656-b732-dfa2f42475bd.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/LOV-AU_90b464f6e0_Lovisa_Holdings_Limited_Annual_Report_2025_16c653d4-b421-4656-b732-dfa2f42475bd.pdf"
       }
     },
     {
@@ -10099,11 +8628,7 @@
         "name": "FleetPartners Group Ltd.",
         "ticker": "FPR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -10138,11 +8663,7 @@
         "name": "Superloop Ltd.",
         "ticker": "SLC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -10176,11 +8697,7 @@
         "name": "Temple & Webster Group Ltd.",
         "ticker": "TPW-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -10215,11 +8732,7 @@
         "name": "Zip Co. Ltd.",
         "ticker": "ZIP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -10254,11 +8767,7 @@
         "name": "Baby Bunting Group Ltd.",
         "ticker": "BBN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -10293,11 +8802,7 @@
         "name": "Integral Diagnostics Ltd.",
         "ticker": "IDX-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.9,
@@ -10331,11 +8836,7 @@
         "name": "PWR Holdings Ltd.",
         "ticker": "PWH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -10370,11 +8871,7 @@
         "name": "MLG Oz Ltd.",
         "ticker": "MLG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -10384,16 +8881,6 @@
         "profitability_ebitda_mm_aud": 64.9929986187534,
         "profitability_net_income_mm_aud": 12.133,
         "profitability_total_assets_mm_aud": 319.264007868746
-      },
-      "search_record": {
-        "url": "https://cdn.shopify.com/s/files/1/0023/1512/4788/files/Lovisa_Holdings_Limited_Annual_Report_2025_16c653d4-b421-4656-b732-dfa2f42475bd.pdf",
-        "title": "Lovisa_Holdings_Limited_Annual_Report_2025_16c653d4-b421-4656-b732-dfa2f42475bd.pdf",
-        "filename": "Lovisa_Holdings_Limited_Annual_Report_2025_16c653d4-b421-4656-b732-dfa2f42475bd.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/MLG-AU_90b464f6e0_Lovisa_Holdings_Limited_Annual_Report_2025_16c653d4-b421-4656-b732-dfa2f42475bd.pdf"
       }
     },
     {
@@ -10401,11 +8888,7 @@
         "name": "IVE Group Ltd.",
         "ticker": "IGL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -10440,11 +8923,7 @@
         "name": "Big River Industries Ltd.",
         "ticker": "BRI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -10479,11 +8958,7 @@
         "name": "Nobleoak Life Ltd.",
         "ticker": "NOL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -10516,11 +8991,7 @@
         "name": "Kogan.com Ltd.",
         "ticker": "KGN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -10530,16 +9001,6 @@
         "profitability_ebitda_mm_aud": 33.6029936120289,
         "profitability_net_income_mm_aud": -39.465,
         "profitability_total_assets_mm_aud": 200.611004944362
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250808/pdf/06mp808mwbkbxt.pdf",
-        "title": "06mp808mwbkbxt.pdf",
-        "filename": "06mp808mwbkbxt.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/KGN-AU_bd5c3223f1_06mp808mwbkbxt.pdf"
       }
     },
     {
@@ -10547,11 +9008,7 @@
         "name": "Waypoint REIT Ltd.",
         "ticker": "WPR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -10586,11 +9043,7 @@
         "name": "Michael Hill International Ltd.",
         "ticker": "MHJ-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -10625,11 +9078,7 @@
         "name": "Qoria Ltd.",
         "ticker": "QOR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.8,
@@ -10664,11 +9113,7 @@
         "name": "Johns Lyng Group Ltd.",
         "ticker": "JLG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -10700,11 +9145,7 @@
         "name": "Autosports Group Ltd.",
         "ticker": "ASG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -10714,16 +9155,6 @@
         "profitability_ebitda_mm_aud": 170.684003403222,
         "profitability_net_income_mm_aud": 32.8589999999999,
         "profitability_total_assets_mm_aud": 1885.57804647293
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n4gpq4jk9kzh.pdf",
-        "title": "06n4gpq4jk9kzh.pdf",
-        "filename": "06n4gpq4jk9kzh.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/ASG-AU_15d85c1ca1_06n4gpq4jk9kzh.pdf"
       }
     },
     {
@@ -10731,11 +9162,7 @@
         "name": "Lithium Universe Ltd.",
         "ticker": "LU7-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -10745,16 +9172,6 @@
         "profitability_ebitda_mm_aud": -8.65557637338806,
         "profitability_net_income_mm_aud": -11.233056,
         "profitability_total_assets_mm_aud": 6.50983479807626
-      },
-      "search_record": {
-        "url": "https://www.lithiumuniverse.com/wp-content/uploads/2025/03/LU7_Corporate-Governance_Dec-2024.pdf",
-        "title": "LU7_Corporate-Governance_Dec-2024.pdf",
-        "filename": "LU7_Corporate-Governance_Dec-2024.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/LU7-AU_68b78240da_LU7_Corporate-Governance_Dec-2024.pdf"
       }
     },
     {
@@ -10762,11 +9179,7 @@
         "name": "Ventia Services Group Ltd.",
         "ticker": "VNT-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Administrative and Support Services",
         "anzsic_confidence": 0.9,
@@ -10801,11 +9214,7 @@
         "name": "MA Financial Group Ltd.",
         "ticker": "MAF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -10829,11 +9238,7 @@
         "name": "Pepper Money Ltd.",
         "ticker": "PPM-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -10843,16 +9248,6 @@
         "profitability_ebitda_mm_aud": 1359.89999171424,
         "profitability_net_income_mm_aud": 98.8,
         "profitability_total_assets_mm_aud": 17472.3994580366
-      },
-      "search_record": {
-        "url": "https://www.peppermoney.com.au/content/dam/pepper/pepper-direct-au-documents-nc/investors/shareholders/results/2024/full-year/Pepper%20Money%20CY2024%20Annual%20Report.pdf",
-        "title": "Pepper Money CY2024 Annual Report",
-        "filename": "Pepper%20Money%20CY2024%20Annual%20Report.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/PPM-AU_b0ed7617e7_Pepper_Money_CY2024_Annual_Report.pdf"
       }
     },
     {
@@ -10860,11 +9255,7 @@
         "name": "Telix Pharmaceuticals Ltd.",
         "ticker": "TLX-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.9,
@@ -10898,11 +9289,7 @@
         "name": "NTAW Holdings Ltd.",
         "ticker": "NTD-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.8,
@@ -10912,16 +9299,6 @@
         "profitability_ebitda_mm_aud": 26.3939963954597,
         "profitability_net_income_mm_aud": -43.7589999999999,
         "profitability_total_assets_mm_aud": 354.098008727282
-      },
-      "search_record": {
-        "url": "https://www.ntawholdings.com.au/wp-content/uploads/2025/08/25.08.28-FY25-Investor-Presentation.pdf",
-        "title": "Investor Presentation for the Year Ended 30 June 2025",
-        "filename": "25.08.28-FY25-Investor-Presentation.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/NTD-AU_4dbdfa0769_25.08.28-FY25-Investor-Presentation.pdf"
       }
     },
     {
@@ -10929,11 +9306,7 @@
         "name": "PeopleIn Ltd.",
         "ticker": "PPE-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.9,
@@ -10967,11 +9340,7 @@
         "name": "Wagners Holding Co. Ltd.",
         "ticker": "WGN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -10981,16 +9350,6 @@
         "profitability_ebitda_mm_aud": 61.0650056079051,
         "profitability_net_income_mm_aud": 22.7159999999999,
         "profitability_total_assets_mm_aud": 459.726011330645
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250225/pdf/06fxyb2dywcl3q.pdf",
-        "title": "Wagners Holding Company Limited H1 FY25 Results",
-        "filename": "06fxyb2dywcl3q.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/WGN-AU_b7a1396358_06fxyb2dywcl3q.pdf"
       }
     },
     {
@@ -10998,11 +9357,7 @@
         "name": "Latitude Group Holdings Ltd.",
         "ticker": "LFS-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -11036,11 +9391,7 @@
         "name": "Viva Energy Group Ltd.",
         "ticker": "VEA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.9,
@@ -11075,11 +9426,7 @@
         "name": "Judo Capital Holdings Ltd.",
         "ticker": "JDO-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -11113,11 +9460,7 @@
         "name": "Qualitas Real Estate Income Fund",
         "ticker": "QRI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -11127,16 +9470,6 @@
         "profitability_ebitda_mm_aud": 66.8680015445887,
         "profitability_net_income_mm_aud": 66.868,
         "profitability_total_assets_mm_aud": 983.244024233542
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250822/pdf/06n6r1yvgm0t65.pdf",
-        "title": "Qualitas Real Estate Income Fund Annual Report for the year ended 30 June 2025",
-        "filename": "06n6r1yvgm0t65.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/QRI-AU_84d00cdb50_06n6r1yvgm0t65.pdf"
       }
     },
     {
@@ -11144,11 +9477,7 @@
         "name": "Coronado Global Resources, Inc.",
         "ticker": "0K17S2-E"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.95,
@@ -11182,11 +9511,7 @@
         "name": "Endeavour Group Ltd. (Australia)",
         "ticker": "EDV-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Accommodation and Food Services",
         "anzsic_confidence": 0.9,
@@ -11221,11 +9546,7 @@
         "name": "Mader Group Ltd.",
         "ticker": "MAD-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -11235,16 +9556,6 @@
         "profitability_ebitda_mm_aud": 105.714011713173,
         "profitability_net_income_mm_aud": 57.147,
         "profitability_total_assets_mm_aud": 346.988008552046
-      },
-      "search_record": {
-        "url": "https://clients3.weblink.com.au/pdf/MAD/02983417.pdf",
-        "title": "02983417.pdf",
-        "filename": "02983417.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/MAD-AU_a8c119bd87_02983417.pdf"
       }
     },
     {
@@ -11252,11 +9563,7 @@
         "name": "HMC Capital Ltd.",
         "ticker": "HMC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -11291,11 +9598,7 @@
         "name": "KKR Credit Income Fund",
         "ticker": "KKC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -11305,16 +9608,6 @@
         "profitability_ebitda_mm_aud": 60.1199921511521,
         "profitability_net_income_mm_aud": 60.1199999999999,
         "profitability_total_assets_mm_aud": 826.224020363546
-      },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/KKC-AU_Appendix4Eand2023FullYearStatutoryAccounts.pdf",
-        "title": "KKC-AU_Appendix4Eand2023FullYearStatutoryAccounts.pdf",
-        "filename": "KKC-AU_Appendix4Eand2023FullYearStatutoryAccounts.pdf",
-        "year": "2023",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "/home/user/code/scope-spider/downloads/KKC-AU_Appendix4Eand2023FullYearStatutoryAccounts.pdf"
       }
     },
     {
@@ -11322,11 +9615,7 @@
         "name": "MoneyMe Ltd.",
         "ticker": "MME-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -11361,11 +9650,7 @@
         "name": "TPG Telecom Ltd.",
         "ticker": "TPG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -11400,11 +9685,7 @@
         "name": "Plenti Group Ltd.",
         "ticker": "PLT-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -11439,11 +9720,7 @@
         "name": "HomeCo Daily Needs REIT",
         "ticker": "HDN-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -11467,11 +9744,7 @@
         "name": "Duratec Ltd.",
         "ticker": "DUR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -11506,11 +9779,7 @@
         "name": "GenusPlus Group Ltd.",
         "ticker": "GNP-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.85,
@@ -11544,11 +9813,7 @@
         "name": "MAAS Group Holdings Ltd.",
         "ticker": "MGH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -11582,11 +9847,7 @@
         "name": "Dalrymple Bay Infrastructure Ltd.",
         "ticker": "DBI-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -11609,11 +9870,7 @@
         "name": "Cettire Ltd.",
         "ticker": "CTT-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -11623,16 +9880,6 @@
         "profitability_ebitda_mm_aud": 0.70904574906208,
         "profitability_net_income_mm_aud": -2.64578599999999,
         "profitability_total_assets_mm_aud": 124.319284064037
-      },
-      "search_record": {
-        "url": "https://wcsecure.weblink.com.au/pdf/CTT/02986042.pdf",
-        "title": "02986042.pdf",
-        "filename": "02986042.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/CTT-AU_72bd611b42_02986042.pdf"
       }
     },
     {
@@ -11640,11 +9887,7 @@
         "name": "Peter Warren Automotive Holdings Ltd.",
         "ticker": "PWR-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_confidence": 0.9,
@@ -11654,16 +9897,6 @@
         "profitability_ebitda_mm_aud": 107.908008021627,
         "profitability_net_income_mm_aud": 12.0939999999999,
         "profitability_total_assets_mm_aud": 1442.63103555583
-      },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n46ggc844lb1.pdf",
-        "title": "Peter Warren Automotive Holdings Limited FY25 Result",
-        "filename": "06n46ggc844lb1.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/PWR-AU_5c832f134f_06n46ggc844lb1.pdf"
       }
     },
     {
@@ -11671,11 +9904,7 @@
         "name": "Australian Clinical Labs Ltd.",
         "ticker": "ACL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.9,
@@ -11709,11 +9938,7 @@
         "name": "DGL Group Ltd.",
         "ticker": "DGL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Waste Services",
         "anzsic_confidence": 0.9,
@@ -11736,11 +9961,7 @@
         "name": "29metals Ltd.",
         "ticker": "29M-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_confidence": 0.9,
@@ -11775,11 +9996,7 @@
         "name": "Silk Logistics Holdings Ltd.",
         "ticker": "SLH-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.9,
@@ -11813,11 +10030,7 @@
         "name": "PEXA Group Ltd.",
         "ticker": "PXA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.9,
@@ -11852,11 +10065,7 @@
         "name": "HealthCo Healthcare & Wellness REIT",
         "ticker": "HCW-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_confidence": 0.9,
@@ -11891,11 +10100,7 @@
         "name": "IREN Ltd.",
         "ticker": "IREN-US"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Professional, Scientific and Technical Services",
         "anzsic_confidence": 0.85,
@@ -11930,11 +10135,7 @@
         "name": "The Lottery Corp. Ltd.",
         "ticker": "TLC-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Other Services",
         "anzsic_confidence": 0.9,
@@ -11969,11 +10170,7 @@
         "name": "Regal Partners Ltd.",
         "ticker": "RPL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -11983,16 +10180,6 @@
         "profitability_ebitda_mm_aud": 119.832994529841,
         "profitability_net_income_mm_aud": 66.2399999999999,
         "profitability_total_assets_mm_aud": 949.218970556881
-      },
-      "search_record": {
-        "url": "https://wcsecure.weblink.com.au/pdf/RPL/02917784.pdf",
-        "title": "2024 Annual Report",
-        "filename": "02917784.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/RPL-AU_e0e5247419_02917784.pdf"
       }
     },
     {
@@ -12000,11 +10187,7 @@
         "name": "Guzman y Gomez Ltd.",
         "ticker": "GYG-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Accommodation and Food Services",
         "anzsic_confidence": 0.9,
@@ -12039,11 +10222,7 @@
         "name": "Lynch Group Holdings Ltd.",
         "ticker": "LGL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Agriculture, Forestry and Fishing",
         "anzsic_confidence": 0.9,
@@ -12078,11 +10257,7 @@
         "name": "ANZ Group Holdings Ltd.",
         "ticker": "ANZ-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -12116,11 +10291,7 @@
         "name": "Abacus Storage King",
         "ticker": "ASK-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -12155,11 +10326,7 @@
         "name": "Symal Group Ltd.",
         "ticker": "SYL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -12193,11 +10360,7 @@
         "name": "Tasmea Ltd.",
         "ticker": "TEA-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_confidence": 0.8,
@@ -12231,11 +10394,7 @@
         "name": "Civmec Ltd.",
         "ticker": "CVL-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_confidence": 0.9,
@@ -12270,11 +10429,7 @@
         "name": "DigiCo Infrastructure REIT",
         "ticker": "DGT-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_confidence": 0.9,
@@ -12298,11 +10453,7 @@
         "name": "Gemlife Communities Group",
         "ticker": "GLF-AU"
       },
-      "emissions": {
-        "scope_1": null,
-        "scope_2": null,
-        "scope_3": null
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Accommodation and Food Services",
         "anzsic_confidence": 0.8,

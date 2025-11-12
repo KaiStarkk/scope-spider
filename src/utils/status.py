@@ -45,18 +45,22 @@ def needs_extraction(company: Company, verify_path: bool = True) -> bool:
     if needs_download(company, verify_path=verify_path):
         return False
     record = company.extraction_record
-    text_path = record.text_path if record else None
-    if not text_path:
+    if record is None:
         return True
-    if verify_path and not _path_exists(text_path):
+
+    has_text = bool(record.text_path)
+    has_tables = record.table_count > 0 and bool(record.table_path)
+
+    if not has_text and not has_tables:
         return True
-    if record and record.table_count > 0:
-        table_path = record.table_path
-        if not table_path:
-            return True
-        if verify_path and not _path_exists(table_path):
-            return True
-    return False
+
+    if not verify_path:
+        return False
+
+    text_exists = _path_exists(record.text_path) if has_text else False
+    table_exists = _path_exists(record.table_path) if has_tables else False
+
+    return not (text_exists or table_exists)
 
 
 def needs_verification(company: Company) -> bool:
