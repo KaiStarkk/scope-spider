@@ -1,3 +1,4 @@
+from .analysis import AnalysisRecord
 from .annotations import Annotations
 from .company import Company
 from .download import DownloadRecord
@@ -7,6 +8,7 @@ from .identity import Identity
 from .search import SearchRecord
 
 __all__ = [
+    "AnalysisRecord",
     "Annotations",
     "Company",
     "DownloadRecord",

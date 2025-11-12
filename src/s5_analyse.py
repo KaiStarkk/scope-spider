@@ -336,6 +336,7 @@ def main(argv: Optional[list[str]] = None) -> int:
                 current_ticker: str,
                 current_snippet_label: str,
                 current_snippet_pages: List[int],
+                current_snippet_path: Path,
             ) -> bool:
                 nonlocal snippet_success, changed, last_success
                 if (
@@ -391,7 +392,14 @@ def main(argv: Optional[list[str]] = None) -> int:
                         flush=True,
                     )
                     return False
-                if update_company_emissions(company, parsed_result):
+                if update_company_emissions(
+                    company,
+                    parsed_result,
+                    method=method_label,
+                    snippet_label=current_snippet_label,
+                    snippet_path=current_snippet_path,
+                    snippet_pages=current_snippet_pages,
+                ):
                     changed = True
                     last_success = (
                         current_snippet_label,
@@ -418,6 +426,7 @@ def main(argv: Optional[list[str]] = None) -> int:
                 current_ticker=ticker,
                 current_snippet_label=snippet_label,
                 current_snippet_pages=snippet_pages,
+                current_snippet_path=snippet_path,
             ):
                 break
 
@@ -436,6 +445,7 @@ def main(argv: Optional[list[str]] = None) -> int:
                     current_ticker=ticker,
                     current_snippet_label=snippet_label,
                     current_snippet_pages=snippet_pages,
+                    current_snippet_path=snippet_path,
                 ):
                     break
 
@@ -446,6 +456,7 @@ def main(argv: Optional[list[str]] = None) -> int:
                 current_ticker=ticker,
                 current_snippet_label=snippet_label,
                 current_snippet_pages=snippet_pages,
+                current_snippet_path=snippet_path,
             ):
                 break
 
@@ -465,6 +476,7 @@ def main(argv: Optional[list[str]] = None) -> int:
                     current_ticker=ticker,
                     current_snippet_label=snippet_label,
                     current_snippet_pages=snippet_pages,
+                    current_snippet_path=snippet_path,
                 ):
                     break
                 if (

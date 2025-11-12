@@ -5,13 +5,20 @@ import re
 import time
 from contextlib import suppress
 from pathlib import Path
+from datetime import datetime
 from typing import Any, Optional
 
 from openai import OpenAI
 from pydantic import BaseModel, Field
 
 from rapidfuzz import fuzz
-from src.models import Company, Scope2Emissions, Scope3Emissions, ScopeValue
+from src.models import (
+    AnalysisRecord,
+    Company,
+    Scope2Emissions,
+    Scope3Emissions,
+    ScopeValue,
+)
 
 
 class ParsedResult(BaseModel):
@@ -399,7 +406,15 @@ def parse_data_filesearch(
     return None
 
 
-def update_company_emissions(company: Company, parsed: ParsedResult) -> bool:
+def update_company_emissions(
+    company: Company,
+    parsed: ParsedResult,
+    *,
+    method: str,
+    snippet_label: str,
+    snippet_path: Path | None,
+    snippet_pages: list[int],
+) -> bool:
     if not parsed or parsed.scope_1 is None or parsed.scope_2 is None:
         return False
     if parsed.scope_1 <= 0 or parsed.scope_2 <= 0:
@@ -447,5 +462,17 @@ def update_company_emissions(company: Company, parsed: ParsedResult) -> bool:
         )
     elif parsed.qualifiers and company.emissions.scope_3:
         company.emissions.scope_3.qualifiers = parsed.qualifiers.strip()
+
+    snippet_path_str = str(snippet_path) if snippet_path else None
+    page_numbers = [int(page) for page in snippet_pages if isinstance(page, int)]
+    timestamp = datetime.utcnow().isoformat(timespec="seconds") + "Z"
+    company.analysis_record = AnalysisRecord(
+        method=method,
+        snippet_label=snippet_label,
+        snippet_path=snippet_path_str,
+        snippet_pages=page_numbers,
+        confidence=float(parsed.confidence or 0.0),
+        analysed_at=timestamp,
+    )
 
     return True

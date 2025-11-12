@@ -2,6 +2,7 @@ from typing import Optional
 
 from pydantic import BaseModel, Field
 
+from .analysis import AnalysisRecord
 from .annotations import Annotations
 from .download import DownloadRecord
 from .emissions import EmissionsData
@@ -17,6 +18,7 @@ class Company(BaseModel):
     search_record: Optional[SearchRecord] = None
     download_record: Optional[DownloadRecord] = None
     extraction_record: Optional[ExtractionRecord] = None
+    analysis_record: Optional[AnalysisRecord] = None
 
 
 __all__ = ["Company"]
