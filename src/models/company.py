@@ -9,6 +9,7 @@ from .emissions import EmissionsData
 from .extraction import ExtractionRecord
 from .identity import Identity
 from .search import SearchRecord
+from .verification import VerificationRecord
 
 
 class Company(BaseModel):
@@ -19,6 +20,7 @@ class Company(BaseModel):
     download_record: Optional[DownloadRecord] = None
     extraction_record: Optional[ExtractionRecord] = None
     analysis_record: Optional[AnalysisRecord] = None
+    verification: VerificationRecord = Field(default_factory=VerificationRecord)
 
 
 __all__ = ["Company"]

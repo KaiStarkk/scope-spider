@@ -2,14 +2,27 @@ from __future__ import annotations
 
 import sys
 from collections import Counter
+import types as types_module
 import re
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable, List, Optional, Tuple, Type, get_args, get_origin, Literal
+from typing import (
+    Any,
+    Iterable,
+    List,
+    Optional,
+    Tuple,
+    Type,
+    Set,
+    Union,
+    get_args,
+    get_origin,
+    Literal,
+)
 
 from pydantic import BaseModel
 
-from src.models import Company, SearchRecord
+from src.models import Company, EmissionsData, SearchRecord, VerificationRecord
 from src.utils.companies import dump_companies, load_companies
 from src.utils.documents import (
     MAX_REPORT_YEAR,
@@ -19,19 +32,16 @@ from src.utils.documents import (
 from src.utils.documents import normalise_pdf_url  # type: ignore[attr-defined]
 from src.utils.pdf import extract_pdf_text
 from src.utils.query import derive_filename
-from src.utils.status import emissions_complete
 
 
 SCOPE_KEYWORDS = [
     r"\bscope\s*1\b",
     r"\bscope\s*2\b",
     r"\bscope\s*3\b",
-    r"\bghg\b",
-    r"\bgreenhouse\s+gas",
-    r"\bemissions?\b",
-    r"\btco2e\b",
-    r"\bktco2e\b",
-    r"\bmtco2e\b",
+    r"\btco2\b",
+    r"\bktco2\b",
+    r"\bmtco2\b",
+    r"\bkgco2\b",
 ]
 SCOPE_KEYWORDS_RE = re.compile("|".join(SCOPE_KEYWORDS), re.IGNORECASE)
 SCOPE_SCAN_MAX_PAGES = 6
@@ -42,6 +52,7 @@ class Issue:
     ticker: str
     message: str
     fixed: bool = False
+    minor: bool = False
 
 
 def _resolve_pdf_path(base_file: Path, pdf_path_str: str) -> Path:
@@ -104,6 +115,7 @@ def validate_search_record(
                     else "search URL is not a direct PDF (pass --pdf to remove)"
                 ),
                 enforce_pdf_only,
+                minor=not enforce_pdf_only,
             )
         )
         if enforce_pdf_only:
@@ -124,7 +136,7 @@ def validate_search_record(
         changes = True
 
     if not record.url.lower().endswith(".pdf"):
-        issues.append(Issue(ticker, "search URL does not end with .pdf", False))
+        issues.append(Issue(ticker, "search URL does not end with .pdf", False, True))
 
     derived_type = classify_document_type(record.title, record.filename, record.url)
     if record.doc_type != derived_type:
@@ -143,7 +155,7 @@ def validate_search_record(
             record.year = inferred_year
             changes = True
     elif not record.year:
-        issues.append(Issue(ticker, "year missing", False))
+        issues.append(Issue(ticker, "year missing", False, True))
     else:
         if len(record.year) != 4 or not record.year.isdigit():
             issues.append(Issue(ticker, "invalid year format; cleared", True))
@@ -228,15 +240,174 @@ def _expected_scalar_types(annotation: object) -> Tuple[type, ...]:
     if origin is Literal:
         literal_types = {type(arg) for arg in get_args(annotation)}
         return tuple(literal_types)
-    types: list[type] = []
+    collected: list[type] = []
     for arg in get_args(annotation):
-        types.extend(_expected_scalar_types(arg))
+        collected.extend(_expected_scalar_types(arg))
     # Preserve order without duplicates
     seen: dict[type, None] = {}
-    for typ in types:
+    for typ in collected:
         if typ not in seen:
             seen[typ] = None
     return tuple(seen.keys())
+
+
+STAGE_NAMES = ("s2", "s3", "s4", "s5", "s6")
+STAGE_DEPENDENCIES = {
+    "s2": ("s2", "s3", "s4", "s5"),
+    "s3": ("s3", "s4", "s5"),
+    "s4": ("s4", "s5"),
+    "s5": ("s5",),
+    "s6": ("s6",),
+}
+
+ANNOTATION_RESET_FIELDS = [
+    "anzsic_division",
+    "anzsic_confidence",
+    "anzsic_context",
+    "anzsic_source",
+    "anzsic_local_division",
+    "anzsic_local_confidence",
+    "anzsic_local_context",
+    "anzsic_agreement",
+    "profitability_year",
+    "profitability_revenue_mm_aud",
+    "profitability_ebitda_mm_aud",
+    "profitability_net_income_mm_aud",
+    "profitability_total_assets_mm_aud",
+    "size_employee_count",
+    "reporting_group",
+    "rbics_sector",
+    "rbics_sub_sector",
+    "rbics_industry_group",
+    "rbics_industry",
+    "company_country",
+    "company_region",
+    "company_state",
+]
+
+
+def _reset_annotations(company: Company) -> bool:
+    changed = False
+    annotations = company.annotations
+    for field in ANNOTATION_RESET_FIELDS:
+        if getattr(annotations, field, None) is not None:
+            setattr(annotations, field, None)
+            changed = True
+    return changed
+
+
+def _reset_verification(company: Company) -> bool:
+    changed = False
+    if not isinstance(company.verification, VerificationRecord):
+        company.verification = VerificationRecord()
+        return True
+    verification = company.verification
+    reset_fields = [
+        "verified_at",
+        "reviewer",
+        "scope_1_override",
+        "scope_2_override",
+        "scope_3_override",
+        "notes",
+    ]
+    for field in reset_fields:
+        if getattr(verification, field, None) is not None:
+            setattr(verification, field, None)
+            changed = True
+    if verification.status != "pending":
+        verification.status = "pending"
+        changed = True
+    return changed
+
+
+def _reset_analysis(company: Company) -> bool:
+    changed = False
+    if company.analysis_record is not None:
+        company.analysis_record = None
+        changed = True
+    if not isinstance(company.emissions, EmissionsData) or any(
+        getattr(company.emissions, attr) is not None
+        for attr in ("scope_1", "scope_2", "scope_3")
+    ):
+        company.emissions = EmissionsData()
+        changed = True
+    if _reset_verification(company):
+        changed = True
+    return changed
+
+
+def _reset_extraction(company: Company) -> bool:
+    if company.extraction_record is not None:
+        company.extraction_record = None
+        return True
+    return False
+
+
+def _reset_download(company: Company) -> bool:
+    if company.download_record is not None:
+        company.download_record = None
+        return True
+    return False
+
+
+def _reset_search(company: Company) -> bool:
+    if company.search_record is not None:
+        company.search_record = None
+        return True
+    return False
+
+
+def _apply_stage_reset(company: Company, stage: str) -> bool:
+    if stage == "s2":
+        return _reset_search(company)
+    if stage == "s3":
+        return _reset_download(company)
+    if stage == "s4":
+        return _reset_extraction(company)
+    if stage == "s5":
+        return _reset_analysis(company)
+    if stage == "s6":
+        return _reset_annotations(company)
+    raise ValueError(f"Unknown stage: {stage}")
+
+
+def _expand_stages(stages: Iterable[str]) -> List[str]:
+    ordered: List[str] = []
+    seen: Set[str] = set()
+    for stage in stages:
+        key = stage.lower()
+        if key not in STAGE_DEPENDENCIES:
+            raise ValueError(
+                f"Unsupported stage {stage!r}; expected one of {', '.join(STAGE_NAMES)}"
+            )
+        for dependent in STAGE_DEPENDENCIES[key]:
+            if dependent in seen:
+                continue
+            ordered.append(dependent)
+            seen.add(dependent)
+    return ordered
+
+
+def reset_company_stages(company: Company, stages: Iterable[str]) -> bool:
+    changed = False
+    for stage in _expand_stages(stages):
+        if _apply_stage_reset(company, stage):
+            changed = True
+    return changed
+
+
+def reset_company_pipeline_state(company: Company) -> bool:
+    return reset_company_stages(company, ("s4", "s5", "s6"))
+
+
+def _unwrap_optional(annotation: object) -> object:
+    origin = get_origin(annotation)
+    if origin in (Union, types_module.UnionType):
+        args = get_args(annotation)
+        non_none = [arg for arg in args if arg is not type(None)]
+        if len(non_none) == 1 and len(non_none) != len(args):
+            return non_none[0]
+    return annotation
 
 
 def validate_structure(
@@ -275,7 +446,8 @@ def validate_structure(
         if value is None:
             continue
 
-        sub_model = _extract_base_model(field.annotation)
+        annotation = _unwrap_optional(field.annotation)
+        sub_model = _extract_base_model(annotation)
         if sub_model is not None:
             if not isinstance(value, dict):
                 issues.append(
@@ -289,7 +461,88 @@ def validate_structure(
                 issues.extend(validate_structure(value, sub_model, ticker, sub_path))
             continue
 
-        expected_types = _expected_scalar_types(field.annotation)
+        origin = get_origin(annotation)
+        container_type: type | None = None
+        if origin in (list, List):
+            container_type = list
+        elif origin in (tuple, Tuple):
+            container_type = tuple
+        elif origin in (set, Set):
+            container_type = set
+
+        if container_type is not None:
+            if not isinstance(value, container_type):
+                issues.append(
+                    Issue(
+                        ticker,
+                        f"{sub_path} expected {container_type.__name__}, found {type(value).__name__}",
+                        True,
+                    )
+                )
+                continue
+
+            element_annotations = get_args(annotation)
+            element_models = [
+                _extract_base_model(_unwrap_optional(elem))
+                for elem in element_annotations
+            ]
+            if any(elem_model is not None for elem_model in element_models):
+                for idx, item in enumerate(value):
+                    elem_model = next(
+                        (
+                            model_candidate
+                            for model_candidate in element_models
+                            if model_candidate is not None
+                        ),
+                        None,
+                    )
+                    if elem_model is None:
+                        break
+                    if not isinstance(item, dict):
+                        issues.append(
+                            Issue(
+                                ticker,
+                                f"{sub_path}[{idx}] expected object, found {type(item).__name__}",
+                                False,
+                            )
+                        )
+                    else:
+                        issues.extend(
+                            validate_structure(
+                                item,
+                                elem_model,
+                                ticker,
+                                f"{sub_path}[{idx}]",
+                            )
+                        )
+                continue
+
+            scalar_types: list[type] = []
+            for elem in element_annotations:
+                scalar_types.extend(_expected_scalar_types(_unwrap_optional(elem)))
+            if scalar_types:
+                seen_scalar: dict[type, None] = {}
+                for typ in scalar_types:
+                    if typ not in seen_scalar:
+                        seen_scalar[typ] = None
+                allowed_types = tuple(seen_scalar.keys())
+                for idx, item in enumerate(value):
+                    if item is None:
+                        continue
+                    if not isinstance(item, allowed_types):
+                        expected_names = "/".join(
+                            sorted(typ.__name__ for typ in allowed_types)
+                        )
+                        issues.append(
+                            Issue(
+                                ticker,
+                                f"{sub_path}[{idx}] expected {expected_names}, found {type(item).__name__}",
+                                True,
+                            )
+                        )
+            continue
+
+        expected_types = _expected_scalar_types(annotation)
         if expected_types and not isinstance(value, expected_types):
             type_names = "/".join(sorted(t.__name__ for t in expected_types))
             issues.append(
@@ -304,6 +557,7 @@ def validate_structure(
 
 
 def summarise_stages(company: Company, stage_counts: Counter) -> None:
+    stage_counts["total"] += 1
     record = company.search_record
     if record and record.url:
         stage_counts["searched"] += 1
@@ -315,7 +569,10 @@ def summarise_stages(company: Company, stage_counts: Counter) -> None:
         extraction.text_path or (extraction.table_count > 0 and extraction.table_path)
     ):
         stage_counts["extracted"] += 1
-    if emissions_complete(company.emissions):
+    if company.analysis_record is not None:
+        stage_counts["analysed"] += 1
+    verification = getattr(company, "verification", None)
+    if verification and verification.status == "accepted":
         stage_counts["verified"] += 1
 
 
@@ -340,11 +597,13 @@ def format_doc_summary(doc_counter: Counter) -> str:
 
 def format_stage_summary(stage_counts: Counter, total: int) -> str:
     lines = ["Pipeline stage coverage:"]
+    lines.append(f"  - Total companies: {total}")
     mapping = [
         ("searched", "Search records"),
         ("downloaded", "Downloaded"),
         ("extracted", "Extracted"),
-        ("verified", "Verified"),
+        ("analysed", "Analysed"),
+        ("verified", "Verified (accepted)"),
     ]
     for key, label in mapping:
         lines.append(f"  - {label}: {stage_counts.get(key, 0)} / {total}")
@@ -354,17 +613,67 @@ def format_stage_summary(stage_counts: Counter, total: int) -> str:
 def main(argv: list[str]) -> int:
     if len(argv) < 2:
         print(
-            "Usage: python -m src.s0_stats <companies.json> [--write] [--pdf] [--checkyear] [--checkscope] [--delete]",
+            "Usage: python -m src.s0_stats <companies.json> [--write] [--pdf] [--checkyear] "
+            "[--checkscope] [--delete] [--all] [--reset[=STAGE[,STAGE...]]]",
             file=sys.stderr,
         )
         return 1
 
     path = Path(argv[1]).expanduser().resolve()
-    write = "--write" in argv[2:]
-    enforce_pdf_only = "--pdf" in argv[2:]
-    check_pdf_year = "--checkyear" in argv[2:]
-    check_scope = "--checkscope" in argv[2:]
-    delete_scope = "--delete" in argv[2:]
+    args_list = argv[2:]
+    write = False
+    enforce_pdf_only = False
+    check_pdf_year = False
+    check_scope = False
+    delete_scope = False
+    show_all = False
+    reset_only = False
+    reset_requested: List[str] = []
+
+    i = 0
+    while i < len(args_list):
+        arg = args_list[i]
+        if arg == "--write":
+            write = True
+        elif arg == "--pdf":
+            enforce_pdf_only = True
+        elif arg == "--checkyear":
+            check_pdf_year = True
+        elif arg == "--checkscope":
+            check_scope = True
+        elif arg == "--delete":
+            delete_scope = True
+        elif arg == "--all":
+            show_all = True
+        elif arg.startswith("--reset"):
+            reset_only = True
+            value: Optional[str] = None
+            if arg == "--reset":
+                if (
+                    i + 1 < len(args_list)
+                    and not args_list[i + 1].startswith("--")
+                ):
+                    value = args_list[i + 1]
+                    i += 1
+            else:
+                _, value = arg.split("=", 1)
+            if value:
+                for token in value.split(","):
+                    stage_name = token.strip().lower()
+                    if stage_name:
+                        reset_requested.append(stage_name)
+        else:
+            print(f"[warn] ignored unknown argument {arg}", flush=True)
+        i += 1
+
+    if reset_requested:
+        normalised: List[str] = []
+        seen_reset: Set[str] = set()
+        for stage in reset_requested:
+            if stage not in seen_reset:
+                normalised.append(stage)
+                seen_reset.add(stage)
+        reset_requested = normalised
     if delete_scope and not check_scope:
         print(
             "[warn] --delete has no effect without --checkscope; ignoring.",
@@ -373,6 +682,59 @@ def main(argv: list[str]) -> int:
         delete_scope = False
 
     companies, payload = load_companies(path)
+
+    if reset_only:
+        invalid_stages = [
+            stage for stage in reset_requested if stage not in STAGE_DEPENDENCIES
+        ]
+        if invalid_stages:
+            expected = ", ".join(name.upper() for name in STAGE_NAMES)
+            print(
+                "[error] Unknown reset stage(s): "
+                + ", ".join(stage.upper() for stage in invalid_stages)
+                + f". Expected one of: {expected}",
+                flush=True,
+            )
+            return 1
+        if not write:
+            if reset_requested:
+                suffix = "=" + ",".join(stage.upper() for stage in reset_requested)
+                print(
+                    f"[reset] No changes made. Re-run with --write --reset{suffix} to persist the cleanup.",
+                    flush=True,
+                )
+            else:
+                print(
+                    "[reset] No changes made. Re-run with --write --reset to persist the cleanup.",
+                    flush=True,
+                )
+            return 0
+
+        stages_to_process = reset_requested or ["s4", "s5", "s6"]
+        expanded_stages = _expand_stages(stages_to_process)
+        reset_count = 0
+        for company in companies:
+            if reset_company_stages(company, stages_to_process):
+                reset_count += 1
+        if reset_count:
+            dump_companies(path, payload, companies)
+            stages_display = " -> ".join(stage.upper() for stage in expanded_stages)
+            print(
+                f"[reset] Cleared data for {stages_display} on {reset_count} company(ies).",
+                flush=True,
+            )
+        else:
+            if reset_requested:
+                stages_display = " -> ".join(
+                    stage.upper() for stage in expanded_stages
+                )
+                print(
+                    f"[reset] No {stages_display} data required clearing.",
+                    flush=True,
+                )
+            else:
+                print("[reset] No pipeline artefacts required clearing.", flush=True)
+        return 0
 
     stage_counts: Counter = Counter()
     doc_counter: Counter = Counter()
@@ -661,6 +1023,10 @@ def main(argv: list[str]) -> int:
 
     actionable = [issue for issue in issues if not issue.fixed]
     corrected = [issue for issue in issues if issue.fixed]
+
+    if not show_all:
+        actionable = [issue for issue in actionable if not issue.minor]
+        corrected = [issue for issue in corrected if not issue.minor]
 
     if corrected:
         print("\nCorrections made:")

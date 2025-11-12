@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import argparse
 from dataclasses import dataclass
 from typing import Dict, List, Literal, Sequence, Tuple
 
@@ -18,20 +19,33 @@ class SearchArgs:
     path: str
     mode: str
     debug: bool
+    jobs: int
 
 
 def parse_search_args(argv: Sequence[str]) -> SearchArgs:
-    if len(argv) < 2:
-        raise SystemExit("Usage: s2_search.py <json_file> [auto|review] [--debug]")
-    path = argv[1]
-    mode = "review"
-    debug = False
-    for arg in argv[2:]:
-        if arg in ("auto", "review"):
-            mode = arg
-        elif arg in ("--debug", "-d"):
-            debug = True
-    return SearchArgs(path=path, mode=mode, debug=debug)
+    parser = argparse.ArgumentParser(
+        prog="s2_search",
+        description="Search for ESG reports using OpenAI tooling.",
+    )
+    parser.add_argument("path", help="Path to companies.json")
+    parser.add_argument(
+        "mode",
+        nargs="?",
+        choices=("auto", "review"),
+        default="review",
+        help="Automation mode (default: review)",
+    )
+    parser.add_argument("--debug", "-d", action="store_true", help="Enable verbose logs.")
+    parser.add_argument(
+        "--jobs",
+        type=int,
+        default=1,
+        help="Number of concurrent search workers (auto mode only).",
+    )
+    args = parser.parse_args(list(argv[1:]))
+    if args.jobs < 1:
+        parser.error("--jobs must be >= 1")
+    return SearchArgs(path=args.path, mode=args.mode, debug=args.debug, jobs=args.jobs)
 
 
 def get_unsearched_companies(companies: Sequence[Company]) -> List[Company]:

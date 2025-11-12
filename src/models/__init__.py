@@ -6,6 +6,7 @@ from .emissions import EmissionsData, Scope2Emissions, Scope3Emissions, ScopeVal
 from .extraction import ExtractionRecord
 from .identity import Identity
 from .search import SearchRecord
+from .verification import VerificationRecord
 
 __all__ = [
     "AnalysisRecord",
@@ -19,4 +20,5 @@ __all__ = [
     "ExtractionRecord",
     "Identity",
     "SearchRecord",
+    "VerificationRecord",
 ]

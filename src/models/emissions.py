@@ -1,3 +1,4 @@
+import re
 from typing import Any, Dict, Optional
 
 from pydantic import BaseModel, Field, field_validator, model_validator
@@ -30,17 +31,40 @@ class Scope2Emissions(ScopeValue):
     def _normalise_method(cls, value: str | None) -> str | None:
         if value is None:
             return None
-        normalised = str(value).strip().lower()
+        text = str(value).strip()
+        if not text:
+            return None
+        normalised = text.lower()
+        condensed = re.sub(r"\s+", " ", normalised.replace("-", " ").replace("_", " ")).strip()
         mapping = {
             "market": "market",
             "location": "location",
             "locational": "location",
             "unsure": "unsure",
             "unknown": "unsure",
+            "not specified": "unsure",
+            "not applicable": "unsure",
+            "not reported": "unsure",
+            "n/a": "unsure",
         }
-        if normalised not in mapping:
-            raise ValueError("scope_2.method must be one of: market, location, unsure")
-        return mapping[normalised]
+        if condensed.endswith(" based"):
+            condensed = condensed[: -len(" based")].strip()
+        if condensed in mapping:
+            return mapping[condensed]
+        has_market = "market" in condensed
+        has_location = "location" in condensed or "locational" in condensed
+        if has_market and has_location:
+            return "unsure"
+        if has_market:
+            return "market"
+        if has_location:
+            return "location"
+        if any(
+            keyword in condensed
+            for keyword in ("unknown", "unsure", "uncertain", "n/a", "not specified")
+        ):
+            return "unsure"
+        raise ValueError("scope_2.method must be one of: market, location, unsure")
 
 
 class Scope3Emissions(ScopeValue):

@@ -1,11 +1,9 @@
 from __future__ import annotations
 
-import json
 import re
 import time
 from contextlib import suppress
 from pathlib import Path
-from datetime import datetime
 from typing import Any, Optional
 
 from openai import OpenAI
@@ -19,6 +17,7 @@ from src.models import (
     Scope3Emissions,
     ScopeValue,
 )
+from src.utils.pdf_preview import ensure_page_previews
 
 
 class ParsedResult(BaseModel):
@@ -177,35 +176,112 @@ def _extract_numeric_value(
         if idx < 0 or idx >= len(lines):
             continue
         line = lines[idx]
-        match = _VALUE_RE.search(line)
-        if not match:
+        matches = list(_VALUE_RE.finditer(line))
+        if not matches:
             continue
-        raw_value = match.group(1)
-        if not raw_value:
+        best_candidate: Optional[tuple[int, int, float, str, str, bool]] = None
+        for match in matches:
+            raw_value = match.group(1)
+            if not raw_value:
+                continue
+            cleaned = raw_value.replace(",", "").replace(" ", "")
+            try:
+                number = float(cleaned)
+            except ValueError:
+                continue
+            explicit_unit = match.group(2)
+            context = f"{lines[base_index]} {line}"
+            unit = _infer_unit(context, explicit_unit)
+            factor = {
+                "kg": 1,
+                "t": 1_000,
+                "kt": 1_000_000,
+                "mt": 1_000_000_000,
+            }.get(unit, 1_000)
+            value = int(round(number * factor))
+            if value <= 0:
+                continue
+            lowered_segment = line[
+                max(0, match.start() - 6) : match.end() + 12
+            ].lower()
+            near_unit = bool(explicit_unit) or any(
+                token in lowered_segment for token in ("mt", "kt", "tco", "t ", "kg")
+            )
+            unit_tokens = ("tco", "tonne", "ton ", "co2", "ghg", "kt", "mt")
+            unit_present = bool(explicit_unit) or any(
+                token in context.lower() for token in unit_tokens
+            )
+            if not unit_present:
+                continue
+            priority = 0
+            if near_unit:
+                priority += 20
+            if explicit_unit:
+                priority += 5
+            if "." in raw_value:
+                priority += 2
+            if number and 1000 <= number <= 2100 and "." not in raw_value and not near_unit:
+                priority -= 10
+            priority -= abs(offset) * 2
+            priority -= match.start() // 10
+            candidate = (
+                priority,
+                abs(offset),
+                number,
+                context,
+                raw_value,
+                near_unit,
+            )
+            if best_candidate is None or candidate > best_candidate:
+                best_candidate = candidate
+                best_value = value
+                best_context = context
+                best_unit_present = unit_present
+                best_distance = abs(offset)
+        if best_candidate is None:
             continue
-        cleaned = raw_value.replace(",", "").replace(" ", "")
-        try:
-            number = float(cleaned)
-        except ValueError:
-            continue
-        explicit_unit = match.group(2)
-        context = f"{lines[base_index]} {line}"
-        unit = _infer_unit(context, explicit_unit)
-        factor = {
-            "kg": 1,
-            "t": 1_000,
-            "kt": 1_000_000,
-            "mt": 1_000_000_000,
-        }.get(unit, 1_000)
-        value = int(round(number * factor))
-        if value <= 0:
-            continue
-        unit_tokens = ("tco", "tonne", "ton ", "co2", "ghg", "kt", "mt")
-        unit_present = bool(explicit_unit) or any(
-            token in context.lower() for token in unit_tokens
-        )
-        return value, context, abs(offset), unit_present
+        return best_value, best_context, best_distance, best_unit_present
     return None, None, len(search_order), False
+
+
+def _adjust_value_from_context(
+    raw_value: Optional[int], context: Optional[str]
+) -> Optional[int]:
+    if raw_value is None or raw_value <= 0 or not context:
+        return raw_value
+    match = _VALUE_RE.search(context)
+    if not match:
+        return raw_value
+    raw_number = match.group(1)
+    if not raw_number:
+        return raw_value
+    cleaned = raw_number.replace(",", "").replace(" ", "")
+    try:
+        numeric = float(cleaned)
+    except ValueError:
+        return raw_value
+    explicit_unit = match.group(2)
+    unit = _infer_unit(context, explicit_unit)
+    factor = {
+        "kg": 1,
+        "t": 1_000,
+        "kt": 1_000_000,
+        "mt": 1_000_000_000,
+    }.get(unit, 1_000)
+    expected = int(round(numeric * factor))
+    if expected <= 0:
+        return raw_value
+    if raw_value == expected:
+        return raw_value
+    if raw_value == 0:
+        return expected
+    ratio = expected / raw_value if raw_value else None
+    if ratio is not None and ratio >= 10:
+        return expected
+    difference = abs(expected - raw_value)
+    if difference <= max(1000, expected * 0.01):
+        return expected
+    return raw_value
 
 
 def _detect_scope2_method(context: Optional[str]) -> Optional[str]:
@@ -273,8 +349,9 @@ def parse_data_local(client: OpenAI, snippet_text: str) -> Optional[ParsedResult
         "- Include brief qualifiers (e.g., market vs location, boundary) if present.\n"
         "- If you can identify the Scope 2 reporting method (market or location), include scope_2_method.\n"
         "- Only provide a scope value when the snippet explicitly states a greenhouse gas figure with a unit "
-        "(e.g., \"tCO2e\", \"tonnes CO2e\", \"kt CO2e\"); otherwise set the value to null.\n"
+        '(e.g., "tCO2e", "tonnes CO2e", "kt CO2e"); otherwise set the value to null.\n'
         "- Provide the sentence or short excerpt that justifies each scope value (scope_1_context, scope_2_context, scope_3_context).\n"
+        "- Copy the supporting text verbatim from the snippet; do not paraphrase or summarise it.\n"
         "- Return a numeric confidence from 0.0 to 1.0 that reflects how likely these values are correct given the snippet.\n"
         "Return only JSON with keys: scope_1, scope_1_context, scope_2, scope_2_context, scope_3, scope_3_context, qualifiers, scope_2_method, confidence."
     )
@@ -323,7 +400,7 @@ def parse_data_llama(llm: Any, snippet_text: str) -> Optional[ParsedResult]:
         "Set any missing values to null. Capture qualifiers (e.g., boundary or method) if present. "
         "If you can detect the Scope 2 reporting method (market or location), include it. "
         "Only provide a scope value when the snippet explicitly states a greenhouse gas figure with a unit "
-        "(e.g., \"tCO2e\", \"tonnes CO2e\", \"kt CO2e\"); otherwise set the value to null. "
+        '(e.g., "tCO2e", "tonnes CO2e", "kt CO2e"); otherwise set the value to null. '
         "For each scope value, include the sentence or short excerpt that supports it (scope_1_context, scope_2_context, scope_3_context). "
         "Return a JSON object with keys: scope_1, scope_1_context, scope_2, scope_2_context, scope_3, scope_3_context, qualifiers, scope_2_method, confidence "
         "(confidence should be between 0.0 and 1.0).\n\n"
@@ -379,8 +456,9 @@ def parse_data_filesearch(
         "Include qualifiers if method (market vs location) or boundary is specified. If a field is not present, set null. "
         "If you can identify the Scope 2 reporting method (market or location), include scope_2_method. "
         "Only provide a scope value when the retrieved text explicitly states a greenhouse gas figure with a unit "
-        "(e.g., \"tCO2e\", \"tonnes CO2e\", \"kt CO2e\"); otherwise set the value to null. "
+        '(e.g., "tCO2e", "tonnes CO2e", "kt CO2e"); otherwise set the value to null. '
         "Provide the sentence or short excerpt that supports each scope value (scope_1_context, scope_2_context, scope_3_context). "
+        "Copy the supporting text verbatim from the retrieved content; do not paraphrase or summarise it. "
         "Also return a numeric confidence from 0.0 to 1.0.\n"
         "Return only JSON with keys: scope_1, scope_1_context, scope_2, scope_2_context, scope_3, scope_3_context, qualifiers, scope_2_method, confidence."
     )
@@ -420,33 +498,42 @@ def update_company_emissions(
     if parsed.scope_1 <= 0 or parsed.scope_2 <= 0:
         return False
 
+    scope1_value = _adjust_value_from_context(parsed.scope_1, parsed.scope_1_context)
+    scope2_value = _adjust_value_from_context(parsed.scope_2, parsed.scope_2_context)
+    scope3_value = _adjust_value_from_context(parsed.scope_3, parsed.scope_3_context)
+
+    if scope1_value is None or scope2_value is None:
+        return False
+
     # Scope 1
     existing_scope1_context = (
         company.emissions.scope_1.context if company.emissions.scope_1 else None
     )
     company.emissions.scope_1 = ScopeValue(
-        value=int(parsed.scope_1),
+        value=int(scope1_value),
         confidence=parsed.confidence,
-        context=(parsed.scope_1_context or existing_scope1_context or "").strip() or None,
+        context=(parsed.scope_1_context or existing_scope1_context or "").strip()
+        or None,
     )
 
     # Scope 2
     existing_method = (
         company.emissions.scope_2.method if company.emissions.scope_2 else None
     )
-    method = parsed.scope_2_method or existing_method
+    scope2_method = parsed.scope_2_method or existing_method
     existing_scope2_context = (
         company.emissions.scope_2.context if company.emissions.scope_2 else None
     )
     company.emissions.scope_2 = Scope2Emissions(
-        value=int(parsed.scope_2),
-        method=method,
+        value=int(scope2_value),
+        method=scope2_method,
         confidence=parsed.confidence,
-        context=(parsed.scope_2_context or existing_scope2_context or "").strip() or None,
+        context=(parsed.scope_2_context or existing_scope2_context or "").strip()
+        or None,
     )
 
     # Scope 3
-    if parsed.scope_3 is not None and parsed.scope_3 > 0:
+    if scope3_value is not None and scope3_value > 0:
         qualifiers = parsed.qualifiers or (
             company.emissions.scope_3.qualifiers if company.emissions.scope_3 else None
         )
@@ -454,7 +541,7 @@ def update_company_emissions(
             company.emissions.scope_3.context if company.emissions.scope_3 else None
         )
         company.emissions.scope_3 = Scope3Emissions(
-            value=int(parsed.scope_3),
+            value=int(scope3_value),
             qualifiers=qualifiers.strip() if qualifiers else None,
             confidence=parsed.confidence,
             context=(parsed.scope_3_context or existing_scope3_context or "").strip()
@@ -465,14 +552,28 @@ def update_company_emissions(
 
     snippet_path_str = str(snippet_path) if snippet_path else None
     page_numbers = [int(page) for page in snippet_pages if isinstance(page, int)]
-    timestamp = datetime.utcnow().isoformat(timespec="seconds") + "Z"
     company.analysis_record = AnalysisRecord(
         method=method,
         snippet_label=snippet_label,
         snippet_path=snippet_path_str,
         snippet_pages=page_numbers,
         confidence=float(parsed.confidence or 0.0),
-        analysed_at=timestamp,
     )
+
+    if (
+        page_numbers
+        and company.download_record
+        and company.download_record.pdf_path
+    ):
+        pdf_path = Path(company.download_record.pdf_path)
+        ensure_page_previews(pdf_path, page_numbers)
+
+    if hasattr(company, "verification") and company.verification is not None:
+        company.verification.status = "pending"
+        company.verification.verified_at = None
+        company.verification.scope_1_override = None
+        company.verification.scope_2_override = None
+        company.verification.scope_3_override = None
+        company.verification.notes = None
 
     return True

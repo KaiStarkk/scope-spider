@@ -24,10 +24,6 @@ class AnalysisRecord(BaseModel):
         le=1.0,
         description="Confidence score (0-1) reported by the analysis method.",
     )
-    analysed_at: Optional[str] = Field(
-        default=None,
-        description="ISO 8601 timestamp (UTC) when the analysis was recorded.",
-    )
 
 
 __all__ = ["AnalysisRecord"]

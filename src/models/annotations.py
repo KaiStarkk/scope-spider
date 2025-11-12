@@ -55,6 +55,34 @@ class Annotations(BaseModel):
     profitability_total_assets_mm_aud: Optional[float] = Field(
         default=None, description="Total assets in AUD millions."
     )
+    size_employee_count: Optional[int] = Field(
+        default=None, description="Employee headcount from external dataset."
+    )
+    reporting_group: Optional[str] = Field(
+        default=None,
+        description="Regulatory reporting group (Group 1, Group 2, Group 3, or None).",
+    )
+    rbics_sector: Optional[str] = Field(
+        default=None, description="Primary FactSet RBICS sector classification."
+    )
+    rbics_sub_sector: Optional[str] = Field(
+        default=None, description="Primary FactSet RBICS sub-sector classification."
+    )
+    rbics_industry_group: Optional[str] = Field(
+        default=None, description="Primary FactSet RBICS industry group."
+    )
+    rbics_industry: Optional[str] = Field(
+        default=None, description="Primary FactSet RBICS industry."
+    )
+    company_country: Optional[str] = Field(
+        default=None, description="Company country from the external dataset."
+    )
+    company_region: Optional[str] = Field(
+        default=None, description="Company region from the external dataset."
+    )
+    company_state: Optional[str] = Field(
+        default=None, description="Company state from the external dataset."
+    )
 
     @model_validator(mode="before")
     @classmethod

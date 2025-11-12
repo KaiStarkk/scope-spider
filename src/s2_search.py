@@ -1,10 +1,13 @@
+import io
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from contextlib import redirect_stdout
 from pathlib import Path
 from typing import Literal, Optional
 
 from openai import OpenAI
-from src.models import DownloadRecord, SearchRecord
+from src.models import Company, DownloadRecord, SearchRecord
 from src.utils.companies import dump_companies, load_companies
 from src.utils.documents import classify_document_type, infer_year_from_text
 from src.utils.query import derive_filename
@@ -17,6 +20,39 @@ from src.utils.search_workflow import (
 from src.utils.downloads import find_existing_download
 
 DEFAULT_DOWNLOAD_DIR = Path("downloads")
+
+
+def _auto_search_task(
+    company_payload: dict,
+    index: int,
+    total: int,
+    debug: bool,
+) -> tuple[dict, list[str], bool, Optional[dict], Optional[str]]:
+    company = Company.model_validate(company_payload)
+    buffer = io.StringIO()
+    client = OpenAI()
+    with redirect_stdout(buffer):
+        (
+            accepted,
+            _,
+            _,
+            record,
+            review_reason,
+        ) = process_company(
+            client=client,
+            company=company,
+            auto_mode=True,
+            debug=debug,
+        )
+    log_lines = []
+    prefix = f"[AUTO {index}/{total}] "
+    for line in buffer.getvalue().splitlines():
+        if line.strip():
+            log_lines.append(prefix + line)
+    record_payload = (
+        record.model_dump(mode="json") if record is not None else None
+    )
+    return company.model_dump(mode="json"), log_lines, accepted, record_payload, review_reason
 
 def main():
     args: SearchArgs = parse_search_args(sys.argv)
@@ -84,6 +120,55 @@ def main():
 
     if not pending:
         print("No companies require search.", flush=True)
+        return
+
+    if args.mode == "auto" and args.jobs > 1:
+        total = len(pending)
+        max_workers = min(args.jobs, total)
+        print(
+            f"Running auto search with {max_workers} parallel workers (total={total}).",
+            flush=True,
+        )
+        review_queue: list[tuple[int, str]] = []
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            future_map = {
+                executor.submit(
+                    _auto_search_task,
+                    company.model_dump(mode="json"),
+                    idx,
+                    total,
+                    args.debug,
+                ): (idx, company)
+                for idx, company in enumerate(pending, start=1)
+            }
+            for future in as_completed(future_map):
+                idx, company = future_map[future]
+                try:
+                    (
+                        _,
+                        log_lines,
+                        accepted,
+                        record_payload,
+                        review_reason,
+                    ) = future.result()
+                except Exception as exc:  # pragma: no cover - safety net
+                    ident = company.identity
+                    print(
+                        f"ERROR: parallel search failed for {ident.name} ({ident.ticker}): {exc}",
+                        flush=True,
+                    )
+                    continue
+                for line in log_lines:
+                    print(line, flush=True)
+                if review_reason:
+                    review_queue.append((idx, review_reason))
+                if accepted and record_payload:
+                    company.search_record = SearchRecord.model_validate(record_payload)
+                    dump_companies(companies_path, payload, companies)
+        if review_queue:
+            print("\nReview queue:", flush=True)
+            for entry_idx, item in sorted(review_queue):
+                print(f"  - [{entry_idx}] {item}", flush=True)
         return
 
     client = OpenAI()

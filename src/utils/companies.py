@@ -30,3 +30,11 @@ def dump_companies(
         handle.write(serialized)
         handle.flush()
         os.fsync(handle.fileno())
+
+
+def safe_write_text(path: Path, content: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as handle:
+        handle.write(content)
+        handle.flush()
+        os.fsync(handle.fileno())

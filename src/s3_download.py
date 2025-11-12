@@ -1,4 +1,5 @@
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import List, Tuple
 
@@ -18,22 +19,40 @@ from src.utils.status import needs_download
 DEFAULT_DOWNLOAD_DIR = Path("downloads")
 
 
-def main():
-    if len(sys.argv) < 2:
-        sys.exit("Usage: s3_download.py <companies.json> [--all] [--dir downloads]")
-    companies_path = Path(sys.argv[1])
-    extra_args = sys.argv[2:]
+def parse_args(argv: List[str]) -> Tuple[Path, Path, bool, bool, bool, int]:
+    if len(argv) < 2:
+        raise SystemExit(
+            "Usage: s3_download.py <companies.json> [--all] [--dir downloads] [--clean] [--debug] [--jobs N]"
+        )
+    companies_path = Path(argv[1])
+    extra_args = argv[2:]
     all_items = "--all" in extra_args
     clean_records = "--clean" in extra_args
     debug = "--debug" in extra_args
+    jobs = 1
+    if "--jobs" in extra_args:
+        idx_jobs = extra_args.index("--jobs")
+        try:
+            jobs = int(extra_args[idx_jobs + 1])
+        except (IndexError, ValueError):
+            raise SystemExit("Error: --jobs flag requires an integer value")
+        if jobs < 1:
+            raise SystemExit("Error: --jobs must be >= 1")
     if "--dir" in extra_args:
         idx = extra_args.index("--dir")
         try:
             download_dir = Path(extra_args[idx + 1])
         except IndexError:
-            sys.exit("Error: --dir flag requires a path argument")
+            raise SystemExit("Error: --dir flag requires a path argument")
     else:
         download_dir = DEFAULT_DOWNLOAD_DIR
+    return companies_path, download_dir, all_items, clean_records, debug, jobs
+
+
+def main():
+    companies_path, download_dir, all_items, clean_records, debug, jobs = parse_args(
+        sys.argv
+    )
 
     companies, payload = load_companies(companies_path)
 
@@ -143,45 +162,114 @@ def main():
     )
     print(f"Queued {total} download{'s' if total != 1 else ''} ({reason_summary or 'automatic'}).", flush=True)
 
-    for idx, (company, url, out_path) in enumerate(queued, start=1):
-        ticker = company.identity.ticker
-        print(f"DOWNLOADING [{idx}/{total}] {ticker}: {url}", flush=True)
-        try:
-            download_pdf(url, out_path)
-        except DownloadError as exc:
-            message = str(exc)
-            is_not_found = "404" in message or "Not Found" in message
-            company.download_record = None
-            removed_records = True
-            if is_not_found:
-                if clean_records:
-                    company.search_record = None
-                    print(
-                        f"ERROR [{idx}/{total}] {ticker}: download failed with 404; cleared search/download (--clean)",
-                        flush=True,
-                    )
-                else:
-                    print(
-                        f"ERROR [{idx}/{total}] {ticker}: download failed with 404; rerun with --clean to clear search record",
-                        flush=True,
-                    )
-            elif clean_records:
-                company.search_record = None
+    def handle_failure(
+        idx: int,
+        ticker: str,
+        message: str,
+        *,
+        is_not_found: bool,
+        company_ref: Company,
+    ) -> None:
+        nonlocal removed_records
+        company_ref.download_record = None
+        removed_records = True
+        if is_not_found:
+            if clean_records:
+                company_ref.search_record = None
                 print(
-                    f"ERROR [{idx}/{total}] {ticker}: download failed ({message}); cleared search/download (--clean)",
+                    f"ERROR [{idx}/{total}] {ticker}: download failed with 404; cleared search/download (--clean)",
                     flush=True,
                 )
             else:
                 print(
-                    f"ERROR [{idx}/{total}] {ticker}: download failed ({message}); rerun with --clean to clear search record",
+                    f"ERROR [{idx}/{total}] {ticker}: download failed with 404; rerun with --clean to clear search record",
                     flush=True,
                 )
-            dump_companies(companies_path, payload, companies)
-            continue
+        elif clean_records:
+            company_ref.search_record = None
+            print(
+                f"ERROR [{idx}/{total}] {ticker}: download failed ({message}); cleared search/download (--clean)",
+                flush=True,
+            )
+        else:
+            print(
+                f"ERROR [{idx}/{total}] {ticker}: download failed ({message}); rerun with --clean to clear search record",
+                flush=True,
+            )
 
-        company.download_record = DownloadRecord(pdf_path=str(out_path))
-        print(f"DOWNLOADED [{idx}/{total}] {ticker}: {out_path.name}", flush=True)
-        dump_companies(companies_path, payload, companies)
+    if jobs == 1 or total == 1:
+        for idx, (company, url, out_path) in enumerate(queued, start=1):
+            ticker = company.identity.ticker
+            print(f"DOWNLOADING [{idx}/{total}] {ticker}: {url}", flush=True)
+            try:
+                download_pdf(url, out_path)
+            except DownloadError as exc:
+                message = str(exc)
+                is_not_found = "404" in message or "Not Found" in message
+                handle_failure(
+                    idx,
+                    ticker,
+                    message,
+                    is_not_found=is_not_found,
+                    company_ref=company,
+                )
+                dump_companies(companies_path, payload, companies)
+                continue
+
+            company.download_record = DownloadRecord(pdf_path=str(out_path))
+            print(f"DOWNLOADED [{idx}/{total}] {ticker}: {out_path.name}", flush=True)
+            dump_companies(companies_path, payload, companies)
+    else:
+        max_workers = min(jobs, total)
+        out_path_map: dict[int, Path] = {}
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            future_map = {}
+            for idx, (company, url, out_path) in enumerate(queued, start=1):
+                ticker = company.identity.ticker
+                print(f"QUEUED [{idx}/{total}] {ticker}: {url}", flush=True)
+
+                def task(u: str, dest: Path):
+                    download_pdf(u, dest)
+
+                future = executor.submit(task, url, out_path)
+                future_map[future] = (idx, company, url, out_path)
+                out_path_map[idx] = out_path
+
+            for future in as_completed(future_map):
+                idx, company, url, out_path = future_map[future]
+                ticker = company.identity.ticker
+                try:
+                    future.result()
+                except DownloadError as exc:
+                    message = str(exc)
+                    is_not_found = "404" in message or "Not Found" in message
+                    handle_failure(
+                        idx,
+                        ticker,
+                        message,
+                        is_not_found=is_not_found,
+                        company_ref=company,
+                    )
+                    dump_companies(companies_path, payload, companies)
+                    continue
+                except Exception as exc:  # pragma: no cover - safety net
+                    message = str(exc)
+                    handle_failure(
+                        idx,
+                        ticker,
+                        message,
+                        is_not_found=False,
+                        company_ref=company,
+                    )
+                    dump_companies(companies_path, payload, companies)
+                    continue
+
+                company.download_record = DownloadRecord(pdf_path=str(out_path))
+                print(
+                    f"DOWNLOADED [{idx}/{total}] {ticker}: {out_path.name}",
+                    flush=True,
+                )
+                dump_companies(companies_path, payload, companies)
 
     if sanitised_urls or removed_records:
         dump_companies(companies_path, payload, companies)
