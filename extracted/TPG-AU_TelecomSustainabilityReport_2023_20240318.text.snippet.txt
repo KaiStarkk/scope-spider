@@ -1,0 +1,344 @@
+=== Page 3 ===
+Message from the CEO
+I am pleased to share our 2023 
+Sustainability Report and provide 
+an update on the progress we have 
+made on behalf of our people, 
+customers, shareholders, and the 
+communities we serve.
+Customer wellbeing 
+The protection and service of our 
+customers remain important 
+components of our Sustainability 
+Strategy.
+In 2023, we continued to build on 
+our defences against cyber security 
+threats through significant 
+investments in our systems and 
+controls. These expanded security 
+capabilities, transformed IT 
+architecture, and standardised 
+policies have been built to better 
+protect customers from harmful 
+scams and fraud.
+Through cross-industry 
+collaboration, we actively engaged 
+in initiatives to protect customers 
+and explore new intelligence 
+sharing partnerships.
+We have also formalised our 
+Customer Wellbeing Strategy, 
+driving further focus on how we can 
+best support customers who face 
+vulnerable circumstances.
+Environmental responsibility 
+Having set our greenhouse gas 
+emissions reduction targets at the 
+end of 2022, we were proud to 
+become the first telco in Australia to 
+have its net-zero target validated by 
+the Science Based Target initiative 
+in 2023. Our short-term and long-
+term targets were also validated, 
+and classified as in line with a 
+1.5°C trajectory, aimed at limiting 
+global warming to 1.5°C.
+We remain committed to 
+powering our operations with 
+100 per cent renewable electricity 
+from 2025, which will put us in 
+a strong position to achieve our 
+scope 1 and 2 targets, and we have also begun working with 
+our partners and suppliers on 
+our scope 3 targets. 
+In 2023 we launched our Supplier 
+Engagement Program, marking a 
+critical step towards embedding 
+our sustainability commitments 
+throughout our supply chain. This 
+program focuses on key areas 
+where our suppliers can make a 
+meaningful impact, including 
+Energy & Emissions, Human Rights 
+& Modern Slavery, Nature & 
+Biodiversity, and Waste & the 
+Circular Economy. 
+Inclusion and belonging
+At TPG Telecom, diversity and 
+inclusion are integral to our vision 
+for the future. We have made 
+positive progress against our 
+gender diversity targets and we 
+continued to drive gender pay 
+equity for equivalent roles.
+As we finalise our Innovate 
+Reconciliation Action Plan, we are 
+excited to have received conditional 
+endorsement from Reconciliation 
+Australia. We look forward to its 
+launch in 2024, continuing our 
+dedication to advancing 
+reconciliation efforts.
+In 2023, we also established a 
+new Employee Resource Group, 
+DNA (Disability Network Alliance), 
+a dedicated group of employees 
+passionate about accessibility in all 
+its forms, either as people with lived 
+experience of disability or as allies.
+Together, these efforts reaffirm our 
+commitment to building a future 
+where diversity is celebrated, 
+reconciliation is not just a goal, 
+but a lived reality, and accessibility 
+is woven into the fabric of our 
+organisation.
+Digital economy
+In 2023, TPG Telecom continued to 
+extend the social and economic 
+benefits of connectivity to more communities as we achieved 
+significant milestones in our 5G 
+rollout and continued to deliver 
+essential broadband services to 
+millions of Australians. Our 5G 
+mobile network now has more than 
+3,000 enabled sites across the 
+nation, covering more than 98 per 
+cent of the population in 12 of 
+Australia’s major cities and centres.
+Our community investment efforts 
+have seen continued growth. With 
+increased funding allocated to the 
+TPG Telecom Foundation in 2023, 
+we strengthened our impact 
+through strategic grants and 
+donations totalling over $1.3 
+million. The success of our Skilled 
+Volunteering Program pilot inspired 
+us to expand our efforts, leveraging 
+the skills and expertise of our 
+teams to support charitable causes.
+Looking ahead
+As we reflect on the 
+accomplishments of the past year, 
+we enter 2024 energised and 
+committed to our Sustainability 
+Strategy. We also recognise the 
+continuing need for ongoing 
+adaptation to emerging challenges.
+I would like to thank our dedicated 
+team at TPG Telecom, whose 
+commitment continues to make 
+positive progress on our 
+sustainability commitments. I also 
+thank our valued customers and 
+shareholders for their continued 
+support and partnership as we 
+navigate the journey ahead.
+Iñaki Berroeta
+Chief Executive Officer and 
+Managing Director, TPG Telecom
+Page 3 |  TPG Telecom Sustainability Report 2023
+
+=== Page 17 ===
+In 2023, we continued to build new mobile black spot 
+sites and upgrade existing sites, including in disaster-
+prone areas. This enhances connectivity for our 
+customers and improves resilience to our network 
+in times of emergency.
+Carbon footprint reduction
+As an operator and provider of critical communication 
+services, we recognise the importance of supporting 
+Australia’s net zero commitment and finding new and 
+better ways to reduce the carbon footprint of our 
+networks and supply chains.
+This is why we have committed to:
+• Developing a strategy and implementation plan 
+to support achievement of science-based 
+emissions reduction targets.
+• Powering our Australian operations with 
+100 per cent renewable electricity by 2025.
+Energy and emissions reporting
+In 2022, we mapped the carbon footprint of our 
+operations and value chain for the first time, 
+establishing our 2021 GHG emissions baseline, used 
+in setting our emissions reduction targets. TPG 
+Telecom has now completed a full carbon footprint 
+assessment for both the 2022 and 2023 years, 
+allowing us for the first time to track trends in our 
+data.
+Energy consumed (TJ) and GHG emissions 
+(ktCO 2-e)
+Category 2021 2022 2023
+Energy consumed 1,237 1,291 1,342
+Scope 1 emissions 4.8 2.8 2.8
+Scope 2 emissions 
+(market-based)224.4 224.8 226.0
+Scope 1 and 2 emissions 
+(market-based)229.2 227.6 228.8
+Scope 3 emissions 1,327.9 1,473.8 1,235.2
+In 2023, energy reductions occurred in our fixed 
+networks, corporate offices and retail footprint due 
+to site consolidation and a reduction in locations. At 
+the same time, the energy consumed by our mobile 
+network increased as customers used more data, 
+particularly on our 5G network.
+Despite the increase in energy consumed, the 
+associated scope 1 and 2 emissions remained 
+largely flat, due to a reduction in the underlying 
+emissions factors.
+Reductions in our scope 3 emissions footprint 
+were due, in large part, to reduced emissions 
+from key suppliers. Emissions reduction targets validation
+Our emissions reduction targets, set at the end of 
+2022, were formally validated by the Science Based 
+Target initiative in late October 2023. At the time of 
+validation, we became the fourth company in the 
+Oceania region and the first telco in Australia to 
+have our long-term and net zero targets validated. 
+Our targets
+Overall Net-Zero Target 
+We commit to reach
+net-zero
+GHG emissions across our value chain by 2050. 
+Near-Term Targets 
+We commit to reduce 
+absolute scope 1 and 2 
+GHG emissions
+95%
+by 2030, from a 2021 
+base year.We also commit to 
+reduce absolute scope 3 
+GHG emissions 
+30%
+by 2030, from a 2021 
+base year. 
+(from purchased goods 
+and services, fuel- and 
+energy-related activities, 
+upstream leased assets, 
+and use of sold products)
+Long-Term Targets
+We commit to 
+maintaining at least
+95%
+absolute scope 1 and 2 
+GHG emissions 
+reductions from 2030 
+through 2050, from a 
+2021 base year.We commit to reduce 
+absolute scope 3 GHG 
+emissions
+90%
+by 2050, from a 2021 
+base year.
+(from purchased goods 
+and services, fuel- and 
+energy-related activities, 
+upstream leased assets, 
+and use of sold products)
+Supporting our commitment to the Business Ambition 
+for 1.5°C  campaign, the SBTi classified our targets 
+as aligned with the 1.5°C trajectory. This is the 
+trajectory to limit global temperature increases to 
+1.5 degrees Celsius, required to avoid the worst 
+effects of climate change.
+These targets are absolute reductions and will not 
+be achieved through the purchase of carbon offsets. 
+They require a genuine reduction in the amount of 
+emissions released into the atmosphere. Environmental responsibility  continued 
+Page 17 |  TPG Telecom Sustainability Report 2023
+
+=== Page 18 ===
+In just two years, we have significantly advanced our 
+understanding of emissions across our operations 
+and value chain. This provides us with the information 
+required to drive impact where it matters most. This 
+is the result of significant effort across the business 
+and shows a clear commitment by TPG Telecom to 
+support the ambitions of a net-zero future.
+Roadmap to achievement
+Underpinning our science-based targets are a set 
+of emission reduction pathways which guide 
+their achievement.
+We expect to achieve our scope 1 and 2 emissions 
+reduction targets through our renewable electricity 
+commitment. Powering our Australian operations 
+with 100 per cent renewable electricity will reduce 
+associated emissions to zero. As these emissions 
+account for the vast majority of our scope 1 and 2 
+emissions footprint, maintaining our renewables 
+commitment should allow us to meet or exceed 
+our target of a 95 per cent reduction from our 
+2021 baseline. 
+Comprising approximately 84 per cent of our carbon 
+footprint, scope 3 emissions are the most significant 
+part of our emissions profile. Through the mapping 
+of these emissions, we identified that the majority 
+(approximately 95 per cent) are concentrated in 
+two areas: 
+•Emissions from our suppliers in the manufacture 
+and delivery of goods and services we procure. 
+These include the building and maintaining of our 
+mobile and fixed networks, as well as devices we 
+sell to our customers.
+•Emissions from our customers using the products 
+and services we provide.
+Recognising the influence and impact our suppliers 
+have in both of these areas, we aim to leverage our 
+relationships to reduce the emissions of our 
+customers and suppliers. We plan to achieve this 
+by working with our suppliers to set and achieve 
+their own emissions reduction targets.
+Supplier Engagement Program
+Collaboration and support from our suppliers is an 
+important aspect of our Sustainability Strategy and 
+in achieving our goals. This year, we launched our 
+Supplier Engagement Program, focusing on 
+embedding our sustainability commitments 
+throughout our supply chain. 
+The program addresses key areas where our 
+suppliers can make the greatest impact, including: 
+Energy & Emissions, Human Rights & Modern 
+Slavery, Nature & Biodiversity and Waste & the 
+Circular Economy.The first stage of the program, our pilot ‘net-zero 
+initiative’, is focused on our emissions reduction 
+targets and aims to:
+•Raise awareness with our suppliers by providing 
+an overview of our emissions reduction targets.
+•Understand the level of maturity across our 
+supply chain regarding their emissions footprints 
+and reduction strategies.
+•Collaborate with key suppliers to set and achieve 
+emissions reduction targets. 
+In 2023, we developed a net-zero survey, which was 
+issued to our top 150 suppliers to raise awareness of 
+our commitments and gather information on their 
+maturity regarding emissions and  reduction targets. 
+Responses will guide engagement efforts with key 
+suppliers to drive the setting and achievement of 
+supplier emission reduction targets. 
+Maintaining strong engagement with suppliers is 
+critical for TPG Telecom to meet its science-based 
+targets. This helps identify and monitor activities we 
+can influence and whether performance towards 
+meeting these targets is on-track. 
+Renewable energy commitment
+We remain committed to powering our Australian 
+operations with 100 per cent renewable electricity 
+from 2025 onward. Our Renewable Energy 
+Procurement Strategy has been designed to drive 
+our go-to-market approach in meeting this target. It is 
+focused on long-term Power Purchase Agreements 
+and Large-scale Generation Certificates, aligned with 
+our Energy Management Policy and dependant on 
+availability and cost considerations. 
+During 2023 we began to execute on our strategy and 
+developed a formal request for tender for renewable 
+energy providers to fulfill our requirements. The 
+responses, expected in the first half of 2024, will be 
+used to determine our next steps in the process. 
+We will also continue to investigate other renewable 
+energy opportunities available to us, including 
+increasing our on-site solar capacity where feasible. Environmental responsibility  continued 
+Page 18 |  TPG Telecom Sustainability Report 2023

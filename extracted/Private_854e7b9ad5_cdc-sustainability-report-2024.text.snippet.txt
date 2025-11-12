@@ -1,0 +1,415 @@
+=== Page 5 ===
+CDC’s inaugural Sustainability Report 
+marks an important milestone in our 
+history as a mission-critical data  
+centre provider. 
+I founded the organisation in Canberra 
+in 2007, during the Millennium Drought, 
+with a vision to provide purpose-built 
+data and digital infrastructure for the 
+most important entities that underpin 
+Australia’s security, social and economic 
+wellbeing. Faced with ongoing water 
+scarcity and wary of compounding 
+this environmental strain, I adopted a 
+‘clean and green’ ethos from day one, 
+which included world-leading water 
+conservation practices as a core part of 
+the early vision for the company.
+The trust of our customers in the years 
+since has enabled our organisation to 
+work hard to grow from a small data 
+centre provider with an ambitious 
+mission, to become a critical 
+infrastructure provider for organisations 
+across Australia and New Zealand, 
+committed to deliberate and thoughtful 
+approaches to identifying, tackling 
+and reporting on a wide range of ESG 
+themes. 
+This journey fills us with great pride and 
+inspires us for the future. 
+We know that as our business has 
+grown, so have the expectations of 
+our stakeholders. We also know that 
+in the broader community, the debate 
+continues on a wide range of policy 
+options and approaches and public 
+discourse is not settled on a single path 
+for Australia’s energy transition.
+CDC plays a critical role in supporting 
+operations, systems and services 
+required for national progress. Our large-
+scale and highly secure infrastructure 
+supports customers across industries 
+which keep the world and our society 
+functioning and thriving, accelerating 
+economic growth and enabling scientific 
+research and innovation. 
+In that regard, our business is at the 
+centre of 21st century industry and 
+innovation, powering and enabling critical 
+services, from aviation and banking to It is exciting to see the progression 
+of CDC's ESG journey through clear 
+documentation of its sustainable action, 
+innovative solutions and transparent 
+reporting.
+This report highlights the company's 
+achievements, cementing CDC's 
+standing as a progressive organisation 
+committed to driving positive change 
+across the sector and the communities in 
+which it operates. 
+In particular, the board welcomes the 
+following milestones:
+• Launching our 2030 ESG Strategy, 
+which sets our targets for net zero 
+carbon by 2030 for Scope 1, 2 and 
+defined Scope 32 
+• Installing ~90 kW of solar panels at 
+our Eastern Creek campus
+• Producing our first Indigenous 
+Participation Plan3 
+• The certification of Toitū enviromark 
+diamond for our New Zealand Data 
+Centres4 
+This report offers information for 
+our investors, customers and the 
+communities in which we operate on how 
+we are actively managing the threats and 
+opportunities inherent to ESG issues. 
+Strengthening resilience to climate and 
+social-related risk is imperative for our 
+industry and this report represents the 
+significant work we are undertaking to 
+safeguard our financial future against 
+these risks.
+Transparency and responsibility are 
+long-standing pillars of the organisation 
+and the publication of our ESG targets 
+and goals demonstrates CDC's ongoing 
+commitment to accountability. Welcome from Board Chair Welcome from CEOIntroduction
+social welfare, communications and 
+emergency forecasting, which help 
+futureproof Australia’s and New Zealand’s 
+continued progress.
+CDC is a security-focused organisation 
+with its facilities achieving some of the 
+highest protective security standards. 
+We know our customers can trust their 
+data is secure with CDC, now and in the 
+future. 
+Data centres aggregate the energy 
+demand required to power customer 
+critical systems. They do so while 
+being optimised for power efficiency, 
+thus contributing to grid power savings 
+when compared to on-premises energy 
+consumption. At the same time, the data 
+centres help provide stability in the grid 
+due to their constant load. 
+As technology continues to evolve 
+and underpin more of everyday life, 
+the demand for data centre services is 
+expected to increase in the decades to 
+come. As such, we are very mindful of 
+our role as an individual organisation and 
+as a leader in the digital infrastructure 
+sector as we embark on the journey 
+ahead.
+This Sustainability Report outlines our 
+three ESG pillars: Stable planet, Thriving 
+people and Trusted company – and 
+explains the action we are taking across 
+each one to make a difference. 
+It is not only a story of a job well done. 
+It is the start of an ongoing evolution. 
+We will celebrate our successes and 
+progress while remaining ambitious and 
+realistic about the work still ahead. 
+I look forward to continuing to update 
+you on our progress in the years to 
+come. 
+Regards,Explaining our approach to ESG 
+matters encourages all stakeholders to 
+understand the business's position and 
+how we aim to improve in certain areas. 
+We hope that this will ultimately enable 
+CDC to attract long-term capital from 
+like-minded investors who are aligned 
+with the national interest and care about 
+sustainability the way we do. 
+This enables us to move from strength to 
+strength and steadily grow our portfolio 
+with those who align with our values 
+over the coming years.
+On behalf of the board, I sincerely 
+congratulate the team at CDC, its 
+external partners and their suppliers 
+for their important role in driving a 
+positive change across the industry. The 
+incredible dedication, hard work and 
+effort are truly appreciated.
+The board is excited to continue to 
+support the CDC team to provide 
+industry leadership and deliver on their 
+commitments, targets and Sustainability 
+Reporting. 
+Regards, 
+Greg Boorer  
+Chief Executive OfficerBrett Chenoweth  
+Board Chair
+Note: All references on this page are detailed in the Notes section at the end of the report.
+9 8
+Sustainability Report 2024
+CDC Progress. Secured.Introduction OverviewStable 
+planetThriving 
+peopleTrusted 
+companyMetrics and 
+performanceAppendices
+
+=== Page 11 ===
+This report formally covers the financial 
+reporting period from 1 April 2023 to 
+31 March 2024 (FY24). It also includes 
+data points that are historical and up-
+to-date at the time of publishing, to 
+further contextualise our continuous 
+sustainability progress. It outlines the 
+ESG activities and initiatives completed 
+during this financial year and analyses 
+the performance metrics relevant to 
+stakeholders and investors. The United 
+Nations Sustainable Development 
+Goals (SDGs) and the Global Reporting 
+Initiative (GRI) Standards have helped to 
+guide the analysis and measurement of 
+CDC’s ESG performance.
+We recommend reading the 2024 
+Sustainability Report in conjunction with 
+our ESG Statement of Commitment, 
+annual Modern Slavery Statement, public 
+NGERS data and Workplace Gender 
+Equality Agency report. Together these 
+documents provide a comprehensive 
+overview of CDC’s sustainability 
+approach.About this report 
+Assurance
+KPMG have provided limited assurance 
+over selected sustainability metrics 
+presented in this Sustainability Report, 
+covering Total Scope 1 GHG Emissions, 
+Total Scope 2 GHG Emissions (location-
+based method) and Total Scope 2 GHG 
+Emissions (market-based method). 
+KPMG's limited Assurance Report13 is 
+presented on page 44 (or Appendix 2F) 
+of this Sustainability Report.
+Alignment with global 
+standards 
+CDC has sought to broadly align its 
+approach to sustainability with the 
+following global standards in preparing 
+this report.Scope and boundaries
+This report applies to the entire 
+CDC entity, including Australia and 
+New Zealand businesses. A range of 
+standards, methodologies, assumptions 
+and limitations have been used in 
+reporting the performance data included 
+in this document. 
+Greenhouse  
+Gas Protocol  
+(GHG Protocol)
+Scope 1, 2 and 3 emissions refer to 
+different categories of greenhouse gas 
+(GHG) emissions, which are defined 
+under the Greenhouse Gas Protocol, 
+which companies and organisations need 
+to manage. CDC reports Scope 1 and 2 
+emissions in this report and intends to 
+include defined Scope 3 emissions in the 
+future.
+Direct Indirect Broad IndirectUnited Nations 
+Sustainable Development 
+Goals (SDGs)
+The United Nations Sustainable 
+Development Goals have guided CDC's 
+Sustainability Reporting. The goals 
+provide a blueprint for peace and 
+prosperity for all people and the planet, 
+now and in the future. 
+The Sustainable Development Goals are 
+an urgent call to action for all countries 
+to take part in a global partnership aimed 
+at ending poverty and other deprivations 
+while developing strategies that improve 
+health and education, reduce inequality 
+and spur economic growth – all while 
+tackling climate change and working to 
+preserve the environment.
+Global Reporting Initiative 
+(GRI) 
+The Global Reporting Initiative has 
+influenced this report and its approach 
+to transparency. It has served as an 
+important benchmark when assessing 
+organisational accountability with 
+respect to CDC’s impact on the economy, 
+environment and people.Overview of CDC's scopes of emissions
+Feedback
+We value your feedback on our Sustainability Report. 
+Visit cdc.com/contact or scan the QR code to access 
+our feedback submission page.Emissions include: 
+emergency generators, 
+fleet vehicles, forklifts and 
+refrigerants.Emissions include:  
+electricity purchased from the 
+grid for customer ICT equipment 
+electricity consumption, operational 
+waste, business travel12.Emissions include:  
+electricity purchased from the 
+grid and used to operate CDC's 
+data centre infrastructure.
+Scope 1 Scope 2 Scope 3
+Note: All references on this page are detailed in the Notes section at the end of the report. Note: All references on this page are detailed in the Notes section at the end of the report.
+21 20
+Sustainability Report 2024
+CDC Progress. Secured.
+Introduction OverviewStable 
+planetThriving 
+peopleTrusted 
+companyMetrics and 
+performanceAppendices
+
+=== Page 14 ===
+Our engagement approach Stable planet
+Reducing our environmental impacts and 
+improving sustainability practices is a 
+major focus for our team. This extends 
+from our efficient designs and the 
+provision of 100% renewable electricity14, 
+to using reduced embodied carbon 
+and certified sustainable materials in 
+construction and seeking to minimise 
+operational waste across campuses. 
+We are proud of our industry-leading 
+water conservation practices, particularly 
+our closed-loop chilled water system 
+design. The technology requires almost 
+no operational water consumption 
+for primary cooling from our cooling 
+systems, possibly making CDC one of 
+the most water efficient data centre 
+operators15 in Australia and New Zealand. 
+Looking to work harder and build on this 
+achievement, we have set the ambitious 
+target of net zero carbon by 2030 for 
+Scope 1, 2 and defined Scope 316. 
+CDC’s approach to net zero is to focus 
+on material emissions through energy 
+efficiency improvements, the provision of 
+renewable electricity17 and on-site solar 
+generation. We are addressing embodied 
+carbon in our new data centres through 
+the specification of sustainable certified, recycled content and reduced carbon 
+materials18. We intend to develop a 
+detailed climate transition plan to align 
+with ASSB standards and to address 
+fossil fuels and refrigerants, although 
+these represent a small component of 
+CDC’s emissions. 
+Our New Zealand data centres have 
+been Toitū net carbonzero certified 
+since 2022, whilst in Australia, we have 
+offered our customers 100% renewable 
+electricity19 from 1 January 2024. 
+CDC seeks to undertake best practice 
+for operational waste management to 
+lead us towards achieving our zero waste 
+to landfill by 2030 target20. This includes 
+on-site weighing of waste and multiple 
+waste streams to optimise recycling 
+including paper and cardboard, organic 
+waste, co-mingled recycling, metals, 
+timber, batteries and e-waste.
+When we consider the ‘Stable planet’ 
+pillar, our focus is not just to meet 
+expectations but to exceed them. We 
+are seeking to drive innovation and set 
+a benchmark for our industry colleagues 
+to follow, as the sector shifts towards a 
+lower carbon future. Carbon and energy
+Water
+Waste and circularityCategories Vision statements1. Net Zero by 2030.
+2. World-class data 
+centre water 
+usage efficiency.
+3. Zero waste to  
+landfill by 2030.Who we engage
+Government
+Customers
+Community
+Board and Investors
+Employees
+Supply chain 
+stakeholders
+Industry
+Lenders/FinancersHow we engage
+Forums
+Submissions
+Briefings
+Public events 
+Customer success team
+Community and 
+stakeholder research 
+surveys
+Sport and community 
+sponsorships
+Volunteer leave for 
+employees
+Ongoing training
+Industry group board 
+membership (AIIA)
+Ideas exchange through 
+Australian American 
+Leaders Dialogue (AALD) 
+and Young Australian 
+American Leaders 
+Dialogue (YALD)Focus areas
+Promoting the role of 
+data centres as key 
+national infrastructure
+Enabling a digital nation
+Contributing to the 
+advancement of energy, 
+infrastructure, AI and 
+cyber industries
+Progress against ESG 
+targets
+Maintaining the highest 
+levels of health, safety 
+and environment; 
+security and 
+sustainability
+Strengthening customer 
+experience and 
+community satisfaction
+Fostering a culture 
+of ‘giving back’ and 
+supporting communities 
+to thrive
+Creating a safe work 
+environment
+Advancing diversity and 
+inclusion across our 
+business
+Note: All references on this page are detailed in the Notes section at the end of the report.
+27 26
+Sustainability Report 2024
+CDC Progress. Secured.
+Introduction OverviewStable 
+planetThriving 
+peopleTrusted 
+companyMetrics and 
+performanceAppendices

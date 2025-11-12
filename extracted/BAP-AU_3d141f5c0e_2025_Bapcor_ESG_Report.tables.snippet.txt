@@ -1,0 +1,420 @@
+=== Table 1 (page 4) ===
+,About this Report,FY25 Highlights,"Message from the EC & CEO
+About Us"
+FY25 Highlights,,,
+,Our Governance,,
+,Refreshed ESG,New Code of,Refreshed
+,Strategic Framework,Conduct launched,and updated
+,launched,,our technology
+,,,risk register
+,Our Environment,,
+,Scope 1 and 2,Detailed assessment,Completed over
+,,,
+,emissions –,of upstream Scope 3,350 Packaging
+,,emissions,
+,4% decrease,,Recycling Evaluations
+,from FY24,,(PREPs)
+,,‘Advanced’ APCO,
+,>55%,,
+,,packaging rating,
+,waste diverted,,
+,,maintained,
+,from landfill,,
+,,Our Team Members,
+,Employee,Strategy,
+,engagement score,Roadshows across,
+,52% baseline,29 locations,
+,established,,
+,TRIFR,,
+,8.7,,
+02,,,
+
+=== Table 2 (page 6) ===
+,,PERFORMANCE,TARGETS
+,MEASURE,FY25,"FY26
+FY27"
+,Code of Conduct/,New team,">90%
+>95%"
+,"Anti‑Bribery, Corruption",training released,
+,and Fraud training,,
+,completion rate,,
+Our,,,
+,Cybersecurity/,New team,">90%
+>95%"
+Governance,Privacy training,training released,
+,completion rate,,
+,Scope 1 and 21,Transition,40% reduction by FY30
+,,planning,50% reduction by FY33
+,Fleet emissions2,Transition,↓ 5% YoY
+,,planning,
+Our,,,
+Environment,Waste diversion3,55.3%,">58%
+>60%"
+,TRIFR,8.7,↓ 5% YoY
+,Female team members,29%,"35%
+TBD"
+,,,
+Our Team,Females in senior,27%,"35%
+TBD"
+,leadership,,
+Members,,,
+,Employee,52%,75% by FY30
+,engagement,,
+,DC supply rate,85.6%,">90%
+>92%"
+,% Supplier base,65%,↑ Coverage 5% YoY
+,engaged by spend,,
+Our Supply,,,
+,Third party,Develop,Begin implementing
+Chain,supplier audits,screening,audit program
+,,program,
+,Community,B4SI,Develop social
+,investment,membership,impact program
+,Customer,Customer‑focused,Develop Group wide
+,sentiment,strategy,customer NPS and targets
+Our,,,
+
+=== Table 3 (page 21) ===
+GOAL,KEY INITIATIVES,KEY MEASURES,SDGs
+"Monitor, manage and reduce","y
+Emissions reduction.",Scope 1 and 2: annual,
+,,emissions (tn) and,
+emissions with better data quality,"y
+ASRS disclosure.",,
+,,reduction against FY23,
+and a more complete dataset,,,
+,"y
+Decarbonisation",baseline in‑line with,
+to support reporting and,strategy.,FY30 and FY33 targets.,
+compliance requirements.,,,
+,,Fleet Emissions:,
+,,year‑on‑year reduction,
+Implement our climate strategy,,,
+,,in emissions from,
+for a gradual transition to,,,
+,,fleet compared to,
+a low carbon economy.,,the baseline.,
+Achieve comprehensive,"y
+Waste data",Waste diversion:,
+,reporting.,year‑on‑year increase,
+waste data reporting across all,,,
+,,in percentage of waste,
+sites and implement strategies,,,
+,,diverted from landfill.,
+to manage our waste.,,,
+Collaborate with our global,"y
+Annual APCO",APCO score:,
+,reporting.,maintain or exceed,
+supplier network to ensure,,,
+,,APCO ‘Advanced’,
+Own Brand packaging meets,,,
+,,packaging status.,
+best practice standards.,,,
+
+=== Table 4 (page 22) ===
+Emissions reduction targets,
+,"emissions data for FY25 and previous years,"
+Why emissions reduction targets,
+,refer to Table 2. These changes reflect both
+matter to Bapcor,
+,operational improvements and enhanced data
+Bapcor recognises the growing importance of,quality. Scope 1 emissions are predominantly
+understanding and managing greenhouse gas (GHG),"generated from fuel used in our fleet operations,"
+emissions in response to the impacts of climate,as well as stationary fuel and refrigerant use
+"change. As a business with extensive operational,",across our sites. Scope 2 emissions arise from the
+"transport and supply chain footprints across Australia,",consumption of purchased electricity consumed
+"New Zealand, and Thailand, managing and reducing","across our entire network including our DCs,"
+"emissions is important to controlling operating costs,","warehouses, stores, and office operations."
+"meeting stakeholder expectations, and aligning",
+,"To strengthen our reporting, we continued"
+with emerging regulatory requirements.,
+,"expanding our centralised energy data platform,"
+"In FY25, our focus remained on strengthening the",enabling improved visibility and traceability of
+systems and processes that underpin our emissions,Scope 2 emissions across Australia and New Zealand.
+measurement. High‑quality data is critical to identifying,We also maintain high data quality and accuracy
+"reduction opportunities, supporting investment","in our Scope 1 emissions reporting, supported by"
+"decisions, and tracking progress against our",detailed tracking of fleet fuel use through fuel cards.
+long‑term commitments. While previous years had,This robust data collection underpins our emissions
+"seen increases in Scope 1 and 2 emissions, these",calculations and strengthens the reliability of
+improvements have contributed to a small decrease,our reporting.
+in both compared to FY24. This work also positions,
+,Fleet remains one of the most material contributors
+Bapcor to meet future climate‑related disclosure,
+,"to Bapcor’s operational emissions. During FY25,"
+requirements under the Australian Sustainability,
+,"we completed a detailed review of our fleet profile,"
+"Reporting Standards (ASRS), which will require certain",
+,"including fuel types and vehicle categories, and"
+"companies to report Scope 1, 2 and 3 emissions.",
+,explored scenarios for achieving a lower emissions
+,"fleet. In parallel, emissions associated with warehouse"
+Scope 1 and 2,operations and freight movements were reviewed
+,as part of ongoing site consolidation planning.
+Bapcor has committed to reducing Scope 1 and 2,
+,These assessments are helping to inform how
+"emissions by 40% by FY30 and 50% by FY33, from",
+,operational changes can contribute to reducing
+"an FY23 baseline. In FY25, we focused on improving",
+,emissions over the medium term.
+the accuracy and coverage of our emissions data,
+to support long‑term target delivery.,All Scope 1 and 2 emissions are calculated in line
+,"with best practice methodologies, applying the"
+"Compared to FY24, Scope 1 emissions decreased",
+,National Greenhouse and Energy Reporting (NGER)
+by 7% and Scope 2 emissions (market‑based),
+,Scheme1 requirements and maintaining alignment
+decreased by 4%. For detailed Scope 1 and 2,
+,with the Greenhouse Gas (GHG) Protocol.
+Table 2: GHG emissions (tCO2e),
+
+=== Table 5 (page 22) ===
+Table 2: GHG emissions (tCO2e),,,,
+Emissions scope2,FY23,FY24,FY25,Targets
+Scope 1,"14,250","14,567","13,500",Reduce Scope 1 and 2
+,,,,"emissions by 40% by FY30,"
+Scope 2 (market‑based),"13,811","14,2 85","14,097",from an FY23 baseline
+Scope 2 (location‑based),"14,071","15,318","14,940",Reduce Scope 1 and 2
+,,,,"emissions by 50% by FY33,"
+Scope 1 and 2 (market‑based),"28,061","28,852","27,598",from an FY23 baseline
+
+=== Table 6 (page 22) ===
+1.   https://cer.gov.au/schemes/national‑greenhouse‑and‑energy‑reporting‑scheme.
+2.   Location‑based method: Location‑based emissions estimation methods are based on onsite consumption multiplied by industry
+averages and typically do not reflect a company’s decision to purchase renewable energy or products calculates GHG emissions
+based on the average emissions intensity of grids on which energy consumption occurs.
+Market‑based method: The market‑based method of estimating Scope 2 emissions subtracts eligible renewable energy purchases
+from the total quantity of purchased or acquired electricity that is not considered renewable before applying an emissions factor
+to the residual electricity.
+
+=== Table 7 (page 23) ===
+,Internal work also progressed to formalise data
+Scope 3,
+,"ownership, clarify category boundaries, and establish"
+"In FY25, Bapcor continued building on foundational",repeatable processes for future Scope 3 data
+work to identify and address the most material,collection and reporting.
+sources of Scope 3 emissions across its value chain.,
+"A structured screening was conducted, allowing",
+,Progress through collaboration
+Bapcor to determine priority areas for data collection,
+and process development.,"In FY25, a key development was the collaboration"
+,between our ESG Team and the Fleet and Property
+Three upstream categories were identified as most,
+,"Teams. Leveraging improved Scope 1 and 2 datasets,"
+"relevant for Bapcor: purchased goods and services,",
+,this joint approach has helped pinpoint areas where
+"upstream transport, and waste. For purchased goods",
+,emissions reductions can be achieved and deliver
+"and services, the focus was on understanding the",
+,‘quick win’ opportunities that support progress towards
+"emissions footprint of Bapcor’s spend, supported",
+,our long‑term targets. Work also commenced on
+by the development of a new data management,
+,"expanding emissions tracking, with early steps taken"
+"platform. In upstream transport, Bapcor engaged",
+,towards covering the full Scope 3 upstream footprint
+directly with major freight providers to begin collecting,
+,in line with the GHG Protocol. These efforts included
+primary emissions data and improve transparency.,
+,refining data accuracy and trialling enhanced partner
+Waste was added as a relevant Scope 3 emissions,
+,dashboards to improve visibility and engagement
+category to reflect Bapcor’s ability to influence both,
+,with logistics and supply chain partners. This work
+the volume generated and the methods used for,
+,is essential in preparing for upcoming mandatory
+"disposal, recognising it as an area the organisation",
+,"climate‑related disclosure requirements under ASRS,"
+can actively manage and reduce.,
+,which will require companies to report their material
+,Scope 3 emissions from the second year of reporting.
+
+=== Table 8 (page 23) ===
+Table 3: Scope 3 upstream categories,,
+Category,Relevance,Actions underway
+Purchased goods and services,Highly relevant,Consolidate data based on spend
+Capital goods,Relevant,Consolidate data based on spend
+Fuel – and energy‑related activities,Relevant,Improve on data accuracy by leveraging
+,,energy monitoring platform
+Upstream transportation,Highly relevant,Engage with suppliers to obtain primary data
+and distribution,,
+Waste generated in operations,Highly relevant,Improve data accuracy by leveraging waste
+,,monitoring platform
+Business travel,Relevant,Consolidate data based on travel records
+Employee commuting,Relevant,Estimate based on FTE data
+
+=== Table 9 (page 25) ===
+Risk management,Metrics and targets
+Bapcor manages climate‑related risks through its,Bapcor continues to calculate and monitor our
+"enterprise risk management framework, recognising",Scope 1 and 2 emissions annually. Scope 3 emissions
+that climate impacts can affect the reliability of,"analysis has expanded this year, with deeper screening"
+"our operations, the resilience of our supply chain,",of upstream emissions categories and engagement
+and the expectations of regulators and stakeholders.,with logistics providers – now enabling access to
+These risks are included in the Group’s risk register,emissions dashboards and improved data quality.
+and are subject to oversight by the Board and the,"In FY25, Bapcor also undertook a pre‑assurance"
+Audit and Risk Committee (ARC).,process on selected emissions datasets to support
+,the accuracy and credibility of future reporting.
+"In FY25, we completed an updated climate risk",
+assessment covering both physical and transition,We will continue to improve and refine metrics
+risks. This quantitative climate scenario analysis,and targets to provide transparent and accurate
+assessed our exposure against three scenarios across,disclosures to relevant stakeholders. Our current
+"three timeframes, enhancing our understanding",GHG emissions metrics and targets are included
+of potential future impacts. The physical risk review,in Table 4. For more detailed information on our
+focused on site‑level exposure to extreme weather,"emission metrics and targets, please refer to the"
+"and heat, while the transition risk analysis addressed",section Emissions Reduction Targets.
+"market, technology, and policy shifts, particularly",
+relating to the shift toward low‑ and zero‑emissions,
+"vehicles. In preparation for ASRS disclosures, we are",
+"advancing our climate resilience assessment, which",
+will directly inform our long‑term strategic planning.,
+
+=== Table 10 (page 25) ===
+Table 4: Summary of Bapcor climate‑related metrics and targets,,,
+Scope,Metrics,Targets,Time period
+Scope 1,Scope 1 emissions,Scope 1 and 2 reductions by 40%.,By 2030 from
+GHG emissions,reduction (tCO2e),,FY23 baseline
+Scope 2,Scope 2 emissions,Scope 1 and 2 reductions by 50%.,By 2033 from
+GHG emissions,reduction (tCO2e),Recoding Scope 2 by location,FY23 baseline
+,,and market.,
+Energy,% of renewable energy used,Identify and action energy,FY25 and beyond
+,,reduction opportunities including,
+,,energy efficiency and behaviour,
+,,"change, as well as opportunities",
+,,for renewable energy.,
+
+=== Table 11 (page 38) ===
+GRI Content Index (continued),,,
+GRI Standard,Disclosure,Location,Page
+Our Supply Chain,,,
+Supply chain optimisation,,,
+GRI 3: Material,3‑3 Management of material topics,Supply chain,16
+Topics 2021,,optimisation,
+Modern Slavery risk mitigation,,,
+GRI 3: Material,3‑3 Management of material topics,Modern Slavery,17
+Topics 2021,,risk mitigation,
+GRI 412: Human Rights,412‑2 Employee trainings on human rights,Modern Slavery,17
+Assessment 2016,policies or procedures,risk mitigation,
+Our Environment,,,
+Emissions reduction targets,,,
+GRI 3: Material,3‑3 Management of material topics,Emissions,20
+Topics 2021,,reduction targets,
+GRI 302:,302‑1 Energy consumption within the,Emissions,20
+Energy 2016,organisation,reduction targets,
+GRI 305:,305‑1 Direct (Scope 1) GHG emissions,Emissions,20
+Emissions 2016,,reduction targets,
+
+=== Table 12 (page 41) ===
+TCFD Index,,
+TCFD theme,Disclosures,Location in report
+Governance,a)   Describe the board’s oversight of climate‑related risks,"10, 22"
+,and opportunities.,
+,b)   Describe management’s role in assessing and managing,22‑23
+,climate‑related risks and opportunities.,
+Strategy,a)   Describe the climate‑related risks and opportunities,"22‑23,"
+,"the organisation has identified over the short‑, medium‑,",40‑43
+,and long‑term.,
+,b)   Describe the impact of climate‑related risks and,"22‑23,"
+,"opportunities on the organisation’s businesses, strategy,",40‑43
+,and financial planning.,
+,"c)   Describe the resilience of the organisation’s strategy,",22‑23
+,taking into consideration different climate‑related,
+,"scenarios, including a 2°C or lower scenario.",
+Risk management,a)   Describe the organisation’s processes for identifying,23
+,and assessing climate‑related risks.,
+,b)   Describe the organisation’s processes for managing,23
+,climate‑related risks.,
+,"c)   Describe how processes for identifying, assessing,",23
+,and managing climate‑related risks are integrated,
+,into the organisation’s overall risk management.,
+Metrics and,a)   Disclose the metrics used by the organisation to,23
+targets,assess climate‑related risks and opportunities in line,
+,with its strategy and risk management process.,
+,"b)   Disclose Scope 1, Scope 2 and, if appropriate,",20‑21
+,Scope 3 greenhouse gas (GHG) emissions and,
+,the related risks.,
+,c)   Describe the targets used by the organisation,23
+,to manage climate‑related risks and opportunities,
+,and performance against targets.,
+
+=== Table 13 (page 44) ===
+TCFD Risks and Opportunities – detailed description (continued),,,,,
+,Potential financial,,,,
+Risk/opportunity,,impacts and implications,Timeframe5,Bapcor’s response6,
+Transition (continued),,,,,
+Market,,,,,
+PRIORITY RISK,y,Operational costs increase,Medium to,y,Research into products
+,,due to adjustment to market,long term,,"and market demand,"
+Market and consumer,,,,,
+,,change including need for,,,including new energy
+preferences change,,,,,
+,,upskilling and search for,,,vehicles use.
+as the transition to,,,,,
+,,new partnerships.,,,
+,,,,y,Consideration of business
+low‑carbon transport,,,,,
+,y,Increased operational costs,,,operations diversification
+and relevant services,,,,,
+,,and revenue loss associated,,,and different approach
+accelerate,,,,,
+,,with stranded auto parts,,,to products and
+,,"followed by over stock,",,,services provided.
+,,inability to meet consumers’,,,
+PRIORITY,y,Additional revenue sources,Short to,,
+OPPORTUNITY,,and other opportunities,medium term,,
+,,related to market,,,
+New markets in low,,,,,
+,,change to new energy,,,
+carbon transport and,,,,,
+,,"vehicles, and circular",,,
+relevant services,,,,,
+,,approach implementation.,,,
+Technology,,,,,
+RISK,y,Supply chain technology,Medium term,y,Consideration of
+Supply chain,,improvements followed by the,,,technology‑based
+innovation and,,impacts on operational and,,,initiatives affecting
+partnerships reduce,,"supply chain costs, including",,,overall supply chain
+Scope 3 emissions,,costs related to Scope 3,,,and Scope 3 emissions.
+,,emissions reduction.,,,
+OPPORTUNITY,y,Costs and resources,Short to,y,Implementation of
+Increased efficiency,,optimisation due to,medium term,,renewable energy
+through automation,,new technology and,,,"generation on sites,"
+"and technology,",,automation implementation.,,,"energy efficiency,"
+optimised energy cost,,,,,"digitalisation, and"
+,y,Energy costs and resources,,,
+with renewable energy,,,,,automation initiatives
+,,optimisation due to energy,,,
+,,,,,within the organisation.
+,,"efficiency improvement,",,,
+,,reducing reliability on,,y,Initiatives related
+,,external energy resources,,,to renewable energy
+,,via implementing renewable,,,and fleet transition
+,,energy on site.,,,new energy vehicles.
+,y,Reducing fleet‑related,,,
+,,operating costs through,,,
+,,fleet transition to new,,,
+,,energy vehicles.,,,
+
+=== Table 14 (page 45) ===
+TCFD Risks and Opportunities – detailed description (continued),,,,,
+,Potential financial,,,,
+Risk/opportunity,,impacts and implications,Timeframe5,Bapcor’s response6,
+Transition (continued),,,,,
+Reputation,,,,,
+RISK,y,The lack of proactivity,Medium term,y,Incorporate climate
+Decrease in talent,,in internal and external,,,risks and opportunities
+retention and,,communication leading,,,"into business strategy,"
+attraction,,to talent retention and,,,including development
+,,"attraction issues, and",,,of climate communication
+,,decreased business,,,plans and fulfilling
+,,partnership opportunities.,,,reporting requirements.
+RISK AND,y,The lack of proactivity,Medium term,y,Ongoing communication
+OPPORTUNITY,,and readiness to meet,,,and engagement with the
+Requirement for,,stakeholders’ changing,,,"stakeholders, including"
+value chain emissions,,demand and expectations,,,"investors, business"
+reporting,,leading to reputation shifts,,,partners and customers.
+,,"and, consequently, impact",,,
+,,,,y,Climate‑related reporting
+,,on financial metrics.,,,
+,,,,,and communication
+,,,,,"initiatives underway,"
+,,,,,including Scope 3
+,,,,,management plans.

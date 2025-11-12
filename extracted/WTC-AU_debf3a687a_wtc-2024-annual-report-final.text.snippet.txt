@@ -1,0 +1,307 @@
+=== Page 9 ===
+7
+ WISETECH GLOBAL ANNUAL REPORT 2024
+100%
+of our Scope 1 and 
+2 market-based 
+emissions offsethours of structured learning 
+completed by our people57,000+
+increase  in number 
+of team members 
+signed up to be 
+mentors86%
+increase  in number of 
+company courses consumed 
+on WiseTech Academy152%
+courses completed 
+by external users via 
+WiseTech Academy~16,000 CargoWise Certified Practitioners  
+(up 29% from FY23)~38,000 
+students part of our 
+Earn & Learn program. 
+31% of program 
+participants are women78
+
+=== Page 16 ===
+14
+Our guidance for FY25 is based on the assumptions set 
+out in our FY24 Results presentation. Assuming there 
+are no material changes to these assumptions and no 
+unforeseen events that arise prior to 30 June 2025, 
+we expect to deliver FY25 revenue of $1.3 billion to 
+$1.35 billion, representing revenue growth of 25 to 
+30%, with CargoWise revenue expected to grow 
+by approximately 31 to 37% overall. In terms of 
+FY25 EBITDA, we expect to deliver $660 million to 
+$700 million, representing EBITDA growth of between 
+33 and 41%, with the EBITDA margin exit rate at the 
+end of FY25 expected to be around 53%.
+Our people are the foundation of 
+our success
+At the heart of WiseTech’s success lies our exceptional 
+team of people, whose diverse talents and unwavering 
+dedication drive the company forward. Our team, 
+encompassing nearly 3,500 individuals from more 
+than 70 nationalities and ranging in age from 16 to 75, 
+brings a wealth of unique perspectives and skills that 
+foster innovation and creativity. 
+This broad mix of experiences and backgrounds is 
+not merely a feature but a cornerstone of our vibrant 
+and dynamic culture. It is this extraordinary team 
+that underpins our technological leadership and 
+global market presence, ensuring that productivity 
+remains at the core of everything we do. By nurturing 
+an environment that values continuous learning and 
+development, diversity of thought, and encourages 
+impactful change, we continue to attract, retain, and 
+develop top talent, solidifying our position as a leader 
+in the industry.
+Building Australia’s future tech industry
+We take great pride in our global and inclusive workforce 
+and the incredible talent they embody. Approximately 
+32% of our employees and 43% of our Board members 
+are female. We are committed to encouraging and 
+supporting more women to enter the technology and 
+logistics industries.
+Our education initiatives, particularly the Earn & Learn 
+Program, have made a transformative impact on 
+students’ educational journeys by bridging the gap 
+between academic learning and professional experience, 
+applied knowledge and fluency. Through comprehensive 
+support including financial, practical experience, 
+and enhanced mentorship, Earn & Learn equips 
+students with essential skills and knowledge, ensuring 
+their readiness for successful careers. This initiative 
+underscores WiseTech’s dedication to nurturing talent 
+and advancing workforce development in the dynamic 
+tech industry.Since the program’s launch last year, we have added 
+51 students to our cohort, bringing our total to 78 1 
+Earn & Learn Associate Software Engineers, with 
+women making up 31% of participants, higher than 
+the participation rate for women in engineering and 
+technology undergraduate degrees in Australia 2.
+Our aim is to partner with more educational institutions to 
+broaden the program’s reach and offer our Earn & Learn 
+team members a wider range of learning opportunities.
+Through our Registered Training Organization WiseTech 
+Academy, we are also extending industry learning 
+opportunities. In August this year, we announced that 
+CargoWise certification training was open to the public 
+for free, opening skills development and employment 
+opportunities in the fast-growing logistics and supply 
+chain industry. In FY24 we saw a 19% increase in the 
+number of courses completed via WiseTech Academy 
+by external customers. 
+This year, we offset 100% of our Scope 1 and 2 
+market-based emissions from our global operations 
+using offsets aligned to verified carbon standards. Our 
+FY24 sustainability reporting has been informed by the 
+internationally recognized Global Reporting Initiative 
+(GRI) Framework and the SASB (Sustainability Accounting 
+Standards Board) Software and IT services Sector Standard. 
+Over time, we will continue to develop and build on our 
+ESG (Environmental, Social, and Governance) disclosures 
+in alignment with new sustainability accounting standards.
+You can read more about our FY24 sustainability 
+performance in our Sustainability Report on pages 26 to 
+49 and on the WiseTech Global investor center website.
+Acknowledgements
+For 30 years we’ve been challenging the status quo, 
+thinking of breakthrough ideas that revolutionize global 
+logistics and continuing to build powerful software 
+products that are delightfully better for our customers 
+and for their customers. We cannibalize that which needs 
+to be superseded, improve that which is imperfect and 
+add that which is missing. And we are having fun doing it! 
+There is huge potential ahead of us, as we continue 
+to do what no one else in the industry is doing or is 
+capable of doing.
+Thank you so much for reading this, for being a 
+shareholder, a staff member, a customer, a partner, 
+or simply a friend, and for everything you do for us.
+Richard White  
+Founder and CEO
+1 As at 30 June 2024.
+2 STEM Equity Monitor, 2022 university undergraduate enrolment in information technology and engineering and related technology degrees, 
+www.industry.gov.au
+
+=== Page 44 ===
+42
+We recognize that climate change is one 
+of the greatest challenges of our time and 
+are committed to taking action to reduce, 
+and eventually eliminate, emissions 
+from our operations. We believe our net 
+zero carbon vision is likely to provide 
+WiseTech with improved resilience and 
+cost reductions over the long term.
+Our software inherently improves the efficiency of 
+global logistics and streamlines customer logistics 
+routes. We continue to invest in product research 
+and development to deliver efficiencies that support 
+customers to reduce emissions. This includes customers 
+using our cloud-based, centralized data centers, removing 
+inefficient self-hosted energy intensive environments. 
+A strategic objective for the Net Zero impact priority 
+area is that our products support customers to 
+reduce emissions from global logistics. The inclusion 
+of a Greenhouse Gas (GHG) Emissions calculator is a 
+new product feature for CargoWise Next, WiseTech’s 
+next generation platform. 
+The GHG Emissions module will focus on tackling the 
+critical challenge of global greenhouse gas emissions in 
+freight transportation and logistics by enabling customers 
+to calculate and track the end-to-end carbon footprint 
+of supply-chain activities. The functionalities span 
+quotes, bookings, shipments, consol and routing legs, 
+complemented by an integrated analytic dashboard. 
+This provides users with visible CO2e values for shipments 
+across various transport modes, while the module also 
+allows for the customization of documents to display 
+carbon footprint calculations. 
+Energy consumption 
+During FY24, our total energy consumption was 7,658 
+MWh or 27,569 gigajoules, up 3% on FY23. This energy 
+powered over 40 facilities1 in 18 countries, including our 
+data centers in Australia, the United States and Europe. Electricity consumption continued to be the largest 
+contributor to our operational emissions footprint. 
+It accounted for 86% of our energy consumption this 
+year, and increased by 6% as our global operations 
+continued to grow. 
+We recognize the best way to reduce our operational 
+emissions is by moving to clean energy sources. 
+In WiseTech’s net zero pathway, transitioning to 100% 
+low or no emissions electricity is the most critical step 
+given electricity represents the largest source of our 
+energy consumption. 
+We continued to explore opportunities to switch to 
+low or no emissions electricity and onsite renewable 
+generation at our larger sites during the year, and this 
+work is ongoing. 
+This year, 13% of our global electricity use was from 
+purchased renewable electricity. 
+We use natural gas to heat some of our buildings and 
+water, diesel to run backup generators, and gasoline and 
+diesel to fuel company -owned or operated vehicles. 
+In FY24, direct energy consumption reduced by 10% 
+largely due to lower diesel consumption. Direct energy 
+consumption accounted for 12% of our total energy 
+consumption during the period, down 2% on FY23.
+Emissions 
+As a technology company, our carbon footprint is small, 
+relative to other industries. This year, our operational 
+emissions intensity2 continued its downward trend. 
+As our business continued to grow, operational emissions 
+intensity reduced from 4.09 tCO2e3 per AUD $m revenue 
+in FY23 to 3.50 tCO2e per AUD $m revenue.
+This year, the majority of our operational emissions 
+continued to come from electricity used to 
+power, heat and cool our offices and data centers. 
+We continue to work to improve our emissions 
+accounting, and this year report emissions from 
+refrigerant use for the first time which accounts 
+for the increase in Scope 1 emissions. Net zero carbonIMPACT PRIORITY
+As a software solutions provider, WiseTech is not directly involved in 
+the manufacture or physical transportation of goods. While our global 
+environmental footprint is relatively small across our operations, we are 
+committed to reducing our environmental impacts where they exist. 
+1 Excludes facilities beyond operational control, such as co-working spaces.
+2 Scope 1 and 2 tCO2e per $M dollar (AUD) of revenue generated.
+3 Updated following internal data reviews.
+
+=== Page 45 ===
+43
+ WISETECH GLOBAL ANNUAL REPORT 2024
+Scope 1 and 2 market-based operational emissions 1 
+increased in FY24 from 3,338 tCO2e 2 to 3,649 tCO2e 
+as we continued to improve our emissions reporting 
+and as our business continued to grow.
+Scope 2 emissions from purchased electricity continues 
+to be our largest operational emissions source, 
+accounting for 90% of Scope 1 and 2 market-based 
+emissions in FY24.
+We continued to develop and refine our Scope 3 
+emissions inventory, which accounts for emissions 
+outside WiseTech’s direct control in its value 
+chain. We are reporting emissions from additional 
+Scope 3 categories this year. Emissions from these 
+categories totaled 22,557 tCO2e.
+See our Performance data tables on page 47 
+for our GHG inventory.
+0 1000 2000 3000FY22
+FY23
+FY24
+544321Refrigerants
+Diesel
+Natural gas
+Gasoline3,3013,1113,075
+Market-based electricity
+and Purchased 
+Heating and Cooling
+152
+5794108
+869183
+While we continue to transition to clean energy sources, we will offset 100% of carbon emissions from our global 
+operations. This year, we continued to offset 100% of our Scope 1 and 2 market-based emissions using a mixed 
+portfolio of offsets from cool fire projects conducted at Arnhem Land in Australia’s Northern Territory, and wind 
+power projects in southern India and the United States. 
+More information about our approach 
+to offsetting is available on our website : 
+wisetechglobal.com/investors/esg/environment/
+We have set out a pathway to achieve 
+our net zero global operations ambition, 
+which we will be working to achieve 
+over the coming yearsScope 1 & 2 emissions by sourceFY24 GHG emissions (tCO2e)
+Scope 1
+Scope 2
+(market-based)
+Scope 31%
+13%
+86%
+1 Market-based operational emissions are emissions from Scope 1 and 2 sources that WiseTech has elected to purchase.
+2 Updated following internal data reviews.
+
+=== Page 49 ===
+47
+ WISETECH GLOBAL ANNUAL REPORT 2024
+Environment 
+Metric FY2024 FY2023
+Greenhouse Gas (GHG) emissions 
+Total emissions (tCO2e)1
+Scope 1 348 2272
+Scope 2 (Market-based) 3,301 3,1112
+Scope 3 22,55734,5853
+Total carbon emissions by source (tCO2e)
+Scope 1 emissions 348 2272
+Stationary fuels 88 1042
+ Natural gas4 86 915
+ Diesel62 132
+Transport fuels7109 123
+ Motor gasoline / Petrol854 43
+ Diesel956 81
+Refrigerants10152 -
+1 Emissions have been calculated in line with the GHG Protocol Corporate Accounting and Reporting Standard. We are committed to improving the quality 
+of this inventory as we further refine our global data management systems and processes. Where available, primary data is used to calculate Scope 1 and 
+2 emissions. Where primary data is not available, activity data is modelled using average-consumption (kwh) over the preceding six months or estimated 
+using prior year performance data. Activity data is collected internally from invoices, and we work with qualified consultants who calculate emissions by 
+applying relevant emissions factors. 
+2 Updated following internal data reviews.
+3 FY23 Scope 3 Categories 6–7. FY24 Scope 3 Categories 1–3, 6–8.
+4 Natural gas in buildings, calculated using consumption data. In FY24, NGA 2023 factors were applied for Australia, EPA 2024 factors were applied for USA 
+and United Kingdom’s DEFRA 2024 factor for any other facilities as these are the most conservative. 
+5 Milton Keynes office not included.
+6 Stationary diesel used in generators is accounted for at the time of purchase except for India where consumption data is used. In FY24 Department for 
+Environment, Food & Rural Affairs (DEFRA), UK Government GHG Conversion Factors for Company Reporting 2024; ‘Fuels & WTT- Fuels’ were applied. 
+Alternative emissions factors were reviewed and determined to be most conservative where local emissions factors were not available. 
+7 Calculated using consumption data where available from vehicle lessors.
+8 Gasoline/petrol transport fuel used in WiseTech owned or operated road registered vehicles (including hybrid), calculated using consumption data. 
+In FY24, NGA 2023 emissions factors were applied for all geographies. Alternative emissions factors were reviewed and determined to be most 
+conservative where local emissions factors were not available. 
+9 Diesel transport fuel used in WiseTech owned or operated road registered vehicles, calculated using consumption data and NGA 2023 emissions factors 
+for all geographies in FY24. Alternative emissions factors were reviewed and determined to be consistent geographically. 
+10 Refrigerants or synthetic greenhouse gases used in refrigeration systems owned or operated by WiseTech such as in air conditioning systems within 
+data centers and offices. Refrigerant use is reported from FY24 onwards and does not include facilities where net lettable area was unavailable. 
+FY24 refrigerant use was estimated based on actual data available for the WiseTech office in Schaumberg, USA. This data was used to model typical 
+equipment use in offices and data centers and determine refrigerants used per m2 for R-410A and R-22 gas types. Emissions were estimated 
+using the Australian National Greenhouse Accounts (NGA) 2023 residential and commercial air conditioning leakage rate of 3.5% and using 
+global warming values from the Intercontinental Panel on Climate Change’s (IPCC) Assessment Report 6 (AR6).

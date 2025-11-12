@@ -1,0 +1,690 @@
+=== Table 1 (page 10) ===
+Our material sustainability topics,,,,
+GrainCorp’s sustainability strategy is focused on eight material topics and organised across three pillars.,,,,
+,,,,Mapping material
+Our,,,,topics to SDGs
+,Environment,Climate,Sustainable agriculture and Nature,
+environment,,,,
+,,,,We recognise the
+,,,,need to contribute to
+,The environmental impacts,GrainCorp’s exposure to climate,GrainCorp’s approach to building,
+,of GrainCorp’s own operations,change risks and the steps being taken,capability and strategy around,the 17 interconnected
+,"across water, waste, energy,","to reduce Scope 3 emissions, mitigate",biodiversity and natural capital.,Sustainable Development
+,and Scope 1 and 2 emissions.,"risks, pursue opportunities, and adapt",,Goals (SDGs).
+,,to the impacts of climate change.,,
+,,,,We focus on the goals
+,,,,most aligned to our
+,See page 17,See page 24,See page 33,
+,,,,sustainability strategy
+,,,,and the goals we believe
+,,,,we can positively impact
+,,,,through influence
+Our,,,,and advocacy.
+,Responsible sourcing and Human rights,Food safety and consumer confidence,,
+integrity,,,,
+
+=== Table 2 (page 11) ===
+considerations into our business processes.,,,
+,,we can take action to deliver.,
+,FY24,FY25,FY26 and beyond
+Stakeholder,,Utilise GrainCorp Next to understand what,Evolve GrainCorp’s internal and external
+engagement,,‘nature’ means at the farm level in Australia,stakeholder engagement programs to build
+,Enhance the voice of customer in our sustainability strategy,,
+,,and the relationship to the nature-related,understanding in identified priority areas
+,,goals of customers,"of sustainability, across the value chain"
+Climate,Submit emission reduction targets and roadmaps to SBTi,"Develop roadmaps to align with SBTi,",
+,,starting with near-term targets,
+,,,Fully align GrainCorp’s climate reporting
+,,Refine climate scenario analysis to,
+,,,with ASRS and integrate into GrainCorp’s
+,,support ASRS,
+,,,Annual Report
+,Complete project to implement TCFD recommendations,,
+,,Integrate climate considerations into,
+,,capital management policy and processes,
+Environment,Divert more than 95% of Dust and Damaged Grain (DDG) to beneficial reuse,,
+,Complete a lifecycle assessment of our recycled tarpaulins program,,
+,,"Achieve a 10% reduction in FY25, in the",
+,,waste to landfill rate across the ECA,
+,,"network, from an FY24 baseline",
+,Complete Pinch Analysis at Numurkah,,
+,,,"Drive progress towards Environment targets,"
+,,,including Scope 1 and Scope 2 SBTi approved
+,Conduct energy audit at Port Kembla,,
+,,Achieve a 2.5% energy efficiency,emission reduction targets
+,,improvement at West Footscray and,
+,,Numurkah through targeted capital and,
+,Embed environment dashboard into Group-wide operational,,
+,,continuous improvement projects,
+,performance monitoring,,
+,Submit Scope 1 and 2 emission reduction targets and roadmaps to SBTi,,
+
+=== Table 3 (page 17) ===
+,FY21,,"0
+FY21","53,363
+FY21",FY21,"69,801"
+"right, are heavily influenced by fluctuations in the annual",,,,,,
+"volume of grain handled by GrainCorp, which is directly",FY20,2,"FY20
+0","FY20
+50,349",FY20,"61,850"
+"correlated to the size of the ECA harvest. In FY25, we",,,,,,
+will develop a methodology that enables more accurate,"All data: Data range is financial year,",,"1. 
+Calculated as the total energy (GJ)",5.  Water usage reported is from,7.,Calculated as volume of trade
+,1 July–30 June. All data is inclusive,,per production/throughput tonne.,"metered mains supply. For ECA sites,",,waste generated per production/
+"illustration of data trends, through the use of normalised",of Australia/New Zealand operations,,,a water consumption estimation,,throughput tonne.
+,,,"2. 
+Scope 1 emissions are those produced",,,
+,and excludes divested businesses and,,,methodology has been applied that,,
+production data. We aim to provide Environment data in,,,directly by GrainCorp’s activities.,,8.,Level 5 environmental incidents are ones
+,Performance Feeds and Nutrition Service,,,takes known water consumption at,,that cause or threaten material or serious
+,,,"3. 
+Scope 2 emissions are indirect",,,
+this format from FY25.,Australia. FY24 data points indicated by,,,"sample sites, to calculate a water",,
+,,,"emissions, such as electricity",,,environmental harm which require
+,an asterisk (*) are subject to assurance,,,efficiency ratio (kL/tonne). The,,notification to the authority/regulator.
+,,,consumption.,,,
+,from KPMG.,,,estimation methodology applies to,,
+,,,,,9.,Level 4 environmental incidents are
+,,,4.  Calculated as the total GHG emissions,approximately 16 per cent of total,,
+,See KPMG’s limited assurance report,,,,,ones that cause or threaten harm to
+,,,per production/throughput tonne.,water use.,,
+,on page 82 and page 83.,,,,,the environment that are notifiable
+,,,,6.  Calculated as the total water use per,,to the authority/regulator.
+,,,,production/throughput tonne. Water,,
+,,,,,,10.  Calculated as a percentage of total
+,,,,use includes metered water only.,,
+,,,,,,energy consumed.
+
+=== Table 4 (page 18) ===
+,Our operations are subject to multiple national and,Environmental incidents including near misses are tracked
+Our Approach,,
+,state-based environmental regulations. These range,"through our incident management system, Sphera. This ensures"
+The environmental impacts of GrainCorp’s direct,"from managing localised issues such as noise and odour,","the development and tracking of corrective actions, internal"
+"operations are managed through our Health,",to the reporting of greenhouse gas emissions and the use,escalation and external notification where required. In October
+,"of chemicals. Thirteen of our sites, comprising six port","2024, GrainCorp Operations Limited was fined AUD$15,000"
+Safety and Environment (HSE) Management,,
+,"terminals, three Auscol sites and four processing sites,",after a system error resulted in a phosphine discharge at
+"System. This system sets out rigorous, consistent,",,
+,hold environmental licences.,levels above licensed limited at Port Kembla in March 2024.
+"company-wide standards for monitoring,",,
+,,GrainCorp notified the NSW Environment Protection Authority
+,"Environmental obligations, compliance (including compliance",
+"reporting, auditing and continuous improvement",,(EPA) immediately upon becoming aware of the incident and
+,with a site’s environmental licence) and risk are managed,
+of our environmental impacts. The HSE,,has since implemented a range of corrective actions and
+,and controlled through site registers that reflect each,
+,,enhanced system controls to prevent any future occurrences.
+Management System is consistent with ISO14001,,
+,site’s location and operating context. Each Site Manager,
+and GrainCorp’s Australian processing sites,is responsible for overseeing site-specific environmental,Our focus on improving the environmental impact of
+"at West Footscray, Numurkah, and Pinjarra",management processes and employees are trained in,our operations is supported by our proactive internal
+,the procedures for managing and reporting incidents.,environment communication program. This program includes
+"and Auscol business, have used the system",,
+,A dedicated team of environment professionals provide,"environment-focused Toolbox Talks, activities to recognise"
+to achieve ISO14001 certification.,,
+,"support and verification across GrainCorp, including the",World Environment Day and regular updates through our
+,execution of an internal audit program. Twenty-six sites,internal communications platforms on the progress of projects
+,are included in the internal audit register and the 10 sites,"related to our energy, emissions, water and waste impacts."
+"FY24 priority actions
+Status",,
+,classified as high-risk are audited annually.,
+,,We monitor the environmental metrics appropriate to each
+Divert more than 95% of Dust and Damaged,Our internal HSE Management System contains 13,business unit through that business unit’s relevant operational
+Grain to beneficial reuse.,"environment standards, focused on key environmental",forum. In FY24 we have embedded a GrainCorp wide
+,"aspects, including water, waste, noise, air, and biodiversity","environment dashboard into GrainCorp’s Health, Safety and"
+Complete a lifecycle assessment of our,"management, that underpin compliance with local, state",Environment report that is provided to the Executive Leadership
+recycled tarpaulins program.,and federal regulatory requirements. Each year we report,"Team and Safety, Health and Environment Committee (SHEC)"
+,the Scope 1 and Scope 2 emissions from our Australian,each quarter.
+Complete Pinch Analysis at Numurkah.,operations under the Australian National Greenhouse and,
+,Energy Reporting Act 2007 and this data can be found here.,
+Conduct energy audit at Port Kembla.,,
+,Certain chemicals are used across our food processing and,
+,east coast Australia (ECA) grain handling sites in line with,
+Embed environment dashboard into Group-wide,,
+operational performance monitoring.,food safety and export requirements. More information on,
+,our use of chemicals can be found on pages 46 and 47.,
+Submit Scope 1 and 2 emission reduction,,
+targets and roadmaps to SBTi.,,
+
+=== Table 5 (page 19) ===
+Energy and Emissions,Specific actions include:,
+,•  The embedding of an ISO50001 aligned Energy,
+We support the global ambition to limit global warming,,
+,Management System (EnMS) which provides a framework,
+to 1.5 degrees and to reach net zero by 2050.,,
+,"for collecting, analysing, and monitoring energy data,",
+,"identifying opportunities, making decisions, and setting",
+"In FY23, we committed to developing near‑ and long‑term",,
+,energy targets.,
+targets in line with the Science Based Targets initiative (SBTi).,,
+"Like many organisations, our greatest emissions impact lies",•  The installation of submeters at West Footscray and,
+within the Scope 3 emissions associated with our activities and,Numurkah. The submeters capture data at a granular level,
+"more information about the actions we are taking, to positively",and enable a refined focus on high energy using activities.,
+,,"Angie Arteaga Jaime, Environment and Sustainability Engineer,"
+"impact Scope 3, is included in the Climate and Sustainable",,
+,•  Completion of a pinch analysis at West Footscray and,with Numurkah’s cooker.
+Agriculture and Nature sections of this report.,,
+,Numurkah to identify where immediate opportunities,
+The Scope 1 and Scope 2 emissions that result from our,"for energy savings lie, and areas where more detailed",Investing in energy efficiency
+own operations are an important component of our SBTi,analysis is required.,
+,,Pinch analysis is a systematic technique for analysing heat
+submission. Energy is the primary driver of our Scope 1,,recovery systems through an industrial process. Completion
+,"• 
+Insulation of the cooker at Numurkah.",
+and Scope 2 emissions and our largest processing sites at,,of a pinch analysis at West Footscray and Numurkah has
+,•  The commissioning of a decarbonisation study at West,
+Numurkah and West Footscray account for more than half of,,helped inform our decarbonisation pathway for Scope 1
+,"Footscray to understand, at a detailed level, how processes",
+GrainCorp’s energy use. In FY24 we have focused on further,,and Scope 2 emissions at these sites.
+,might be re-engineered to optimise emissions reduction.,
+"embedding the systems, technology, and processes that",,
+,,The pinch analysis undertaken at Numurkah highlighted an
+underpin the measurement of our baseline Scope 1 and Scope,•  Completion of a detailed energy audit at Port Kembla.,
+,,opportunity to reduce energy losses at a key step in the
+2 emissions and provide the framework for managing our,"After our two main processing sites, GrainCorp’s port",
+,,"crushing process. During ‘cooking’, canola seeds go through"
+decarbonisation program.,operations are the next most significant users of energy.,
+,,"a series of heating steps, which help maximise the oil"
+,The audit identified a range of energy management,
+,,extracted during pressing and the final heating step occurs
+Processing sites^ – Energy used per tonne (GJ)1,"opportunities, many of which can be replicated at",
+,,in the ‘cooker’. The pinch analysis identified two areas of
+,other GrainCorp port sites.,
+,,the cooker where insulation would significantly reduce
+"0.91
+FY24",,
+,•  Continued evaluation of the cost and availability of,
+,,heat losses. The insulation was manufactured and installed
+"0.94
+FY23",renewable energy now and into the future as part of our,
+,,"by an external specialist. However, undertaking works on"
+,overall energy strategy. Understanding future electricity,
+,,equipment of this scale is complex and required significant
+Processing sites^ – GHG emissions per tonne (tCO2-e)2,demand is fundamental to the success of renewable,
+,,input from the site’s operations and maintenance teams.
+,electricity projects.,
+,,"The installation was completed in September 2024 and,"
+"0.070
+FY24",,"while benefits will not be accurately quantified until FY25,"
+,These actions are critical to our success in setting and,the continued implementation of projects such as these are
+"0.074
+FY23",,
+,achieving our Scope 1 and Scope 2 science‑based targets.,fundamental to GrainCorp’s broader decarbonisation strategy.
+,"We aim to submit our targets to SBTi in late 2024, and in FY25,",
+"1. 
+Calculated as the total energy (GJ) per production/throughput tonne.",,
+
+=== Table 6 (page 24) ===
+,,These actions fall into three broad categories:
+,Our Approach,
+"FY24 priority actions
+Status",,
+,,"1. 
+Reducing the greenhouse gas footprint of our operations."
+,We support the scientific evidence on,
+Submit emission reduction targets and,,
+,human-induced global warming produced,2.  Connecting growers with global customers to develop
+roadmaps to SBTi.,,
+,,solutions that strengthen the sustainability of Australian
+,by the Intergovernmental Panel on Climate,
+,,agriculture and support our customers’ transition
+"Complete project to implement 
+ *",Change. We recognise the need to limit global,
+,,to net-zero.
+TCFD recommendations.,,
+,warming to 1.5°C above pre‑industrial levels by,
+,,3.  Developing agricultural opportunities that support the
+"* 
+Achieved and absorbed into the Australian Sustainability Reporting Standards.","2100, which is achievable only if the economy",
+,,broader economy in the transition to a low-carbon future.
+,transitions to net‑zero emissions by 2050.,
+"Achieved      
+  Ongoing
+  Partially achieved",,
+,,Decarbonising our own operations (Scope 1 and Scope 2
+,"In FY23, we committed to developing near‑ and long‑term",
+,,emissions) is important and the progress we are making is
+,targets in line with the Science Based Targets initiative,
+,,described in the Environment section of this report. We know
+,(SBTi). We aim to submit our targets to SBTi in late,
+,,that the on-farm emissions generated by Australian growers
+,,
+Our climate ambition is to champion,"2024, and in FY25, we look forward to providing more",and producers is the area of Scope 3 emissions where we can
+,detail on these targets and our pathways to achieving,
+,,
+the role Australian agriculture can,them. We remain focused on the actions we are already,have the greatest positive impact. The Sustainable Agriculture
+,,and Nature section of this report describes the ways we are
+,taking to support the global ambition to limit warming to,
+"play in low emissions, sustainable",,working with industry to produce positive outcomes.
+,"1.5 degrees, and to reach net zero by 2050.",
+food systems.,,In line with our preparation to report in accordance with
+,,the Australian Accounting Standards Board’s Australian
+,,"Sustainability Reporting Standards, which come into effect"
+The nature of the work we do – connecting growers,,
+,,"in January 2025, this section discusses climate governance"
+and producers to customers to deliver essential,,
+,,and the ways in which climate risks and opportunities are
+"food, feed and renewable fuel – requires a deep",,
+,,"progressively being identified, prioritised, monitored and"
+understanding of the impact of a changing climate,,
+,,integrated into our strategy and risk processes to ensure
+and the opportunities to effect change. We are,,
+,,the climate resilience of our business.
+committed to building a climate-focused mindset,,
+into all facets of our business to ensure we are well,,
+
+=== Table 7 (page 25) ===
+Climate governance,The group is made up of key subject matter experts across,Climate variability due to climate change is identified and
+,"our grower services, logistics, procurement, finance and risk",disclosed as a material risk. Other disclosed material risks
+Ultimate responsibility for the oversight of climate-related,,
+,"teams, and works closely with our Sustainable Agriculture","include the introduction of new laws and regulations,"
+"risks, opportunities and targets is governed at Board",,
+,"and Nature Working Group, which is focused on on-farm","transportation and logistics, supply chain risk and significant"
+level. The Board has established the Board Sustainability,,
+,"emissions and nature topics, and the Environment Working",events risk. Climate risks are considered as part of these
+Committee (BSC) to assist the Board with all aspects of,,
+,"Group, which drives our Scope 1 and 2 emission reduction",material risks.
+ESG and sustainability matters relevant to GrainCorp.,,
+,activities. The Sustainability Management Committee,
+The work of the Board and BSC is also supported by other,,
+,reviews the priorities and progress of the Climate Working,Climate risks and opportunities
+Committees of the Board. Detail of the climate-related roles,,
+,"Group, the Environment Working Group and the Sustainable",
+and responsibilities of the Board and Committees of the,,The table on the following page outlines examples of high-level
+,"Agriculture and Nature Working Group, with oversight",
+Board is provided in the Sustainability Governance section,,"climate risks and opportunities for GrainCorp, determined"
+,provided by the Board Sustainability Committee.,
+of this report.,,through an initial qualitative scenario analysis. We recognise
+,Greenhouse gas emission impacts are among the,that changing weather patterns and climate extremes are
+"The Board and the People, Remuneration and Nominations",,
+,sustainability impacts progressively being integrated into,"happening at an increased pace, emphasising the need to"
+"Committee regularly reviews the size, skills matrix and",,
+,GrainCorp’s capital investment processes. GrainCorp’s,"continually review, develop, refine, and implement adaptation"
+composition of the Board to assess whether the Board,,
+,approach to Executive remuneration reflects the role of,and mitigation actions that address the changing nature of
+has the collective skills required to effectively discharge,,
+,sustainability and climate-related considerations within,climate risks and opportunities. We also acknowledge that
+the Board’s duties having regard to the performance,,
+,GrainCorp’s strategy. Sustainability and climate-related,potential changes in climate can amplify the impact of existing
+"and strategic direction of GrainCorp, including in relation",,
+,Key Performance Indicators (KPIs) form a five per cent,risks and opportunities.
+to climate-related topics. Members of the Board and,,
+,component of the Group Scorecard and targets are set,
+Sustainability Committee receive education sessions,,"The initial qualitative climate scenario analysis, undertaken"
+,on an annual basis. The Executive Leadership Team’s,
+"throughout the year on climate and sustainability topics,",,"in FY24, considered the impacts of physical and transition"
+,short-term performance-related incentive outcomes,
+including in relation to GrainCorp’s climate-related risks,,climate risks and climate-related opportunities on our
+,are based on the outcome of the Group Scorecard.,
+and opportunities. The Board Sustainability and Audit and,,"business model and value chain. In FY25, we will build on"
+,GrainCorp’s FY24 Remuneration Report is available here.,
+"Risk Committees have members in common, ensuring",,"this work to understand the exposure, vulnerability and"
+identified climate risks are governed through the appropriate,,"sensitivity of different parts of our business to these, and"
+channels. More information is provided in the Sustainability,Climate risk and opportunity management,"other, climate-related risks and opportunities. This ongoing"
+Governance section of this report and in our 2024 Corporate,,assessment enables more informed decision-making and
+,Climate risk,
+Governance Statement.,,ensures that we prioritise focus on the most critical risks
+,We apply an integrated Group-wide approach to the,
+,,and opportunities.
+Our Climate Working Group is responsible for developing and,management of risk through the application of GrainCorp’s,
+maintaining a more detailed understanding of climate-related,risk management framework. Further information about the,
+risks and opportunities and the climate resilience of,"risk management framework, risk appetite statement and",
+GrainCorp’s strategy and business model to climate-related,material risks are available in our 2024 Annual Report and,
+"changes, developments and uncertainties. The Climate",2024 Corporate Governance Statement.,
+Working Group is also responsible for developing our,,
+
+=== Table 8 (page 29) ===
+Opportunities,,
+Climate-related opportunity,Opportunity description,Potential impacts considered by GrainCorp
+Expanding our role in supplying feedstocks,The global demand for renewable fuels including Sustainable Aviation Fuel (SAF),•  Revenue diversification
+for renewable fuel as demand grows,is growing as countries seek cleaner alternatives to fossil fuels in response to,
+,,•  Reduce waste and utilisation of by‑products
+,"climate change and energy security concerns. Feedstocks for alternate fuels,",
+,,•  Brand enhancements
+,"such as corn, soybeans, canola, and agricultural waste are critical raw materials",
+"Timeline
+Scenario under which impact",,
+,"for producing bioethanol, biodiesel, SAF and advanced renewable fuels.",•  Opportunities to access public incentives
+is the greatest,,
+Short-to,"Governments and businesses are increasingly committing to net-zero targets,",
+"Orderly transition
+long-term",,
+,"further driving demand for sustainable energy sources, including renewable fuels.",
+,The International Energy Agency (IEA) expects demand for renewable fuel to,
+,grow from 146 billion litres/year in 2020 to between 186 and 342 billion litres/,
+,year in 2026 (an increase of 27%–134%). GrainCorp is positioned well as the,
+,largest exporter of renewable fuel feedstock in Australia and New Zealand.,
+Improving sustainability credentials to access,"For GrainCorp, enhancing sustainability credentials presents a strong","• 
+Increased market access and share"
+market premiums,opportunity to service premium markets that prioritise environmentally,
+,,•  Access to premium markets with
+,"responsible products. By adopting sustainable practices, securing certifications,",
+,,sustainability credentials
+,"and improving ESG transparency, GrainCorp can potentially attract customers",
+"Timeline
+Scenario under which impact",,
+,,•  Stronger brand reputation
+,willing to pay premium prices for sustainably sourced goods. This approach,
+is the greatest,,
+Short-to,"helps GrainCorp differentiate itself in competitive markets, build long-term",
+,,"• 
+Long‑term resilience"
+"Orderly transition
+long-term",,
+,"partnerships, and align with evolving regulations. Additionally, it will strengthen",
+,the company’s appeal to ESG-focused investors and ensures business resilience,
+,in a low-carbon future.,
+Collaborating to understand opportunities of,GrainCorp can build upon its relationships with growers and producers to,•  Management of upstream
+on‑farm emissions reductions practices,support the adoption of emissions measurement and regenerative agricultural,scope 3 emissions
+,"practices, that may position Australian commodities well to meet the",
+,,•  Carbon market opportunities
+,sustainability requirements of global customers.,
+"Timeline
+Scenario under which impact",,
+,,•  Supply chain resilience support
+is the greatest,,
+
+=== Table 9 (page 30) ===
+Climate resilience,
+,Metrics and Targets
+As we strengthen the climate resilience of our business,
+,Climate-related targets: Science-Based Targets
+in response to our ongoing climate risk and opportunity,
+"assessment and developing climate scenario analysis,","In FY23, we announced our commitment to developing"
+we continue to integrate climate adaptation and mitigation,"near‑ and long‑term Scope 1, 2 and 3 targets for validation"
+actions into our strategy.,to the SBTi and in line with the ambition to limit global warming
+,"to 1.5 degrees above pre‑industrial levels. In FY24, we have"
+Physical impacts on agricultural systems may affect the,
+,developed our targets using FY22 data as a baseline. Our
+"ability for growers, producers and suppliers to produce",
+,scope 3 emissions data inventory has been estimated to ensure
+high quality commodities in regions critical to GrainCorp.,
+,completeness and accurately reflect the impact across our
+Supporting growers through the development of more,
+,value chain. We have prioritised recent and accurate data from
+resilient crops will be increasingly important as chronic,
+,sources that are likely to be updated in a timely manner. This
+climate change accelerates. The work we are doing,
+,ensures we can measure progress using consistent information.
+with growers and industry to adapt to these potential,
+impacts is detailed in the Sustainable Agriculture and,"We aim to submit our targets to SBTi in late 2024, and we"
+Nature section of this report. An increase in the frequency,look forward to providing more information on the targets
+and severity of damaging weather events may lead to,and our roadmaps for achieving them in FY25.
+supply chain disruption and we continue to invest in rail,
+infrastructure. This investment decreases our reliance on,
+"road infrastructure, which is more susceptible to the impacts",
+"of weather, while also decreasing our transport related",
+Scope 3 emissions.,
+Decarbonisation is also an opportunity for GrainCorp.,
+Pursuing growth in Agri-energy and Animal Nutrition are,
+central to GrainCorp’s Strategy and our progress in these,
+areas is detailed on pages 31 and 32.,
+
+=== Table 10 (page 79) ===
+Stakeholder,,,
+Group,How we engage,Key sustainability-related topics of interest,How we respond
+Employees,"Ongoing reviews of employee engagement and feedback,",Education on sustainability topics,Our internal stakeholder engagement program has been designed
+,"culture, strategy and priorities through:",,to meet the needs of our employees and is focused on:
+,,GrainCorp’s progress in sustainability,
+,•  Employee surveys,,•  Building awareness around GrainCorp’s sustainability function
+,"•  Company‑wide monthly corporate, operational",,and strategy
+,and commercial calls,,•  Promoting understanding sustainability as a fundamental part
+,•  Weekly Managing Director and CEO communications,,"of business, strategy, and growth"
+,•  Group digital and social platforms including Microsoft,,"• 
+Informing and educating about GrainCorp’s ongoing sustainability"
+,Teams and Workplace by Facebook,,commitments and targets
+,•  Weekly newsletter,,
+,,,•  Encouraging employees to share their own experiences
+,•  Employee ambassador groups dedicated to,,
+,,,•  Channelling the strong interest that GrainCorp employees have in
+,"various Community, People and Diversity and",,
+,,,sustainability to foster a sustainability mindset and encourage action
+,Inclusion initiatives,,
+,,,•  Encouraging feedback for continuous improvement
+,"•  Employee events, conferences, and Town Halls",,
+,,,•  A section of GrainCorp’s intranet dedicated to the provision
+,•  Dedicated internal communications contact,,
+,,,of sustainability resources and updates
+,•  Whistleblower hotline,,
+Media,Ongoing discussions related to topics of interest through:,Carbon impact of supply chain optimisation,"• 
+Investment in rail infrastructure"
+,,,•  Policy and investment consultations for domestic renewable
+,"•  Phone calls, meetings, and emails",Renewable fuel,
+,,,fuel development
+,•  Dedicated media contact,,
+,•  Briefings and media releases,,
+,•  Digital and social channels,,
+Investment,Ongoing discussions regarding performance,Taskforce on Climate-related Financial,•  TCFD disclosures
+Community,and performance-related matters through:,Disclosures (TCFD),
+,,,•  Australian Sustainability Reporting Standards
+,•  Financial and non‑financial reporting,Climate targets and Scope 3 emissions,•  SBTi commitment
+,•  Dedicated investor relations contact,Deforestation commitment,•  No‑Deforestation commitment
+,•  Briefings,,•  Potential investment in renewable fuel feedstock production facility
+,,Traceability,
+,•  Meetings,,
+,,Renewable fuel,
+,"• 
+Investor Day",,
+,,Modern slavery,
+,•  Conferences,,
+,•  Annual General Meeting,Health and safety,
+,•  Surveys,Diversity and inclusion,
+
+=== Table 11 (page 82) ===
+,"Reporting 
+Selected Sustainability"
+,"Topic 
+Units 
+Value assured"
+,"period 
+Information"
+Independent Limited Assurance Report to the Directors of GrainCorp Limited,Food safety  major GFSI
+,"0 
+#"
+,non-conformances
+,Food safety  minor GFSI
+Conclusion,"# 
+13"
+,non-conformances
+"Based on the evidence we obtained from the procedures performed, we are not",Recordable Injury
+,"# 
+4.83"
+,Frequency Rate (RIFR)
+"aware of any material misstatements in the Information Subject to Assurance,",1
+,Lost Time Injury Frequency
+which has been prepared by GrainCorp Limited in accordance with GrainCorp,"# 
+1.93"
+,Rate (LTIFR)
+Limited Criteria for the period 1 October 2023 to 30 September 2024 (except where,
+,"# 
+Recordable Injuries  
+25"
+otherwise stated).,
+,"Critical Incident Frequency 
+Workplace"
+,"# 
+3.3"
+,"Rate  
+health and"
+,"October 
+safety 
+# 
+Near Miss Frequency Rate  
+132.4"
+Information Subject to Assurance,
+,"2023 to 30 
+# 
+Fatalities  
+0"
+GrainCorp Limited (GrainCorp) engaged KPMG to perform a limited assurance engagement in,"September 
+High Consequence Work-"
+,"# 
+1 
+2024"
+relation to the selected sustainability information as presented in GrainCorps 2024 Sustainability,related Injuries
+Report and in the table below (Information Subject to Assurance):,Main Type of Work-related
+,"Type 
+Hand"
+,Injury
+"Reporting 
+Selected Sustainability",
+"Topic 
+Units 
+Value assured","Environment 
+Tonnes  General waste to landfill 
+2,422"
+"period 
+Information",
+,"# 
+Employees by Country  
+table on page 58"
+"Scope 1 GHG emissions  
+54,546 
+tCO2e",
+,Senior Leadership
+Scope 2 GHG emissions,"# 
+table on page 58"
+"60,086 
+tCO2e",Composition
+(tCO2e),
+,"People 
+% Employees by Age"
+"GHG emissions per tonne 
+0.003 
+tCO2e","% 
+table on page 58"
+,Group
+"TJ 
+Total energy use  
+1,270",
+,Harvest casual workforce -
+"GJ 
+Energy use per tonne  
+0.034","# 
+table on page 58"
+,Snapshot
+Natural gas  56.2%,
+Electricity  23.8%,
+"1 July 
+Environment 
+Diesel (transport)  10.6%",Criteria Used as the Basis of Reporting
+"Diesel (stationary)  6.6% 
+2023 to 30 
+  
+% 
+Energy use by Source (GJ)",
+LPG (stationary)  2.1%,"The criteria used to prepare the Information Subject to Assurance are GrainCorp Limited policies,"
+June 2024,
+Gasoline (transport)  0.4%,"procedures, and methodologies as documented in the 2024 Sustainability Report (Criteria)."
+Other  0.3%,
+"KL
+Water use 
+529,574",Basis for Conclusion
+"KL 
+Water use per tonne  
+0.014",
+Tradewaste discharge per,We conducted our work in accordance with Australian Standard on Assurance Engagements
+"KL 
+0.007",
+tonne,ASAE 3000 Assurance Engagements Other than Audits or Reviews of Historical Financial
+Loss of containment events,Information and ASAE 3410 Assurance Engagements on Greenhouse Gas Statements
+"2 
+#",
+ Level 4 and 5,"(collectively, the Standard). In accordance with the Standard we have:"
+"# 
+Grants  
+55",
+,used  our  professional  judgement  to  plan  and  perform  the  engagement  to  obtain  limited
+"# 
+Sponsorships  
+119",
+,assurance that we are not aware of any material misstatements in the information subject to
+"1
+Community 
+Community Groups","assurance, whether due to fraud or error;"
+"# 
+174",
+Supported,
+,"considered relevant internal controls when designing our assurance procedures, however we"
+"$ 
+Sponsorships and Grants  
+730,600 
+ October",
+,do not express a conclusion on their effectiveness; and
+"2023 to 30 
+# 
+Food safety  audits  
+25",
+September,"ensured that the engagement team possess the appropriate knowledge, skills and professional"
+"F
+# 
+Food safety  audit days  
+31.58",
+ood safety,competencies.
+"2024 
+Food safety  processing",
+"and 
+# 
+4",
+sites audit,
+consumer,
+Food safety  product,2
+"confidence 
+# 
+0",
+recalls,"KPMG, an Australian partnership and a member firm of the KPMG global organisation of independent member firms affiliated with"
+"KPMG, an Australian partnership and a member firm of the KPMG global organisation of independent member firms affiliated with","KPMG International Limited, a private English company limited by guarantee. All rights reserved. The KPMG name and logo are"
+"KPMG International Limited, a private English company limited by guarantee. All rights reserved. The KPMG name and logo are",trademarks used under license by the independent member  firms of the KPMG global organisation.  Liability limited by a scheme
+,approved under Professional Standards Legislation.
+
+=== Table 12 (page 87) ===
+GRI*/SASB/TCFD Indicator,Description,Location
+Waste,,
+GRI 13.8.1,Management of material topics,Environment
+GRI 13.8.2,Waste generation and significant waste-related impacts,Environment
+GRI 13.8.3,Management of significant waste related impacts,Environment
+GRI 13.8.4,Waste generated,Environment
+GRI 13.8.5,Waste diverted from disposal,Environment
+GRI 13.8.6,Waste directed to disposal,Environment
+Energy,,
+GRI 302-1,Energy consumption within the organisation,Environment
+GRI 302-3,Energy intensity,Environment
+GRI 302-4,Reduction of energy consumption,Environment
+SASB FB-AG-130a.1,(1) Operational energy consumed,Environment
+,(2) Percentage grid electricity,
+,(3) Percentage renewable energy,
+Emissions,,
+GRI 13.1.1,Management of material topics,Environment
+GRI 13.1.2,Direct (Scope 1) GHG emissions,Environment
+GRI 13.1.3,Indirect (Scope 2) GHG emissions,Environment
+GRI 13.1.5,GHG emissions intensity,Environment
+GRI 13.1.6,Reduction of GHG emissions,Environment
+SASB FB-AG-110a.1,Gross global Scope 1 emissions,Environment
+
+=== Table 13 (page 88) ===
+GRI*/SASB/TCFD Indicator,Description,Location
+SASB FB-AG-110a.2,Discussion of long-term and short-term strategy or plan to,Environment
+,"manage Scope 1 emissions, emissions reduction targets and",
+,an analysis of performance against these targets,
+SASB FB-AG-110a.3,"Fleet fuel consumer, percentage renewable",Environment
+Climate,,
+GRI 13.2.1,Management of material topics,Climate
+,,Sustainable agriculture and Nature
+GRI 13.2.2,Financial implications and other risks and opportunities,Climate
+,due to climate change,
+SASB FB-AG-440a.1,Identification of principal crops and description of risks,Climate
+,and opportunities presented by climate change,
+TCFD,The Climate section of this report contains GrainCorp’s climate-related,GrainCorp’s approach to reporting against core elements of TCFD’s recommended climate-related
+,disclosures and has been prepared with reference to the Taskforce,financial disclosures are discussed in the Sustainability governance and Climate sections of
+,on Climate‑related Financial Disclosures (TCFD). The TCFD has been,this report.
+,disbanded and GrainCorp has commenced developing disclosures in line,
+,with the Australian Sustainability Reporting Standards (ASRS). The ASRS,
+,"comes into effect on 1 January 2025 and in the meantime, we continue to",
+,reference the TCFD,
+Sustainable agriculture and Nature,,
+GRI 13.3.1,Management of material topics (Biodiversity),Sustainable agriculture and Nature
+GRI 13.4.1,Management of material topics (Natural ecosystem conversion),Responsible sourcing and Human rights
+,,No-deforestation commitment
+GRI 13.5.1,Management of material topics (Soil health),Sustainable agriculture and Nature
+GRI 13.6.1,Management of material topics (Pesticides use),Sustainable agriculture and Nature
+,,Food safety and consumer confidence

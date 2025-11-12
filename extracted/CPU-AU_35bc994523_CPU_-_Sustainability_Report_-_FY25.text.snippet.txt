@@ -1,0 +1,264 @@
+=== Page 4 ===
+Computershare Sustainability Report 2025 4
+IntRoductIon
+FY25 Year in focus
+In our 2024 ESG Report, we listed the following priorities for the FY25 reporting period. This table provides a progress update:
+1Preparing for the implementation and 
+governance of the new mandatory 
+reporting standards (ASRS) required 
+for FY26 In progressCompleted scenario analysis on climate-related risks 
+and opportunities. 
+Developed protocols to support governance models. 
+Changed internal management reporting approach 
+to begin transition to ASRS standards.
+2Ongoing implementation of our Net 
+Zero program (update on five-year 
+decarbonisation plan)In progressContinued work on our identified hotspot areas.
+3Agree on a third-party assurance 
+program for our FY25 greenhouse gas 
+data/carbon footprint measurementCompleteReviewed reporting approach for Scopes 1 and 2 in 
+line with ASRS Disclosures. 
+Computershare’s Internal Audit team completed a 
+validation review of the FY25 carbon footprint data.
+4Further our materiality assessment 
+by incorporating external stakeholder 
+engagementIn progressWork is due to be completed during FY26 in 
+readiness for mandatory climate reporting (ASRS). 
+5Increased supply-chain management 
+and supplier engagement in relation to 
+carbon dataIn progressIncreased the coverage of supplier carbon data 
+in relation to our total purchased goods and 
+services spend (from ~36% in FY24 to ~50% 
+in FY25) to improve the quality of our Scope 3 
+emissions reporting. 
+Over FY26, we aim to enhance our climate focus by:
+ ›Completing our implementation of new mandatory ASRS requirements and preparation for FY26 disclosures 
+ ›Ongoing implementation of our Net Zero program (including our five-year decarbonisation plan) Continuing to develop 
+and embed our supplier engagement program
+ ›Continuing to develop and embed our supplier engagement program
+ ›Continuing to improve the quality of our carbon data and calculation methodology
+
+=== Page 9 ===
+Computershare Sustainability Report 2025 9StRA teGy
+Sustainability Opportunities
+Computershare’s long-term success goes hand-in-hand 
+with our success in developing our people, strengthening 
+our communities and protecting our environment. 
+We’re proud of what we’ve accomplished so far and will 
+continue to share our progress as we expand our efforts in 
+these areas. 
+Key to developing our business and helping us deliver on 
+our sustainability goals is our ongoing work to increase 
+the levels of digitisation across our products and services, 
+reducing reliance on paper and transportation.
+Digitalisation and systems are at the core of 
+Computershare’s value proposition and are integral to our 
+growth strategy. As just one example, Computershare 
+is investing in new digital platforms to support Issuer 
+Services business. The initial launch saw the introduction 
+of Sphere in the USA, delivering an intuitive digital 
+platform which provides advanced insights to support 
+our Issuer clients deliver on their strategy and regulatory 
+requirements. Our intent is to roll this out globally.
+Computershare continues to seek opportunities to drive 
+growth across our business, including through further 
+digitisation   and identification of new clients in line with 
+our group business and sustainability strategy. Please 
+refer to our Annual Report for more details. 
+Strategic accomplishments for FY25
+digitisation Initiatives and Growth 
+Over the past year, we have embarked on a major project 
+to enhance our digital offerings, representing a significant, 
+multi-year investment. Our overarching goal is to make it 
+easier and more efficient for Issuer Services clients and 
+their shareholders to do business with us. 
+For instance, we have delivered a range of new product 
+features for shareholders, giving them more options to 
+transact with us digitally. These include a fully digital share 
+transfer service, instant registration when joining Investor 
+Centre, a new AI chatbot channel for customer support, 
+a new product to access tax information more efficiently, 
+and the Investor Centre mobile app, giving shareholders 
+instant access to information on the go. Since launching these new digital offerings in the US, 
+our largest market, we’ve seen a high take-up rate of 
+shareholders taking advantage of these features for 
+convenience. As a result, we’ve observed:  
+1. Increasing digital Self Service : Customers are 
+moving from analogue transactions (paper/mail, and 
+phone calls or emails to our employee agents) to new 
+digital offerings. Year-on-year, analogue transactions 
+have declined by 12%.
+2. Reduced consumption of paper: Our new digital 
+offerings have significantly reduced the incidence 
+of shareholders transacting with us via mail.  
+Examples include:
+ › A fully digital onboarding journey has reduced 
+mailing of  access codes by 41%
+ › A new customer journey for digital transfers has 
+reduced the number of paper forms being mailed 
+by shareholders to complete transfers by 14%
+ › The Investor Centre Mobile app allows customers 
+instant access to their portfolio, at any time 
+from anywhere; this includes access to digital 
+statements and tax documents, reducing the 
+need for them to receive hard copies
+As a consequence of shareholders increasing their 
+use of our digital products, we’ve seen a 13% reduction 
+(year-on-year) in the overall volume of inbound 
+documents, mail and paper.
+Sites and equipment
+We have initiated a global site rationalisation project 
+within our Communication Services business (CCS) that 
+will reduce the number of production sites in Australia. 
+We also plan to; reduce floor space and further energy 
+efficiencies. 
+We continue to invest in our print and mail fleets, replacing 
+legacy machines that have reached end-of-life with 
+more energy and resource efficient equipment resulting 
+in fewer machines in operation. Market forces, such 
+as regular increases in postage costs and regulatory 
+changes, are reducing demand for physical print and mail 
+across most of our regional businesses whilst our digital 
+offerings are seeing a corresponding increase in demand. 
+We expect this will result in Scope 1 emission benefits in 
+future periods.
+
+=== Page 13 ===
+Computershare Sustainability Report 2025 13
+Metrics and targets
+Calculating our FY25 carbon footprint 
+Computershare engages an external adviser to support 
+the annual calculation of our global carbon footprint. 
+This process includes any required adjustments 
+to previously reported years (or base years) where 
+acquisitions, divestitures, data improvements or identified 
+data errors result in a change to the calculated total 
+footprint that is greater than 5%, exceeding our materiality 
+threshold in line with the Greenhouse Gas (GHG) Protocol.
+We first calculated our carbon footprint for the 2020 
+calendar year (CY20) and published the results in our 
+2021 Annual Report. That same year, we reported a major 
+reduction in Scope 2 emissions by purchasing Renewable 
+Energy Certificates (RECs), covering 100% of our 
+non-renewable electricity consumption across all global 
+locations. We have renewed this commitment every 
+year since; we will continue to explore opportunities to 
+install renewable energy solutions across our portfolio of 
+offices globally.
+In 2022, we set a target to reach Net Zero by 2042. 
+To support this, we recalculated our CY21 footprint to 
+include all remaining Scope 3 emissions, as required by 
+the Science Based Targets initiative (SBTi) for Net Zero 
+target setting.
+Following three consecutive calendar year reports, 
+we transitioned to financial year (FY) reporting in FY24 
+to align with mandatory climate disclosures under 
+the upcoming ASRS, effective from FY26. FY25 marks 
+our second year of financial year carbon footprint 
+measurement. This alignment ensures consistency in 
+year-on-year emissions tracking and science-based target 
+reporting. 
+FY25 represents a transitional year in strengthening our 
+climate governance and preparing for the progressive 
+implementation of ASRS requirements. This year’s 
+footprint reflects a focus on data quality across all scopes, 
+driven by:
+ ›Systematic review of source data impacting 
+recalculations triggered by an uplift programs in 
+procurement.
+ ›Improved supplier engagement and access to primary 
+emissions data.
+ ›Updated methodologies and emission factors, aligned 
+with the latest GHG Protocol and DEFRA guidance.These enhancements have led to more accurate and 
+representative estimates of GHG emissions. Compared 
+to our base year, total emissions (including optional 
+categories) increased by 22%. This increase is a direct 
+result of Scope 3 emissions, which increased by approx. 
+56%. Scope 1 and 2 emissions decreased by approx. 34% 
+and approx. 99% respectively.
+Computershare has continued to focus on improving the 
+quality and maturity of our data collection. During FY25, 
+we have significantly improved our capacity to identify 
+Scope 3 emission exposures across our extensive global 
+supply chain. Within this category, we identified additional 
+supply chain exposures that hadn’t been captured in our 
+reporting history, due to system and process limitations; 
+for example, exposures arising from IT service activities 
+and employee benefits, as opposed to those related to 
+computer hardware manufacturers. Our introduction of a 
+new financial system during FY24 and FY25 has provided 
+greater transparency to components of our spending, and 
+has created clearer pathways for categorisation. 
+These improvements have enabled us to reassess 
+treatment across data sets, identify incomplete areas, and 
+improve the quality of our baseline emissions reporting.  
+In line with our re-baselining policy and the GHG Protocol, 
+any changes to reported emissions greater than 5% due to 
+methodology changes will result in re-baselining. We will 
+undertake this change and report on it in FY26.
+Our carbon footprint for FY25 (1 July 2024 to 30 June 2025) 
+was calculated in August 2025 using the most up-to-date 
+methodology and data sources. This positions us well for 
+the increasing regulatory expectations of ASRS so that 
+our emissions reporting remains robust, transparent, and 
+actionable.
+
+=== Page 14 ===
+Computershare Sustainability Report 2025 14
+MetRIc S And t ARGetS
+Our FY25 carbon footprint 
+Our current carbon footprint for FY25 (July 24 to June 25) is shown in in the table below. 
+Scope/type1  Base year 
+emissions 
+(t co2e)Fy25 
+emissions 
+(t co2e)  
+Share  
+(~%) change to 
+Base y r 
+(t co2e) change to 
+Base y r  
+(~%) 
+Scope 1 2,791 1,847 2% -944 -34%
+Heat 2,519 1,458 2% -1,062 -42%
+Generators 30 60 <1% 30 101%
+Vehicles 45 160 <1% 115 254%
+Refrigerants 197 170 <1% -27 -14%
+Scope 2 8,065 129 <1% -7,937 -98%
+Electricity and EVs (market)28,065 41 <1% -8,024 -99%
+Electricity and EVs (location) 15,370 13,095 14% -2,275 -15%
+District heating - 88 <1% 88 N/A
+Scope 3 67,042 93,221 98% 26,178 39%
+Purchased goods and services 35,404 55, 160 60% 19,756 56%
+Capital goods 6,385 3,307 4% -3,078 -48%
+Fuel and energy related activities 1,235 1,357 1% 122 10%
+Upstream Transportation and Distribution 9,654 7,814 8% -1,840 -19%
+Waste 1,441 617 <1% -825 -57%
+Travel34,782 7,282 8% 2,500 52%
+Employee Commuting46,827 16,692 18% 9,865 145%
+End of life Sold Products 53 50 <1% -2 -5%
+Investments 1,261 941 1% -320 -25%
+totals 77,898 95,197 100% 17,298 22%
+NOTE 1: The sum of totals and percentages may not add up to 
+100% because of rounding
+NOTE 2: Scope 3 emissions across business travel and employee 
+commuting categories have respectively increased by 52% and 
+145% to baseline FY23, primarily due to a return to normal travel 
+levels after the Covid pandemic and a mandatory return to office 
+requirement implemented during FY24.
+1 Our base year is FY21 for Scopes 1 and 2 and FY23 for Scope 3. 
+2 Computershare report on market-based electricity emissions. Scope 2 
+emissions, when reported using the location-based method, would 
+equate to 13,183t CO2e
+3 In previous years, emissions per hotel night have been reported. 
+These emissions are optional to include and are not part of the SBTi 
+target-setting boundary for Computershare. In FY25, these emissions 
+have been excluded from the calculation. Emissions per hotel night from 
+the base year have also been removed for comparability.
+4  Emissions from remote working have been included in the table above, 
+but are optional to include and are not part of the SBTi target-setting 
+boundary for ComputershareVisual breakdown of our scope 1,2 & 3 emissions 
+for FY25
+2% Scope 1
+<1% Scope 2
+98% Scope 3

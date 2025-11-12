@@ -1,0 +1,56 @@
+=== Table 1 (page 30) ===
+Impact and innovation,Gross emissions have been estimated using a standardised
+,approach based on activity data and emission factors.
+Greenhouse gas emissions,
+,"Activity data collected – such as fuel combustion, electricity"
+We completed our third annual calculation of the Group’s,
+,"usage, distance travelled, or dollars spent – were multiplied"
+"GHG emissions in FY25, demonstrating our commitment to",
+,by relevant emission factors. Emissions factors are coefficients
+keeping our stakeholders informed of the Group’s carbon,
+,that estimate the amount of GHGs emitted per unit of activity.
+footprint. The nature and modest quantum of the Group’s,
+,IPH has used publicly available emission factors published
+emissions set out in the table below reflect the low‑emission,
+,by the United States Environmental Protection Agency and
+nature of professional services businesses.,
+,Australian National Greenhouse Accounts Factors.
+Our ongoing efforts to track our GHG emissions are essential for,
+,The increase in Group GHG emissions from FY24 to FY25
+monitoring our environmental impact. The GHG emissions data,
+,is mainly attributed to the acquisition of the Bereskin & Parr
+set out in this report adheres to international standards such,
+,"business during FY25, and the full year impact of businesses"
+"as the International Greenhouse Gas Protocol (GHG Protocol),",
+,acquired part year through FY24.
+"which is adopted by AASB S2, along with ISO 14064‑1 Standard",
+for the reporting of GHG emissions and removals.,Scope 3 GHG emissions
+,Scope 3 GHG emissions represent indirect emissions
+"During FY25, IPH:",
+,arising from activities across our value chain that are not
+"— formalised a basis of preparation, which provides clear",
+,included in Scope 1 or Scope 2 and are the highest source
+"guidance as to the methods of calculation, including",
+,of GHG emissions for the Group as a network of professional
+"appropriate emission factors, for the Group’s Scope",
+,services businesses.
+"1, 2 and applicable Scope 3 GHG emissions;",
+,The graph below depicts the categories that comprise the
+"— established a boundary setting policy, by adopting",
+,Group’s Scope 3 GHG emissions.
+"the operational control method. Under this method,",
+IPH accounts for 100% of its emissions from,
+,Puchased Goods & Services (Category 1)
+"operations over which it, including its subsidiaries,",
+,"9,284"
+"has operational control, as Scope 1 emissions;",
+,"6,806"
+— refined the methodology and conversion factors used,
+,Capital Goods (Category 2)
+for estimating and calculating GHG emissions; and,
+,180
+— established more robust processes and controls to ensure,
+,740
+data used to calculate emissions is complete and accurate.,
+,Fuel & Other Energy-Related Activities (Category 3)
+The Group’s FY24 comparative GHG emissions data has been,

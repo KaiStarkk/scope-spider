@@ -1,0 +1,215 @@
+=== Page 37 ===
+ANNUAL REPORT 2025
+Directors’ report
+Sustainability report
+Targets and progress
+Measurement, reporting, target setting, and monitoring are covered 
+in “Quantification of impacts, risks and opportunities ”, supported by 
+relevant data and definitions. We provide details on our Scope 1, Scope 
+2, and operationally controlled Scope 3 emissions. As our customers 
+typically control building operations within our industrial and data centre 
+properties, our current Scope 3 list is limited but will expand to include 
+embodied carbon from development as data becomes available.
+We believe that the way to measure the true sustainability of our activities 
+is in relation to the overall impact on the economy and planet. This is best 
+done through a lens of total economic output and the energy efficiency 
+of those activities. We are considering methods by which to reflect this, 
+but have identified the intensity of CO2 per unit of economic output as a 
+potential metric. If this is not practical, an alternative or newly developed 
+intensity measure that accurately represents our activities will be sought. 
+This is important to enable us to find the right strategies for the future so 
+we can deploy capital in a way that is aligned with our long-term goals.
+The key targets and initiatives are included in the " Performance 
+reporting " section of this report. Some of these are under review given the 
+changes in our business, the consideration of relative intensity measures, 
+technology, legislation and market practices. The targets and initiatives 
+are categorised as follows:
+Climate related:
++ Emission reduction within our Scope 1, Scope 2 and selected Scope 3 
+based on operational control
++ Sourcing renewable energy
++ Continuing to install PV capacity on site
++ Emission reduction in embodied carbon from development
++ Maintenance of high occupancy in the portfolio
++ Climate scenario analysis ongoing to manage hazard risks
++ Monitoring and management of the impacts on nature 
+and biodiversity.
+Non-climate related:
++ Health and safety of workers
++ Sustainable sourcing through our supply chain
++ Diversity of workforce
++ Capital management practices
++ Social contributions
++ Workplace culture
++ Compliance with legislative and corporate requirements.Link between business and sustainability strategy
+Our annual business strategy integrates Goodman’s sustainability 
+objectives from the 2030 Sustainability Strategy. These objectives are 
+consistent with our desire to generate financially attractive outcomes 
+over the long term. It was established in 2019 and captures the 
+sustainability priorities of our global business, and accounts for the major 
+priorities of our customers and long-term investment partners.
+Our sustainability report includes consideration and discussion of 
+sustainability risks and opportunities of a material nature that have been 
+identified by management and the Group's approach to them – this 
+includes climate risks and opportunities.     
+37For personal use only
+
+=== Page 44 ===
+GOODMAN GROUP
+Directors’ report
+Sustainability report
+Risk/opportunity Description Initiatives
+Physical damage to buildings Hazards such as floods, heat, storms Location selection and building specifications are considered. We continue to 
+perform analysis to consider potential losses and make modifications to the 
+portfolio as required. We also insure against a wide range of potential events.
+Refer to " Business impact quantification" section below for climate exposure 
+assessment, which considers medium and longer-term impacts under various 
+climate scenarios (including business-as-usual, medium, and strong carbon 
+mitigation scenarios).
+Building specification is too low to 
+meet industry sustainability standards 
+impacting customer, investor and 
+financier demandEnergy, waste, water, worker comfort In contributing to the carbon reduction ambitions of the global economy, 
+including addressing our own emission reduction plans, we have taken a 
+building life cycle approach to the review of climate in most regions to see 
+where we can reduce upfront and operational carbon emissions. This life cycle 
+approach also supports our customers and investors to meet their emission 
+reduction targets.
+We make investments in sustainability that are commercially viable and 
+technically achievable on both existing assets and new developments. Where 
+properties are likely to be redeveloped within a foreseeable time frame, the 
+investment is deferred until that time.
+Emissions within our portfolio and 
+corporate activities are too highGHG emissions (Scopes 1, 2 and 3) Scope 1 , Scope 2 and limited component of Scope 3 (refer definition 
+in the " Quantification of impacts, risks and opportunities" section): These 
+are items we have operational control over. We aim to make progress by 
+using a combination of methods ranging from generating and/or purchasing 
+renewable energy, energy efficiency measures, behavioural change and 
+consider purchasing offsets when appropriate.
+Remaining Scope 3 items (excluded from the items above): Emissions 
+predominantly outside of our operational control. We do not have an exclusion 
+policy in respect of customer emissions (i.e. downstream leased assets). Their 
+energy use, as this is not necessarily the signal of inefficiency in either their 
+operations or our buildings. We choose customers who we believe offer a 
+viable product or service and are themselves viable. This involves taking a 
+view on their ongoing ability to pay rent by reviewing their financial position, 
+business strategy and approach to sustainability as a whole. We do work with 
+our customers to find ways to promote energy efficiency through building 
+design and inclusions.
+Apart from the measurement of embodied carbon in our developments, we 
+also encourage the creation of lower emissions alternatives that are viable and 
+can meet our structural needs by participating in experimental activities and 
+working with suppliers to investigate options. At this point there is no clear 
+pathway for certain low carbon products such as steel or concrete that we 
+can ascribe either a value or a time horizon to, but we will seek to use the 
+appropriate products and methods as they become available.
+The concept of emissions from sold products is not useful in understanding the 
+Group's sustainability. The future uses of our assets are not predictable and 
+the variability of the sales activity is low. As a result, we exclude this from our 
+calculations and targets.
+All other Scope 3 items are immaterial to our business.
+Poor financial performance may 
+impact on our access to capital and 
+inhibit our ability to manage climate 
+risks and opportunitiesLoss of support from financiers and 
+investorsMaintain strong focus on achieving financial performance targets while 
+containing financial risks.
+Culture can impact on reputation and 
+ability to continue to operateEmployee behaviour may impact on 
+performance, leading to complacency 
+which may have a detrimental impact 
+on our social licence and subsequently 
+investor support.
+Our values incorporate inclusion and 
+diversity as well as safety, so we seek 
+to align our culture in a manner that 
+can address these risks.
+A broader risk management 
+framework exists which includes items 
+relevant to sustainability (including 
+climate).Appropriately align our employees with our strategic intent and expected 
+standards through remuneration policies, training and support.
+Our community investments such as donations of time and/or money to 
+charitable organisations.
+We have a sustainable sourcing framework that takes human rights 
+into consideration.
+44
+For personal use only
+
+=== Page 52 ===
+GOODMAN GROUP
+Directors’ report
+Sustainability report
+Quantification of impacts, risks and opportunities
+Emissions
+Goodman sees emission reduction as a priority, and we have set ourselves targets to help achieve this. We aim to make progress by using a 
+combination of methods ranging from renewable energy sources and energy efficiency measures to behavioural change. In each instance, we are 
+guided by availability of market solutions, practicality of implementation, and economic rationality. When applying time frames, we consider the 
+expected life of the investment. While reducing our emissions remains a priority, Goodman may consider carbon offsets to supplement our emissions 
+reduction activities and accommodate for market and product limitations.
+When considering carbon emissions from our operations we are focused on Scope 1 and Scope 2, as well as the various components of Scope 3 (as 
+defined in Note 3 of the table overleaf). We are reviewing the appropriate reporting and targets associated with Scope 3 emissions and aim to comply 
+with the impending Australian Accounting Standards Board disclosure requirements as soon as practically possible.
+Goodman uses the Climate Active Carbon Neutral Standard for Organisations to help manage and calculate greenhouse gas emissions that occur as 
+a result of our operations. It certifies organisations which measure, reduce, and offset carbon emissions in accordance with their standard. Climate 
+Active defines carbon neutral as: "Reducing emissions where possible and compensating for the remainder by investing in carbon offset projects to 
+achieve net zero overall emissions . Offsets are generated from an activity that prevents, reduces or removes greenhouse gas emissions from being 
+released into the atmosphere.”
+For Group reporting of our Scope 1 and Scope 2 emissions reduction and renewable energy targets, we use the GHG protocol to measure the items 
+within our emissions boundary. Our emissions boundary is based on an operational control approach, including activities in those areas of our property 
+portfolio where we have control over day-to-day operations and our corporate activities, including some Scope 3 emissions (refer to "GHG Scope" 
+table). It excludes other sources of Scope 3 emissions such as emissions from our customers’ activities within leased areas, and the embodied 
+emissions from developments.
+We expect to maintain our status as a Carbon Neutral Organisation for our global operations in FY25 under Climate Active. As part of our 
+commitment, we annually report our operational carbon inventory to Climate Active for verification. For reporting purposes, we take into account 
+100% of the emissions within our defined boundary, irrespective of our share of equity ownership in the properties. We continue to look for ways to 
+lower our operational emissions and increase our use of renewable electricity. Purchasing certified GreenPower electricity in our Australian operations 
+and using renewable energy certificates have been key factors. To meet our commitment, we intend to purchase Australian Carbon Credit Units 
+(ACCUs) to offset our residual operational emissions - for more information relating to renewable energy certificates and ACCU sources, please refer 
+to Climate Active’s website. We note that Climate Active is considering a change to the future direction of the program, and we will monitor any 
+potential changes.
+Our annual operational emissions are included in the following table.
+52
+For personal use only
+
+=== Page 53 ===
+ANNUAL REPORT 2025
+Directors’ report
+Sustainability report
+GHG Scope1,2,3,4Emissions source2021
+tCO2-e2022
+tCO2-e2023
+tCO2-e2024
+tCO2-e2025
+tCO2-e
+Scope 1Fuels 898 846 896 735 763
+Natural gas 1,001 899 822 1,199 1,347
+Refrigerants 1,414 1,360 1,775 1,972 1,709
+Total Scope 1 3,313 3,105 3,493 3,906 3,819
+Scope 25Electricity (market-
+based)37,065 11,637 2,566 2,570 106
+Electricity 
+(location-based)37,065 29,777 32,867 31,862 32,139
+Total Scopes 1 and 2 Market-based 40,378 14,742 6,059 6,476 3,925
+Total Scopes 1 and 2 Location based 40,378 32,882 36,360 35,768 35,958
+Scope 3 12,583 8,964 13,183 13,844 15,213
+Total Emissions (including Scope 2 - market-based) 52,961 23,706 19,242 20,320 19,138
+Total Emissions (including Scope 2 - location-based) 52,961 41,846 49,543 49,612 51,171
+Offsets purchased and retired 52,962 23,705 19,241 20,320 In progress
+Net Emissions - market based nil nil nil nil In progress
+1Data tables, including any estimates used, may be updated as more current data becomes available.
+2At the time of writing, FY25 data is in the process of verification by qualified independent third parties and final data will be updated on our website. Until then, data should be considered to 
+include estimates.
+3Our emissions boundary is based on an operational control approach (we refer to the GHG Protocol), including Scope 3 emissions relating to transmission and distribution of energy, waste, water use, 
+data servers, staff commuting, working from home, business travel, advertising, cleaning, telecommunications, and other corporate expenses. For the purpose of this report, other scope 3 items, such as 
+future emissions from sold products, embodied carbon from developments and customer emissions data have not been included. We are however tracking these and are continuing to develop better 
+methods of capturing and reporting. We are also working on strategies to manage the emerging risks and opportunities (as outlined in the preceding sections).
+4Data derived from invoices and meter readings are the primary method used for validation. Where required due to timing, new acquisitions or developments, and site and meter access, estimates are 
+used based on extrapolation or prior period comparisons.
+5Goodman reports both location and market-based electricity emissions. Under the market-based approach, calculations for electricity emissions include the use of market-based instruments such as 
+the retirement of renewable energy certificates. Location-based emissions reporting is based on average energy generation emission factors for defined locations.
+By procuring renewable electricity (and using market-based instruments), we have reduced our Scope 1 and Scope 2 emissions by -90% relative to 
+the 2021 baseline year. The resumption of travel following the period that was heavily impacted by the pandemic, has resulted in an increase in Scope 
+3 emissions within our operational boundary. Overall, emissions within our operational boundary under the market-based measure are down -64% 
+since 2021.
+53For personal use only

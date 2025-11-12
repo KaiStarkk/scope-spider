@@ -1,0 +1,63 @@
+=== Page 1 ===
+3Environmental Data Summary FY25
+Unit Group FY24 Group FY25 Australia New Zealand Other
+Climate Change – Organisational Emissions
+Buildings/Sites reporting electricity data# sites 1, 2124 125 67 28 30
+Scope 1 – Total GHG emissions 3, 4btCO2e 3,530 3,343 2,781 525 38
+Fugitive gases – Refrigerants tCO2e 555 459 343 78 38
+Transport Fuel – Diesel/Petrol tCO2e 678 537 375 162 -
+Stationary Fuel – LPG, Petrol and Diesel tCO2e 374 339 56 283 -
+Natural Gas tCO2e 1,924 2,009 2,007 2 -
+Scope 1 – Carbon Offsets – Retired 10tCO2e 3,530 3,343 2,781 525 38
+Scope 2 – Electricity Total GHG emissions Location Based 4a, 5tCO2e 18,289 18,257 16,574 1,014 670
+Residual Scope 1 and 2 Carbon Emissions Location Based 4a, 5tCO2e 18,289 18,257 16,574 1,014 670
+Scope 2 - Electricity Total GHG emissions Market Based 4a, 6tCO2e not disclosed 15,311 14,641 - 670
+Residual Scope 1 and 2 Carbon Emissions Market Based 4a, 6, 7tCO2e not disclosed 15,311 14,641 - 670
+Total Electricity Not Considered Renewable 12 MWh not disclosed 32,881 21,756 10,024 1,101
+Eligible Offsets (RECs, LGCs, GreenPower) 7MWh not disclosed 13,705 3,681 10,024 -
+Outbound road-freight related Carbon Offsets – Retired tCO2e 18,261 20,088 
+Energy – Building Data
+Gross Energy Consumed 000GJ 179.1 188.2 143.3 40.9 4.0
+Natural Gas 000GJ 37.4 39.0 38.9 <0.1 -
+Fuel (LPG) 000GJ 5.2 5.3 0.6 4.8 -
+Gross Electricity Consumed 9000GJ 136.4 143.8 103.8 36.1 4.0
+Total Renewable Energy Generated 000GJ 7.8 12.9 12.9 - -
+No. of sites with rooftop solar installation 8# sites 8 9 9 - -
+GFA of sites with rooftop solar installation GFA m2131,940 136,074 136,074 - -
+Electricity Reduction Target - Distribution Centre Intensity Metric 14
+Electricity Intensity - 15% reduction from FY21 baseline (86 kWh/m2 GFA) kWh/m2 GFA 76.9 75.4
+% Reduction from Baseline % 10.58% 12.33%
+Water – Building Data
+Water Use 13# sites 14 14 8 6 -
+GFA m275,348 84,847 44,724 40,123 -
+Mega Litres 70 86 79 7 -Environmental Data Summary FY25
+Data Notes
+1.  Included are EBOS Group Ltd and all its subsidiaries as disclosed in its 2024 Annual Report, but excluding (i) entities listed as investments in associates over which we don’t have full management control such as 
+Animates NZ Holdings Limited, as well as acquisitions that occurred during the reporting year. TWC and HPS pharmacies over which we don’t have operational control are excluded but the head office functions are 
+included.
+2.  125 facilities are reported in FY25, 120 facilities have Scope 1 emissions, and all facilities reported Scope 2 emissions. 125 facilities include those that were opened or closed during the period. The number of facilities at  
+30 June 2025 is 133. 
+3.  Scope 1 includes fugitive gases and direct emissions from consumption of gas for domestic and industrial use such as fuel for material handling equipment, generators, water pumps and fire hydrants. The emissions 
+factors used are based on the Australian National Greenhouse Accounts and NZ Ministry for Environment.
+4. Electricity, natural gas and LPG has been calculated using billing data. Where there are data gaps, those have been estimated.
+a. Estimated electricity ~4.8%
+b. Estimated natural gas ~0.1%
+5.  Location-based Scope 2 emission factors for NZ are sourced from the Ministry of Environment (2025). For Australia, factors are sourced from the Australian National Greenhouse Accounts Factors (2024) and for ASEAN 
+and HK, factors from the International Energy Agency (2024). The decrease in emissions from electricity are due to updated emissions factors and increased solar generation.
+6.  Market-based Scope 2 emissions factors for NZ are sourced from BraveTrace (https://bravetrace.co.nz/). For Australia, factors are sourced from the Australian National Greenhouse Accounts Factors (2024).  
+For ASEAN and HK, the factors from the International Energy Agency (2024) were used as market-based factors were unavailable at time of reporting. 
+7.  Certified Renewable Energy was purchased for all 10.02GWh EBOS’ electricity in NZ, and GreenPower for three LifeHealthcare locations in Australia. Certified Renewable Energy (NZ) and GreenPower (Aus) apply zero 
+emissions electricity claims under market-based emissions reporting but not location-based.
+8. 9 facilities have roof-mounted solar. As at 30 June 2025, the GLA of these facilities represent 27.9% of the Group’s total GLA.
+9. Gross Electricity Consumed refers to all grid sourced electricity + solar generated and consumed onsite. This excludes solar electricity generated but then exported to the grid. 
+10. Carbon Offsets in FY25:
+a. EBOS acquired and retired 3,343 Australian Carbon Credit Units (ACCUs) to offset Scope 1 emissions. Each ACCU represents one tonne of carbon dioxide equivalent (tCO 2e).
+b. EBOS further acquired 20,088 tonnes of carbon offsets through a donation to Greenfleet to partially offset transport related emissions.
+11. Scope 3 emissions are not disclosed. 
+12.  Total Electricity Not Considered Renewable refers to the quantity of electricity purchased from the grid that is not considered renewable, as per the formula used to calculate market-based emissions.  
+This includes any onsite solar consumed on site, where the renewable energy certificates owned by others have been sold. The total grid electricity is discounted by the RET Renewable Power percentage to account for 
+renewable electricity cover under the LRET scheme. 
+13.  Water consumption has been calculated using billing data. Where there are data gaps, consumption has been estimated. Water billing data is often not available as it is paid for by the landlord.
+14.  Energy reduction target: EBOS has a 15% energy intensity reduction target covering all Australian and NZ Distribution Centres with 12 months of full operation. Based on FY25 data, the intensity has reduced by  
+12.3% compared to the FY21 Baseline intensity of 86 kWh/m2 GFA. As reduction measures are implemented and new more efficient sites are onboarded, the intensity value decreases. In the last quarter of FY25  
+(April-June 2025) some additional large new sites achieved full operation. As a result, the annual equivalent intensity reduction percentage improved to 13.8% for this quarter compared to the FY21 Baseline.

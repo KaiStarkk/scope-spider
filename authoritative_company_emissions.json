@@ -1,0 +1,676 @@
+{
+  "company_emissions": [
+    {
+      "company_name": "MMG",
+      "reporting_period": "N/A",
+      "emissions_basis": "Operational Control",
+      "emissions": {
+        "scope_1": {
+          "value": 648866
+        },
+        "scope_2": {
+          "value": 315044
+        },
+        "scope_3": {
+          "value": 2914385
+        }
+      }
+    },
+    {
+      "company_name": "Australian Agricultural Company Limited (AACo)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Scope 2 Location-based",
+      "emissions": {
+        "scope_1": {
+          "value": 659618
+        },
+        "scope_2": {
+          "value": 2806
+        },
+        "scope_3": {
+          "value": 159949
+        }
+      }
+    },
+    {
+      "company_name": "Aussie Broadband (ABB)",
+      "reporting_period": "FY24",
+      "emissions_basis": "GHG Protocol",
+      "emissions": {
+        "scope_1": {
+          "value": 234
+        },
+        "scope_2": {
+          "value": 4220
+        },
+        "scope_3": {
+          "value": 77085
+        }
+      }
+    },
+    {
+      "company_name": "AFG",
+      "reporting_period": "FY24",
+      "emissions_basis": "Gross emissions",
+      "emissions": {
+        "scope_1": {
+          "value": 1
+        },
+        "scope_2": {
+          "value": 115
+        },
+        "scope_3": {
+          "value": 1149
+        }
+      }
+    },
+    {
+      "company_name": "AGL",
+      "reporting_period": "FY25",
+      "emissions_basis": "Gross GHG emissions (Scope 2 Location-based)",
+      "emissions": {
+        "scope_1": {
+          "value": 30400000
+        },
+        "scope_2": {
+          "value": 250000
+        },
+        "scope_3": {
+          "value": 23200000
+        }
+      }
+    },
+    {
+      "company_name": "Aeris Resources (AIS)",
+      "reporting_period": "FY24",
+      "emissions_basis": "NGER methodology (Scope 3 not estimated)",
+      "emissions": {
+        "scope_1": {
+          "value": 55371
+        },
+        "scope_2": {
+          "value": 95445
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "ALS Limited (ALS)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Market-based Scope 2",
+      "emissions": {
+        "scope_1": {
+          "value": 36970
+        },
+        "scope_2": {
+          "value": 1603
+        },
+        "scope_3": {
+          "value": 289326
+        }
+      }
+    },
+    {
+      "company_name": "AMP",
+      "reporting_period": "FY24",
+      "emissions_basis": "Operational emissions (Selected Scope 3)",
+      "emissions": {
+        "scope_1": {
+          "value": 531
+        },
+        "scope_2": {
+          "value": 636
+        },
+        "scope_3": {
+          "value": 3758
+        }
+      }
+    },
+    {
+      "company_name": "APA Group (APA)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Operational GHG emissions (Market-based Scope 2, line loss included)",
+      "emissions": {
+        "scope_1": {
+          "value": 1862659
+        },
+        "scope_2": {
+          "value": 139281
+        },
+        "scope_3": {
+          "value": 636284
+        }
+      }
+    },
+    {
+      "company_name": "Bapcor (BAP)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Market-based Scope 2 (Scope 3 categories identified but not quantified)",
+      "emissions": {
+        "scope_1": {
+          "value": 13500
+        },
+        "scope_2": {
+          "value": 14097
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "BNK Financial Group (BBC)",
+      "reporting_period": "2023",
+      "emissions_basis": "Internal S1/S2 and Financed Emissions (S3)",
+      "emissions": {
+        "scope_1": {
+          "value": 26175
+        },
+        "scope_2": {
+          "value": 3170
+        },
+        "scope_3": {
+          "value": 25880000
+        }
+      }
+    },
+    {
+      "company_name": "Baby Bunting (BBN)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Scope 2 excluding contractual renewables (Scope 3 unavailable)",
+      "emissions": {
+        "scope_1": {
+          "value": 99
+        },
+        "scope_2": {
+          "value": 6771
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "BCI Minerals (BCI)",
+      "reporting_period": "FY24",
+      "emissions_basis": "NGER compliance",
+      "emissions": {
+        "scope_1": {
+          "value": 14183
+        },
+        "scope_2": {
+          "value": 53
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "BHP",
+      "reporting_period": "FY25",
+      "emissions_basis": "Operational Control (Market-based Scope 2)",
+      "emissions": {
+        "scope_1": {
+          "value": 7400000
+        },
+        "scope_2": {
+          "value": 1300000
+        },
+        "scope_3": {
+          "value": 378200000
+        }
+      }
+    },
+    {
+      "company_name": "Brambles (BXB)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Market-based Scope 2 (Zero Emissions)",
+      "emissions": {
+        "scope_1": {
+          "value": 29500
+        },
+        "scope_2": {
+          "value": 0
+        },
+        "scope_3": {
+          "value": 1261000
+        }
+      }
+    },
+    {
+      "company_name": "Capral (CAA)",
+      "reporting_period": "FY24",
+      "emissions_basis": "Total emissions profile",
+      "emissions": {
+        "scope_1": {
+          "value": 9450
+        },
+        "scope_2": {
+          "value": 23870
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "Credit Corp Group (CCP)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Market-based Scope 2 (Scope 3 not reported)",
+      "emissions": {
+        "scope_1": {
+          "value": 13
+        },
+        "scope_2": {
+          "value": 719
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "Challenger Group (CGF)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Market-based Scope 2",
+      "emissions": {
+        "scope_1": {
+          "value": 3
+        },
+        "scope_2": {
+          "value": 6
+        },
+        "scope_3": {
+          "value": 10254
+        }
+      }
+    },
+    {
+      "company_name": "Champion Iron (CIA)",
+      "reporting_period": "FY25",
+      "emissions_basis": "GHG Protocol (Total Scope 3)",
+      "emissions": {
+        "scope_1": {
+          "value": 124118
+        },
+        "scope_2": {
+          "value": 1171
+        },
+        "scope_3": {
+          "value": 18287918
+        }
+      }
+    },
+    {
+      "company_name": "Collins Foods (CKF)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Scope 2 Location-based (Scope 3 estimates derived from industry benchmarks only)",
+      "emissions": {
+        "scope_1": {
+          "value": 5849
+        },
+        "scope_2": {
+          "value": 69321
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "Cromwell Property Group (CMW)",
+      "reporting_period": "FY23",
+      "emissions_basis": "Group Total Emissions",
+      "emissions": {
+        "scope_1": {
+          "value": 50679
+        },
+        "scope_2": {
+          "value": 28416
+        },
+        "scope_3": {
+          "value": 135911
+        }
+      }
+    },
+    {
+      "company_name": "Cochlear (COH)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Market-based Scope 2 (Full Scope 3 inventory disclosed)",
+      "emissions": {
+        "scope_1": {
+          "value": 951
+        },
+        "scope_2": {
+          "value": 1980
+        },
+        "scope_3": {
+          "value": 66616
+        }
+      }
+    },
+    {
+      "company_name": "Computershare (CPU)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Market-based Scope 2 (Including optional Scope 3 categories)",
+      "emissions": {
+        "scope_1": {
+          "value": 1847
+        },
+        "scope_2": {
+          "value": 129
+        },
+        "scope_3": {
+          "value": 93221
+        }
+      }
+    },
+    {
+      "company_name": "Corporate Travel Management (CTD)",
+      "reporting_period": "FY24",
+      "emissions_basis": "GHG Protocol (Scope 1 is zero)",
+      "emissions": {
+        "scope_1": {
+          "value": 0
+        },
+        "scope_2": {
+          "value": 1833
+        },
+        "scope_3": {
+          "value": 11319
+        }
+      }
+    },
+    {
+      "company_name": "Cleanaway (CWY)",
+      "reporting_period": "FY24",
+      "emissions_basis": "NGER/GHG Protocol (Initial Scope 3 assessment)",
+      "emissions": {
+        "scope_1": {
+          "value": 1070000
+        },
+        "scope_2": {
+          "value": 52000
+        },
+        "scope_3": {
+          "value": 484000
+        }
+      }
+    },
+    {
+      "company_name": "CSL",
+      "reporting_period": "FY25",
+      "emissions_basis": "Market-based Scope 2 (Scope 3 not quantified in table)",
+      "emissions": {
+        "scope_1": {
+          "value": 135000
+        },
+        "scope_2": {
+          "value": 151000
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "Civmec (CVL)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Absolute Emissions (Scope 3 not calculated)",
+      "emissions": {
+        "scope_1": {
+          "value": 1772
+        },
+        "scope_2": {
+          "value": 5590
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "Dexus (DXS)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Market-based Scope 2 (Net Zero S1/S2)",
+      "emissions": {
+        "scope_1": {
+          "value": 7669
+        },
+        "scope_2": {
+          "value": 0
+        },
+        "scope_3": {
+          "value": 26006
+        }
+      }
+    },
+    {
+      "company_name": "EBOS",
+      "reporting_period": "FY25",
+      "emissions_basis": "Market-based Scope 2 (Scope 3 not disclosed)",
+      "emissions": {
+        "scope_1": {
+          "value": 3343
+        },
+        "scope_2": {
+          "value": 15311
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "Endeavour Group (EDV)",
+      "reporting_period": "FY25",
+      "emissions_basis": "NGER (Scope 3 limited to Cat 3 & 5)",
+      "emissions": {
+        "scope_1": {
+          "value": 73555
+        },
+        "scope_2": {
+          "value": 283044
+        },
+        "scope_3": {
+          "value": 56751
+        }
+      }
+    },
+    {
+      "company_name": "Elders (ELD)",
+      "reporting_period": "FY24",
+      "emissions_basis": "Market-based Scope 2 (Scope 3 limited to business travel)",
+      "emissions": {
+        "scope_1": {
+          "value": 57210
+        },
+        "scope_2": {
+          "value": 0
+        },
+        "scope_3": {
+          "value": 2047
+        }
+      }
+    },
+    {
+      "company_name": "Fortescue (FMG)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Operational Control (Market-based Scope 2)",
+      "emissions": {
+        "scope_1": {
+          "value": 2640000
+        },
+        "scope_2": {
+          "value": 520000
+        },
+        "scope_3": {
+          "value": 275880000
+        }
+      }
+    },
+    {
+      "company_name": "GALE Pacific (GAP)",
+      "reporting_period": "FY24",
+      "emissions_basis": "Scope 2 Location-based",
+      "emissions": {
+        "scope_1": {
+          "value": 3550
+        },
+        "scope_2": {
+          "value": 7114
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "Gold Fields (GOR)",
+      "reporting_period": "2024",
+      "emissions_basis": "GHG Protocol",
+      "emissions": {
+        "scope_1": {
+          "value": 800800
+        },
+        "scope_2": {
+          "value": 831600
+        },
+        "scope_3": {
+          "value": 823000
+        }
+      }
+    },
+    {
+      "company_name": "Goodman Group (GMG)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Market-based Scope 2 (Operational Boundary Scope 3)",
+      "emissions": {
+        "scope_1": {
+          "value": 3819
+        },
+        "scope_2": {
+          "value": 106
+        },
+        "scope_3": {
+          "value": 15213
+        }
+      }
+    },
+    {
+      "company_name": "GrainCorp (GNC)",
+      "reporting_period": "FY24",
+      "emissions_basis": "Scope 2 Location-based (Scope 3 not quantified)",
+      "emissions": {
+        "scope_1": {
+          "value": 54546
+        },
+        "scope_2": {
+          "value": 60086
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "GPT Group (GPT)",
+      "reporting_period": "2024",
+      "emissions_basis": "Market-based Scope 2",
+      "emissions": {
+        "scope_1": {
+          "value": 6590
+        },
+        "scope_2": {
+          "value": 21357
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "Guzman y Gomez (GYG)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Scope 2 Location-based (Scope 3 assessment in progress)",
+      "emissions": {
+        "scope_1": {
+          "value": 4651
+        },
+        "scope_2": {
+          "value": 11697
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "GWA Group (GWA)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Total emissions profile (Scope 3 not reported)",
+      "emissions": {
+        "scope_1": {
+          "value": 321
+        },
+        "scope_2": {
+          "value": 1064
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "Healius (HLS)",
+      "reporting_period": "FY25",
+      "emissions_basis": "Scope 2 Location-based",
+      "emissions": {
+        "scope_1": {
+          "value": 5703
+        },
+        "scope_2": {
+          "value": 30056
+        },
+        "scope_3": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "company_name": "Hansen Technologies (HSN)",
+      "reporting_period": "FY24",
+      "emissions_basis": "Market-based Scope 2",
+      "emissions": {
+        "scope_1": {
+          "value": 86
+        },
+        "scope_2": {
+          "value": 1631
+        },
+        "scope_3": {
+          "value": 11378
+        }
+      }
+    },
+    {
+      "company_name": "HUB24",
+      "reporting_period": "FY25",
+      "emissions_basis": "Market-based Scope 2",
+      "emissions": {
+        "scope_1": {
+          "value": 1
+        },
+        "scope_2": {
+          "value": 161
+        },
+        "scope_3": {
+          "value": 10484
+        }
+      }
+    }
+  ]
+}

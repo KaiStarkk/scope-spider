@@ -1,0 +1,4617 @@
+=== Table 1 (page 3) ===
+C1. Introduction
+(1.1) In which language are you submitting your response?
+Select from:
+☑ English
+(1.2) Select the currency used for all financial information disclosed throughout your response.
+Select from:
+☑ AUD
+(1.3) Provide an overview and introduction to your organization.
+(1.3.2) Organization type
+Select from:
+☑ Publicly traded organization
+(1.3.3) Description of organization
+"We’re a global, Australian Securities Exchange (ASX) listed company, headquartered in Australia. We're a recognized leader in consulting, engineering and project"
+"delivery for the energy, chemicals, and resources sectors. We partner with customers to design, build and maintain critical assets across their full life cycle. Our"
+"expertise across traditional, transitional and sustainable markets positions us at the forefront of change in industries that shape the world. Decarbonization of"
+"industrial processes and value chains continues to be important for most of our customers, with 80% of our top 20 customers by revenue having set a net zero Scope"
+1 and Scope 2 target by 2050 or earlier.
+[Fixed row]
+"(1.4) State the end date of the year for which you are reporting data. For emissions data, indicate whether you will be"
+providing emissions data for past reporting years.
+
+=== Table 2 (page 31) ===
+(1.24.2) Value chain stages covered in mapping
+Select all that apply
+☑ Upstream value chain
+☑ Downstream value chain
+(1.24.3) Highest supplier tier mapped
+Select from:
+☑ Tier 1 suppliers
+(1.24.4) Highest supplier tier known but not mapped
+Select from:
+☑ Tier 2 suppliers
+(1.24.6) Smallholder inclusion in mapping
+Select from:
+"☑ Smallholders not relevant, and not included"
+(1.24.7) Description of mapping process and coverage
+Our value chain includes the activities upstream and downstream of our business. We source materials and equipment from local and international suppliers. This
+"includes the procurement of day-to-day materials, long term assets and complex services, involving logistics, contracting and modular construction projects. We serve"
+"customers from industries ranging from chemicals and fuels to conventional energy, lower carbon energy and mining and resources. In our assessment of climate-"
+"related risks and opportunities, we consider how impacts to our value chain can affect different parts of our business. This helps us identify where climate-related"
+"risks may influence value creation through our operations, supply chains and customer needs, and where opportunities exist to strengthen our strategic position. This"
+"perspective is integrated in our scenario planning and enterprise risk processes, enabling more informed decision making. We also collect data from across our value"
+chain to disclose our Scope 3 greenhouse gas (GHG) emissions. We’re committed to improving the accuracy of these metrics as data and technology allow.
+[Fixed row]
+"(1.24.1) Have you mapped where in your direct operations or elsewhere in your value chain plastics are produced,"
+"commercialized, used, and/or disposed of?"
+
+=== Table 3 (page 84) ===
+(4.5.1.3) Performance metrics
+Targets
+☑ Reduction in absolute emissions in line with net-zero target
+(4.5.1.4) Incentive plan the incentives are linked to
+Select from:
+"☑ Short-Term Incentive Plan, or equivalent, only (e.g. contractual annual bonus)"
+(4.5.1.5) Further details of incentives
+Cash incentive based on performance against short term incentive (STI) scorecard. ESG measures account for 20% of the STI scorecard and include Scope 1 and
+"Scope 2 GHG emissions, safety, and diversity and inclusion. We also have a deferred equity plan of performance rights where the measure is based on the"
+percentage of sustainability-related revenue. This is approximately 20% of each executive's total compensation.
+(4.5.1.6) How the position’s incentives contribute to the achievement of your environmental commitments and/or climate
+transition plan
+Worley's target of net zero Scope 1 and Scope 2 GHG emissions is central to our climate transition action plan. Our short term incentive is used to motivate and
+reward strong performance. The incentive provides guidance to our Group Executive on the reduction in Scope 1 and Scope 2 GHG emissions to be achieved for the
+"year, in line with our net zero roadmap."
+Climate change
+(4.5.1.1) Position entitled to monetary incentive
+Senior-mid management
+☑ Management group
+(4.5.1.2) Incentives
+Select all that apply
+
+=== Table 4 (page 85) ===
+☑ Bonus - % of salary
+(4.5.1.3) Performance metrics
+Targets
+☑ Reduction in absolute emissions in line with net-zero target
+(4.5.1.4) Incentive plan the incentives are linked to
+Select from:
+"☑ Short-Term Incentive Plan, or equivalent, only (e.g. contractual annual bonus)"
+(4.5.1.5) Further details of incentives
+Cash incentive based on performance against short term incentive (STI) scorecard. ESG measures account for 20% of the STI scorecard and include Scope 1 and
+"Scope 2 GHG emissions, safety, and diversity and inclusion."
+(4.5.1.6) How the position’s incentives contribute to the achievement of your environmental commitments and/or climate
+transition plan
+Worley's target of net zero Scope 1 and Scope 2 GHG emissions is central to our climate transition action plan. Our short term incentive is used to motivate and
+reward strong performance. The incentive provides guidance to our Senior Leaders on the reduction in Scope 1 and Scope 2 GHG emissions to be achieved for the
+"year, in line with our net zero roadmap."
+[Add row]
+(4.6) Does your organization have an environmental policy that addresses environmental issues?
+
+=== Table 5 (page 105) ===
+Select from:
+"☑ No, and we do not plan to add an explicit commitment within the next two years"
+(5.2.6) Explain why your organization does not explicitly commit to cease all spending on and revenue
+generation from activities that contribute to fossil fuel expansion
+"Fundamental global changes in energy security, affordability, and sustainability are transforming how our customers invest, operate, and grow. At the same time,"
+"decarbonization, digital transformation, and evolving policy landscapes are reshaping industry priorities. Our strategy positions us to lead through this change, helping"
+"our customers navigate complexity while unlocking growth opportunities for our business. Our strategic framework focuses on delivering safe, timely, and cost-"
+effective solutions across the full project life cycle – from consulting and engineering to procurement and construction. By aligning our capabilities with customer goals
+"and market dynamics, we’re improving efficiency, strengthening project performance, and supporting the long-term value and sustainability of our customers’ assets."
+"Our diversification across geographies, sectors and services strengthens our ability to adapt and deliver. This creates long-term value for all of our stakeholders."
+"We’re delivering the critical infrastructure needed to meet today’s demand for energy, chemicals, and resources – while helping to shape a more sustainable and"
+resilient future.
+(5.2.7) Mechanism by which feedback is collected from shareholders on your climate transition plan
+Select from:
+☑ We have a different feedback mechanism in place
+(5.2.8) Description of feedback mechanism
+We have a suite of mechanisms integrated into our Annual Reporting (Annual Report and Climate Change Report) by which we communicate our transition plan. This
+"includes: - Our purpose and ambition - Our Climate Change Position Statement including our Scope 1, 2 and 3 net-zero commitments - Our investment in organic"
+"growth including carbon capture and storage, low carbon hydrogen, battery materials and low carbon fuels. - Our aspiration to derive 75% of our revenue from"
+sustainability-related work by 2026 - Our short-term incentive plan for our senior leaders. We present our ESG performance at our half year and full year results as
+well as our Investor Days each year. Our ESG performance includes our performance against our Scope 1 and 2 Net Zero Roadmap as well as the work we are
+doing to support our customers. We also seek feedback from investors and proxy advisors during regular one-to-one meetings.
+(5.2.9) Frequency of feedback collection
+Select from:
+☑ More frequently than annually
+(5.2.10) Description of key assumptions and dependencies on which the transition plan relies
+
+=== Table 6 (page 106) ===
+Our aspiration to derive 75% of our revenue from sustainability-related work by 2026 is dependent on market conditions. Achieving our net zero Scope 1 and Scope 2
+"target has several uncertainties, including the ability to procure zero-emissions electricity, heating and cooling, the accessibility of zero-emission vehicles and"
+"charging infrastructure, and the ability to source high-quality accredited carbon credits for our residual emissions. We are managing these uncertainties by monitoring"
+"and choosing fully renewable energy procurement options, fully electrified buildings and electric vehicles in the countries we operate in. Where available, we work"
+"closely with local teams to implement these initiatives. We expect that sourcing these options will become more accessible as we get closer to 2030, however, it is"
+likely we will not be able to remove all of our Scope 1 and Scope 2 emissions. We plan to offset these residual emissions using high quality carbon credits to achieve
+net zero Scope 1 and Scope 2 emissions by 2030.
+(5.2.11) Description of progress against transition plan disclosed in current or previous reporting period
+"In FY2025, our sustainability-related aggregated revenue was $7.3 billion up from $6.04 billion at 30 June 2024. In FY2024 we completed our initial $100m strategic"
+"investment in organic growth, including carbon capture and storage, lower carbon hydrogen, battery materials and lower carbon fuels. We have extended this"
+investment by deploying around $30m in FY2025 on similar investments because accretive opportunities continue to be available for further growth. We're on track to
+"meet our Scope 1 & Scope 2 net zero targets, reducing our emissions by 19% from FY24 and by 73% from our FY2020 baseline."
+(5.2.12) Attach any relevant documents which detail your climate transition plan (optional)
+wor-climate-change-report-2025.pdf
+(5.2.13) Other environmental issues that your climate transition plan considers
+Select all that apply
+☑ Biodiversity
+(5.2.14) Explain how the other environmental issues are considered in your climate transition plan
+"In our climate change position statement, we have committed to develop a plan to support biodiversity and nature positivity in our project work. Our nature roadmap"
+was developed in FY2023 and was guided by the Kunming-Montreal Global Biodiversity Framework (GBF). It acknowledges the relationship of our business with
+"nature and recognizes that we can affect outcomes for nature in the energy, chemicals and resources sectors through our engineering delivery systems."
+[Fixed row]
+(5.3) Have environmental risks and opportunities affected your strategy and/or financial planning?
+(5.3.1) Environmental risks and/or opportunities have affected your strategy and/or financial planning
+Select from:
+
+=== Table 7 (page 108) ===
+"essential for long-lived industrial assets. We’re actively involved in many of the first large-scale deployments of engineered solutions for carbon offsets, such as direct"
+"air capture. These technologies are particularly complex, aligning well with our technical and project delivery strengths. Despite a range of technology options, many"
+"industrial decarbonization pathways face strong headwinds. These include immature technologies, limited development finance, lack of operational experience and"
+"unpredictable or misaligned policy settings, all of which contribute to heightened uncertainty. Therefore, most of our work remains in the consulting (feasibility) and"
+"pre-FEED phases, where options are being carefully assessed. While a growing number of projects are proceeding to FEED, some still struggle to reach a positive"
+"investment decision due to factors such as solution immaturity or uncertain downstream offtake. However, we expect these barriers to ease over time as value chains"
+mature to favor low carbon products and business cases strengthen. Our Safe and Sustainable Engineering for Asset Lifecycle (SEAL) Framework also guides us to
+"deliver safe and sustainable engineering outcomes to our customers and the broader society. In particular, the sustainable design (SD) pillar of SEAL forms the basis"
+for how we consider sustainability in our project planning. We have SD standards for each of our major engineering disciplines.
+Upstream/downstream value chain
+(5.3.1.1) Effect type
+Select all that apply
+☑ Risks
+☑ Opportunities
+(5.3.1.2) Environmental issues relevant to the risks and/or opportunities that have affected your strategy in this area
+Select all that apply
+☑ Climate change
+(5.3.1.3) Describe how environmental risks and/or opportunities have affected your strategy in this area
+"In FY2025, we enhanced the accuracy and coverage of our Scope 3 emissions inventory by integrating additional supply chain data. As a result, total Scope 3"
+"emissions increased by 24% compared to FY2024, primarily driven by higher emissions in Category 1. Growth in our services relating to sustainability-related work"
+provides opportunities to diversify our supply chain and build our procurement services.
+Investment in R&D
+(5.3.1.1) Effect type
+Select all that apply
+☑ Opportunities
+
+=== Table 8 (page 110) ===
+Our Climate Change Position Statement (CCPS) sets out the actions we’re taking in response to climate change. We are decarbonizing our business and are,
+"committed to reducing Scope 1 and 2 GHG emissions to net zero by 2030, and Scope 3 emissions by 2050. We plan to achieve our Scope 1 and 2 commitments",
+"through initiatives, such as reducing energy use and switching to renewable energy and low carbon fuels. We will achieve our Scope 3 commitments through working",
+with our supply chain to procure and produce low carbon products. High quality carbon offsets will be considered where there are no feasible alternative mitigation,
+options. We are currently purchasing high quality carbon offsets for our corporate travel.,
+[Add row],
+(5.3.2) Describe where and how environmental risks and opportunities have affected your financial planning.,
+Row 1,
+(5.3.2.1) Financial planning elements that have been affected,
+Select all that apply,
+☑ Revenues,☑ Acquisitions and divestments
+☑ Direct costs,
+☑ Access to capital,
+☑ Capital allocation,
+☑ Capital expenditures,
+(5.3.2.2) Effect type,
+Select all that apply,
+☑ Risks,
+☑ Opportunities,
+(5.3.2.3) Environmental issues relevant to the risks and/or opportunities that have affected these financial planning,
+elements,
+Select all that apply,
+☑ Climate change,
+(5.3.2.4) Describe how environmental risks and/or opportunities have affected these financial planning elements,
+
+=== Table 9 (page 116) ===
+(5.11.9) Provide details of any environmental engagement activity with other stakeholders in the value chain.
+Climate change
+(5.11.9.1) Type of stakeholder
+Select from:
+☑ Customers
+(5.11.9.2) Type and details of engagement
+Education/Information sharing
+☑ Share information about your products and relevant certification schemes
+"☑ Share information on environmental initiatives, progress and achievements"
+"I
+nnovation and collaboration"
+☑ Align your organization’s goals to support customers’ targets and ambitions
+☑ Collaborate with stakeholders on innovations to reduce environmental impacts in products and services
+☑ Run a campaign to encourage innovation to reduce environmental impacts
+"☑ Other innovation and collaboration, please specify  :We are members of a number of organizations associated with climate change innovation. These"
+include the Energy Transitions Commission (ETC) and the Climate Leaders Coalition (Australia). We also have a strategic partnership with Princeton
+University
+(5.11.9.3) % of stakeholder type engaged
+Select from:
+☑ Unknown
+(5.11.9.4) % stakeholder-associated scope 3 emissions
+Select from:
+☑ 1-25%
+
+=== Table 10 (page 117) ===
+(5.11.9.5) Rationale for engaging these stakeholders and scope of engagement
+Our Ambition is to be recognized as a global leader in sustainability solutions. A key enabler is for Worley to partner with customers as stewards of a more
+sustainable world. We are committed to our own sustainability – net zero Scope 3 GHG emissions by 2050. We aspire to derive 75% of our aggregated-revenue from
+sustainability-related work and partner with customers committed to driving sustainability; together we decarbonize value chains and steward resources.
+(5.11.9.6) Effect of engagement and measures of success
+"This year, our sustainability-related revenue accounts for 60% of our total aggregated revenue. We continue to make progress, subject to market conditions, in"
+"delivery of our aspiration to derive 75% of our aggregated revenue from sustainability-related work by FY2026. $1,702m Gross Margin delivered in sustainability-"
+"related work, which is 3.2% above our growth target of $1,650m. Most of our work remains in the consulting (feasibility) and pre-FEED phases, where options are"
+"being carefully assessed. While a growing number of projects are proceeding to FEED, some still struggle to reach a positive investment decision due to factors such"
+"as solution immaturity or uncertain downstream offtake. However, we expect these barriers to ease over time as value chains mature 80% of our top 20 customers by"
+"revenue this year have net zero GHG commitments and in FY2025, customers agreed to implement 310 sustainable solutions ideas that were identified by project"
+teams.
+Climate change
+(5.11.9.1) Type of stakeholder
+Select from:
+☑ Investors and shareholders
+(5.11.9.2) Type and details of engagement
+Education/Information sharing
+"☑ Share information on environmental initiatives, progress and achievements"
+"I
+nnovation and collaboration"
+☑ Collaborate with stakeholders in creation and review of your climate transition plan
+(5.11.9.3) % of stakeholder type engaged
+Select from:
+☑ 100%
+
+=== Table 11 (page 118) ===
+(5.11.9.4) % stakeholder-associated scope 3 emissions
+Select from:
+☑ None
+(5.11.9.5) Rationale for engaging these stakeholders and scope of engagement
+We have a large number of investors and shareholders who incorporate ESG considerations into their investment decisions. This is particularly relevant for climate
+change because we are a leading global provider of sustainability solutions and we’re seeing long term growth trends from structural changes in our end markets.
+"With our experience in supporting the global energy transition, we’re delivering some of the world’s largest and most innovative assets."
+(5.11.9.6) Effect of engagement and measures of success
+"We’re consistently delivering on our strategy as demonstrated by increased earnings, margins and cash flow, in line with our expectations. Our aggregated revenue is"
+up 4% on FY2024. Our underlying EBITA of $823 million is up from $751 million in FY2024.
+[Add row]
+
+=== Table 12 (page 119) ===
+C6. Environmental Performance - Consolidation Approach
+(6.1) Provide details on your chosen consolidation approach for the calculation of environmental performance data.
+Climate change
+(6.1.1) Consolidation approach used
+Select from:
+☑ Operational control
+(6.1.2) Provide the rationale for the choice of consolidation approach
+"Worley applies the operational control approach, as defined by the GHG Protocol Corporate Reporting and Accounting Standard, to our environmental reporting. This"
+"approach ensures we account for 100% of Scope 1 and Scope 2 emissions in all locations, including subsidiaries and joint ventures where we have full authority to"
+introduce and implement our operating policies. We do not include Scope 1 and Scope 2 emissions from construction sites where we do not hold the operating
+"license, even if we have day-to-day oversight and control of activities on the construction site. For locations under partial control during the financial year, emissions"
+are calculated for the period we had control. We evaluated the financial control and equity share approaches and determined that operational control provides the
+most consistent and practical framework for our services-based business model. Worley’s services and revenues can involve a variety of commercial and contractual
+"arrangements, so the operational control approach for our environmental reporting provides consistency across these varied relationships and best meets our"
+business activities. We also report relevant Scope 3 emissions to capture our broader climate footprint. Our boundary approach is reviewed annually to ensure
+"alignment with our climate strategy, net zero targets, and evolving business operations."
+Forests
+(6.1.1) Consolidation approach used
+Select from:
+☑ Operational control
+(6.1.2) Provide the rationale for the choice of consolidation approach
+"Worley applies the operational control approach, as defined by the GHG Protocol Corporate Reporting and Accounting Standard, to our environmental reporting. We"
+evaluated the financial control and equity share approaches and determined that operational control provides the most consistent and practical framework for our
+
+=== Table 13 (page 123) ===
+"In FY2025, we made the following changes to our data: Scope 1 GHG emissions • GHG emissions from diesel generators at four leased sites in India were"
+"reclassified to Scope 3, Category 8, as they relate to base building operations managed by landlords. Scope 3 GHG emissions • Category 1: purchased goods and"
+services incorporated additional information in FY2025 compared to FY2025 due to increased data availability. This has led to higher reported Scope 3 emissions for
+this category. • Category 6: business travel now includes well-to-tank emissions from air travel. Rail and accommodation data from our global travel agent was
+extrapolated in FY2024 to estimate GHG emissions from other providers. Only data from our global travel agent was included in FY2025. • Category 8: upstream
+leased assets includes diesel generators at four leased sites in India which were reclassified from Scope 1. • Category 15: investments includes seven additional
+investments compared to FY2024.
+[Fixed row]
+(7.1.3) Have your organization’s base year emissions and past years’ emissions been recalculated as a result of any
+changes or errors reported in 7.1.1 and/or 7.1.2?
+
+=== Table 14 (page 124) ===
+"(7.2) Select the name of the standard, protocol, or methodology you have used to collect activity data and calculate"
+emissions.
+Select all that apply
+☑ IEA CO2 Emissions from Fuel Combustion
+☑ The Greenhouse Gas Protocol: Scope 2 Guidance
+☑ US EPA Mandatory Greenhouse Gas Reporting Rule
+☑ Australia - National Greenhouse and Energy Reporting Act
+☑ US EPA Emissions & Generation Resource Integrated Database (eGRID)
+☑ The Greenhouse Gas Protocol: Corporate Value Chain (Scope 3) Standard
+"☑ New Zealand - Guidance for Voluntary, Corporate Greenhouse Gas Reporting"
+☑ 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+☑ The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition)
+☑ US EPA Center for Corporate Climate Leadership: Indirect Emissions From Purchased Electricity
+☑ US EPA Center for Corporate Climate Leadership: Direct Emissions from Mobile Combustion Sources
+☑ US EPA Center for Corporate Climate Leadership: Direct Emissions from Stationary Combustion Sources
+"☑ Defra Environmental Reporting Guidelines: Including streamlined energy and carbon reporting guidance, 2019"
+(7.3) Describe your organization’s approach to reporting Scope 2 emissions.
+
+=== Table 15 (page 125) ===
+(7.3.3) Comment
+"This year, as we worked towards our target of Scope 1 and 2 net zero by 2030, we've primarily reduced our Scope 2 emissions through purchasing and retiring"
+renewable energy certificates (or equivalent instruments) and renewable energy contracts. This is why we report both a market-based figure and a location-based
+figure.
+[Fixed row]
+"(7.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies, etc.) of Scope 1, Scope 2 or Scope 3"
+emissions that are within your selected reporting boundary which are not included in your disclosure?
+Select from:
+☑ Yes
+"(7.4.1) Provide details of the sources of Scope 1, Scope 2, or Scope 3 emissions that are within your selected reporting"
+boundary which are not included in your disclosure.
+Row 1
+(7.4.1.1) Source of excluded emissions
+Virtual offices
+(7.4.1.2) Scope(s) or Scope 3 category(ies)
+Select all that apply
+☑ Scope 1
+☑ Scope 2 (location-based)
+☑ Scope 2 (market-based)
+(7.4.1.3) Relevance of Scope 1 emissions from this source
+Select from:
+☑ Emissions are not relevant
+
+=== Table 16 (page 126) ===
+(7.4.1.4) Relevance of location-based Scope 2 emissions from this source
+Select from:
+☑ Emissions are not relevant
+(7.4.1.5) Relevance of market-based Scope 2 emissions from this source
+Select from:
+☑ Emissions are not relevant
+(7.4.1.8) Estimated percentage of total Scope 1+2 emissions this excluded source represents
+0.5
+(7.4.1.10) Explain why this source is excluded
+"We have virtual offices in some countries that exist for the purpose of keeping a legal entity in that country. There are no employees in the office, and therefore"
+negligible energy usage and emissions.
+(7.4.1.11) Explain how you estimated the percentage of emissions this excluded source represents
+"The energy usage of these offices is negligible, so they are expected to be less than 0.5% of our total emissions."
+[Add row]
+(7.5) Provide your base year and base year emissions.
+Scope 1
+(7.5.1) Base year end
+06/29/2020
+(7.5.2) Base year emissions (metric tons CO2e)
+36928
+125
+
+=== Table 17 (page 127) ===
+(7.5.3) Methodological details
+"Our Scope 1 emissions sources are natural gas, propane, refrigerants, stationary fuel, and transport fuel consumed in offices, fabrication yards and vehicles in"
+Worley's operational control. Source data is entered into IBM Envizi. This can be either entered manually or through an automated data connector. IBM Envizi applies
+appropriate factors to convert source data into tonnes of CO2 equivalent.
+Scope 2 (location-based)
+(7.5.1) Base year end
+06/30/2020
+(7.5.2) Base year emissions (metric tons CO2e)
+77313
+(7.5.3) Methodological details
+"Our Scope 2 location-based emissions sources are electricity, district heating and district cooling consumed in offices, fabrication yards and vehicles in Worley's"
+operational control. Source data is entered into IBM Envizi. IBM Envizi applies appropriate location-based factors to convert source data into tonnes of CO2
+equivalent.
+Scope 2 (market-based)
+(7.5.1) Base year end
+06/30/2020
+(7.5.2) Base year emissions (metric tons CO2e)
+77313
+(7.5.3) Methodological details
+"Our Scope 2 market-based emissions sources are electricity, district heating and district cooling consumed in offices, fabrication yards and vehicles in Worley's"
+"operational control. Source data is entered into IBM Envizi. Where Worley’s electricity consumption is supported by renewable energy claims (for example, through"
+
+=== Table 18 (page 128) ===
+"the purchase of renewable energy certificates) Green Power is entered as activity data in kWh, and a 0 tCO2e emissions factor is applied. For remaining electricity"
+"consumption, IBM Envizi applies residual mix emissions factors (or location-based factors if residual mix factors are not available) to calculate Scope 2 market-based"
+GHG emissions in tonnes of CO2 equivalent.
+Scope 3 category 1: Purchased goods and services
+(7.5.1) Base year end
+06/30/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+370745
+(7.5.3) Methodological details
+"Upstream (cradle-to-gate) GHG emissions of our purchased goods and services, including corporate procurement, information technology (IT) procurement, and"
+procurement we do for our customers during projects where we have operational control. We estimate GHG emissions for purchased goods and services using the
+"supplier-specific method, the spend-based method, the average-data method, and extrapolation. Procurement data is collected from countries where we operate. The"
+"data is categorized, and GHG emissions are calculated using spend-based emission factors from Comprehensive Environmental Data Archive (CEDA) 2024. CEDA"
+"assumes procurement is based in the United States in 2022. To estimate the FY2025 GHG emissions, we adjust factors by the inflation rate, currency conversion and"
+"power purchasing parity percentages. Where procurement data is not available, data is extrapolated by assuming the type of items procured is the same as the"
+previous period and using a ratio of either the number of people or procurement spend. We procure a significant amount of goods and services on behalf of
+"customers, over which we have limited control. To adjust for this, we multiply the total GHG emissions for purchased goods and services by the proportion of spend"
+"on our paper for which we had operational control. For this reporting period, we estimate 90 percent. Note that our methodology for this category has been updated"
+"since our baseline year. In our baseline year, we did not multiply our total Scope 3 emissions for this category by the proportion of spend on our paper for which we"
+"had operational control, because we did not have this data."
+Scope 3 category 2: Capital goods
+(7.5.1) Base year end
+06/30/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+35462
+
+=== Table 19 (page 129) ===
+(7.5.3) Methodological details
+"Upstream (cradle-to-gate) GHG emissions of our capital goods, which includes IT equipment, vehicles, and construction and field equipment. We estimate GHG"
+"emissions for capital goods using the supplier-specific method, hybrid method, average-product method and average spend-based method. Procurement data is"
+"collected from countries where we operate. Capital goods are segregated from the procurement data. Where spend data is available with item descriptions, it is"
+converted to physical data and GHG emissions are calculated using physical emissions factors. We use supplier-specific emission factors when available.
+Scope 3 category 3: Fuel-and-energy-related activities (not included in Scope 1 or 2)
+(7.5.1) Base year end
+06/30/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+17321
+(7.5.3) Methodological details
+"Upstream (cradle-to-gate) GHG emissions related to the extraction, production, and transportation of fuels and energy that we purchased. We calculate GHG"
+emissions for fuel and energy-related activities using our Scope 1 and Scope 2 (location-based) activity data. The average-data method is used to calculate the
+"emissions from this category. Scope 1 and Scope 2 (location-based) activity data are multiplied by emission factors appropriate to each source, energy type and"
+location.
+Scope 3 category 4: Upstream transportation and distribution
+(7.5.1) Base year end
+06/30/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+34458
+(7.5.3) Methodological details
+
+=== Table 20 (page 130) ===
+GHG emissions from the transportation and distribution of our purchased goods and services between direct suppliers and our operations. We estimate GHG
+"emissions for upstream transportation and distribution using the distance-based method. Procurement data is collected from countries where we operate, and goods"
+are segregated from services. The spend data for goods is multiplied by emissions factors for upstream transportation and distribution appropriate to the type of
+goods and their origin.
+Scope 3 category 5: Waste generated in operations
+(7.5.1) Base year end
+06/30/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+3355
+(7.5.3) Methodological details
+GHG emissions from the treatment and disposal of waste generated in our offices and fabrication yards. We calculate GHG emissions for waste generated in
+operations using the average-data method and waste-type-specific method. Our waste generation data is multiplied by emission factors appropriate to each type of
+waste and the location of disposal.
+Scope 3 category 6: Business travel
+(7.5.1) Base year end
+06/30/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+16013
+(7.5.3) Methodological details
+"GHG emissions from our people’s business-related travel, including air travel, rail travel, accommodation, and road travel, including short-term car rental, taxi and"
+"rideshare, that we didn’t count in Scope 1 or Scope 2. For air travel, we obtain this data from our travel agencies to estimate the total miles. For hotels and rail travel,"
+"we obtain some emissions data directly from our global travel agent. However, we book most of our hotel and rail travel directly with the providers and not through the"
+"travel agent. For ground travel, we estimate GHG emissions using our expense system and the spend-based method."
+129
+
+=== Table 21 (page 131) ===
+Scope 3 category 7: Employee commuting
+(7.5.1) Base year end
+06/30/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+51402
+(7.5.3) Methodological details
+GHG emissions from our people traveling between their homes and workplaces. This also includes emissions from our people teleworking. We’ve chosen to account
+"for these GHG emissions because we estimate that more than half of all hours our people worked are from home. We use de-identified data from our people system,"
+"previous years’ hotdesking data, employee commuting survey results, and our energy management system to estimate the following: • the proportion of our people"
+working from home and in the office • one-way distance between our people’s homes and the office • commuting pattern for our people on customer sites. With this
+"information, we use the average-data method and distance-based method to estimate the emissions from this category."
+Scope 3 category 8: Upstream leased assets
+(7.5.1) Base year end
+06/30/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+24323
+(7.5.3) Methodological details
+GHG emissions of assets we lease that are not included in our Scope 1 and Scope 2 boundary. This includes base building emissions for our offices. We estimate
+GHG emissions for upstream leased assets using the average-data method. Asset-specific base building data is multiplied by emission factors appropriate to the data
+type and location.
+Scope 3 category 9: Downstream transportation and distribution
+
+=== Table 22 (page 132) ===
+(7.5.1) Base year end
+06/30/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+132
+(7.5.3) Methodological details
+"GHG emissions from transporting and distributing the products we sell between our operations and the end customer, if not paid for by us. This includes only"
+transport and distribution in vehicles and through facilities which we do not own or control. We calculate GHG emissions for downstream transportation and
+distribution using the average-data/distance-based method. We obtain product data from our Chemetics and Comprimo businesses on the weight and quantity of
+"each type of product sold, the origin of transportation and the destination port. Based on the origin and destination port data, we calculate average sea distance"
+travelled. Average sea distances and the product weight are multiplied by a ton-kilometer emission factor to calculate GHG emissions.
+Scope 3 category 10: Processing of sold products
+(7.5.1) Base year end
+06/30/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+
+=== Table 23 (page 133) ===
+(7.5.2) Base year emissions (metric tons CO2e)
+0
+(7.5.3) Methodological details
+Direct use-phase emissions of the total expected lifetime of the products we sell. We obtain a list of the quantity and type of products sold in the reporting period from
+"our fabrication yards as per our sold product definition. We estimate the use-phase emissions using the design specifications of the product, including: • fuel type"
+"(e.g., natural gas, diesel, electricity) • carbon intensity of the fuel using the relevant emissions factor (and client-specific emission factors if available) • expected"
+annual energy consumption • expected lifetime of the product in years. The total lifetime energy consumption is multiplied by the appropriate emission factor to
+calculate the GHG emissions. This category was not calculated in our base year as we were developing our calculation methodology.
+Scope 3 category 12: End of life treatment of sold products
+(7.5.1) Base year end
+06/30/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+0
+(7.5.3) Methodological details
+"GHG emissions from end-of-life treatment of sold products, including waste disposal and treatment of our sold products. We obtain a list of the quantity and type of"
+"sold products from our fabrication yards as per our sold product definition. This list includes details on product weight, material type and site location. We then apply"
+"waste-specific emissions factors based on the material type, end-of-life disposal method and the location to estimate the GHG emissions. This category was not"
+calculated in our base year as we were developing our calculation methodology.
+Scope 3 category 13: Downstream leased assets
+(7.5.1) Base year end
+06/30/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+132
+
+=== Table 24 (page 134) ===
+1738
+(7.5.3) Methodological details
+GHG emissions from our lessees. We calculate GHG emissions for downstream leased assets using the fuel-based method and the asset-specific method. We use
+consumption data for all downstream leased assets (including vehicles and offices) multiplied by appropriate emission factors to estimate the GHG emissions for this
+category
+Scope 3 category 14: Franchises
+(7.5.1) Base year end
+06/30/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+
+=== Table 25 (page 135) ===
+"Venture Limited, KGNT-Worley Limited Liability Partnership, KPJV Limited, New Zealand Oil Services Ltd., NextOre, Veckta and Requis. We multiply the Scope 1 & 2"
+emissions of the investment by the % equity share Worley has in the investment to calculate the emissions.
+Scope 3: Other (upstream)
+(7.5.1) Base year end
+06/29/2021
+(7.5.2) Base year emissions (metric tons CO2e)
+
+=== Table 26 (page 136) ===
+(7.6.1) Gross global Scope 1 emissions (metric tons CO2e)
+24485
+(7.6.3) Methodological details
+"GHG emissions released from sources, including but not limited to petrol and diesel used in vehicles, natural gas used for heating and refrigerant leakages from air-"
+"conditioning systems, at locations within our operational control. We calculate Scope 1 GHG emissions based on consumption data. Facilities coordinators and"
+managers in each of our locations record consumption of fossil fuels and refrigerants throughout the year from supplier or landlord invoices or meter readings. Gross
+"Scope 1 GHG emissions are calculated using methods and emission factors appropriate to each source and location, including: • GHG emissions from the"
+combustion of fossil fuels for energy: the GHG emissions are calculated by multiplying the quantity of fuel consumed by the appropriate emission factor for the fuel in
+the location consumed. • GHG emissions from leakage of refrigerants: the GHG emissions are calculated by multiplying the quantity of refrigerant used to refill or top
+"up the system by the appropriate emission factor for the refrigerant type. If actual usage data is not available, it is estimated or accrued. For energy consumption in"
+"offices, we estimate usage based on the average use per floor space for other offices in the same region with similar climate conditions. For energy consumption in"
+"vehicles, where data is available on distance traveled, we apply an average factor of liters per kilometer to estimate fuel used. Where data is available on fuel cost,"
+"we apply an average factor of cost per liter in the local currency to estimate fuel used. For refrigerant leakage, we estimate based on industry average leakage rates"
+"for similar types of systems and equipment. In FY2025, we calculated approximately 85 percent of our Scope 1 GHG emissions using actual data and 15 percent"
+were calculated using estimated or accrued data.
+[Fixed row]
+(7.7) What were your organization’s gross global Scope 2 emissions in metric tons CO2e?
+Reporting year
+"(7.7.1) Gross global Scope 2, location-based emissions (metric tons CO2e)"
+33233
+"(7.7.2) Gross global Scope 2, market-based emissions (metric tons CO2e)"
+6524
+(7.7.4) Methodological details
+We report Scope 2 emissions using both location-based and market-based methods as recommended by the GHG Protocol Scope 2 Guidance. • Market-based
+"reporting: where we directly purchase renewable energy, including bundled energy with attributes, we use emission factors from the contractual agreement in place."
+
+=== Table 27 (page 137) ===
+"Where grid electricity is supplied to our locations and we purchase unbundled renewable energy certificates (RECs) or equivalent, we use emission factors"
+"appropriate to the energy type and location. We then apply the RECs, purchased in line with the Scope 2 market-based accounting approach from the GHG Protocol,"
+"to the appropriate energy use to support our renewable energy claim. For the remaining electricity consumption, we apply residual mix emission factors to calculate"
+"Scope 2 market-based GHG emissions. Where residual mix emission factors are not available, we apply location-based factors. • Location-based: we use emission"
+factors based on the average emissions intensity of grids on which energy consumption occurs to calculate gross Scope 2 emissions. Our locations record the supply
+of third-party generated energy to our locations throughout the year based on supplier or landlord invoices or meter data. The GHG emissions are calculated by
+"multiplying the quantity of energy supplied by the appropriate emission factor for the energy type and location. If actual usage data is not available, it is estimated or"
+"accrued. For energy usage (including purchased electricity, heating and cooling) for offices, we estimate usage based on the average usage per floor space for other"
+"offices in the same region with similar climate conditions. In FY2025, we calculated approximately 89 percent of our Scope 2 emissions using actual data, and 11"
+percent using estimated or accrued data.
+[Fixed row]
+"(7.8) Account for your organization’s gross global Scope 3 emissions, disclosing and explaining any exclusions."
+Purchased goods and services
+(7.8.1) Evaluation status
+Select from:
+"☑ Relevant, calculated"
+(7.8.2) Emissions in reporting year (metric tons CO2e)
+826334
+(7.8.3) Emissions calculation methodology
+Select all that apply
+☑ Spend-based method
+"☑ Other, please specify :Extrapolation"
+(7.8.4) Percentage of emissions calculated using data obtained from suppliers or value chain partners
+
+=== Table 28 (page 138) ===
+(7.8.5) Please explain
+"Upstream (cradle-to-gate) GHG emissions of our purchased goods and services, including corporate procurement, information technology (IT) procurement, and"
+procurement we do for our customers during projects where we have operational control. We estimate GHG emissions for purchased goods and services using the
+"spend-based method, and extrapolation. Procurement data is collected from countries where we operate. The data is categorized, and GHG emissions are calculated"
+using spend-based emission factors from Comprehensive Environmental Data Archive (CEDA) 2024. CEDA assumes procurement is based in the United States in
+"2022. To estimate the FY2025 GHG emissions, we adjust factors by the inflation rate, currency conversion and power purchasing parity percentages. Where"
+"procurement data is not available, data is extrapolated by assuming the type of items procured is the same as the previous period and using a ratio of either the"
+"number of people or procurement spend. We procure a significant amount of goods and services on behalf of customers, over which we have limited control. To"
+"adjust for this, we multiply the total GHG emissions for purchased goods and services by the proportion of spend on our paper for which we had operational control."
+"For this reporting period, we estimate 90 percent. Considerable time is required to collect data and calculate Scope 3 emissions. As such, our FY2025 Scope 3,"
+Category 1 emissions estimates use data from 1 February 2024 to 31 January 2025. The spend-based method of calculating GHG emissions from purchased goods
+and services is generally the least specific and accurate calculation method available. We’re working to improve our supply chain data to enable us to estimate
+"emissions using more accurate and specific methods such as the supplier specific, average-data and hybrid methods. In FY2025, we estimated 67 percent of our"
+emissions for this category using the spend-based method and 33 percent by extrapolation.
+Capital goods
+(7.8.1) Evaluation status
+Select from:
+"☑ Relevant, calculated"
+(7.8.2) Emissions in reporting year (metric tons CO2e)
+7863
+(7.8.3) Emissions calculation methodology
+Select all that apply
+☑ Supplier-specific method
+☑ Spend-based method
+☑ Average product method
+"☑ Other, please specify :Extrapolation"
+(7.8.4) Percentage of emissions calculated using data obtained from suppliers or value chain partners
+137
+
+=== Table 29 (page 139) ===
+36
+(7.8.5) Please explain
+"Upstream (cradle-to-gate) GHG emissions of our capital goods, which includes IT equipment, vehicles, and construction and field equipment. Procurement data is"
+"collected from countries where we operate. Capital goods are segregated from the procurement data. Where spend data is available with item descriptions, it is"
+converted to physical data and GHG emissions are calculated using physical emissions factors. We use supplier-specific emission factors when available. Our
+"FY2025 Scope 3, category 2 emissions estimates use data from 1 February 2024 to 31 January 2025. Procurement data received from our IT supplier (which"
+"represented 36 percent of the emissions from this category) is categorized as either ‘purchased’ or ‘leased’. For this data, it is assumed that ‘purchased’ devices are"
+"considered under Category 2, capital goods and ‘leased’ devices are considered under Category 1, purchased goods and services. We assume data received from"
+"individual countries under capital goods is purchased, not leased. In FY2025, we estimated 36 percent of our emissions for this category using the supplier-specific"
+"method, 35 percent extrapolation, 23 percent spend-based method, and 6 percent average-product method."
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+(7.8.1) Evaluation status
+Select from:
+"☑ Relevant, calculated"
+(7.8.2) Emissions in reporting year (metric tons CO2e)
+12619
+(7.8.3) Emissions calculation methodology
+Select all that apply
+☑ Average data method
+(7.8.4) Percentage of emissions calculated using data obtained from suppliers or value chain partners
+87
+(7.8.5) Please explain
+
+=== Table 30 (page 140) ===
+"Upstream (cradle-to-gate) GHG emissions related to the extraction, production, and transportation of fuels and energy that we purchased. We calculate GHG"
+emissions for fuel and energy-related activities using our Scope 1 and Scope 2 (location-based) activity data. The average-data method is used to calculate the
+"emissions from this category. Scope 1 and Scope 2 (location-based) activity data are multiplied by emission factors appropriate to each source, energy type and"
+"location. In FY2025, we estimated 87 percent of our emissions for this category using actual data and 13 percent using estimated or accrued data."
+Upstream transportation and distribution
+(7.8.1) Evaluation status
+Select from:
+"☑ Relevant, calculated"
+(7.8.2) Emissions in reporting year (metric tons CO2e)
+34452
+(7.8.3) Emissions calculation methodology
+Select all that apply
+☑ Distance-based method
+(7.8.4) Percentage of emissions calculated using data obtained from suppliers or value chain partners
+
+=== Table 31 (page 142) ===
+(7.8.2) Emissions in reporting year (metric tons CO2e)
+71769
+(7.8.3) Emissions calculation methodology
+Select all that apply
+☑ Spend-based method
+☑ Distance-based method
+(7.8.4) Percentage of emissions calculated using data obtained from suppliers or value chain partners
+60
+(7.8.5) Please explain
+"GHG emissions from our people’s business-related travel, including air travel, rail travel, accommodation, and road travel, including short-term car rental, taxi and"
+"rideshare, that we didn’t count in Scope 1 or Scope 2. For air travel, we obtain this data from our travel agencies to estimate the total miles. For hotels and rail travel,"
+"we obtain some emissions data directly from our global travel agent. However, we book most of our hotel and rail travel directly with the providers and not through the"
+"travel agent. For ground travel, we estimate GHG emissions using our expense system and the spend-based method. In FY2025, we estimated 60 percent of our"
+emissions for this category using data from our business travel agents and 40 percent using the spend-based method.
+Employee commuting
+(7.8.1) Evaluation status
+Select from:
+"☑ Relevant, calculated"
+(7.8.2) Emissions in reporting year (metric tons CO2e)
+46372
+(7.8.3) Emissions calculation methodology
+Select all that apply
+141
+
+=== Table 32 (page 144) ===
+"☑ Other, please specify :Extrapolation"
+(7.8.4) Percentage of emissions calculated using data obtained from suppliers or value chain partners
+85
+(7.8.5) Please explain
+GHG emissions of assets we lease that are not included in our Scope 1 and Scope 2 boundary. This includes base building emissions for our offices. We estimate
+GHG emissions for upstream leased assets using the average-data method. Asset-specific base building data is multiplied by emission factors appropriate to the data
+"type and location. Our FY2025 Scope 3, Category 8 emissions estimates use data from 1 February 2024 to 31 January 2025. We estimate emissions from base"
+"building electricity, natural gas and refrigerant consumption based on the floor area of each office. We assume that all facilities have stationary combustion from a"
+"diesel generator set, electricity consumption, natural gas consumption for heating, and use refrigerants in air conditioners. In FY2025, we estimated 85 percent of our"
+emissions for this category using the average-product data method and 15 percent using extrapolation.
+Downstream transportation and distribution
+(7.8.1) Evaluation status
+Select from:
+"☑ Relevant, calculated"
+(7.8.2) Emissions in reporting year (metric tons CO2e)
+288
+(7.8.3) Emissions calculation methodology
+Select all that apply
+☑ Average data method
+☑ Distance-based method
+(7.8.4) Percentage of emissions calculated using data obtained from suppliers or value chain partners
+
+=== Table 33 (page 148) ===
+(7.8.1) Evaluation status
+Select from:
+"☑ Not relevant, explanation provided"
+(7.8.5) Please explain
+"We do not have any franchises, so this category is not relevant to our organization."
+Investments
+(7.8.1) Evaluation status
+Select from:
+"☑ Relevant, calculated"
+(7.8.2) Emissions in reporting year (metric tons CO2e)
+151
+(7.8.3) Emissions calculation methodology
+Select all that apply
+☑ Investment-specific method
+(7.8.4) Percentage of emissions calculated using data obtained from suppliers or value chain partners
+100
+(7.8.5) Please explain
+"GHG emissions of our investments. The investments that are relevant for this category include: Consorcio de Ingenieria Worley – Arcadis Ltda., Fortune Asian"
+"Development Ltd., FWPJV Limited, Kazakh Projects Joint Venture Limited, KGNT-Worley Limited Liability Partnership, KPJV Limited, New Zealand Oil Services Ltd.,"
+"NextOre, Veckta and Requis. We multiply the Scope 1 & 2 emissions of the investment by the % equity share Worley has in the investment to calculate the"
+emissions.
+
+=== Table 34 (page 150) ===
+,☑ Third-party verification or assurance process in place
+Scope 3,Select from:
+,☑ No third-party verification or assurance
+[Fixed row],
+"(7.9.1) Provide further details of the verification/assurance undertaken for your Scope 1  emissions, and attach the",
+relevant statements.,
+Row 1,
+(7.9.1.1) Verification or assurance cycle in place,
+Select from:,
+☑ Annual process,
+(7.9.1.2) Status in the current reporting year,
+Select from:,
+☑ Complete,
+(7.9.1.3) Type of verification or assurance,
+Select from:,
+☑ Limited assurance,
+(7.9.1.4) Attach the statement,
+
+=== Table 35 (page 151) ===
+wor-sustainability-basis-of-preparation-2025.pdf
+(7.9.1.5) Page/section reference
+Page 21
+(7.9.1.6) Relevant standard
+Select from:
+☑ ASAE3000
+(7.9.1.7) Proportion of reported emissions verified (%)
+100
+[Add row]
+(7.9.2) Provide further details of the verification/assurance undertaken for your Scope 2 emissions and attach the relevant
+statements.
+Row 1
+(7.9.2.1) Scope 2 approach
+Select from:
+☑ Scope 2 location-based
+(7.9.2.2) Verification or assurance cycle in place
+Select from:
+☑ Annual process
+(7.9.2.3) Status in the current reporting year
+Select from:
+
+=== Table 36 (page 152) ===
+☑ Complete
+(7.9.2.4) Type of verification or assurance
+Select from:
+☑ Limited assurance
+(7.9.2.5) Attach the statement
+wor-sustainability-basis-of-preparation-2025.pdf
+(7.9.2.6) Page/ section reference
+Page 21
+(7.9.2.7) Relevant standard
+Select from:
+☑ ASAE3000
+(7.9.2.8) Proportion of reported emissions verified (%)
+100
+Row 2
+(7.9.2.1) Scope 2 approach
+Select from:
+☑ Scope 2 market-based
+(7.9.2.2) Verification or assurance cycle in place
+Select from:
+☑ Annual process
+
+=== Table 37 (page 153) ===
+(7.9.2.3) Status in the current reporting year
+Select from:
+☑ Complete
+(7.9.2.4) Type of verification or assurance
+Select from:
+☑ Limited assurance
+(7.9.2.5) Attach the statement
+wor-sustainability-basis-of-preparation-2025.pdf
+(7.9.2.6) Page/ section reference
+Page 21
+(7.9.2.7) Relevant standard
+Select from:
+☑ ASAE3000
+(7.9.2.8) Proportion of reported emissions verified (%)
+100
+[Add row]
+(7.10) How do your gross global emissions (Scope 1 and 2 combined) for the reporting year compare to those of the
+previous reporting year?
+Select from:
+☑ Decreased
+
+=== Table 38 (page 154) ===
+"(7.10.1) Identify the reasons for any change in your gross global emissions (Scope 1 and 2 combined), and for each of"
+them specify how your emissions compare to the previous year.
+Change in renewable energy consumption
+(7.10.1.1) Change in emissions (metric tons CO2e)
+8600
+(7.10.1.2) Direction of change in emissions
+Select from:
+☑ Decreased
+(7.10.1.3) Emissions value (percentage)
+22
+(7.10.1.4) Please explain calculation
+We increased our renewable energy consumption through the purchase of renewable energy certificates in FY2025 which resulted in a decrease in our market-based
+Scope 2 emissions by approximately 8600 tCO2e. 8600/38360 22% decrease compared to our FY2024 Scope 1 & 2 emissions.
+Other emissions reduction activities
+(7.10.1.1) Change in emissions (metric tons CO2e)
+200
+(7.10.1.2) Direction of change in emissions
+Select from:
+☑ Decreased
+(7.10.1.3) Emissions value (percentage)
+153
+
+=== Table 39 (page 155) ===
+1
+(7.10.1.4) Please explain calculation
+We transitioned petrol/diesel vehicles in Belgium to electric and purchased renewable energy certificates for their energy consumption. We also transitioned 18 petrol
+"cars to hybrid cars in Saudi Arabia. In total, these initiatives reduced Scope 1 emissions by about 200t CO2e due to fuel savings. 200/38360 1% reduction from"
+FY2024.
+Divestment
+(7.10.1.1) Change in emissions (metric tons CO2e)
+
+=== Table 40 (page 157) ===
+(7.10.1.2) Direction of change in emissions
+Select from:
+☑ Increased
+(7.10.1.3) Emissions value (percentage)
+4
+(7.10.1.4) Please explain calculation
+"In some locations, our Scope 1 & 2 emissions increased in FY2025 compared to FY2024. The primary reasons for this are that we had an increase in stationary fuel"
+"consumption in several of operations and offices. This caused our Scope 1 & 2 emissions to increase by approximately 1,700 tCO2e. 1700/38360 4% increase"
+compared to FY2024.
+Change in methodology
+(7.10.1.1) Change in emissions (metric tons CO2e)
+27
+(7.10.1.2) Direction of change in emissions
+Select from:
+☑ Decreased
+(7.10.1.3) Emissions value (percentage)
+0.1
+(7.10.1.4) Please explain calculation
+"GHG emissions from diesel generators at four leased sites in India were reclassified from Scope 1 to Scope 3 – category 8, as they relate to base building operations"
+managed by landlords. This caused our Scope 1 & 2 emissions to decrease by approximately 27t CO2e. 27/38360 0.1% decrease in emissions compared to FY2024.
+Change in boundary
+156
+
+=== Table 41 (page 160) ===
+Not applicable
+[Fixed row]
+(7.10.2) Are your emissions performance calculations in 7.10 and 7.10.1 based on a location-based Scope 2 emissions
+figure or a market-based Scope 2 emissions figure?
+Select from:
+☑ Market-based
+(7.12) Are carbon dioxide emissions from biogenic carbon relevant to your organization?
+Select from:
+☑ No
+(7.15) Does your organization break down its Scope 1 emissions by greenhouse gas type?
+Select from:
+☑ Yes
+(7.15.1) Break down your total gross global Scope 1 emissions by greenhouse gas type and provide the source of each
+used global warming potential (GWP).
+Row 1
+(7.15.1.1) Greenhouse gas
+Select from:
+☑ CO2
+(7.15.1.2) Scope 1 emissions (metric tons of CO2e)
+24171
+
+=== Table 42 (page 161) ===
+(7.15.1.3) GWP Reference
+Select from:
+☑ IPCC Fourth Assessment Report (AR4 - 100 year)
+Row 2
+(7.15.1.1) Greenhouse gas
+Select from:
+☑ CH4
+(7.15.1.2) Scope 1 emissions (metric tons of CO2e)
+38
+(7.15.1.3) GWP Reference
+Select from:
+☑ IPCC Fourth Assessment Report (AR4 - 100 year)
+Row 3
+(7.15.1.1) Greenhouse gas
+Select from:
+☑ N2O
+(7.15.1.2) Scope 1 emissions (metric tons of CO2e)
+106
+(7.15.1.3) GWP Reference
+Select from:
+
+=== Table 43 (page 162) ===
+☑ IPCC Fourth Assessment Report (AR4 - 100 year)
+Row 4
+(7.15.1.1) Greenhouse gas
+Select from:
+☑ HFCs
+(7.15.1.2) Scope 1 emissions (metric tons of CO2e)
+171
+(7.15.1.3) GWP Reference
+Select from:
+☑ IPCC Fourth Assessment Report (AR4 - 100 year)
+Row 5
+(7.15.1.1) Greenhouse gas
+Select from:
+☑ PFCs
+(7.15.1.2) Scope 1 emissions (metric tons of CO2e)
+
+=== Table 44 (page 163) ===
+(7.15.1.1) Greenhouse gas
+Select from:
+☑ SF6
+(7.15.1.2) Scope 1 emissions (metric tons of CO2e)
+0
+(7.15.1.3) GWP Reference
+Select from:
+☑ IPCC Fourth Assessment Report (AR4 - 100 year)
+Row 7
+(7.15.1.1) Greenhouse gas
+Select from:
+☑ NF3
+(7.15.1.2) Scope 1 emissions (metric tons of CO2e)
+0
+(7.15.1.3) GWP Reference
+Select from:
+☑ IPCC Fourth Assessment Report (AR4 - 100 year)
+[Add row]
+(7.16) Break down your total gross global Scope 1 and 2 emissions by country/area.
+Argentina
+162
+
+=== Table 45 (page 164) ===
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+32.38,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+32.35,
+Australia,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+446.96,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+782.1,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+168.1,
+Austria,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0.08,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+0,
+,163
+
+=== Table 46 (page 165) ===
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Azerbaijan,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+2.77,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+13.92,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Bahrain,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+6.36,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Belgium,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+,164
+
+=== Table 47 (page 166) ===
+229.74,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+118.86,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Brazil,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+136.43,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+32.46,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+5.73,
+Brunei Darussalam,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+128.46,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+,165
+
+=== Table 48 (page 167) ===
+128.48
+Bulgaria
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+9.71
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+44.38
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 49 (page 168) ===
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+114.3
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+9.81
+China
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+
+=== Table 50 (page 169) ===
+Costa Rica,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0.39,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+0,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Côte d'Ivoire,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+8.23,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+8.22,
+Czechia,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+,168
+
+=== Table 51 (page 170) ===
+7.19
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+0.99
+Denmark
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+1.65
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+
+=== Table 52 (page 171) ===
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+427.15
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+14.64
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 53 (page 172) ===
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Germany,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+61.03,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+66.82,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+104.24,
+Hungary,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+1.48,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+0,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Iceland,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+,171
+
+=== Table 54 (page 173) ===
+0.05,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+0,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+India,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0.17,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+7649,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Indonesia,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+10.06,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+24.85,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+,172
+
+=== Table 55 (page 174) ===
+0,
+Ireland,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0.15,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+0,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Israel,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0.11,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+0,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Italy,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0.36,
+,173
+
+=== Table 56 (page 175) ===
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+0,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Kazakhstan,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+421.85,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+148.37,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Kuwait,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+2211.39,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+0,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+,174
+
+=== Table 57 (page 176) ===
+Luxembourg,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0.02,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+0,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Malaysia,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+737.76,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Mexico,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+259.88,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+,175
+
+=== Table 58 (page 177) ===
+1.71
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+1.74
+Morocco
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+2561.52
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+841.78
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+841.78
+Mozambique
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+
+=== Table 59 (page 178) ===
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+402.65
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+576.82
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+119.91
+New Zealand
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+77.09
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+35.16
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+0.02
+Nigeria
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+653.16
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+213.01
+
+=== Table 60 (page 179) ===
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+213.01
+Norway
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+419.86
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+199.51
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 61 (page 180) ===
+0,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+0,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Philippines,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+2.4,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+2.37,
+Poland,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0.1,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+0,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+,179
+
+=== Table 62 (page 181) ===
+0
+Qatar
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+64.84
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+333.16
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+333.16
+Romania
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+0.06
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+
+=== Table 63 (page 182) ===
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+7860.06,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Senegal,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+8.05,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+8.05,
+Singapore,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+6.79,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+186.61,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+,181
+
+=== Table 64 (page 183) ===
+South Africa
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+31.9
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+63.1
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+63.1
+Spain
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+1.24
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+8.45
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+2.87
+Sweden
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+0.56
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+
+=== Table 65 (page 184) ===
+2.15,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Switzerland,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0.05,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+0,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Thailand,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+31.3,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+50.18,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+0.23,
+Trinidad and Tobago,
+,183
+
+=== Table 66 (page 185) ===
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+131,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+131.02,
+Turkey,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+0.33,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+16.68,
+"(7.16.3) Scope 2, market-based (metric tons CO2e)",
+3.54,
+United Arab Emirates,
+(7.16.1) Scope 1 emissions (metric tons CO2e),
+31.12,
+"(7.16.2) Scope 2, location-based (metric tons CO2e)",
+221.8,
+,184
+
+=== Table 67 (page 186) ===
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+221.78
+United Kingdom of Great Britain and Northern Ireland
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+266.6
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+401.91
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+1.96
+United States of America
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+8769.1
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+8968.04
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+2876.02
+Uruguay
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+
+=== Table 68 (page 187) ===
+0.02
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+0
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+0
+Uzbekistan
+(7.16.1) Scope 1 emissions (metric tons CO2e)
+7.3
+"(7.16.2) Scope 2, location-based (metric tons CO2e)"
+27.2
+"(7.16.3) Scope 2, market-based (metric tons CO2e)"
+0
+[Fixed row]
+(7.17) Indicate which gross global Scope 1 emissions breakdowns you are able to provide.
+Select all that apply
+☑ By business division
+☑ By facility
+☑ By activity
+(7.17.1) Break down your total gross global Scope 1 emissions by business division.
+186
+
+=== Table 69 (page 188) ===
+Row 1,"Americas (US, Canada and Latin America)",14087
+Row 2,APAC (Asia-Pacific),572
+Row 3,"EMEA (Europe, Middle East and Africa)",9826
+[Add row],,
+(7.17.2) Break down your total gross global Scope 1 emissions by business facility.,,
+Row 1,,
+(7.17.2.1) Facility,,
+1100 Bennett Road,,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),,
+2.058,,
+(7.17.2.3) Latitude,,
+43.909442,,
+(7.17.2.4) Longitude,,
+-78.648473,,
+Row 2,,
+(7.17.2.1) Facility,,
+
+=== Table 70 (page 189) ===
+114 Wellington Street
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+0.561
+(7.17.2.3) Latitude
+53.797161
+(7.17.2.4) Longitude
+-1.556624
+Row 3
+(7.17.2.1) Facility
+116 Inverness Drive East
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+12.751
+(7.17.2.3) Latitude
+39.578565
+(7.17.2.4) Longitude
+-104.86904
+Row 4
+(7.17.2.1) Facility
+
+=== Table 71 (page 190) ===
+130 Avenue NE
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+1616.718
+(7.17.2.3) Latitude
+53.587441
+(7.17.2.4) Longitude
+-113.313132
+Row 5
+(7.17.2.1) Facility
+1500 Hughes Way - Pod B
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+40.895
+(7.17.2.3) Latitude
+33.827402
+(7.17.2.4) Longitude
+-118.212183
+Row 6
+(7.17.2.1) Facility
+
+=== Table 72 (page 191) ===
+160 West 68th Avenue
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+809.238
+(7.17.2.3) Latitude
+61.158875
+(7.17.2.4) Longitude
+-149.880148
+Row 7
+(7.17.2.1) Facility
+16-17 Sukhumvit Road Vehicle Fleet
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+12.321
+(7.17.2.3) Latitude
+
+=== Table 73 (page 192) ===
+166-5255 McCall Way NE
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+6.574
+(7.17.2.3) Latitude
+51.099773
+(7.17.2.4) Longitude
+-114.00673
+Row 9
+(7.17.2.1) Facility
+167 Devon Street Vehicle Fleet
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+76.857
+(7.17.2.3) Latitude
+
+=== Table 74 (page 193) ===
+1935 Silicone Drive Storage
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+21.974
+(7.17.2.3) Latitude
+43.830022
+(7.17.2.4) Longitude
+-79.050469
+Row 11
+(7.17.2.1) Facility
+2001 Clements Road
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+478.93
+(7.17.2.3) Latitude
+43.827356
+(7.17.2.4) Longitude
+-79.048086
+Row 12
+(7.17.2.1) Facility
+
+=== Table 75 (page 194) ===
+2001 Clements Road Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+4.533,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 13,
+(7.17.2.1) Facility,
+2330 East Bidwell Street,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+2.787,
+(7.17.2.3) Latitude,
+38.666562,
+(7.17.2.4) Longitude,
+-121.140713,
+Row 14,
+(7.17.2.1) Facility,
+,193
+
+=== Table 76 (page 195) ===
+27 Great West Road
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+89.75
+(7.17.2.3) Latitude
+51.491341
+(7.17.2.4) Longitude
+-0.290334
+Row 15
+(7.17.2.1) Facility
+2910 Valley Forge Street
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+12.535
+(7.17.2.3) Latitude
+46.83819
+(7.17.2.4) Longitude
+-100.735924
+Row 16
+(7.17.2.1) Facility
+
+=== Table 77 (page 196) ===
+"3002, 5101-46 Avenue"
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+34.893
+(7.17.2.3) Latitude
+54.4086
+(7.17.2.4) Longitude
+-110.20677
+Row 17
+(7.17.2.1) Facility
+3149 Winter Lake Road
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+8.178
+(7.17.2.3) Latitude
+27.995889
+(7.17.2.4) Longitude
+-81.896967
+Row 18
+(7.17.2.1) Facility
+
+=== Table 78 (page 197) ===
+32 Fidokor Street Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+7.297,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 19,
+(7.17.2.1) Facility,
+3319 Gabel Road,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+14.515,
+(7.17.2.3) Latitude,
+45.744728,
+(7.17.2.4) Longitude,
+-108.59951,
+Row 20,
+(7.17.2.1) Facility,
+,196
+
+=== Table 79 (page 198) ===
+3621 Harbor Boulevard
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+8.143
+(7.17.2.3) Latitude
+33.698415
+(7.17.2.4) Longitude
+-117.91849
+Row 21
+(7.17.2.1) Facility
+3700 Centrepoint Drive
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+76.869
+(7.17.2.3) Latitude
+61.186924
+(7.17.2.4) Longitude
+-149.892914
+Row 22
+(7.17.2.1) Facility
+
+=== Table 80 (page 199) ===
+39 Melrose Boulevard
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+2.43
+(7.17.2.3) Latitude
+-26.132496
+(7.17.2.4) Longitude
+28.06956
+Row 23
+(7.17.2.1) Facility
+39 Melrose Boulevard Vehicle Fleet
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+29.086
+(7.17.2.3) Latitude
+
+=== Table 81 (page 200) ===
+435 North Service Road West
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+21.075
+(7.17.2.3) Latitude
+43.44198
+(7.17.2.4) Longitude
+-80.2931
+Row 25
+(7.17.2.1) Facility
+438B Alexandra Road Vehicle Fleet
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+6.793
+(7.17.2.3) Latitude
+
+=== Table 82 (page 201) ===
+49 Quarry Park Bulevard
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+383.638
+(7.17.2.3) Latitude
+50.96316
+(7.17.2.4) Longitude
+-114.00409
+Row 27
+(7.17.2.1) Facility
+4949 Essen Lane
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+0.45
+(7.17.2.3) Latitude
+30.402444
+(7.17.2.4) Longitude
+-91.104168
+Row 28
+(7.17.2.1) Facility
+
+=== Table 83 (page 202) ===
+5 Seaward Place
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+14.289
+(7.17.2.3) Latitude
+55.849243
+(7.17.2.4) Longitude
+-4.276513
+Row 29
+(7.17.2.1) Facility
+5421 Blackfalds Industrial Way
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+1049.525
+(7.17.2.3) Latitude
+52.369033
+(7.17.2.4) Longitude
+-113.789477
+Row 30
+(7.17.2.1) Facility
+
+=== Table 84 (page 203) ===
+5424 Blackfalds Industrial Way
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+207.538
+(7.17.2.3) Latitude
+52.369453
+(7.17.2.4) Longitude
+-113.785803
+Row 31
+(7.17.2.1) Facility
+5985 Rogerdale Road
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+60.436
+(7.17.2.3) Latitude
+29.714002
+(7.17.2.4) Longitude
+-95.55926
+Row 32
+(7.17.2.1) Facility
+
+=== Table 85 (page 204) ===
+5995 Rogerdale Road
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+23.65
+(7.17.2.3) Latitude
+29.7134
+(7.17.2.4) Longitude
+-95.558775
+Row 33
+(7.17.2.1) Facility
+69 Young Street
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+9.812
+(7.17.2.3) Latitude
+46.708375
+(7.17.2.4) Longitude
+-80.946263
+Row 34
+(7.17.2.1) Facility
+
+=== Table 86 (page 205) ===
+810 Queen Street
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+3.087
+(7.17.2.3) Latitude
+44.177373
+(7.17.2.4) Longitude
+-81.635072
+Row 35
+(7.17.2.1) Facility
+8515 Eastlake Drive
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+49.951
+(7.17.2.3) Latitude
+49.257938
+(7.17.2.4) Longitude
+-122.917226
+Row 36
+(7.17.2.1) Facility
+
+=== Table 87 (page 206) ===
+8536 Roper Road
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+14.455
+(7.17.2.3) Latitude
+53.488687
+(7.17.2.4) Longitude
+-113.452204
+Row 37
+(7.17.2.1) Facility
+8536 Roper Road Vehicle Fleet
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+104.988
+(7.17.2.3) Latitude
+
+=== Table 88 (page 207) ===
+91 Canterbury Street
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+0.191
+(7.17.2.3) Latitude
+45.270141
+(7.17.2.4) Longitude
+-66.060691
+Row 39
+(7.17.2.1) Facility
+93 Zarifa Aliyeva street Vehicle Fleet
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+2.775
+(7.17.2.3) Latitude
+
+=== Table 89 (page 208) ===
+Aberdeen freehold
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+20.435
+(7.17.2.3) Latitude
+57.115888
+(7.17.2.4) Longitude
+-2.070827
+Row 41
+(7.17.2.1) Facility
+Aberdeen freehold Vehicle Fleet
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+9.686
+(7.17.2.3) Latitude
+
+=== Table 90 (page 209) ===
+Al Asmakh Tower Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+64.845,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 43,
+(7.17.2.1) Facility,
+Al Sahel Complex - Mangaf Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+2211.389,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 44,
+(7.17.2.1) Facility,
+,208
+
+=== Table 91 (page 210) ===
+Al Yaum Tower
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+117.963
+(7.17.2.3) Latitude
+26.380483
+(7.17.2.4) Longitude
+50.013233
+Row 45
+(7.17.2.1) Facility
+Al Yaum Tower Vehicle Fleet
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+1864.15
+(7.17.2.3) Latitude
+
+=== Table 92 (page 211) ===
+Annan House
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+6.996
+(7.17.2.3) Latitude
+57.141902
+(7.17.2.4) Longitude
+-2.094009
+Row 47
+(7.17.2.1) Facility
+Arctic Oilfield Hotel
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+635.867
+(7.17.2.3) Latitude
+70.226822
+(7.17.2.4) Longitude
+-148.401228
+Row 48
+(7.17.2.1) Facility
+
+=== Table 93 (page 212) ===
+Arnhem
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+20.225
+(7.17.2.3) Latitude
+51.987422
+(7.17.2.4) Longitude
+5.933444
+Row 49
+(7.17.2.1) Facility
+Australia Corporate
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+6.542
+(7.17.2.3) Latitude
+
+=== Table 94 (page 213) ===
+Austria Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.079,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 51,
+(7.17.2.1) Facility,
+Avenida das Nações Unidas nº 14.401 Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+59.661,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 52,
+(7.17.2.1) Facility,
+,212
+
+=== Table 95 (page 214) ===
+Bangarvagsgata 15 Yard Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+193.122,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 53,
+(7.17.2.1) Facility,
+Bangarvagsgata 15 Yard,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+226.614,
+(7.17.2.3) Latitude,
+58.987847,
+(7.17.2.4) Longitude,
+5.725806,
+Row 54,
+(7.17.2.1) Facility,
+,213
+
+=== Table 96 (page 215) ===
+Bay Atlantic Tower
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+618.732
+(7.17.2.3) Latitude
+6.437598
+(7.17.2.4) Longitude
+3.482199
+Row 55
+(7.17.2.1) Facility
+Bay Atlantic Tower Vehicle Fleet
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+34.429
+(7.17.2.3) Latitude
+
+=== Table 97 (page 216) ===
+Belgium Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.231,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 57,
+(7.17.2.1) Facility,
+Belo Horizonte Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+10.618,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 58,
+(7.17.2.1) Facility,
+,215
+
+=== Table 98 (page 217) ===
+Broadway Tech Centre
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+38.305
+(7.17.2.3) Latitude
+49.260738
+(7.17.2.4) Longitude
+-123.0429
+Row 59
+(7.17.2.1) Facility
+Building 200 VACATED
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+0.033
+(7.17.2.3) Latitude
+54.408623
+(7.17.2.4) Longitude
+-110.208227
+Row 60
+(7.17.2.1) Facility
+
+=== Table 99 (page 218) ===
+Canada Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+180.177,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 61,
+(7.17.2.1) Facility,
+Canada Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+265.081,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 62,
+(7.17.2.1) Facility,
+,217
+
+=== Table 100 (page 219) ===
+Chile Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.186,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 63,
+(7.17.2.1) Facility,
+Colombia Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.113,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 64,
+(7.17.2.1) Facility,
+,218
+
+=== Table 101 (page 220) ===
+Commerce South D
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+169.772
+(7.17.2.3) Latitude
+53.487077
+(7.17.2.4) Longitude
+-113.455536
+Row 65
+(7.17.2.1) Facility
+Costa Rica Corporate
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+0.392
+(7.17.2.3) Latitude
+
+=== Table 102 (page 221) ===
+Dalton Pad
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+87.628
+(7.17.2.3) Latitude
+69.990121
+(7.17.2.4) Longitude
+-148.68879
+Row 67
+(7.17.2.1) Facility
+Denmark Corporate
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+1.649
+(7.17.2.3) Latitude
+
+=== Table 103 (page 222) ===
+Dhafir Tower Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+30.88,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 69,
+(7.17.2.1) Facility,
+Dominican Republic Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.391,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 70,
+(7.17.2.1) Facility,
+,221
+
+=== Table 104 (page 223) ===
+Dow Olefin Verbund
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+6.525
+(7.17.2.3) Latitude
+51.39415
+(7.17.2.4) Longitude
+11.974703
+Row 71
+(7.17.2.1) Facility
+Egypt Corporate
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+407.039
+(7.17.2.3) Latitude
+
+=== Table 105 (page 224) ===
+Equipment Maintenance Shops
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+2604.067
+(7.17.2.3) Latitude
+37.09024
+(7.17.2.4) Longitude
+-95.712891
+Row 73
+(7.17.2.1) Facility
+Equipment Maintenance Shops Vehicle Fleet
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+2128.951
+(7.17.2.3) Latitude
+
+=== Table 106 (page 225) ===
+Finland Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.301,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 75,
+(7.17.2.1) Facility,
+France Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.293,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 76,
+(7.17.2.1) Facility,
+,224
+
+=== Table 107 (page 226) ===
+Germany Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+1.418,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 77,
+(7.17.2.1) Facility,
+Grimsby Freehold Fabshop,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+75.837,
+(7.17.2.3) Latitude,
+53.572438,
+(7.17.2.4) Longitude,
+-0.091266,
+Row 78,
+(7.17.2.1) Facility,
+,225
+
+=== Table 108 (page 227) ===
+Grimsby Freehold Fabshop Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+34.684,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 79,
+(7.17.2.1) Facility,
+Hungary Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+1.481,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 80,
+(7.17.2.1) Facility,
+,226
+
+=== Table 109 (page 228) ===
+Iceland Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.053,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 81,
+(7.17.2.1) Facility,
+Interplaza,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+5.663,
+(7.17.2.3) Latitude,
+61.172532,
+(7.17.2.4) Longitude,
+-149.885564,
+Row 82,
+(7.17.2.1) Facility,
+,227
+
+=== Table 110 (page 229) ===
+Ireland Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.15,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 83,
+(7.17.2.1) Facility,
+Israel Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.109,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 84,
+(7.17.2.1) Facility,
+,228
+
+=== Table 111 (page 230) ===
+Italy Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.357,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 85,
+(7.17.2.1) Facility,
+JESA vehicle fleet - Morocco,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+2561.523,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 86,
+(7.17.2.1) Facility,
+,229
+
+=== Table 112 (page 231) ===
+Josef-Lammerting-Allee 25 - VACATED,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+42.277,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 87,
+(7.17.2.1) Facility,
+Landmark Building Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+34.141,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 88,
+(7.17.2.1) Facility,
+,230
+
+=== Table 113 (page 232) ===
+Lions Gate Business Park
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+2.068
+(7.17.2.3) Latitude
+49.317313
+(7.17.2.4) Longitude
+-123.881854
+Row 89
+(7.17.2.1) Facility
+Luxembourg Corporate
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+0.016
+(7.17.2.3) Latitude
+
+=== Table 114 (page 233) ===
+Manchester Park Square
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+3.153
+(7.17.2.3) Latitude
+53.39357
+(7.17.2.4) Longitude
+-2.185918
+Row 91
+(7.17.2.1) Facility
+Meerssen
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+45.003
+(7.17.2.3) Latitude
+50.8829
+(7.17.2.4) Longitude
+5.747754
+Row 92
+(7.17.2.1) Facility
+
+=== Table 115 (page 234) ===
+Meerssen Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+20.124,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 93,
+(7.17.2.1) Facility,
+Mexico Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+11.648,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 94,
+(7.17.2.1) Facility,
+,233
+
+=== Table 116 (page 235) ===
+Netherlands Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.238,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 95,
+(7.17.2.1) Facility,
+New Cairo Office - Nile Building Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+20.115,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 96,
+(7.17.2.1) Facility,
+,234
+
+=== Table 117 (page 236) ===
+New Energy House
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+0.17
+(7.17.2.3) Latitude
+19.11608
+(7.17.2.4) Longitude
+72.869611
+Row 97
+(7.17.2.1) Facility
+New Zealand Corporate
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+0.236
+(7.17.2.3) Latitude
+
+=== Table 118 (page 237) ===
+Noorderlaan 127
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+101.274
+(7.17.2.3) Latitude
+51.264295
+(7.17.2.4) Longitude
+4.409715
+Row 99
+(7.17.2.1) Facility
+Noorderlaan 127 Vehicle Fleet
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+128.088
+(7.17.2.3) Latitude
+
+=== Table 119 (page 238) ===
+Norway Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.125,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 101,
+(7.17.2.1) Facility,
+Office and Accommodation Lease Atyrau,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+421.85,
+(7.17.2.3) Latitude,
+47.094496,
+(7.17.2.4) Longitude,
+51.923837,
+Row 102,
+(7.17.2.1) Facility,
+,237
+
+=== Table 120 (page 239) ===
+Otto-Hahn-Strasse 7
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+10.806
+(7.17.2.3) Latitude
+50.857376
+(7.17.2.4) Longitude
+6.97395
+Row 103
+(7.17.2.1) Facility
+Poland Corporate
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+0.101
+(7.17.2.3) Latitude
+
+=== Table 121 (page 240) ===
+Puerto Rico Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.025,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 105,
+(7.17.2.1) Facility,
+Rasa One Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+18.98,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 106,
+(7.17.2.1) Facility,
+,239
+
+=== Table 122 (page 241) ===
+Romania Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.063,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 107,
+(7.17.2.1) Facility,
+Rua do Passeio Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+66.149,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 108,
+(7.17.2.1) Facility,
+,240
+
+=== Table 123 (page 242) ===
+SES Building Charlton Street
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+3.492
+(7.17.2.3) Latitude
+53.57375
+(7.17.2.4) Longitude
+-0.093151
+Row 109
+(7.17.2.1) Facility
+South Africa Corporate
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+0.382
+(7.17.2.3) Latitude
+
+=== Table 124 (page 243) ===
+Spain Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+1.24,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 111,
+(7.17.2.1) Facility,
+Staffson Corporation Road,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+6.542,
+(7.17.2.3) Latitude,
+53.572438,
+(7.17.2.4) Longitude,
+-1.908734,
+Row 112,
+(7.17.2.1) Facility,
+,242
+
+=== Table 125 (page 244) ===
+Sweden Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.565,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 113,
+(7.17.2.1) Facility,
+Switzerland Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.051,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 114,
+(7.17.2.1) Facility,
+,243
+
+=== Table 126 (page 245) ===
+The Hague Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+317.058,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 115,
+(7.17.2.1) Facility,
+Todor Alexandrov Boulevard Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+9.711,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 116,
+(7.17.2.1) Facility,
+,244
+
+=== Table 127 (page 246) ===
+Torre Reforma Latino Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+248.228,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 117,
+(7.17.2.1) Facility,
+Tract 22/23,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+776.852,
+(7.17.2.3) Latitude,
+70.253324,
+(7.17.2.4) Longitude,
+-148.349594,
+Row 118,
+(7.17.2.1) Facility,
+,245
+
+=== Table 128 (page 247) ===
+Turkey Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.329,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 119,
+(7.17.2.1) Facility,
+Unit 1 1104 70th Avenue,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+255.64,
+(7.17.2.3) Latitude,
+53.50788,
+(7.17.2.4) Longitude,
+-113.359306,
+Row 120,
+(7.17.2.1) Facility,
+,246
+
+=== Table 129 (page 248) ===
+United Arab Emirates Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.236,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 121,
+(7.17.2.1) Facility,
+United Kingdom Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+1.173,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 122,
+(7.17.2.1) Facility,
+,247
+
+=== Table 130 (page 249) ===
+United States Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+256.585,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 123,
+(7.17.2.1) Facility,
+Uruguay Corporate,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+0.015,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 124,
+(7.17.2.1) Facility,
+,248
+
+=== Table 131 (page 250) ===
+US Vehicle Fleet,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+742.121,
+(7.17.2.3) Latitude,
+0,
+(7.17.2.4) Longitude,
+0,
+Row 125,
+(7.17.2.1) Facility,
+Warm storage tents,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),
+460.899,
+(7.17.2.3) Latitude,
+70.253324,
+(7.17.2.4) Longitude,
+-148.349594,
+Row 126,
+(7.17.2.1) Facility,
+,249
+
+=== Table 132 (page 251) ===
+Wiedauwkaai 50
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+0.148
+(7.17.2.3) Latitude
+51.075033
+(7.17.2.4) Longitude
+3.726019
+Row 127
+(7.17.2.1) Facility
+World Trade Centre Floor 18 Vehicle Fleet
+(7.17.2.2) Scope 1 emissions (metric tons CO2e)
+10.058
+(7.17.2.3) Latitude
+
+=== Table 133 (page 252) ===
+WPS Vehicles,,
+(7.17.2.2) Scope 1 emissions (metric tons CO2e),,
+440.414,,
+(7.17.2.3) Latitude,,
+0,,
+(7.17.2.4) Longitude,,
+0,,
+[Add row],,
+(7.17.3) Break down your total gross global Scope 1 emissions by business activity.,,
+,Activity,Scope 1 emissions (metric tons CO2e)
+Row 1,"Global yard operations (UK, Norway, Houston, Alaska and",8960
+,Canada),
+Row 2,Global vehicle fleets,12643
+Row 3,Global Office Operations,2882
+[Add row],,
+(7.20) Indicate which gross global Scope 2 emissions breakdowns you are able to provide.,,
+Select all that apply,,
+☑ By business division,,
+☑ By facility,,
+,251,
+
+=== Table 134 (page 253) ===
+(7.20.1) Break down your total gross global Scope 2 emissions by business division.,,,
+,,"Scope 2, location-based (metric tons","Scope 2, market-based (metric tons"
+,Business division,,
+,,CO2e),CO2e)
+Row 1,"EMEA (Europe, Middle East and Africa)",11414,2128
+Row 2,APAC (Asia-pacific),9973,316
+Row 3,Americas (North America and South,11846,4080
+,America),,
+
+=== Table 135 (page 254) ===
+(7.20.2.1) Facility
+101 E. Huntington Drive
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+49.313
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+54.36
+Row 3
+(7.20.2.1) Facility
+10101 Bay Area Boulevard
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+104.579
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 136 (page 255) ===
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+1.08
+Row 5
+(7.20.2.1) Facility
+110 Elizabeth St Ararat
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+14.435
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+12.44
+Row 6
+(7.20.2.1) Facility
+1100 Bennett Road
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+0.019
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 137 (page 256) ===
+111 Pacific Hwy_VACATED,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+20.233,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 8,
+(7.20.2.1) Facility,
+114 Wellington Street,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+1.182,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 9,
+(7.20.2.1) Facility,
+116 Inverness Drive East,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+50.564,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+,255
+
+=== Table 138 (page 257) ===
+52.59
+Row 10
+(7.20.2.1) Facility
+117B De Havilland Drive
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+0.741
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 139 (page 258) ===
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+909.502
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+38.9
+Row 13
+(7.20.2.1) Facility
+142 Featherston Street
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+2.794
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 140 (page 259) ===
+Row 15
+(7.20.2.1) Facility
+155 Fenchurch Street
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+6.281
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 141 (page 260) ===
+364.226
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+396.52
+Row 18
+(7.20.2.1) Facility
+16-17 Sukhumvit Road
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+21.421
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 142 (page 261) ===
+(7.20.2.1) Facility
+167 Devon Street
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+20.401
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 143 (page 262) ===
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+0.12
+Row 23
+(7.20.2.1) Facility
+178 Normanby Road
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+79.433
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+68.37
+Row 24
+(7.20.2.1) Facility
+181 Huntington Dr # 110-210 VACATED
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+63.292
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+68.17
+Row 25
+(7.20.2.1) Facility
+
+=== Table 144 (page 263) ===
+1935 Silicone Drive Storage
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+2.167
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+2.18
+Row 26
+(7.20.2.1) Facility
+2001 Clements Road
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+56.162
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+56.17
+Row 27
+(7.20.2.1) Facility
+205 Hastings Street
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+4.042
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 145 (page 264) ===
+0
+Row 28
+(7.20.2.1) Facility
+224 Cashel Street
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+4.287
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 146 (page 265) ===
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+1.983
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+2.16
+Row 31
+(7.20.2.1) Facility
+240 St Georges Terrace
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+241.616
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 147 (page 266) ===
+Row 33
+(7.20.2.1) Facility
+2910 Valley Forge Street
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+27.17
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+28.86
+Row 34
+(7.20.2.1) Facility
+"3002, 5101-46 Avenue"
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+13.604
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+13.6
+Row 35
+(7.20.2.1) Facility
+3149 Winter Lake Road
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+
+=== Table 148 (page 267) ===
+156.815
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+160.34
+Row 36
+(7.20.2.1) Facility
+32 Fidokor Street
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+27.202
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 149 (page 268) ===
+(7.20.2.1) Facility
+3389 Carbide Drive
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+30.13
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+30.77
+Row 39
+(7.20.2.1) Facility
+3621 Harbor Boulevard
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+4.92
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+5.42
+Row 40
+(7.20.2.1) Facility
+3700 Centrepoint Drive
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+135.243
+
+=== Table 150 (page 269) ===
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+146.69
+Row 41
+(7.20.2.1) Facility
+38 Hugh Ryan Drive Garbutt QLD
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+11.631
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 151 (page 270) ===
+39 Melrose Boulevard
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+63.103
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+63.086
+Row 44
+(7.20.2.1) Facility
+416 Raglan Parade - VACATED
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+1.861
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+1.6
+Row 45
+(7.20.2.1) Facility
+420 George Street
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+43.503
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 152 (page 271) ===
+0
+Row 46
+(7.20.2.1) Facility
+435 North Service Road West
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+3.004
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+3.01
+Row 47
+(7.20.2.1) Facility
+438B Alexandra Road
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+186.611
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 153 (page 272) ===
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+14.091
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+6.22
+Row 49
+(7.20.2.1) Facility
+47A Albert St
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+3.387
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 154 (page 273) ===
+Row 51
+(7.20.2.1) Facility
+4949 Essen Lane
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+2005.02
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+1.58
+Row 52
+(7.20.2.1) Facility
+5 Seaward Place
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+36.271
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 155 (page 274) ===
+0.8,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 54,
+(7.20.2.1) Facility,
+51 Shortland Street,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+1.907,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 55,
+(7.20.2.1) Facility,
+5421 Blackfalds Industrial Way,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+396.512,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+396.53,
+Row 56,
+,273
+
+=== Table 156 (page 275) ===
+(7.20.2.1) Facility
+5424 Blackfalds Industrial Way
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+196.08
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+196.07
+Row 57
+(7.20.2.1) Facility
+5985 Rogerdale Road
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+1995.141
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 157 (page 276) ===
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 59,
+(7.20.2.1) Facility,
+69 Young Street,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+1.957,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+1.94,
+Row 60,
+(7.20.2.1) Facility,
+72 Goondoon street,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+25.481,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 61,
+(7.20.2.1) Facility,
+,275
+
+=== Table 158 (page 277) ===
+810 Queen Street
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+0.506
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+0.52
+Row 62
+(7.20.2.1) Facility
+8-14 Telford street
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+11.248
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 159 (page 278) ===
+0
+Row 64
+(7.20.2.1) Facility
+8515 Eastlake Drive
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+2.826
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+2.83
+Row 65
+(7.20.2.1) Facility
+8536 Roper Road
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+10.679
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+10.66
+Row 66
+(7.20.2.1) Facility
+87 Guthrie Street
+
+=== Table 160 (page 279) ===
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+0.403,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 67,
+(7.20.2.1) Facility,
+905 Hay Street,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+24.385,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+31.69,
+Row 68,
+(7.20.2.1) Facility,
+91 Canterbury Street,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+2.855,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+2.85,
+,278
+
+=== Table 161 (page 280) ===
+Row 69
+(7.20.2.1) Facility
+91 King William Street
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+5.489
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+15.8
+Row 70
+(7.20.2.1) Facility
+91 Victoria street
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+15.63
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 162 (page 281) ===
+13.919,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 72,
+(7.20.2.1) Facility,
+Aberdeen freehold,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+27.526,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 73,
+(7.20.2.1) Facility,
+Al Asmakh Tower,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+333.157,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+333.147,
+Row 74,
+,280
+
+=== Table 163 (page 282) ===
+(7.20.2.1) Facility
+Al Fanar Tower
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+1734.965
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 164 (page 283) ===
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 77,
+(7.20.2.1) Facility,
+Am Markt 6,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+1.935,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+3.89,
+Row 78,
+(7.20.2.1) Facility,
+Annan House,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+154.415,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 79,
+(7.20.2.1) Facility,
+,282
+
+=== Table 165 (page 284) ===
+Antofagasta
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+1.058
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+1.07
+Row 80
+(7.20.2.1) Facility
+Apoquindo
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+113.244
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+8.74
+Row 81
+(7.20.2.1) Facility
+Arctic Oilfield Hotel
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+390.194
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 166 (page 285) ===
+375.59
+Row 82
+(7.20.2.1) Facility
+Arnhem
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+17.907
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 167 (page 286) ===
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+14.596,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 85,
+(7.20.2.1) Facility,
+Bangarvagsgata 15 Yard,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+169.46,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 86,
+(7.20.2.1) Facility,
+BASF Schwarzheide GmbH_VACATED,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+0.324,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0.57,
+,285
+
+=== Table 168 (page 287) ===
+Row 87
+(7.20.2.1) Facility
+"BASF SE, Carl-Bosch-Strasse 38"
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+10.321
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+14.399
+Row 88
+(7.20.2.1) Facility
+Bay Atlantic Tower
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+213.011
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+213.01
+Row 89
+(7.20.2.1) Facility
+Belo Horizonte
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+
+=== Table 169 (page 288) ===
+5.241,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 90,
+(7.20.2.1) Facility,
+Block 1 Miri - VACATED,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+53.368,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 91,
+(7.20.2.1) Facility,
+Block C Global Infocity Park,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+58.227,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 92,
+,287
+
+=== Table 170 (page 289) ===
+(7.20.2.1) Facility
+Bounkit Center
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+108.313
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+108.31
+Row 93
+(7.20.2.1) Facility
+Broadway Tech Centre
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+7.644
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+7.65
+Row 94
+(7.20.2.1) Facility
+Building 200 VACATED
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+0.192
+
+=== Table 171 (page 290) ===
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+0.19
+Row 95
+(7.20.2.1) Facility
+Bultgatan 40
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+0.278
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 172 (page 291) ===
+Casablanca Nearshore
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+641.44
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+641.454
+Row 98
+(7.20.2.1) Facility
+Causeway Plaza
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+249.89
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 173 (page 292) ===
+0.28
+Row 100
+(7.20.2.1) Facility
+Chawla Plaza
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+0.063
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 174 (page 293) ===
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+49.154,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 103,
+(7.20.2.1) Facility,
+Clipperveien 2 - VACATED,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+15.46,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 104,
+(7.20.2.1) Facility,
+Commerce South D,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+315.535,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0.02,
+,292
+
+=== Table 175 (page 294) ===
+Row 105
+(7.20.2.1) Facility
+Dalton Pad
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+63.469
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+61.06
+Row 106
+(7.20.2.1) Facility
+De Drentse Zaak
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+1.116
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 176 (page 295) ===
+1330.802,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 108,
+(7.20.2.1) Facility,
+Dhafir Tower,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+90.278,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+90.27,
+Row 109,
+(7.20.2.1) Facility,
+Dow Olefin Verbund,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+7.117,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+14.36,
+Row 110,
+,294
+
+=== Table 177 (page 296) ===
+(7.20.2.1) Facility
+Equipment Maintenance Shops
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+428.648
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+412.01
+Row 111
+(7.20.2.1) Facility
+Esperance workshop
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+3.117
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+4.06
+Row 112
+(7.20.2.1) Facility
+Frontica House
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+23.942
+
+=== Table 178 (page 297) ===
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 113,
+(7.20.2.1) Facility,
+Gigaplex,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+4505.826,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 114,
+(7.20.2.1) Facility,
+Grimsby Freehold Fabshop,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+27.713,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 115,
+(7.20.2.1) Facility,
+,296
+
+=== Table 179 (page 298) ===
+Harbour Towers - West,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+6.361,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 116,
+(7.20.2.1) Facility,
+Huelva,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+0.128,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0.03,
+Row 117,
+(7.20.2.1) Facility,
+Hull Fabrication Workshop_VACATED,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+10.56,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+,297
+
+=== Table 180 (page 299) ===
+1.963
+Row 118
+(7.20.2.1) Facility
+Industrivägen
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+1.867
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 181 (page 300) ===
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+294.874,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 121,
+(7.20.2.1) Facility,
+JESA CFC,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+17.906,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+17.91,
+Row 122,
+(7.20.2.1) Facility,
+JEWA HQ,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+8.232,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+8.22,
+,299
+
+=== Table 182 (page 301) ===
+Row 123
+(7.20.2.1) Facility
+Kerteh office
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+75.337
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 183 (page 302) ===
+398.415
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+398.4
+Row 126
+(7.20.2.1) Facility
+Landmark Building
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+211.436
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+205.28
+Row 127
+(7.20.2.1) Facility
+Laysen Valley
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+9.286
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 184 (page 303) ===
+(7.20.2.1) Facility
+Lions Gate Business Park
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+0.042
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 185 (page 304) ===
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 131,
+(7.20.2.1) Facility,
+Manchester Park Square,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+32.304,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 132,
+(7.20.2.1) Facility,
+Mapletree Business Centre,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+94.817,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 133,
+(7.20.2.1) Facility,
+,303
+
+=== Table 186 (page 305) ===
+Mapletree Business Centre Vehicle Fleet,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+1.405,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 134,
+(7.20.2.1) Facility,
+Maya Anatolium Business Tower,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+16.683,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+3.54,
+Row 135,
+(7.20.2.1) Facility,
+Meerssen,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+25.337,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+,304
+
+=== Table 187 (page 306) ===
+0
+Row 136
+(7.20.2.1) Facility
+Menara Felda Platinum Park
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+309.17
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 188 (page 307) ===
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+228.212,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 139,
+(7.20.2.1) Facility,
+New Cairo Office - Nile Building,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+14.636,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 140,
+(7.20.2.1) Facility,
+New Energy House,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+1095.597,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+,306
+
+=== Table 189 (page 308) ===
+Row 141
+(7.20.2.1) Facility
+Noorderlaan 127
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+93.38
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 190 (page 309) ===
+827.484,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 144,
+(7.20.2.1) Facility,
+Office and Accommodation Lease Atyrau,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+148.367,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 145,
+(7.20.2.1) Facility,
+Olga Cossettini,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+24.492,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+24.47,
+Row 146,
+,308
+
+=== Table 191 (page 310) ===
+(7.20.2.1) Facility
+One Meridian Boulevard Suite 2C02
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+19.102
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+19.66
+Row 147
+(7.20.2.1) Facility
+Otto-Hahn-Strasse 7
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+11.819
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 192 (page 311) ===
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+2.56
+Row 149
+(7.20.2.1) Facility
+PAT Bahia Blanca
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+7.884
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+7.88
+Row 150
+(7.20.2.1) Facility
+Pioneer Road
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+1.071
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 193 (page 312) ===
+Rasa One
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+28.759
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+0.23
+Row 152
+(7.20.2.1) Facility
+Regent Plaza - VACATED
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+11.603
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 194 (page 313) ===
+8.04
+Row 154
+(7.20.2.1) Facility
+Rodney office
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+131.004
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+131.02
+Row 155
+(7.20.2.1) Facility
+Rua do Passeio
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+11.062
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 195 (page 314) ===
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+0.445
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+0.45
+Row 157
+(7.20.2.1) Facility
+Sady5 Kvetna 59
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+7.194
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+0.994
+Row 158
+(7.20.2.1) Facility
+SES Building Charlton Street
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+0.958
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 196 (page 315) ===
+Row 159
+(7.20.2.1) Facility
+St. Clair Corporate Centre
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+2.63
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+2.64
+Row 160
+(7.20.2.1) Facility
+Staffson Corporation Road
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+4.48
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 197 (page 316) ===
+37.602
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+37.6
+Row 162
+(7.20.2.1) Facility
+The Hague
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+454.646
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+119.908
+Row 163
+(7.20.2.1) Facility
+The Hague Vehicle Fleet
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+77.816
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 198 (page 317) ===
+(7.20.2.1) Facility
+The Quorum
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+0.971
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 199 (page 318) ===
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+16.331
+Row 167
+(7.20.2.1) Facility
+Timeloit Building Vehicle Fleet
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+3.718
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 200 (page 319) ===
+Torre Reforma Latino
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+1.714
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+1.74
+Row 170
+(7.20.2.1) Facility
+Tower B Fiber Home Building
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+66.575
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 201 (page 320) ===
+213.08
+Row 172
+(7.20.2.1) Facility
+Unit 1 1104 70th Avenue
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+237.469
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+237.47
+Row 173
+(7.20.2.1) Facility
+"Unit 701 & 801, World Trade Centre"
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+95.878
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+95.88
+Row 174
+(7.20.2.1) Facility
+Unit 8_VACATED
+
+=== Table 202 (page 321) ===
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+2.396
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+2.37
+Row 175
+(7.20.2.1) Facility
+Usaquen Plaza
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+5.262
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+5.26
+Row 176
+(7.20.2.1) Facility
+Vitalisstr. 67
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+35.31
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+71.02
+
+=== Table 203 (page 322) ===
+Row 177
+(7.20.2.1) Facility
+Warm storage tents
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+119.632
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+115.2
+Row 178
+(7.20.2.1) Facility
+Wiedauwkaai 50
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+6.638
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+
+=== Table 204 (page 323) ===
+24.85,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 180,
+(7.20.2.1) Facility,
+WPS Vehicles,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+27.819,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+27.92,
+Row 181,
+(7.20.2.1) Facility,
+Xiangyuan Building,
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)",
+2.219,
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)",
+0,
+Row 182,
+,322
+
+=== Table 205 (page 324) ===
+(7.20.2.1) Facility
+Zenith Rabat
+"(7.20.2.2) Scope 2, location-based (metric tons CO2e)"
+74.121
+"(7.20.2.3) Scope 2, market-based (metric tons CO2e)"
+74.11
+[Add row]
+(7.20.3) Break down your total gross global Scope 2 emissions by business activity.
+
+=== Table 206 (page 324) ===
+(7.20.3) Break down your total gross global Scope 2 emissions by business activity.,,,
+,,"Scope 2, location-based (metric","Scope 2, market-based (metric"
+,Activity,,
+,,tons CO2e),tons CO2e)
+Row 1,"Global yard operations (UK, Norway Alaska, Houston and",3817,2584
+,Canada),,
+Row 2,Global office operations,29286,3912
+Row 3,Global vehicle fleet,130,28
+[Add row],,,
+
+=== Table 207 (page 325) ===
+24485
+"(7.22.2) Scope 2, location-based emissions (metric tons CO2e)"
+33233
+"(7.22.3) Scope 2, market-based emissions (metric tons CO2e)"
+6524
+(7.22.4) Please explain
+Our Scope 1 & 2 emissions boundary is the same as the boundary for our annual financial statements.
+All other entities
+(7.22.1) Scope 1 emissions (metric tons CO2e)
+
+=== Table 208 (page 326) ===
+Select from:
+☑ No
+(7.26) Allocate your emissions to your customers listed below according to the goods or services you have sold them in
+this reporting period.
+Row 1
+(7.26.1) Requesting member
+Select from:
+(7.26.2) Scope of emissions
+Select from:
+☑ Scope 1
+(7.26.4) Allocation level
+Select from:
+☑ Company wide
+(7.26.6) Allocation method
+Select from:
+"☑ Other allocation method, please specify :Allocation based on revenue earned with customer"
+(7.26.7) Unit for market value or quantity of goods/services supplied
+Select from:
+☑ Currency
+(7.26.9) Emissions in metric tonnes of CO2e
+186
+325
+
+=== Table 209 (page 327) ===
+(7.26.10) Uncertainty (±%)
+100
+(7.26.11) Major sources of emissions
+"Our Scope 1 emissions sources are natural gas, propane, stationary fuel, and transport fuel consumed in offices, fabrication yards and vehicles in Worley's"
+operational control.
+(7.26.12) Allocation verified by a third party?
+Select from:
+☑ No
+"(7.26.13) Please explain how you have identified the GHG source, including major limitations to this process and"
+assumptions made
+"Our Scope 1 emissions sources are natural gas, propane, stationary fuel, and transport fuel consumed in offices, fabrication yards and vehicles in Worley's"
+operational control.
+Row 2
+(7.26.1) Requesting member
+Select from:
+(7.26.2) Scope of emissions
+Select from:
+☑ Scope 2: location-based
+(7.26.4) Allocation level
+Select from:
+☑ Company wide
+
+=== Table 210 (page 328) ===
+(7.26.6) Allocation method
+Select from:
+"☑ Other allocation method, please specify :Allocation based on revenue earned with customer"
+(7.26.7) Unit for market value or quantity of goods/services supplied
+Select from:
+☑ Currency
+(7.26.9) Emissions in metric tonnes of CO2e
+252
+(7.26.10) Uncertainty (±%)
+100
+(7.26.11) Major sources of emissions
+"Our Scope 2 emissions sources are electricity, district heating and district cooling consumed in offices, fabrication yards and vehicles in Worley's operational control."
+(7.26.12) Allocation verified by a third party?
+Select from:
+☑ No
+"(7.26.13) Please explain how you have identified the GHG source, including major limitations to this process and"
+assumptions made
+"Our Scope 2 emissions sources are electricity, district heating and district cooling consumed in offices, fabrication yards and vehicles in Worley's operational control."
+Row 3
+(7.26.1) Requesting member
+327
+
+=== Table 211 (page 329) ===
+Select from:
+(7.26.2) Scope of emissions
+Select from:
+☑ Scope 2: market-based
+(7.26.4) Allocation level
+Select from:
+☑ Company wide
+(7.26.6) Allocation method
+Select from:
+"☑ Other allocation method, please specify :Allocation based on revenue earned with customer"
+(7.26.7) Unit for market value or quantity of goods/services supplied
+Select from:
+☑ Currency
+(7.26.9) Emissions in metric tonnes of CO2e
+50
+(7.26.10) Uncertainty (±%)
+100
+(7.26.11) Major sources of emissions
+"Our Scope 2 emissions sources are electricity, district heating and district cooling consumed in offices, fabrication yards and vehicles in Worley's operational control."
+(7.26.12) Allocation verified by a third party?
+
+=== Table 212 (page 330) ===
+Select from:
+☑ No
+"(7.26.13) Please explain how you have identified the GHG source, including major limitations to this process and"
+assumptions made
+"Our Scope 2 emissions sources are electricity, district heating and district cooling consumed in offices, fabrication yards and vehicles in Worley's operational control."
+Row 4
+(7.26.1) Requesting member
+Select from:
+(7.26.2) Scope of emissions
+Select from:
+☑ Scope 1
+(7.26.4) Allocation level
+Select from:
+☑ Company wide
+(7.26.6) Allocation method
+Select from:
+"☑ Other allocation method, please specify :Allocation based on revenue earned with customer"
+(7.26.7) Unit for market value or quantity of goods/services supplied
+Select from:
+☑ Currency
+(7.26.9) Emissions in metric tonnes of CO2e
+329
+
+=== Table 213 (page 331) ===
+2
+(7.26.10) Uncertainty (±%)
+100
+(7.26.11) Major sources of emissions
+"Our Scope 1 emissions sources are natural gas, propane, stationary fuel, and transport fuel consumed in offices, fabrication yards and vehicles in Worley's"
+operational control.
+(7.26.12) Allocation verified by a third party?
+Select from:
+☑ No
+"(7.26.13) Please explain how you have identified the GHG source, including major limitations to this process and"
+assumptions made
+"Our Scope 1 emissions sources are natural gas, propane, stationary fuel, and transport fuel consumed in offices, fabrication yards and vehicles in Worley's"
+operational control.
+Row 5
+(7.26.1) Requesting member
+Select from:
+(7.26.2) Scope of emissions
+Select from:
+☑ Scope 2: location-based
+(7.26.4) Allocation level
+Select from:
+330
+
+=== Table 214 (page 333) ===
+(7.26.1) Requesting member
+Select from:
+(7.26.2) Scope of emissions
+Select from:
+☑ Scope 2: market-based
+(7.26.4) Allocation level
+Select from:
+☑ Company wide
+(7.26.6) Allocation method
+Select from:
+"☑ Other allocation method, please specify :Allocation based on revenue earned with customer"
+(7.26.7) Unit for market value or quantity of goods/services supplied
+Select from:
+☑ Currency
+(7.26.9) Emissions in metric tonnes of CO2e
+0.4
+(7.26.10) Uncertainty (±%)
+100
+(7.26.11) Major sources of emissions
+"Our Scope 2 emissions sources are electricity, district heating and district cooling consumed in offices, fabrication yards and vehicles in Worley's operational control."
+
+=== Table 215 (page 334) ===
+(7.26.12) Allocation verified by a third party?
+Select from:
+☑ No
+"(7.26.13) Please explain how you have identified the GHG source, including major limitations to this process and"
+assumptions made
+"Our Scope 2 emissions sources are electricity, district heating and district cooling consumed in offices, fabrication yards and vehicles in Worley's operational control."
+Row 7
+(7.26.1) Requesting member
+Select from:
+(7.26.2) Scope of emissions
+Select from:
+☑ Scope 1
+(7.26.4) Allocation level
+Select from:
+☑ Company wide
+(7.26.6) Allocation method
+Select from:
+"☑ Other allocation method, please specify :Allocation based on revenue earned with customer"
+(7.26.7) Unit for market value or quantity of goods/services supplied
+Select from:
+☑ Currency
+333
+
+=== Table 216 (page 335) ===
+(7.26.9) Emissions in metric tonnes of CO2e
+1
+(7.26.10) Uncertainty (±%)
+100
+(7.26.11) Major sources of emissions
+"Our Scope 1 emissions sources are natural gas, propane, stationary fuel, and transport fuel consumed in offices, fabrication yards and vehicles in Worley's"
+operational control.
+(7.26.12) Allocation verified by a third party?
+Select from:
+☑ No
+"(7.26.13) Please explain how you have identified the GHG source, including major limitations to this process and"
+assumptions made
+"Our Scope 1 emissions sources are natural gas, propane, stationary fuel, and transport fuel consumed in offices, fabrication yards and vehicles in Worley's"
+operational control.
+Row 8
+(7.26.1) Requesting member
+Select from:
+(7.26.2) Scope of emissions
+Select from:
+☑ Scope 2: location-based
+334
+
+=== Table 217 (page 337) ===
+"Our Scope 2 emissions sources are electricity, district heating and district cooling consumed in offices, fabrication yards and vehicles in Worley's operational control."
+Row 9
+(7.26.1) Requesting member
+Select from:
+(7.26.2) Scope of emissions
+Select from:
+☑ Scope 2: market-based
+(7.26.4) Allocation level
+Select from:
+☑ Company wide
+(7.26.6) Allocation method
+Select from:
+"☑ Other allocation method, please specify :Allocation based on revenue earned with customer"
+(7.26.7) Unit for market value or quantity of goods/services supplied
+Select from:
+☑ Currency
+(7.26.9) Emissions in metric tonnes of CO2e
+0.2
+(7.26.10) Uncertainty (±%)
+100
+
+=== Table 218 (page 338) ===
+(7.26.11) Major sources of emissions
+"Our Scope 2 emissions sources are electricity, district heating and district cooling consumed in offices, fabrication yards and vehicles in Worley's operational control."
+(7.26.12) Allocation verified by a third party?
+Select from:
+☑ No
+"(7.26.13) Please explain how you have identified the GHG source, including major limitations to this process and"
+assumptions made
+"Our Scope 2 emissions sources are electricity, district heating and district cooling consumed in offices, fabrication yards and vehicles in Worley's operational control."
+[Add row]
+"(7.27) What are the challenges in allocating emissions to different customers, and what would help you to overcome these"
+challenges?
+Row 1
+(7.27.1) Allocation challenges
+Select from:
+☑ Customer base is too large and diverse to accurately track emissions to the customer level
+(7.27.2) Please explain what would help you overcome these challenges
+Allocation by customer is generally not completed because emissions are only quantified and reported for Worley Group by location and generally not recorded in
+detail for client-specific project work. We recognize that allocation adds uncertainty to emissions estimates and can result in inaccuracies when an activity or facility
+produces a wide variety of products that differ significantly in their GHG contribution. It is important to note that we are able to capture data for individual clients if it is
+"included as part of the overall service to be provided. It would help to receive clarification from our clients on how much they value this information, so that we can"
+work with them to develop solutions.
+[Add row]
+
+=== Table 219 (page 352) ===
+"(7.30.14) Provide details on the electricity, heat, steam, and/or cooling amounts that were accounted for at a zero or near-"
+zero emission factor in the market-based Scope 2 figure reported in 7.7.
+Row 1
+(7.30.14.1) Country/area
+Select from:
+☑ Australia
+(7.30.14.2) Sourcing method
+Select from:
+☑ Retail supply contract with an electricity supplier (retail green electricity)
+(7.30.14.3) Energy carrier
+Select from:
+☑ Electricity
+(7.30.14.4) Low-carbon technology type
+Select from:
+"☑ Renewable energy mix, please specify :Wind, Solar, Biomass"
+(7.30.14.5) Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+1009
+(7.30.14.6) Tracking instrument used
+Select from:
+☑ Australian LGC
+
+=== Table 220 (page 445) ===
+(7.45) Describe your gross global combined Scope 1 and 2 emissions for the reporting year in metric tons CO2e per unit
+currency total revenue and provide any additional intensity metrics that are appropriate to your business operations.
+Row 1
+(7.45.1) Intensity figure
+2.57
+"(7.45.2) Metric numerator (Gross global combined Scope 1 and 2 emissions, metric tons CO2e)"
+31009
+(7.45.3) Metric denominator
+Select from:
+☑ unit total revenue
+(7.45.4) Metric denominator: Unit total
+12050
+(7.45.5) Scope 2 figure used
+Select from:
+☑ Market-based
+(7.45.6) % change from previous year
+22
+(7.45.7) Direction of change
+Select from:
+☑ Decreased
+444
+
+=== Table 221 (page 446) ===
+(7.45.8) Reasons for change
+Select all that apply
+☑ Change in renewable energy consumption
+☑ Other emissions reduction activities
+☑ Change in revenue
+(7.45.9) Please explain
+"Our total Scope 1 and 2 emissions decreased due to increased renewable energy consumption and other energy efficiency initiatives. Also, our aggregated revenue"
+increased. Note: our metric denominator is shown in millions of aggregated revenue (AUD).
+[Add row]
+(7.52) Provide any additional climate-related metrics relevant to your business.
+Row 1
+(7.52.1) Description
+Select from:
+"☑ Other, please specify :Energy Productivity"
+(7.52.2) Metric value
+54.9
+(7.52.3) Metric numerator
+"12,050"
+(7.52.4) Metric denominator (intensity metric only)
+219
+
+=== Table 222 (page 447) ===
+(7.52.5) % change from previous year
+0.2
+(7.52.6) Direction of change
+Select from:
+☑ Increased
+(7.52.7) Please explain
+"We have a target with the EP100 to increase our Energy Productivity, which is measured in millions of aggregated revenue/GWh energy consumed. Our total"
+"aggregated revenue increased, and our energy consumption increased only slightly, so our total Energy Productivity increased in FY2025."
+Row 2
+(7.52.1) Description
+Select from:
+"☑ Other, please specify :Total Scope 1 and Scope 2 greenhouse gas emissions per person"
+(7.52.2) Metric value
+0.68
+(7.52.3) Metric numerator
+"31,009"
+(7.52.4) Metric denominator (intensity metric only)
+"45,505"
+(7.52.5) % change from previous year
+11.7
+446
+
+=== Table 223 (page 448) ===
+(7.52.6) Direction of change
+Select from:
+☑ Decreased
+(7.52.7) Please explain
+"We measure our emissions intensity per person by dividing our total Scope 1 & 2 emissions by our total personnel number. This year, our emissions intensity per"
+person has decreased because our total Scope 1 & 2 emissions and our total people number have decreased.
+[Add row]
+(7.53) Did you have an emissions target that was active in the reporting year?
+Select all that apply
+☑ Absolute target
+(7.53.1) Provide details of your absolute emissions targets and progress made against those targets.
+Row 1
+(7.53.1.1) Target reference number
+Select from:
+☑ Abs 1
+(7.53.1.2) Is this a science-based target?
+Select from:
+"☑ Yes, we consider this a science-based target, but we have not committed to seek validation of this target by the Science Based Targets initiative within the"
+next two years
+(7.53.1.4) Target ambition
+Select from:
+
+=== Table 224 (page 449) ===
+☑ 1.5°C aligned
+(7.53.1.5) Date target was set
+08/25/2020
+(7.53.1.6) Target coverage
+Select from:
+☑ Organization-wide
+(7.53.1.7) Greenhouse gases covered by target
+Select all that apply
+☑ Carbon dioxide (CO2)
+☑ Methane (CH4)
+☑ Nitrous oxide (N2O)
+☑ Hydrofluorocarbons (HFCs)
+(7.53.1.8) Scopes
+Select all that apply
+☑ Scope 1
+☑ Scope 2
+(7.53.1.9) Scope 2 accounting method
+Select from:
+☑ Market-based
+(7.53.1.11) End date of base year
+06/29/2020
+
+=== Table 225 (page 450) ===
+(7.53.1.12) Base year Scope 1 emissions covered by target (metric tons CO2e)
+36928
+(7.53.1.13) Base year Scope 2 emissions covered by target (metric tons CO2e)
+77313
+(7.53.1.31) Base year total Scope 3 emissions covered by target (metric tons CO2e)
+0.000
+(7.53.1.32) Total base year emissions covered by target in all selected Scopes (metric tons CO2e)
+114241.000
+(7.53.1.33) Base year Scope 1 emissions covered by target as % of total base year emissions in Scope 1
+100
+(7.53.1.34) Base year Scope 2 emissions covered by target as % of total base year emissions in Scope 2
+100
+(7.53.1.53) Base year emissions covered by target in all selected Scopes as % of total base year emissions in all selected
+Scopes
+100
+(7.53.1.54) End date of target
+06/29/2030
+(7.53.1.55) Targeted reduction from base year (%)
+100
+
+=== Table 226 (page 451) ===
+(7.53.1.56) Total emissions at end date of target covered by target in all selected Scopes (metric tons CO2e)
+0.000
+(7.53.1.57) Scope 1 emissions in reporting year covered by target (metric tons CO2e)
+24485
+(7.53.1.58) Scope 2 emissions in reporting year covered by target (metric tons CO2e)
+6524
+(7.53.1.77) Total emissions in reporting year covered by target in all selected scopes (metric tons CO2e)
+31009.000
+(7.53.1.78) Land-related emissions covered by target
+Select from:
+"☑ No, it does not cover any land-related emissions (e.g. non-FLAG SBT)"
+(7.53.1.79) % of target achieved relative to base year
+72.86
+(7.53.1.80) Target status in reporting year
+Select from:
+☑ Underway
+(7.53.1.82) Explain target coverage and identify any exclusions
+"Our net zero Scope 1 & 2 emissions target covers 100% of our Scope 1 & 2 emissions from locations in Worley's operational control. This includes the electricity,"
+"heating, cooling, fuels and refrigerants used to operate our offices, vehicles and fabrication yards."
+(7.53.1.83) Target objective
+450
+
+=== Table 227 (page 452) ===
+Our objective for this target is to align with our ambition of delivering a more sustainable world. It is one of the strategic actions of our Climate Change Position
+Statement.
+"(7.53.1.84) Plan for achieving target, and progress made to the end of the reporting year"
+"Our Scope 1 & 2 emissions come primarily from electricity and natural gas usage in our buildings, and fuel used in our vehicles. We are progressively reducing the"
+"emissions of our electricity usage by procuring renewable energy in our locations. We are reducing overall energy usage, and therefore our emissions, by choosing"
+"more energy-efficient buildings to lease. We're also reducing the emissions of our vehicle fleet by transitioning to hybrid and electric vehicles. In the reporting year, we"
+have reduced our Scope 1 & 2 emissions by 19% compared to the previous year. This reduction has come mostly from an increase in renewable energy
+procurement.
+(7.53.1.85) Target derived using a sectoral decarbonization approach
+Select from:
+☑ No
+Row 2
+(7.53.1.1) Target reference number
+Select from:
+☑ Abs 2
+(7.53.1.2) Is this a science-based target?
+Select from:
+"☑ Yes, we consider this a science-based target, but we have not committed to seek validation of this target by the Science Based Targets initiative within the"
+next two years
+(7.53.1.4) Target ambition
+Select from:
+☑ 1.5°C aligned
+(7.53.1.5) Date target was set
+
+=== Table 228 (page 453) ===
+08/24/2021,
+(7.53.1.6) Target coverage,
+Select from:,
+☑ Organization-wide,
+(7.53.1.7) Greenhouse gases covered by target,
+Select all that apply,
+☑ Carbon dioxide (CO2),
+☑ Methane (CH4),
+☑ Nitrous oxide (N2O),
+☑ Hydrofluorocarbons (HFCs),
+(7.53.1.8) Scopes,
+Select all that apply,
+☑ Scope 3,
+(7.53.1.10) Scope 3 categories,
+Select all that apply,
+"☑ Scope 3, Category 15 – Investments","☑ Scope 3, Category 8 - Upstream leased assets"
+"☑ Scope 3, Category 2 – Capital goods","☑ Scope 3, Category 13 – Downstream leased assets"
+"☑ Scope 3, Category 6 – Business travel","☑ Scope 3, Category 1 – Purchased goods and services"
+"☑ Scope 3, Category 7 – Employee commuting","☑ Scope 3, Category 5 – Waste generated in operations"
+"☑ Scope 3, Category 11 – Use of sold products","☑ Scope 3, Category 12 – End-of-life treatment of sold products"
+"☑ Scope 3, Category 4 – Upstream transportation and distribution",
+"☑ Scope 3, Category 9 – Downstream transportation and distribution",
+"☑ Scope 3, Category 3 – Fuel- and energy- related activities (not included in Scope 1 or 2)",
+(7.53.1.11) End date of base year,
+
+=== Table 229 (page 454) ===
+06/29/2021
+"(7.53.1.14) Base year Scope 3, Category 1: Purchased goods and services emissions covered by target (metric tons CO2e)"
+370745.0
+"(7.53.1.15) Base year Scope 3, Category 2: Capital goods emissions covered by target (metric tons CO2e)"
+35462.0
+"(7.53.1.16) Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions"
+covered by target (metric tons CO2e)
+17321.0
+"(7.53.1.17) Base year Scope 3, Category 4: Upstream transportation and distribution emissions covered by target (metric"
+tons CO2e)
+34458.0
+"(7.53.1.18) Base year Scope 3, Category 5: Waste generated in operations emissions covered by target (metric tons CO2e)"
+3355.0
+"(7.53.1.19) Base year Scope 3, Category 6: Business travel emissions covered by target (metric tons CO2e)"
+16013.0
+"(7.53.1.20) Base year Scope 3, Category 7: Employee commuting emissions covered by target (metric tons CO2e)"
+51402.0
+"(7.53.1.21) Base year Scope 3, Category 8: Upstream leased assets emissions covered by target (metric tons CO2e)"
+24323.0
+
+=== Table 230 (page 455) ===
+"(7.53.1.22) Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target"
+(metric tons CO2e)
+132.0
+"(7.53.1.24) Base year Scope 3, Category 11: Use of sold products emissions covered by target (metric tons CO2e)"
+0
+"(7.53.1.25) Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target (metric"
+tons CO2e)
+0
+"(7.53.1.26) Base year Scope 3, Category 13: Downstream leased assets emissions covered by target (metric tons CO2e)"
+1738.0
+"(7.53.1.28) Base year Scope 3, Category 15: Investments emissions covered by target (metric tons CO2e)"
+5563.0
+(7.53.1.31) Base year total Scope 3 emissions covered by target (metric tons CO2e)
+560512.000
+(7.53.1.32) Total base year emissions covered by target in all selected Scopes (metric tons CO2e)
+560512.000
+"(7.53.1.35) Base year Scope 3, Category 1: Purchased goods and services emissions covered by target as % of total base"
+"year emissions in Scope 3, Category 1: Purchased goods and services (metric tons CO2e)"
+100.0
+454
+
+=== Table 231 (page 456) ===
+"(7.53.1.36) Base year Scope 3, Category 2: Capital goods emissions covered by target as % of total base year emissions in"
+"Scope 3, Category 2: Capital goods (metric tons CO2e)"
+100.0
+"(7.53.1.37) Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions"
+"covered by target as % of total base year emissions in Scope 3, Category 3: Fuel-and-energy-related activities (not"
+included in Scopes 1 or 2) (metric tons CO2e)
+100.0
+"(7.53.1.38) Base year Scope 3, Category 4: Upstream transportation and distribution covered by target as % of total base"
+"year emissions in Scope 3, Category 4: Upstream transportation and distribution (metric tons CO2e)"
+100.0
+"(7.53.1.39) Base year Scope 3, Category 5: Waste generated in operations emissions covered by target as % of total base"
+"year emissions in Scope 3, Category 5: Waste generated in operations (metric tons CO2e)"
+100.0
+"(7.53.1.40) Base year Scope 3, Category 6: Business travel emissions covered by target as % of total base year emissions"
+"in Scope 3, Category 6: Business travel (metric tons CO2e)"
+100.0
+"(7.53.1.41) Base year Scope 3, Category 7: Employee commuting covered by target as % of total base year emissions in"
+"Scope 3, Category 7: Employee commuting (metric tons CO2e)"
+100.0
+"(7.53.1.42) Base year Scope 3, Category 8: Upstream leased assets emissions covered by target as % of total base year"
+"emissions in Scope 3, Category 8: Upstream leased assets (metric tons CO2e)"
+
+=== Table 232 (page 457) ===
+100.0
+"(7.53.1.43) Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target as %"
+"of total base year emissions in Scope 3, Category 9: Downstream transportation and distribution (metric tons CO2e)"
+100.0
+"(7.53.1.45) Base year Scope 3, Category 11: Use of sold products emissions covered by target as % of total base year"
+"emissions in Scope 3, Category 11: Use of sold products (metric tons CO2e)"
+100
+"(7.53.1.46) Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target as % of"
+"total base year emissions in Scope 3, Category 12: End-of-life treatment of sold products (metric tons CO2e)"
+100
+"(7.53.1.47) Base year Scope 3, Category 13: Downstream leased assets emissions covered by target as % of total base"
+"year emissions in Scope 3, Category 13: Downstream leased assets (metric tons CO2e)"
+100.0
+"(7.53.1.49) Base year Scope 3, Category 15: Investments emissions covered by target as % of total base year emissions in"
+"Scope 3, Category 15: Investments (metric tons CO2e)"
+100.0
+(7.53.1.52) Base year total Scope 3 emissions covered by target as % of total base year emissions in Scope 3 (in all Scope
+3 categories)
+100.0
+(7.53.1.53) Base year emissions covered by target in all selected Scopes as % of total base year emissions in all selected
+Scopes
+456
+
+=== Table 233 (page 458) ===
+100.0
+(7.53.1.54) End date of target
+06/29/2050
+(7.53.1.55) Targeted reduction from base year (%)
+100
+(7.53.1.56) Total emissions at end date of target covered by target in all selected Scopes (metric tons CO2e)
+0.000
+"(7.53.1.59) Scope 3, Category 1: Purchased goods and services emissions in reporting year covered by target (metric tons"
+CO2e)
+826334
+"(7.53.1.60) Scope 3, Category 2: Capital goods emissions in reporting year covered by target (metric tons CO2e)"
+7863
+"(7.53.1.61) Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions in reporting"
+year covered by target (metric tons CO2e)
+12619
+"(7.53.1.62) Scope 3, Category 4: Upstream transportation and distribution emissions in reporting year covered by target"
+(metric tons CO2e)
+34452
+"(7.53.1.63) Scope 3, Category 5: Waste generated in operations emissions in reporting year covered by target (metric tons"
+CO2e)
+457
+
+=== Table 234 (page 459) ===
+5556
+"(7.53.1.64) Scope 3, Category 6: Business travel emissions in reporting year covered by target (metric tons CO2e)"
+71769
+"(7.53.1.65) Scope 3, Category 7: Employee commuting emissions in reporting year covered by target (metric tons CO2e)"
+46372
+"(7.53.1.66) Scope 3, Category 8: Upstream leased assets emissions in reporting year covered by target (metric tons CO2e)"
+7049
+"(7.53.1.67) Scope 3, Category 9: Downstream transportation and distribution emissions in reporting year covered by"
+target (metric tons CO2e)
+288
+"(7.53.1.69) Scope 3, Category 11: Use of sold products emissions in reporting year covered by target (metric tons CO2e)"
+286103
+"(7.53.1.70) Scope 3, Category 12: End-of-life treatment of sold products emissions in reporting year covered by target"
+(metric tons CO2e)
+276
+"(7.53.1.71) Scope 3, Category 13: Downstream leased assets emissions in reporting year covered by target (metric tons"
+CO2e)
+18263
+"(7.53.1.73) Scope 3, Category 15: Investments  emissions in reporting year covered by target (metric tons CO2e)"
+
+=== Table 235 (page 460) ===
+151
+(7.53.1.76) Total Scope 3 emissions in reporting year covered by target (metric tons CO2e)
+1317095.000
+(7.53.1.77) Total emissions in reporting year covered by target in all selected scopes (metric tons CO2e)
+1317095.000
+(7.53.1.78) Land-related emissions covered by target
+Select from:
+"☑ No, it does not cover any land-related emissions (e.g. non-FLAG SBT)"
+(7.53.1.79) % of target achieved relative to base year
+-134.98
+(7.53.1.80) Target status in reporting year
+Select from:
+☑ Underway
+(7.53.1.82) Explain target coverage and identify any exclusions
+"Our net zero Scope 3 target covers 100% of our Scope 3 emissions from the categories of Scope 3 relevant to Worley: Categories 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13"
+and 15.
+(7.53.1.83) Target objective
+Our objective for this target is to align with our ambition of delivering a more sustainable world. It is one of the strategic actions of our Climate Change Position
+Statement.
+"(7.53.1.84) Plan for achieving target, and progress made to the end of the reporting year"
+
+=== Table 236 (page 461) ===
+"We are committed to achieving net zero Scope 3 GHG emissions by 2050. In FY2025, we enhanced the accuracy and coverage of our Scope 3 emissions inventory"
+"by integrating additional supply chain data. As a result, total Scope 3 emissions increased by 24% compared to FY2024, primarily driven by higher emissions in"
+"category 1. Improvements to our Scope 3 emissions inventory also resulted in increases in categories 4 and 15. Changes in categories 3, 5, 8 and 13 reflect business"
+"activity variations. Increases in categories 11 and 12 are a result of an increase in the weight of sold products, while the decrease in category 9 reflects less"
+"emissions intensive modes of transport. Category 2 emissions declined due to reduced capital goods spend, while improved data quality led to decreases in"
+categories 6 and 7.
+(7.53.1.85) Target derived using a sectoral decarbonization approach
+Select from:
+☑ No
+Row 3
+(7.53.1.1) Target reference number
+Select from:
+☑ Abs 3
+(7.53.1.2) Is this a science-based target?
+Select from:
+"☑ Yes, we consider this a science-based target, but we have not committed to seek validation of this target by the Science Based Targets initiative within the"
+next two years
+(7.53.1.4) Target ambition
+Select from:
+☑ 1.5°C aligned
+(7.53.1.5) Date target was set
+08/24/2021
+(7.53.1.6) Target coverage
+
+=== Table 237 (page 462) ===
+Select from:
+☑ Organization-wide
+(7.53.1.7) Greenhouse gases covered by target
+Select all that apply
+☑ Carbon dioxide (CO2)
+☑ Methane (CH4)
+☑ Nitrous oxide (N2O)
+☑ Hydrofluorocarbons (HFCs)
+(7.53.1.8) Scopes
+Select all that apply
+☑ Scope 1
+☑ Scope 2
+(7.53.1.9) Scope 2 accounting method
+Select from:
+☑ Market-based
+(7.53.1.11) End date of base year
+06/29/2020
+(7.53.1.12) Base year Scope 1 emissions covered by target (metric tons CO2e)
+36928.0
+(7.53.1.13) Base year Scope 2 emissions covered by target (metric tons CO2e)
+77313.0
+(7.53.1.31) Base year total Scope 3 emissions covered by target (metric tons CO2e)
+461
+
+=== Table 238 (page 463) ===
+0.000
+(7.53.1.32) Total base year emissions covered by target in all selected Scopes (metric tons CO2e)
+114241.000
+(7.53.1.33) Base year Scope 1 emissions covered by target as % of total base year emissions in Scope 1
+100.0
+(7.53.1.34) Base year Scope 2 emissions covered by target as % of total base year emissions in Scope 2
+100.0
+(7.53.1.53) Base year emissions covered by target in all selected Scopes as % of total base year emissions in all selected
+Scopes
+100.0
+(7.53.1.54) End date of target
+06/29/2025
+(7.53.1.55) Targeted reduction from base year (%)
+65
+(7.53.1.56) Total emissions at end date of target covered by target in all selected Scopes (metric tons CO2e)
+39984.350
+(7.53.1.57) Scope 1 emissions in reporting year covered by target (metric tons CO2e)
+24485
+(7.53.1.58) Scope 2 emissions in reporting year covered by target (metric tons CO2e)
+
+=== Table 239 (page 464) ===
+6524
+(7.53.1.77) Total emissions in reporting year covered by target in all selected scopes (metric tons CO2e)
+31009.000
+(7.53.1.78) Land-related emissions covered by target
+Select from:
+"☑ No, it does not cover any land-related emissions (e.g. non-FLAG SBT)"
+(7.53.1.79) % of target achieved relative to base year
+112.09
+(7.53.1.80) Target status in reporting year
+Select from:
+☑ Achieved and maintained
+(7.53.1.82) Explain target coverage and identify any exclusions
+"Our interim Scope 1 & 2 emissions target covers 100% of our Scope 1 & 2 emissions from locations in Worley's operational control. This includes the electricity,"
+"heating, cooling, fuels and refrigerants used to operate our offices, vehicles and fabrication yards."
+(7.53.1.83) Target objective
+Our objective for this target is to align with our ambition of delivering a more sustainable world. It is one of the strategic actions of our Climate Change Position
+"Statement. We set an interim target along with our 2030 net zero target to ensure we make progress to reduce our Scope 1 & 2 emissions in 2020-2025, rather than"
+implementing all our emissions reduction initiatives in the last five years.
+(7.53.1.85) Target derived using a sectoral decarbonization approach
+Select from:
+☑ No
+
+=== Table 240 (page 465) ===
+(7.53.1.86) List the emissions reduction initiatives which contributed most to achieving this target
+"This target was achieved largely through reduction of total energy usage through consolidation office space, and also reduction of Scope 2 emissions through"
+procurement of renewable electricity.
+[Add row]
+(7.54) Did you have any other climate-related targets that were active in the reporting year?
+Select all that apply
+☑ Other climate-related targets
+"(7.54.2) Provide details of any other climate-related targets, including methane reduction targets."
+Row 1
+(7.54.2.1) Target reference number
+Select from:
+☑ Oth 1
+(7.54.2.2) Date target was set
+03/28/2021
+(7.54.2.3) Target coverage
+Select from:
+☑ Organization-wide
+(7.54.2.4) Target type: absolute or intensity
+Select from:
+☑ Intensity
+
+=== Table 241 (page 469) ===
+☑ Scope 2 (market-based)
+(7.55.2.4) Voluntary/Mandatory
+Select from:
+☑ Voluntary
+(7.55.2.5) Annual monetary savings (unit currency – as specified in 1.2)
+
+=== Table 242 (page 470) ===
+(7.55.2.2) Estimated annual CO2e savings (metric tonnes CO2e)
+41
+(7.55.2.3) Scope(s) or Scope 3 category(ies) where emissions savings occur
+Select all that apply
+☑ Scope 1
+(7.55.2.4) Voluntary/Mandatory
+Select from:
+☑ Voluntary
+(7.55.2.5) Annual monetary savings (unit currency – as specified in 1.2)
+34627
+(7.55.2.6) Investment required (unit currency – as specified in 1.2)
+19011
+(7.55.2.7) Payback period
+Select from:
+☑ <1 year
+(7.55.2.8) Estimated lifetime of the initiative
+Select from:
+☑ Ongoing
+(7.55.2.9) Comment
+
+=== Table 243 (page 471) ===
+We replaced 18 petrol vehicles in our fleet in Saudi Arabia to hybrid vehicles. This improved our fuel efficiency and reduced our Scope 1 emissions.
+Row 3
+(7.55.2.1) Initiative category & Initiative type
+Energy efficiency in production processes
+☑ Waste heat recovery
+(7.55.2.2) Estimated annual CO2e savings (metric tonnes CO2e)
+
+=== Table 244 (page 532) ===
+General standards
+☑ ASAE 3000
+(13.1.1.4) Further details of the third-party verification/assurance process
+Our total energy use in MWh was subject to third-party limited assurance. Refer to the Independent Limited Assurance Report on page 21 of our Basis of Preparation.
+(13.1.1.5) Attach verification/assurance evidence/report (optional)
+wor-sustainability-basis-of-preparation-2025.pdf
+Row 2
+(13.1.1.1) Environmental issue for which data has been verified and/or assured
+Select all that apply
+☑ Climate change
+(13.1.1.2) Disclosure module and data verified and/or assured
+Environmental performance – Climate change
+"☑ Other data point in module 7, please specify :Scope 1 GHG emissions"
+(13.1.1.3) Verification/assurance standard
+General standards
+☑ ASAE 3000
+(13.1.1.4) Further details of the third-party verification/assurance process
+Our Scope 1 GHG emissions in tCO2e were subject to third-party limited assurance. Refer to the Independent Limited Assurance Report on page 21 of our Basis of
+Preparation.
+
+=== Table 245 (page 533) ===
+(13.1.1.5) Attach verification/assurance evidence/report (optional)
+wor-sustainability-basis-of-preparation-2025.pdf
+Row 3
+(13.1.1.1) Environmental issue for which data has been verified and/or assured
+Select all that apply
+☑ Climate change
+(13.1.1.2) Disclosure module and data verified and/or assured
+Environmental performance – Climate change
+"☑ Other data point in module 7, please specify :Scope 2 (market-based) GHG emissions"
+(13.1.1.3) Verification/assurance standard
+General standards
+☑ ASAE 3000
+(13.1.1.4) Further details of the third-party verification/assurance process
+Our Scope 2 (market-based) GHG emissions in tCO2e were subject to third-party limited assurance. Refer to the Independent Limited Assurance Report on page 21
+of our Basis of Preparation.
+(13.1.1.5) Attach verification/assurance evidence/report (optional)
+wor-sustainability-basis-of-preparation-2025.pdf
+Row 4
+(13.1.1.1) Environmental issue for which data has been verified and/or assured
+
+=== Table 246 (page 534) ===
+Select all that apply
+☑ Climate change
+(13.1.1.2) Disclosure module and data verified and/or assured
+Environmental performance – Climate change
+"☑ Other data point in module 7, please specify :Scope 2 (location-based) GHG emissions"
+(13.1.1.3) Verification/assurance standard
+General standards
+☑ ASAE 3000
+(13.1.1.4) Further details of the third-party verification/assurance process
+Our Scope 2 (location-based) GHG emissions in tCO2e were subject to third-party limited assurance. Refer to the Independent Limited Assurance Report on page 21
+of our Basis of Preparation.
+(13.1.1.5) Attach verification/assurance evidence/report (optional)
+wor-sustainability-basis-of-preparation-2025.pdf
+[Add row]
+(13.3) Provide the following information for the person that has signed off (approved) your CDP response.

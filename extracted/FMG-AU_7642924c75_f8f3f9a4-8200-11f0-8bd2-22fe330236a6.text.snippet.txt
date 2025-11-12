@@ -1,0 +1,359 @@
+=== Page 62 ===
+FORTESCUE  FY25 ANNUAL REPORT    |    59
+climA te chANge 
+reportoverview oper AtiNg ANd  
+FiNANciAl reviewore reserves ANd  
+miNer Al resourcesdirectors’ report   
+|  remuNer AtioN 
+report FiNANciAl report
+Corporate  
+governanCe corpor Ate  
+directorycorpor Ate  
+goverNANce
+stAtemeNtour Appro Ach  
+to sust AiNAbilitypreFA ce
+Fy25 climA te-rel Ated 
+disclosures
+This report has been prepared for 
+Fortescue’s stakeholders and details 
+our progress in managing climate-
+related matters, including risks and 
+opportunities. 
+It is aligned with the recommendations 
+of the Taskforce on Climate-related 
+Financial Disclosures (TCFD), which 
+has guided our voluntary climate-
+related reporting since FY18.
+During FY25, the Australian 
+Treasury amended legislation to 
+enact new policy for climate change 
+reporting. Under this new regime, 
+the measurement and disclosure of 
+climate-related financial information 
+is guided by Australian Sustainability 
+Reporting Standards (ASRS) AASB S2 
+Climate-related disclosures (AASB S2) 
+issued by the Australian Accounting 
+Standards Board (AASB). AASB S2 has 
+its genesis in TCFD recommendations.
+While we continue to report voluntarily 
+under the TCFD framework, we are 
+preparing our business for ASRS 
+compliance. This report contains many 
+elements of additional disclosures 
+that will be mandatory under AASB S2 
+from FY26.
+With the exception of greenhouse gas 
+(GHG) emissions, this report has been 
+prepared for the same consolidated reporting entity and reporting period 
+as the Group’s Consolidated Financial 
+Statement and has incorporated 
+climate-related information of the 
+parent company and all of its global 
+subsidiaries. GHG emissions are 
+calculated based on an operational 
+control approach using the GHG 
+Protocol corporate Accounting and 
+Reporting Standard. For further 
+information on this approach and 
+our organisational boundary for GHG 
+emissions, please refer to our FY25 
+Emissions Calculation Methodology 
+located on our website fortescue.com.
+All references to our, we, us, the Group, 
+the Company and Fortescue refer to 
+Fortescue Ltd (ABN 57 002 594 872) 
+and its subsidiaries. All references to  
+a year are to the financial year ended 
+30 June 2025 unless otherwise stated.
+This report has been approved for 
+release by Fortescue’s Board of 
+Directors.
+vAlue chAiN estimA tioN
+The value chain information and 
+related disclosures in this report are 
+based on available data, third-party 
+sources, and management’s best 
+estimates at the time of preparation. 
+Scope 3 GHG emissions are typically 
+estimated using average emission 
+factors. The reliability of the estimates 
+depends on the quality of input data 
+and how well average emission factors reflect actual conditions.  For example, 
+Fortescue estimates business travel 
+emissions by applying an average 
+emissions factor per passenger 
+kilometre, adjusted by flight class 
+(e.g. Economy, Business). These 
+methods reflect common practice but 
+involve inherent uncertainty due to 
+generalised assumptions.
+We are committed to continual 
+improvement of our climate related 
+disclosures and have already invested 
+in improved data collection and 
+reporting systems as well as continual 
+maturation of our scenario analysis 
+and risk identification, assessment 
+and treatment. Our expectation is 
+that as the climate-related disclosure 
+ecosystem matures we, along 
+with others will refine and improve 
+assumptions and estimations  to 
+provide decision useful information.
+Assur ANce
+FY25 GHG emissions data were 
+subject to external assurance by 
+PricewaterhouseCoopers.  This 
+included reasonable assurance for 
+Group Scope 1, Scope 2 location-
+based and Scope 2 market-based, and 
+limited assurance for Scope 3. 
+Feedb AcK
+We value all feedback. Please send 
+any comments on this report or 
+requests for additional information to 
+sustainability@fortescue.com.
+reAl Zero tArget
+At Fortescue, we are putting Real Zero into action through our Real Zero Target. Our Real Zero Target is an 
+emissions reduction target that aims to eliminate Scope 1 and 2 emissions from our Australian terrestrial iron ore 
+operations by the end of 2030. This target addresses the vast majority of the business’s Scope 1 and 2 emissions 
+and only relies on offsets where we are required by law to purchase them. Along side our Real Zero Target, we 
+have three other emissions reduction targets. All targets are further defined in the Target Definitions section.
+
+=== Page 68 ===
+FORTESCUE  FY25 ANNUAL REPORT    |    65
+climA te chANge 
+reportoverview oper AtiNg ANd  
+FiNANciAl reviewore reserves ANd  
+miNer Al resourcesdirectors’ report   
+|  remuNer AtioN 
+report FiNANciAl report
+Corporate  
+governanCe corpor Ate  
+directorycorpor Ate  
+goverNANce
+stAtemeNtour Appro Ach  
+to sust AiNAbilityEffects of identified risks on our business model continued
+of technology and energy solutions with market uptake, and anticipating emerging and developing regulatory 
+requirements. 
+We continuously navigate market and technological changes and adapt to evolving regulatory landscapes to maintain 
+a competitive edge and respond to enhanced sustainability requirements. As countries increasingly contend with 
+accelerating climate impacts, there is an elevated risk of sudden social and policy changes that could disrupt planning 
+horizons and market conditions (also referred to social tipping points). By continuing to innovate and build resilience into 
+our strategies, we minimise our risks and capitalise on opportunities. 
+We have identified three transition risks. 
+The first relates to not meeting our emissions reduction targets across medium to long-term time horizons. This risk 
+poses significant reputational implications, with potential impacts on stakeholder confidence and investor trust. 
+Refer to Target Definitions for details on what is covered by our emissions reduction targets.
+emissioNs reductioN t Argets Key mANA gemeNt A ctioNs
+Real Zero T arget 
+Achieving this target depends on overcoming regulatory, 
+technological, and operational challenges, including 
+securing land access and timely approvals for renewable 
+energy generation and grid infrastructure; ensuring the 
+availability and economic viability of zero emissions 
+technologies; and managing long-term development and 
+integration timelines. This transition also requires access 
+to specialised technical expertise and skills in electrified 
+mining practices and renewable energy systems.
+Shipping T arget
+This target addresses those Scope 1 and 3 emissions 
+arising from our shipping operations. Our success in 
+meeting this target hinges on the techno-economic 
+feasibility of converting vessels to run on green ammonia, 
+the establishment of regulatory frameworks permitting 
+ammonia bunkering and onboard handling, and the 
+availability and affordability of green ammonia fuel. 
+Steelmaking T arget
+Steelmaking represents our primary source of Scope 3 
+emissions. Achieving this target depends on external 
+factors such as the adoption rate of low-carbon 
+technologies (e.g. Direct Reduced Iron) by our steel mill 
+customers. 
+The challenges associated with Scope 3 emissions 
+reduction have been highlighted by the Science Based 
+T argets initiative (SBTi), with new global standards 
+expected in FY25-26 that may  influence corporate 
+target-setting and reporting globally.Integrating zero emissions technologies into established 
+operations requires the replacement or evolution of legacy 
+systems and developing new operating models, working 
+with leading technology providers to manage performance 
+and integration risks. We monitor development and 
+delivery timelines for zero emissions technologies, and 
+test them under controlled conditions before wider 
+deployment. We prioritise suppliers who can demonstrate 
+delivery capability aligned to our target. Early engagement 
+with Government and First Nations peoples supports 
+regulatory and cultural heritage approvals, with associated 
+requirements integrated into project schedules. T o 
+address workforce challenges, we are investing in 
+internal capability through training, apprenticeships, and 
+upskilling programs, guided by our Workforce Transition 
+Strategy.
+For shipping, we are pursuing a phased program with 
+engine manufacturer MAN to retrofit the engines of our 
+eight ore carriers to be dual-fuel capable, enabling the use 
+of green ammonia alongside conventional fuels. We are 
+also progressing demonstration projects and partnerships 
+to prove the feasibility of green ammonia as a marine fuel, 
+while advocating for enabling regulation and exploring 
+opportunities to improve fleet efficiency, including through 
+vessel selection and operating practices.
+In steelmaking, our long-term vision is to reduce Scope 
+3 emissions by producing green metal from our iron 
+ore. This includes exploring production in Australia 
+and internationally, particularly in collaboration with 
+the Chinese steel industry. Recognising that most 
+decarbonisation technologies focus on ultra high-grade 
+ores, we are developing solutions suited to Australian ores, 
+such as the Green Metal Project, which aims to produce 
+its first green metal in 2026 . In the short to medium-term, 
+we aim to progress reductions by preferencing customers 
+pursuing lower-emission steelmaking technologies, 
+and by working with steel mills and research institutes 
+under formal partnerships to advance decarbonisation 
+pathways.trANsitioN risK s coNtiNued
+
+=== Page 76 ===
+FORTESCUE  FY25 ANNUAL REPORT    |    73
+climA te chANge 
+reportoverview oper AtiNg ANd  
+FiNANciAl reviewore reserves ANd  
+miNer Al resourcesdirectors’ report   
+|  remuNer AtioN 
+report FiNANciAl report
+Corporate  
+governanCe corpor Ate  
+directorycorpor Ate  
+goverNANce
+stAtemeNtour Appro Ach  
+to sust AiNAbilitydec ArboNisiNg our 
+vAlue chAiN
+Fortescue is focused on reducing 
+emissions in our value chain, by 
+addressing downstream Scope 
+3 emissions from iron and steel 
+production and upstream Scope 3 
+emissions from our supply chain.
+Among our value chain Scope 3 
+emissions, downstream processing 
+of sold product (Category 10) 
+represents more than 98  per cent 
+in FY25, with the remaining two per 
+cent coming from purchased goods 
+and services (one per cent) and from 
+shipping  (one per cent). We therefore 
+prioritise customer engagement and 
+investments in technology to enable 
+low-emission processing of iron ore.
+Emissions from the processing 
+of our iron ore by our customers
+During FY25 , we transported over 
+198 million tonnes of iron ore to 
+customers.
+T o meet our Scope 3 targets of 
+enabling a 7.5 per cent reduction 
+in steelmaking emissions intensity 
+by 2030 relative to FY21 levels, 
+and net zero by 2040, Fortescue 
+is collaborating with partners and 
+investing in technology and R&D 
+to reduce the significant carbon 
+emissions that come from the 
+shipping and processing of our iron 
+ore.
+We are conducting R&D both in-
+house and in collaboration with steel 
+mill businesses, global engineering 
+companies and research institutions. 
+We are a founding member of the 
+Heavy Industry Low-carbon Transition 
+Cooperative Research Centre 
+(HIL T CRC). This venture brings 
+together industries, researchers and 
+government organisations in an effort 
+to de-risk the technology pathways to decarbonise heavy industry. In 
+addition to our yearly partnership 
+contributions, Fortescue also engages 
+further via in-kind contributions to the 
+partnership's various projects.
+Fortescue is currently progressing 
+studies on the development of 
+commercial-scale green metal 
+production, both in Australia and 
+abroad. Our work to convert low-grade 
+hematite ore into green metal at a 
+commercial scale is central to our 
+efforts to reduce Scope 3 emissions. 
+The Green Metal Project at Christmas 
+Creek aims to demonstrate that 
+Fortescue’s suite of iron ores from the 
+Pilbara can be processed into green 
+metal. More detail will be provided 
+in our FY25 Climate Transition 
+Plan scheduled for publication in 
+September 2025. 
+Shipping
+Our commitment to address Scope 
+3 emissions also includes a target 
+to enable a reduction in emissions 
+intensity levels from the shipping of 
+our iron ore by 50 per cent, from FY21 
+levels by 2030. In FY24, Fortescue 
+demonstrated the use of ammonia 
+for shipping on the Green Pioneer 
+dual fuel vessel.  We are proactively 
+engaging with the shipping industry 
+to promote a transition to ammonia-
+powered vessels.
+Our engagement with shipping 
+suppliers includes interim measures 
+to identify and charter lower-emission 
+vessels, targeting vessels which are 
+equipped with energy-saving devices, 
+optimising vessel and fleet size, using 
+eco steam performing vessels, and 
+optimising schedules for just-in-
+time arrivals: 95 per cent of vessels 
+chartered in FY25 had Rightship 
+greenhouse gas ratings of A-D.Climate Transition Plan continued
+Upstream emissions (our 
+supply chain)
+Our global tender documents include 
+minimum sustainability requirements 
+for our suppliers, including emissions 
+criteria. We use a third-party 
+screening tool to monitor adverse 
+media reports relating to sustainability 
+risks, including emissions and climate 
+events.
+This year, we updated our 
+sustainability risk assessment to 
+consider supplier renewable energy 
+access and emissions impact by 
+category to inform our contracting 
+strategy. We also introduced 
+decarbonisation and emissions 
+considerations into Contract & 
+Procurement strategy templates used 
+for long-term planning.
+For high-risk sourcing activities, 
+our commercial strategies focus 
+on supply chain transparency to 
+assess and validate risk. Our award 
+criteria consider sustainability, along 
+with price, quality and schedule. We 
+prioritise suppliers who align with 
+our Values and commit to working 
+collaboratively with us to deliver 
+sustainability outcomes in our shared 
+supply chains. We believe that genuine 
+partnerships and commitment to 
+shared sustainability objectives with 
+our suppliers leads to opportunities 
+for innovation, proactive risk 
+identification and mitigation, more 
+effective remediation mechanisms, 
+improved supply chain resilience, and 
+competitiveness in the market.

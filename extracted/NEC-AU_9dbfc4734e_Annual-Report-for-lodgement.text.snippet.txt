@@ -1,0 +1,144 @@
+=== Page 17 ===
+Effects of identified risks on Nine’s business model as well as the concentration and mitigation  
+of those risks identified
+The following table outlines the climate-related risks and opportunities assessed as relevant to the Group.  
+As Nine is currently in the process of assessing relevant strategies, including the nature and extent of climate-related targets, based on the recent GHG emission assessments performed for FY25, the strategies presented below are  in a preliminary stage of development, with the Group intending to further develop these strategies in FY26.  
+Risk/
+Opportunity Topic NatureMitigation strategy  or adaption effortsTime  Horizon
+Risk 
+(Physical)Resilience to extreme weather events If governments and organisations fail to adequately respond to climate change, we are likely to see an increase in physical climate risk, such as extreme weather events.
+Extreme weather events have the capacity 
+to significantly impact operating sites, broadcasting assets and productions. This may result in operational interruption resulting in delay in delivering news and current affairs, content, meeting consumer contracts, adverse impact on property operations and other unforeseen costs.Nine will ensure asset exposure to flood or high temperature risks is regularly monitored with necessary resilience plans developed.Short-term to Long-term
+Risk
+(Transition)Increased costs in 
+the transition to a low carbon worldLocal and international net zero and low carbon economy commitments will likely result in increased costs as part of the transition. Furthermore, carbon emissions taxation is being imposed by more countries to both limit and reduce carbon intensive activities causing climate change.
+Consequently, Nine may be exposed to 
+increased costs of operating in all areas of our business. This could come from increased environmental regulation, carbon pricing or emissions taxation, investment in low carbon processes and technologies, as well as throughout our supply chain. In addition, shifts in supply and demand due to climate related impacts may result in Nine not being able to source higher cost materials for production.Nine is in the process of finalising and implementing scope 1 and scope 2 emission reduction programs to develop an overall cost profile and forecast to understand the full extent of the impact  of the transition to a low carbon world.
+Nine is also in the process of partnering 
+with relevant suppliers to understand and address emissions reductions as well as the financial impacts of adapting to low carbon alternatives.Medium-term
+Risk
+(Transition)Shifting public 
+perception including consumer preferences in the advertising sector and investor sentimentThe advertising market continues to shift to the promotion of low-carbon products and sustainable communications with increased pressure from government and regulators, as well as customers, such as agencies and brands within the industry, resulting in lost revenue.
+Furthermore, given the emergence of 
+customer and stakeholder expectations on climate and nature related issues, there is an increasing need to carefully balance our preparation and responses as a business. This has the potential to impact revenue and investment, along with shareholder activism regarding perceived inaction on key ESG areas  (e.g. climate change).Nine aims to perform the following:
+ ― Continuously monitor the regulatory 
+landscape for developments or shifts.
+ ― Continue to work with advertisers to 
+seek out alternative options to replace lost revenue
+, and monitor the share of 
+our advertising revenue that is aligned with Nine's climate targets.
+ ― Engage with stak
+eholders, including 
+investors and customers, on an ongoing basis to understand and meet public perception and expectations.Medium-term to Long-termRisk/
+Opportunity Topic NatureMitigation strategy  or adaption effortsTime  Horizon
+Risk
+(Transition)High digital energy use 
+(e.g. programmatic ads, streaming)The energy-intensive nature of ad tech and cloud services can result in a significant carbon footprint due to the vast data and technology centers required for processing and serving ads and data transmission, leading to scrutiny  of digital emissions, regulatory pressure, impact to advertiser demand and  investor sentiment.Nine will aim to:
+ ― understand and measure emissions 
+from various digital energy sources (programmatic ad delivery
+, video 
+streaming, web traffic etc.).
+ ― review hosting and streaming partners 
+to determine climate credentials and incorporate green credentials into vendor selection policies.
+ ― review processes to ensure ad delivery 
+is optimised for efficiency 
+ ― monitor regulatory developments 
+regarding digital emissions to ensure proactive complianceShort-term to Medium-term
+Opportunity Savings from energy efficienciesThere is an opportunity for Nine to implement energy efficiency improvements to Nine controlled buildings, operations and behaviours which will lik
+ely enable energy, fuel 
+and cost savings. This also provides an opportunity to develop innovative and efficient ways to produce and deliver content. These changes can also improve our resilience and reduce costs, as well as opening new creative opportunities.
+This will lead to a reduction in direct 
+costs from reduced energy consumption across Nine, shifting to a more sustainable energy and fuel types, as well as focusing on innovative ways to produce and deliver programs and content.Nine is exploring options to move more of the Group’s operations to be digitally based to reduce business travel and fuel consumption.
+Nine is currently in the process  
+of assessing and improving property utilisation analysis to better optimise  use of space.Short-term
+All disclosed risks and opportunities did not have a material impact in FY25 and are not expected to have a material impact on FY26
+32 | Nine Entertainment Co., Financial Report Year ended 30 June 2025 | 33
+OverviewFinancial 
+StatementsDirectors'  ReportCorporate GovernanceShareholder InformationCorporate  DirectoryOperating and  Financial Review
+
+=== Page 18 ===
+GHG 2025 Results 
+In FY25, Nine quantified the Group’s GHG inventory with 
+the results of this exercise to be used in the Group’s assessment of climate-related target setting and GHG emissions monitoring going forwards. 
+Control Assessment
+Nine reports scope 1 and 2 emissions under a control approach, using operational control criteria, for the purposes of calculating the Group’s GHG emissions.  The Group believes that the use of the operational control approach is the most appropriate method to measure the Group’s GHG emissions, considering that there are entities and assets outside the Group’s financial reporting group over which it has operational control. 
+The Group is considered to have operational control over 
+an asset or operation where Management has the authority to introduce and implement operating policies in respect  of the day-to-day operation of the business or assets.  This approach enables the Group to focus on emissions from assets/operations where Management has the ability to operate the related assets and therefore influence emissions, notwithstanding the legal ownership of an asset. For example, where the Group controls the power supply of the asset and we pay the energy retailer directly. For those assets where Nine does not have operational control, these operations are included within our Scope 3 emissions inventory. 
+Given the proposed disposal of Nine’s investment in 
+Domain, Nine has not consolidated Domain’s FY25  GHG emissions within the Group’s FY25 reported  GHG emissions. 
+As a result, the below climate-related disclosures have 
+been prepared for the same consolidated reporting entity and reporting period as the Group’s Consolidated Financial Statements (refer to Note 6.3 Basis of Consolidation in the financial statements), adjusted to remove Domain Group and its subsidiaries and include the AdventureTV Pty Ltd joint venture which Management has determined the Group has operational control over.FY25 GHG Emissions
+Nine’s FY25 operational GHG emissions are as follows: GHG emissions (million metric tonnes of CO
+2-e)
+Indicator FY25 (t.CO2-e)
+Scope 1 Emissions 1,573
+Scope 2 (location-based) 14,784
+Total Scope 1 & 2 16,357
+Scope 3 473,826
+Total 490,183
+Scope 1 GHG Emissions
+Scope 1 GHG emissions make up <1% of the Group’s total FY25 GHG emissions. Scope 1 emissions refer to the direct GHG emissions that occur from sources owned or controlled by the Group. Scope 1 direct emissions primarily comprise petrol and diesel used in our fleet vehicles, natural gas used for hot water and heating in some operational locations, and fugitive emissions from refrigerants used in mechanical systems at our facilities (HVAC).
+Scope 2 GHG Emissions
+Scope 2 GHG emissions make up approximately 3%  of the Group’s total FY25 GHG emissions. Scope 2 emissions refer to indirect GHG emissions from the generation of electricity acquired and consumed by the Group. This includes offices, studios, data rooms and transmitter locations.
+Scope 3 GHG Emissions
+Scope 3 emissions refer to indirect GHG emissions that occur throughout the Group’s value chain, outside of its direct operational control. The Group has included all relevant Scope 3 categories following a materiality assessment of the 15 categories established by the GHG Protocol. These categories are reviewed whenever there  is a significant event or change in circumstances that affects the Group’s value chain. 
+In FY25, over 96% of the Group's emissions came  
+from Scope 3 sources, with the majority attributable  to Use of Sold Products (C11) (62%) and Purchased  Goods and Services (C1) (17%).A breakdown of the Group’s Scope 3 GHG emissions for FY25 are as follows:
+Scope CategoryUpstream  
+/ Downstream Category NameCalculation  
+MethodFY25 GHG Emissions 
+(t.CO2-e)1
+Scope 1 – Direct operations Fleet fuel (diesel) Direct  560 
+Scope 1 – Direct operations Fleet fuel (petrol) Direct  470 
+Scope 1 – Direct operations Combustion of LPG onsite Direct  6 
+Scope 1 – Direct operations Combustion of natural gas onsite Direct  5 
+Scope 1 – Direct operations Fugitive emissions (refrigerants) Hybrid  532 
+Scope 2 – Direct operations Purchased electricity Location based  14,784 
+Scope 3 1 Upstream Purchased goods and services Indirect  81,682 
+Scope 3 2 Upstream Capital goods Indirect  13,642 
+Scope 3 3 Upstream Fuel-related and energy-related activities Direct 1,701 
+Scope 3 4 Upstream Upstream transportation and distribution Hybrid  37,796 
+Scope 3 5 Upstream Waste generated in operations Hybrid 525 
+Scope 3 6 Upstream Business travel Hybrid  10,405 
+Scope 3 7 Upstream Employee commute Indirect  4,368 
+Scope 3 8 Upstream Upstream leased assets Hybrid  2,348
+Scope 3 11 Downstream Use of Sold Products2Modelled 302,528 
+Scope 3 12 Downstream End-of-life treatment of sold products Modelled  11,640 
+Scope 3 15 Downstream Investments Indirect 7,191
+Total 490,183
+1. E xcludes Domain Group
+2.
+ T
+hese emissions relate to electricity used by end users when viewing Nine content on personal devices, such as TVs, computers and mobile phones.  
+Nine does not produce or control the devices used to access its content and has limited influence over how content is accessed or energy is consumed.
+Basis of Preparation
+Scope and Emissions Reporting Approach
+This Basis of Preparation outlines the methodology, 
+boundaries, data sources, and assumptions used to compile Nine Entertainment’s GHG emissions inventory  for the financial year from 1 July 2024 to 30 June 2025 (FY25). It supports transparency and replicability in the quantification and reporting of emissions and serves as a reference document for internal and external stakeholders.
+The emissions reporting approach undertaken by  
+Nine Entertainment for its FY25 GHG Emissions Report aligns with the 
+GHG Protocol Corporate Accounting  
+and Reporting Standard  (2004), which represents a step 
+towards Nine's efforts to prepare its first sustainability report in accordance with AASB S2 in FY26. The GHG Protocol promotes the principles of relevance, completeness, consistency, transparency, and  accuracy by guiding organisations to:
+ ―es
+tablish an organisational and operational boundary 
+(determine which businesses and assets are to be included within scope)
+ ―s
+et an emissions boundary (identify relevant emission 
+sources within the organisational boundary)
+ ―c
+alculate emissions (using appropriate activity data, 
+calculation methodologies, and emissions factors)
+ ―r
+eport assumptions (to ensure transparency and 
+enable validation)These principles have been applied throughout. Emissions are reported in tonnes of carbon dioxide equivalent (tCO₂-e), covering all greenhouse gases recognised under the Kyoto Protocol, with all values expressed as CO₂-e using 100-year global warming potentials (GWPs).
+Scope 1 and 2 emissions are measured by either internal or 
+external data sources, factoring in the uncertainty measurement  
+and data quality (as detailed in the table below). 
+Scope 3 emissions combine direct measurement and 
+estimates, where necessary. The Group prioritises inputs and assumptions based on the Scope 3 measurement framework within AASB S2. The GHG Protocol: Corporate Value Chain (Scope 3) Accounting and Reporting Standard (2011) establishes 15 categories of Scope 3 emissions sources, divided into ‘Upstream’ and ‘Downstream’ emissions. The Upstream emissions are classified as indirect GHG emissions related to goods and services purchased or acquired for use by the Group, being  divided into eight categories. The downstream emissions, meanwhile, are related to goods and services that are provided by the reporting organisation (the Group), being divided into seven categories.
+The Group currently estimates certain Scope 3 emission 
+categories using methodologies that rely on industry assumptions as opposed to supplier or customer specific data as reflected in “Calculation Method” in the table above. 
+34 | Nine Entertainment Co., Financial Report Year ended 30 June 2025 | 35
+OverviewFinancial 
+StatementsDirectors'  ReportCorporate GovernanceShareholder InformationCorporate  DirectoryOperating and  Financial Review

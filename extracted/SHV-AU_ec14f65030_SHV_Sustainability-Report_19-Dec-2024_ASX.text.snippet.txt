@@ -1,0 +1,247 @@
+=== Page 30 ===
+Select Harvests  Sustainability Report 202430Planet
+Emissions
+Targets
+• Carbon neutral by 2035
+• Carbon net zero by 2050  
+Relevant United Nations Sustainable  
+Development Goals
+Select Harvests operates in an industry known for high 
+emission levels, primarily from electricity consumption, 
+fumigation, fuel use and field emissions related to fertilisers, soil 
+amendments and field burning. In January 2022, we committed 
+to achieving carbon neutrality by 2035 and net zero emissions 
+by 2050, using 2020–21 as our baseline year. In 2024, we 
+continue to report our scope 1 and 2 emissions to the Clean 
+Energy Regulator, in compliance with the National Greenhouse 
+and Energy Reporting Scheme (NGER). We have obtained 
+limited assurance for the second time to ensure the accuracy 
+and integrity of our emissions data. Our team is working on 
+establishing an emissions reduction pathway to achieve our net 
+zero target.
+Monitoring our impact
+To calculate our emissions, we adhere to international carbon 
+footprint guidelines and the Australian National Inventory 
+Report methods. Our emissions are categorised as scope 1, 2 
+or 3 sources in accordance with the Greenhouse Gas (GHG) 
+Protocol. We report emissions as carbon dioxide equivalents 
+(CO₂e) and include all sites owned and operated by Select 
+Harvests.
+Our carbon footprint includes scope 1, 2, and 3 emissions, 
+from the transport of inputs to our orchards through to the 
+delivery of finished products to domestic customers and 
+distribution centres.
+Our performance
+In the 2023–24 period, we recorded a 6% increase in 
+emissions, largely due to the increased electricity demands 
+associated with increased crop volume. However, while raw 
+emissions have risen, we have achieved greater efficiency, 
+with fewer tonnes of emissions per tonne of processed 
+almonds than in the previous reporting period. Since the 
+baseline year of 2020–21, emissions have decreased by 21% 
+from 178,441 tonnes CO₂e to 141,218 tonnes CO₂e.
+Scope 1 emissions remained stable in 2023–24. 
+Scope 2 emissions have increased by 9% in 2023-24.  The 
+increase in our scope 2 emissions can be attributed to 
+increased almond volume in the reporting period, from 23,130 
+tonnes in 2022–23 to 40,047 tonnes in 2023–24. However, our 
+improved production efficiency has driven a 25% improvement 
+in emissions intensity in our processing division.  This 
+improvement has been driven by upgrading equipment to 
+more energy efficient options within our facility.  
+Once again, a similar trend can be seen within our scope 3 
+emissions, seeing an increase of 7%. This increase is once 
+again due to increased crop size driving an increase in fuel 
+required to transport crops to our processing facility and to 
+our customers.  
+Orchard emissions intensity per tonne of kernel decreased 
+due to increased efficiencies at both our orchards and 
+processing facilities. Total greenhouse gas emissions by scope (processing 
+facilities and orchards) 
+Emission source 2023-24 2022–23 % change
+Scope 1 54,601 53,346 2%
+Scope 2 40,762 37,297 9%
+Scope 3 45,855 42,858 7%
+Total 141,218 133,501 6%
+Emissions intensity
+2023–24 2022–23 % change
+Orchards - Total tonnes 
+CO₂e per tonne of 
+kernel 4.5 4.8 -6%
+Processing - Total 
+tonnes CO₂e per tonne 
+of kernel 1.2 1.6 -25%
+Electricity production and consumption (GWh) 
+Our emission reduction strategy focuses on leveraging 
+renewable energy and maximising resource efficiency. At its 
+core is the biomass renewable power station, which supplies 
+clean energy to our processing facility in Wemen and supports 
+irrigation for neighbouring orchards.
+During 2023–24, the station generated 20,991,543 kWh of 
+electricity, enough to power approximately 3,274 homes in 
+Victoria. Of this, 44% was used to meet our energy needs, 
+while surplus electricity was sold to other users, contributing 
+to external energy demands.
+During 2023-24, we have not sold any Large-scale Generation 
+Certificates (LGCs). Instead, we have chosen to retain them as 
+part of our strategic focus on enhancing our emission 
+reduction efforts and supporting our long-term net zero 
+ambitions. While we continue to evaluate future opportunities 
+for selling LGCs, our current approach prioritizes their 
+potential to strengthen our sustainability initiatives over time.
+
+=== Page 43 ===
+Select Harvests  Sustainability Report 202443
+Appendix  
+Greenhouse gas emissions tables
+Total greenhouse gas emissions by scope (processing facilities, offices and orchards)
+Emission source 2023–24 2022–23 % change
+Scope 1 54,601 53,346 2%
+Scope 2 40,762 37,297 9%
+Scope 3 45,855 42,858 7%
+Total 141,218 133,501 6%
+Greenhouse gas emissions in 2023-24 by scope for our processing facilities (tonnes CO₂e) 
+Emission source 2023–24 2022-23 % change
+Fuel 3,363  4,570 -26%
+Refrigerant 0  16 –100%
+Fumigation 24,862  14,619 70%
+Composting 958  834 15%
+Scope 1 – total 29,183 20,039 46%
+Purchased electricity 12,864  11,569 11%
+Scope 2 – total 12,864  11,569 11%
+Fuel 989  253 291%
+Electricity 1,504  1,025 47%
+Packaging 2,364  2,171 9%
+Solid waste 982  760 29%
+Fumigation 8  9 –10%
+Upstream transport 631 1,181 –47%
+Downstream transport 131 106 23%
+Employee commuting 805 927 –13%
+Scope 3 – total 7,414 6,432 –15%
+Total 49,461 38,040 30%
+
+=== Page 44 ===
+Select Harvests  Sustainability Report 202444Appendix  
+Greenhouse gas emissions tables
+Greenhouse gas emissions in 2023-24 by scope for our corporate offices 
+(tonnes CO₂e)
+Emission source 2023–24 2022–23 % change
+Fuel (corporate fuel cards) 70 106 -34%
+Scope 1 – total 70 106 -34%
+Purchased electricity 22 46 -53%
+Scope 2 – total 22 46 -53%
+Fuel 17.2 5 215%
+Electricity 2.5 4 -38%
+Employee commuting* 592.5 77 666%
+Business travel (air and car rental)** 97.4 91 7%
+Scope 3 - total 710 177 299%
+Total 802 329 143%
+*Includes combined data from orchard employee commuting  
+** includes all location travelGreenhouse gas emissions in 2023-24 by scope for our orchards (tonnes CO₂e) 
+Emission source VIC NSW SA 2023–24 2022-23 % change
+Fuel 3,533 5,854 2,130 11,517 11,361.5 1%
+Fuel emissions* 7,142 3,300 3,389 13,831 21,840.4 -37%
+Total Scope 1     25,348 33,201 -24%
+Purchased electricity 19,924 4,610 3,342 27,876 25,682 9%
+Total Scope 2    27,876 25,682 9%
+Fuel           871   1,443            526 2,840             586 385%
+Contractor fuel 27 21 30 78 - -
+Purchased electricity  2,329    279            726           3,334 2,960 13%
+Fertilisers*  10,022 6,342 3,952 20,316 19,662 3%
+Soil amendments 112 143 149 404 690 -41%
+Pesticides* 3,959 2,886 2,194 9,039 10,275 -12%
+Pre-farm transport 210 430 312 952 1,309 -27%
+Solid waste    336   207  224 767 767 –
+Total Scope 3 17,866 11,751 8,115 37,731 36,249 4%
+Total    90,955 95,132 -5%
+ 
+* Fertiliser and pesticide amounts based on purchased quantities
+
+=== Page 45 ===
+Select Harvests  Sustainability Report 202445Appendix  
+Greenhouse gas emissions tables
+Inputs and emission table
+Scope 1 Emissions – These are direct emissions from sources that a company owns or controls, like emissions from company vehicles or on-site fuel combustion.
+Scope 2 Emissions  – These are indirect emissions from the energy a company buys and uses, such as electricity, steam, or heating.
+Scope 3 Emissions  – These include all other indirect emissions in a company’s value chain, like those from business travel, waste disposal, and product use.
+Scope Emission source Inputs Emissions factor source
+1 Fuel Includes bulk delivery of purchased fuel and corporate fuel cards (diesel, 
+petrol and LPG) for stationery and transport purposes in our offices,  
+orchard and processing operations.National Greenhouse Accounts Factors 2024 
+1 Field emissions Includes fertiliser use (synthetic and organic), atmospheric deposition, soil 
+amendments, crop residues and field burning in orchard operations.Synthetic fertiliser: National Inventory Report 2024 Volumes 1 and 2
+Urea, leaching and runoff, atmospheric deposition, liming and crop residues: 
+National Inventory Report 2024 Volumes 1 and 2 
+1 Refrigerant Includes refrigerant purchased for use in our processing operations. National Greenhouse Accounts Factors 2024 (tables 10 and 22)
+1 Fumigation Includes fumigant purchased for use in our processing operations. Sulphuryl chloride proxy: ecoinvent (2024)
+1 Compost production Includes soil amendments, harvest biomass, and other compost  
+ingredients used to produce compost at our processing facilityCompost: Intergovernmental Panel on Climate Change 2024 emission factors 
+2 Purchased electricity Includes purchased electricity for use in our offices, orchards, and  
+processing operations (The Victorian state grid factor was applied to 
+electricity consumed from our biomass power station.)National Greenhouse Accounts Factors 2024 (table 46) (State grid factors 
+were applied to our electricity consumption.)
+3 Packaging Includes plastic liners, polypropylene woven bags, cardboard boxes and 
+wooden pallets purchased or leased for product packaging at our  
+processing facility and transport purposesAustralian National Life Cycle Inventory Database (AusLCI) (2024)
+3 Fertilisers Includes embodied emissions of purchased fertilisers used in our orchard 
+operationsIntegrity Ag calculation: AusLCI (2024) and ecoinvent (2024)
+3 Pesticides Includes embodied emissions of purchased pesticides used in our orchard 
+operations.Integrity Ag calculation: AusLCI database (2024) and ecoinvent (2024)
+3 Soil amendments Includes embodied emissions of purchased lime and gypsum used in our 
+orchard operationsIntegrity Ag calculation: AusLCI database (2024) and ecoinvent (2024)
+3 Waste generated Includes the disposal of waste generated at our orchards and processing 
+facility, treated off-site (Waste generation at our orchards was added to our 
+emission profile in 2023.)National Greenhouse Gas Accounts Factors 2024
+
+=== Page 46 ===
+Select Harvests  Sustainability Report 202446Scope Emission source Inputs Emissions factor source
+3 Pre-farm transport Includes transportation of products including compost, fertiliser and 
+pesticides, bee hives, fuel and machinery to our orchardsGHG Protocol: Technical Guidance for Calculating Scope 3 Emissions  
+(version 1.0)
+Environmental Protection Authority (EPA) Victoria (2024)
+3 Upstream Transport Includes transportation of products purchased or distributed between 
+facilities, including compost ingredients, fuel, harvest biomass and 
+processing facility consumablesGHG Protocol: Technical Guidance for Calculating Scope 3 Emissions 
+EPA Victoria (2024)
+3 Downstream 
+transportIncludes transportation of products sold, specifically the transport  
+delivery of finished material to domestic customers, distribution centres  
+and local export agency warehousingGHG Protocol: Technical Guidance for Calculating Scope 3 Emissions 
+EPA Victoria (2024)
+3 Employee 
+commutingIncludes employees and contractors commuting to and from work GHG Protocol: Technical Guidance for Calculating Scope 3 Emissions 
+3 Business travel Includes flights and rental car travel for business purposes GHG Protocol: Technical Guidance for Calculating Scope 3 Emissions 
+EPA Victoria (2024)Appendix  
+Greenhouse gas emissions tables
+Inputs and emission table (continued)
+
+=== Page 47 ===
+Select Harvests  Sustainability Report 202447International Financial Reporting Standards
+Sustainability disclosure table
+Disclosure area Requirements and metrics
+Climate-related risks IFRS S2: Entities are required to report detailed climate-related risks and opportunities with the following metrics.
+Greenhouse gas emissions:  Report on scope 1, 2 and 3 emissions with appropriate measurement and verification. 
+Scenario analysis:  Conduct and disclose outcomes of climate scenario analyses, focusing on resilience and strategic alignment. 
+Transition plans:  Outline comprehensive strategies to transition to a low-carbon economy, with defined targets and timelines.
+Risk management:  Describe processes for identifying, assessing, and managing climate-related risks.
+Social impacts IFRS S1:  Voluntary disclosure should encompass the following metrics.
+Employee diversity ratios: Provide data on diversity across various organisational levels, including gender, ethnicity and age.
+Community investment:  Document financial and non-financial investments in community development and social programs.
+Human rights compliance:  Report adherence to international human rights standards and any certifications or audits undertaken.
+Economic contributions IFRS S1:  The following metrics are required.
+Economic value distributed:  Provide detailed distribution of generated economic value among stakeholders, including employees, governments 
+and communities.
+Tax transparency:  Provide comprehensive disclosure of tax strategies, payments and reconciliation with applicable tax laws.
+Job creation statistics:  Quantify employment contributions, specifying the number of jobs created, retained or eliminated, and categorise by type of 
+employment.
+Governance and oversight IFRS S1:  Disclose the following governance-related metrics.
+Board diversity:  Disclose composition and diversity of board members and senior management in terms of skills, experience and demographics.
+Sustainability policy adherence:  Provide evidence of adherence to corporate sustainability policies and frameworks, including reviews and 
+updates. 
+Risk management effectiveness:  Provide metrics evaluating the effectiveness of governance structures and risk management processes related to 
+sustainability.
+Environmental impact IFRS S1:  Organisations should report on the following environmental metrics.
+Resource consumption:  Provide data on the consumption of key resources, such as water and energy, and the steps taken to improve efficiency.
+Waste reduction targets:  Progress towards achieving waste reduction goals, including recycling and waste diversion efforts.
+Biodiversity conservation efforts:  Implement initiatives to protect and restore biodiversity, including specific projects and partnerships, with 
+measurable outcomes.

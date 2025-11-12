@@ -1,0 +1,291 @@
+=== Page 18 ===
+We approach data privacy and cyber security as a 
+Board-level risk, embedding legal compliance and 
+employee capability-building to protect customer and 
+business data. Our team undergoes mandatory privacy 
+and cyber training on a regular basis, plus refresher 
+training whenever our processes change. 
+We prioritise transparent communication with our 
+customers regarding how their data is collected, 
+used and protected. Our technical safeguards include encryption protocols, 
+multi-factor authentication and layered access controls 
+for all customer-facing brands and internal systems. 
+This approach, with team capability, robust technical 
+controls and third-party assurance, aims to minimise  
+risk and reinforce customer trust in our brands.
+  For more information about our approach, see page 51Material topic:  Data privacy and security
+Material topic:  Team health, safety and wellbeing
+Material topic:  Energy and climate changeWe believe creating a positive and supportive work 
+environment leads to improved employee satisfaction 
+and long-term business success. This means the health, 
+safety and wellbeing of our 30,000+ strong team is a 
+core contributor to our business value. 
+Everyone who works with our business is required 
+to adhere to stringent health and safety protocols 
+across our network of sites and has access to targeted 
+wellbeing programs. We have a safety-first approach 
+that requires regular risk assessments, incident 
+reporting and mandatory work health and safety 
+training, with Board-level oversight of trends and 
+progress against targets. Our annual Voice of Team survey and regular listening 
+sessions capture frontline feedback on overall 
+engagement and retention, with results used to 
+refine programs.
+Through our wellbeing program, Endeavour Wellbeing 
+and Support, we provide our team more holistic 
+support across physical, mental and financial wellbeing. 
+We also offer Mental Health First Aid training for leaders 
+to build capability in supporting individuals who may 
+be suffering a mental health crisis, until emergency or 
+professional support is available.
+  For more information about our approach, see pages 44–45
+Our management of energy and climate change 
+combines long-term transition planning with near- and 
+medium-term actions to help us to continue to reduce 
+our environmental footprint.  
+ 
+We recognise the importance of building an 
+understanding of climate change impact on the 
+business. Over the last few years, we have completed 
+a climate risk assessment and a qualitative scenario 
+analysis, and this year we have performed our first 
+quantitative scenario analysis. We are still working 
+through our findings and reviewing opportunities to 
+integrate these risks into Endeavour’s enterprise risk 
+management processes.
+ This year, we have worked to strengthen the processes 
+we use to capture, track and validate our scopes 1 and 2 
+emissions, as well as building an inventory of our 
+scope 3 emissions. We have also started to develop 
+preliminary roadmaps to achieve our emissions 
+reduction targets. 
+Key initiatives are underway to address our material 
+energy emissions, including continued roll-out of solar 
+installations and transcritical refrigeration systems, as 
+well as sourcing renewable energy for two of our winery 
+and vineyard sites.
+  For more information about our approach, see pages 52–61Overview Responsibility and community Appendix People PlanetEndeavour Group  
+2025 Sustainability Report15
+
+=== Page 58 ===
+Building climate resilience 
+Understanding our key risks and opportunities has helped us to prioritise areas of focus, identifying no-regret 
+and low-regret actions to build climate resilience across our business. 
+Five focus areas, determined across three key planning categories: transition, physical resilience and disclosure, 
+have been considered under multiple scenarios. There are actions to address the climate-related impacts in these 
+areas already underway, as well as actions which form part of our future business planning and decision-making.
+Focus area Actions
+ Emissions  
+reduction strategy• Development of an annual emissions baseline and an emissions projection 
+to understand the gap to net zero 2050.
+• Mapping of opportunities for emission reduction projects.
+• Development of emissions reduction strategy.
+• Ongoing review of Endeavour’s renewable energy procurement strategy.
+• Finalise initial Scope 3 baseline footprint.
+Data needs  
+for compliance• Investigation of data availability and collection needs to meet disclosure 
+and/or reporting requirements.
+• Finalise baseline data to understand current position and exposure to 
+reporting requirements.
+Roadmap to  
+compliance• Work through the roadmap towards ASRS compliance.
+• Continue to embed the systems and processes required for F26 reporting.
+Refrigerant  
+phase-out• Investigation of options for phased replacement of refrigerants.
+• Develop a roadmap and transition plan for refrigerants.
+ Physical risk  
+preparedness• Completion of Pinnacle site reviews to determine best way forward to 
+address physical risks.
+• Investigation of local water conservation opportunities at sites.
+Responsibility and community Appendix People Planet Overview55Endeavour Group  
+2025 Sustainability Report
+
+=== Page 59 ===
+Metrics and Targets
+In our Sustainability Strategy, we committed 
+to the following Planet targets:
+• By 2030, sourcing 100% renewable electricity 
+to power our business; and 
+• By 2050, Endeavour Group will have net zero 
+emissions (Scope 1 and 2 only). 
+As our operations and supply chains are complex and 
+geographically diverse, the collection and validation 
+of our emissions data has proven challenging to date. 
+This, in turn, has impacted our ability to accurately 
+track and report progress against targets. 
+In F25, we prioritised two major streams of work:
+1. Governance uplift : working to improve the 
+completeness and accuracy of our emissions data, 
+as well as improving the governance, controls 
+and process of data collection in order to meet 
+and assure against the incoming Australian 
+Sustainability Reporting Standards. In F25, our 
+total energy consumed was 1,992,026 GJ,and our 
+total Scope 1 and 2 emissions contributed 356,599 
+tonnes of carbon dioxide equivalent (tCO₂e). For 
+more information and context, see Appendix page 
+65, and page 29 of the 2025 Endeavour Group 
+Annual Report. 
+2. Development of preliminary roadmaps : 
+timelines and targets to reduce Scope 1 and 2 
+emissions to net zero. 
+We have also continued to implement a range of 
+initiatives to reduce emissions and drive efficiencies, 
+as outlined below. 
+Solar installations
+277 sites have solar installations, with 58 additional 
+sites added in F25. Since the introduction of our solar 
+program, we’ve developed a better understanding 
+of the systems, components and brands we 
+need to guarantee quality, durability and visibility 
+on performance. Solar installations generated 
+22,371 MWh of power in F25, with additional 
+installations planned in F26.Sourcing renewable energy
+Our Cape Mentelle (Margaret River region, WA) and 
+Isabel Estate 1 (Marlborough region, NZ) sites sourced 
+100% renewable electricity for power usage. 
+Smart control systems
+175 of our retail sites feature smart control systems, 
+which allow our teams to centrally manage light and air 
+conditioning settings and automate soft fridge covers.
+Refrigeration
+As refrigeration remains a large component of our 
+energy usage, we review new technologies to reduce 
+impact wherever possible. In new sites, we are installing 
+energy efficient transcritical refrigeration systems, 
+which use CO2 instead of synthetic refrigeration gases 
+and are considered lower-emissions options. In F25, we 
+installed seven new transcritical systems in retail sites, 
+including Bacchus Marsh, Heathcote and Middle Park.
+Electronic Shelf Labelling
+Electronic Shelf Labelling (ESL) has replaced paper 
+ticketing in all 282 Dan Murphy’s stores nationally, saving 
+an estimated eight million sheets annually. Powered 
+by energy efficient, long lasting battery systems, ESLs 
+provide a better customer experience with improved 
+pricing accuracy. LED ‘light up’ functionality supports 
+locating products using the ‘Ask Uncle Dan’ app.
+Scope 1 and 2 emissions profile
+ Electricity
+Refrigerants79%
+16% Gas
+Other3%
+2%56
+
+=== Page 60 ===
+Scope 3 emissions
+Quantifying indirect (Scope 3) emissions across our value chain remains a complex task, given the number of 
+contributing sources and the variability of available data. Scope 3 emissions include all indirect greenhouse gas 
+emissions that occur across Endeavour’s value chain, excluding those from owned or directly controlled sources. 
+Since F23 we have progressively continued to develop an indicative inventory of Scope 3 emissions using the 
+GHG Protocol in preparation for future reporting requirements. 
+By analysing available data and assessing our ability to influence outcomes in each area, we identified six material 
+categories for calculation and future disclosure. In F26, we plan to disclose our baseline Scope 3 inventory and 
+targets based off F25 data.
+Scope 3  
+Emissions Profile Calculation  
+MethodTotal Emissions 1 
+tCO2eEmissions  
+profile %
+Category 1
+Purchased Goods and ServicesSpend based 2,850,312 92%
+Category 2
+Capital GoodsSpend based 110,715 4%
+Category 3
+Fuel and Energy-related activities  
+(not included in Scope 1 or Scope 2)Activity based 44,899 1%
+Category 4
+Upstream transportation and distributionSpend based 17,467 1%
+Category 5
+Waste generated in operationsActivity based 36,852 1%
+Category 9
+Downstream transportation and distributionSpend based 21,788 1%
+1 The total carbon emissions detailed in this table includes data from F23, F24 and F25 based on data availability and insights gained through 
+discovery work completed since F23.Electronic Vehicle (EV) charging 
+In F25, we completed installation of our 
+Electronic Vehicle (EV) charging station at 
+Gepps Cross Hotel in Adelaide. This site 
+takes the number of EV charging stations 
+across our network to eleven, delivering a 
+reliable and fast charging experience for our 
+customers while they dine or shop with us. 
+Two further installations are planned for 
+F26 as we continue to trial initiatives to 
+help reduce our Scope 3 emissions. 
+Overview Responsibility and community Appendix People PlanetEndeavour Group  
+2025 Sustainability Report57
+
+=== Page 65 ===
+Independent Limited Assurance Report
+to the Directors of Endeavour Group LimitedDeloitte Touche Tohmatsu  
+ABN 74 490 121 060  
+477 Collins Street  
+Melbourne VIC 3000  
+Australia
+Tel: +61 3 9671 7000  
+www.deloitte.com.au
+Conclusion
+We have undertaken a limited assurance engagement on the preparation of the Selected Sustainability Metrics, Disclosures 
+and Statements listed in Table 1 and Table 2 below (“Subject Matter Information”) presented in the Endeavour Group Limited 
+(“Endeavour”) 2025 Sustainability Report and 2025 Annual Report (the “Corporate Reports”), in accordance with the Reporting 
+Criteria as defined in Table 1 and Table 2 below (“the Reporting Criteria”), in all material respects for the period 1 July 2024 to 
+29 June 2025.
+Table 1: Selected Sustainability Metrics and Disclosures
+SELECTED SUSTAINABILITY METRICS AND DISCLOSURES 
+(SUBJECT MATTER INFORMATION) METRIC ASSURED LOCATIONREPORTING CRITERIA
+Team members trained in Leading in Responsibility (%) 95Sustainability Report 
+Page 9, 17, 19
+Endeavour’s internal 
+sustainability policies 
+and procedures, 
+informed by the 
+Global Reporting 
+Initiative (“GRI”) and 
+the Task Force on 
+Climate-Related 
+Financial Disclosures 
+(“TCFD”)Community investment funding ($ million) 7. 9Sustainability Report 
+Page 9, 17, 32
+Total Recordable Injuries (TRI) 334Sustainability Report 
+Page 45
+Women represented on the Board (%) 43Sustainability Report 
+Page 39
+Women represented in the Senior Leadership Group (%) 43Sustainability Report 
+Page 9, 37, 39
+Total waste going to landfill (tonnes) 14,166Sustainability Report 
+Page 61, 66
+Reusable, recyclable or compostable content used in all 
+Own Brand packaging (%) *98Sustainability Report 
+Page 9, 60
+Recycled content across all Own Brand packaging (%) * 63Sustainability Report 
+Page 9, 60
+FSC 1 or PEFC 2 certified pulp and paper based 
+Own Brand packaging or has a minimum 60% 
+recycled content (%) *90Sustainability Report 
+Page 9, 60
+Scope 1 and 2 greenhouse gas emissions 
+for Endeavour Group Limited (tCO2e)356,599Annual Report Page 
+29 and Sustainability 
+Report Page 56National Greenhouse 
+and Energy Reporting 
+Act 2007 (“NGER 
+Act’), the National 
+Greenhouse and 
+Energy Reporting 
+Regulations 2008 
+(“NGER Regulations”) 
+and the National 
+Greenhouse and 
+Energy Reporting 
+(Measurement) 
+Determination 
+2008 (“NGER 
+Determination”) 
+(collectively referred 
+to as the “NGER 
+Legislation”)Total energy consumed for Endeavour Group Limited (GJ) 1,992,026 Annual Report Page 
+29 and Sustainability 
+Report Page 56
+* The reporting period for these metrics are on a calendar year basis from 1 January 2024 to 31 December 2024.
+1 Forest Stewardship Council.
+2 Program Endorsement Forest Certification.62

@@ -1,0 +1,51 @@
+=== Table 1 (page 24) ===
+22,,Introduction,Chair & CEO’s Message,2024 Highlights,Strategy,Sustainability,Material Risks
+,,Sustainability Report,,,,,
+E,,,,,,,
+R,NVIRONMENT,,,,,,
+,,,,,,,
+"U
+O",,,,,,,
+,,Pillar: Our Environment,,,,,
+,G8 Education is committed to reducing its environmental footprint and fostering a sustainable future for generations to,,,,,,
+,come. We demonstrate this commitment by:,,,,,,
+,•  Continuing our investment in solar and green energy,,,,,,
+,•  Disclosing and reporting Scope 1 and Scope 2 emission targets aligned with a 1.5 degree Paris Agreement scenario,,,,,,
+,•  Taking steps to be ready to measure Scope 3 emissions in compliance with ASRS standards,,,,,,
+,"•  Role modelling, teaching and promoting awareness of environment in children through daily practices, resources and",,,,,,
+,educational opportunities,,,,,,
+,•  Engaging in recycling initiatives.,,,,,,
+,"In 2024 we continued our progress on reducing emissions, transitioning to renewable energy and educating children",,,,,,
+,about environmental stewardship. These initiatives align with our support of the goal of the Paris Agreement to limit,,,,,,
+,global warming and our role in preparing the next generation for a sustainable future.,,,,,,
+,G8 Education  |  2024 Annual Report,,,,,,
+
+=== Table 2 (page 25) ===
+Environmental Education,,Performance measure,,,
+in Learning,,,,,
+,,FY24 result,FY23,FY22,FY21
+Environmental education is,,,,,
+,Scope 1,"667,590 kg","756,899 kg","306,960 kg","351,762 kg"
+embedded in our centres’,,,,,
+,emissions,CO2-e2,CO2-e2,CO2-e3,CO2-e3
+daily practices and resources.,,,,,
+"Through interactive programs,",,,,,
+,Scope 2,"9,360,624 kg","10,132,459 kg","11,761,701 kg","12,026,123 kg"
+we aim to model lifelong,,,,,
+,emissions,CO2-e,CO2-e,CO2-e,CO2-e
+"environmental values, fostering",,,,,
+awareness and stewardship.,,,,,
+,Total Scope,"10,028,214 kg","10,889,358 kg","12,068,661 kg","12,377,885 kg"
+Our educators engage children,,,,,
+,1 and Scope,CO2-e,CO2-e,CO2-e,CO2-e
+"in sustainability activities, such",,,,,
+,2 emissions 4,,,,
+"as recycling and conservation,",,,,,
+creating a foundation for future,,,,,
+,,1.  NQS Element QA3 includes 3.2.3 (the service cares for the environment and supports,,,
+eco-conscious behaviours.,,,,,
+,,children to become environmentally responsible).,,,
+,,2.  Fleet and grid (gas) emissions.,,,
+98% centres assessed,,,,,
+as “meeting”or,3.  Fleet only emissions.,,,,
+“exceeding” NQS QA31,,4.  Does not include any bottled LPG  or consumption met by on-site solar generation.,,,

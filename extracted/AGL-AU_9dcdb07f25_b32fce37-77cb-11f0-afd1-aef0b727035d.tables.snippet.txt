@@ -1,0 +1,1316 @@
+=== Table 1 (page 9) ===
+,into our everyday operations and we continue to implement
+Improved safety performance and,
+,programs to help our customers.
+employee engagement,
+"In FY25, we were pleased that AGL’s safety performance improved",
+,"As an example, we recently launched AGL Community Power,"
+significantly from FY24 as a result of a targeted program of,
+,which seeks to find ways to share the benefits of the energy
+initiatives to reinforce a culture of shared responsibility and,
+,transition with those who cannot purchase solar and batteries
+continuous improvement across our operations. These initiatives,
+,or who may be locked out due to barriers to home ownership.
+"included training, strengthened governance and enhanced",
+,"As part of this program, we are partnering on the emPowering"
+risk visibility.,
+,"SA program to construct, install and/or operate 18 community"
+AGL’s FY25 employee engagement score increased by 1 percentage,batteries (~11.5 MW) and share benefits through discounted
+"point to 73%, representing the continued focus on developing our","electricity for up to 11,000 customers."
+people to ensure we have the skills and capabilities for the future.,
+,We continue to offer innovative products and services to drive
+,"electrification of homes and businesses, including:"
+,"•
+Rooftop solar to approximately 650,000 solar customers."
+Investments and growth to deliver AGL’s strategy,
+"During FY25, we made a number of important investments to",• Our demand-response Peak Energy Rewards program.
+progress our strategy to connect our customers to a sustainable,
+,"•
+Electric vehicle charging and orchestration - we currently have"
+future and to transition our energy portfolio,
+,"approximately 32,000 customers on electric vehicle plans."
+This included:,"• Our VPP, which will play an important role in providing flexibility"
+,and helping to balance grid stability.
+"•
+the acquisition of Firm Power and Terrain Solar in September",
+2024. The acquisition provided access to 21 battery projects in,
+,We’ve expanded our free digital advisory tool “Electrify Now”.
+development and six solar projects in development to provide,
+,This tool leverages energy usage data to deliver a personalised
+further optionality for AGL’s development pipeline.,
+,"electrification savings report for customers, with estimated energy"
+"•
+the acquisition of Everty, an EV software platform that provides","bill and carbon savings for products like solar, batteries and electric"
+charging and energy management solutions for electric vehicles.,"appliances. We have had over 500,000 visits to Electrify Now since"
+This has allowed AGL to continue to offer innovative solutions,May 2024.
+and encourage widespread adoption of electric vehicles.,
+,We have also partnered with fintech lender Plenti Group
+"•
+the acquisition of two pumped hydro energy storage projects",
+,Limited to offer eligible customers discounted finance rates for
+located in the Hunter region of NSW. These projects are an,
+,"residential solar batteries, with support from the Clean Energy"
+important addition to AGL’s long duration storage opportunities.,
+,Finance Corporation.
+"•
+completion of the acquisition of the 20% equity interest in",
+,Our retail transformation program is also underway to deliver
+"Kaluza, underpinning AGL’s Retail Transformation Program.",
+,"more seamless, customer focused experiences. Phase 1 of the"
+This momentum has continued into FY26 with:,program (Salesforce) has been successfully implemented to deliver
+,enhanced customer and agent experience.
+"•
+the acquisition of South Australia’s Virtual Power Plant (VPP)",
+"from Tesla. This is one of Australia’s largest VPPs, comprised",
+"of distributed solar capacity and about 7,000 Powerwall home",
+,Embracing ESG and 2025 CTAP
+batteries.  More batteries are expected to be installed this year,
+,During FY25 the Board approved an ESG decision making
+as we look to develop Australia’s largest social and community,
+,framework to embed ESG considerations into the work we
+housing VPP.,
+,"do and the decisions we make to safeguard our business,"
+"•
+final investment decision reached on the 500 MW/ 2,000 MWh",
+,"access future opportunities, unlock strategic value and create"
+Tomago Battery Project. The Tomago Battery Project adds to,
+,competitive advantage.
+"AGL’s existing grid-scale battery portfolio, with the 500 MW/",
+"1,000 MWh Liddell Battery on track for commencement of",Pages 12-13 of the Annual Report provide a summary of how
+operations in early 2026.,"we have considered our responsibilities to our people, customers,"
+,"investors, the environment and the communities in which we"
+"•
+the acquisition of the Yadnarie solar and long duration energy",
+,operate during FY25.
+storage project. This project is based on RayGen’s PV Ultra,
+"and Thermal Hydro technology, demonstrating our investment",A key focus of the Board during FY25 was oversight of AGL’s 2025
+in innovative solar-and-storage system technology as a potential,CTAP. The 2025 CTAP was released as part of AGL’s FY25 Results
+solution to the need for long duration energy storage.,and will be subject to a shareholder vote at the 2025 AGM.
+,"Importantly, we have built on our ambitions since our 2022 CTAP,"
+,including increasing our interim target from 5 GW by 2030 to
+Supporting Our Customers,
+,"6 GW by FY30, of which we’re targeting at least 3 GW of grid-"
+"AGL is Australia’s leading energy brand, with over 4.56 million",
+,scale batteries.
+"customer services. During FY25, we focused on helping our",
+"customers decarbonise the way they live, move and work, while",
+,We have bolstered our interim Scope 1 and 2 emissions reduction
+also supporting many customers facing cost-of-living pressures.,
+,"targets, prioritising direct emissions reductions, and set a new"
+,ambition to reduce our Scope 3 emissions by 60% compared to
+We have now completed our two-year $90 million customer,
+,FY19 levels following the closure of our coal-fired power stations.
+support package. This included $76 million in direct financial,
+"support such as debt relief and payment matching, and the",
+
+=== Table 2 (page 12) ===
+Business Value Driver key performance indicators,,,,,,
+,"For more information about each key performance indicator, refer to the scorecards in Section 3.2. The key performance indicators should",,,,,
+be read in conjunction with the Glossary on pages 226-230.,,,,,,
+,,FY25,FY24,FY23,FY22,FY21
+Customers,,,,,,
+Strategic Net Promoter Score (NPS),,+8,+4,+5,+6,+5
+Customer Satisfaction (CSAT),%,81.6,80.1,80.5,79.8,NR
+Ombudsman complaints,,"6,651","8,111","5,012","4,873","5,973"
+Number of customers on Staying Connected,,"34,328","27,471","18,889","15,964","26,263"
+Average level of debt of customers on Staying Connected,$,"2,343","2,025","2,578","2,973","2,768"
+Total average debt across mass market customer portfolio,$,420,414,386,241,292
+Green revenue as a % of total revenue,%,19.7,19.3,17.5,15.3,13.4
+Increase in green revenue from FY19,%,98,83,73,41,NR
+Cumulative customer assets installed (behind the meter),MW,147,701,NR,NR,NR
+Decentralised assets under orchestration (including smelters),MW,"1,487","1,249","1,139",NR,NR
+Assets,,,,,,
+New renewable and firming capacity,MW,"1,178",978,478,NA,NA
+Operated and contracted renewable generation and,,,,,,
+,%,34.5,32.8,30.5,NR,NR
+storage capacity,,,,,,
+Grid-scale batteries installed and managed,MW,430,380,130,30,30
+"Total grid-scale batteries operated, contracted or in delivery",MW,"1,200","1,000",430,NR,NR
+Equivalent Availability Factor - all fleet,%,79.1,85.8,76.8,74.5,73.7
+Equivalent Availability Factor - thermal and gas generation fleet,%,79.5,86.6,74.6,NR,NR
+People,,,,,,
+TIFR employees,,1.2,2.7,2.4,1.5,1.7
+TIFR (employees + contractors),,2.0,3.5,2.8,2.1,2.3
+Fatalities (employees + contractors),,0,0,0,0,0
+Employee engagement,%,73,72,67,57,62
+Attrition (total workforce),%,10,11,13,20,10
+Key talent retention,%,96,92,83,76,95
+Gender mix in senior leadership pipeline,% female,36,36,33,35,36
+Material breaches of Code of Conduct,,0,0,0,0,0
+Relationships,,,,,,
+Community contribution,$m,6.0,6.0,4.8,3.8,5.2
+RepTrak score,,67.7,66.9,65.6,65.8,66.7
+Underlying effective tax rate,%,27.9,30.5,26.7,23.2,27.0
+Environment,,,,,,
+Scope 1 & 2 emissions,MtCO2e,30.72,33.2,35.2,40.1,40.8
+Reduction in Scope 1 & 2 emissions compared to FY19 baseline,%,29.12,23.3,18.5,NR,NR
+Operated and contracted generation intensity,tCO2e/MWh,0.9082,0.936,0.916,NR,NR
+Scope 3 emissions,MtCO2e,23.22,25.8,24.8,25.1,25.2
+Emissions intensity of total revenue,ktCO2e/$m,2.12,2.4,2.5,3.0,3.7
+Emissions intensity of electricity supplied,tCO2e/MWh,0.834,0.841,0.879,NR,NR
+Environmental Regulatory Reportable incidents,,14,17,30,13,11
+Environment SIF Actual,,0,1,2,NR,NR
+Business Intelligence,,,,,,
+Speed to market3,%,+30,+30,NA,NA,NA
+Digital only customers,%,59.0,55.8,52.7,NR,NR
+Major IT incidents,,46,44,34,50,52
+Reportable privacy incidents,,2,5,3,1,0
+
+=== Table 3 (page 15) ===
+Decarbonisation and,,Gender equality
+,Safety and environment,
+portfolio transition,,and representation
+Focus,Focus,Focus
+Progressing our renewable and firming,Driving a culture of safety performance,Achieving gender diversity and equality at
+pipeline and connecting every customer,and environmental compliance through,all levels of our organisation to deliver our
+to a sustainable future to drive,"proactive risk management, reporting",40:40:20 vision for gender equality.
+"the energy transition, including by","and training, we’re empowering every",
+supporting our customers to decarbonise,employee to prioritise safety and,
+through business and home electrification,environmental protection in all aspects of,
+products and services.,our operations.,
+Progress,Progress,Progress
+• We launched our second Climate,"•
+The number of recordable injuries and","•
+The average gender pay gap"
+"Transition Action Plan (CTAP), building",the associated Total Injury Frequency,for total remuneration reduced by
+on our decarbonisation commitments.,Rate (TIFR) for employees and,1.3 percentage points from March
+,contractors decreased from 3.5 to 2.0.,"2024 to 24.7% in March 2025, and"
+• We exceeded our target to reduce our,,
+,,female hiring rates increased by three
+annual Scope 1 and 2 greenhouse,• We have continued our focus on,
+,,percentage points to 42%.
+gas emissions by 17% by FY24,safety and hazard awareness across our,
+"compared to FY19 baseline, achieving","workforce, resulting in a 12% increase in","•
+Progress was achieved in FY25 through"
+a 29.1% reduction.,HSE conversations.,targeted initiatives aimed at increasing
+,,female representation across AGL's
+• We’ve expanded our development,"•
+Strategic programs of work have",
+,,workforce and leadership pipeline.
+pipeline of renewable and firming assets,focused on advanced leadership,
+,,"However, meeting the 40:40:20 Vision"
+to 9.6 GW.,"capability through targeted training,",
+,,across AGL continues to be challenging.
+,strengthened governance for,
+"•
+Construction of the 500 MW /1,000",,
+,"psychosocial and physical health,",• We were the first energy company
+"MWh Liddell Battery continues, targeted",,
+,enhanced risk visibility with real time,"to join Respect & Protect, reinforcing"
+to commence operations in 2026.,,
+,"data and analytics, and embedded",our commitment to preventing gender-
+• We are actively investing to support,,
+,operational risk management into,based violence and preventing our
+customers to transition away from,,
+,standard practices.,products from being weaponised
+"natural gas, through electrification and",,
+,,by perpetrators.
+,"•
+Increased environmental awareness",
+"fuel switching, and advocating for",,
+,together with improved plant,• We continued to deliver on our
+policies that drive electrification.,,
+,maintenance and reliability led to,inclusion strategy across capability
+"• We expanded Electrify Now, enabling",,
+,an 18% decrease in Environmental,"development, talent management,"
+customers to connect with trusted,,
+,Regulatory Reportable incidents.,"early careers programs, and employee"
+installers and received direct quotes for,,
+,,engagement. This includes our
+,• We developed Integrated Weed,
+electrification opportunities. We have,,
+,,ongoing Women Rising and Male
+,Management Plans for each of our,
+"had over 500,000 visits to the platform",,
+,,Allies programs.
+,operational sites to drive effective,
+since May 2024.,,
+,management of locally identified weeds.,• We partnered with Tradeswomen
+• We launched AGL Battery Rewards,,
+,,Australia on initiatives focused on
+,• We introduced Cultural Heritage,
+energy plan and partnered with,,
+,,increasing gender balance at our
+,Management Plans for all operational,
+Plenti to offer eligible customers,,
+,,operational sites.
+,"sites and proposed projects, and",
+discounted finance rates for residential,,
+,conducted a comprehensive audit,• We continued our active involvement
+solar batteries.,,
+,of our existing approach to cultural,in the Champions of Change
+• We are supporting our customers to,,
+,heritage management.,Energy Group.
+switch to EVs by acquiring Everty’s,,
+,• We completed the subsurface,
+ChargePoint Management System,,
+,decommissioning of all 144 wells at,
+"and partnering with PLUS ES, with",,
+,"the Camden Gas Project, and the",
+153 public EV chargers delivered,,
+,rehabilitation of the Rosalind Park,
+across Sydney.,,
+,Gas Plant.,
+
+=== Table 4 (page 32) ===
+For the year ended 30 June 2025,
+,"with trusted installers and receive direct quotes for electrification opportunities. We have had more than 500,000 visits to the"
+,"platform since launching last year. On average, the reported estimated savings per household with Electrify Now were over one"
+,thousand dollars annually off their energy bill.
+•,"Flexibility services: We are focused on growing our flexible load under management, including virtual power plants. AGL now3"
+,"has one of the largest residential battery virtual power plants in Australia, driving us closer to our FY27 target of having 1.6 GW"
+,"of decentralised assets under orchestration. AGL is also focused on expanding batteries as a key flexibility asset, and our AGL"
+,Battery Rewards program enables customers to earn by exporting energy back to the grid during peak times.
+,• Hot water orchestration: Electric hot water system orchestration presents a significant opportunity to help customers
+,"optimise their grid electricity usage and energy costs, while also supporting grid stability through the energy transition. In most"
+,"homes, hot water heaters have traditionally been scheduled to heat up overnight. By shifting customers’ hot water load to the"
+,"middle of the day to coincide with abundant solar generation through electric hot water system orchestration, AGL is able to"
+,access a substantial flexible load throughout the NEM. We have seen a growth of approximately 104% in controlled hot water
+,load compared to FY24 through new partnerships with distribution network service providers in New South Wales and other
+,"leading metering providers. We are now orchestrating the hot water loads of nearly 100,000 customers through our virtual"
+,power plants and exploring ways to increase energy bill savings for customers over time.
+,• AGL Community Power: We recognise the need to share the benefits of the energy transition with those who cannot purchase
+,"solar and batteries or who may be locked out due to barriers to home ownership. In July 2025, as part of the AGL Community"
+,"Power initiative, AGL announced the acquisition from Tesla of South Australia’s Virtual Power Plant (SAVPP), one of Australia’s"
+,"largest VPPs which was first established in 2018 with support from the SA Government and ARENA, and comprises distributed"
+,"rooftop solar and approximately 7,000 home batteries. More batteries are expected to be installed this year as we look to"
+,develop the country’s largest social and community housing VPP. The acquisition of the SAVPP will provide AGL with access to
+,a network of residential solar and battery systems to continue delivering benefits to those SA social and community housing
+,"residents participating in the program. Building on this acquisition, in July 2025 AGL announced our partnership with the"
+,Government of South Australia on the emPowering SA community battery project to build and operate 16 community batteries
+,that will facilitate cheaper electricity for social housing tenants and people experiencing financial hardship. In the same month
+,"the new “Three for Free” energy plan was also launched, giving households access to three hours of free electricity usage every"
+,"day.4This plan is targeted at customers who do not yet have a rooftop solar system, including renters."
+•,Financing residential solar batteries: AGL has partnered with fintech lender Plenti Group Limited to connect eligible
+,"customers with competitive financing for residential solar batteries, supported by the Clean Energy Finance Corporation (CEFC)."
+,AGL customers can apply for a Plenti Green Loan to install a solar battery in their home at a discounted interest rate.
+•,"Electric vehicles: We have made significant progress in the e-mobility space, with products and services that encourage"
+,"customers to switch to EVs. Our EV plans attracted approximately 35,000 customers5 in FY25, with our offering including"
+,"discounted tariffs for home charging, complemented by our public kerbside charging offer partnership with BP pulse, enabling"
+,EV recharging away from home at a competitive cost. In FY25 we expanded our business offerings and capabilities through
+,"the acquisition of Everty, a full-service electric vehicle charging and energy management software platform for commercial"
+,customers. The scaling of smart charging solutions through our investment in Kaluza is already delivering benefits by enabling
+,customers to shift their energy usage while progressing toward vehicle-to-grid readiness.
+•,"Climate Active certified products: AGL provided 551,6366 Climate Active certified Carbon Neutral services (up from 510,074"
+,"in FY24), including gas and electricity (representing more than 170,000 services), telecommunications, residential solar systems,"
+,"and solar batteries. While EV chargers and EV subscriptions are not Climate Active certified, AGL voluntarily purchases and"
+,"surrenders carbon offsets for their full lifecycle emissions (Scope 1, 2 and 3)."
+
+=== Table 5 (page 41) ===
+For the year ended 30 June 2025,,,
+,"AGL takes our environmental responsibilities seriously, and recognises the high expectations of our stakeholders in relation to",,
+,how we operate our assets as well as the role we play in Australia’s decarbonisation journey. We recognise that our stakeholders,,
+,"expect AGL to have strong and responsible transition plans that lead AGL towards a net zero future, accompanied by measurable",,
+,targets and transparent reporting. As we contribute to Australia’s decarbonisation through the responsible closure of our coal-fired,,
+,"power stations over time, we face significant rehabilitation obligations, which we undertake through various transition activities",,
+with careful monitoring and transparency.,,,
+Future low-carbon world,,,
+,"In September 2022, AGL published our inaugural Climate Transition Action Plan (2022 CTAP), committing to exit coal-fired",,
+,"generation by the end of FY35, up to a decade earlier than previously planned, as well as setting Scope 1 and 2 emissions",,
+,"reduction targets and ambitious renewable and firming portfolio commitments. Our second CTAP (2025 CTAP), published",,
+,"alongside this report, builds on the commitments, ambitions and targets set in our 2022 CTAP. Further information on our 2025",,
+,"CTAP, including a summary of the progress made against our commitments, is provided in the Climate-Related Disclosures section",,
+,of this report. The Climate-Related Disclosures section also provides further details on AGL’s approach to climate-related issues,,
+"including risks and opportunities, governance, strategy, and metrics and targets.",,,
+,"As Australia’s largest corporate emitter of greenhouse gases, the delivery of our decarbonisation strategy will have a material",,
+,impact on Australia’s emissions profile. In FY25 our Scope 1 and 2 emissions accounted for approximately 7% of Australia’s total,,
+,"emissions. This year, we exceeded our target of achieving a 17% reduction in Scope 1 and 2 emissions compared to FY19 baseline,",,
+,"achieving a 29.1% reduction. In FY25, over 95% of our Scope 1 and 2 emissions and approximately 55% of our total Scope 1, 2 and",,
+,"3 emissions arose from the combustion of black and brown coal in our coal-fired power stations to generate electricity, both for",,
+our customers and the broader National Electricity Market.,,,
+,"AGL’s Scope 1 and 2 emissions decreased by over 2 MtCO2e in FY25, due to a planned major outage at Loy Yang A Power",,
+,Station and unplanned minor outages at Bayswater Power Station. The emissions intensity of operated and contracted generation,,
+,decreased in FY25 due to a decrease in the proportion of coal-fired generation to renewable and gas-fired generation compared to,,
+,"FY24. Additionally, this was impacted by the commencement of the Rye Park PPA in April 2025.",,
+,"Further information on how we are transitioning our energy portfolio, including our development pipeline of renewable and",,
+,"firming projects and our integrated energy hubs developments, is available in the Assets scorecard. Information about how",,
+,"we are working with our customers, our people and our communities as we decarbonise is available in our Customer and",,
+Relationships scorecards.,,,
+,Target,FY25,FY24
+Scope 1 & 2 emissions (MtCO2e),,30.71,33.2
+Reduction in Scope 1 & 2 emissions compared to FY19 baseline,FY25-FY26: 17%,29.1%1,23.3%
+,FY27-FY34: 19%,,
+,FY35: 52%,,
+Operated and contracted generation intensity (tCO2e/MWh),Refer to,0.9081,0.936
+,Remuneration,,
+,Report,,
+Scope 3 emissions (MtCO2e),,23.21,25.82
+Emissions intensity of total revenue (ktCO2e/$m),,2.11,2.4
+Emissions intensity of electricity supplied (tCO2e/MWh),Refer to,0.8341,0.841
+,Remuneration,,
+,Report,,
+1.,Data for FY25 is estimated and based on material emission sources and estimates for non-material sources; any changes will be updated in the,,
+ESG Data Centre later in the year.,,,
+"2.
+FY24 performance has been restated to align with the updated calculation method in FY25.",,,
+,Green revenue and portfolio transition targets and performance are included in the Customer scorecard and Assets,,
+scorecard respectively.,,,
+Environmental stewardship,,,
+,AGL has a genuine commitment to operate in a responsible manner and has plans that are designed to reduce our environmental,,
+,impact through the continuous improvement of our environmental management practices and performance.,,
+,"In FY25, AGL delivered programs to maintain high standards of compliance with environment and planning legislation, protect and",,
+"conserve biodiversity, and improve cultural heritage practices:",,,
+•,"Biodiversity: As part of protecting and conserving biodiversity in the areas where we operate, during FY25, AGL commenced a",,
+
+=== Table 6 (page 69) ===
+"Key
+Complete
+In progress",Ongoing - met in FY25
+Commitment,Progress as at 30 June 2025
+Completed 2022 CTAP commitments,
+Closure of our coal-fired power stations: Liddell Power Station will,Liddell ceased generation in April 2023 and
+be closed by April 2023.1,decommissioning and rehabilitation has commenced.
+Carbon offsets: AGL will develop appropriate strategies for the use,
+,AGL has developed a company-wide Carbon Offsets
+"and/or origination of high-quality offsets, guided by the development of",
+,"Policy, available on our website."
+carbon markets over the coming years.,
+Scope 3 decarbonisation pathway: AGL will provide further details on,Our 2025 CTAP sets out ambitions and plans for our
+our Scope 3 decarbonisation pathway in our second CTAP.,Scope 3 decarbonisation pathway.
+2025 CTAP commitments2,
+Emissions reduction,
+Scope 1 and 2:,AGL's Scope 1 and 2 emissions reduced by 29.1%
+Target to achieve a reduction of 17% in gross annual Scope 1 and,in FY25 compared to FY19 baseline. Refer to the
+2 emissions3 compared to FY19 baseline2 from FY24-FY26 inclusive,"Environment scorecard, Assets scorecard and Section"
+following the closure of Liddell Power Station in FY23.,7.4 for more information.
+Scope 1 and 2:,
+Target to achieve a reduction of 19% in gross annual Scope 1,
+and 2 emissions compared to FY19 baseline2 each year from FY27-,
+FY34 inclusive.,
+Target to achieve a reduction of 52% in gross annual Scope 1 and 2,
+emissions compared to FY19 baseline by FY35 following the closure of,
+Bayswater Power Station.,
+Target to achieve a 90% reduction in gross annual Scope 1 and 2,
+emissions compared to FY19 baseline following the closure of AGL's,
+coal-fired power stations.4,
+Target to achieve net zero emissions following the closure of AGL's coal-,
+fired power stations.4,
+Scope 3:,"AGL is taking steps to transition our energy portfolio,"
+Ambition to reduce gross annual Scope 3 emissions by 60% compared,"which, in addition to reducing our Scope 1 and 2"
+to FY19 baseline following the closure of AGL’s coal-fired power stations.5,"emissions, will support decarbonisation of the grid"
+,and drive a reduction in our Scope 3 emissions from
+"Scope 1, 2 and 3:",
+,"electricity supply. Electrification is a key lever, and"
+"Ambition to reduce gross annual Scope 1, 2 and 3 emissions by 90%",
+,we are actively investing to support customers in
+"compared to FY19 baseline, by 2050.5",
+,transitioning away from gas.
+"Ambition of being Net Zero for Scope 1, 2 and 3 emissions by 2050.,5",
+
+=== Table 7 (page 71) ===
+For the year ended 30 June 2025,
+Commitment,Progress as at 30 June 2025
+Responsible policy advocacy and stakeholder engagement,
+We will publish submissions made on climate and related public,A summary of AGL positions on climate-related
+policy matters on our website (excluding those containing commercially,advocacy is available in the ESG Data Centre.
+sensitive information).,
+,Our policy submissions are published in the news
+"Annually we will disclose industry association memberships,",centre on our website.
+"membership fees, and areas where AGL's position on climate change",
+,AGL has not made any political donations in FY25.
+differs materially from the associations.11,
+,AGL continues to monitor the policy positions of
+We will not make any monetary or in-kind political donations to political,
+,industry associations of which we are a member
+"parties, either directly or through third parties, in accordance with our",
+,(refer to the ESG Data Centre).
+Political Donations Policy.,
+We will not provide funding or support to organisations or groups,
+that spread climate misinformation and/or actively lobby against,
+climate action.,
+Transparent reporting,
+We will report progress against the targets set in our Climate Transition,AGL has reported against our CTAP commitments in
+Action Plan through our Annual Report each year.,this document and obtained limited assurance over
+,our FY25 Scope 1 and 2 emissions. We have also
+"We will obtain independent assurance over our annual Scope 1, 2 and 3",
+,obtained limited assurance over our FY25 Scope 3
+emissions to allow progress against our emissions reduction targets and,
+,emissions associated with our supply of electricity to
+"ambitions to be verified. We will report on climate-related governance,",
+,"customers, supply and end use of gas by customers,"
+"risk management, strategy and metrics and targets through our Annual",
+,and supply of brown coal. These sources of Scope
+"Report each year, in line with incoming AASB S2 requirements that will",
+,3 emissions cover approximately 95% of our total
+apply to AGL from FY26.,
+,Scope 3 emissions.
+Creating value in a low-carbon world,
+Green revenue: Target of an increase in green revenue of 85% by FY27,The percentage of AGL's total revenue derived from
+compared to FY19 baseline.3,green energy and carbon neutral products and
+,"services in FY25 was 19.7%, an increase of 98%"
+
+=== Table 8 (page 71) ===
+"incentive (STI) and long- term incentive (LTI) plans to incentivise 
+plans so that delivery of AGL's decarbonisation"
+"executives and senior leaders on climate change objectives.
+objectives also deliver value for shareholders."
+"1.
+Performance against this commitment was assured in FY23."
+"2.
+Initiated or updated in AGL's 2025 CTAP. All targets, commitments and ambitions included in the 2025 CTAP supersede those outlined in our 2022 CTAP."
+"3.
+Performance against this commitment was assured in FY25."
+"4.
+Applies from the financial year following the closure of our coal-fired power stations, planned to be FY36. Loy Yang A Power Station is targeted to close by the"
+end of FY35.
+"5.
+Scope 3 FY19 baseline is 24.9 MtCO2e, comprising: supply of electricity to customers (5.2 MtCO2e), supply of natural gas to customers (9.4 MtCO2e), end use of"
+"coal sold to Loy Yang B (9.7 MtCO2e), and other Scope 3 emissions (0.6 MtCO2e)."
+"6.
+As outlined in our 2025 CTAP, as at the date of this report, AGL is currently in discussions with the South Australian Government regarding its request for"
+"AGL to extend the operation of the Torrens Island ‘B’ Power Station for two years. While the discussions have not yet resulted in a legally binding agreement,"
+"AGL has agreed in principle to the request and continues to engage constructively with the South Australian Government. This extension, if agreed, would not"
+impact AGL’s delivery of the commitments outlined in the CTAP in relation to emissions reduction targets or the approach to responsible transition.
+"7.
+Subject to market and regulatory conditions. Asset management plans have been structured to support the closure of Bayswater Power Station by the end"
+of 2033.
+"8.
+Asset management plans have been structured to support the targeted closure of Loy Yang A Power Station by the end of FY35. AGL has a Structured"
+Transition Agreement (STA) with the Victorian Government which provides for the closure of Loy Yang A Power Station by a scheduled closure date of 30 June
+"2035, and a framework for safeguarding the continued and reliable operation of Loy Yang A Power Station until its planned closure date."
+"9.
+This also includes CER."
+"10. Total grid-scale batteries operated, contracted or in delivery."
+
+=== Table 9 (page 74) ===
+Sustainability Report (Climate-Related Disclosures),
+For the year ended 30 June 2025,
+Capital allocation evolution,
+Period,Capital allocation for climate solutions
+FY26-30,70%
+FY31-35,64%
+FY26-35,67%
+"To meet our 12 GW energy portfolio transition ambition, grid-scale renewables and firming is expected to be supplied to AGL from projects",
+"developed and funded on AGL's balance sheet, utilising available debt capacity and operating cash flows, projects funded by third parties and",
+backed with offtakes from AGL and projects funded by partnerships and backed with offtakes from AGL.,
+"We expect grid-scale renewable generation to be mostly sourced via offtakes and partnerships, given the strong availability of capital for",
+these assets and the fair allocation of risks between the project and the offtaker.,
+Securing supply from renewable assets via offtakes allows AGL to optimise the deployment of our balance sheet capital. We estimate that,
+"approximately $10 billion will be funded on our balance sheet across the course of AGL’s energy portfolio transition, with this investment",
+heavily weighted towards firming assets. We expect to invest in a mix of short- and long-duration firming assets.,
+"In the longer term, the bulk of our balance sheet investment is intended to be made in long-duration firming assets, with AGL expecting to",
+invest across a range of project types.,
+AGL will also continue to deploy capital to support our retail business and existing thermal assets. Future investment in our existing thermal,
+"fleet will be important to deliver safety, flexibility, and availability until closure, recognising the critical role thermal generation plays in",
+providing reliable and affordable electricity during the energy transition.,
+7.2.4 Considering future costs of carbon,
+"As one of our strategic pillars, we factor ESG considerations into the work we do and the decisions we make to safeguard our business,",
+"access future opportunities, unlock strategic advantage and support long-term value creation. AGL’s enterprise-wide ESG decision-making",
+framework is used to promote consistency in how ESG issues are considered during decision-making processes and encourage early,
+"consideration of future emissions associated with new projects, products or acquisitions.",
+The potential future cost of carbon offsets is taken into consideration as part of our financial planning and capital approvals. We consider a,
+"range of carbon cost forecasts in our capital allocation decision-making, including to inform carbon investment and origination investment",
+,"decisions, as well as our net zero target cost forecasting. The carbon price used in estimating the costs of offsets to meet our target to be net"
+zero for Scope 1 and 2 emissions following the closure of our coal-fired power stations ranges from approximately $21/tCO2e to $23/tCO2e,
+"(nominal), sourced from third-party analysis that assumed a voluntary carbon market setting.",
+
+=== Table 10 (page 82) ===
+Cumulative customer assets installed (behind the meter) (MW),"147
+70
+Strategic target"
+Decentralised assets under orchestration (MW),"1,487
+1,249
+Strategic target"
+1.,Gross greenhouse gas emissions. The use of carbon offsets has not been accounted for.
+2.,"Data for FY25 is calculated for material emissions sources, with estimates for non-material sources, and may be subject to revision."
+3.,"Scope 3 emissions from electricity supplied to customers, as well as the portion of Scope 3 emissions from natural gas supplied to customers arising from"
+,"upstream natural gas production, transportation and distribution, fall within GHG Protocol Category 3 (Fuel- and energy-related activities). Scope 3 emissions"
+,"from the combustion of brown coal sold to Loy Yang B, as well as the portion of Scope 3 emissions from natural gas supplied to customers arising from the"
+,"end use of natural gas by customers, fall within GHG Protocol Category 11 (Use of sold products)."
+4.,Assurance was undertaken over the total of the three material categories of Scope 3 emissions (22.6 MtCO2e).
+5.,"Annual Scope 3 emissions are estimated, and the calculation methods continue to evolve each year to improve accuracy. Calculation method changes have"
+,been retrospectively applied. FY25 Scope 3 emissions are based on estimates for material emissions sources. The FY25 total includes an estimate for the
+,‘other’ category. ‘Other’ emissions for FY25 are not yet available and are reported 1 year in arrears.
+6.,"Scope 3 FY19 baseline is 24.9 MtCO2e, comprising material emissions totalling 24.3 MtCO2e (supply of electricity to customers (5.2 MtCO2e), supply of natural"
+,"gas to customers (9.4 MtCO2e), end use of coal sold to Loy Yang B (9.7 MtCO2e)), and other Scope 3 emissions (0.6 MtCO2e)."
+7.,"In June 2024, AGL and Tilt Renewables agreed to terminate agreements pursuant to which AGL provided asset management and agency and dispatch"
+,"services in respect of certain assets owned by Tilt Renewables, namely the Nyngan Solar Plant, Broken Hill Solar Plant, Coopers Gap Wind Farm and Silverton"
+,"Wind Farm. AGL has not operate these facilities since June 2024 onward, but will continue to have offtake agreements to contract generation from these"
+,assets. This is to be noted when making year on year comparisons of AGL's performance.
+8. Most recent target set under the FY23 LTI Plan offer in the FY22 Remuneration Report.,
+
+=== Table 11 (page 82) ===
+,Sustainability Report (Climate-Related Disclosures),,,
+For the year ended 30 June 2025,,,,
+7.4 Metrics and targets,,,,
+AGL is committed to transparently disclosing climate-related metrics and targets to provide stakeholders with information on our,,,,
+,"greenhouse gas emissions performance and progress. AGL uses several metrics to measure our emissions and climate-related impacts, and",,,
+,"discloses this information publicly through this report, our ESG Data Centre, and numerous investor-led surveys and benchmark initiatives.",,,
+,AGL also reports emissions to the Clean Energy Regulator to meet the requirements of Australia's National Greenhouse and Energy Reporting,,,
+Act 2007 (NGER Act). Definitions of relevant terms can be found in the Glossary.,,,,
+7.4.1 Metrics,,,,
+,Key climate-related metrics are discussed in the Environment scorecard and summarised in the table below. Additional breakdowns of,,,
+,emissions data as well as other climate-related metrics developed to measure progress against our climate-related targets can be found in,,,
+,"the ESG Data Centre. Further information on the boundary, methodology, inputs and assumptions associated with calculating our Scope 1, 2",,,
+,and 3 greenhouse gas emissions for AGL’s material sources are outlined in section 7.5.1 and 7.5.4.,,,
+,FY25,FY24,FY25 assurance,Commitments
+Scope 1 and 2 emissions1,,,,
+Scope 1 (MtCO2e),30.42,32.9,,CTAP target
+Scope 2 (location-based) (MtCO2e),0.252,0.26,,CTAP target
+Scope 2 (market-based) (MtCO2e),0.252,0.25,Yes,N/A
+Scope 1 and Scope 2 (location-based) (MtCO2e),30.72,33.2,Yes,CTAP target
+Reduction in annual Scope 1 and 2 emissions compared to FY19,,,,
+,29.12,23.3,Yes,CTAP target
+baseline (%),,,,
+Scope 3 emissions1,,,,
+Scope 3 - supply of electricity to customers (MtCO2e)3,6.9,8.2,Yes4,CTAP ambition
+Scope 3 - supply of natural gas to customers (MtCO2e)3,5.7,6.1,Yes4,CTAP ambition
+Scope 3 - end use of coal sold to Loy Yang B (MtCO2e)3,10.0,10.2,Yes4,CTAP ambition
+Scope 3 - other (MtCO2e),0.6,1.3,,CTAP ambition
+Scope 3 - Total (MtCO2e)5,23.2,25.8,,CTAP ambition
+"Reduction in Scope 3 emissions compared to FY19 baseline (%)2,6",7.0,Not,,CTAP ambition
+,,reported,,
+Emissions intensity,,,,
+Operated generation intensity (tCO2e/MWh)7,0.982,0.94,,N/A
+Operated and contracted generation intensity (tCO2e/MWh),0.9082,0.936,Yes,LTI plan target8
+Emissions intensity of electricity supplied (tCO2e/MWh),0.834,0.841,,LTI plan target8
+Proportion of generation output and capacity from renewables,,,,
+Operated renewable and electricity storage capacity (%)7,24.7,24.7,,N/A
+Operated and contracted renewable generation and storage,34.5,32.8,Yes,LTI plan target8
+capacity (%),,,,
+"Total grid-scale batteries operated, contracted or in delivery (MW)","1,200","1,000",,CTAP & strategic target
+New renewable and firming capacity (MW),"1,178",978,Yes,CTAP & strategic target
+Revenue related metrics,,,,
+Emissions intensity of total revenue (ktCO2e/$m),2.1,2.4,Yes,N/A
+Green revenue as a % of total revenue (%),19.7,19.3,Yes,LTI plan target8
+Increase in green revenue from FY19 (%),98,83,,Strategic target
+Customer decarbonisation,,,,
+Cumulative customer assets installed (behind the meter) (MW),147,70,,Strategic target
+Decentralised assets under orchestration (MW),"1,487","1,249",,Strategic target
+"1.
+Gross greenhouse gas emissions. The use of carbon offsets has not been accounted for.",,,,
+2.,"Data for FY25 is calculated for material emissions sources, with estimates for non-material sources, and may be subject to revision.",,,
+3.,"Scope 3 emissions from electricity supplied to customers, as well as the portion of Scope 3 emissions from natural gas supplied to customers arising from",,,
+,"upstream natural gas production, transportation and distribution, fall within GHG Protocol Category 3 (Fuel- and energy-related activities). Scope 3 emissions",,,
+,"from the combustion of brown coal sold to Loy Yang B, as well as the portion of Scope 3 emissions from natural gas supplied to customers arising from the",,,
+,"end use of natural gas by customers, fall within GHG Protocol Category 11 (Use of sold products).",,,
+4.,Assurance was undertaken over the total of the three material categories of Scope 3 emissions (22.6 MtCO2e).,,,
+5.,"Annual Scope 3 emissions are estimated, and the calculation methods continue to evolve each year to improve accuracy. Calculation method changes have",,,
+,been retrospectively applied. FY25 Scope 3 emissions are based on estimates for material emissions sources. The FY25 total includes an estimate for the,,,
+,‘other’ category. ‘Other’ emissions for FY25 are not yet available and are reported 1 year in arrears.,,,
+6.,"Scope 3 FY19 baseline is 24.9 MtCO2e, comprising material emissions totalling 24.3 MtCO2e (supply of electricity to customers (5.2 MtCO2e), supply of natural",,,
+,"gas to customers (9.4 MtCO2e), end use of coal sold to Loy Yang B (9.7 MtCO2e)), and other Scope 3 emissions (0.6 MtCO2e).",,,
+7.,"In June 2024, AGL and Tilt Renewables agreed to terminate agreements pursuant to which AGL provided asset management and agency and dispatch",,,
+,"services in respect of certain assets owned by Tilt Renewables, namely the Nyngan Solar Plant, Broken Hill Solar Plant, Coopers Gap Wind Farm and Silverton",,,
+,"Wind Farm. AGL has not operate these facilities since June 2024 onward, but will continue to have offtake agreements to contract generation from these",,,
+assets. This is to be noted when making year on year comparisons of AGL's performance.,,,,
+8. Most recent target set under the FY23 LTI Plan offer in the FY22 Remuneration Report.,,,,
+
+=== Table 12 (page 83) ===
+"Key
+Short-term (1-4 years)",,Medium-term (5-10 years),Long-term (10+ years)
+Metric,Commitment,Time horizon,Alignment with strategic objectives
+FY26 Long-Term Incentive (LTI) plan1,,,
+New renewable and,,,
+,FY29: 4.5 GW to ≥5.2 GW2,,Transitioning our energy portfolio
+firming capacity,,,
+Emissions intensity of,FY29: 0.814 tCO2e/MWh to,,Transitioning our energy portfolio
+electricity supplied,≤0.799 tCO2e/MWh,,Connecting every customer to a sustainable future
+2025 CTAP,,,
+,By the end of 2033: Bayswater,,
+,,,Transitioning our energy portfolio
+Closure of our coal-fired,Power Station,,
+power stations,By end of FY35: Loy Yang A,,
+,,,Transitioning our energy portfolio
+,Power Station,,
+,FY24 - FY26: 17%3,,Transitioning our energy portfolio
+,FY27 - FY34: 19%3,,Transitioning our energy portfolio
+Reduction in annual Scope 1,,,
+and 2 emissions compared to,FY35: 52%3,,Transitioning our energy portfolio
+FY19 baseline,,,
+,Following closure of our coal-fired,,
+,,,Transitioning our energy portfolio
+,power stations: ≥90%3,,
+,Following closure of our coal-fired,,
+,,,Transitioning our energy portfolio
+,power stations: Net zero,,
+,,,Transitioning our energy portfolio
+"Reduction in Scope 1, 2",2050: 90%3 (ambition),,
+,,,Connecting every customer to a sustainable future
+and 3 emissions compared to,,,
+,,,Transitioning our energy portfolio
+FY19 baseline,2050: Net zero (ambition),,
+,,,Connecting every customer to a sustainable future
+Reduction in Scope 3 emissions,Following closure of our coal-fired,,Transitioning our energy portfolio
+compared to FY19 baseline,power stations: 60%3 (ambition),,Connecting every customer to a sustainable future
+,FY30: 6 GW2,,Transitioning our energy portfolio
+New renewable and,,,
+firming capacity,By the end of 2035: 12,,
+,,,Transitioning our energy portfolio
+,"GW (ambition)2,4",,
+Total grid-scale batteries,,,
+"operated, contracted or",FY30: At least 3 GW,,Transitioning our energy portfolio
+in delivery,,,
+Demand-side flexibility,FY27: 2.5 GW (ambition),,Connecting every customer to a sustainable future
+
+=== Table 13 (page 85) ===
+information in this section of the Annual Report is perceived are set out below.,,,
+,"Estimate,",,
+,judgement,,
+Section,or assumption,Methodology,Potential impact
+7.3,Materiality process,Judgements are made in the process of identifying,The boundary of climate-related
+,,material information to report on climate-related risks and,risks and opportunities is reliant
+,,"opportunities, and setting a threshold(s) for materiality.",upon a reasonable and justifiable
+,,,"materiality threshold being selected,"
+,,,and an appropriate aggregation or
+,,,disaggregation of risks and opportunities.
+7.2.1,Calculation,Emissions data is measured in accordance with the,The accuracy of generation intensity
+,methods for,"NGER scheme from material sources, which make up",calculations is contingent upon the
+7.4,,,
+,operated,"approximately 99% of total Scope 1 and 2 emissions,",quality of data and accuracy of
+,generation,with estimates for minor sources based on generation,application of the operational boundary.
+,intensity,volumes and previous year’s intensity. Generation volumes,
+,,are measured as sent out volumes.,
+,Calculation,,
+,methods for,AGL’s operated boundary includes any grid-connected,
+,operated and,electricity generation asset (excluding behind the meter,
+,contracted,"assets) which AGL has operational control of, as defined",
+,generation,by the National Greenhouse and Energy Reporting Act,
+,intensity,2007 (Cth).,
+,,AGL’s operated and contracted boundary includes any grid-,
+,,connected electricity generation asset (excluding behind the,
+,,"meter assets) which AGL has operational control of, as",
+,,defined by the National Greenhouse and Energy Reporting,
+,,Act 2007 (Cth); or in respect of which AGL has virtual or,
+,,"physical offtake or nomination rights, in proportion to AGL's",
+,,share of such rights.,
+7.2.1,Calculation,Input estimations are used for in the calculation of Scope 3,The accuracy of emissions calculations is
+,methods for Scope,"emissions, including standard emissions factors.",contingent upon the quality of data and
+7.4,,,
+,3 emissions,,the appropriateness of the estimates and
+,,,assumptions used.
+7.2.1,Greenhouse,Calculation of the Scope 1 and 2 emissions in the Group’s,AGL is committed to continuously
+,gas emissions,"inventory is disaggregated, with a combination of the",improving the accuracy of these metrics.
+7.4,,,
+,measurement,‘top-down’ and ‘bottom-up’ approaches (by sites and type,
+,,,We are investing in improving data
+,and reporting,"of equipment when available), using mass balance and",
+,,,"collection and reporting systems,"
+,,"emissions factors for each type of input and activity, and for",
+,,,engaging with sites to obtain more
+,,each of the states where AGL operates. The majority of the,
+,,,"precise data, and participating in"
+,,"data is collected and analysed monthly, including the use of",
+,,,industry working groups to refine the
+,,"fuel logs, invoices and meter readings.",
+,,,methodologies for calculating value
+,,"Monthly generation, electricity and gas sales data and coal",chain emissions.
+,,sales and quality data is used for the calculation of Scope,
+,,"3 emissions arising from electricity supply, gas supply and",
+,,brown coal supply.,
+7.3,Value,The upstream and downstream value chain was considered,The disclosure of outcomes of climate-
+,chain estimation,"using all reasonable and supportable information, to inform",related risks and opportunities is
+,,our assessment of AGL's material climate-related financial,dependent upon reasonable and
+,,risks and opportunities.,justifiable inputs.
+
+=== Table 14 (page 89) ===
+Sustainability Report (Climate-Related Disclosures)
+For the year ended 30 June 2025
+Further controls and mitigation
+AGL’s management of climate-related physical risks is grounded in our commitment to being net zero for Scope 1 and 2 emissions following
+the closure of our coal-fired power stations. This commitment along with others outlined in our CTAP are intended to progress and support
+action on climate change to limit warming.
+Through these measures AGL aims to contribute to the mitigation of climate-related physical hazards and the avoidance of a high-warming
+"outcome as modelled in Scenario C. More specifically, AGL’s physical hazards are controlled and managed through AGL’s risk management"
+process as outlined in Section 2.3.
+"AGL’s asset portfolio is resilient to direct physical risks in part through its geographic distribution, which acts to dilute the impact of"
+"location-specific acute impacts. The generation fleet is also technologically diverse, which provides increased resilience to the impacts of"
+"specific physical effects, such as temperature increases on generation efficiency. In addition, water rights and supply security allow for"
+certainty even in extensive drought conditions.
+"AGL currently has comprehensive mitigation strategies in place in relation to bushfires and water security, as detailed in our FY23 TCFD"
+Report which is available on our website.
+7.5.4 Measurement of greenhouse gas emissions
+"The table below outlines the boundary, methodology, inputs and assumptions associated with calculating our Scope 1, 2 and 3 greenhouse"
+"gas emissions for AGL’s material sources, as set out in Section 7.4.1."
+Scope 1 and 2 emissions are prepared in accordance with the National Greenhouse and Energy Reporting Act 2007. Immaterial Scope 1
+sources have been calculated using Method 1 as stipulated for each emissions source in the National Greenhouse and Energy Reporting
+(Measurement) Determination 2008 (the Determination).1Scope 3 emissions estimates use methodologies which are aligned with the GHG
+Protocol: Corporate Value Chain (Scope 3) Accounting and Reporting Standard.
+
+=== Table 15 (page 89) ===
+,sources have been calculated using Method 1 as stipulated for each emissions source in the National Greenhouse and Energy Reporting,,,,
+,(Measurement) Determination 2008 (the Determination).1Scope 3 emissions estimates use methodologies which are aligned with the GHG,,,,
+Protocol: Corporate Value Chain (Scope 3) Accounting and Reporting Standard.,,,,,
+Emissions,,,Data quality &,,Emission factors & global
+category,Activity,Data sources,uncertainty,Methodology,warming potential sources
+Scope 1,,,,,
+Combustion of,Combustion of,Weightometer data,High quality,Emissions calculated in,Emission factors are taken
+solid fuels,bituminous,Totaliser data,,accordance with Division,from Schedule 1 of
+,,,Uncertainty,,
+,coal for the,Ultrasonic,,2.2.3 of the Determination.,the Determination.
+,,,calculated at,,
+,purpose of,detector data,,,
+,,,~2.5%,Uncertainty assessed in,Global warming potentials are
+,generating,Coal quality,,,
+,,,,accordance with Chapter 8,taken from Division 2.2 of the
+,electricity,report Invoices,,,
+,,,,of the Determination.,National Greenhouse and Energy
+,Combustion of,Weightometer data,High quality,,
+,,,,,Reporting Regulations 2008.
+,brown coal for,Totaliser data,,,
+,,,Uncertainty,,
+,the purpose of,Ultrasonic,,,
+,,,calculated at,,
+,generating,detector data,,,
+,,,~1%,,
+,electricity,Coal quality report,,,
+Combustion of,Combustion of,Gas quality report,High quality,Emissions calculated in,Emission factors are taken
+gaseous fuels1,natural gas,Gas,,accordance with Division,from Schedule 1 of
+,,,Uncertainty,,
+,distributed in a,consumption report,,2.2.3 of the Determination.,the Determination.
+,,,calculated at,,
+,pipeline for the,Delivery report,,,
+,,,between 0.5,Uncertainty assessed in,Global warming potentials are
+,purposes of,Meter data Invoices,,,
+,,,and 10%,accordance with Chapter 8,taken from Division 2.2 of the
+,generating,,,,
+,,,,of the Determination.,National Greenhouse and Energy
+,electricity,,,,
+,,,,,Reporting Regulations 2008.
+Scope 2 (location-based),,,,,
+Purchased,Purchase of,NEM,High quality,Emissions calculated in,Emission factors are taken
+electricity,electricity from,settlements data,,accordance with Section,from Schedule 1 of
+,,,Low,,
+,main electricity,Invoices,,7.2 of the Determination.,the Determination.
+,,,uncertainty,,
+,grid,,,,
+,,,,The accuracy of electrical,
+
+=== Table 16 (page 90) ===
+For the year ended 30 June 2025,,,,,
+Emissions,,,Data quality &,,Emission factors & global
+category,Activity,Data sources,uncertainty,Methodology,warming potential sources
+Scope 3,,,,,
+GHG Protocol,Supply of,Annual electricity,Based on,In accordance with,Department of Climate
+Category 3:,electricity to,sales volumes,actual sales,GHG Protocol Technical,"Change, Energy, the"
+Fuel - and,customers,by state,data and,Guidance for Calculating,Environment and Water –
+energy-related,,Annual pool,standard,"Scope 3 Emissions, a sum",National Greenhouse Accounts
+activities,,generation volumes,emission,of the following categories:,(NGA) Factors
+,,by state,factors,,
+,,,,• Upstream emissions of,
+,,Electricity loss factors,,,
+,,,,purchased fuels;,
+,,by state,,,
+,,,,• Upstream emissions of,
+,,Fuel quantities as,,,
+,,,,purchased electricity;,
+,,reported for NGER,,,
+,,,,"•
+Transmission and",
+,,,,distribution losses;,
+,,,,• Generation of,
+,,,,purchased electricity,
+,,,,that is sold to end users.,
+,Supply of,Annual gas sales,Based on,In accordance with,Department of Climate
+,natural gas to,volumes by state,actual sales,GHG Protocol Technical,"Change, Energy, the"
+,customers,,data and,Guidance for Calculating,Environment and Water –
+,,,standard,"Scope 3 Emissions, a sum",National Greenhouse Accounts
+,,,emission,of the following categories:,(NGA) Factors;
+,,,factors,,
+,,,,• Upstream emissions of,
+,,,,,Paris Agreement inventory
+,,,,purchased fuels;,
+,,,,"•
+Transmission and",
+,,,,distribution losses.,
+,,,,Fugitive emissions from,
+,,,,low-pressure distribution,
+,,,,pipelines calculated,
+,,,,in accordance with,
+,,,,the Determination.,
+GHG Protocol,End use of,Annual gas sales,Based on,In accordance with,Department of Climate
+Category 11:,natural gas by,volumes by state,actual sales,GHG Protocol Technical,"Change, Energy, the"
+Use of sold,customers,,data and,Guidance for Calculating,Environment and Water –
+products,,,standard,Scope 3 Emissions.,NGA Factors
+,,,emission,,
+,,,factors,,
+,End use of coal,Coal,Based on,In accordance with,Emission factors calculated
+,sold to Loy,volumes delivered,actual sales,GHG Protocol Technical,in accordance with
+,Yang B,Loy Yang A - Monthly,data and,Guidance for Calculating,the Determination
+,,CO2 emissions factor,assumed,Scope 3 Emissions.,
+,,,emission,,
+,,,factors,,
+Other,Other,Business-related,Based on,In accordance with,Climate Active emission factors
+categories,(business,activity data,estimates and,GHG Protocol Technical,
+,"travel, waste,",associated with each,standard,Guidance for Calculating,
+,investments),of the relevant 15,emission,Scope 3 Emissions. Other,
+,,GHG Protocol Scope,factors,Scope 3 emissions are,
+,,3 categories,,considered immaterial to,
+,,,,AGL’s overall emissions,
+,,,,profile and are calculated,
+,,,,1 year in arrears.2,
+
+=== Table 17 (page 110) ===
+AGL's strategy including commitments in the CTAP.,,
+• Metrics are measured either over the performance period or based on performance at the end of the period.,,
+,Performance is tested once at the end of the performance period to determine the vesting outcome.,
+Carbon,Description,Link to strategy
+transition,,
+measure,,
+Emissions,Measured as the emissions (tCO2e) associated with,Incentivises reducing the
+intensity of,the maximum of AGL's electricity supply to the,proportion of electricity to meet
+electricity,"wholesale or retail market by state, as a proportion",customer demand that is sourced
+supplied in FY28,of that same volume (MWh).,"from coal-fired generation, as well"
+,,as the expansion of operated
+,,and contracted renewable and
+,,"firming capacity, and increasing"
+,,customer electrification.
+New renewable,Measured as new renewable and firming capacity,Aligns to AGL’s strategy to
+and firming,"in construction, delivered or contracted from 1 July",transition its energy portfolio.
+capacity from,2022 to 30 June 2028.,Delivery of new renewable and
+1 July 2022 to,,firming capacity is key to enabling
+30 June 2028,,AGL's responsible exit of coal-fired
+,,power stations in the targeted
+,,timeframes to meet the long-term
+,,Scope 1 and 2 net zero target.
+Revenue uplift of,Increase in revenue from green energy and,Aligns to AGL's commitment to
+green energy,carbon neutral products and services from FY19,connect every customer to a
+and carbon,base. Green energy revenue represents: green,sustainable future.
+neutral products,revenue including state-based green schemes;,
+
+=== Table 18 (page 116) ===
+Remuneration Report
+For the year ended 30 June 2025
+Table 9.3.2.2: Actual FY25 STI outcomes
+"Total STI
+Restricted
+Total STI paid as
+Total STI forfeited as"
+"award
+Cash
+Shares
+a % of maximum 
+a % of maximum"
+"Executive
+$
+$1
+$2
+opportunity
+opportunity"
+"D Nicks
+1,276,500
+638,250
+638,250
+68.1%
+31.9%"
+"M Brokhof3
+688,335
+688,335
+-
+84.9%
+15.1%"
+"J Egan
+455,364
+341,523
+113,841
+69.5%
+30.5%"
+"G Brown
+460,712
+345,534
+115,178
+72.2%
+27.8%"
+"1.
+To be paid on 15 September 2025."
+"2.
+To be allocated once the full-year financial results have been disclosed to the market, generally in August/September 2025."
+"3.
+Due to Mr Brokhof's pending cessation of employment on 15 September 2025, being the payment date, his STI award will be delivered as 100% cash (no"
+deferral component).
+9.3.3 LTI outcomes
+FY22 LTI grant - vested during FY25
+"In assessing outcomes under the LTI, the Board assessed the quality of the results and the manner in which they were achieved and ensured"
+that outcomes were aligned with the experience of AGL’s shareholders over the performance period.
+The vesting outcome of the FY22 LTI grant offer (performance period of 1 July 2021 to 30 June 2025) is detailed below.
+"Metric
+Vesting schedule
+Outcome
+Commentary"
+"Relative TSR
+Straight-line vesting between 
+59.09th 
+AGL's relative TSR performance over the"
+"(75%)
+50-100% for 50th to 
+percentile
+four-year performance period was at the"
+"75th percentile
+59.09th percentile, resulting in a 68%"
+68% vesting
+vesting outcome.
+Carbon transition (25%)
+"Operated and contracted 
+Straight-line vesting between 
+0.908
+The operated and contracted generation"
+"generation intensity (measured as 
+50-100% for operated and 
+tCO2e/MWh
+intensity was 0.908 tCO2e/MWh, resulting"
+"AGL’s Scope 1 and 2 emissions 
+contracted generation intensity at 
+in a nil vesting outcome."
+0% vesting
+"(tCO2e) as a proportion of total sent 
+30 June 2025 of 0.885 tCO2e/MWh"
+"out generation (MWh))
+to 0.823 tCO2e/MWh"
+"Operated and contracted renewable 
+Straight-line vesting between 
+34.46% outcome
+The operated and contracted renewable"
+"and electricity storage capacity 
+50-100% for operated and 
+and electricity storage capacity"
+84% vesting
+"(measured as the proportion 
+contracted renewable and 
+was 34.46%, resulting in a 84%"
+"of total owned, operated and 
+electricity storage capacity at 
+vesting outcome."
+"contracted renewables and storage 
+30 June 2025 between 29.4%"
+"electricity capacity (MW) in AGL's 
+and 36.9%"
+total operated and contracted
+generation capacity and electricity
+storage capacity (MW))
+"Percentage of total revenue derived 
+Straight-line vesting between 
+19.7% outcome
+The percentage of total revenue derived"
+"from green energy and carbon 
+50-100% for green energy and 
+from green energy and carbon neutral"
+79% vesting
+"neutral products and services
+carbon neutral products and 
+products and services was 19.7%,"
+"services in FY25 between 16.5% 
+resulting in a 79% vesting outcome."
+and 22.1%
+"The combined vesting outcome 
+64.6% vesting"
+for the FY22 LTI grant is:
+
+=== Table 19 (page 221) ===
+Selected Annual KPI scorecard disclosures,,,,
+Performance data in respect of selected Annual KPI Scorecard Disclosures for the period 1 July 2024,,,,
+to 30 June 2025 within the Business Value Driver key performance indicators.,,,,
+Customers:,,,,
+,,,,9 and 28
+•,Number of customers on Staying Connected,,,
+,,,,9 and 28
+•,"Average 
+level  of  debt  of  customers  on  Staying",,,
+,Connected ($),,,
+,,,,"9, 30 and 79"
+•,Green revenue as a % of total revenue (%),,,
+Assets:,,,,
+,,,,9 and 31
+•,Operated  and  contracted  renewable  generation,,,
+,and storage capacity (%),,,
+People:,,,,
+,,,,9 and 33
+•,TIFR employees,,,
+,,AGL’s,definitions,
+,TIFR (employees + contractors),,,9 and 33
+•,,,and approaches as,
+,,described,"in 
+the",
+,,,,9 and 33
+•,Fatalities (employees + contractors),,,
+,,,"“Glossary""  section",
+,,,,9 and 35
+•,Key talent retention (%),,,
+,,"of 
+2025",Annual,
+,Material breaches of Code of Conduct,,,9 and 35
+•,,,Report  on  pages,
+,,201-205,,
+Relationships:,,,,
+,,respectively.,,
+,,,,9 and 36
+•,Community contribution ($ mln),,,
+Environment:,,,,
+,,,,"9, 38 and 79"
+•,Scope 1 & 2 emissions (MtCO2e),,,
+,,,,"9, 38 and 79"
+•,Reduction in Scope 1 & 2 emissions compared to,,,
+,FY19 baseline (%),,,
+,,,,"9, 38 and 79"
+•,"Operated  and  contracted  generation 
+intensity",,,
+,(tCO2e/MWh),,,
+,,,,"9, 38 and 79"
+•,Emissions intensity of total revenue (ktCO2e/$m),,,
+,,,,9 and 39
+•,Environmental Regulatory Reportable incidents,,,
+
+=== Table 20 (page 222) ===
+,,,9 and 42
+"Reportable privacy incidents 
+•",,,
+Selected Climate-related disclosure metrics,,,
+The performance data in respect of selected  Climate-related disclosure metrics for the period 1,,,
+July 2024 to 30 June 2025 within the Climate-Related Disclosures section,,,
+,AGL’s,definitions,79
+"Market-based Scope 2 emissions (MtCO2e) 
+•",,,
+,,and approaches as,
+,described,"in 
+the",
+,,"“Glossary "" section",
+,,,"9, 31 and 79"
+"New renewable and firming capacity (MW) 
+•",,,
+,"of 
+2025",Annual,
+,,Report  on  pages,
+,201-205,,
+
+=== Table 21 (page 222) ===
+,respectively.,
+Scope 3 disclosures,,
+The performance data in respect of selected Scope 3 disclosures and performance for the reporting,,
+periods specified below within the Climate-Related Disclosures section,,
+Scope 3 emissions (MtCO2e) calculated for the period 1 July,,79
+"2024 
+to  30 
+June  2025  comprising  of 
+the  aggregated",,
+following categories as a total:,,
+"Scope  3  emissions  associated  with 
+supply  of 
+•",,
+electricity to customers,,
+,"AGL’s 
+definitions",
+"Scope  3  emissions  associated  with 
+supply  of 
+•",,
+natural gas to customers,and approaches as,
+,"described 
+in 
+the",
+"Scope 3 emissions associated with end use of coal 
+•",,
+sold to Loy Yang B,"“Glossary""  section",
+Baseline  Scope  3  emissions  (MtCO2e)  calculated  for  the,"of 
+2025 
+Annual",79
+period  1  July  2018  to  30  June  2019  comprising  of  the,Report  on  pages,
+aggregated following categories as a total:,201-205,
+,respectively.,
+"Scope  3  emissions  associated  with 
+supply  of 
+•",,
+electricity to customers,,
+"Scope  3  emissions  associated  with 
+supply  of 
+•",,
+natural gas to customers,,
+"Scope 3 emissions associated with end use of coal 
+•",,
+sold to Loy Yang B,,
+
+=== Table 22 (page 230) ===
+Glossary,
+Term,Explanation
+Emissions intensity,
+,Measured as the emissions (tCO2e) associated with the maximum of either AGL's electricity supply to the
+of electricity supplied,
+,"wholesale retail market by state, as a proportion of that same volume (MWh)."
+(tCO2e/MWh),
+Emissions intensity,Total Scope 1 and 2 emissions from facilities over which AGL had operational control 1during the period
+of total revenue,"divided by AGL’s total revenue. Emissions data is based on measured emissions from material sources, which"
+(ktCO2e/$million),"make up approximately 99% of total Scope 1 and 2 emissions, with estimates for minor sources."
+Employee engagement,"Engagement scores are calculated using the Aon Hewitt’s Employee Engagement Model, utilising the ORC"
+,"International methodology. From FY20, engagement is measured using the Culture Amp platform, with the"
+,methodology applied in the calculation of the scores being consistent with prior years. Southern Phone
+,"and Perth Energy employees (acquired during FY20) are included from FY21. Click Energy, Solgen and"
+,"Epho employees (acquired during FY21) are included from FY22. From FY25, Data includes employees from"
+,Energy360 (26 employees). Data does not include OVO employees (acquired during FY25) or employees from
+,"Southern Phones, as the payroll data system used by this business is not fully integrated with AGL’s systems."
+Environmental,"Up to and including FY22, ERR comprised incidents that trigger mandatory notification provisions under"
+regulatory reportable,legislation and/or environmental licences.  In FY23 there was a change to the Environmental Regulatory
+incidents (ERR),Reportable (ERR) incidents definition.
+,"From FY23, an ERR incident is any Event that meets the notification criteria of a Regulatory Authority and"
+,may include: an Event that caused actual or potential material or serious environmental harm; a breach of an
+,environmental licence condition that is not an administrative non-compliance; and monitoring unable to be
+,completed due to availability of plant or specialist. An ERR incident may include events that have occurred on
+,AGL managed site by an independent party. This definition change has resulted in an increase in ERR events
+,reported as it comprises previous ERR and Voluntarily Regulatory Reportable (VRR) events into one figure.
+Equivalent availability,"EAF measures the percentage of rated capacity available to the market. Power stations comprise Liddell,"
+factor (EAF) - all fleet,"Bayswater, Loy Yang A, Torrens Island A and B, and Somerton power stations, AGL’s hydroelectric power"
+,"stations, and wind and solar farms under AGL’s operational control. Battery Assets is included from FY24"
+,"onwards and comprises of Dalrymple, Wandoan, Torrens BESS with Broken Hill BESS FY25 onwards. Barker"
+,Inlet Power Station is included from FY21; Silverton and Coopers Gap wind farms are included from FY22.
+,Kwinana Swift Power Station is included from FY23. Site EAF is weighted by megawatt (MW) capacity.
+Equivalent availability,"EAF measures the percentage of rated capacity available to the market. Power stations comprise Liddell,"
+factor (EAF) - thermal,"Bayswater, Loy Yang A, Torrens Island B, Somerton, Barker Inlet and Kwinana Swift Power Station. Site EAF is"
+and gas generation fleet,weighted by megawatt (MW) capacity.
+Gender mix in senior,"The SLP refers to employees in Management Groups A, B and ELT in accordance with AGL's Position"
+leadership pipeline (SLP),Framework. These are equivalent to Hay Level roles 18 and above. Employees from Perth Energy (acquired
+,during FY20) and Click Energy (acquired during FY21) are included from FY21. Employees from Southern
+,"Phone Company (acquired during FY20), Solgen and Epho (both acquired during FY21) are included"
+,from FY22. Employees from Energy360 (acquired during FY22) are included from FY25. Data does not
+,"include employees from Ovo Energy Australia (acquired during FY25), as the payroll data system used"
+,by this business is not fully integrated with AGL’s systems. Data up to and including FY22 included the
+,Executive Team.
+Green revenue as a % of,"The percentage of total revenue derived from green energy and carbon neutral products and services, based"
+total revenue (%),on the following:
+,• Total revenue represents AGL’s total reported revenue.
+,• Green energy revenue represents: green revenue including state-based green schemes; Renewable Energy
+,Target (RET) revenue from green charges passed through to customers; and other revenue from state-based
+,charges passed through to customers.
+Green revenue -,
+,"AGL's FY19 green revenue was 10.8% of total revenue, which has been taken as the baseline year."
+FY19 baseline,
+Grid-scale batteries,
+,"This represents the registered battery capacity used in the AGL portfolio that AGL owns and manages, or has"
+installed and,
+,the contracted right to control the dispatch of.
+managed (MW),
+Inclusion Index,The Inclusion Index is a measure of AGL’s Diversity & Inclusion Strategy's performance. The Inclusion Index
+,is calculated as the percentage of favourable responses to five key inclusion questions in AGL's annual
+,"Employee Listening Survey, using Culture Amp’s Inclusion Factor."
+Increase in green,
+revenue from FY19 /,
+,Increase in AGL's revenue from green energy and carbon neutral products and services compared to FY19
+Revenue uplift of green,
+,baseline. Green energy revenue represents: green revenue including state-based green schemes; Renewable
+energy and carbon,
+,Energy Target (RET) revenue from green charges passed through to customers; and other revenue from
+neutral products &,
+,state-based charges passed through to customers.
+services compared to,
+
+=== Table 23 (page 231) ===
+Term,Explanation
+Key talent retention,The performance measure relates to employees identified as key talent per AGL's talent processes from AGL’s
+,enterprise leadership team (ELT) and direct reports. Employees from Southern Phone Company (acquired
+,during FY20) and Ovo Energy Australia employees (acquired during FY25) are not included as they were not
+,"fully integrated into AGL's human resource systems as of 30 June 2024. Employees from Click Energy, Solgen"
+,and Epho (all acquired during FY21) are included from FY22. Employees from Energy360 (acquired during
+,FY22) are included from FY25. Talent identification and classification processes are subject to change from
+,year to year.
+Major IT incidents,"Data relates to the number of major IT incidents impacting a technology service, system, network or"
+,application ranked as ‘critical’ or ‘high’ in accordance with AGL’s IT incident management processes. A
+,"'critical' IT incident refers to a complete interruption of service, system, network, application or configuration"
+,"item identified as critical. A 'high' IT incident applies when the service, system, network, application or"
+,configuration item can perform but where performance is significantly reduced and/or with very limited
+,functionality. Operations can continue in a restricted mode.
+,"From FY21, data includes Perth Energy (acquired during FY20), Click Energy (acquired during FY21), and any"
+,incidents related to Southern Phone services that are sold through AGL's multi-product offerings (NBN and
+,"mobile). From FY22, data includes Solgen and Epho (acquired during FY21)."
+Material breaches of,Performance measure relates to the number of substantiated material breaches of AGL’s Code of Conduct.
+Code of Conduct,Material breaches are those ranked ‘High’ or above according to AGL’s FIRM framework. Where the
+,"investigation of a potential breach has not been concluded at the time of reporting, this breach (if confirmed)"
+,will be reported in the next period as an updated figure for the year where the breach occurred.
+New renewable and,"Measured as new renewable and firming capacity in construction, delivery or contracted from 1 July"
+firming capacity (MW),2022 onwards.
+Number of customers on,Staying Connected is AGL's program for energy customers who have been identified to be in financial
+Staying Connected,hardship. The performance measure relates to the number of customers on the program as of 30 June in the
+,reporting year.
+Ombudsman complaints,Reported figures represent complaints to the various state energy Ombudsman offices that are provided to
+,AGL for resolution. Enquiries and complaints referred to other agencies or instances where the customer
+,has been advised by the Ombudsman to contact AGL directly are not included. Numbers are based
+,"on complaints figures provided by the Ombudsmen of New South Wales, Victoria, Western Australia,"
+,Queensland and South Australia. Click Energy complaint volumes are included from April 2021 onwards.
+Operated and,Total Scope 1 and 2 emissions divided by total sent out generation of electricity generation facilities which
+contracted generation,fit within AGL’s operated and contracted boundary2 . Emissions data is based on measured emissions
+intensity (tCO2e/MWh),"from material sources, which make up over 95% of total Scope 1 and 2 emissions, with estimates for"
+,minor sources.
+Operated and,The proportion of total operated and contracted2 renewable and storage capacity (MW) in AGL’s total
+contracted renewable,"operated and contracted generation and storage capacity (MW), based on the capacity as at 30 June in the"
+generation and storage,reporting year. For AGL operated generation assets in the NEM the capacity is the registered capacity as per
+capacity (%),AEMO’s NEM Registration and Exemption List; for AGL operated storage assets in the NEM the capacity is the
+,maximum capacity as per AEMO’s NEM Registration and Exemption List; for Kwinana Swift Power Station the
+,capacity is based on the maximum capacity as per AEMO’s Wholesale Electricity Market data; for contracted
+,"assets, the capacity is as detailed in the contract. Capacity for assets which were not operational at 30 June"
+,is excluded.
+Operated generation,Total Scope 1 and 2 emissions divided by total sent out generation of electricity generation facilities which
+intensity (tCO2e/MWh),"fit within AGL’s operated boundary.1 Emissions data is based on measured emissions from material sources,"
+,"which make up approximately 99% of total Scope 1 and 2 emissions, with estimates for minor sources."
+Operated renewable,The proportion of operated1 renewable and electricity storage capacity (MW) in AGL's total operated
+and electricity storage,"generation and electricity storage capacity (MW), based on the capacity as at 30 June in the reporting year."
+capacity (%),For generation assets in the NEM the registered capacity is per the AEMO NEM Registration and Exemption
+,List. For storage assets in the NEM the capacity is the maximum capacity per the AEMO NEM Registration
+,and Exemption List. For Kiwana Swift Power Station the capacity is based on the maximum capacity (as per
+,AEMO's Wholesale Electricity Market Data). Capacity for assets which are not operational is excluded.
+Pool generation volume,Pool generation volume refers to electricity that AGL generates that is sold into the National Electricity
+,Market and the Western Australian Wholesale Energy Market (together termed “the pool”) and considers
+,"marginal loss factors, non-scheduled generation and auxiliary usage."
+Reduction in Scope 1 &,AGL's FY19 Scope 1 and 2 (location-based) emissions baseline is 43.2 MtCO2 and comprises Scope 1 and 2
+2 emissions against a,"greenhouse gas emissions for all facilities operated1 by AGL, as reported under the National Greenhouse and"
+FY19 baseline,Energy Reporting Act 2007.
+Reportable,Comprise ‘eligible data breaches’ as defined in the Privacy Act 1988. An eligible data breach arises when
+privacy incidents,"there is unauthorised access, disclosure, or loss of personal information and AGL has not been able to"
+,prevent the likely risk of serious harm with remedial action.
+
+=== Table 24 (page 232) ===
+Glossary,
+Term,Explanation
+RepTrak score,The RepTrak score reflects the most recent score reported to AGL by RepTrak at the time of publication of
+,the Annual Report. FY20 to FY24 scores reflect the score for the June quarter.
+Scope 1 & 2,Total Scope 1 and Scope 2 (location-based) emissions from facilities over which AGL had operational control
+emissions (MtCO2e),during the period. Operational control is defined by the National Greenhouse and Energy Reporting Act
+,"2007. Data is based on measured emissions from material sources, which make up approximately 99% of"
+,"total Scope 1 and 2 emissions, with estimates for minor sources. For further details refer to Section 7.5.4."
+Scope 1,Scope 1 emissions are the direct release of greenhouse gas emissions into the atmosphere as the result
+emissions (MtCO2e),of AGL's direct operations. Estimates are prepared in accordance with the National Greenhouse and
+,"Energy Reporting Act 2007, using emissions factors from the National Greenhouse and Energy Reporting"
+,"(Measurement) Determination 2008 (NGER MD). Unless otherwise stated, emissions are on a gross basis (i.e."
+,the use of carbon offsets has not been accounted for).
+Scope 2,Scope 2 emissions are indirect greenhouse gas emissions arising from AGL's consumption of purchased
+emissions (MtCO2e),"electricity, heat or steam."
+,• Location-based: Calculated and defined as per sections 7.2 and 7.3 of the NGER MD.
+,• Market-based: Calculated and defined as per section 7.4 of the NGER MD.
+,"Unless otherwise stated, all references to Scope 2 emissions have been calculated using the location-based"
+,"methodology, as defined above."
+Scope 3,"Scope 3 emissions are other indirect emissions that occur in AGL’s value chain, after Scope 1 and 2 emissions"
+emissions (MtCO2e),"have been accounted for. This includes upstream emissions associated with purchased electricity, natural"
+,"gas and other materials and fuels, downstream use of sold products including natural gas and brown coal, as"
+,"well as minor contributions from emissions arising from capital goods purchases, transport-related activities"
+,"in vehicles not owned or controlled by the reporting entity, outsourced activities, waste disposal, employee"
+,"commuting etc. Unless otherwise stated, emissions are on a gross basis (i.e. the use of carbon offsets has"
+,not been accounted for).
+,Annual Scope 3 emissions are estimated. AGL continues to prioritise improvements in the underlying data
+,and assumptions used to increase the accuracy of its Scope 3 calculations. Calculation method changes have
+,"been retrospectively applied, with historical data restated to align with the updated approach in FY25."
+,"For the calculation of Scope 3 emissions from the supply of electricity to customers, this includes emissions"
+,from upstream activities including electricity generation and transmission and distribution where AGL is
+,short. Emissions from generation of electricity produced by AGL and sold into energy markets is excluded.
+,"An assumed loss factor is applied to AGL’s pool generation, to account for the difference between pool"
+,generation and sales to customers on the same basis.
+,"For the calculation of Scope 3 emissions from the supply of natural gas to customers, this includes an"
+,"estimate of fugitive emissions from low-pressure distribution pipelines, estimated in accordance with Section"
+,3.81 of the NGER MD. For further details refer to Section 7.5.4.
+,AGL's FY19 Scope 3 emissions baseline is 24.9 MtCO2e. FY19 emissions have been restated to align with
+Scope 3 emissions –,
+,updated Scope 3 accounting approach. This baseline is used for the comparative targets and metrics for
+FY19 baseline,
+,Scope 3.
+SIF Actual (Environment),"A Serious Impact or Fatality (SIF) Actual (Environment) event results from a sudden, immediate threat"
+,"impact to human health or the natural environment, arising from an unauthorised activity or the release of"
+,"pollutants into the air, land, or water. A SIF Actual (Environment) event generally has an actual consequence"
+,that corresponds to the prescribed definitions of FIRM Consequence level 4 or higher (this is likely to be
+,driven by the Environment consequence ranking).
+Strategic Net Promoter,NPS is a measure of overall brand performance and is based on how likely a customer would be
+Score (NPS),to  recommend AGL as an energy provider. AGL’s NPS is measured quarterly via an external survey that
+,"asks customers across all energy retailers “On a scale of 0-10, how likely is it that you would recommend"
+,Retailer X to a friend or colleague?” The NPS is calculated by subtracting the proportion of responses of zeros
+,to sixes from the proportion of responses of nines and tens. The performance measure relates to the NPS
+,measured  in Q4 of the reporting year.
+Total average debt,The average energy debt represents the outstanding debt at the customer (rather than account) level as
+across mass market,of 30 June in the relevant reporting year. Debt levels include GST. Data excludes ‘unknown customers’ and
+customer portfolio,commercial and industrial customers. From FY23 onwards this does not include clearing restricted debt
+,(where bill has been issued but invoice has not been presented to customers).
+Total grid-scale batteries,This represents the capacity of batteries within AGL's operated and contracted boundary2 in addition to
+"operated, contracted or",those in delivery as at 30 June in the reporting year.
+in delivery,
+Total Injury Frequency,The rate is calculated as number of lost time and medical treatment injuries classified as TIFR related in a
+Rate (TIFR) (employees),"12-month rolling period, per million hours worked by employees in that 12-month period."

@@ -1,0 +1,118 @@
+=== Page 107 ===
+105 Iren Group | Annual Report 2024  
+General basis for the preparation of the Consolidated 
+Sustainability Statement  and disclosure s in relation to 
+specific circumstances  
+[BP-1_01, BP -1_02, BP -1_03, BP -1_04, BP -1_05, BP -1_06, BP -2_01, BP -2_03, BP -2_04, BP -2_05, BP -2_06, BP -2_07, BP -2_08, BP -2_09, BP -2_16, 
+BP-2_17]  
+Iren Group’s Consolidated Sustainability Statement  has been prepared on a consolidated basis in accordance with Legislative 
+Decree no. 125/2024 implementing Directive 2022/2464/EU  (Corporate Sustainability Reporting Directive  (CSRD), and in 
+compliance with the European Sustainability Reporting Standards (ESRS) for the period 1 January 2024  - 31 December 2024.  
+This Statement  is the first to be prepared in accordance with ESRS standards, in place of the previous Consolidated Non -
+Financial Disclosure prepared in accordance with GRI standards.  Therefore, in view of the possibility of making use of the 
+phase -in measures provided for the first year of reporting, no comparative data have been presented.  
+The scope  of the Consolidated Sustainability Statement  is the same as that for the Consolidated Financial Statements : all 
+fully consolidated legal entities are included and are indicated in the List of Fully Consolidated Companies in the “Annexes to 
+the Consolidated Financial Statements”.  It should be noted that no operational control was identified for any of the Group’s  
+investees . 
+This Consolidated Sustainability Statement  does not include any additional information from applicable legislation, with the 
+exception of the information required by the European Taxonomy  (Art. 8 of Regulation (EU) no. 2020/852) ( see chapter  
+European Taxonomy in section Green Transition ).  
+Iren Group’s Consolidated Sustainability Statement  considers the entire value chain, thus including information on upstream 
+and downstream segments when relevant. In particular, the upstream segment of the value chain includes first -tier suppliers 
+and investees , assessing impacts, risks and opportunities related to the sustainable supply chain management approach 
+adopted, while the downstream segment includes different types of customers and investees . The value chain information 
+includes quantitative metrics on Scope 3 emissions for each significant categ ory (see paragraph “Scope 3 GHG emissions” 
+in chapter Meeting the challenge of climate change ), qualitative information on relevant impacts, risks and opportunities (see 
+paragraph “Double materiality assessment ” in chapter Strategy for sustainable development ) and related policies, actions 
+and targets. For the reporting of Scope 3 GHG emissions related to the supply chain, methods aligned with the 
+recommendations of the GHG Protocol were used: partly Scope 3 emissions were calculated through direct  access t o 
+supplier emission data, partly they were calculated through a spend -based approach using sectoral emission factors. As part 
+of its commitments to sustainable supply chain management, the Group aims to increase as much as possible the proportion 
+of scope 3 emissions calculated using direct data, in order to carry out monitoring increasingly linked to the actual 
+performance of suppliers, through the gradual extension of data collection directly from suppliers.  
+Iren Group mainly uses quantitative data derived from its management systems and standardises the calculation of 
+emissions through the use of emission factors derived from authoritative scientific and institutional sources.  In cases where 
+the use of estima tes is necessary, these and the underlying assumptions are based on historical data, recognised regulatory 
+or scientific methodologies, which are deemed to provide soundness and reliability. Detailed information on any estimates 
+used can be found in the ch apters on each specific disclosure where the assumptions used and potential sources of 
+uncertainty are also described.  
+Iren Group did not omit any specific information on relevant issues relating to intellectual property, know -how, innovation, 
+upcoming developments or matters under negotiation.  
+In order to provide greater comprehensibility of its business model and strategy, the Group decided to supplement the 
+reporting required by ESRS standards with entity -specific information, highlighted by the code “IREN_XXX” shown in grey.  
+Indicators and data on future sustainability investments that are based on the assumptions underlying the 2030 Business 
+Plan are included in the Statement . These include data on the green transition plan whose sources of uncertainty are related 
+to regulatory and technological developments, changing market conditions also in relation to the geopolitical context, the 
+development of climate policies and possib le updates in the measurement methodologies used. The main assumptions 
+used in the forecasts concern p opulation development, municipal and special waste production, energy consumption trends, 
+deployment of emission -capture technologies and low -carbon fuels, and cost estimates for implementing the actions of the 
+ecological transition plan.  
+The time horizons adopted by Iren Group in line with its strategy are: short -term (up to one year), medium -term (up to 5 years) 
+and long -term ( more than 5 years).
+
+=== Page 121 ===
+119 Iren Group | Annual Report 2024  
+The Iren Shareholders’ Meeting decides, upon appointment and for the entire term of office, the total annual remuneration of 
+the members of the Board of Directors and the maximum total amount for the remuneration of the Directors holding specific 
+office provided for in the Articles of Association (Chairperson, Deputy Chairperson and CE O).  
+On the proposal of the Remuneration and Appointments Committee (RAC) and having consulted the Board of Statutory 
+Auditors, the Board of Directors defines the structure and remuneration for Directors with specific duties (Chairperson, 
+Deputy Chairperson and  CEO ), and the remuneration for Directors participating in Internal Board Committees. It also defines 
+the Remuneration Policy for the Group’s Board of Directors and Senior Executives with Strategic Responsibilities subject to 
+the RAC’s preliminary survey, carried out in conjunction with the CRSC, with regard to risk and sustainability profiles.  
+Subject to the RAC’s preliminary survey , the Board of Directors defines the objectives to which the short - and long -term annual 
+variable component of the remuneration of the Executive Chairperson, the Executive Deputy Chairperson and the Chief 
+Executive Officer and General Manager  is correlated.  
+The Deputy Chairperson determines the remuneration of Senior Executives with Strategic Responsibilities, taking into 
+account the provisions of the Remuneration Policy, and defines the objectives to which their short - and long -term variable 
+component is rel ated, after consulting the RAC, which may avail itself of external consultants specialising in remuneration 
+policies.  
+The remuneration of Non -Executive Directors is commensurate with the commitment required of each of them, also taking 
+into account any participation in one or more Internal Board Committees.  
+As regards the Directors with specific duties (Chairperson, Deputy Chairperson and CEO ), the gross annual remuneration for 
+the positions held was established by the Board of Directors, after a survey carried out by the Remuneration and 
+Appointments Committee, in compliance with the limits established by the Shareholders’ Meeting.  
+For the Executive Chairperson, the Executive Deputy Chairperson, the Chief Executive Officer and General Manager and for 
+Senior Executives with Strategic Responsibilities, the variable part of the remuneration is divided into two parts, the short -
+term part  and the long -term part.  
+Short -term variable remuneration  is paid upon achievement of all performance targets and is set, in the target amount, equal 
+to: 30.3% of the gross annual salary for the Chief Executive Officer and General Manager ; 37.9% of the gross annual salary 
+for the Executive Deputy Chairperson and Strategic Director of Human Resources, CSR and delegated areas; 30.8% of the 
+gross annual salary for the Executive Chairperson and Strategic Director of Finance, Strategies and del egated areas; 37.6%, 
+on average, of the gro ss annual salary of the other Senior Executives with Strategic Responsibilities in force at the end of the 
+period of reference.  
+The short -term variable remuneration is based on an MbO (Management by Objectives) system that takes into consideration 
+the Group’s main objectives relating to economic and financial performance (weighting 40%), the main strategic projects 
+(weighting 30%) and ESG factors (weighting 30%) through performance objectives linked to the priority areas of intervention 
+defined in the Business Plan:  
+• decarboni sation: reduction of the carbon intensity of energy production, Scope 2 and Scope 3 emissions, energy savings
+in production processes, emissions avoided from the recovery of waste managed;
+• circular economy: increase of sorted waste collection rates in the local areas served and of waste to material recovery
+treated in Group plants, production of biomethane from biodegradable waste and reuse of purified water;
+• water resources: increase of purification capacity in the local areas managed, reduction of water withdrawals from the
+environment for distribution, reduction of leakages and division into districts of the aqueduct network;
+• resilient cities: extension of district heating, increase of environmentally friendly vehicles in the corporate fleet, green
+electricity sold to retail customers, energy savings from products/services offered by the Group;
+• people: increase in recruitment, under 30 hires, training hours per employee, people evaluated on performance, quota of
+female managers, accident incidence rate and coverage of employees with supplementary health care.
+These objectives are also cascaded down to Company managers. 
+The system provides a “gate” condition linked to the maintenance of the rating on investment grade by a leading rating 
+agency. For 2024, in addition to the minimum threshold of the individual objective, equal to 60%, a minimum threshold of 
+average overall achievement of the individual objectives greater than and/or equal to 70% has been established, as a further 
+condition for access to the payment. In order to incentivise the Group’s value creation with respect to the planned targets, a 
+correction factor fo r individual results with a priori defined weights and metrics was maintained in 2024 as well. The 
+maximum amount attainable as short -term variable compensation can reach 120% of the target amount.  
+The Plan for variable long -term remuneration  - L TI Plan 2022 -2024 (Long -Term Incentive), approved by the Board of Directors 
+on 28 April 2022, provides for the accrual of a monetary bonus based on the 2022 -2024 three -year performance. The Plan 
+has among its recipients: Executive Chairperson and Deput y Chairperson, Chief Executive Officer, Senior Executives with 
+Strategic Responsibilities, and other Top Management resources capable of making a significant contribution to the 
+achievement of the objectives of t he Business Plan.  
+With reference to the executive Chairperson and Deputy Chairperson, the maximum monetary incentive was established by 
+the Board of Directors, taking into account the indications of the Meeting, in an amount equal to 100% and 75%, respectively,  
+of the total  gross annual variable compensation paid to the Chief Executive Officer and General Manager in office at the time 
+of approval of the L TI Plan. For the other Senior Executives with strategic responsibilities, the maximum monetary incentive 
+was set at 100% o f individual gross annual remuneration calculated as of 1 January 2022.  
+The awarding of the prize is subject to the passing of a “gate” condition (recognition, at the end of 2024, of the Investment  
+Grade rating by one of the major rating agencies) and the achievement of the following objectives, identified in accordance 
+with t he provisions of the Business Plan: Cumulative EBITDA 2022 -2024 (weight: 35%); Cumulative Operating Cash Flow

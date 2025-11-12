@@ -1,0 +1,143 @@
+=== Table 1 (page 11) ===
+Targets and Progress,,
+Topic,FY25 Target,Outcome
+Our Business,All employees to complete online,All employees have completed the training
+,cybersecurity training.,this year. This will be refreshed each year.
+"Health, Safety",Deliver Stage Two Leadership Program,Target achieved.
+and Wellbeing,"(Mental Health, Fatigue Management and",
+,Drug and Alcohol),
+"Diversity, Inclusion",Maintain employee turnover below,Target achieved.
+& Talent Attraction,industry average.,
+,Complete Psychosocial Safety audit across,Target achieved.
+,the business.,
+,"Increase female representation in workforce,",Target achieved.
+,targeting peer average.,
+Community,Maintain contribution of up to $3/oz towards,Target achieved.
+Engagement,community investment and engagement,
+,(assuming a minimum of $2/oz).,
+Ethics & Human,"All employees to receive whistleblower,",Target achieved.
+Rights,workplace behaviour and reporting training.,
+"Taxes, supplier",Improve proportion of procurement spend,Target not met.
+"payments, and","within regional areas, reporting to Committee",With the transition of Edna May into care
+royalties,on a six-monthly basis.,"and maintenance, procurement spend"
+,,in regional areas did not increase as a
+,,proportion of total spend on the prior year.
+Climate Change,Improve definition of Scope 3 emissions.,Target achieved.
+and GHG Emissions,,We have undertaken an extensive exercise
+,,to assess the materiality of each Scope 3
+,,"category in our footprint, and we have"
+,,developed a tool to better streamline the
+,,reporting of Scope 3 emissions for our most
+,,material value chain categories.
+,,We will use this to assess our Scope 3
+,,footprint each year and to determine
+,,opportunities for collaboration with our
+,,suppliers and customers.
+,Demonstrate preparedness of ASRS by,Target achieved.
+,achieving 75% compliance.,We have made significant progress in
+,,uplifting our climate-related disclosures
+,,to meet the requirements of the Australian
+,,"Sustainability Reporting Standards, with"
+,,additional work completed outside of this
+,,report to ensure we meet the compliance
+,,requirements by 30 June 2026. Our current
+,,preparedness rate is 76%.
+Mine Closure and,Achieve progressive rehabilitation targets as,Target achieved.
+Rehabilitation,set in FY25 Budget.,Closure and rehabilitation activities were
+,,"undertaken across the Edna May, Marda*"
+,,Tampia and Symes projects.
+,,"1. 
+* Note Marda assets were divested during the"
+,,reporting period.
+
+=== Table 2 (page 42) ===
+,Greenhouse Gas Emissions and Energy,,,
+PERFORMANCE IN FY25,,,,
+GHG Emissions,,FY25,FY24,FY23
+Total Scope 1 Emissions,Metric tonnes,"103,087","118,369","122,977"
+,(tCO₂-e),,,
+Total Scope 2 Emissions,Metric tonnes,"19,668","28,673","27,727"
+,(tCO₂-e),,,
+Total Scope 1 & 2 Emissions,Metric tonnes,"122,755","147,042","150,704"
+,(tCO₂-e),,,
+Emissions intensity per ounce gold produced,tCO₂-e/oz,0.41,0.50,0.63
+(group total),,,,
+PERFORMANCE IN FY25,,,,
+Energy Use (Total),,FY25,FY24,FY23
+Total Energy Consumed,Gigajoules (GJ),"1,981,308","2,320,954","2,403,568"
+Energy Produced (diesel and Natural gas),Gigajoules (GJ),"228,087","273,176","276,098"
+Energy Produced (Renewable),Megawatt,410,0,0
+,Hours,,,
+Net Energy Consumed,Gigajoules (GJ),"1,753,221","2,047,778","2,127,470"
+Energy Purchased from grid power,Gigajoules (GJ),"138,836","194,102","195,723"
+% of total energy consumption derived,Percentage (%),7%,8%,10%
+from grid power,,,,
+Energy intensity of gold produced (group total),GJ/oz,6.57,7.91,9.97
+
+=== Table 3 (page 43) ===
+,,,A review from FY25 showed that the majority of our
+TOTAL Energy Consumed,,,
+,,,"Scope 1 emissions come from diesel consumption,"
+,,,accounting for 73% of emissions. The estimated
+"3,000,000",,,
+,,,distribution of these emissions is 53% from stationary
+,,,"sources (machinery and equipment), 31% from"
+"2,500,000",,,transportation and 17% from power generation.
+,,,"Additionally, natural gas contributes 26% of Scope 1"
+,,,"emissions, used solely for power generation. We are"
+"2,000,000",,,
+,,,hopeful we can leverage the work done at the hybrid
+,,,power project at Mt Magnet to date to continue our
+"1,500,000",,,
+,,,emission reduction trajectory.
+,,,In order to prepare for AASB S2 climate-related
+"1,000,000",,,
+,,,"financial disclosure frameworks, we have engaged"
+,,,a third-party to assess the controls and processes in
+"500,000",,,place for recording our GHG emissions for reporting
+,,,purposes. We are implementing recommendations
+,,,provided in anticipation of the new regulations in the
+,,,2026 financial year.
+FY25,FY24,FY23,
+,,,Scope 3 Emissions
+,,,Calculations
+Total GHG Emissions,,,Scope 3 emissions encompass a broader range of
+,,,greenhouse gas emissions that occur throughout the
+"150,000",,,
+,,,entire product life cycle. These are increasingly being
+,,,used to understanding and assessing a company’s
+,,,entire value chain emissions impact and identify areas
+,,,"of high risk, and where a company has most opportunity"
+"100,000",,,
+,,,"to influence and impact the emissions of its suppliers,"
+,,,customers and other value chain inputs. We engaged
+,,,third-party consultants to provide a tool for the collection
+,,,of Scope 3 data and calculations in FY25. This helped us
+"50,000",,,
+,,,gain insight into our carbon footprint beyond our direct
+,,,operations (Scope 1) and indirect emissions from energy
+,,,consumption (Scope 2) and become prepared for the
+,,,"changes to the AASB S1 and S2 standards, which require"
+FY25,FY24,FY23,more rigorous and detailed climate-related disclosures.
+,,,"For FY25, we calculated our Scope 3 emissions footprint"
+Total Scope 1 Emissions,,Total Scope 2 Emissions,"to be 166,131 tCO2-e. The following categories were"
+,,,considered in our assessment:
+
+=== Table 4 (page 43) ===
+,,,"For FY25, we calculated our Scope 3 emissions footprint"
+Total Scope 1 Emissions,Total Scope 2 Emissions,,"to be 166,131 tCO2-e. The following categories were"
+,,,considered in our assessment:
+,,ࣈ,Purchased goods and services
+,,ࣈ,Capital goods
+Emissions intensity per ounce gold produced,,,
+,,ࣈ,Fuel and energy related activities
+(Group Total),,,
+,,ࣈ,Upstream transportation and distribution
+0.80,,,
+,,ࣈ,Waste generated in operations
+,,ࣈ,Business travel
+0.60,,,
+,,ࣈ,Employee commuting
+,,ࣈ,Downstream transportation and distribution
+0.40,,,
+,,ࣈ,Processing of sold products

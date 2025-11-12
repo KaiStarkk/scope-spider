@@ -1,0 +1,79 @@
+=== Page 1 ===
+A member firm of Ernst & Young Global Limited  
+Liability limited by a scheme approved under Professional Standards Legislation   
+ 
+Independent Limited Assurance Report to the Management and Directors of  Scentre 
+Group  Limited  
+Our Conclusion:  
+Ernst & Young (‘EY’, ‘we’) were engaged by  Scentre Group  Limited  (‘Scentre’) to undertake a limited assurance engagement as 
+defined by  Australian Auditing Standards, hereafter referred to as a ‘review’, over the Subject Matter defined below for the year 
+ende d 31 December 2024. Based on the procedures we have performed and the evidence we have obtained, nothing has come to 
+our attention that causes us to believe the Subject Matter has not been prepared, in all material respects, in accordance wit h the 
+Criteria defined below.  
+What  our review covered  
+We reviewed  selected greenhouse gas (‘GHG’) and 
+environmental performance data in Scentre ’s Responsible 
+Business Report (the ‘Report’), as outlined in the table below:  
+Performance data  Report ed value  
+Scope 1 GHG emissions in tonnes of carbon dioxide 
+equivalent (tCO 2-e) 10,211  
+Scope 2 GHG emissions as calculated using the 
+location -based method (tCO 2-e) 175,110  
+Scope 2 GHG emissions as calculated using the market -
+based method (tCO 2-e) 159,791  
+Selected Scope 3 GHG emissions ( limited to waste to 
+landfill, purchased electricity, employee commute 
+travel, business air travel, natural gas, taxi and car 
+rental travel, transport fuels, and non -transport fuels ) 
+(tCO 2-e) 72,655  
+Water consumption in cubic met ers (m3) (rainwater 
+collected, and municipal water purchased ) 4,438,430  
+Total landfill and all recycling streams (tonnes)  90,276  
+Total D&C landfill  and recycling waste in tonnes 
+(tonnes)  12,263 
+Total hazardous  waste (tonnes)  149 
+Energy consumed in gigajoules  (GJ) 1,223, 549 
+Energy produced  in gigajoules  (GJ) 52,438  
+ 
+Other than as described in the preceding paragraphs, which 
+set out the scope of our engagement, we did not perform 
+assurance procedures on the remaining information included 
+in the  Report, and accordingly, we do not express an opinion 
+or conclusion on this information . Criteria applied by Scentre  
+In preparing the  selected Subject Matter , Scentre applied the  
+following Criteria:  
+► Scentre Group’s GHG Framework  
+► Scentre Group’s GHG Methodology  
+► National Greenhouse and Energy Reporting Act 2007  (for 
+scope 1 and scope 2 GHG data)  
+► GHG Protocol Scope 2 Guidance: An amendment to the 
+GHG Protocol Corporate Standard  
+► Climate Active Electricity Accounting, August  2023 
+► Scentre Groups’ internally developed reporting criteria 
+(e.g., Basis of Preparation).  
+ 
+Key responsibilities  
+Scentre ’s responsibility  
+Scentre’s m anagement is responsible for selecting the 
+Criteria, and for presenting the selected sustainability 
+performance data  in accordance with that Criteria, in all 
+material respects. This responsibility includes establishing and 
+maintaining internal controls, maintaining adequate records 
+and making estimates that are relevant to the preparation of 
+the subject matter, such tha t it is free from material 
+misstatement, whether due to fraud or error.  
+EY’s responsibility and independence  
+Our responsibility is to express a conclusion on the Subject 
+Matter  based on our review.  
+We have complied with the independence and relevant ethical 
+requirements, which are founded on fundamental principles of 
+integrity, objectivity, professional competence and due care, 
+confidentiality and professional behaviour.  
+EY applies Auditing Standard ASQM 1  Quality Management for 
+Firms that Perform Audits or Reviews of Financial Reports and 
+Other Financial Information, or Other Assurance or Related 
+Services Engagements , which requires the firm to design, 
+implement and operate a system of quality management 
+including policies or procedures regarding compliance with 
+ethical requirements, professional standards and applicable 
+legal and regulatory requirements.

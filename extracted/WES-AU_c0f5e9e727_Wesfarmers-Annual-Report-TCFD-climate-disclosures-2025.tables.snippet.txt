@@ -1,0 +1,428 @@
+=== Table 1 (page 1) ===
+Our approach,,
+Our response to climate change and the,"As a large, diversified Group,",We are developing a Group climate-
+transition to a low-emissions economy,decarbonisation of some industrial,related financial reporting framework
+aligns with our corporate objective and,processes in our operations and value,to establish a consistent approach
+"focus on sustainable, long-term value",chain depends on a range of solutions,among our businesses to assess the
+creation. Our divisions work in a,and technologies becoming commercially,financial impacts of climate-related
+disciplined way to decarbonise their,viable and operating at scale. Across our,"risks and opportunities. This year,"
+"operations, manage climate-related risks,","value chain, where the Group’s influence","we commissioned an externally-led,"
+"develop climate-related partnerships and,","varies, partnerships and engagement are",independent review of Group climate-
+where appropriate invest in climate-,essential to support suppliers and,related governance processes which
+related growth opportunities.,customers in transitioning to a low-,are central to the Group’s approach
+,"emissions economy, recognising there",to responding to climate change.
+Our divisions are managed with climate,,
+,are differences between our divisions,
+"and carbon awareness, with continued",,Australia’s mandatory climate-related
+,and others in the sectors in which,
+focus on reducing operational Scope 1,,financial disclosure requirements apply
+,they operate.,
+and Scope 2 greenhouse gas emissions,,to the Group from 1 July 2025 for financial
+(operational emissions). All divisions have,"This year, we established cross-functional",year 2026 reporting. As the ASRS S2
+set interim and net zero operational,and divisional workstreams to prepare,expands on the recommendations of the
+emissions targets that reflect their unique,for the implementation of the Australian,Task Force on Climate-related Financial
+business attributes and operational,Accounting Standards Board’s (AASB),"Disclosures (TCFD), Wesfarmers"
+emissions profiles. We regularly monitor,ASRS S2. Building on previous years',continues to report climate-related
+and report our performance and progress,"work, we enhanced the management",disclosures using the TCFD framework
+towards interim and net zero operational,and monitoring of climate-related risks,during this last transition year.
+emissions targets and divisions report,and opportunities to support greater,
+on relevant categories of Scope 3,alignment with the Group’s enterprise,
+"emissions. This year, the divisions",risk management and corporate,
+continued to mature their analysis of their,planning processes.,
+Scope 3 value-chain emissions to better,,
+
+=== Table 2 (page 4) ===
+profile and climate-related risks and opportunities. Decarbonisation strategies and pathways to build climate resilience vary across,,,
+our divisions given the different sectors in which they operate.,,,
+,There are four overarching areas of strategic focus:,,
+Operational,Value chain emissions,Growth opportunities,Partnerships
+decarbonisation,,,
+,All divisions report relevant,Wesfarmers and our,Partnerships support
+All divisions have interim,Scope 3 emissions,divisions look for,decarbonisation of
+and net zero Scope 1 and,categories and identify,opportunities that support,operational and value
+Scope 2 (market-based),opportunities to address,the transition to a low-,chain emissions.
+emissions targets.,value chain emissions.,emissions economy.,
+
+=== Table 3 (page 8) ===
+Scope 1 and Scope 2 (market-based),,Scope 1,Scope 2
+emissions (kilotonnes)1,,,
+,,Scope 1 emissions are ‘direct’ emissions,Scope 2 (market-based) emissions are
+,,released from the Group’s operations and,‘indirect’ emissions associated with the
+"1,500",,,
+Scope 1,Scope 2 (market-based),account for 77 per cent of the Group’s,use of grid-purchased electricity across
+,,total operational emissions.,the Group and account for 23 per cent of
+,,,the Group’s total operational emissions.
+"1,000",,Over 95.6 per cent of the Group’s,
+,,Scope 1 emissions are from WesCEF’s,More than 74 per cent of the Group’s
+,,"industrial processes, including the",Scope 2 (market-based) emissions are
+500,,manufacturing and processing of,from the use of grid-purchased electricity
+,,"ammonia, ammonium nitrate, sodium","at Bunnings Group, Kmart Group"
+,,"cyanide, liquefied natural gas (LNG) and",and Officeworks.
+0,,,
+,,liquefied petroleum gas (LPG). These,
+"2021
+2022
+2023
+2024",2025,,Scope 2 emissions are material for
+,,emissions are hard to abate and require,
+,,,our retail divisions and represent
+,,low-emissions technologies and solutions,
+,,,around 89 per cent of their operational
+,,to become commercially viable at scale.,
+Divisional contribution in 2025,,,"emissions. To reduce Scope 2 emissions,"
+,,The remaining Scope 1 emissions relate,"Bunnings, Kmart and Officeworks have"
+"1,200",,"principally to emissions from fleet vehicles,",implemented a portfolio of onsite and
+"1,132.4
+24.8",,"natural gas for heating, LPG in forklifts","offsite solutions, including renewable"
+23.2,,,
+40.6,,and equipment and refrigerants in cooling,power purchase agreements and
+17.2,,"systems. To reduce these emissions,",energy efficiency measures.
+,"1,026.6",,
+,,our divisions need to transition to,
+"1,000",,,
+
+=== Table 4 (page 9) ===
+Scope 1 operational decarbonisation,,
+,The majority of the Group’s Scope 1 emissions arise from WesCEF’s industrial processes. Decarbonisation initiatives in WesCEF’s,
+,"2050 net zero roadmap1,2 are expected to drive a reduction in the Group’s Scope 1 emissions. Reductions in Scope 1 emissions",
+,"across other divisions require replacing, electrifying or improving the efficiency of fleet, plant and equipment.",
+WesCEF’s interim 2030 target,,
+"In May 2025, WesCEF implemented",A final investment decision was made to,to the two existing plants. The installation
+a new tertiary abatement technology that,replace an existing waste-gas incinerator,"of the tertiary abatement catalysts, in"
+will eliminate 98 per cent of nitrous oxide4,in the sodium cyanide facility with new,combination with existing secondary
+emissions from its newest nitric acid plant,technology that reduces nitrous oxide,"abatement catalysts, is expected to deliver"
+"at Kwinana, Western Australia.",emissions. This project is partially funded,emissions reductions of at least 98 per
+,by the Australian Government. A feasibility,"cent, relative to an unabated process."
+The project installed 10 tonnes of tertiary,,
+abatement catalysts in baskets within,study was completed to capture the,
+the plant to neutralise nitrous oxide –,process heat from this incinerator to,
+a byproduct of nitric acid production.,"produce zero-emissions electricity, reducing",
+,,Emissions intensity of nitric
+,demand for grid-purchased electricity,
+The project was part-funded by a,,
+,and associated Scope 2 emissions.,acid (tonnes CO2e per tonne
+"$500,000 Western Australian Government",,of nitric acid produced)
+Carbon Innovation Grant and is eligible,WesCEF continued to evaluate pathways,
+,,1.82
+to generate Australian Carbon Credit,to decarbonise ammonia production,
+Units (ACCUs).,post-2030. Work continues with partner,
+,Mitsui E&P Australia to progress the,
+The new abatement technology,,
+,Cygnus carbon capture and storage (CCS),
+is expected to deliver WesCEF an,,
+,"project near Dongara, Western Australia.",
+11 per cent reduction in operational,,
+,,0.04
+,"Progress is dependent on various factors,",
+"emissions, relative to its 2020 baseline.",,
+This technology is expected to be,"including Government support for CCS,",No
+implemented in a second nitric acid plant,the development of regulations for onshore,"abatement
+Secondary 
+abatement
+Secondary 
+and tertiary 
+abatement
+Residual 
+emissions 
+intensity"
+in 2026 and the final plant by 2028.,"CCS, along with long-term access to",
+WesCEF will receive a total of $33 million,affordable natural gas and further,
+from the Australian Government’s,evaluation of transport options.,
+,,Nitric acid is used to produce
+Powering the Regions Fund upon,,
+,CSBP was an early adopter of emissions,ammonium nitrate which is used
+successful implementation of this,,
+,"reduction technology, installing secondary",to manufacture explosive products
+technology.,,
+,nitrous oxide abatement catalysts in its,for the mining industry and fertiliser
+"In 2025, WesCEF progressed additional",,for agriculture.
+,newest plant when it was built over,
+initiatives to support delivery of its interim,"a decade ago, which was then retrofitted",
+2030 target.,,
+2030 pathway3,,
+,WesCEF’s current view of its interim decarbonisation pathway to 2030 is outlined below. WesCEF continues to evaluate additional,
+,opportunities to reduce emissions and assess potential risks to achieving its interim target as they arise.,
+,Nitrous oxide abatement,"Completed     
+  Implementation     
+  Feasibility"
+
+=== Table 5 (page 9) ===
+,2020 baseline,Operational,Tertiary,Sodium cyanide,Scope 2,Growth,Emerging,2030 interim
+,,improvements,catalysts,gas incinerator,,,opportunities,target
+1  Further information on WesCEF’s net zero roadmap is available at wescef.com.au/wescefs-roadmap-to-net-zero/,,,,,,,,
+,,,,,,,,
+2,"In setting its FY2050 net zero target and roadmap, WesCEF assumes that low-emissions technologies and emerging solutions like low-emissions ammonia,",,,,,,,
+,"hydrogen and carbon capture, storage and utilisation will advance and become commercially viable and operate at scale, well before 2050. WesCEF also assumes",,,,,,,
+,that government policy will remain supportive of climate action. Around 10 per cent of WesCEF’s remaining emissions may require the use of carbon offsets if no,,,,,,,
+,commercially viable technological solutions emerge. The assumptions underpinning WesCEF’s targets will be regularly tested to ensure that they are reasonable.,,,,,,,
+"3  Baselines of targets may be adjusted for significant changes to our businesses, including material acquisitions, divestments or changes to greenhouse gas reporting",,,,,,,,
+,methodologies.,,,,,,,
+4  Nitrous oxide is a greenhouse gas with global warming potential 265 times that of carbon dioxide.,,,,,,,,
+
+=== Table 6 (page 10) ===
+We have three overarching strategies to reduce Scope 2 emissions:,,
+Reduce electricity use in retail,Generate electricity on-site,Procure renewable electricity
+store networks,,
+,Invest in behind-the-meter electricity,"Deploy a portfolio of solutions,"
+Improve energy efficiency of existing,generation from renewable and,including sourcing renewable electricity
+stores through retrofitting automated,waste-heat sources to replace,and associated large-scale generation
+"building management systems,","grid-electricity use. For most divisions,","certificates (LGCs), through power"
+installing LED lighting and improving,this is through rooftop solar and for,purchase agreements with electricity
+the efficiency of heating and cooling,WesCEF it is through waste-heat,retailers and/or generators and retail
+systems. There are opportunities,"recovery. Where commercially feasible,",renewable electricity products like
+to apply more sustainable design,battery systems may complement,GreenPower. Unbundled renewable
+principles in the design and build,rooftop solar installations.,"energy certificates, including LGCs,"
+stage for new stores.,,will also be required.
+
+=== Table 7 (page 10) ===
+Achieving 100% renewable electricity,
+"In 2021, Bunnings Group, Kmart Group and Officeworks",but include long-term power purchase agreements (PPAs)
+formalised their commitment to source 100 per cent,"linked to solar, wind and hydro assets from projects such as"
+renewable electricity for their operations by the end of,"the MacIntyre Wind Farm, Sebastopol Solar Farm, Numurkah"
+calendar year 2025. All three divisions have implemented,"Solar Farm, Tailem Bend 2 Solar Farm and CleanCo’s"
+renewable electricity strategies.,Western Downs Green Power Hub. The remaining electricity
+,"needs, mainly for embedded networks and landlord sites,"
+"From 1 January 2025, Bunnings Group and Officeworks",
+,will be met with unbundled LGCs.
+"achieved their 100 per cent renewable electricity targets,",
+with all electricity needs matched by renewable sources.,
+,Emissions intensity by revenue
+Kmart Group has renewable electricity contracts in place,
+and is expected to achieve its 100 per cent renewable,The full impact of the new renewable electricity contracts
+"electricity target by the end of the 2025 calendar year,","will be accounted for in 2026, when all contracts will be"
+when its electricity needs will be matched by electricity,in operation for the full reporting year.
+from renewable sources.,
+"Since establishing the target, each of the three divisions has",t CO2e/$m revenue
+deployed a portfolio of solutions to meet their 100 per cent,
+,30
+"renewable electricity target. Efficiency initiatives, such as",
+"lighting upgrades, building management systems and",
+"energy-efficient store designs, reduce and stabilise",20
+electricity consumption.,
+"Bunnings began installing solar in 2009, and rooftop",10
+"solar installations have since increased in scale. Over time,",
+all three divisions have expanded installations to 245,0
+"systems, representing more than 52 megawatts","2021
+2022
+2023
+2024
+2025"
+"(MW) of generation capacity. Across the Group, rooftop",
+,"Bunnings Group  
+  Kmart Group  
+  Officeworks"
+solar installations totalled 257 systems with 55 MW,
+of generation capacity.,
+,These strategies have delivered a reduction in Scope 2
+"Renewable electricity contracts are used by Bunnings Group,",
+,(market-based) emissions by more than 51 per cent relative
+Kmart Group and Officeworks to meet the majority of their,
+,"to 2022, while revenues and store footprints have grown."
+renewable electricity needs. Contract arrangements vary,
+
+=== Table 8 (page 11) ===
+,SEP,
+2009,2020,2021
+Bunnings' first rooftop solar,Formalisation of targets for,Linkage of renewable
+system installed,"Bunnings Group, Kmart Group",electricity target to
+,and Officeworks:,sustainability-linked
+,,bond issuances
+,– 100 per cent renewable,
+,electricity by end of calendar,
+,year 2025,
+,– net zero Scope 1 and,
+,Scope 2 (market-based),
+
+=== Table 9 (page 12) ===
+Operational decarbonisation divisional progress,,
+TARGETS1,BASELINE EMISSIONS PROFILE,PROGRESS AND HIGHLIGHTS IN 2025
+,Scope 1 emissions represent around,Bunnings Group achieved a 50.2 per cent
+,five per cent of Bunnings Group’s baseline,reduction in Scope 1 and Scope 2 (market-
+Bunnings Group,,
+,operational emissions and come from natural,based) emissions compared to the prior year.
+,"gas for heating, LPG for community barbecues",Since setting its net zero Scope 1 and Scope 2
+,and fuel used in forklifts and fleet vehicles.,"target, it is 90.5 per cent below its baseline."
+259.7,Scope 2 emissions represent around,
+,,"Installed 29 rooftop solar systems, for a total"
+,95 per cent of Bunnings Group’s baseline,
+,,of 184 systems.
+50.2%,emissions and come from grid-purchased,
+,"electricity use across its stores, distribution",Launched its fleet electrification which will
+"59.9
+49.4",,
+24.6,centres and offices.,contribute to Scope 1 emissions reductions.
+,,"During the year, Bunnings rolled out the"
+"Baseline 
+2023
+2024
+2025",Bunnings Group achieved its 100 per cent,
+,,first delivery of electric vehicles (EVs) and
+2018,renewable electricity target on 1 January 2025,
+,,installed charging infrastructure at team
+,which will address its Scope 2 (market-based),
+,,members’ homes. This initial rollout serves
+,emissions and contribute significantly to its net,
+Net zero Scope 1 and Scope 2 by 2030,,"as a pilot to test the transition process,"
+,zero target.,
+100 per cent renewable electricity by the,,"gather insights and capture feedback,"
+end of calendar year 2025,,informing future rollout plans.
+,Scope 1 emissions represent around,Kmart Group achieved a 12.6 per cent reduction
+,five per cent of Kmart Group’s baseline,in Scope 1 and Scope 2 (market-based)
+Kmart Group,,
+,"operational emissions, largely attributable to",emissions compared to the prior year. Since
+,"natural gas used for heating, LPG for forklifts,","setting its net zero Scope 1 and Scope 2 target,"
+,fuel in fleet vehicles and small refrigerant,it is 51.2 per cent below its 2018 baseline.
+330.8,,
+12.6%,losses from cooling systems.,
+,,"Installed three rooftop solar systems, for a total"
+218.1,Scope 2 emissions represent around,
+184.6,,of nine systems across its store network.
+161.3,95 per cent of Kmart Group’s baseline,
+,operational emissions and come from grid,Commissioned its first low-emissions
+,electricity use.,"refrigerant chiller at its Helensvale, Queensland"
+,,store. The chiller utilises refrigerant gas with
+"Baseline 
+2023
+2024
+2025",Kmart Group is expected to achieve its,
+,,a significantly lower greenhouse warming
+2018,100 per cent renewable electricity target by,
+,,"potential than conventional refrigerants,"
+,the end of the 2025 calendar year when its,
+,,reducing the impact from losses during routine
+,electricity needs will be matched by electricity,
+Net zero Scope 1 and Scope 2 by 2030,,operation.
+,from renewable sources. This will address,
+100 per cent renewable electricity by the,,
+,its Scope 2 (market-based) emissions and,
+end of calendar year 2025,,
+,contribute significantly to its net zero target.,
+
+=== Table 10 (page 13) ===
+Operational decarbonisation divisional progress,,,,
+TARGETS1,,,BASELINE EMISSIONS PROFILE,PROGRESS AND HIGHLIGHTS IN 2025
+,,,Scope 1 emissions represent a negligible,Officeworks achieved a 55.2 per cent reduction
+,,,proportion of Officeworks’ baseline operational,in Scope 1 and Scope 2 (market-based)
+Officeworks,,,,
+,,,emissions and come primarily from fuel use in,emissions compared to the prior year. Since
+,,,fleet vehicles.,setting its net zero Scope 1 and Scope 2
+49.1,,,,"(market-based) target, it is 77.2 per cent below"
+,,,Scope 2 emissions represent almost all,
+,,,,its 2018 baseline.
+,,55.2%,of Officeworks’ operational baseline emissions,
+,,,and are associated with the use of grid,
+,27.1,,,
+,,25.0,,Installed 22 rooftop solar systems for a total
+,,,electricity across Officeworks’ stores and,
+,,,,of 52 systems across its network.
+,,11.2,distribution centres.,
+,,,Officeworks achieved its 100 per cent,
+Baseline,2023,"2024
+2025",renewable electricity target on 1 January 2025.,
+2018,,,,
+
+=== Table 11 (page 14) ===
+,Wesfarmers’ value chain (Scope 3) emissions reflect the Group’s size and diverse sectors,
+and value chains.,,
+The Group’s Scope 31 emissions arise from,The Group’s Scope 3 emissions are,Category 4 — Upstream transportation
+"a wide range of activities across suppliers,",concentrated in four categories and those,and distribution includes emissions that
+products and geographies. These,categories account for over 94.7 per cent,principally arise from the transportation
+emissions are outside the Group’s direct,of total Scope 3 emissions. Category 1,and distribution of products from suppliers
+control and reflect the Scope 1 and Scope,"and Category 11 are the most material,",using ocean and road freight purchased
+2 emissions of upstream and downstream,representing 89.7 per cent of total Scope 3,by the Group.
+"suppliers, customers and team members.","emissions, with Category 4 and Category",
+,,Category 11 — Use of sold products
+The sources of these emissions are,12 representing five per cent.,
+,,includes emissions generated when
+complex and we have continued to mature,,
+,,customers use the products sold by our
+our approach to calculating our Scope 3,Category 1 — Purchased goods and,
+,,"businesses, such as electricity in appliances"
+emissions inventory.,services is the Group’s largest category of,
+,,and the combustion of fuels in equipment
+,Scope 3 emissions. These arise from the,
+"In 2025, the Group’s total Scope 3",‘cradle-to-gate’ emissions of products sold,or the application of fertilisers.
+"emissions were 30.5 MtCO2e, with the","and include the extraction, processing and",
+,,These emissions are influenced by product
+"majority attributed to Bunnings Group,",production of key raw materials.,
+,,design and the emissions intensity of the
+Kmart Group and WesCEF. The Group’s,,
+,Significant emission sources in this,electricity grids in which the products
+Scope 3 emissions reflect the high volume,,
+,category arise from the production of,are used.
+of goods sold and the emissions intensity,,
+,"plastics, aluminium, textiles, ammonia and",
+of key raw materials and inputs in certain,,
+,,Category 12 — End-of-life treatment of
+,"nitrogen-based fertilisers, which are raw",
+goods. It also includes the emissions,,
+,,sold products includes emissions that are
+,materials for the products sold across,
+associated with customer use of products.,,
+,the divisions.,released when products are disposed at
+,,the end of life (such as waste disposal
+,,"in landfills, recycling or reprocessing)."
+Group Scope 3 emissions by division and category,,
+
+=== Table 12 (page 15) ===
+Where emissions occur in the value chain
+Most Category 1 emissions do not arise from Tier 1 (direct) suppliers but occur further upstream in the supply chain and relate to raw
+material production. Only 10 per cent of Category 1 emissions are estimated to be attributable to the energy and technology choices
+"made by our Tier 1 suppliers, with the remaining emissions sitting within indirect suppliers (Tier 2 or beyond)."
+"Analysis of Bunnings Group, Kmart Group and WesCEF’s Scope 3 emissions estimates that 74 per cent of Category 1 emissions are"
+"concentrated in five emissions-intensive inputs: textiles, plastic, aluminium, steel and ammonia (including nitrogen-based chemicals)."
+These materials are considered hard to abate due to a lack of commercially viable low-emissions alternatives available at scale. These
+emissions occur further up the supply chain and therefore opportunities to influence and engage are limited and often complex.
+Breakdown of Category 1 emissions by significant input materials:
+
+=== Table 13 (page 15) ===
+"decarbonises. Over time, additional benefits may arise from opportunities in product design and to support more energy-efficient use",,
+of products.,,
+Progress and focus areas,,
+,While Scope 3 emissions across complex value chains remain challenging to address and will require sustained collaboration,
+,"and partnerships across industries, the Group continues to focus on three core areas.",
+Data,Suppliers,Customers
+Calculating Scope 3 emissions requires,Category 1 emissions are the largest,Reducing downstream emissions from
+"a blend of spend-, activity-, supplier-",source of Scope 3 emissions. Bunnings,Category 11 and Category 12 requires
+and lifecycle-based approaches.,"Group, Kmart Group and WesCEF",improved product design and customer
+,continue to engage with key suppliers,engagement.
+The divisions have continued to refine,,
+,to understand their emissions profiles,
+"their approach, improving the resolution",,Some divisions continue to support
+,and to identify emissions reduction,
+and specificity to support decision-,,"end-of-life programs, including"
+,opportunities.,
+making and enable future impact,,take-back and recycling programs.
+measurement.,,
+
+=== Table 14 (page 15) ===
+,opportunities.,
+making and enable future impact,,take-back and recycling programs.
+measurement.,,
+Bunnings Group continued to contribute,to encourage adoption of energy-efficient,"In addition, Kmart Group developed raw"
+to sector-wide programs through its,practices and technologies. It is expanding,material transition opportunities in
+participation in the ‘Make It Zero’,product ranges to include low-emissions,collaboration with its merchandise and
+"Taskforce, which is jointly run by the",technologies to allow customers to,sourcing teams to support product-level
+European DIY Retail Association and,"transition to such technologies, including",emissions reductions over time.
+the Global Home Improvement Network.,"in EV charging, solar photovoltaic",
+,,WesCEF continued to engage with key
+The DIY sector-led initiative is focused,and battery installation.,
+,,suppliers and identified that while many
+on supporting the sector in tackling key,,
+,"This year, Kmart Group worked with","have emissions reduction targets, progress"
+"challenges with Scope 3 emissions,",,
+,suppliers to expand data collection to,remains constrained by practical and
+"including uplifting supplier engagement,",,
+,include product material and design.,commercial challenges. Decarbonisation
+data quality and facilitating emissions,,
+,"Using this data, Kmart Group advanced",of purchased ammonia mirrors WesCEF’s
+reductions. Bunnings Group invited its,,
+,its Scope 3 emissions calculation,"own abatement levers, such as low-"
+top 100 suppliers (by expenditure and,,
+,"methods, by refreshing its product lifecycle",emissions ammonia becoming
+emissions) to participate in Scope 3,,
+,assessments. The improved data quality,commercially viable at scale and
+training created by the Taskforce.,,
+,will support more precise emissions,affordability of low-emissions fuels.
+Bunnings Group is exploring new,calculations and estimation of the,
+customer education initiatives,effectiveness and impact of initiatives.,

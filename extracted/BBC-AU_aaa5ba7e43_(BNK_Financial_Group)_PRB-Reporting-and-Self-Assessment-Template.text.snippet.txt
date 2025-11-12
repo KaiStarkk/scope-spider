@@ -1,0 +1,248 @@
+=== Page 10 ===
+10 
+ 
+ 
+d) For these (min. two pr ioritized impact areas) : Performance measurement : Has your bank 
+identified which sectors & industries as well as  types of customers financed or invested in 
+are causing the strongest act ual positive or negative impac ts? Please describe how you 
+assessed the performance of these, using appr opriate indicators related to significant 
+impact areas that apply to  your bank’s context.  
+In determining priority areas for target-setting among its areas of most significant 
+impact, you should consider the bank’s current performance levels, i.e. qualitative 
+and/or quantitative indicators and/or proxies of the social, economic and environmental 
+impacts resulting from the bank’s activities and provision of products and services. If 
+you have identified climate and/or financial health&inclusion as your most significant 
+impact areas, please also refer to the applicable indicators in the Annex .  
+If your bank has taken another approach to assess  the intensity of impac t resulting from the 
+bank’s activities and provis ion of products and servic es, please describe this.  
+ 
+The outcome of this step will then also provide the baseline (incl. indicators) you can use for 
+setting targets in two areas of most significant impact.  
+Response 
+[Climate change mitigation] 
+The BNK Financial Group recognize s the importance of the impact 
+of financed emissions (Scope 3) through investments and loans in 
+addition to the greenhouse gases (Sco pe 1&2) emitted directly or 
+generated through energy consumpt ion. We measure Scope 1, 2, 
+and 3 emissions annually and has established a financed 
+emissions measurement system in 2023 for more accurate 
+measurement and management. The BNK Financial Group 
+discloses emissions for certain categories among the 15 categories 
+of Scope 3 emissions (investm ents, purchased goods, fuel- and 
+energy-related activities, business travel). We plan to enhance the 
+calculation system for Scope 3 emi ssions to disclose  emissions for 
+all categories and monitor emissions. 
+ The total financed emissions for 2023 are 25.88 million tCO
+2eq. 
+Financed emissions are classified into seven asset groups 
+according to PCAF standards: listed equity and corporate bonds, 
+business loans and unlisted equity, pr oject finance, commercial real 
+estate, mortgages, motor vehicle loans, and sovereign debt. They are measured by multiplying the carbon emissions of the borrower 
+(source of emissions) by invest ment ratio of the BNK Financial 
+Group (balance of financial assets / total assets of the borrower(source of emissions)).  Among these, the emissions 
+corresponding to the asset groups of listed equity and corporate bonds, business loans and unlisted equity are classified into 12 
+industries, and the emissions and intensity (emissions per unit 
+investment amount) by asset group are as follows. 
+ < Financed emissions  by asset group > 
+(Unit: trillion KRW, 10,000 tCO
+2eq, tCO 2eq/100 million KRW) 
+Asset groups  Measured 
+target Financed 
+emissions Financial 
+intensity Links and references 
+BNK Financial Group 
+2023 Sustainability Report p.27, 29-31, 71-
+77, 167-171
+
+=== Page 14 ===
+14 
+ 
+ 
+2.2 Target Setting (Key Step 2) 
+Show that your bank has set and published a minimum of two targets which address at least 
+two different areas of most significant impact that you identified in your impact analysis.  
+The targets7 have to be Specif ic, Measurable (qualitative or  quantitative), Achievable, 
+Relevant and Time-bound (SMART).  Please disclose the following elements of target setting 
+(a-d), for each target separately: 
+a) Alignment: which international, regional or national policy frameworks to align your bank’s 
+portfolio with8 have you identified as relevant? Show that t he selected indicators and 
+targets are linked to and drive alignment wi th and greater contribution to appropriate 
+Sustainable Development Goals, the goals of  the Paris Agreement, and other relevant 
+international, national or regional frameworks.  
+You can build upon the context items under 2.1.   
+Response 
+[Climate change mitigation] 
+The BNK Financial Group has es tablished a step-by-step roadmap 
+for achieving internal emissions Net Zero and financed emissions 
+Net Zero in accordance with the Paris Agreement  and UN SDGs 
+(SDG 13 Climate action). In 2024, the Scope 1, 2, 3 carbon 
+reduction targets, based on a 1.5°C scenario, have obtained 
+approval from the SBTi (Science-Based Targets initiative) and align with the Korean government's carbon neutrality goals  by 2050. 
+ We have joined PCAF (Partnership for Carbon Accounting 
+Financials), and have calculat ed the financed emissions in 
+accordance with global standards,  utilizing the SBTi (Science-
+Based Targets initiative) methodology when setting our Net Zero 
+and interim goals.  We aim to achieve a 42% reduction in internal 
+emissions by 2030 compared to 2022 levels and reach Net Zero by 
+2045 by applying the Absolute Cont raction Approach (ACA). We 
+have applied the Sectoral Decarbonization Approach (SDA) to financed emissions for power generation project finance, 
+commercial real estate, cement and power generation sectors 
+within corporate loans/bonds/sto cks. For other asset groups and 
+sectors, we have applied the Tem perature Rating Approach (TRA). 
+For sectors such as PF excluding power generation and motor vehicle loans, where SBTi met hodologies have not been provided, 
+reduction targets have been set using the Absolute
+ Contraction 
+Approach (ACA), cons istent with the internal emissions 
+measurement method. Through th is, we aim to achieve a 26% 
+reduction in financed emissions by 2030 compared to 2022 levels, 
+and reach Net Zero by 2050. 
+ [Financial inclusion] The BNK Financial Group has es tablished a plan to provide 
+14.7205 trillion KRW over three y ears from 2022, including support 
+for low-income families, vulner able groups and economic recovery. 
+It contributes to achi eving the UN SDGs (SDG 1 No poverty, SDG 8 
+Decent work and economic growth, SDG 10 Reduced inequalities) 
+and aligns with the Korean gover nment's direction emphasizing 
+inclusive and win-win finance.  Links and references 
+BNK Financial Group 
+2023 Sustainability Report p.28-32, 71
+
+=== Page 18 ===
+18 
+ 
+ 
+ 
+c) SMART targets  (incl. key performance indicators (KPIs)9): Please disclose the targets for 
+your first and your second area of most signifi cant impact, if already in place (as well as 
+further impact areas, if in place). Which KPI s are you using to monitor progress towards 
+reaching the target? Please disclose. 
+Response 
+[Climate change mitigation] The BNK Financial Group has es tablished Scope 1, 2, 3 carbon 
+reduction targets that align with the Paris Agreement. By establishing detailed interim target s along with the final Net Zero 
+targets, we have enhanced the feasibility and manageability of 
+achieving these tar gets. By setting absol ute emissions-based 
+targets, we aim to increase cons istency in long-term planning and 
+reduce the substantial im pacts of climate change. 
+ 
+• Target 1 (Internal emissions Net Zero) - 2024: Reduction of 10.5% compared to the baseline year (2022), 
+achieving emissions of 28,098tCO
+2eq  
+- 2030: Reduction of 42% compared to the baseline year (2022), 
+achieving emissions of 18,209 tCO 2eq 
+- 2045: Achieve Net Zero Links and references 
+BNK Financial Group 
+2023 Sustainability 
+Report p.28-32, 71; 
+SBTi Target Language 
+and Summary 
+https://sciencebasedtar
+gets.org/resources/files/
+Target-language-and-
+summary_-BNK-
+Financial-Group.pdf   
+ 
+9 Key Performance Indicators are chosen i ndicators by the bank for the purpose of m onitoring progress towards targets.  
+ SMEs, small business owners, and lo cal residents. As of 2023, the 
+achievements are as follows. For details on the ty pes of products 
+and specific achievem ents by product, please refer to pages 167-
+171 of the Sustainability Report 2023. 
+Category Number of 
+products Balance 
+Loans 86 cases 3.3316 trillion KRW 
+Deposits 42 cases 2.5858 trillion KRW 
+Cards 20 cases 1.085 trillion KRW
+
+=== Page 20 ===
+20 
+ 
+ 
+1.5°C scenario. For internal emissions, we have applied SBTi's 
+Absolute Contraction Approach (A CA). For financed emissions, we 
+have included not only the companies’ Scope 1 & 2 but also Scope 3 emissions, and estab lished the detailed SB Ti-based targets by 
+asset group and sectors, including carbon-intensive sectors. We 
+have applied the Sector Decarbonization Approach (SDA) to power generation project finance, commercial real estate, cement and power generation sectors within the corporate l oans/bonds/stocks. 
+For other asset groups and sectors, we have applied the 
+Temperature Rating Approach (TRA ). For sectors such as PF 
+excluding power generation and automobile loans, where SBTi methodologies have not been prov ided, reduction targets have 
+been set using the Absolute Emis sion Reduction Approach (ACA), 
+consistent with the internal em issions measurement method. For 
+specific targets, please refe r to the SBTi Target Language and 
+Summary. 
+ 
+ 
+[Financial inclusion] 
+The BNK Financial Group, in collaboration with its four 
+subsidiaries—Busan Bank, Ky ongnam Bank, BNK Capital, and 
+BNK Savings Bank—has est ablished goals to expand financial 
+inclusion for self-employed i ndividuals and financially vulnerable 
+groups (such as small business ow ners, youth, etc.). Through the 
+‘Overcoming Crisis Together Project' , we plan to support a total of 
+14.7205 trillion KRW from August 2022 to July 2025. By alleviating 
+the financial burden on self-emplo yed individuals and financially 
+vulnerable groups caused by pr olonged recession concerns and 
+rising prices, we plan to contribut e to the achievement of the UN 
+SDGs (SDG 1 No poverty, SDG 8 Decent work and economic 
+growth, etc.) and support the Kore an government's direction for 
+financial inclusion. 
+ • Target 1 (Support for low-income families) - Support Direction: Support focused on securing liquidity to assist 
+loan customer in their economic activities 
+- Support Scale: 5.935 trillion KRW  (2022.08~2025.07) 
+- Detailed Support Content: Preferential Interest Rates for Mortgage 
+Loan Products, Specialized Credit  Loan Support for Individual 
+Business Owners, Expansion of support for small loans, Support for 
+low-interest loans for newlyweds and youth rental deposits, etc.
+
+=== Page 24 ===
+24 
+ 
+ 
+☐ No ☐ No ☐ No 
+Action plan ☒ Yes 
+☐ In progress 
+☐ No ☒ Yes 
+☐ In progress 
+☐ No ☐ Yes 
+☐ In progress 
+☐ No 
+ 
+ 
+2.3 Target implementation and monitoring (Key Step 2) 
+For each target separately: 
+Show that your bank has impl emented the actions it had previo usly defined to meet the set 
+target.  
+Report on your bank’s progress since the last r eport towards achieving each of the set targets 
+and the impact your progress resulted in, usi ng the indicators and KPIs to monitor progress 
+you have defined under 2.2. 
+Or, in case of changes to impl ementation plans (relevant for 2nd and subsequent 
+reports only): describe the potential chang es (changes to priority impact areas, changes to 
+indicators, acceleration/review of targets, intr oduction of new milestones or revisions of action 
+plans) and explain why those changes have becom e necessary. 
+Response 
+[Climate change  mitigation]  
+The status of internal em issions (Scope 1&2) and financed 
+emissions (Scope 3) for 2023 is as  follows. We have reviewed the 
+achievement rate against the set target and established plans for 
+achieving the targets for the next year. In the case of internal 
+emissions, we have fulfilled our targets. However, for financed 
+emissions, we exceeded the 2023 target by 2.33 million tCO 2eq 
+due to an increase in financed emission s from the fossil fuel sector 
+resulting from the expansion of energy assets. We plan to 
+continuously manage this through the expansion of a low-carbon 
+portfolio. For detailed performanc e on 11 detailed implementation 
+tasks, please refer to pages 61- 66, 34-40, 26-27, and 68-70 of the 
+Sustainability Report. 
+ 
+• Target 1 (Internal emissions Net Zero) - Scope 1 emissions: Target 26,288 tCO
+2eq (5% reduction 
+compared to baseline year 2022), Actual 26,175tCO 2eq 
+- Scope 2 emissions: Target 3,457 tCO 2eq (5% reduction compared 
+to baseline year 2022), Actual 3,170 tCO 2eq 
+ *Achievement rate 101%  • Target 2 (Financed emissions Net Zero):   
+- Absolute Emissions: Target 23.55 million tCO
+2eq, Actual 25.88 
+million tCO 2eq 
+- Financial Intensit y: Target 32.1tCO 2eq/100 million KRW, Actual 
+32.4 tCO 2eq/100 million KRW 
+ *Achievement rate 91% Links and references 
+BNK Financial Group 
+2023 Sustainability Report p.28-31, 61-66, 34-40, 26-27, 68-70, 
+71-77, 167-171

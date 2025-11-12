@@ -1,0 +1,271 @@
+=== Table 1 (page 33) ===
+,Emissions intensity per ounce maintained,,,Reduced total Scope 1 and Scope 2 emissions,,,,,
+,,,,Reduced total Scope 1 and Scope 2 emissions,,,,,
+"For example, water scarcity, a significant concern for dust",Reduced emissions intensity per ounce (Scope 1,,,Reduced total emissions (Scope 1,,,,,
+,,,,(t CO2-e),,,,,
+"suppression and processing activities, is being addressed",,,,,,,,,
+,and Scope 2 emissions CO2-e per ounce),,,and Scope 2 tonnes CO2-e),,,,,
+through water-saving initiatives such as recycling and,0.73,,,,,,,,
+"reuse. To safeguard worker safety, we are implementing",,,,,,,,,
+,,,,,-8.3%,,,,
+protocols to mitigate heat stress and developing,,,,,-8.3%,,,,
+,0.7,,,,,,,,
+emergency response plans for flooding and limited access,,,,,,,,,
+,,,,,,,,,
+during extreme weather events.,"-2.4%
+0.68",,,"184,993
+184,993
+178,651",,,,,
+,,,,"178,651",,,,,
+,,,,,,"169,576
+169,576",,,
+,,,,"164,360
+164,360",,,,,
+,0.66,,,,,,,,
+"To reduce our carbon footprint, we are implementing",,,,"143,858
+143,858",,,,,
+"energy efficiency improvements, electrification, and water",,,,,,,,,
+,,0.64,,,,,,,
+"conservation measures. Additionally, we are exploring",,,,,,,,,
+,,,,,,,,,Series 3
+opportunities arising from the shift towards a low-carbon,,,,Series 3,,,,2019,"Series 3
+143,858"
+,,,,,,,,2019,"143,858"
+,,,,"2020
+0.7",,,,2020,"164,360"
+"economy, such as increased demand for gold as a safe-",,,,,,,,2020,"164,360"
+,,,,"2021
+0.73",,,,"2021
+2021","178,651
+178,651"
+haven asset and its role in clean energy technologies.,,,,"2022
+0.68",,,,"2022
+2022","184,993
+184,993"
+,,,,"2023
+0.66",,,,"2023
+2023","169,576
+169,576"
+,,,,"2024
+0.64",,,,"2024
+2024","145,847
+145,847"
+"4.2.2 
+Decarbonising our operations",,,,"2021
+2022
+2020
+2019",,2023,,,
+,"2020
+2021
+2022
+2023",2024,,"2021
+2022
+2020
+2019",,2023,,,
+The mining industry is undergoing a rapid transition,,,,,,,,,
+towards decarbonisation. Westgold is actively responding,,,,,,,,,
+,Reliance on diesel graph,,,,,,,,
+to this challenge by reducing our carbon footprint and,,,,,,,,,
+,,,,,,,,,
+optimising energy consumption. Our achievements,"3,000,000",,,,,"400,000",,,
+include a 2.4% decrease in emissions intensity per,,,,,,,,,
+,"2,750,000",,,,,,,,
+ounce of gold produced and an 8.3% reduction in,,,,,,,,,
+,,,,,,"350,000",,,
+overall emissions in FY24. Key initiatives driving this,,,,,,,,,
+,"2,500,000",,,,,,,,
+"progress include the electrification of our operations,",,,,,,,,,
+,,,"53,066","49,466",,,,,
+,,,,749,,,,,
+,,,,,,,,,
+"the integration of renewable energy sources, and the","63,027",,"129,965","58,770",,,,,
+,"2,250,000",,,"73,890",,"300,000",,,
+,"121,672",,,,,,,,
+adoption of energy-efficient technologies.,,,,,,,,,
+,"43,054",,,,,,,,
+,"115,845",,,,,,,,
+,"2,000,000",,,,,,,,
+Collaborating with industry peers and environmental,,,,,,,,,
+,,,,"709,789",,"250,000",,,
+organisations is essential for accelerating progress. For,,,,,,,,,
+,"1,750,000",,,,,,,,
+"example, our collaboration with Pacific Energy has led to",,,,,,,,,
+"the construction of hybrid power stations, significantly","Energy Produced (GJ)
+1,500,000",,,"5,999",,"200,000",Total Emissions (t CO2-e),,
+"reducing our reliance on diesel fuel. Additionally, we",,,,"184,993",,,,,
+,,,"178,651",,,,,,
+have partnered with WesTrac to pilot hybrid underground,"1,250,000",,,,"169,576",,,,
+,"164,360",,,,,,,,
+,,,,"2,366,962",,,,,
+"loaders, and with Southern Mining Electrical Contractors",,,"2,248,255",,,"150,000",,,
+,"2,176,651
+143,858",,,,,,,,
+to implement ventilation-on-demand systems.,"1,000,000
+1,991,691",,,,,,,,
+
+=== Table 2 (page 35) ===
+"disrupt operations, damage infrastructure, and endanger",,climate disclosure standard in FY26.,,,,
+workers. Westgold’s approach focuses on building,,,,,,
+resilience through strategies such as:,,,,,,
+,,,,,Westgold’s progress,
+–,Implementing energy-saving measures and exploring,,,,,
+,,,Recommendation,Our current approach,Achievements in FY24,Actions for FY25+
+,clean energy sources such as solar power to reduce,,,,,
+,,Governance,Disclose the organisation’s,"Environmental, Social and","Assessment of 
+ –","Increase engagement 
+ –"
+,reliance on traditional fuels.,,,,,
+,,,governance around climate-,Governance Policy sets out our,company decision-,"with stakeholders,"
+–,"Water recycling, investigating alternative dust",,related risks and opportunities,approach and expectations with,making and capital,"including investors,"
+,"suppression methods, and exploring ways to diversify",,,respect to climate change across,allocation processes,"employees, and"
+,,,,the business.,for consideration and,"communities, to gather"
+,water sources are all part of Westgold’s water,,,,,
+,,,,,alignment with climate,feedback on climate-
+,stewardship efforts.,,,The Sustainability Committee of,,
+,,,,,risk management,related initiatives and
+,,,,the Westgold Board oversees the,,
+–,Maintaining a heat stress protocol with hydration,,,,processes.,ensure transparency.
+,,,,management of climate change,,
+,"stations, shaded areas, and flexible work schedules",,,and climate-related risks and,,
+,,,,opportunities. This committee,,
+,"will be developed, alongside employee training.",,,,,
+,,,,is supported by our ESG,,
+–,Conducting vulnerability assessments to identify,,,Working Group.,,
+,"areas susceptible to extreme heat damage, with",,,,,
+,,Strategy,Disclose the actual and,We have performed a high-level,"Development of a 
+ –","Identify and 
+ –"
+,upgrades or modifications planned within three years.,,,,,
+,,,potential impacts of climate-,assessment of the potential,Climate Change Action,evaluate additional
+–,Implementing a bushfire plan with evacuation,,related risks and opportunities,climate-related risks and,Plan.,opportunities that
+,"procedures, communication protocols, and employee",,on the organisation’s,opportunities for our business,"Delivery of emissions 
+ –",align with Westgold’s
+,,,"businesses, strategy and",and disclosed these in our FY21,reductions across the,business strategy and
+,"training, along with regular fire drills.",,,,,
+,,,financial planning where such,Sustainability Report.,business by investing in,sustainability goals.
+–,Collaborating with neighbouring communities,,information is material.,,renewable energy.,
+,to develop a water management plan that,,,,,
+,,Risk,Disclose how the organisation,Climate-related risks are,"Identification of key risks 
+ –","Integration of risk 
+ –"
+,addresses the needs of both the mine and local,,,,,
+,,Management,"identifies, assesses and",identified and assessed as part,as part of the Climate,assessment outcomes
+,"communities, fostering sustainable water resource",,,,,
+,,,managed climate-related risks.,of Westgold’s Risk Management,Change Action Plan.,into company
+,management in the region.,,,Framework. We continue to,,risk management
+,,,,embed systems to improve the,,processes.
+,,,,integration and understanding of,,
+,,,,climate risk across our business.,,
+,,Metrics,Disclose the metrics and,Westgold currently monitors,"Establishment of 
+ –","Undertake a readiness 
+ –"
+,,and targets,targets used to assess and,"GHG emissions (Scope 1 and 2),",emissions reduction,"assessment, gap"
+,,,manage relevant climate-,number of heat-related illnesses,goals and targets.,"analysis, and roadmap"
+,,,related risks and opportunities,and total costs incurred due to,,to address the incoming
+,,,where such information is,extreme climate-related events.,,Australian Sustainability
+,,,material.,,,Reporting Standards.
+
+=== Table 3 (page 51) ===
+GRI 300 Environmental Specific,,
+GRI Reference,Disclosure,Page
+GRI 302: Energy,,
+302-1,Energy consumption within the organization,56
+302-3,Energy intensity,57
+302-4,Reduction of energy consumption,33
+GRI 303: Water Effluents,,
+303-1 (Management approach disclosure),Interactions with water as a shared resource,43
+303-2 (Management approach disclosure,Management of water discharge-related impacts,43
+303-3,Water withdrawal,58
+303-4,Water discharge,58
+GRI 305: Emissions,,
+305-1,Direct (Scope 1) GHG emissions,59
+305-2,Energy indirect (Scope 2) GHG emissions,60
+305-3,Other indirect (Scope 3) GHG emissions,N/A
+305-4,GHG emissions intensity,60
+305-5,Reduction of GHG emissions,33
+305-7,"Nitrogen oxides (NOX), sulphur oxides (SOX), and other significant air",60
+,emissions,
+GRI 306: Waste,,
+306-2,Management of significant waste-related impacts,40
+GRI 307: Environmental Compliance,,
+307-1,Non-compliance with environmental laws and regulations,61
+
+=== Table 4 (page 53) ===
+5.2  SASB INDEX,,
+SASB Metals and Mining (Extractives and Minerals Processing Sector),,
+Topic,Accounting Metric,Category
+Greenhous Gas Emissions,"Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations",Quantitative
+,"Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions",Discussion and Analysis
+,"reduction targets, and an analysis of performance against those targets",
+Air Quality,"Air emissions of the following pollutants: (1) CO, (2) NOx (excluding N2O), (3) SOx, (4) particulate",Quantitative
+,"matter (PM10), (5) mercury (Hg), (6) lead (Pb), and (7) volatile organic compounds (VOCs)",
+Energy Management,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",Quantitative
+Water Management,"(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions",Quantitative
+,with High or Extremely High Baseline Water Stress,
+Water and hazardous materials management,Total weight of tailings produced,Quantitative
+,Total weight of waste rock generated,Quantitative
+,Description of waste and hazardous materials management policies and procedures for active,Discussion and Analysis
+,and inactive operations,
+Biodiversity Impacts,Description of environmental management policies and practices for active sites,Discussion and Analysis
+"Security, Human Rights and Rights of","Discussion of engagement processes and due diligence practices with respect to human rights,",Discussion and Analysis
+Indigenous People,"indigenous rights, and operation in areas of conflict",
+Community Relations,Discussion of process to manage risks and opportunities associated with community rights and,Discussion and Analysis
+,interests,
+
+=== Table 5 (page 56) ===
+Total,AUD,"1,279,641","1,296,106",,,,
+GRI 302-1: Energy Consumed by Facility and Source,,,,,,,
+Source,Activity,Unit,CGO,MGO,FGO,CORPORATE,Total
+Non-lubricant fluid oils,Energy Consumption - Liquid Fuels - Consumed without combustion,GJ,,,,,
+,,,"5,089","2,702",963,–,8755
+Diesel combusted,Fuel Combustion - Liquid Fuels - Electricity Generation,GJ,"120,885","512,470","131,512",–,"764,867"
+Diesel combusted,Fuel Combustion - Liquid Fuels - Non-Transport,GJ,"389,574","183,885","104,409",–,"677,869"
+LPG combusted,Fuel Combustion - Liquid Fuels - Non-Transport,GJ,"9,027","20,008","4,993",–,"34,028"
+Grease used as lubricant,Fuel Combustion - Liquid Fuels - Oils and greases,GJ,"1,346",979,496,–,"2,821"
+Lubricating oil used,Fuel Combustion - Liquid Fuels - Oils and greases,GJ,"4,843","4,538","3,786",–,"13,168"
+Diesel combusted,Fuel Combustion - Liquid Fuels - Transport,GJ,"26,718","31,036","11,145",–,"68,898"
+Electricity consumption,Energy Consumption - Electricity - Generated and consumed on site,GJ,"202,205","241,754","121,025",–,"564,984"
+Solar energy for electricity,Energy Consumption - Electricity - Generated and consumed on site,GJ,,,,,
+generation,,,"39,049","14,681","20,160",–,"73,890"
+Electricity produced for,Energy Production - Electricity Produced for On-site Consumption,GJ,,,,,
+operations,,,"-202,205","-241,754","-121,025",–,"- 564,984"
+Liquefied natural gas,Fuel Combustion - Gaseous Fuels - Electricity Generation,GJ,,,,,
+combusted,,,"406,043","121,685","182,061",–,"709,789"
+Acetylene combusted,Fuel Combustion - Gaseous Fuels - Non-Transport,GJ,17,18,5,–,40
+Soda ash usage,Industrial Processes - Mineral Products - Use of soda ash,GJ,–,–,–,–,–
+Electricity purchased,Scope 2 - Purchased Electricity,GJ,"5,198",–,–,801,"5,999"
+Electricity purchased,Scope 2 - Purchased Electricity - Other than main grid,GJ,–,–,–,–,–
+Total,,GJ,"1,007,790","892,002","459,529",801,"2,360,121"
+
+=== Table 6 (page 59) ===
+Total Water Consumption,"ML
+2,260","1,391",953,,"4,604",,,
+GRI 305-1: GHG Scope 1 by Facility and Source,,,,,,,,
+Activity,Source,Unit,,CGO,,MGO,FGO,Total
+Fuel Combustion - Liquid Fuels - Electricity Generation,Diesel combusted,t CO2-e,,"8,486",,"35,975","9,232","53,694"
+Fuel Combustion - Liquid Fuels - Non-Transport,Diesel combusted,t CO2-e,,"27,348",,"12,909","7,330","47,586"
+Fuel Combustion - Liquid Fuels - Non-Transport,LPG combusted,t CO2-e,,547,,"1,212",303,"2,062"
+Fuel Combustion - Liquid Fuels - Oils and greases,Grease used as lubricant,t CO2-e,,5,,3,2,10
+Fuel Combustion - Liquid Fuels - Oils and greases,Lubricating oil used,t CO2-e,,67,,63,53,183
+Fuel Combustion - Liquid Fuels - Transport,Diesel combusted,t CO2-e,,"1,881",,"2,185",785,"4,851"
+Fuel Combustion - Gaseous Fuels - Electricity Generation,Liquefied natural gas combusted,t CO2-e,,"20,923",,"6,270","9,382","36,575"
+Fuel Combustion - Gaseous Fuels - Non-Transport,Acetylene combusted,t CO2-e,,1,,1,–,2
+Industrial Processes - Mineral Products,Use of soda ash Soda ash usage,t CO2-e,,–,,–,–,–
+Total,,t CO2-e,,"59,259",,"58,620","27,085","144,964"
+
+=== Table 7 (page 60) ===
+GRI 305-2: GHG Scope 2 by Facility and Source,,,,,,
+,Units,CGO,MGO,FGO,CORPORATE,Total
+Scope 2 - Purchased Electricity,t CO2-e,765,–,–,118,883
+Scope 2 - Purchased Electricity - Other than main grid,t CO2-e,–,–,–,–,–
+Total,,765,–,–,118,883
+GRI 305-4: GHG Intensity by Facility (Ore Processed),,,,,,
+Parameter,Units,CGO,MGO,FGO,CORPORATE,Total
+Scope 1 + 2,t CO2-e,"60,024","58,620","27,085",118,"145,847"
+Ore processed,Tonne,"1,287,916","1,420,973","772,891",–,"3,481,780"
+Intensity,tCO2-e/t,46.61,41.25,35.04,N/A,41.89
+GRI 305-4: GHG Intensity by Facility (gold produced),,,,,,
+Parameter,Units,CGO,MGO,FGO,CORPORATE,Total
+Scope 1 + 2,t CO2-e,"60,024","58,620","27,085",118,"145,847"
+Gold produced,Troy oz,"72,137","96,344","58,065",–,"226,546"
+Intensity,kg CO2-e/t,832.09,608.44,466.46,N/A,643.79

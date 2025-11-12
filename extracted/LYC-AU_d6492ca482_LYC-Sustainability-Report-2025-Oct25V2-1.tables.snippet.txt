@@ -1,0 +1,156 @@
+=== Table 1 (page 2) ===
+FY25 Key Figures and Highlights,,1,7.,Caring for our Planet,20
+,,,7.1,Climate change,20
+Letter from our Board Chair & CEO,,2,,,
+,,,7.2,Impact of GHG emissions,22
+,,,7.3,Land use and ecological sensitivity,22
+1.,Our Sustainability Reporting,4,,,
+,,,7.4,Water,26
+2.,Our Operations,6,7.5,Air quality,27
+,,,7.6,Impact of solid waste disposal,27
+3.,Principles of Governance,7,,,
+3.1,Governing purpose,7,8.,Caring for our Communities,
+,,,,– Building Prosperity,30
+3.2,Quality of governing body,8,,,
+3.3,Stakeholder engagement,,8.1,Employment and wealth generation,30
+,and material topics,8,8.2,Economic contribution,31
+,,,8.3,Innovation of better products,
+4.,Ethical Behaviour,10,,,
+,,,,and services,32
+4.1,Anti-corruption,10,8.4,Community and social vitality,32
+4.2,Initiatives and stakeholder,,,,
+,engagement to combat corruption,10,9.,Performance Data Tables,37
+4.3,Protected ethics advice and,,,,
+,reporting mechanisms,10,,Appendix 1: Stakeholder Engagement,43
+4.3.2  Reporting integrity concerns,,11,,,
+,,,,Appendix 2: Navigation Index,45
+5.,Risk and Opportunity Oversight,12,,,
+5.1,Information security,12,,Appendix 3: Memberships and Initiatives,51
+5.2,Critical incident planning,13,,,
+5.3,Remuneration,14,,Appendix 4: Scope 3 Evaluation Status,52
+5.4,Auditor independence,14,,,
+5.5,Public policy development,14,,,
+6.,Caring for our People,15,,,
+6.1,Dignity and equality,15,,,
+,,,PHOTO,,
+6.2,Health and wellbeing,16,,Cover: Lynas’ Kalgoorlie Rare Earths Processing,
+6.3,Skills for the future,18,,Facility – photo by Kristy Bodycoat.,
+
+=== Table 2 (page 24) ===
+Caring for our Planet,,,
+Lynas Malaysia energy use,,,
+The Lynas Malaysia plant primarily uses natural gas and grid electricity. Some diesel is consumed in machines and,,,
+processes. The 0.75MW rooftop solar array was commissioned and began operating in FY25.,,,
+,,7.1.1,Greenhouse gas emissions
+OUR FY25,OUR FY26,Our performance,
+ACHIEVEMENT,GOAL,,
+,,,Lynas monitors and reports on total Scope 1 and Scope
+,,,2 GHG emissions in line with the GHG Protocol and
+Mt Weld hybrid,Mt Weld – 65MW,,Australia’s National Greenhouse Energy Reporting
+power station gas,hybrid power station,,(NGER). Our Scope 1 and Scope 2 GHG emissions data
+plant constructed and,"(solar, wind, battery,",,
+,,,is available in Section 9 Performance Data Tables.
+commissioned and solar,gas) commissioned,,
+farm constructed,and fully operational,,
+,,,Scope 3 emissions are divided into different categories
+,,,and Appendix 4 provides an overview of the evaluation
+,,status for each category.,
+
+=== Table 3 (page 41) ===
+Kalgoorlie energy produced and energy consumed,,,,,
+Primary energy – Scope 1,FY21,FY22,FY23,FY24,FY25
+Natural gas/liquid petroleum gas GJ,,,,"61,227","172,562"
+,N/A,0 0,0 0,,
+MWh,,,,"17,007","47,934"
+Diesel GJ,,"13,562","132,480","52,284","5,971"
+,N/A,,,,
+MWh,,"3,797","36,800","14,523","1,659"
+Energy Consumed Total GJ,,"13,562","132,480","113,510","178,533"
+,N/A,,,,
+Total MWh,,"3,797","36,800","31,531","49,592"
+Secondary energy – Scope 2,FY21,FY22,FY23,FY24,FY25
+Electricity consumed MWh,N/A,N/A,23,"6,673","27,581"
+Total MWh,N/A,N/A,23,"6,673","27,581"
+
+=== Table 4 (page 41) ===
+Lynas Malaysia primary and secondary energy produced and energy consumed,,,,,
+Primary energy – Scope 1,FY21,FY22,FY23,FY24,FY25
+Natural gas/liquid petroleum gas GJ,"732,384","746,717","791,091","681,593","718,101"
+MWh,"203,440","207,421","219,748","189,331","199,472"
+Diesel GJ,"31,364","32,604","31,040","24,321","30,929"
+MWh,"8,712","9,057","8,622","6,756","8,592"
+Total GJ,"763,748","779,321","822,131","705,914","749,030"
+Total MWh,"212,152","216,418","228,370","196,087","208,064"
+
+=== Table 5 (page 42) ===
+Metric tonnes of CO2 equivalents (tonnes CO2-e),,,,,,
+Reporting Year,,FY21,FY22,FY23,FY24,FY25
+,Scope 1,"19,697","27,420","29,990","28,523","42,451**"
+Mt Weld,Scope 2,–,–,–,–,–
+,Scope 1+2,"19,697","27,420","29,990","28,523","42,451**^"
+,Scope 1,N/A,956,"9,324","3,686","10,809"
+Kalgoorlie,Scope 2,N/A,–,12,"3,904","14,066"
+,Scope 1+2,N/A,956,"9,336","7,590","24,875"
+,Scope 1,"39,951","40,807","42,952","36,837","27,549"
+Malaysia,Scope 2,"43,917","42,831","43,568","38,688","54,500"
+,Scope 1+2,"83,868","83,868","86,520","75,525","82,049"
+,Scope 1,"59,648","67,412","82,266","69,046","80,809^"
+Total – Combined sites,Scope 2,"43,917","42,831","43,580","42,592","68,566"
+,Scope 1 + 2,"103,565","112,014","125,846","111,638","149,375^"
+
+=== Table 6 (page 50) ===
+GRI,Disclosure,Location
+Standard,,
+Emissions,,
+305-1,Direct (Scope 1) GHG emissions,Caring for our Planet – Page 20–22
+,,Performance Data Tables – Page 39–40
+305-2,Energy indirect (Scope 2) GHG emissions,Caring for our Planet – Page 20–22
+,,Performance Data Tables – Page 39–40
+305-3,Other indirect (Scope 3) GHG emissions,Caring for our Planet – Page 20–22
+,,Appendix 4: Scope 3
+,,Evaluation Status – Page 52
+305-4,GHG emissions intensity,Caring for our Planet – Page 20–22
+,,Performance Data Tables – Page 39–40
+305-5,Reduction of GHG emissions,Caring for our Planet – Page 20–22
+,,Performance Data Tables – Page 39–40
+305-7,"Nitrogen oxides (NOx), sulphur oxides",Performance Data Tables – Page 41
+,(SOx) and other significant air emissions,
+Waste,,
+306-1,Waste generation and significant,Caring for our Planet – Page 27–28
+,waste-related impacts,
+306-2,Management of significant waste-,Caring for our Planet – Page 27–28
+,related impacts,
+306-3,Waste generated,Caring for our Planet – Page 27–28
+306-4,Waste diverted from disposal,Caring for our Planet – Page 27–29
+306-5,Waste directed to disposal,Caring for our Planet – Page 27–29
+Supplier environmental assessment,,
+308-1,New suppliers that were screened using,Caring for our Communities – Building Prosperity
+,environmental criteria,– Page 32
+Employment,,
+401-1,Total number and rates of new employee,Caring for our Communities – Building Prosperity
+,hires and employee turnover,– Page 30–31
+,,Performance Data Tables – Page 41
+401-2,Benefits provided to full-time employees,Caring for our People – Page 15–16
+,that are not provided to temporary or,
+,part-time employees,
+401-3,Parental leave,Caring for our People – Page 16
+
+=== Table 7 (page 54) ===
+Category name,Evaluation status
+Category 1: Purchased Goods and Services,"300,000–350,000 tons of CO2 eq"
+Category 2: Capital Goods,–
+Category 3: Fuel- and Energy-Related Activities Not Included in Scope 1 & 2,–
+Category 4: Upstream Transportation and Distribution,–
+Category 5: Waste Generated in Operations,–
+Category 6: Business Travel,"25 to 30 tCO2eq per year,"
+,composed mainly of Air
+,Travel emissions
+Category 7: Employee Commuting,–
+Category 8: Upstream Leased Assets,Not applicable
+Category 9: Downstream Transportation and Distribution,"70,000–80,000 tonnes of CO2 eq"
+Category 10: Processing of Sold Products,"100,000–110,000 tonnes of CO2 eq"
+Category 11: Use of Sold Products,–
+Category 12: End-of-Life Treatment of Sold Products,–
+Category 13: Downstream Leased Assets,Not applicable
+Category 14: Franchises,Not applicable
+Category 15: Investments,Not applicable

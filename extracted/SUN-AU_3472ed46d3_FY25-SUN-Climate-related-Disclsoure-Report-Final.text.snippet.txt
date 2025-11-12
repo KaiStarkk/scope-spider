@@ -1,0 +1,199 @@
+=== Page 4 ===
+1.  Suncorp governance and policies, https://www.suncorpgroup.com.au/about/corporate-governance .
+2.  Australian Accounting Standards Board, Australian Sustainability Reporting Standard -  
+AASB S2, https://standards.aasb.gov.au/aasb-s2-sep-2024 .Governance
+Board oversight
+The SGL Board and the Vero Insurance New Zealand Limited Board (VINZL) each 
+have their own regular schedule of meetings throughout the financial year to 
+discuss matters outlined in their respective charters. They have oversight of climate-
+related risks and opportunities across Australia and New Zealand respectively, and 
+are accountable for the approval of climate-related targets and annual climate-
+related disclosure reports. They delegate authority to their own respective Board 
+Risk and Audit Committees through their charters1 for specific governance activities. 
+The SGL Board Risk Committee (BRC) meets at least four times per year, and 
+approves the risk appetite for climate-related risk and oversees management of 
+these risks including transition and physical risks. The BRC reviews and approves 
+climate scenario analysis and outcomes. 
+The SGL Board Audit Committee meets at least four times per year, and 
+recommends updates or changes in relation to climate-related reporting and 
+other sustainability matters to the SGL Board. 
+In FY25, the SGL Board and its Committees considered a wide range of key 
+climate-related physical and transition risks and opportunities impacting 
+reinsurance, natural hazard allowances, risk selection and pricing, climate-related 
+regulatory change, and climate transition targets.
+Board Skills
+The board skills matrix outlines the current skills and expertise of the Board, including 
+in areas relevant to the management of physical and transition risks. It covers a 
+range of categories, such as strategy; major change and transformation, regulatory 
+environment; risk management; customer outcomes; sustainability; and accounting 
+and financial reporting. The Board skills matrix and annual self-assessment are 
+designed to ensure the Board has the capability to identify, assess and monitor 
+responses to existing and emerging risks and opportunities arising from environmental 
+and social issues. 
+Management role
+Suncorp’s Executive Leadership Team (ELT) is responsible for identifying and 
+managing climate-related risks and opportunities across the organisation. 
+Where required, these matters may be escalated to relevant ELT management 
+committees, such as the Executive Risk Committee, and, if appropriate, further 
+to the Suncorp Group Limited Board or its committees. The ELT is supported in 
+these responsibilities by recommendations and advice from both internal and 
+external experts, as well as input from business governance committees including 
+the Responsible Investment Committee and AASB S22 Steering Committee. 
+These processes are underpinned by a suite of internal policies, controls, and 
+procedures, developed in line with Suncorp’s broader standards, to guide the 
+Group’s response to climate-related risks and opportunities.
+While there are no standalone climate-related measures in Suncorp’s executive 
+remuneration framework, appropriate consideration and management of climate-
+related physical risks can impact executive remuneration outcomes. For example, 
+indirect links to physical risk are embedded in risk management performance 
+measures in the executive remuneration framework and Suncorp’s scorecard.Climate-related risks and 
+opportunities that form part of our  
+ELT accountabilities include: 
+CEO
+Accountable for the delivery of climate-related 
+risk management within Suncorp’s strategy and 
+business plan. Accountable for overall strategy 
+and corporate governance of the group.
+CFO
+Accountable for delivering climate-related targets  
+and sensitive sector exclusions for Suncorp’s 
+investment portfolios. Accountable for partnering 
+with the business in delivery of climate-related 
+disclosures, and the accounting and reporting of 
+financed emissions. Accountable for the delivery 
+of the climate scenario analysis. Accountable for 
+the reinsurance program, capital management 
+and financial reporting.
+CE People, Legal & Corporate Services
+Accountable for delivering Scope 1, 2 & 
+upstream Scope 3 GHG emissions (excluding 
+financed emissions). Oversees performance 
+against Suncorp’s Scope 1 & 2 net-zero target, 
+including the purchase of renewable electricity. 
+Accountable for procurement suppliers’ 
+engagement. Accountable for the provision of 
+legal advice in climate-related disclosures. 
+CE Consumer Insurance
+Accountable for delivering pricing and analytics  
+for consumer insurance portfolios. Oversees end-to-
+end customer experience including consumer home 
+and motor claims and natural hazard response. 
+Accountable for engagement with claims suppliers. 
+Oversees delivery of Suncorp’s resilient Australia 
+advocacy strategy. 
+CE Commercial & Personal  
+Injury Insurance
+Accountable for delivering natural hazard 
+pricing and analytics for commercial insurance 
+portfolios. Oversees end-to-end customer 
+experience, including commercial and 
+personal injury claims response. Accountable 
+for implementing Sensitive Sector Standard 
+exclusions within commercial underwriting. 
+CRO Suncorp
+Accountable for setting Suncorp’s risk 
+management frameworks. Oversees the first 
+line of defence on risk management activities, 
+including climate-related risk, advocacy and 
+reports to the SGL Board Risk Committee. 
+CEO Suncorp New Zealand
+Accountable for Suncorp New Zealand's 
+climate-related strategy, business planning, risks 
+and opportunities, and performance against 
+climate-related commitments and targets,  
+including Sensitive Sector Standard exclusions 
+within commercial underwriting. Accountable for 
+meeting Suncorp New Zealand climate-related 
+obligations and Suncorp climate-related policies 
+and standards.
+4     Climate Report FY2024-254     Climate Report FY2024-25
+INTRODUCTION
+
+=== Page 11 ===
+Climate Transition Plan
+Suncorp’s Climate Transition Plan focuses on our operations, investment portfolio and supply chain. The new and updated targets (refer to 
+the table below) replace our previous Climate Change Action Plan, with prior commitments either achieved or revised. 
+Suncorp is preparing to adhere to the mandatory climate reporting requirements outlined by the Australian Sustainability Reporting 
+Standards. We note that the Australian Accounting Standards Board (AASB) is determining whether Scope 3 insurance-associated emissions 
+relating to the underwriting of our customers must be included. Accordingly, Suncorp will defer any decision regarding the disclosure of 
+insurance-associated emissions until the AASB has issued its determination.
+Suncorp’s climate transition commitments
+Value chain Scope Status Action Page
+OperationsReduce our Scope 1 & 2 absolute emissions to  
+net-zero by end FY30, from an FY20 baseline.Existing 
+restatedTarget
+RE100 commitment to purchase 100% renewable 
+electricity across our operations in 2025.Existing Target
+Procurement and 
+claims suppliersAnalyse the climate commitments and progress of 
+our major procurement suppliers by spend to build 
+our understanding of their climate maturity.New Monitor
+Engage our property claims panel builders and 
+motor claims mobility suppliers that support our 
+Australian operations to continue to build our 
+understanding of their climate maturity.New Engage
+InvestmentsTarget an emissions intensity of listed equities 
+and corporate bonds portfolio (sub portfolio) 
+(investees’ Scope 1 & 2 emissions) to be at least 
+60% lower at the end of FY30, compared to the 
+emissions intensity of the sub portfolio in FY20.New Target
+Engage with 100% of our external investment 
+managers each year to foster open dialogue on 
+climate objectives.New Engage
+Invest 5% of shareholder funds in social- and 
+lower-carbon impact investments.Existing Target
+Apply fossil fuel exclusions across aspects of our 
+investment portfolio through Suncorp’s Sensitive 
+Sector Standard.1Existing 
+revisedExclusion
+Insurance portfoliosApply fossil fuel exclusions across aspects of 
+our commercial underwriting portfolio through 
+Suncorp’s Sensitive Sector Standard.1Existing 
+revisedExclusion
+1.  For more information on the application of the Sensitive Sector Standard to our investment and commercial insurance portfolios, refer to pages 16 and 17 respectively.
+Climate Report FY2024-25     11Climate Report FY2024-25     11
+
+=== Page 12 ===
+Scope 1 & 2 emissions
+Restated Scope 1 & 2 emissions and performance
+Suncorp to reduce our absolute Scope 1 & 2 emissions to net-zero by 2030 from an FY20 baseline.
+Our Scope 1 & 2 net-zero 2030 target requires Suncorp to reduce absolute emissions by at least 90% with the residual emissions abated 
+through high-quality nature- or technology-based carbon credits. This 2030 net-zero target applies to activities associated with Suncorp’s 
+insurance operations in Australia and New Zealand.
+To achieve our Scope 1 & 2 net-zero target by 2030, we intend to maintain our renewable electricity supply agreements, further enhance the 
+energy efficiency of our buildings, and progressively reduce the size of our corporate fleet whilst continuing the transition to hybrid and 
+electric vehicles. Our assumption is there will continue to be a competitive market for renewable electricity products, and an ongoing supply 
+of hybrid and electric vehicles into Australia between now and FY30. 
+In the short-term Suncorp's focus is on absolute emissions reduction however, if Suncorp decides to purchase carbon credits in the future 
+to meet its net-zero goals, it expects to consider the principles aligned to the most current global best practices. We will ensure the high 
+integrity of the credits purchased and disclose the relevant assessment criteria along with purchased carbon detail.
+Our Scope 1 & 2 emissions performance
+In FY25, we achieved: 10% year-on-year reduction in our Scope 1 & 2 market-based emissions. Contributing to a total reduction of 85%1, 4 from  
+a restated FY20 baseline. 
+Scope 1 & 2 net-zero performance restated
+FY201, 2FY231, 2FY241, 2FY251, 4
+Scope 1 1,731 1,419 1,324 1,245
+Scope 2 (market-based) 11,348 1,949 848 718
+Scope 2 (location-based) 14,751 9,802 8,333 6,074
+Scope 1 & 2 (market-based) tCo2-e313,078 3,368 2,172 1,963
+Scope 1 & 2 (market-based) % reduced from FY20 baseline 0 74% 83% 85%
+Progress to date can be attributed to renewable electricity supply agreements which include the purchase of renewable energy certificates, 
+selecting energy efficient buildings, installing rooftop solar in viable locations, and the transition of our corporate fleet to hybrid and  
+electric vehicles.
+ 
+The recent divestment of Suncorp Bank and Asteron Life, resulted in a change to our organisational boundary. We've recalculated 
+our FY20 Scope 1 & 2 emissions baseline to exclude emissions from Suncorp Bank and Asteron Life in the FY20 baseline year and are 
+restating performance towards our 2030 net-zero target.
+The current year Scope 1, 2 and upstream 3 emissions and other environmental metrics such as renewable electricity data are reported 
+using a 10 +2 approach. This means that FY25 metrics include 10 months of actual and estimated data up to 30 April 2025 and 2 months of 
+forecast data up to 30 June. Our prior 10+2 data is restated to full 12 months data each year.
+Refer to our FY25 Sustainability Data Pack - Environment section for historical performance and additional detail on Scope 1, 2 and 
+upstream Scope 3 metrics, and the Climate Reporting Supplement for methodological notes and the basis upon which these metrics and 
+targets are prepared.
+1.  Subject to limited independent assurance by KPMG. Please refer to the assurance opinion included on the Suncorp website, https://www.suncorpgroup.com.au/corporate-
+responsibility/reports.
+2.  Metrics restated due to a change in organisational boundary. FY24 metrics restated from the previously disclosed 10+2 metric to reflect 12 months of data. 
+3.  Slight variances may occur when comparing the total annual sum of Scope 1 & 2 market-based emissions to the individual Scope 1 and Scope 2 emission categories due to rounding.
+4.  FY25 GHG metrics reported on a 10+2 basis. See the Climate Reporting Supplement for details on methodology and basis for preparation.
+12     Climate Report FY2024-2512     Climate Report FY2024-25
+INTRODUCTION

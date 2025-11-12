@@ -1,0 +1,418 @@
+=== Page 6 ===
+NEXTDC supports a broad 
+range of industries, including:
+National critical 
+infrastructure
+Government
+Research and 
+education
+Technology and AI
+Machine learning
+Hyperscale cloud 
+providers
+Financial services
+Healthcare
+Telecommunications
+Media and 
+entertainment
+Retail and 
+e-commerce
+Professional 
+services
+FY25 sustainability highlights
+Environmental highlights
+ ▪NEXTDC’s M2 Melbourne was the first data 
+centre in the Asia-Pacific region to be awarded 
+an Uptime Institute Sustainability Award.
+ ▪NEXTDC’s KL1 Kuala Lumpur was awarded a 
+provisional Platinum rating, the highest rating 
+under Malaysia’s Green Building Index (GBI) for 
+the design of the facility.
+ ▪First deployment of direct liquid-to-chip cooling 
+as the primary solution supporting 50MW of IT 
+load.
+Social highlights
+ ▪Our inaugural Graduate Program launched 
+successfully in February 2025.
+ ▪Achieved a 75% employee engagement score on 
+our NXTPulse survey, with high levels of career 
+satisfaction, inclusion, and access to mental 
+health support highlighted across the business.
+ ▪Our Reflect Reconciliation Action Plan (RAP is 
+now on track for final submission and imminent 
+public launch, marking a significant step in our 
+reconciliation journey.
+ ▪We continued the Women Rising program to 
+support women’s leadership development, 
+alongside the Male Allies program to equip men 
+to champion gender equity.
+ ▪Strengthened supplier codes of conduct and 
+human rights due diligence across supply chain 
+in Asia. 
+Governance highlights
+ ▪Completed our first comprehensive and 
+independent Double Materiality Assessment.
+ ▪Implemented enhanced monitoring tools and 
+completed third-party audits on cybersecurity 
+and privacy controls aligned with ISO/IEC 27001.PUE 1.44 WUE 2.25 CUE 1.04
+Scope 2 emissions7 ,927 tCO₂-e 358,348 tCO₂-e  significant 
+environmental 
+incidents0 Scope 1 emissionsData centres
+operational17
+under 
+construction4
+in planning7On-site solar generation884,955 kWh
+80272.06%
+Landfill diversion
+hours volunteering
+Mental Health 
+First Aid Officers 
+globally56staff
+As of 30 June 2025
+Female 
+representation total31%
+Female Board 
+representation38%381
+LTIFR
+In our data centres1.4
+0
+In our construction projectsLTIFRTRIFR 1.4
+TRIFR 1.4Training completed for WHS88.2%
+Information 
+Security training96%
+Modern Slavery 
+training 97.3%6
+NEXTDC FY25 Environmental, Social and Governance Report
+
+=== Page 8 ===
+Sustainable procurement and 
+supply chains
+NEXTDC’s supply chain spans building 
+contractors, equipment 
+manufacturers, utility providers, and 
+technology and service partners. We 
+manage these relationships through 
+procurement practices that emphasise 
+sustainability, compliance, and ethical 
+conduct. While our direct influence 
+may lessen further upstream, we 
+promote responsible business 
+practices through our Supplier Code of 
+Conduct and ESG due diligence 
+processes. These include modern 
+slavery risk assessments, supplier 
+self-assessments and targeted ESG 
+questionnaires. Our approach is 
+grounded in a risk-based methodology 
+that helps identify and manage key 
+environmental, social, and governance 
+risks across the value chain, with an 
+emphasis on transparency, 
+accountability, and continuous 
+improvement.
+Design and innovation
+Our design and engineering teams 
+embed high-performance, scalable, 
+and sustainable infrastructure 
+principles from day one. This includes 
+modular builds, advanced cooling 
+systems, and automation-ready 
+facilities in order to futureproof our 
+operations. We also focus on climate 
+risk resilience and energy efficiency at 
+the design stage.
+Site selection and design
+NEXTDC’s value chain begins with 
+identifying and securing sites that 
+support our growth while minimising 
+environmental and community 
+impacts. Our site selection process 
+integrates sustainability considerations 
+such as energy security, water 
+availability and biodiversity.
+Customer success and digital 
+access
+NEXTDC supports a diverse 
+customer base with a global 
+footprint, focused on building 
+long-term, collaborative 
+relationships. Our customers rely on 
+us for reliable, secure, and 
+lower-carbon digital infrastructure. 
+Through initiatives like NEXTNeutral 
+and customised sustainability 
+reporting, we enable them to 
+progress their own ESG goals. 
+We’re also helping expand access 
+to secure, high-performance digital 
+services that underpin modern 
+digital economies.
+Capital works and 
+construction
+We deliver high-quality 
+digital infrastructure 
+through disciplined 
+capital works 
+execution. This 
+includes coordination 
+with utility providers, 
+regulators, and delivery 
+partners to ensure 
+on-time, on-budget 
+builds while managing 
+resource efficiency and 
+embodied carbon 
+outcomes.
+Operations
+Our data centres are optimised for 
+uptime, energy efficiency, and security. 
+Operations teams use digital 
+monitoring, AI-powered analytics, and 
+predictive maintenance to improve 
+resource performance.
+Emissions and circularity
+We measure Scope 1 and 2 emissions. Waste from operations and 
+construction is managed through recycling, reuse, and diversion from 
+landfill. Circular design principles are applied to reduce the lifecycle impacts 
+of our infrastructure.
+People
+At NEXTDC, we strive to be a leading employer by fostering a safe, 
+inclusive, and high-performing workplace. Globally, our people help drive a 
+culture of excellence and value creation. We are committed to protecting 
+the physical, mental, and social wellbeing of our workforce. Through strong 
+DE&I principles, comprehensive policies, and ongoing training, we nurture 
+talent and provide meaningful pathways for growth and development.
+Energy and water stewardship
+NEXTDC is taking a more conscious approach 
+to the resources and energy that support the 
+delivery of our data centres. We are prioritising 
+lower-carbon and embodied carbon materials in 
+construction, with a preference for those that 
+are locally sourced, supporting regional 
+suppliers and reducing emissions associated 
+with transport. We also recognise the 
+importance of managing long-term energy risks 
+and are progressively exploring opportunities to 
+transition to lower-emission energy sources. 
+This includes long-term sourcing of renewable 
+energy, co-locating with low emissions energy 
+sources, low-carbon alternate fuels, continuing 
+to invest in on-site solar generation where 
+feasible, and working closely with our partners 
+to identify solutions that support more 
+sustainable energy outcomes over time. 
+We continue to maintain a strong focus on 
+PUE and WUE. Water-based cooling is 
+preferred for its efficiency, and we  
+continue to fine-tune system  
+performance to reduce impact.
+Connectivity and partnerships
+With over 750 partners in our 
+ecosystem, we enable seamless 
+cloud, network, and digital platform 
+connectivity. Our partnerships with 
+digital, energy, and technology 
+providers help build more integrated, 
+resilient infrastructure across 
+Australia and the region.
+Community engagement
+We invest in local communities 
+through volunteering, charity 
+partnerships, and programs that 
+support skills development and 
+long-term resilience.
+End-user value creation
+Our operations create local 
+economic value through 
+employment, supply chain contracts 
+and investment in digital 
+infrastructure that provides a 
+material services. We prioritise local 
+supplier engagement and invest in 
+community initiatives focused on 
+STEM, inclusion, and digital 
+empowerment.Upstream Downstream
+ Own operations
+8
+NEXTDC FY25 Environmental, Social and Governance Report
+
+=== Page 10 ===
+Key   Highest materiality        High materiality        Moderate materiality        Peripheral materialityMaterial topic DefinitionFinancial 
+materialityImpact 
+materialityRisk Opportunities Management of material topics GRI topicsPage 
+reference
+Energy 
+managementManaging energy demand and improving energy 
+efficiency across operations, with a focus on 
+reducing reliance on grid-supplied electricity and 
+improving energy performance metrics.●●●● ●●●●Rising electricity prices, grid unreliability 
+and high cooling demands in dense data 
+environments.Lower operating costs, improved asset efficiency, and 
+market leadership through innovation in energy 
+performance (e.g., AI-optimised cooling, on-site solar, 
+and PUE reductions).Tracking Power Usage Effectiveness (PUE), embedding 
+energy efficient design in all new builds, NABERS energy 
+ratings, investing in advanced cooling technology tailored 
+to high-density, AI-ready workloads.GRI 103: Energy 24
+ESG 
+governanceEnsuring Board and executive leadership 
+oversight, accountability, and integration of ESG 
+factors into business strategy, risk management, 
+and decision-making frameworks.●●●● ●●●●ESG reporting misalignment, greenwashing 
+claims, non-compliance, loss of investor 
+trust. Strengthened brand and investor confidence, improved 
+access to sustainable finance, ability to lead in an 
+evolving regulatory landscape.ESG Council establishment, Double Materiality 
+Assessment, ESG KPIs integrated into risk and executive 
+management, reporting aligned to best practice 
+sustainability frameworks, participation in independent 
+ESG ratings and certifications.GRI 2: General 
+Disclosures14
+Cybersecurity 
+and data 
+privacyProtecting customer and company data by 
+implementing robust security systems and 
+ensuring compliance with privacy laws and 
+expectations.●●●● ●●●●Cybersecurity breaches and privacy 
+violations can lead to regulatory penalties, 
+service disruption, and reputational 
+damage. High data security and compliance provide competitive 
+advantage and enhance customer trust, especially in 
+colocation environments.ISO27001 certification, SOC 1 & 2, PCI-DSS compliance, 
+privacy and cyber awareness training, regular audits and 
+incident simulations.GRI 418: 
+Customer 
+Privacy18
+Safety 
+management 
+and 
+performanceManaging health and safety risks across all 
+operational sites to prevent incidents, injuries and 
+ensure a safe environment for workers and 
+contractors.●●●● ●●●●Workplace incidents, including contractor 
+safety failures, may result in regulatory 
+action or project delays.Proactive safety programs improve contractor 
+performance, reduce liability, and promote a strong 
+safety culture across all builds.ISO45001 certification, Safety in Design processes, 
+digital incident reporting, proactive site safety 
+inspections and training programs.GRI 403: 
+Occupational 
+Health and 
+Safety34
+Water use and 
+stewardshipProactively managing water use across data 
+centre operations by improving efficiency, 
+reducing potable water withdrawal, and 
+protecting water resources.●●●○ ●●●○Water stress in operating regions, certainty 
+in water source, regulatory constraints on 
+water-intensive cooling methods, and 
+reputational risks around resource use.Enhanced resilience through water-efficient cooling, 
+lower operating costs, transitioning to non-potable 
+water sources and optimised WUE performance.WUE tracking, water-efficient site design, use of 
+harvested/reticulated water, and site-level water 
+management strategies.GRI 303: Water 
+and Effluents29
+Business ethics 
+and 
+transparencyEmbedding ethical business practices and 
+transparent communication to meet legal 
+obligations and support stakeholder trust.●●●○ ●●●○Misconduct, non-compliance, or lack of 
+transparency can erode reputation and 
+result in legal consequences.Strong ethical conduct improves stakeholder trust, 
+strengthens license to operate, and mitigates 
+governance risks.Code of Conduct; training on ethics and modern slavery; 
+formal ESG governance and public ESG disclosures.GRI 205: 
+Anti-corruption
+GRI 206: 
+Anti-competitive 
+Behavior17
+Responsible 
+sourcingEmbedding sustainability principles into 
+procurement and supplier engagement to reduce 
+social and environmental risks in the supply 
+chain.●●●○ ●●○○Supply chain exposure to modern slavery, 
+carbon-intensive inputs, or poor practices 
+creates legal and reputational risk.Sustainable procurement builds resilience, unlocks 
+social value, and supports emissions reduction through 
+supplier innovation.Supplier ESG audits; Sustainable Procurement Strategy; 
+modern slavery training and ISO20400 alignment 
+investigations.GRI 204: 
+Procurement 
+Practices
+GRI 414: 
+Supplier Social 
+Assessment22
+Employee 
+relations and 
+benefitsProviding a strong employee value proposition 
+(EVP) that attracts and retains talent, enhances 
+wellbeing, and builds internal capability.●●●○ ●●●○Poor engagement or lack of benefits can 
+increase turnover and reduce productivity.Strong EVP, wellbeing initiatives, and leadership 
+development attract top talent and strengthen long-term 
+workforce capability.Employee wellbeing programs, NEXTPoll engagement 
+surveys, capability frameworks, and DE&I informed 
+retention strategies.GRI 401: 
+Employment
+GRI 404: 
+Training and 
+Education37
+Sustainability 
+focused 
+innovationDeveloping and deploying innovative technologies 
+and processes to improve sustainability 
+outcomes across energy, emissions, water, and 
+materials.●●●○ ●●●○Failure to innovate can result in regulatory 
+lag, operational inefficiencies, or customer 
+attrition.Differentiation through leading-edge design (e.g. 
+AI-ready cooling), lower lifecycle impacts, and 
+first-mover advantage in climate adaptation.R&D investment in advanced cooling; embodied carbon 
+assessments; internal innovation pipelines; trialling 
+Uptime Sustainability Assessments.N/A 21
+Climate change 
+and GHG 
+emissionsMeasuring, managing, and reducing greenhouse 
+gas emissions across Scope 1, 2 and transitioning 
+to net zero.●●○○ ●●●○Regulatory transition risks, carbon pricing, 
+and embodied carbon exposure.Access to green capital, improved ESG ratings, and 
+customer preference for low-carbon colocation services.Net zero aspiration and climate transition planning, 
+carbon tracker tools, customer emissions engagement, 
+climate risk scenario analysis aligned with TCFD.GRI 201: 
+Economic 
+Performance
+GRI 305: 
+Emissions26
+Diversity, 
+equity and 
+inclusionCreating a workplace culture that supports equal 
+opportunity, reduces systemic barriers, and 
+values the contribution of all employees.●●○○ ●●●○Talent loss, reduced innovation, or brand 
+damage from exclusionary practices.Better decision-making, broader talent pipelines, 
+improved retention and alignment with customer and 
+investor expectations.DE&I Action Plan; targeted inclusive recruitment; 
+employee-led resource groups; board-level gender 
+targets; annual gender benchmarking.GRI 405: 
+Diversity and 
+Equal 
+Opportunity39
+Community 
+impacts, rights 
+and interestsUnderstanding and responding to the social and 
+environmental impacts of operations on local 
+communities, including land use, access, and 
+wellbeing.●●○○ ●●●○Planning objections, delayed approvals, 
+reputational issues from poor community 
+consultation.Faster project approvals, local partnerships, enhanced 
+social license to operate.Live to Give program; community engagement working 
+groups; education partnerships; social impact strategy 
+under development.GRI 413: Local 
+Communities41
+Customer 
+relationshipsPartnering with customers to understand 
+expectations, co-develop ESG solutions, and 
+improve data transparency and service delivery.●●○○ ●●○○Misaligned ESG priorities, reputational risk 
+from shared carbon footprints.Co-investment in sustainability, customer loyalty, and 
+shared emissions reductions through initiatives like 
+NEXTNeutral or renewable energy offerings.Voice of Customer surveys; ESG partnership pilots; 
+tailored sustainability reporting; hyperscale Scope 2 
+emissions collaboration.N/A 4310
+NEXTDC FY25 Environmental, Social and Governance Report

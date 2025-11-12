@@ -1,0 +1,385 @@
+=== Table 1 (page 42) ===
+2025 Annual Report,Introduction,Highlights,Chairman and CEO letter,Operating and financial review,Sustainability
+,OUR CLIMATE AND ENVIRONMENTAL INITIATIVES,,,,
+,Vicinity is committed to taking action to reduce our environmental footprint,,,,
+,and manage the impact of climate change on our business. This approach,,,,
+,"enables us to manage climate and environment related risks, strengthen",,,,
+,"the resilience of our assets, support operational efficiencies, and identify",,,,
+potential opportunities.,,,,,
+Our climate and environment-related objectives are to:,,,,,
+–  Deliver our Net Zero 2030 Target1,,,,,
+,"–  Strengthen the resilience of our portfolio to adapt to a changing climate, and",,,,
+,–  Deliver resource efficient operations and developments.,,,,
+Our approach to managing climate change,,,,,
+,"We acknowledge that climate change remains a significant global challenge and focus area for Vicinity, presenting risks and",,,,
+,"opportunities across our business, communities and the broader economy, now and into the future.",,,,
+,Our approach to managing the impact of climate change is informed by the recommendations of the Taskforce for Climate-related,,,,
+,Financial Disclosures (TCFD). We are transitioning our approach to align to the Australian Sustainability Reporting Standards’,,,,
+Australian Accounting Standards Board S2 – Climate disclosures (AASB).,,,,,
+,"In FY25, we undertook a comprehensive assessment of climate-related risks and opportunities to build upon the risk assessment",,,,
+,"completed in FY23. This assessment, aligned to Vicinity’s Enterprise Risk Management Policy and Procedures, identified",,,,
+,"climate-related risks and opportunities that may be expected to have a material impact on Vicinity’s operations, financial",,,,
+,performance or strategic direction across one or more of three climate scenarios and time horizons. The results of the risk,,,,
+,assessment will be used to inform long-term strategic planning and enhance organisational resilience.,,,,
+,1.  Target applies to Vicinity’s wholly-owned retail assets for Scope 1 and Scope 2 emissions (in common mall areas).,,,,
+
+=== Table 2 (page 43) ===
+Our approach to managing climate-related risks and opportunities,
+TCFD recommendation,Progress
+Governance,Vicinity’s Board has oversight over climate-related risks and opportunities. The Board is supported
+,by the:
+,"–  Risk, Compliance and ESG Committee which oversees Vicinity’s climate-related and other ESG risks"
+,and opportunities
+,–  Audit Committee which oversees financial governance and risks and the integrity of financial
+,"reporting and internal control processes, and"
+,–  ELT which is responsible for Vicinity’s operations and delivering strategic objectives.
+,"Vicinity has established a cross-functional Steering Committee, co-chaired by the Chief Financial"
+,"Officer and Chief Legal, Risk & ESG Officer, responsible for overseeing our implementation of AASB S2."
+Strategy,A key focus of Vicinity’s refreshed ESG roadmap is to enhance the climate resilience of our portfolio
+,and reduce emissions associated with our operations and value chain.
+,"Vicinity assesses our climate-related risks and opportunities regularly, most recently in FY25, and the"
+,results inform long-term strategic planning and enhance organisational resilience.
+,"In the risk assessment undertaken in FY25, Vicinity considered three climate scenarios to assess a"
+,range of possible outcomes the business may face in future:
+,– Low Emissions (RCP 2.6): 1.5˚C by 2100
+,– Medium Emissions (RCP 4.5): 2.4-2.6˚C by 2100
+,– High Emissions (RCP 8.5): >3˚C by 2100
+,"Vicinity considered the impact of these scenarios over the near-term (2031), medium-term (2050) and"
+,long-term (2070) time horizons in order to assess risks and opportunities over the projected lifespan of
+,our asset portfolio. Further details of the material risk and opportunity themes identified through this
+,process are outlined on page 42 of this Report.
+,The impact of material risks and opportunities will be quantified in line with AASB S2 requirements and
+,will inform a review of Vicinity’s climate strategy and governance approach.
+Risk management,Climate change has been identified as a material risk in our Enterprise Risk Register – refer to page 48
+,of this Report for more detail.
+,"Vicinity applies a comprehensive and structured approach to identifying, assessing, prioritising and"
+,"monitoring climate-related risks and opportunities across the portfolio, guided by our Enterprise Risk"
+,Management Policy and Procedure.
+Metrics and targets,"In 2019, Vicinity set a Net Zero 2030 Target, aligned to Australia’s commitments under the Paris"
+,Agreement (under the United Nations Framework Convention on Climate Change). The target covers
+,Scope 1 and Scope 2 carbon emissions from the common mall areas of Vicinity’s wholly-owned
+,retail assets.
+,More detail on our climate-related metrics and targets can be found on page 44 of this Report and in
+,the 2025 Sustainability Performance Pack available on our website.
+
+=== Table 3 (page 46) ===
+Net Zero 2030 Target portfolio2,,,,
+Energy,,,,
+Total energy consumption,GJ,"217,741",+2%,(16%)
+Energy intensity,MJ/sqm,250,0%,(17%)
+Emissions,,,,
+Total Scope 1 greenhouse gas (GHG) emissions,tCO2-e,"1,116",(28%),(53%)
+Total Scope 2 GHG emissions,tCO2-e,"36,816",0%,(38%)
+Total Scope 1 and Scope 2 GHG emissions,tCO2-e,"37,932",(1%),(38%)
+Emissions intensity: Scope 1 and Scope 2 GHG,kg CO2-e/sqm,44,(2%),(39%)
+
+=== Table 4 (page 47) ===
+"People
+Customers
+Climate and environment",Risk,"Governance
+Tax
+Financial report","Sustainability assurance
+Securityholders
+Directory",45
+Net Zero 2030 Target,,,,
+Vicinity’s Net Zero 2030 Target covers,,,,
+,,,Enhancing energy resilience,
+Scope 1 and 2 emissions from the,,,,
+,,,with battery storage,
+common mall areas of Vicinity’s 27,,,,
+,,,"In FY25, Vicinity in collaboration",
+"wholly-owned centres – that is, the",,,,
+,,,"with Enel X, successfully",
+emissions within our operational control,,,,
+,,,deployed Battery Energy Storage,
+at these assets. This target aligns to,,,,
+,,,Systems (BESS) at Lake Haven,
+Australia’s commitments under the Paris,,,,
+,,,"Centre, NSW (1.3 MW/2.5 MWh)",
+Agreement (United Nations Framework,,,,
+,,,"and Broadmeadows Central,",
+Convention on Climate Change) and,,,,
+,,,VIC (1.1 MW/2.3 MWh). This,
+,,Driving circular economy,,
+is supported through our $73 million,,,,
+,,,initiative supports our Integrated,
+,,outcomes through NSW,,
+investment in onsite solar generation.,,,,
+,,,Energy Strategy and commitment,
+,,EPA’s Bin Trim program,,
+,,,to delivering property excellence,
+"Since the FY16 baseline, energy intensity",,In partnership with Edge Impact,,
+,,,and enhancing climate resilience.,
+of the Net Zero 2030 Target portfolio,,"and the NSW EPA, Vicinity",,
+has reduced by 17% and Scope 1 and,,undertook a comprehensive,,
+,,,Vicinity oversaw engineering,
+Scope 2 emissions intensity has reduced,,waste assessment across,,
+,,,"and construction, while Enel X",
+"by 39%. Compared to the prior year, the",,eight NSW shopping centres,,
+,,,manages operations through its,
+energy intensity of the Net Zero 2030,,through the Bin Trim program.,,
+,,,"Virtual Power Plant platform,",
+Target portfolio in FY25 remained steady,,The initiative aims to identify,,
+,,,integrating the batteries into,
+and Scope 1 and Scope 2 emissions,,opportunities to improve,,
+,,,the National Electricity Market.,
+intensity fell by 2%.,,"recycling and reduce waste,",,
+,,,These systems help reduce,
+,,particularly among food and,,
+,,,"energy costs, support grid",
+Managed portfolio,,,,
+,,beverage tenants.,,
+,,,"stability, and improve resilience",
+Energy and emissions,,,during peak demand.,
+,,An audit of over 100 tenancies,,
+Total energy consumption of the,,,,
+,,found low utilisation of organic,,
+,,,"In late 2024, the Lake Haven",
+managed portfolio remained steady and,,,,
+,,"bins, inconsistent recycling",,
+,,,Centre battery responded,
+energy intensity decreased by 5% from,,,,
+,,"infrastructure, and limited",,
+,,,to a heatwave-driven supply,
+FY24. Total energy consumption and,,,,
+,,tenant awareness of diversion,,
+,,,"shortfall in NSW, helping prevent",
+energy intensity maintained a downward,,,,
+,,opportunities. The average,,
+,,,blackouts and demonstrating,
+"trajectory on the FY16 baseline,",,,,
+,,"diversion rate was 45%, with",,
+,,,the real-world value of energy,
+decreasing by 2% and 14% respectively.,,,,
+,,82% of general waste comprising,,
+,,,storage. This project highlights,
+"In FY25, Scope 1 and Scope 2 emissions",,recyclable materials.,,
+,,,the potential of innovative energy,
+decreased by 3% from FY24 and by 30%,,,solutions to deliver environmental,
+,,Tailored action plans were,,
+from the FY16 baseline. Total Scope 1,,,and economic benefits. With,
+,,"developed for each centre,",,
+and Scope 2 emissions intensity of the,,,"additional sites identified, this",
+,,focusing on upskilling centre,,
+managed portfolio reduced by 8% from,,,partnership paves the way for,
+,,"managers, improving signage,",,
+FY24 and 39% from the FY16 baseline.,,,broader adoption of sustainable,
+,,and enhancing communication,,
+,,,energy technologies across,
+Water use,,with tenants. Vicinity’s Bin Trim,,
+,,,our portfolio.,
+,,"program will continue in FY26,",,
+Vicinity’s proactive water management,,,,
+,,and learnings from the program,Pictured below: Muhammad Shoaib Shahzad,
+has resulted in a reduction in water use,,,,
+,,,"and Matt Davis, Broadmeadows Central, VIC",
+,,will be used to enhance waste,,
+intensity of 11% since FY16. In FY25,,,,
+,,management across our portfolio,,
+water use intensity remained stable,,,,
+,,and increase waste diversion,,
+compared with FY24.,,,,
+,,from landfill.,,
+Materials,,,,
+,,The findings directly support,,
+"In FY25, total waste generation remained",,,,
+,,Vicinity’s 2030 Circular Economy,,
+steady across the portfolio compared,,,,
+,,Strategy and highlight the,,
+to FY24.,,,,
+,,"importance of collaboration,",,
+The waste diversion rate was 50% in,,"education, and infrastructure",,
+"FY25, an improvement of 15 percentage",,in achieving waste reduction,,
+points since the FY16 baseline.,,goals. This program sets a strong,,
+,,foundation for scaling circular,,
+,,economy practices across,,
+,,Vicinity’s national portfolio.,,
+
+=== Table 5 (page 50) ===
+2025 Annual Report,"Introduction
+Highlights
+Chairman and CEO letter","Operating and financial review
+Sustainability"
+OUR  M A NAGEMEN T OF RISK,,
+Risks,How Vicinity manages the risks,Our associated resources
+People and Culture,–  Implementation of a People Strategy focused on optimising our,
+,,OUR
+Failure to attract and retain,"operating model, strengthening leadership capability, and building a",
+,,PEOPLE
+top talent with the necessary,"future fit, high performing workforce.",
+"experience, capability, and",,
+,"–  Succession planning in place for key Executive and Senior Leader roles,",
+motivation to achieve our,,
+,with targeted development of critical talent pipelines.,
+strategic objectives and foster,,
+,–  Tailored leadership and development training programs designed,
+"a healthy, high-performing, and",,
+,"to build capability, strengthen succession pipelines and support",
+inclusive culture aligned with,,
+,talent retention.,
+Vicinity’s values.,,
+,"–  Fit for purpose remuneration, benefits, reward and recognition",
+,frameworks aligned to performance and market expectations.,
+,–  Clearly defined behavioural and ethical expectations embedded,
+,through the Code of Conduct and supporting policies with regular,
+,reinforcement through leader-led conversations and biannual,
+,performance reviews.,
+,–  Commitment to a diverse and inclusive workplace where all team,
+,members can feel safe to speak up and contribute.,
+,"–  Employee Experience surveys and focus groups to assess culture,",
+,"engagement, and identify areas of opportunity.",
+Climate change,–  Climate change management framework aligned to the guidelines,
+,,I NVESTOR
+Failure to adequately,"of the Taskforce for Climate-related Financial Disclosures, outlining",
+,,CA PITA L
+"identify, assess, and respond",Vicinity’s approach to identifying and managing climate-related risks,
+to climate-related risks,and opportunities across a number of climate scenarios and time,
+,,OUR  REAL
+may compromise Vicinity’s,horizons. In preparation for the Australian Sustainability Reporting,
+,,ESTATE  A SSETS
+ability to meet regulatory,"Standards, Vicinity completed a more comprehensive risk and",
+"requirements, satisfy","opportunity assessment, informed by climate scenario modelling, the",
+"stakeholder expectations, and",outcomes of which will be integrated into strategic assessment and,OUR  COMMUNITY
+achieve long-term strategic,decision making.,RELATIONSHIPS
+objectives. Additionally,,
+,–  Mitigation and adaptation strategies to manage climate-related,
+climate-related disruptions,,
+,"risks, including energy efficiency and renewable energy initiatives,",OUR
+"may affect asset resilience,",,E NVI RONMENT
+,infrastructure upgrades and business continuity planning.,
+"insurance exposure, and capital",,
+,–  2030 Net Zero Target (Scope 1 and Scope 2) for the common mall,
+investment decisions.,,
+,areas of wholly-owned centres.,
+Health and safety,"–  Health, safety, Environment and Wellbeing Management System",
+,,OUR
+Vicinity’s operations expose,"supported by levels of awareness, competency, capability, culture,",
+,,PEOPLE
+"team members, contractors,","system, processes and targeted audit programs.",
+retailers and consumers to the,,
+,–  Provision of proactive mental health and wellbeing supports,
+,,OUR
+risk of injury or illness.,,
+,and resources.,
+,,CU STOM ERS
+,–  Training and education to equip team members with skills to identify,
+,and appropriately respond to mental health and wellbeing issues.,
+,,OUR  COMMUNITY
+,,RELATIONSHIPS
+
+=== Table 6 (page 145) ===
+"We reviewed a selection of performance metrics, as",,14  Gender 40:40:20 target,63:37:0
+shown in the table below:,,,
+,,15  Gender pay gap - Average total,
+,,,35.6
+,,remuneration (%),
+Subject Matter,Result,,
+1  Total Scope 1 GHG emissions (tCO2-,,16  Total Water consumption (KL),"2,176,861"
+,"5,516",,
+e),,,
+,,17  Total of waste – landfill and recycled,
+,,,"43,848"
+2  Total Scope 2 GHG emissions (tCO2-,,(tonnes),
+,"108,143",,
+e),,,
+,,18  Waste diversion rate (% recycled),50
+3  Total Scope 3 GHG emissions (tCO2-,,,
+,"204,469",,
+,,19  Total indigenous procurement spend,
+e),,,
+,,,7.7
+,,($m),
+4  Renewable energy consumption,,,
+,"37,707",,
+,,20  Total spent with social & indigenous,
+(MWh),,,
+,,,8.1
+,,businesses ($m),
+5  Renewable energy generation (MWh),"42,516",,
+,,21  Total Supplier Annual Spend ($m),939.7
+6  Total energy consumption (GJ),"655,036",,
+,,22  Number of Direct (Tier 1) Suppliers,
+,,,"2,334"
+7  Energy intensity – Managed portfolio,,,
+,275,,
+(MJ/sqm),,23  Community Investment ($m) - Total,8.8
+8  Carbon intensity: scope 1 and 2 GHG,,24  Community Investment ($m) – B4SI,7.4
+emissions – Managed portfolio (kg,48,,
+CO2-e/sqm),,25  Loss time injury frequency rate,
+,,,10.39
+,,(LTIFR),
+9  Progress against net zero targets –,,,
+wholly owned assets (% movement in,39,26  Employee absentee rate (%),1.93
+
+=== Table 7 (page 145) ===
+,Independent Limited Assurance Report to the Management and Directors,,
+of Vicinity Centres,,,
+Our Conclusion:,,,
+,"Ernst & Young (‘EY’, ‘we’) were engaged by Vicinity Limited and Vicinity Centres RE Ltd as Responsible Entity of",,
+,Vicinity Centres Trust (‘Vicinity’) to undertake a limited assurance engagement as defined by Australian Auditing,,
+,"Standards, hereafter referred to as a ‘review’, over the Subject Matter defined below for the year ended 30 June",,
+,"2025. Based on the procedures we have performed and the evidence we have obtained, nothing has come to our",,
+,"attention that causes us to believe the Subject Matter has not been prepared, in all material respects, in accordance",,
+with the Criteria defined below.,,,
+What our review covered,,Subject Matter,Result
+,,12  NABERS water rating (portfolio,
+We reviewed the following Subject Matter in Vicinity’s,,,3.6
+,,average),
+Annual Report and accompanying Sustainability,,,
+Performance Pack (the ‘Reports’):,,,
+,,13  Women in leadership (%),53
+"We reviewed a selection of performance metrics, as",,14  Gender 40:40:20 target,63:37:0
+shown in the table below:,,,
+,,15  Gender pay gap - Average total,
+,,,35.6
+,,remuneration (%),
+"Subject Matter 
+Result",,,
+1  Total Scope 1 GHG emissions (tCO2-,,16  Total Water consumption (KL),"2,176,861"
+"5,516",,,
+e),,,
+,,17  Total of waste – landfill and recycled,
+,,,"43,848"
+2  Total Scope 2 GHG emissions (tCO2-,,(tonnes),
+"108,143",,,
+e),,,
+,,18  Waste diversion rate (% recycled),50
+3  Total Scope 3 GHG emissions (tCO2-,,,
+"204,469",,,
+,,19  Total indigenous procurement spend,
+e),,,
+,,,7.7
+,,($m),
+4  Renewable energy consumption,,,
+"37,707",,,
+,,20  Total spent with social & indigenous,
+(MWh),,,
+,,,8.1
+,,businesses ($m),
+"5  Renewable energy generation (MWh) 
+42,516",,,
+,,21  Total Supplier Annual Spend ($m),939.7
+"6  Total energy consumption (GJ) 
+655,036",,,
+,,22  Number of Direct (Tier 1) Suppliers,
+,,,"2,334"
+7  Energy intensity – Managed portfolio,,,
+275,,,
+(MJ/sqm),,23  Community Investment ($m) - Total,8.8
+8  Carbon intensity: scope 1 and 2 GHG,,24  Community Investment ($m) – B4SI,7.4
+"emissions – Managed portfolio (kg 
+48",,,
+CO2-e/sqm),,25  Loss time injury frequency rate,
+,,,10.39
+,,(LTIFR),
+9  Progress against net zero targets –,,,
+"wholly owned assets (% movement in 
+39",,26  Employee absentee rate (%),1.93
+carbon intensity),,,
+,,27  Sqm of gross lettable area (million),2.4
+10  Progress against net zero targets –,,,
+"wholly owned assets (% movement in 
+17",O,,
+,,"ther than as described in the preceding paragraphs,",
+energy intensity),,,
+,,"which set out the scope of our engagement, we did not",

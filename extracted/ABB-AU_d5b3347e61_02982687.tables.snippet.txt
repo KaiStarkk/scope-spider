@@ -1,0 +1,32 @@
+=== Table 1 (page 33) ===
+Resilient operations & supply chains,
+,•  Aussie Broadband has committed to 100% renewable electricity by 2028 for all owned and operated sites
+,(2023 baseline) illustrating a clear signal to stakeholders that we are embedding sustainability into our
+,operational DNA.
+•  We adopted a human rights policy to outline our approach to respecting internationally recognised,
+,"human rights, aligned with the United Nations Guiding Principles on Business and Human Rights,"
+,"International Labour Organisation (ILO) standards, and the International Bill of Human Rights."
+•,"In March 2025, we adopted an organisation-wide environment policy to further embed our commitment."
+,"This is to ensure responsible, sustainable operations by integrating environmentally sustainable"
+,"practices across all Aussie Broadband’s business and stakeholder activities, including supplier"
+,engagement and procurement processes.
+"•  We incorporate sustainability as a key factor in our office site selection, assessing energy efficiency,",
+,"waste and water management, indoor environmental quality, and the use of renewable energy. Our"
+,consolidation of office locations in Sydney and Melbourne reflect this commitment. Our Sydney office
+,"has 5-star National Australian Built Environment Rating System (NABERS) energy rating, and the"
+,"Melbourne office has a 4.5-star NABERS Energy rating, a 39% recycling rate NABERS Water rating and"
+,5-star rating in NABERS Indoor Environment.
+•  Aussie achieved of a 24% reduction in Scope 1 and 2 emissions.,
+
+=== Table 2 (page 33) ===
+•  Aussie achieved of a 24% reduction in Scope 1 and 2 emissions.,,
+"•  We increased our reporting of Scope 3 emissions data categories to 15 in FY24, from 13 in FY23.",,
+Emissions,Emissions (tCo2-e),Percentage
+,234.0,0.3%
+Scope 1,,
+,"4,220.3",5.2%
+Scope 2,,
+,"77,084.7",94.5%
+Scope 3,,
+,"81,539.0",100%
+Total emissions FY24,,

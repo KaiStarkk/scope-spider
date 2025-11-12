@@ -1,0 +1,796 @@
+=== Table 1 (page 62) ===
+,reporting entity and reporting period,"reflect actual conditions.  For example,"
+Fy25 climAte-relAted,,
+,as the Group’s Consolidated Financial,Fortescue estimates business travel
+disclosures,,
+,Statement and has incorporated,emissions by applying an average
+This report has been prepared for,,
+,climate-related information of the,emissions factor per passenger
+Fortescue’s stakeholders and details,,
+,parent company and all of its global,"kilometre, adjusted by flight class"
+our progress in managing climate-,,
+,subsidiaries. GHG emissions are,"(e.g. Economy, Business). These"
+"related matters, including risks and",,
+,calculated based on an operational,methods reflect common practice but
+opportunities.,,
+,control approach using the GHG,involve inherent uncertainty due to
+,Protocol corporate Accounting and,generalised assumptions.
+It is aligned with the recommendations,,
+,Reporting Standard. For further,
+of the Taskforce on Climate-related,,
+,,We are committed to continual
+,information on this approach and,
+"Financial Disclosures (TCFD), which",,
+,,improvement of our climate related
+,our organisational boundary for GHG,
+has guided our voluntary climate-,,
+,,disclosures and have already invested
+,"emissions, please refer to our FY25",
+related reporting since FY18.,,
+,,in improved data collection and
+,Emissions Calculation Methodology,
+,,reporting systems as well as continual
+"During FY25, the Australian",,
+,located on our website fortescue.com.,
+,,maturation of our scenario analysis
+Treasury amended legislation to,,
+,"All references to our, we, us, the Group,","and risk identification, assessment"
+enact new policy for climate change,,
+,the Company and Fortescue refer to,and treatment. Our expectation is
+"reporting. Under this new regime,",,
+,Fortescue Ltd (ABN 57 002 594 872),that as the climate-related disclosure
+the measurement and disclosure of,,
+,and its subsidiaries. All references to,"ecosystem matures we, along"
+climate-related financial information,,
+,a year are to the financial year ended,with others will refine and improve
+is guided by Australian Sustainability,,
+,30 June 2025 unless otherwise stated.,assumptions and estimations  to
+Reporting Standards (ASRS) AASB S2,,
+,,provide decision useful information.
+Climate-related disclosures (AASB S2),,
+,This report has been approved for,
+issued by the Australian Accounting,,
+,release by Fortescue’s Board of,
+Standards Board (AASB). AASB S2 has,,AssurANce
+,Directors.,
+its genesis in TCFD recommendations.,,
+,,FY25 GHG emissions data were
+,,
+While we continue to report voluntarily,vAlue chAiN estimAtioN,subject to external assurance by
+,,PricewaterhouseCoopers.  This
+"under the TCFD framework, we are",,
+,The value chain information and,
+,,included reasonable assurance for
+preparing our business for ASRS,,
+,related disclosures in this report are,
+,,"Group Scope 1, Scope 2 location-"
+compliance. This report contains many,,
+,"based on available data, third-party",
+,,"based and Scope 2 market-based, and"
+elements of additional disclosures,,
+,"sources, and management’s best",
+,,limited assurance for Scope 3.
+that will be mandatory under AASB S2,,
+,estimates at the time of preparation.,
+from FY26.,,
+,Scope 3 GHG emissions are typically,FeedbAcK
+With the exception of greenhouse gas,,
+,estimated using average emission,
+,,We value all feedback. Please send
+"(GHG) emissions, this report has been",,
+,factors. The reliability of the estimates,
+,,any comments on this report or
+prepared for the same consolidated,,
+,depends on the quality of input data,
+,,requests for additional information to
+,and how well average emission factors,
+,,sustainability@fortescue.com.
+
+=== Table 2 (page 68) ===
+"poses significant reputational implications, with potential impacts on stakeholder confidence and investor trust.",
+Refer to Target Definitions for details on what is covered by our emissions reduction targets.,
+emissioNs reductioN tArgets,Key mANAgemeNt ActioNs
+Real Zero Target,Integrating zero emissions technologies into established
+,operations requires the replacement or evolution of legacy
+"Achieving this target depends on overcoming regulatory,",
+,"systems and developing new operating models, working"
+"technological, and operational challenges, including",
+,with leading technology providers to manage performance
+securing land access and timely approvals for renewable,
+,and integration risks. We monitor development and
+energy generation and grid infrastructure; ensuring the,
+,"delivery timelines for zero emissions technologies, and"
+availability and economic viability of zero emissions,
+,test them under controlled conditions before wider
+technologies; and managing long-term development and,
+,deployment. We prioritise suppliers who can demonstrate
+integration timelines. This transition also requires access,
+,delivery capability aligned to our target. Early engagement
+to specialised technical expertise and skills in electrified,
+,with Government and First Nations peoples supports
+mining practices and renewable energy systems.,
+,"regulatory and cultural heritage approvals, with associated"
+Shipping Target,requirements integrated into project schedules. To
+,"address workforce challenges, we are investing in"
+This target addresses those Scope 1 and 3 emissions,
+,"internal capability through training, apprenticeships, and"
+arising from our shipping operations. Our success in,
+,"upskilling programs, guided by our Workforce Transition"
+meeting this target hinges on the techno-economic,
+,Strategy.
+"feasibility of converting vessels to run on green ammonia,",
+the establishment of regulatory frameworks permitting,"For shipping, we are pursuing a phased program with"
+"ammonia bunkering and onboard handling, and the",engine manufacturer MAN to retrofit the engines of our
+availability and affordability of green ammonia fuel.,"eight ore carriers to be dual-fuel capable, enabling the use"
+,of green ammonia alongside conventional fuels. We are
+Steelmaking Target,
+,also progressing demonstration projects and partnerships
+Steelmaking represents our primary source of Scope 3,"to prove the feasibility of green ammonia as a marine fuel,"
+emissions. Achieving this target depends on external,while advocating for enabling regulation and exploring
+factors such as the adoption rate of low-carbon,"opportunities to improve fleet efficiency, including through"
+technologies (e.g. Direct Reduced Iron) by our steel mill,vessel selection and operating practices.
+customers.,
+,"In steelmaking, our long-term vision is to reduce Scope"
+The challenges associated with Scope 3 emissions,3 emissions by producing green metal from our iron
+reduction have been highlighted by the Science Based,ore. This includes exploring production in Australia
+"Targets initiative (SBTi), with new global standards","and internationally, particularly in collaboration with"
+expected in FY25-26 that may  influence corporate,the Chinese steel industry. Recognising that most
+target-setting and reporting globally.,decarbonisation technologies focus on ultra high-grade
+,"ores, we are developing solutions suited to Australian ores,"
+,"such as the Green Metal Project, which aims to produce"
+,"its first green metal in 2026. In the short to medium-term,"
+,we aim to progress reductions by preferencing customers
+,"pursuing lower-emission steelmaking technologies,"
+,and by working with steel mills and research institutes
+,under formal partnerships to advance decarbonisation
+,pathways.
+
+=== Table 3 (page 76) ===
+Climate Transition Plan continued,,
+,to decarbonise heavy industry. In,Upstream emissions (our
+decArboNisiNg our,,
+,addition to our yearly partnership,
+vAlue chAiN,,supply chain)
+,"contributions, Fortescue also engages",
+Fortescue is focused on reducing,,
+,further via in-kind contributions to the,Our global tender documents include
+"emissions in our value chain, by",,
+,partnership's various projects.,minimum sustainability requirements
+addressing downstream Scope,,
+,,"for our suppliers, including emissions"
+,Fortescue is currently progressing,
+3 emissions from iron and steel,,
+,,criteria. We use a third-party
+,studies on the development of,
+production and upstream Scope 3,,
+,,screening tool to monitor adverse
+,commercial-scale green metal,
+emissions from our supply chain.,,
+,,media reports relating to sustainability
+,"production, both in Australia and",
+,,"risks, including emissions and climate"
+Among our value chain Scope 3,,
+,abroad. Our work to convert low-grade,
+,,events.
+"emissions, downstream processing",,
+,hematite ore into green metal at a,
+of sold product (Category 10),,
+,commercial scale is central to our,"This year, we updated our"
+represents more than 98 per cent,,
+,efforts to reduce Scope 3 emissions.,sustainability risk assessment to
+"in FY25, with the remaining two per",,
+,The Green Metal Project at Christmas,consider supplier renewable energy
+cent coming from purchased goods,,
+,Creek aims to demonstrate that,access and emissions impact by
+and services (one per cent) and from,,
+,Fortescue’s suite of iron ores from the,category to inform our contracting
+shipping  (one per cent). We therefore,,
+,Pilbara can be processed into green,strategy. We also introduced
+prioritise customer engagement and,,
+,metal. More detail will be provided,decarbonisation and emissions
+investments in technology to enable,,
+,in our FY25 Climate Transition,considerations into Contract &
+low-emission processing of iron ore.,,
+,Plan scheduled for publication in,Procurement strategy templates used
+,September 2025.,for long-term planning.
+Emissions from the processing,,
+,,"For high-risk sourcing activities,"
+of our iron ore by our customers,Shipping,
+,,our commercial strategies focus
+,,on supply chain transparency to
+"During FY25, we transported over",Our commitment to address Scope,
+,,assess and validate risk. Our award
+198 million tonnes of iron ore to,3 emissions also includes a target,
+,,"criteria consider sustainability, along"
+customers.,to enable a reduction in emissions,
+,,"with price, quality and schedule. We"
+,intensity levels from the shipping of,
+To meet our Scope 3 targets of,,
+,,prioritise suppliers who align with
+,"our iron ore by 50 per cent, from FY21",
+enabling a 7.5 per cent reduction,,
+,,our Values and commit to working
+,"levels by 2030. In FY24, Fortescue",
+in steelmaking emissions intensity,,
+,,collaboratively with us to deliver
+,demonstrated the use of ammonia,
+"by 2030 relative to FY21 levels,",,
+,,sustainability outcomes in our shared
+,for shipping on the Green Pioneer,
+"and net zero by 2040, Fortescue",,
+,,supply chains. We believe that genuine
+,dual fuel vessel.  We are proactively,
+is collaborating with partners and,,
+,,partnerships and commitment to
+,engaging with the shipping industry,
+investing in technology and R&D,,
+,,shared sustainability objectives with
+,to promote a transition to ammonia-,
+to reduce the significant carbon,,
+,,our suppliers leads to opportunities
+,powered vessels.,
+emissions that come from the,,
+,,"for innovation, proactive risk"
+shipping and processing of our iron,Our engagement with shipping,
+,,"identification and mitigation, more"
+ore.,suppliers includes interim measures,
+,,"effective remediation mechanisms,"
+,to identify and charter lower-emission,
+,,"improved supply chain resilience, and"
+We are conducting R&D both in-,,
+,"vessels, targeting vessels which are",
+,,competitiveness in the market.
+house and in collaboration with steel,,
+,"equipped with energy-saving devices,",
+"mill businesses, global engineering",,
+,"optimising vessel and fleet size, using",
+companies and research institutions.,,
+,"eco steam performing vessels, and",
+We are a founding member of the,,
+,optimising schedules for just-in-,
+Heavy Industry Low-carbon Transition,,
+,time arrivals: 95 per cent of vessels,
+Cooperative Research Centre,,
+,chartered in FY25 had Rightship,
+(HILT CRC). This venture brings,,
+,greenhouse gas ratings of A-D.,
+"together industries, researchers and",,
+government organisations in an effort,,
+to de-risk the technology pathways,,
+
+=== Table 4 (page 85) ===
+,Scope 1 emissions are direct,Fortescue’s emissions reduction
+Greenhouse gas,,
+,emissions from sources owned or,targets are designed to drive
+,,
+emissions metrics,controlled by an entity. Scope 2,meaningful progress toward our
+,refers to emissions associated with,strategic purpose of accelerating
+and targets,"the production of electricity, heat, or",global decarbonisation rapidly and
+,steam purchased by an entity. Scope,profitably. These targets include
+,3 refers to all other indirect emissions,"our Real Zero Target, as well as"
+,associated with activities or facilities,physical emissions intensity targets
+,not owned or controlled by the entity.,for steelmaking (in our Scope 3)
+,,and shipping (in our Scope 1 and 3).
+,"In Australia, Fortescue has a",
+,,"Collectively, these goals reflect our"
+,mandatory obligation to report Scope,
+,,commitment to reducing emissions
+,1 and 2 emissions from its Australian,
+,,across our value chain while enabling
+,operations above a certain threshold,
+,,decarbonisation within industries that
+,under the National Greenhouse and,
+,,rely on our products.
+,Energy Reporting (NGER) scheme.,
+,"Established by the NGER Act 2007,",Our pathways to meeting our targets
+,the NGER scheme is a national,are described in our Climate Transition
+,framework for reporting company,Plan.
+,information about greenhouse gas,
+,"emissions, energy production, energy","settiNg, reviewiNg ANd"
+,consumption and other information,
+,,moNitoriNg progress
+,specified under NGER legislation.,
+,,AgAiNst tArgets
+,Fortescue’s FY25  emissions are,
+,,"Fortescue is committed to setting,"
+,calculated in accordance with the,
+,,"reviewing, and monitoring progress"
+,Greenhouse Gas (GHG) Protocol’s,
+,,against its emissions reduction
+,"Corporate Standard, the GHG",
+,,targets as part of its pathway to
+,"Protocol’s Scope 2 Guidance,",
+,,achieving our Real Zero Target by
+,Corporate Value Chain (Scope 3),
+,,2030. Target validation will resume
+,"Standard, and Technical Guidance",
+,,once the Science Based Targets
+,for Calculating Scope 3 Emissions,
+,,initiative (SBTi) releases its revised
+,and in accordance with the NGER,
+,,"standard, expected to be available for"
+,(Measurement) Determination 2008,
+,,companies in 2027.
+,for our emissions mandated under,
+,NGER legislation.,The process of setting and reviewing
+,,targets is overseen by Fortescue’s
+,"At Fortescue, we place high",
+,,Safety and Sustainability Committee
+,importance on data quality for,
+,,"(SSC), with management able to"
+,all sustainability issues and,
+,,propose new or revised targets
+,continuously improve our systems,
+,,in response to evolving business
+,and processes to increase,
+,,"strategies, societal expectations,"
+,"quality, integrity, relevance and",
+,,or investor demands. All proposed
+,completeness of emissions data. We,
+,,updates are subject to Board approval
+,continuously seek to improve our,
+,,"via the SSC. To track progress,"
+,"data sourcing, focusing on the most",
+,,Fortescue uses a company-wide
+,material emissions categories.,
+,,emissions-reduction key performance
+,,"indicator (KPI), which serves as a"
+,The FY25 Emissions Calculation,
+,,metric for driving and measuring
+,Methodology available on our,
+,,advancements toward meeting the
+,website fortescue.com outlines our,
+,,Real Zero Target.
+,approach to boundary setting and,
+,our emissions calculations.,
+
+=== Table 5 (page 86) ===
+Our emissions,,,
+scope 1 greeNhouse gAs emissioNs,,,
+,Fy25 emissioNs (mtco₂-e),Fy24 emissioNs (mtco₂-e),vAriANce
+Total Group Scope 1,2.64,2.36,12.0%
+,Our most significant Scope 1 emissions include those from our Australian iron ore operations and Fortescue marine,,
+,"vessels, which consist of eight VLOCs and 10 tugboats that operate under Fortescue’s operational control in Port",,
+Hedland.,,,
+,The rise in emissions from FY24 to FY25 was driven by increased gas consumption to meet the growing power demand,,
+,"of our Iron Bridge facility as it ramped up production, and increased total material movement required to meet the",,
+,"mine plan. Despite this, we made significant progress in decarbonisation through the commissioning of the North Star",,
+,"Junction solar farm which generated 180 GWh, meeting 25 per cent of Iron Bridge’s current electricity needs, and helped",,
+,avoid additional emissions from the Solomon gas power station. Overall PEC emissions intensity has improved by 18,,
+,"per cent in FY25 with the introduction of this 100MW solar farm. Looking ahead, our overall emissions are expected to",,
+,decline in line with our decarbonisation implementation strategy.,,
+scope 2 greeNhouse gAs emissioNs,,,
+,Fortescue adopts dual reporting for its Scope 2 emissions: market-based method and location-based method.,,
+
+=== Table 6 (page 87) ===
+scope 1 ANd 2 emissioNs physicAl iNteNsity,,,,
+Emissions intensity refers to the amount of greenhouse gases emitted per unit of output. This provides insight into the,,,,
+efficiencies of each tonne of iron ore produced – reconciling the relationship of our energy inputs and carbon emissions.,,,,
+,uNit,Fy25,Fy24,vAriANce
+Iron ore shipped,wmt,198.4,191.6,3.5%
+Group Scope 1 and 2 emissions (location-,,,,
+,,,,
+,mtCO2-e,,,
+based),,,,
+,,,,
+Group Scope 1 and 2 location-based,tCO2-e/wmt of,,,
+,,0.015,0.014,7.1%
+emissions intensity,ore shipped,,,
+
+=== Table 7 (page 88) ===
+Our emissions continued,,
+scope 3 greeNhouse gAs emissioNs,,
+"Scope 3 emissions are those that fall within our value chain but are outside our operational control, including those",,
+generated during the shipping of our products in non-Fortescue vessels and iron and steel production. We place,,
+high importance on data quality for all sustainability issues and continuously improve our systems and processes to,,
+"increase quality, integrity, relevance and completeness of data. Access to counterparty data and reliability of emissions",,
+data varies by Scope 3 category. Our FY25 Emissions Calculation Methodology available on our website fortescue.com,,
+outlines our emissions calculation methodology.,,
+"We continuously seek to improve our data sourcing, focusing on the most material emissions categories. To estimate",,
+"Scope 3 Category 10 processing of sold product, Fortescue commissioned an independent mining and metals",,
+"consultancy to develop a steel intensity assumption per Fortescue product, based on location of processing, steel",,
+"production route, technology and underlying energy assumptions. Our Scope 3 emissions from shipping are calculated",,
+using actual shipping fuel consumption data sourced directly from ship owners. This is made possible by the,,
+integration of emissions data collection in our shipping contract management and the dedication of our shipping team.,,
+,Fy25 emissioNs,Fy24 emissioNs
+
+=== Table 8 (page 88) ===
+"production route, technology and underlying energy assumptions. Our Scope 3 emissions from shipping are calculated",,,
+using actual shipping fuel consumption data sourced directly from ship owners. This is made possible by the,,,
+integration of emissions data collection in our shipping contract management and the dedication of our shipping team.,,,
+,Fy25 emissioNs,Fy24 emissioNs,
+group scope 3 cAtegory,,,vAriANce
+,(mtco2-e),(mtco2-e),
+Category 1: Purchased goods and services,2.28,2.82,*
+Category 2: Capital goods,0.12,0.13,*
+Category 3: Fuel- and energy-related,0.55,0.61,(9.6)%
+Category 4: Upstream transport,3.07,2.99,2.9%
+Category 5: Waste,0.04,0.01,*
+Category 6: Business travel,0.03,0.03,(6.9)%
+Category 7: Employee commuting,0.11,0.03,*
+Category 8: Upstream leased assets,0.05,0.13,*
+Category 9: Downstream transport,0.41,0.40,2.5%
+Category 10: Processing of sold products,269.20,262.16,2.7%
+Category 11: Use of sold products,—,—,—
+Category 12: End of life treatment of sold products,—,—,—
+Category 13: Downstream leased assets,0.003,0.002,17.7%
+Category 14: Franchises,—,—,—
+Category 15: Investments,—,—,—
+Total Group Scope 3 emissions,275.88,269.31,2.4%
+
+=== Table 9 (page 89) ===
+below.,,,
+reAl Zero tArget,,,
+Australian terrestrial  iron ore operations Scope 1 and 2 emissions (location-based),,,
+,Fy25,Fy24,Fy23
+(mtCO₂-e),,,
+Australian terrestrial iron ore operations Scope 1 emissions,2.29,2.02,1.91
+Australian terrestrial iron ore operations Scope 2 emissions (location-based),0.37,0.36,0.35
+Australian terrestrial iron ore operations Scope 1 and 2 emissions (location-,,,
+,2.66,2.38,2.26
+based) (mtCO₂-e),,,
+
+=== Table 10 (page 89) ===
+Energy efficiency initiatives helped limit the increase in these emissions in FY25 to 11.6 per cent. This,,,,
+,reflects a reduction of approximately five per cent against Fortescue’s budgeted emissions for the year.,,,
+steelmAKiNg tArget,,,,
+steelmAKiNg,uNit,Fy25,Fy24,Fy21 bAseliNe
+Iron ore shipped,Mt,198.4,191.6,185.9
+Scope 3 Steelmaking emissions,,,,
+,mtCO2-e,269.20,262.16,242.83
+,,,,
+,tCO2-e/t of ore,,,
+,,1.357,1.368,1.310
+intensity,shipped,,,
+
+=== Table 11 (page 89) ===
+"reference (GLEC V3.1) is our best endeavour to allow for direct comparison and the monitoring progress. In this context,",,,,
+FY25 shipping emissions intensity shows a decrease of 17 per cent from baseline year FY21. This reduction was achieved,,,,
+"through applying our policy to charter lower-emission vessels, i.e. with Rightship GHG  ratings of A-D, use eco steaming",,,,
+"vessels, and just in time arrivals (schedule optimisation).",,,,
+shippiNg,uNit,Fy25,Fy24,Fy21 bAseliNe
+Iron ore shipped,Mt,198.4,191.6,185.9
+Total Shipping emissions,,,,
+(Combined Scope 1 and 3,,,,
+,mtCO2-e,3.67,3.58,4.07**
+emissions related to shipping),,,,
+,tCO2-e/t of ore,,,
+Shipping emissions intensity,,0.019,0.019,0.022**
+,shipped,,,
+
+=== Table 12 (page 90) ===
+Our progress against targets continued,
+,Scope 3 shipping absolute emissions increase were driven by increased iron ore shipped volume (997 shipments in FY25
+"compared to 976 shipments in FY24), longer voyage duration to discharge port requirement (greater distance travelled),",
+and higher speeds to meet port objective to maximise berth use.,
+use oF cArboN credits to Achieve tArgets,
+"In 2023, Fortescue ceased purchasing voluntary carbon offsets for Scope 1 and 2 emissions, instead focusing our efforts",
+on the elimination of emissions. Carbon offsets against Scope 1 and 2 emissions are purchased and relinquished only to,
+,the extent required by legislation. Our participation in compliance markets is therefore limited to purchases required only
+"to the extent of law, tapering in line with facility-level decarbonisation plans. Accordingly, we note that:",
+1.,Australian Carbon Credit Units (ACCUs) and Safeguard Mechanism Credits (SMCs) are used to meet regulatory
+,requirements under the NGER (Safeguard Mechanism) Rule 2015 (SGM) requirements.
+,
+,"In FY25, Fortescue is expected to be in excess of SGM baselines by approximately 240,000t CO2-e, requiring an"
+,equivalent number of ACCUs/SMCs to be acquired and surrendered to the Australian Government.
+3.,Fortescue is using methods available under the SGM to reduce the number of ACCUs required at facilities with
+,"advanced decarbonisation plans. Two Fortescue SGM facilities, Christmas Creek and Eliwana, had multi-year"
+,"monitoring periods approved during FY25, covering the five-year period from FY24 to FY28."
+4.,The ACCUs that Fortescue is required to acquit for FY25 SGM exceedances are produced by third parties under the
+,"Australian Government’s approved methodologies and schemes, and acquired through a third party broker."
+
+=== Table 13 (page 91) ===
+Fortescue’s emissions reduction targets support its commitment to decarbonisation across our operations and value,,,,
+"chain. The table below provides a detailed overview of each target, including their coverage, alignment with strategic",,,,
+"ambitions, and categories of emissions included.",,,,
+,,,,Net Zero
+tArget NAme,reAl Zero tArget,steelmAKiNg tArget,shippiNg tArget,
+,,,,tArget
+,Refer to ‘Real Zero Target’,,,
+,,"By 2030, enable",,
+,section below for qualifications,,"By 2030, enable a",
+,,a reduction in,,
+,and what is and is not covered,,reduction in emissions,
+,,emissions intensity,,Net zero
+,by the target. 'Terrestrial’,,intensity levels from the,
+Target,,from steelmaking by,,Scope 3 by
+,means that  Scope 1 shipping,,shipping of our iron ore,
+,,Fortescue's customers,,2040
+,emissions are not covered by,,"by 50 per cent, from FY21",
+,,"of 7.5 per cent, from",,
+,this target. They are covered in,,levels,
+,,FY21 levels,,
+,our Shipping Target.,,,
+,,"Emissions, in tCO2-e,",,
+,,from the processing,,
+,,of our iron ore by our,,Scope 3
+The metric used,Scope 1 and 2 emissions in,,,
+,,,"Emissions, in tCO2-e, from",
+,,customers (classified,,emissions
+to set the target,,,,
+,tCO2-e,,shipping of our iron ore,
+,,under Scope 3 category,,
+,,,,in tCO2-e
+,,10 – Processing of sold,,
+,,products),,
+The objective of,,,,
+,Mitigation,,,
+the target,,,,
+,,,Scope 1 emissions from,
+The part of,,Scope 3 emissions,,GHG
+,,,shipping and Scope 3,
+Fortescue to,Australian terrestrial iron ore,from processing of,,Protocol
+,,,emissions from shipping,
+which the target,operations Scope 1 and 2,Fortescue’s iron ore,,categories
+,,,reported in GHG Protocol,
+applies,,sold product,,1 to 10
+,,,"categories 3, 4 and 9",
+The period over,,,,
+which the target,2030,2030,2030,2040
+applies,,,,
+Base year,FY22,FY21,FY21,FY21
+,The Real Zero Target covers,,,
+Target coverage:,"87% of FY22 Scope 1 and 2,",,,
+percentage of,(85% of FY22 Scope 1 and,The Steelmaking Target,The Shipping Target,
+emissions in,>99% of FY22 Scope 2). The,target covers 98% of,covers 13% of FY21 Scope,
+the base year,remaining 13% relate to Scope,base year FY21 Scope 3,1 and 1% of FY21 Scope 3,
+covered by the,1 shipping and emissions,emissions.,emissions.,
+target.,other than Australian iron ore,,,
+,operations.,,,
+Whether the,,,,
+target is an,,,,
+,Absolute,Physical intensity,Physical intensity,Absolute
+absolute or,,,,
+intensity target,,,,
+The international,,,,
+agreement,,,,
+,Paris Agreement to limit global warming to 1.5°C,,,
+informing the,,,,
+target,,,,
+Greenhouse,,,,
+,,,,
+,"CO2, CH4, N2O, SF6, HFC and PFC",,,
+the target,,,,
+Net or gross,,,,
+,Gross,Gross,Gross,Net
+emissions target,,,,
+
+=== Table 14 (page 92) ===
+overview,operAtiNg ANd,ore reserves ANd,our ApproAch,climAte chANge,corporAte,directors’ report,FiNANciAl report,corporAte,
+,FiNANciAl review,miNerAl resources,to sustAiNAbility,report,goverNANce,|  remuNerAtioN,,directory,
+,"Real Zero Target 
+We use this term to refer to Fortescue’s target to eliminate Scope 1 
+and 2 emissions from our Australian terrestrial iron ore operations in 
+the Pilbara by 2030.","Our commitment is to eliminate emissions which are equivalent to 
+our own equity share in our joint venture partnerships. We are also 
+working with our joint venture partners to encourage the elimination 
+of emissions equivalent to their equity shares in those joint ventures. 
+For information on our plan to meet this target, and the risks and 
+dependencies associated with achieving it, please refer to our 
+Climate Transition Plan.",,,stAtemeNt,report,,,FORTESCUE  FY25 ANNUAL REPORT    |    89
+
+=== Table 15 (page 93) ===
+This navigational index references the location of TCFD-aligned disclosures.,,
+tcFd recommeNdAtioN,disclosure,locAtioN
+,Governance – Disclose the organisation’s governance around climate change-related risks and opportunities.,
+a) Describe the board’s oversight of climate-related risks and,,
+,Governance,Pages 76-78
+opportunities.,,
+b) Describe management’s role in assessing and managing,,
+,Governance,Pages 76-78
+climate-related risks and opportunities.,,
+,Strategy - Disclose the actual and potential impacts of climate-related risks and opportunities on the organisation’s,
+"businesses, strategy and financial planning where such information is material.",,
+a) Describe the climate-related risks and opportunities the,,
+,Our Strategy,Pages 60-67
+"organisation has identified over the short, medium, and long-term.",,
+b) Describe the impact of climate-related risks and opportunities,,
+,Climate Transition Plan,Pages 71-75
+"on the organisation’s businesses, strategy, and financial planning.",,
+"c) Describe the resilience of the organisation’s strategy, taking into",,
+"consideration different climate-related scenarios, including a 2°C",Climate Resilience,Pages 67-70
+or lower scenario.,,
+,"Risk management - Disclose how the organisation identifies, assesses, and manages climate-related risks.",
+a) Describe the organisation’s processes for identifying and,,
+,Managing Risk,Pages 79-81
+assessing climate-related risks.,,
+b) Describe the organisation’s processes for managing climate-,,
+,Managing Risk,Pages 79-81
+related risks.,,
+"c) Describe how processes for identifying, assessing, and",,
+managing climate-related risks are integrated into the,Managing Risk,Pages 79-81
+organisation’s overall risk management.,,
+,Metrics and targets - Disclose the metrics and targets used to assess and manage relevant climate-related risks and,
+opportunities where such information is material.,,
+a) Disclose the metrics used by the organisation to assess,,
+climate-related risks and opportunities in line with its strategy and,Metrics and Targets,Pages 82-89
+risk management process.,,
+"b) Disclose Scope 1, Scope 2 and if appropriate, Scope 3",,
+,Metrics and Targets,Pages 82-89
+"greenhouse gas (GHG) emissions, and the related risks.",,
+c) Describe the targets used by the organisation to manage,,
+climate-related risks and opportunities and performance against,Metrics and Targets,Pages 82-89
+targets.,,
+
+=== Table 16 (page 119) ===
+sociAl ANd eNviroNmeNtAl risKs,
+coNtext,Key mANAgemeNt ActioNs
+Risks associated with climate change and transition to a low carbon economy,
+Fortescue acknowledges climate change as a significant,"•  We have set industry leading targets for Scope 1, Scope"
+and material issue for the business. Fortescue faces,2 and Scope 3
+exposure to climate-related risks either directly through,•  We are investing in renewable energy and battery
+"our operations and infrastructure, or indirectly through",storage to profitably eliminate the use of diesel and gas
+our mission to drive global transition to a low carbon,"in our iron ore operations, and by developing renewable"
+"economy,  which includes eliminating emissions from our",energy and technology products
+own value chain.,
+,•  We closely monitor policy and regulatory developments
+"Without immediate action to reduce global emissions,","and proactively engage with government bodies,"
+the impacts of climate change will continue to worsen.,regulators and industry associations to influence
+Fortescue operates significant assets within the Pilbara,favourable policy and regulatory outcomes
+"region of Western Australia, which is already subject to",•  We apply scenario analysis to evaluate possible
+"severe weather events, including extreme temperatures,","changes and their effect on our business model,"
+"cyclones, storm surges, extreme rainfall and flooding.",financial performance and competitive position
+Climate change will increase the frequency and,•  We are embedding climate risk into our enterprise
+"severity of these weather events, which may increase",risk management framework with a focus on building
+"our risk of asset damage or operational disruptions,",resilience to protect assets and minimising operational
+impacting Fortescue’s ability to ship iron ore to our,downtime from extreme weather events
+customers. These factors and any prolonged downtime,
+,•  We manage the risk to the health and safety of our
+of Fortescue’s production or transportation facilities,
+,people through relevant hazard control standards and
+could materially impact our ability to satisfy contractual,management procedures detailing requirements for
+"obligations, potentially impacting our operational and","prevention, preparedness and response"
+financial position.,
+,•  Additional information on our targets and management
+Our ambitious emissions reduction targets shape our,of climate-related risks are set out in the Climate
+"key transition risks, particularly in the context of a volatile",Change Report within this Annual Report.
+political and economic landscape. This risk is largely,
+driven by the technical and operational complexity,
+of deploying zero-emissions technologies across our,
+operations and managing critical dependencies such as,
+"land access, transmission infrastructure, and regulatory",
+approvals. We are also exposed to potential timing,
+"mismatches between the availability of green products,",
+"market demand, evolving regulatory requirements,",
+and our own ambition. We view our Real Zero Target,
+transition not only as a corporate responsibility but as,
+"a strategic advantage, and failure to deliver on these",
+commitments would pose significant reputational risks.,
+The transition to a low-carbon economy and the growing,
+demand for low-emission solutions presents Fortescue,
+with a range of opportunities. Our business strategy,
+is designed to capitalise on and accelerate this shift,
+"by delivering the products, technologies, services and",
+"energy required for industrial decarbonisation, creating",
+new pathways for growth and diversifying our revenue,
+beyond traditional iron ore.,
+
+=== Table 17 (page 126) ===
+8. mArKet,,
+disclosures,,
+,"For this purpose, we have established",Statements. The balance of periodic
+The Board understands,,
+,a Continuous Disclosure and,"corporate reports, including quarterly"
+the importance of,,
+,"Market Communications Policy, a","production reports, the annual"
+keeping shareholders,copy of which is available from the,"Corporate Governance Statement, the"
+and other stakeholders,Corporate Governance section of our,"annual Modern Slavery Statement,"
+,website fortescue.com. The policy,the annual Reserves and Resources
+fully informed of material,,
+,summarises the processes that have,Report and the annual Sustainability
+information in relation,,
+,been adopted to ensure we comply,"Report, are subject to internal"
+to our activities,with our disclosure obligations.,verification processes approved by the
+,,
+on a timely basis,,relevant functional areas.
+,"This policy applies to all directors,",
+,"employees, contractors, suppliers and","Copies of announcements to the ASX,"
+,"business partners, and is regularly","investor briefings, half-yearly Financial"
+,reviewed to ensure it remains effective,"Reports, quarterly production reports,"
+,in guiding disclosure in accordance,the Annual Report and other relevant
+,with our disclosure obligations.,information are available on our
+,,website fortescue.com.
+,"Our external auditor, PwC, reviews",
+,"the annual Directors’ Report, annual",
+,"Remuneration Report, our annual GHG",
+,"Scope 1, 2 and 3 emissions data, and",
+,the annual and half yearly Financial,
+
+=== Table 18 (page 255) ===
+corporate directory,,
+Proved Ore Reserve,Scope 1 emissions,Underlying net profit after tax
+"As defined in the JORC Code, the",Scope 1 emissions are direct,Net profit after tax (NPAT) adjusted
+economically mineable part of a,emissions that are from sources,for results adjusted for the removal of
+Measured Resource. It includes diluting,owned or controlled by an entity.,significant non-cash and non-recurring
+materials and allowances for losses,,items.
+,Scope 2 emissions,
+which may occur when the material,,
+,Scope 2 refers to emissions,VLOCs
+is mined. Appropriate assessments,,
+,associated with the production of,Very Large Ore Carriers
+"and studies have been carried out,",,
+,"electricity, heat, or steam purchased",
+and include consideration of and,,Western Hub
+,by an entity.,
+modification by realistically assumed,,
+,,"The Western Hub includes the Firetail,"
+"mining, metallurgical, economic,",Scope 3 emissions,
+,,"Kings and Queens, Eliwana and Flying"
+"marketing, legal, environmental, social",,
+,Scope 3 refers to all other indirect,Fish deposits.
+and governmental factors. These,,
+,emissions associated with activities,
+assessments demonstrate at the time,,wmt
+,or facilities not owned or controlled,
+of reporting that extraction could,,Wet metric tonne.
+,"by the entity, including both upstream",
+reasonably be justified.,,
+,and downstream emissions.,Zero emissions
+Reserves or Ore Reserves,,"When used in relation to vehicles,"
+,Senior executive,
+"As defined in the JORC Code,",,mining equipment or power systems
+,Leadership position title of Director or,
+the economically mineable part,,"means that: (a) a vehicle’s exhaust, or"
+,Group Manager.,
+of a Measured Resource and/or,,"mining equipment or power system,"
+an Indicated Mineral Resource.,Solomon Hub,only emits water vapour when in
+It includes diluting materials and,"A mining hub with Firetail, Kings Valley","operation; or (b) if the vehicle, mining"
+"allowances for losses, which may",and Queens Valley mines.,equipment or power system is 100%
+occur when the material is mined.,,battery powered then it does not emit
+,Super Special Fines,
+Appropriate assessments and studies,,any exhaust emissions.
+,Fortescue’s iron ore product from the,
+"have been carried out, and include",,
+,"Chichester Hub, with an iron content",
+consideration of and modification,,
+,of 56.4% Fe.,
+"by realistically assumed mining,",,
+"metallurgical, economic, marketing,",TCFD,
+"legal, environmental, social and",,
+,The Taskforce on Climate-related,
+governmental factors. These,,
+,"Financial Disclosures, established to",
+assessments demonstrate at the time,,
+,develop recommendations for more,
+of reporting that extraction could,,
+,effective climate-related disclosures,
+reasonably be justified. Ore reserves,,
+,that enable a better understanding of,
+are subdivided in order of increasing,,
+,carbon related assets and exposures,
+confidence into Probable Ore Reserves,,
+,to climate-related risks.,
+and Proved Ore Reserves. Where,,
+,TRIFR,
+"capitalised, this term refers to",,
+Fortescue’s estimated reserves.,Total recordable injury frequency rate,
+,"per million hours worked, comprising",
+Resources or Mineral Resources,,
+,"lost time injuries, restricted work and",
+"As defined in the JORC Code, a",,
+,medical treatments.,
+concentration or occurrence of,,
+,Total global economic contribution,
+material of intrinsic economic,,
+interest in or on the Earth’s crust in,Payments that contribute to the,
+"such form, quantity and quality that",global economy including payments,
+there are reasonable prospects for,"to suppliers, employees (salaries",
+eventual economic extraction. The,"and wages), governments (taxes and",
+"location, quantity, grade, geological","royalties), shareholders and investors",
+characteristics and continuity of a,(dividends and debt repayments).,
+"mineral resource are known, estimated",,
+,Underlying EBITDA,
+or interpreted from specific geological,,
+,Underlying EBITDA is defined as,
+evidence and knowledge. Mineral,,
+,"earnings before interest, tax,",
+"resources are subdivided, in order",,
+,"depreciation and amortisation,",
+"of increasing geological confidence,",,
+,"exploration, development and other",
+"into Inferred, Indicated and Measured",,
+,expenses.,
+"categories. Where capitalised, this",,
+term refers to Fortescue’s estimated,Underlying EBITDA margin,
+Mineral Resources.,Underlying EBITDA / operating sales,
+,revenue.,

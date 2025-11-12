@@ -1,0 +1,185 @@
+=== Table 1 (page 16) ===
+Commitment,Status,FY25 progress,More info
+Grow our products and services that support a low,,,
+,,Funds defined as supporting a low carbon future had $1.03 billion outflows.,page 17
+carbon future,,,
+Carbon neutral operations,,FY24 carbon neutrality certification approved1.,page 17
+100% renewably powered operations by FY25,,Purchased renewable energy for global office energy consumption during the FY25 period.,page 22
+Reduce energy intensity per full time equivalent (FTE),,,
+employee by one‑third in Australian operated offices,,Reduced energy consumption in Australian offices during the FY25 period has seen a positive trend continued.,page 36
+by FY30 (FY21 baseline),,,
+Require Greenstar or NABERS 5 star minimum for all,,"Several small office leases throughout the year were below the 5 star rating, however tenancy rating uplift fit‑outs",
+,,,page 22
+future lease transactions in Australia,,are being explored2.,
+Reduce waste to landfill by 10% by FY26 in Australian,,,
+,,Progress continues with a reduction of waste to landfill.,page 36
+offices (FY23 baseline),,,
+Reduce paper purchased for printing in Australian,,Failed to achieve 50% reduction of FY21 baseline. Commitment was de‑prioritised due to separation activities in advance of,
+,,,page 17
+offices by 50% by FY25 (FY21 baseline),,the KKR transaction and new operating model.,
+Align our Group reporting to the Taskforce on,,Included TCFD section in FY24 Annual Report and Sustainability Report. We are progressing our climate‑related,
+,,,page 18
+Climate‑related Financial Disclosures (TCFD),,financial disclosures to align with the mandatory disclosure requirements under AASB S2.,
+Measure and disclose carbon risk and financed,,,
+,,Measured and disclosed financed GHG metrics associated with the Scope 1 and 2 emissions of our equity,
+emissions within our investments with a focus on,,,page 23
+,,and fixed income (corporate bond) investments.,
+equities and fixed income (corporate bonds),,,
+"Climate change considered, where appropriate,",,,
+,,Approaches to considering climate disclosed on our website.,page 21
+as part of investment approaches,,,
+
+=== Table 2 (page 21) ===
+Each of our Asset Management and Wealth,,
+Management businesses has its own investment,,
+philosophy and approach to managing climate risk,,
+and opportunities for our clients.,,
+,Case studies,
+For a description of the approach each of our,JO Hambro engages with Stantec –,"Trillium engages with Alphabet (GOOG,"
+Asset Management and Wealth Management,a leader in engineering services,GOOGL) an American multinational
+businesses and brands takes to considering,(notably in consulting on environmental,technology conglomerate
+"climate as part of investment approaches, see our",and water management),
+,,"In 2021, Alphabet announced it would reach net-zero"
+website: perpetual.com.au/considering-climate-,,
+,The engagement was focused on Stantec’s,"GHG emissions, among other climate goals, by 2030."
+as-part-of-our-investment-process/,,
+,"disclosure, encouraging the implementation","However, since that time Alphabet’s GHG emissions"
+,of a comprehensive framework for impact,have increased – rising 13% higher in 2023 than the
+As Asset Management and Wealth Management,,
+,"measurement, climate resilience and Scope 3","previous year and 48% higher than in 2019, primarily"
+businesses have investment-autonomy within their,,
+,"emissions reporting, and biodiversity assessments.",due to the increasing energy demands of its data
+"respective investment teams, this translates to distinct",,
+,JO Hambro had a constructive dialogue with the,"centres. In June 2025, Trillium’s proposal asked Alphabet"
+approaches to managing climate-related risks on,,
+,"company, which will continue and they will be",for greater transparency regarding how it will meet
+behalf our clients. This can take the form of applying,,
+,monitoring improvements in upcoming company,its ambitious 2030 GHG reduction targets given the
+"carbon pricing, sensitivity and scenario analysis within",,
+,reporting in the areas highlighted.,significant growth in emissions resulting from its data
+"the investment decision process. Examples of this are,",,
+,,centre operations. This vote received 8.2% (approximately
+the Barrow Hanley energy team applying discount,,
+,,24% of the non-insider vote) support from shareholders.
+"rates when valuing energy and utilities holdings, and",,
+JO Hambro running investment portfolios through a,,
+,Read more in:,
+proprietary probabilistic climate model which looks at,Jo Hambro’s stewardship report,
+three different scenarios.,,
+,,Read more in:
+,,Trillium's Q1 2025 Advocacy Impact Report
+
+=== Table 3 (page 22) ===
+An assessment of the amount and percentage of assets,,,,,
+,,Chart 2 – GHG emissions metrics for our operations in FY252,,,
+or business activities vulnerable to climate-related,,,,,
+transition and physical risks and opportunities has yet,,,,,
+,Scope,Metric (unit TCO2e),FY25,FY243,FY23
+to be determined. This forms part of the ongoing scope,,,,,
+of work being conducted in partnership with A&M and,Scope 1,Direct GHG emissions from controlled sources4,50,3,43
+we will be able to articulate this in our next report.,,,,,
+,,Electricity (location-based),"1,310","1,537","1,514"
+,Scope 2,,,,
+Operational emissions,,Electricity (market-based),011,335,242
+,,Total Scope 3 operational emissions5,"15,156","19,672","22,120"
+"As a global business, Perpetual Group is committed to",,,,,
+reducing our own operational environmental footprint.,,,,,
+,,Purchased goods and services6,"8,955","10,356","9,111"
+Key to reducing our operational footprint is to collect,,,,,
+,,Capital goods7,"1,695","3,123","5,000"
+and report our operational GHG emissions accurately.,,,,,
+Our operational GHG emissions from FY25 are set out,,,,,
+,,Fuel and energy-related activities8,596,"1,046","1,462"
+in chart 2.,Scope 3,,,,
+,,Upstream transportation and distribution9,101,177,127
+We saw reductions across several operational,,,,,
+,,Waste generated in operations,128,140,314
+"emissions categories, largely driven by",,,,,
+year-on-year improvements in emission factors1.,,Business travel,"2,547","3,586","4,540"
+"For example, Scope 3 – Category 6 flight emissions",,,,,
+,,Employee commuting10,"1,134","1,244","1,566"
+decreased despite an increase in travel. Scope 2,,,,,
+"location-based emissions also declined, primarily due",,,,,
+
+=== Table 4 (page 22) ===
+to behavioural changes linked to the Sydney office,,
+refurbishment and office space consolidation.,,
+"1. 
+Examples are likely the result of location‑based grid factors, advancements in aircraft technology, etc.",,"8.  For Scope 3 categories 1 and 2, a relevance test was undertaken based on the Climate Active Carbon Neutral"
+,,Standard for Organisations to determine relevant emissions sources within those categories. The following
+2.  Based on operational control boundary setting approach.,,
+,,"sources were excluded based on that relevance test: Professional Services, Construction Materials and"
+"3. 
+Figures disclosed in GHG emissions metrics table in the FY24 Sustainability Report have been updated.",,"Services; Food; Cleaning and Chemicals; Newspapers, journals and periodicals. While Perpetual Group is"
+The emission factors utilised for the prior report were supplied by Climate Active and were subsequently,,"no longer a member of the Climate Active Carbon Neutral program, the thoroughness of the testing and"
+revised post publication due to errors in the supplied information by the Climate Active emissions factor,,outcomes are still appropriate.
+provider. Operational emissions preparation can be found in our basis of preparation.,,
+,9.  Based on location‑based methodology.,
+"4. 
+Includes direct GHG emissions from natural gas usage, fuel use and refrigerants.",,
+,10.  Includes emissions related to couriers and postage.,
+"5.  Per our commitment to reach 100% renewable energy globally by FY25, our market‑base Scope 2 emissions",,
+,11.,"In FY24, we improved our calculation methodology to calculate employee commuting by running an"
+"are zero, which is the result of purchasing relevant jurisdictional renewable energy certificates for our office",,
+,,employee survey to capture information on the typical mode of transport and average commuting
+energy consumption.,,
+,,"distances for our employees. In FY23, we had used commuting patterns including typical mode of transport"
+6.  Based on location‑based methodology.,,and average commuting distances derived from Australian Bureau of Statistics data for Australia and linked
+"7. 
+For Scope 3 categories 1 and 2, a relevance test was undertaken based on the Climate Active Carbon Neutral",,"to the number of FTE in every State within Australia, whereas for international locations, Australia average"
+Standard for Organisations to determine relevant emissions sources within those categories. The following,,commuting patterns were used as a proxy.
+sources were excluded based on that relevance test: Professional Services; Construction Materials and,,
+"Services; Food; Cleaning and Chemicals and Newspapers, Journals and Periodicals. While Perpetual Group",,
+"is no longer a member of the Climate Active Carbon Neutral program, the thoroughness of the testing and",,
+outcomes are still appropriate.,,
+
+=== Table 5 (page 23) ===
+Financed emissions,,,,,,
+,,Chart 3 – Financed emissions for our equity and fixed income (corporate debt) investments in FY252,,,,
+This category of emissions relates to the GHG emissions,,,,,,
+associated with our equity and fixed income (corporate,Metric,Description,Unit,Asset Class,Emissions3,FY254
+"debt) investment holdings, held on behalf of our clients.",,,,,,
+,,,,,Scope 1,6.43
+This covers 79% of our total AUM as at 30 June 20251.,,,,,,
+"These are not emissions from our operations, which are",,,,Equity,Scope 2,1.38
+described on page 22.,Total,Absolute GHG emissions associated,,,,
+,,,,,Scope 3,79.08
+,carbon,"with a portfolio, expressed in",Million tCO2e,,,
+"For alignment to best practice, we expanded our",,,,,,
+,,,,,Scope 1,0.50
+,emissions5,tonnes CO2e.,,,,
+financed emissions assessment to include Fixed,,,,,,
+,,,,Corporate,,
+,,,,,Scope 2,0.06
+Income (corporate bonds) and align with Partnership,,,,,,
+,,,,Bonds,,
+for Carbon Accounting Financials (PCAF). With,,,,,,
+,,,,,Scope 3,4.27
+"this change, we have adjusted the methodology of",,,,,,
+,Weighted,,,Equity,,116.80
+assessment from market capitalisation to enterprise,,,,,,
+,,A portfolio’s exposure to,,,,
+,average,,tCO2e/$m,,,
+value in cash (EVIC). It enables comparability between,,,,,,
+,,"carbon-intensive companies,",,,Scope 1 and 2,
+,,,,Corporate,,
+,carbon,,revenue,,,
+asset classes. FY25 data in Chart 4 highlights the new,,,,,,131.08
+,,expressed in tonnes CO2e/$M revenue.,,Bonds,,
+,intensity6,,,,,
+methodology and will be accounted for in future years.,,,,,,
+This expansion of asset classes aligns with AASB S2 and,,,,,,
+
+=== Table 6 (page 23) ===
+poses material risks and opportunities that may impact,
+the long-term performance of our clients’ investments.,
+1.,Covers 79% of total combined Asset Management and Wealth Management AUM as at 30 June 2025. It does not include funds under administration from our Corporate Trust division or funds under advice for our Wealth
+,"Management division. Further, it does not include assets or investment vehicles like cash and ETFs where we cannot obtain data nor see through to the underlying assets."
+2.,Source: ISS ESG Data as of 30 June 2025. Includes equity and fixed income (corporate debt) holdings in our asset management and wealth management divisions where our ESG data provider has coverage. Our reporting
+,"adheres to the GHG Protocol ""operational control"" approach. See our FY25 Financed Emissions Basis of Preparation for more details at perpetual.com.au/sustainability/archive/."
+3.,Scope in this table refers to the emissions of our equity and fixed income (corporate debt) investment holdings.
+"4.  FY25 figures utilise the EVIC methodology and prior years used the Market Capitalisation as Fixed Income (corporate bonds) data was not readily available. As a result, the table has been re‑baselined to FY25.",
+5.,"For total carbon emissions, Scope 1 and Scope 2 GHG emissions are calculated using an Enterprise Value including Cash as the denominator. This is calculated by combining the total debt and market capitalisation of a"
+,"holding. Where no market capitalisation is available (non‑listed issuers), total debt only is used."
+6.,"For WACI, Scope 1 and Scope 2 GHG emissions are allocated based on portfolio weights, that being the current value of investment relative to the current portfolio value. It is calculated using this formula: (current value of"
+,investment / current portfolio value) x (issuer’s Scope 1 and Scope 2 GHG emissions / Issuer’s $M revenue).

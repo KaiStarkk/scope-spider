@@ -1,0 +1,545 @@
+=== Table 1 (page 107) ===
+Iren Group | Annual Report 2024
+General basis for the preparation of the Consolidated
+Sustainability Statement and disclosures in relation to
+specific circumstances
+"[BP-1_01, BP-1_02, BP-1_03, BP-1_04, BP-1_05, BP-1_06, BP-2_01, BP-2_03, BP-2_04, BP-2_05, BP-2_06, BP-2_07, BP-2_08, BP-2_09, BP-2_16,"
+BP-2_17]
+Iren Group’s Consolidated Sustainability Statement has been prepared on a consolidated basis in accordance with Legislative
+"Decree  no.  125/2024  implementing  Directive  2022/2464/EU  (Corporate  Sustainability  Reporting  Directive (CSRD),  and  in"
+compliance with the European Sustainability Reporting Standards (ESRS) for the period 1 January 2024 - 31 December 2024.
+"This Statement is the first to be prepared in accordance with ESRS standards, in place of the previous Consolidated Non-"
+"Financial Disclosure prepared in accordance with GRI standards. Therefore, in view of the possibility of making use of the"
+"phase-in measures provided for the first year of reporting, no comparative data have been presented."
+The scope of the Consolidated Sustainability Statement is the same as that for the Consolidated Financial Statements: all
+fully consolidated legal entities are included and are indicated in the List of Fully Consolidated Companies in the “Annexes to
+the Consolidated Financial Statements”. It should be noted that no operational control was identified for any of the Group’s
+investees.
+"This Consolidated Sustainability Statement does not include any additional information from applicable legislation, with the"
+exception  of  the  information  required  by  the  European  Taxonomy  (Art.  8  of  Regulation  (EU)  no.  2020/852)  (see  chapter
+European Taxonomy in section Green Transition).
+"Iren Group’s Consolidated Sustainability Statement considers the entire value chain, thus including information on upstream"
+"and downstream segments when relevant. In particular, the upstream segment of the value chain includes first-tier suppliers"
+"and investees, assessing impacts, risks and opportunities related to the sustainable supply chain management approach"
+"adopted, while the downstream segment includes different types of customers and investees. The value chain information"
+includes quantitative metrics on Scope 3 emissions for each significant category (see paragraph “Scope 3 GHG emissions”
+"in chapter Meeting the challenge of climate change), qualitative information on relevant impacts, risks and opportunities (see"
+"paragraph “Double materiality assessment” in chapter Strategy for sustainable development) and related policies, actions"
+"and  targets.  For  the  reporting  of  Scope  3  GHG  emissions  related  to  the  supply  chain,  methods  aligned  with  the"
+recommendations  of  the  GHG  Protocol  were  used:  partly  Scope  3  emissions  were  calculated  through  direct  access  to
+"supplier emission data, partly they were calculated through a spend-based approach using sectoral emission factors. As part"
+"of its commitments to sustainable supply chain management, the Group aims to increase as much as possible the proportion"
+"of  scope  3  emissions  calculated  using  direct  data,  in  order  to  carry  out  monitoring  increasingly  linked  to  the  actual"
+"performance of suppliers, through the gradual extension of data collection directly from suppliers."
+Iren  Group  mainly  uses  quantitative  data  derived  from  its  management  systems  and  standardises  the  calculation  of
+emissions through the use of emission factors derived from authoritative scientific and institutional sources. In cases where
+"the use of estimates is necessary, these and the underlying assumptions are based on historical data, recognised regulatory"
+"or scientific methodologies, which are deemed to provide soundness and reliability. Detailed information on any estimates"
+used  can  be  found  in  the  chapters  on  each  specific  disclosure  where  the  assumptions  used  and  potential  sources  of
+uncertainty are also described.
+"Iren Group did not omit any specific information on relevant issues relating to intellectual property, know-how, innovation,"
+upcoming developments or matters under negotiation.
+"In  order  to  provide  greater  comprehensibility  of  its  business  model  and  strategy,  the  Group  decided  to  supplement  the"
+"reporting required by ESRS standards with entity-specific information, highlighted by the code “IREN_XXX” shown in grey."
+Indicators and data on future sustainability investments that are based on the assumptions underlying the 2030 Business
+Plan are included in the Statement. These include data on the green transition plan whose sources of uncertainty are related
+"to regulatory and technological developments, changing market conditions also in relation to the geopolitical context, the"
+development  of  climate  policies  and  possible  updates  in  the  measurement  methodologies  used. The  main assumptions
+"used in the forecasts concern population development, municipal and special waste production, energy consumption trends,"
+"deployment of emission-capture technologies and low-carbon fuels, and cost estimates for implementing the actions of the"
+ecological transition plan.
+"The time horizons adopted by Iren Group in line with its strategy are: short-term (up to one year), medium-term (up to 5 years)"
+and long-term (more than 5 years).
+
+=== Table 2 (page 121) ===
+Iren Group | Annual Report 2024,
+,"The Iren Shareholders’ Meeting decides, upon appointment and for the entire term of office, the total annual remuneration of"
+,the members of the Board of Directors and the maximum total amount for the remuneration of the Directors holding specific
+,"office provided for in the Articles of Association (Chairperson, Deputy Chairperson and CEO)."
+,On  the  proposal  of  the  Remuneration  and  Appointments  Committee  (RAC)  and  having  consulted  the  Board  of  Statutory
+,"Auditors,  the  Board  of  Directors  defines  the  structure  and  remuneration  for  Directors  with  specific  duties  (Chairperson,"
+,"Deputy Chairperson and CEO), and the remuneration for Directors participating in Internal Board Committees. It also defines"
+,the Remuneration Policy for the Group’s Board of Directors and Senior Executives with Strategic Responsibilities subject to
+,"the RAC’s preliminary survey, carried out in conjunction with the CRSC, with regard to risk and sustainability profiles."
+,"Subject to the RAC’s preliminary survey, the Board of Directors defines the objectives to which the short- and long-term annual"
+,"variable  component  of  the  remuneration  of  the  Executive  Chairperson,  the  Executive  Deputy  Chairperson  and  the  Chief"
+,Executive Officer and General Manager is correlated.
+,"The  Deputy  Chairperson  determines  the  remuneration  of  Senior  Executives  with  Strategic  Responsibilities,  taking  into"
+,"account the provisions of the Remuneration Policy, and defines the objectives to which their short- and long-term variable"
+,"component is related, after consulting the RAC, which may avail itself of external consultants specialising in remuneration"
+policies.,
+,"The remuneration of Non-Executive Directors is commensurate with the commitment required of each of them, also taking"
+,into account any participation in one or more Internal Board Committees.
+,"As regards the Directors with specific duties (Chairperson, Deputy Chairperson and CEO), the gross annual remuneration for"
+,"the  positions  held  was  established  by  the  Board  of  Directors,  after  a  survey  carried  out  by  the  Remuneration  and"
+,"Appointments Committee, in compliance with the limits established by the Shareholders’ Meeting."
+,"For the Executive Chairperson, the Executive Deputy Chairperson, the Chief Executive Officer and General Manager and for"
+,"Senior Executives with Strategic Responsibilities, the variable part of the remuneration is divided into two parts, the short-"
+term part and the long-term part.,
+,"Short-term variable remuneration is paid upon achievement of all performance targets and is set, in the target amount, equal"
+,to: 30.3% of the gross annual salary for the Chief Executive Officer and General Manager; 37.9% of the gross annual salary
+,"for the Executive Deputy Chairperson and Strategic Director of Human Resources, CSR and delegated areas; 30.8% of the"
+,"gross annual salary for the Executive Chairperson and Strategic Director of Finance, Strategies and delegated areas; 37.6%,"
+,"on average, of the gross annual salary of the other Senior Executives with Strategic Responsibilities in force at the end of the"
+period of reference.,
+,The short-term variable remuneration is based on an MbO (Management by Objectives) system that takes into consideration
+,"the Group’s main objectives relating to economic and financial performance (weighting 40%), the  main strategic projects"
+,(weighting 30%) and ESG factors (weighting 30%) through performance objectives linked to the priority areas of intervention
+defined in the Business Plan:,
+•,"decarbonisation: reduction of the carbon intensity of energy production, Scope 2 and Scope 3 emissions, energy savings"
+
+=== Table 3 (page 121) ===
+The short-term variable remuneration is based on an MbO (Management by Objectives) system that takes into consideration,
+"the Group’s main objectives relating to economic and financial performance (weighting 40%), the  main strategic projects",
+(weighting 30%) and ESG factors (weighting 30%) through performance objectives linked to the priority areas of intervention,
+defined in the Business Plan:,
+•,"decarbonisation: reduction of the carbon intensity of energy production, Scope 2 and Scope 3 emissions, energy savings"
+,"in production processes, emissions avoided from the recovery of waste managed;"
+•,circular economy: increase of sorted waste collection rates in the local areas served and of waste to material recovery
+,"treated in Group plants, production of biomethane from biodegradable waste and reuse of purified water;"
+•,"water resources: increase of purification capacity in the local areas managed, reduction of water withdrawals from the"
+,"environment for distribution, reduction of leakages and division into districts of the aqueduct network;"
+•,"resilient cities: extension of district heating, increase of environmentally friendly vehicles in the corporate fleet, green"
+,"electricity sold to retail customers, energy savings from products/services offered by the Group;"
+•,"people: increase in recruitment, under 30 hires, training hours per employee, people evaluated on performance, quota of"
+,"female managers, accident incidence rate and coverage of employees with supplementary health care."
+These objectives are also cascaded down to Company managers.,
+
+=== Table 4 (page 122) ===
+"(weight: 25%). For each economic-financial objective, a threshold level has been defined, equal to 90% of the target as defined,",
+below  which  no  disbursement  of  the  linked  premium  will  be  made.  An  overall  threshold  level  has  been  defined  for  the,
+"Sustainability/ESG objective, equal to 70% of the defined target, below which no disbursement of the related bonus portion",
+is envisaged. The ESG composite target considers:,
+•,enhancement of gender diversity (percentage of women executives and junior managers out of total executives and
+,junior managers);
+•,circular economy (increased sorted waste collection in legacy regions);
+•,water resources (reduction in water network losses);
+•,resilient cities (energy savings from Group products/services);
+•,decarbonization (Scope 1 emissions - carbon intensity of power generation).
+"In the context of variable remuneration, contractual agreements (malus and claw-back clauses) are maintained that allow",
+
+=== Table 5 (page 132) ===
+customers and stakeholders.,,,,
+,,TARGET,,
+Focus area,,,Customers/stakeholders,SDGs
+,2027,2030,,
+Decarbonization,,,,
+,,,"environment,",
+Installed power from renewable sources,"1,270 MW","2,060 MW",,
+,,,"community, institutions",
+,,,"environment, business",
+Power generation carbon intensity (Scope 1),287 gCO2/kWh,176 gCO2/kWh,"customers, community,",
+,,,"suppliers, investors",
+,,,"environment,",
+Renewable electricity purchased (Scope 2),95%,100%,,
+,,,community,
+Reduction of Scope 3 emissions (compared to 2020),,,,
+,,,"environment,",
+deriving from:,,,,
+,,,"community, suppliers,",
+• use of products sold (gas),,-25%,,
+,,,investors,
+"•
+fuel and energy related activities",,-13%,,
+Energy saving in production processes,"1,025 toe/000","1,409 toe/000","environment, suppliers",
+,,,"community, institutions,",
+Emissions avoided from waste recovery,"1,863 tCO2eq/000","2,053 tCO2eq/000",,
+,,,environment,
+Circular economy,,,,
+,,,"customers,",
+,,,"communities,",
+Sorted waste collection in legacy regions,74.6%,76.5%,,
+,,,"institutions, suppliers,",
+,,,environment,
+,,,"communities, business",
+Waste recovered in Group plants,"1,501 t/000","1,539 t/000","customers, institutions,",
+,,,"investors, environment",
+,,,"community, institutions,",
+Biomethane from biodegradable waste,28.9 million m3,28.9 million m3,,
+,,,environment,
+,,,"environment, business",
+Reuse of wastewater,10 million m3,20 million m3,,
+,,,"customers, community",
+
+=== Table 6 (page 182) ===
+Scope 1 GHG emissions,,
+"[E1-6_12, E1-6_13]",,
+,Total GHG emissions (tCO2eq),2024
+,Total GHG emissions (location-based),"7,106,673"
+,Total GHG emissions (market-based),"7,176,997"
+"[
+E1-6_07]",,
+,Scope 1 GHG emissions by operating segment (tCO2eq),2024
+,Net energy output,"3,351,322"
+,Cogeneration,"1,943,845"
+,Boilers,"94,661"
+,Thermoelectric,"862,821"
+,Waste-to-energy plants (non-biogenic portion),"449,995"
+,Methane releases from the gas distribution network,"18,695"
+,Other direct emissions,"45,878"
+,"Process utilities, general services, site heating","12,421"
+,Activities supporting generation,530
+,Company vehicles,"32,927"
+,Total,"3,415,895"
+"[
+E1-6_03]",,
+,Scope 1 GHG emissions by source type (tCO2eq),2024
+,Stationary combustion,"3,351,322"
+,Mobile combustion,"32,927"
+,Process emissions,"12,951"
+,Fugitive emissions,"18,695"
+,Total,"3,415,895"
+
+=== Table 7 (page 183) ===
+[E1-6_08],
+Scope 1 GHG emissions included in ETS (%),2024
+Scope 1 GHG emissions covered by regulated emissions trading schemes,85%
+[E1-6_17],
+Scope 1 biogenic GHG emissions (tCO2eq),2024
+Waste-to-energy plants (biogenic portion),"468,361"
+Landfills,"53,268"
+Biodigesters,"5,906"
+Wastewater treatment plants,"3,255"
+Total,"530,790"
+
+=== Table 8 (page 184) ===
+Scope 3 GHG emissions,,
+"[E1-6_04, E1-6_11]",,
+,Scope 3 GHG emissions by category (tCO2eq),2024
+,1. Purchased goods and services,"670,779"
+,1.1 Cloud computing and data centre services,"19,117"
+,2. Capital goods,"47,541"
+,3. Fuel and energy-related activities (not included in Scope 1 or 2),"422,044"
+,4. Upstream transportation and distribution,"35,109"
+,5. Waste generated in operations,"79,367"
+,6. Business travelling,460
+,7. Employee commuting,"12,283"
+,8. Upstream leased assets,"3,072"
+,9. Downstream transportation and distribution,0
+,10. Processing of sold products,0
+,11. Use of sold products,"2,218,966"
+,12. End-of-life treatment of sold products,0
+,13. Downstream leased assets,426
+,14. Franchising,0
+,15. Investments,"67,417"
+,Total,"3,557,464"
+"[
+E1-6_25]",,
+,Scope 3 GHG emissions from primary supplier data (%),2024
+,Scope 3 GHG emissions obtained from primary data of suppliers or value chain partners,4%
+"[
+E1-6_28]",,
+,Scope 3 biogenic GHG emissions (tCO2eq),2024
+,Biogenic Scope 3 GHG emissions,"55,733"
+
+=== Table 9 (page 184) ===
+T,"he  methodologies,  significant  assumptions  and  emission  factors  used  to  measure  Scope  3emissions  are  summarised"
+below:,
+•,"category  1  (purchased  goods  and  services),  category  2  (capital  goods),  category  4  (upstream  transportation  and"
+,"distribution) and category 8 (upstream leased assets): the methodology for calculating emissions was updated in 2024,"
+,"supplementing the spend-based methodology (turnover from suppliers) with a supplier-specific approach. In fact, for"
+,"suppliers active on the Open-Es portal, the Scope 1, 2 and 3 emissions declared by them are taken into account and are"
+,weighted according to the percentage of their turnover towards Iren Group. For companies not registered on the Open
+,"Es  portal,  turnover  in  the  year  is  analysed  and  emissions  related  to  each  type  of  goods  and  services purchased  are"
+,estimated using the UK Government GHG Conversion Factors for Company Reporting (DEFRA) and U.S. Environmental
+,"Protection Agency - Supply Chain Greenhouse Gas Emission Factors by NAICS-6, specific to each category;"
+•,category 3 (fuel and energy-related activities - not included in Scope 1 or 2): emissions are calculated on the basis of
+,fuel  and  electricity  consumption  used  by  the  Group  and  the  UK  Government  GHG  Conversion Factors  for  Company
+,Reporting  (DEFRA)  Well-to-Tank  (WTT)  emission  factors.  These  factors  make  it  possible  to  quantify  the  emissions
+,"associated with the extraction, processing and transport of purchased fuels and electricity. Emission factors are kept"
+,constant and equal to the base year 2020 for the purposes of comparability over the years and monitoring of the target
+,validated by SBTi;
+•,category 5 (waste generated in operations): emissions are calculated on the basis of waste produced by the Group and
+,emission factors from the Ecoinvent 3.7.1 database processed using the Simapro software;
+•,category  6  (business  travelling):  emissions  are  calculated  by  the  Group’s  travel  agency  (which  manages  all  Group
+,"employee travel), Cisalpina Tours, which has established a partnership with Rete Clima to analyse the environmental"
+,"impacts of its customers. For the calculation of CO2 emissions, all services booked through the travel agency portal"
+,"(plane, train, rentals, hotel) are considered."
+•,"category 7 (employee commuting): from 2024 onwards, emissions are calculated on the basis of data from the Group’s"
+,"home-work commuting plan, based on employees’ answers to a questionnaire concerning the kilometres travelled each"
+,"day  to  get  to  the  office,  repartitioned  on  the  average  number  of  Group  employees. The  conversion  factors  used  are"
+,derived from ISPRA’s database of average emission factors for road transport;
+
+=== Table 10 (page 185) ===
+Iren Group | Annual Report 2024,
+•,category 11 (use of sold products): emissions are calculated on the basis of the volumes of gas distributed to end users
+,"multiplied by the emission factor related to gas combustion, as published in the latest available update of the Italian"
+,National Inventory Report by ISPRA;
+•,category 13 (downstream leased assets): emissions are calculated based on rental and lease income and emission
+,factors  from  UK  Government  GHG  Conversion  Factors  for  Company  Reporting  (DEFRA)  and  U.S.  Environmental
+,Protection Agency - Supply Chain Greenhouse Gas Emission Factors by NAICS-6;
+•,category 15 (investments): emissions are calculated by multiplying the revenue of investees not consolidated on a line-
+,by-line basis (in proportion to the Group’s share of ownership) by the emission factors set out in UK Government GHG
+,"Conversion  Factors  for  Company  Reporting  (DEFRA)  and  U.S.  Environmental  Protection  Agency 
+-  Supply  Chain"
+,Greenhouse Gas Emission Factors by NAICS-6.
+,"For categories 1 to 13, listed above, data are reported for all the consolidated companies of Iren Group and non-consolidated"
+,"investees that are part of the value chain, in relation to the type of activity considered by the category. Category 15 includes"
+,issues by non-consolidated investee that are not part of the value chain.
+,The following Scope 3 emission categories are not considered applicable:
+•,"category  9  (downstream  transportation  and  distribution):  given  the  nature  of  the  activities  managed  by  Iren  Group,"
+,"downstream transport and distribution activities by third parties are not relevant and therefore, if there are emissions"
+,"relating to this category, they are included in category 4 (upstream transport and distribution), the calculation criteria for"
+,which are the same as for category 9;
+•,category 10 (processing of sold products): the sale of intermediate products requiring transformation processes is not
+,"applicable for Iren Group, which is mainly active in the sale of services and energy commodities;"
+•,"category 12 (end-of-life treatment of sold products): the sale of products is not relevant for Iren Group, which is mainly"
+,"active in the sale of services and energy commodities. Consequently, Scope 3 emission category 12 is not applicable;"
+•,category 14 (franchises): the Group does not operate any franchised business and therefore the issues arising from this
+,category are not applicable.
+,"It should be noted that the information regarding the Scope 1, Scope 2 and Scope 3 emissions of the companies in the value"
+,"chain may refer, if data for the year 2024 is not available at the closing date of this report, to the previous financial year,"
+,assuming that the size of the business operated by these companies has not changed significantly. This ensures the use of
+,the latest available data from the entities in the value chain. The reference period considered is always the full financial year
+,"for all entities in the value chain, maintaining consistency and comparability of data used in the calculation of GHG emissions."
+,This uniformity allows for accurate and reliable measurement of emissions along the value chain.
+
+=== Table 11 (page 188) ===
+Iren Group | Annual Report 2024,
+Climate targets,
+,"[E1.MDR-T_01-13, E1-1_02, E1-1_15, E1-4_01, E1-4_02, E1-4_07, E1-4_08, E1-4_12, E1-4_13, E1-4_16, E1-4_18, E1-4_20, E1-4_22, E1-4_23, E1-"
+4_24],
+,"Iren Group’s targets, included in the 2030 Business Plan, concretise the implementation of the Sustainability Policy. Below"
+,are  the  targets  directly  related  to  climate  change  mitigation  and  adaptation.  It  should  be  noted  that  other  targets  of  the
+,"Business Plan, particularly related to the sustainable use of water resources and the circular economy (for which see the"
+,"dedicated chapters), also generate a significant contribution in terms of climate change mitigation, through the reduction of"
+,non-renewable resources consumption and GHG emissions.
+,"The GHG emission reduction targets, verified and certified by SBTi, were adopted by the Group in 2020 and are aligned with"
+,"the  “well-below  two  degrees”  scenarios,  consistent  with  the  Paris  Agreement’s  goal  of  limiting  the  global  temperature"
+,increase to well below 2°C compared to pre-industrial levels and the intent to pursue efforts to limit the temperature increase
+to 1.5°C.,
+,In view of the acceleration introduced in 2023 by the completion of the EU “Fit for 55%” regulatory package and the outcomes
+,"of COP28 - which concluded with the approval of a document recognising the need for deep, rapid and lasting reductions in"
+,"GHG emissions, in line with the goal of limiting the temperature increase to 1.5°C - Iren Group has begun internal analyses"
+,"for a reassessment of its targets, which will, in any case, be reviewed by 2026."
+The GHG reduction targets are:,
+•,47% reduction in the carbon intensity of power generation (Scope 1) by 2030 compared to 2020;
+
+=== Table 12 (page 188) ===
+"GHG emissions, in line with the goal of limiting the temperature increase to 1.5°C - Iren Group has begun internal analyses",
+"for a reassessment of its targets, which will, in any case, be reviewed by 2026.",
+The GHG reduction targets are:,
+•,47% reduction in the carbon intensity of power generation (Scope 1) by 2030 compared to 2020;
+•,"zeroing of Scope 2 emissions, calculated according to the GHG Protocol market-based methodology, by supplying 100%"
+,renewable electricity by 2030;
+•,25% reduction in Scope 3 emissions related to the use of products sold (category 11) and 13% reduction in Scope 3
+,"emissions related to the purchase of energy (category 3), at 2030 compared to 2020."
+The definition of the targets is based on the GHG inventory prepared by the Group according to the GHG Protocol Accounting,
+
+=== Table 13 (page 188) ===
+Reduction of the carbon intensity of power generation (Scope 1 GHG),
+Main scope,power generation/own operations
+Stakeholders engaged,"environment, business customers, community, suppliers, investors"
+,"Base year 2020 
+2024 Results 
+2027 (medium-term) 
+2030 (long-term)"
+Target/Results (gCO2/kWh),
+(intensity),
+,"332 
+315 
+287 
+176"
+,The  target  is  calculated  following  the  methodology  provided  by  the  GHG  Protocol  and  Science-Based
+,Target initiative; the assumptions on decarbonization levers underlying the forecasts are based on what
+,is forecast by the climate scenarios in line with the WB2D trajectory (see the paragraph “ Scenario analysis”
+"Methodologies,",
+,"in  this  chapter),  on  projections  of  energy  market  trends,  on  SNAM’s  (the  national  methane  pipeline"
+assumptions and scientific,
+,company) scenarios for the hypotheses of the development of hydrogen and biomethane blends in gas
+data used,
+,"distribution networks, on internal technical studies for their use in the Group’s power generation plants,"
+,and on specialist studies on the applicability of CO2 capture technologies in waste-to-energy plants. The
+,Scope 1 emissions target refers to 95% of the Group’s total Scope 1 emissions in the base year.
+,"The  result  is  in  line  with  expectations,  the  trend  is  downward  by  virtue  of  investments  in  renewables"
+2024 Results,"(photovoltaics and wind power) and the increase in hydropower generation in 2024, a particularly rainy"
+,year
+
+=== Table 14 (page 189) ===
+,Zeroing of Scope 2 emissions due to 100% supply of GO renewable electricity,
+Main scope,transversal to all services managed by the Group/own operations,
+Stakeholders engaged,"environment, community",
+,"Base year 2020 
+2024 Results 
+2027 (medium-term)",2030 (long-term)
+Target/Results (%),,
+(intensity),,
+,"0 
+16 
+95",100
+,,The  target  is  calculated  following  the  methodology  provided  by  the  GHG  Protocol  and  Science-Based
+"Methodologies,",,
+,,Target Initiative; the assumptions underlying the forecasts are based on what is predicted by the climate
+assumptions and scientific,,
+,,scenarios  in  line  with  the  WB2D  trajectory  (see  paragraph  “Scenario  analysis”  in  this  chapter)  and  on
+data used,,
+,projections of energy market developments. The target covers 100% of Scope 2 emissions,
+2024 Results,The result is in line with expectations,
+SDGs,,
+
+=== Table 15 (page 198) ===
+"In the Strategic Plan, voluntary targets were defined in the areas of decarbonization, circular economy, water resources and",,,
+"resilient cities, which, by their very nature, also have a positive impact on pollution prevention.",,,
+Area,Target,Impact on pollution prevention,Reference
+,,Reducing carbon intensity reduces emissions of,paragraph “Climate
+,Carbon intensity of,,
+,,"greenhouse gases and other air pollutants, improving air",targets” in the chapter
+Decarbonization,energy generation,,
+,,quality and combating climate change,Meeting the challenge
+,(Scope 1),,
+,,,of climate change
+,,"Target matrix: air pollution, substances of concern",
+,,Material recovery reduces the amount of waste sent to,paragraph “Targets for
+,,the landfill and which can release contaminants into the,the circular economy”
+,Waste for material,,
+Circular Economy,,"soil and groundwater. It also promotes recycling, reducing",in the chapter
+,recovery in Group plants,,
+,,the need to extract new raw materials,Supporting the circular
+,,,economy
+,,Target matrix: soil pollution,
+,,wastewater treatment plants treat wastewater before it is,
+,,,paragraph “Targets for
+,,released into the environment. Increasing their capacity,
+,,,water and marine
+,,"means removing more pollutants, protecting aquatic",
+,,,resources” in the
+Water resources,Treatment capacity,,
+,,ecosystems,
+,,,chapter Sustainable
+,,,use of water and
+,,Target matrix: water pollution,marine resources
+,,,paragraph “Climate
+,,Replacing the corporate fleet with green vehicles reduces,
+,Environmentally friendly,,targets” in the chapter
+,,"exhaust emissions, improving air quality in cities",
+,company vehicles,,Meeting the challenge
+,,"Target matrix: air pollution, substances of concern",of climate change
+Resilient cities,,Offering energy from renewable sources to Iren,
+,,,paragraph “Targets for
+,,customers reduces dependence on fossil fuels. This,
+,Green electricity sold to,,consumers and end-
+,,decreases emissions of greenhouse gases and other,
+,retail customers,,users” in the chapter
+,,pollutants associated with traditional power generation,
+,,,Customer orientation”
+,,"Target matrix: air pollution, substances of concern",
+
+=== Table 16 (page 213) ===
+"In its Strategic Plan, Iren Group has defined targets in the areas of decarbonization, circular economy and water resources",,,
+"that, by their very nature, are also intrinsically linked to the conservation of biodiversity.",,,
+Area,Target,Effects on biodiversity,Reference
+,,Climate change is one of the main causes of biodiversity,
+,,"loss, as it alters habitats, modifies natural cycles and",paragraph “Climate
+,Carbon intensity of,,
+,,increases the frequency of extreme events. By reducing,targets” in chapter
+Decarbonization,energy generation,,
+,,"carbon intensity, the Group makes its contribution to",Meeting the challenge
+,(Scope 1),,
+,,protection of the climate and the ecosystem,of climate change
+,,Level of the mitigation hierarchy: prevention,
+,,The reuse of specially treated wastewater reduces,paragraph “Targets for
+,,pressure on natural water resources. This is crucial for,water and marine
+,,"aquatic biodiversity, as withdrawals alter water",resources” in chapter
+Circular Economy,Reuse of purified water,,
+,,ecosystems and compromise the survival of animal and,Sustainable use of
+,,plant species,water and marine
+,,,resources
+,,Level of the mitigation hierarchy: prevention,
+,,Increased treatment capacity ensures that wastewater is,
+,,treated effectively before being released into the,
+,,environment. This prevents pollution affecting aquatic,
+,Treatment capacity,"biodiversity, causing the disappearance of beneficial",
+,,"aquatic organisms, the proliferation of harmful algae and",
+,,the loss of habitat,
+,,Level of the mitigation hierarchy: prevention,
+,,Reducing water withdrawals from the environment is,
+,,,paragraph “Targets for
+,,"essential for preserving aquatic ecosystems,",
+,,,water and marine
+,,counteracting the loss of wetlands and altering the,
+,Water withdrawals from,,resources” in chapter
+Water resources,,,
+,,habitats of aquatic and terrestrial species,
+,the environment,,Sustainable use of
+,,,water and marine
+,,Level of the mitigation hierarchy: prevention,resources
+,,Reducing losses in the water network contributes to a,
+,,"more efficient use of water resources, resulting in less",
+,,water being withdrawn from the environment and,
+,Water mains leaks,,
+,,reducing the impact on aquatic ecosystems.,
+,(historical areas),,
+,,Level of the mitigation hierarchy: prevention,
+
+=== Table 17 (page 270) ===
+"value and promoting balanced and sustainable development also guides the generation of tangible benefits for local areas,",,,
+through targeted investments and social responsibility initiatives for a more sustainable and prosperous future.,,,
+Area,Target,Impact on communities,Reference
+,,"Reducing  carbon 
+intensity 
+is  a  contribution  to  climate",
+,Carbon intensity energy,change  mitigation that  impacts  communities  in terms  of,
+,production,"improving quality of life, reducing extreme events and the",
+,(GHG Scope 1),"resulting 
+impacts  on  people,  and  providing  access 
+to",paragraph “Climate
+,,cleaner natural resources for future generations,targets” in the chapter
+Decarbonization,,,
+,,,Meeting the challenge
+,,,of climate change
+,,The increasing use of environmentally friendly vehicles in,
+,Environmentally friendly,the  corporate  fleet  contributes  to  reducing  atmospheric,
+,corporate vehicle fleet,"emissions,  decreases  dependence  on 
+fossil 
+fuels  and",
+,,promotes a more sustainable mobility model,
+,,Extracting resources from waste produces several benefits,
+,,"for communities  because it  reduces  pollution, stimulates",
+,Recovery of material,,
+,,"the  economy,  conserves  natural  resources,  promotes  a",
+,from waste,,
+,,healthier and more sustainable environment and supports,paragraph “Targets for
+,,the transition to a circular economy,the circular economy’
+Circular Economy,,The  development  of  efficient  ways  of  waste  collection,in the chapter
+,,enables  the  recycling  and  reuse  of  waste  material  while,Supporting the circular
+,,"reducing 
+environmental 
+impact. 
+Systems 
+aimed 
+at",economy
+,Sorted waste collection,,
+,,"rewarding 
+those  who 
+produce 
+less  waste 
+provide",
+,,"incentives 
+to 
+reduce  waste  production,  make  more",
+,,conscious consumption choices,
+,,Increasing  purification  capacity  and  quality  ensures  that,
+,,wastewater is effectively treated before being released into,
+,Treatment capacity,,
+,,"the  environment,  preventing  pollution 
+that  affects 
+the",
+,,,paragraph “Targets for
+,,quality of life of communities,
+,,,water and marine
+,,"Reducing  water  withdrawals  means 
+preserving 
+vital",resources” in the
+Water resources,Water withdrawals from,,
+,,"community 
+resources, 
+ensuring 
+environmental",chapter Sustainable
+,the environment,,
+,,sustainability as well as economic and social well-being,use of water and
+,,,marine resources
+,,Reducing losses in the aqueduct network contributes to a,
+,Aqueduct network,,
+,,"more  efficient  use  of  water  resources,  resulting  in  less",
+,losses,,
+,,water being withdrawn from the environment,

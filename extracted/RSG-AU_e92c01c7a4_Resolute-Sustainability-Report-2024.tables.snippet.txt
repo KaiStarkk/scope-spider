@@ -1,0 +1,228 @@
+=== Table 1 (page 80) ===
+"PROTECTING THE ENVIRONMENT 
+  I 
+  ENERGY AND CLIMATE CHANGE",
+Greenhouse gas emissions,
+Resolute has been disclosing its Scope 1 and 2 GHG emissions,"Emissions intensity, the ratio of emissions to volume of gold"
+"since 2019, and Scope 3 emissions since 2020. These are","produced, has been influenced at Mako by reducing the diesel"
+calculated using the GHG Protocol Corporate Accounting and,"consumption. At Syama, emissions intensity decreased due"
+Reporting Standard.,to lower consumption of explosives. Land clearing associated
+,with development activity and biogenic emissions are reported
+Our Scope 1 and 2 emissions have decreased in the reporting,
+,separately. Mako and Syama biogenic emissions were 76 and
+period by approximately 7%.,
+,"2,013 tCO₂ equivalent, respectively."
+"Total GHG Emissions Scope 1 & 2, 2022-2024",
+2022,"2023
+2024"
+"Indicator 
+Sub-Indicator
+Unit
+Syama","Mako
+Syama
+Mako
+Syama
+Mako"
+"Scope 1 
+tCO2e
+180,502","110,862
+212,685
+114,144
+199,515
+101,405"
+
+=== Table 2 (page 84) ===
+Climate financial impacts and management actions,,,
+,,Materiality over,Risk management actions
+Climate-related risk,Financial impact to our business,future time horizons,and strategy
+Carbon pricing,"and scope of these mechanisms, mining",Medium- to long-term,•  Further develop and
+,companies around the world will be increasingly,,implement our emissions
+,,(2030 to 2040),
+Establishment of,"exposed to the cost of carbon. As a result,",,reduction targets and plans
+carbon taxes in our,it is possible that our operations and supply,,
+,,,•  Continue to engage
+operating regions,chain will fall under some form of carbon,,
+,,,with governments to
+leading to increased,"pricing mechanism in the future, leading to",,
+,,,evaluate renewable
+direct operating costs in,increased direct and pass-through costs. Failing,,
+,,,"energy opportunities, and"
+the future,to prepare for this could lead to significant,,
+,,,assess feasibility of using
+,financial pressure on us to decarbonise quickly,,
+,,,renewable energy for any
+,to avoid the worst impacts.,,
+,,,new operations
+,We currently do not fall under a carbon pricing,,
+,,,•  Monitor regional carbon
+,"mechanism, however, both Senegal and Mali",,
+,,,pricing mechanisms in West
+,"have national climate targets, and we recognise",,
+,,,"Africa, and carbon import"
+,that the Senegal government is also considering,,
+,,,levies in Australia as the sole
+,implementing a carbon tax (although a timeline,,
+,,,market for our goods
+,for this is not confirmed1). As West Africa has,,
+,,,"• 
+Incorporate carbon pricing"
+,"a fossil fuel dominant energy mix, in the net",,
+,,,mechanisms into financial
+,"zero 2050 scenario, it is expected to experience",,
+,,,planning by setting an
+,significant carbon price increases as stringent,,
+,,,internal carbon price
+,climate policies are introduced to curb emissions.,,
+,"Under this scenario, the direct costs associated",,
+,with a carbon tax applied to our Scope 1 and 2,,
+,emissions are modelled as financially material,,
+,"across all time horizons. However, the likelihood",,
+,"of this, at least in the short-term, is expected",,
+,to be low. We therefore do not anticipate any,,
+,"significant impacts until the mid to long term,",,
+,or until mechanisms are implemented in our,,
+,operating regions.,,
+Flooding,"Wet season runs between May to October,",Not Material,"• 
+In 2024, both Mako and"
+,bringing heavy rainfall and flooding. This has,,Syama made capital
+Increases in wet,been particularly evident at our sites in recent,,investments in new pumps
+season rainfall causing,"years, although financial performance has still",,or other dewatering
+surface water flooding,been strong as both are well adapted towards,,measures for wet season
+"at our sites, and",mining during this season. More severe floods hold,,mining
+leading to additional,"potential to affect our operating costs, through",,
+,,,•  Both sites are already well
+costs associated with,increasing the amount of pumping required to,,
+,,,"adapted to flooding, and"
+floodwater pumping,"remove water from mine pits, or lead to mining and",,
+,,,have implemented several
+and/or deferred,processing delays and deferred revenue under,,
+,,,measures to minimise
+revenue,certain conditions. As this is typically recovered,,
+,,,"disruptions, such as wet"
+,"in subsequent months, there is currently no",,
+,,,"season plans, educating"
+,detectable financial impact over annual timescales.,,
+,,,mining teams in wet season
+,The additional operating costs and revenues2,,"mining, and establishing pit"
+,associated with changes in wet season rainfall,,sumps
+,"were modelled for open pit operations at Mako,",,
+,,,•  Projected changes in wet
+,and both open pit and underground operations,,
+,,,season rainfall will be
+,"at Syama. For 2040, a revenue impact was not",,
+,,,reviewed to determine
+,"modelled, as planned production at both sites will",,
+,,,implications for site water
+,"be complete, however, operating costs were still",,
+,,,balance and budgeting
+,evaluated due to their relevance post mine closure.,,
+,"Across all scenarios, the financial impacts are not",,
+,expected to be material. Due to an overall drying,,
+,"trend in future wet seasons at Mako, the only",,
+,additional impacts are modelled at Syama. These,,
+,"are most significant post 2030, driven by deferred",,
+,"revenue from delays to open pit mining activities,",,
+,although this is not considered consequential and,,
+,will be factored into future operating budgets.,,
+
+=== Table 3 (page 100) ===
+,Reference and,,
+,Sector standard,,
+Standard,Reference.,Disclosure,Location
+,,Biodiversity,
+,"101-1 
+14.4.2",Policies to halt and reverse biodiversity loss,"SR, page 92"
+,"101-2 
+14.4.3",Management of biodiversity impacts,"SR, pages 92-94"
+,,,Not applicable
+,101-3,Access and benefit-sharing,to Resolute's
+,,,business
+GRI 101:,,,
+,"101-4 
+14.4.4",Identification of biodiversity impacts,"SR, page 92"
+Biodiversity 2024,,,
+,"101-5 
+14.4.5",Locations with biodiversity impacts,"SR, pages 92-94"
+,"101-6 
+14.4.6",Direct drivers of biodiversity loss,"SR, page 92"
+,"101-7 
+14.4.7",Changes to the state of biodiversity,"SR, pages 92-94"
+,"101-8 
+14.4.8",Ecosystem services,"SR, pages 75, 92"
+,,"Operational sites owned, leased, managed in, or adjacent to,",
+,"304-1 
+–",protected areas and areas of high biodiversity value outside,"SR, pages 92-94"
+GRI 304:,,,
+,,protected areas,
+Biodiversity,,,
+2016 (being,,,
+,,"Significant impacts of activities, products and services on",
+,"304-2 
+–",,"SR, page 92"
+superseded,,,
+,,biodiversity,
+by GRI 101,,,
+,"304-3 
+–",Habitats protected or restored,"SR, pages 93-94"
+Biodiversity,,,
+2024),,,
+,,IUCN Red List species and national conservation list species,
+,"304-4 
+–",,"SR, page 92"
+,,with habitats in areas affected by operations,
+,,Energy,
+,"302-1
+14.1.2",Energy consumption within the organization,"SR, page 77"
+,,,Not applicable
+,"302-2
+14.1.3",Energy consumption outside of the organization,to Resolute's
+,,,business
+GRI 302:,,,
+,"302-3
+14.1.4",Energy intensity,"SR, page 77"
+Energy 2016,,,
+,"302-4
+–",Reduction of energy consumption,"SR, page 77"
+,,,Not applicable
+,"302-5
+–",Reductions in energy requirements of products and services,to Resolute's
+,,,business
+,,Water and effluents,
+,"303-1
+14.7.2",Interactions with water as a shared resource,"SR, page 75"
+,"303-2
+14.7.3",Management of water discharge-related impacts,"SR, page 76"
+GRI 303:,,,
+Water and,"303-3
+14.7.4",Water withdrawal,"SR, page 75"
+Effluents 2018,,,
+,"303-4
+14.7.5",Water discharge,"SR, page 76"
+,"303-5
+14.7.6",Water consumption,"SR, page 75"
+,,Emissions,
+,"305-1
+14.1.6",Direct (Scope 1) GHG emissions,"SR, page 78"
+,"305-2
+14.1.7",Energy indirect (Scope 2) GHG emissions,"SR, page 78"
+,"305-3
+14.1.8",Other indirect (Scope 3) GHG emissions,"SR, page 78"
+,"305-4
+14.1.9",GHG emissions intensity,"SR, page 78"
+GRI 305:,,,
+,"305-5
+–",Reduction of GHG emissions,"SR, pages 77-78"
+Emissions 2016,,,
+,,,Not applicable
+,"305-6
+–",Emissions of ozone-depleting substances (ODS),to Resolute’s
+,,,business.
+,,"Nitrogen oxides (NOx), sulphur oxides (SOx), and other",
+,"305-7
+14.3.2",,"SR, page 74"
+,,significant air emissions,
+,,Spills,
+GRI 306:,,,
+Effluents and,"306-3
+14.15.2",Significant spills,None
+waste 2016,,,

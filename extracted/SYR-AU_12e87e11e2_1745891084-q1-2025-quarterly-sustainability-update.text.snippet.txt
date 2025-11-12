@@ -1,0 +1,72 @@
+=== Page 19 ===
+ENVIRONMENT HOME    19
+Balama Emissions and Air Quality
+Greenhouse gas emissions and air quality monitored closely
+(1) Refer to our Sustainability Policy: LINK  
+(2) Emissions Intensity Rate = t CO2-e per tonne of natural graphite production. The BGO’s Emissions Intensity Rate is expected to decrease at higher production l evels.
+(3) There are no Scope 2 emissions at Balama as there is no use of purchased electricity, steam, heat or cooling.Q1 2025 QUARTERLY SUSTAINABILITY UPDATE
+Balama Graphite Operation
+Scope 1 and 2 GHG Emissions
+PeriodTotal Emissions 
+(t CO 2-e)Natural Graphite 
+Production (kt)Emissions 
+Intensity Rate(2)
+Q2 2023 6,536 15 4.3
+Q3 2023 6,835 18 3.8
+Q4 2023 6,362 20 3.3
+Q1 2024 4,955 11 4.3
+Q2 2024 6,355 23 2.7
+Q3 2024 1,264 0 N/A
+Q4 2024 0 0 N/A
+Q1 2025 0 0 N/A01020304050
+040,00080,000120,000160,000200,000
+Q2 2023 Q3 2023 Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024 Q1 2025
+Production (kt)t CO2 -e or GJGreenhouse Gas Emissions - Scope 1 and Scope 2(3) Reporting
+Production (kt) Total Emissions (t CO2-e) Energy
+Consumed (GJ)Energy
+Produced (GJ)Syrah  maintains  a rigorous  Air Quality  Management  Program  at Balama  as part of its Environmental  & Social  Management  Plan,  which  has been  established  in line with ISO environmental  standards  
+and IFC Standards . The program  includes  actions  to monitor  and reduce  emissions  and closely  monitor  the air quality  in surrounding  communities . 
+We are therefore  committed  to identifying,  measuring  and reducing  greenhouse  gas emissions  from our operations . To this effect,  we commissioned  an independent  Life Cycle  Assessment  ("LCA")  of 
+our integrated  operations,  from Balama  origin  to Vidalia  customer  gate to quantify  the Global  Warming  Potential  (“GWP”)  of our products  (see next slide) . Syrah  is targeting  a reduction  in total 
+greenhouse  gas emissions  (“GHG”)  generated  at Balama  by ~30%(1).
+
+=== Page 20 ===
+ENVIRONMENT HOME   20
+Life Cycle Assessment
+Life cycle assessment of Syrah’s operations confirms a strong position relative to other suppliers of natural graphite and ac tive 
+anode materials
+Life Cycle  Assessment
+▪An independent  life cycle  assessment  ("LCA")  of Syrah's  integrated  operations,  from Balama  origin  to Vidalia  
+customer  gate,  has been  completed  by Minviro  Ltd(1). LCA is a globally  recognised  and scientifically  validated  
+methodology  to quantify  direct  and embodied  environmental  impacts  along  the life cycle  of a product  or 
+process .
+▪The Global  Warming  Potential  (“GWP”)  of producing  natural  graphite  from Balama  and transporting  it to 
+Nacala  port is estimated  to be 0.42kg CO2 equivalent  per 1kg natural  graphite . The GWP  of producing  Active  
+Anode  Material  (“AAM”)  from Vidalia,  using  natural  graphite  from Balama,  is estimated  to be 7.3kg CO2 
+equivalent  per 1kg AAM,  including  the impact  of producing  natural  graphite  at Balama  and transporting  it from 
+Balama  gate to Vidalia  gate.
+▪The GWP  of Balama  natural  graphite  is ~60% lower  than equivalent  natural  graphite  produced  from a 
+benchmarked  supply  route  in Heilongjiang  Province,  China .
+▪The GWP  of Vidalia  AAM  is ~50% lower  than natural  graphite  AAM  produced  from a benchmarked  supply  
+route  in Heilongjiang  Province,  China  and is ~70% lower  than synthetic  graphite  AAM  produced  from a 
+benchmarked  supply  route  in Inner  Mongolia  Province,  China .
+▪The Company  continues  to engage  with the Louisiana  Electrical  Power  Authority  to understand  the pathway  
+towards  increased  renewable  content  in site-supplied  power  to further  reduce  Vidalia’s  GWP .7.3
+14.2
+23.8Vidalia 
+AAM 
+Chinese natural 
+graphite AAM
+Chinese 
+synthetic 
+graphite AAM~2xGlobal Warming Potential (kg CO2 eqv./kg product)(1)
+>3x
+0.42
+1.00>2xBalama 
+natural 
+graphite
+Chinese natural 
+graphite
+(1) Source : Minviro  Ltd's  life cycle  assessment  on Syrah  dated  August  2022 . Note : Global  Warming  Potential  (“GWP”)  is defined  as the cumulative  radiative  forcing,  both direct  and indirect  effects,  over a specified  time horizon  resulting  from the 
+emission  of a unit mass  of gas related  to some  reference  gas [CO2: (IPCC  1996 )]. GWPs  shown  are a forecast  life of operation  average  for Vidalia  based  on detailed  engineering  and include  scope  1, scope  2 and scope  3 greenhouse  gas 
+emissions . Syrah’s  LCA meets  the requirements  of ISO14040 /14044  standards  and has been  critically  reviewed  by an independent  third-party .Q4 2024 QUARTERLY SUSTAINABILITY UPDATE

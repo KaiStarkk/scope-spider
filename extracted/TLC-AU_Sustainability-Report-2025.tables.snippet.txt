@@ -1,0 +1,203 @@
+=== Table 1 (page 8) ===
+,,500+,
+,,,
+42.5%,,Charities and community,
+,,organisations supported,
+,0.31%,via the Play For Purpose,Play For Purpose joins
+,,,
+Women in Senior,,,
+,,and 50-50 Charity raffles,
+,,,
+Leadership,,,The Lott’s digital channels
+,Lotteries Responsible,,
+,Play Early Intervention,,"In June 2025, we helped supercharge the"
+↑ 2.1% from FY24,,,
+,,,fundraising power of hundreds of community
+,Communications(i),,
+,,,causes by adding the 50-50 Foundation’s Play
+,,,For Purpose charity raffle to The Lott’s digital
+,,,channels.
+,,,Being able to purchase Play For Purpose tickets
+,,15-person,directly on The Lott website and app provides
+,,dedicated Charitable,more ways for customers to participate while
+,,,
+,7.96%,Games team employed,supporting their charities of choice.
+,,by The Lottery,
+,,,"In addition, they can buy Play For Purpose tickets"
+,Keno Responsible,,
+,,Corporation,
+,,,
+Net Zero 2030,Play Early,,in the same transaction as their favourite lottery
+,,,games marking a new era of our customers
+,Intervention,,
+Scope 1 and 2 roadmap developed,,,giving back while being in the running to win
+,Communications(ii),,great prizes.
+,,,Read more in the Community chapter.
+
+=== Table 2 (page 11) ===
+Pillar,Key Performance Indicator,FY25 Target,FY25 Performance,Status
+,Maintain WLA Responsible Gaming Framework certification,Level 4 WLA certification,Retained Level 4 WLA certification,
+,Percentage (%) of new or reformatted games designed using Gamgard insights screening,100%,100%,
+Operating our business and,,,,
+,"Of the player activity flagged as potentially at-risk by early intervention models,",,Keno: 100%,
+,,100%,,
+products responsibly,,,,
+,the percentage (%) that is supported with an early intervention (i),,Lotteries: 100%,
+,Percentage (%) of operational outlets/venues surveyed for alignment to responsible gambling,,Keno: 99.3%(ii),
+,,100%,,
+,requirements,,Lotteries: 100%,
+,Commissions paid to retailers/venue partners,N/A,$655m retailer and venue commissions,N/A
+,,,$5.2m total community contributions comprising:,
+,,,•  $1.3m through The Lottery Corporation operating,
+Supporting our community,Overall community contributions,>$5m,expenditure,
+,,,•  $1.9m through unclaimed prize money,
+,,,•  $2.0m through state licence agreements,
+,Funds raised for charities through our support of the 50-50 Foundation,N/A,$4.2m,N/A
+,Percentage of female representation at Senior Leader level,40% by 2025,42.5%,
+Nurturing our people,Employee engagement,70%,73%,
+,Lost Time Injury Frequency Rate,0.0,0.0,
+Reducing our environmental,,,,
+,Greenhouse Gas Emissions,Develop 2030 Net Zero Roadmap,Scope 1 and 2 Net Zero 2030 Roadmap developed,
+impact,,,,
+
+=== Table 3 (page 45) ===
+We recognise that operating a responsible business,Our Net Zero ambition
+"includes optimising our use of natural resources, and",
+,"In June 2025, we developed new targets to reduce"
+reducing our impact on the environment.,
+,"greenhouse gas emissions, with our intention to"
+While our emissions footprint is small in comparison,deliver net zero Scope 1 and 2 greenhouse gas
+to Australia’s other larger companies by market,emissions by 2030.
+"capitalisation, our business and value chain does",
+,Our Net Zero Roadmap outlines our proposed path
+have an impact on the environment and we are,
+,"to achieve this, with key opportunities including:"
+taking action to reduce our environmental footprint.,
+,•  Continued transition of our fleet to largely
+"In FY25, we developed our Net Zero Roadmap",
+,hybrid vehicles
+and commenced a climate-related risk and,
+,•  Procuring renewable electricity or large
+opportunity assessment.,
+,generation certificates (LGCs) for our offices and
+
+=== Table 4 (page 45) ===
+,•  Procuring renewable electricity or large
+opportunity assessment.,
+,generation certificates (LGCs) for our offices and
+"In FY26, we intend to:",
+,distribution centres
+•  Continue to strengthen our approach to climate,
+,•  Procuring high-quality offsets where we cannot
+"related disclosures, in line with the requirements of",
+,reduce or abate emissions.
+the Australian Sustainability Reporting Standards S2,
+Climate-related Disclosures issued by the Australian,
+Accounting Standards Board,
+•  Commence implementation of our Net Zero,
+"Roadmap, focusing initially on operational emissions",
+,Procuring
+(Scope 1 & 2).,
+,renewable
+,electricity/
+,LGCs for our
+,offices and
+,distribution
+,centres
+,Scope 1 & 2
+,Emissions
+
+=== Table 5 (page 46) ===
+Scope 3 emissions are indirect emissions that occur,,,,,
+in our value chain both upstream and downstream,,,,,
+and comprise more than 97% of our overall,319,323,286,,
+,t CO2-e,t CO2-e,t CO2-e,,
+emissions profile.,,,,,
+,,,,Powering up the future,"performance, charging infrastructure"
+"We estimated our total Scope 3 emissions to be 39,787",,,,,
+,FY23,FY24,FY25,,"requirements, overall impact on our operational"
+,,,,As part of our commitment to achieving net zero,
+tonnes CO2-e(i) in FY25.,,,,,
+,,,,,"footprint, and benefits and challenges of"
+,,,,"Scope 1 greenhouse gas emissions by 2030, The",
+,,Scope 1,Scope 2,,incorporating fully electric models into our
+,,,,Lottery Corporation has begun trialling electric,
+,,,,,business. Insights gained from this trial will
+,,,,vehicles (EVs) within our operational fleet. This,
+,,,,,inform our broader fleet strategy and support
+,,,,initiative complements our ongoing transition to,
+,,,,,the scaling up of zero and low-emission
+,,,,hybrid vehicles.,
+,,,,,transport solutions as we transition to a lower-
+,,,,,
+(i)    The Lottery Corporation’s emissions inventory has been prepared in line,,,,The EV trial will help us evaluate vehicle,
+,,,,,carbon economy.
+with the Greenhouse Gas Protocol: A Corporate Accounting and Reporting,,,,,
+
+=== Table 6 (page 53) ===
+Disclosure,,Reference Document,Page No,Disclosure,,Reference Document,Page No
+2-25,Processes to remediate negative impacts,2025 Sustainability Report,13-14,GRI 207: Tax 2019,,,
+,,,,207-1,Approach to tax,2025 Sustainability Report,14
+2-26,Mechanisms for seeking advice and,2025 Sustainability Report,13,,,,
+,raising concerns,,,,,,
+,,,,207-2,"Tax governance, control, and risk",2025 Sustainability Report,14
+2-27,Compliance with laws and regulations,2025 Annual Report,13-14,,,,
+,,,,,management,,
+2-29,Approach to stakeholder engagement,2025 Sustainability Report,50-51,207-3,Stakeholder engagement and,2025 Sustainability Report,14
+,,,,,management of concerns related to tax,,
+GRI 3: Material Topics 2021,,,,,,,
+,,,,207-4,Country-by-country reporting,2025 Annual Report,77-122
+3-1,Process to determine material topics,2025 Sustainability Report,9,,,,
+,,,,GRI 302: Energy 2016,,,
+3-2,List of material topics,2025 Sustainability Report,9,,,,
+,,,,302-1,Energy consumption within the,2025 Sustainability Report,46
+,,,,,organisation,,
+3-3,Management of material topics,2025 Sustainability Report,12-48,,,,
+,,,,302-4,Reduction of energy consumption,2025 Sustainability Report,46
+GRI 201: Economic Performance 2016,,,,,,,
+201-1,Direct economic value generated and,2025 Annual Report,"81, 87-89",GRI 305: Emissions 2016,,,
+,distributed,,,,,,
+,,,,305-1,Direct (Scope 1) GHG emissions,2025 Sustainability Report,46
+201-3,Defined benefit plan obligations and,2025 Annual Report,124,,,,
+,other retirement plans,,,,,,
+,,,,305-2,Energy indirect (Scope 2) GHG emissions,2025 Sustainability Report,46
+GRI 205: Anti-corruption 2016,,,,,,,
+205-1,Operations assessed for risks related to,2025 Annual Report,24-29,305-3,Other indirect (Scope 3) GHG emissions,2025 Sustainability Report,47
+,corruption,,,,,,
+205-2,Communication and training about anti-,2025 Sustainability Report,13,305-5,Reduction of GHG emissions,2025 Sustainability Report,46-47
+,corruption policies and procedures,,,,,,
+
+=== Table 7 (page 55) ===
+Term,Definition,Term,Definition
+ASX,Australian Securities Exchange,Scope 1 emissions,"Direct greenhouse gas emissions from sources owned or controlled by the Company, such as"
+,,,combustion facilities (e.g. generators) and combustion of fuels in Company-owned or Company-
+,,,controlled transport (e.g. cars and trucks)
+Board,The Company’s Board of Directors,,
+,,Scope 2 emissions,"Indirect greenhouse gas emissions from the generation of purchased electricity, heat, cooling"
+EGM,Electronic gaming machine,,
+,,,or steam. Purchased electricity is defined as electricity bought or otherwise brought into the
+,,,organisational boundary of the entity
+ESG,"Environmental, social and governance sustainability matters",,
+,,Scope 3 emissions,Other indirect greenhouse gas emissions that are a consequence of a Company’s activities
+,,,"but arise from sources that other entities own or control. Like Scope 2, Scope 3 is a category"
+FY or financial year,The Company’s financial year is 1 July to 30 June,,
+,,,of indirect emissions and covers all other indirect emissions from sources that are not owned
+,,,"or controlled by a company, but that occur because of its activities (eg: emissions from waste"
+Greenhouse gas (GHG),Gas that contributes to the greenhouse effect as defined by the Australian National Greenhouse,,disposal to landfill)
+,and Energy Reporting Act 2007. The greenhouse gases that are reported under the NGER,,
+,"Scheme include carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), sulphur hexafluoride",,
+,,TLC,The ASX ticker code used to identify The Lottery Corporation
+,(SF6) and specified kinds of hydro fluorocarbons and perfluorocarbons,,
+,,The Lott,The Lottery Corporation’s lotteries brand and the official home of Australia’s lotteries
+GRI,Global Reporting Initiative,,
+,,SDGs,Sustainable Development Goals; 17 global goals set by the United Nations in 2015 to define global
+Group,The Lottery Corporation Limited and its subsidiaries,,sustainable development priorities and aspirations for the planet
+,,STI,Short-term incentive
+KEIM,Keno Early Intervention Model,,
+,,Vulnerable players,As defined by Gamgard: A vulnerable player is someone who has a higher-than-average risk
+Keno,A lottery-style game played in venue or online,,level for developing a gambling problem
+,,WGEA,Workplace Gender Equality Agency
+LEIM,Lotteries Early Intervention Model,,
+,,WLA,World Lottery Association
+RAP,Reconciliation Action Plan,,
+,,WLA RGF,World Lottery Association Responsible Gaming Framework

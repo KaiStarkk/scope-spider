@@ -1,0 +1,191 @@
+=== Page 11 ===
+Sustainability Targets
+Targets and Progress
+Topic FY25 Target Outcome 
+Our Business All employees to complete online 
+cybersecurity training.All employees have completed the training 
+this year. This will be refreshed each year.
+Health, Safety  
+and WellbeingDeliver Stage Two Leadership Program 
+(Mental Health, Fatigue Management and 
+Drug and Alcohol)Target achieved.
+Diversity, Inclusion 
+& Talent AttractionMaintain employee turnover below 
+industry average. 
+Complete Psychosocial Safety audit across 
+the business.
+Increase female representation in workforce, 
+targeting peer average.Target achieved.
+Target achieved.
+Target achieved.
+Community 
+EngagementMaintain contribution of up to $3/oz towards 
+community investment and engagement 
+(assuming a minimum of $2/oz).Target achieved.
+Ethics & Human 
+RightsAll employees to receive whistleblower, 
+workplace behaviour and reporting training.Target achieved.
+Taxes, supplier 
+payments, and 
+royaltiesImprove proportion of procurement spend 
+within regional areas, reporting to Committee 
+on a six-monthly basis.Target not met.  
+With the transition of Edna May into care 
+and maintenance, procurement spend 
+in regional areas did not increase as a 
+proportion of total spend on the prior year.
+Climate Change 
+and GHG EmissionsImprove definition of Scope 3 emissions. Target achieved. 
+We have undertaken an extensive exercise 
+to assess the materiality of each Scope 3 
+category in our footprint, and we have 
+developed a tool to better streamline the 
+reporting of Scope 3 emissions for our most 
+material value chain categories. 
+We will use this to assess our Scope 3 
+footprint each year and to determine 
+opportunities for collaboration with our 
+suppliers and customers.
+Demonstrate preparedness of ASRS by 
+achieving 75% compliance.Target achieved.  
+We have made significant progress in  
+uplifting our climate-related disclosures  
+to meet the requirements of the Australian 
+Sustainability Reporting Standards, with 
+additional work completed outside of this 
+report to ensure we meet the compliance 
+requirements by 30 June 2026. Our current 
+preparedness rate is 76%.
+Mine Closure and 
+RehabilitationAchieve progressive rehabilitation targets as 
+set in FY25 Budget.Target achieved.
+Closure and rehabilitation activities were 
+undertaken across the Edna May, Marda* 
+Tampia and Symes projects. 
+1. * Note Marda assets were divested during the  
+reporting period.
+Ramelius Resources 2025 Sustainability Report
+9
+Overview Our Assets Our People Our Communities Our Environment Our Climate
+ Governance
+
+=== Page 42 ===
+Our Climate
+Greenhouse Gas Emissions and Energy
+PERFORMANCE IN FY25
+GHG Emissions FY25 FY24 FY23
+Total Scope 1 Emissions Metric tonnes 
+(tCO₂-e)103,087 118,369 122,977 
+Total Scope 2 Emissions Metric tonnes 
+(tCO₂-e)19,668 28,673 27,727 
+Total Scope 1 & 2 Emissions Metric tonnes 
+(tCO₂-e)122,755 147,042 150,704 
+Emissions intensity per ounce gold produced 
+(group total) tCO₂-e/oz 0.41 0.50 0.63 
+PERFORMANCE IN FY25
+Energy Use (Total) FY25 FY24 FY23
+Total Energy Consumed Gigajoules (GJ) 1,981,308 2,320,954 2,403,568 
+Energy Produced (diesel and Natural gas) Gigajoules (GJ) 228,087 273,176 276,098 
+Energy Produced (Renewable) Megawatt 
+Hours410 0 0
+Net Energy Consumed Gigajoules (GJ) 1,753,221 2,047,778 2,127,470 
+Energy Purchased from grid power Gigajoules (GJ) 138,836 194,102 195,723 
+% of total energy consumption derived 
+from grid power Percentage (%) 7% 8% 10%
+Energy intensity of gold produced (group total) GJ/oz 6.57 7.91 9.97
+We are proud of our climate progress in the current 
+period. Our total energy consumption for FY25 was 
+1,981,308 GJ, which results in a 15% decrease in energy 
+consumption from the prior year. Our total Scope 1 and 
+2 emissions was 122,755tCO2-e, also representing a 17% 
+decrease from last year. This was due to commencement 
+of solar power generation from our new 6.7 MW solar 
+farm at Mt Magnet and transitioning Edna May to care 
+and maintenance.
+Our FY25 emissions intensity* per ounce of gold 
+produced was 0.41tCO2-e/oz. This is a reduction of 
+0.09 tCO2-e/oz from last year. An in-depth breakdown 
+of our annual energy consumption and GHG emissions 
+can be found in our ESG Databook.
+1. *	Emissions	intensity	captures	total	Scope	1	&	2	GHG	emissions		
+		across	the	Group. 	
+Ramelius Resources 2025 Sustainability Report
+40
+
+=== Page 43 ===
+3,000,000
+2,500,000
+2,000,000
+1,500,000
+1,000,000
+500,000TOTAL Energy Consumed
+FY25 FY24 FY23
+Total GHG Emissions
+150,000
+100,000
+50,000
+FY25 FY24 FY23
+Total Scope 1 Emissions Total Scope 2 Emissions
+Emissions intensity per ounce gold produced  
+(Group Total)
+0.80
+0.60
+0.40
+0.20
+FY25 FY24 FY23A review from FY25 showed that the majority of our 
+Scope 1 emissions come from diesel consumption, 
+accounting for 73% of emissions. The estimated 
+distribution of these emissions is 53% from stationary 
+sources (machinery and equipment), 31% from 
+transportation and 17% from power generation. 
+Additionally, natural gas contributes 26% of Scope 1 
+emissions, used solely for power generation. We are 
+hopeful we can leverage the work done at the hybrid 
+power project at Mt Magnet to date to continue our 
+emission reduction trajectory. 
+In order to prepare for AASB S2 climate-related 
+financial disclosure frameworks, we have engaged 
+a third-party to assess the controls and processes in 
+place for recording our GHG emissions for reporting 
+purposes. We are implementing recommendations 
+provided in anticipation of the new regulations in the 
+2026 financial year. 
+Scope 3 Emissions 
+Calculations
+Scope 3 emissions encompass a broader range of 
+greenhouse gas emissions that occur throughout the 
+entire product life cycle. These are increasingly being 
+used to understanding and assessing a company’s 
+entire value chain emissions impact and identify areas 
+of high risk, and where a company has most opportunity 
+to influence and impact the emissions of its suppliers, 
+customers and other value chain inputs. We engaged 
+third-party consultants to provide a tool for the collection 
+of Scope 3 data and calculations in FY25. This helped us 
+gain insight into our carbon footprint beyond our direct 
+operations (Scope 1) and indirect emissions from energy 
+consumption (Scope 2) and become prepared for the 
+changes to the AASB S1 and S2 standards, which require 
+more rigorous and detailed climate-related disclosures.
+For FY25, we calculated our Scope 3 emissions footprint 
+to be 166,131 tCO2-e. The following categories were 
+considered in our assessment:
+ ࣈPurchased goods and services
+ ࣈCapital goods
+ ࣈFuel and energy related activities
+ ࣈUpstream transportation and distribution 
+ ࣈWaste generated in operations 
+ ࣈBusiness travel
+ ࣈEmployee commuting 
+ ࣈDownstream transportation and distribution 
+ ࣈProcessing of sold products 
+The most significant contributions to our Scope 3 
+emissions were from purchased goods and services, fuel 
+and electricity consumption in our operations not already 
+considered in our Scope 1 and 2 emissions footprint, and 
+the purchase of capital goods. A detailed breakdown of 
+this data can be found in our ESG Databook. 
+Ramelius Resources 2025 Sustainability Report
+41
+Overview Our Assets Our People Our Communities Our Environment Our Climate
+ Governance

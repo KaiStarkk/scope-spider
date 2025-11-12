@@ -1,0 +1,45 @@
+=== Page 16 ===
+Knowing that we are 
+safeguarding our brokers’ and clients’ sensitive information is incredibly rewarding. At AFG, we prioritise security and continuously strive to enhance our measures to maintain trust and protect data.
+Rob
+Head	of	Information 	Security
+Our own footprint:
+To understand our impact on the climate, AFG measures its 
+own Greenhouse Gas (GHG) emissions, using the services of an independent consultant. We have been voluntarily measuring our footprint since 2021. 
+In measuring our emissions, AFG’s scope and organisational 
+boundary were determined in accordance with the GHG Protocol Standard (World Business Council for Sustainable Development, World Resources Institute, 2004).
+The boundary follows the operational control model and 
+includes the aspects of AFG’s supply chain that our organisation has influence over. GHG emissions from  the AFG Group have been included and reported on  where activity data was available and provided to the  independent consultant. AFG is still refining its data capture process, and not all Scope 3 emissions are able to be measured or reported at this stage.
+This year, the boundary of our GHG emissions inventory 
+widened with inclusion of the facilities associated with BrokerEngine (100% owned by AFG since 31 August 2023) and Fintelligence (83% owned by AFG as at 30 June 2024). The FY24 measurement therefore took into consideration expanded activity, increased number of employees and additional offices.
+This year’s measurement determined we produced 1,265.37 
+tonnes of carbon dioxide equivalent (t CO
+2-e) gross between 
+1 July 2023 and 30 June 2024. This was a decrease on the year before, when 1,484.1 t CO
+2-e (gross) was disclosed in 
+the FY23 annual report. 
+GHG emissions scope Emissions (t CO 2-e) Percentage
+Scope 1 1.26 0.1
+Scope 2 115.36 9.1
+Scope 3 1,148.75 90.8
+Total 1,265.37 100Emissions summary
+Summary of AFG’s gross emissions by scope
+Our main GHG emitting activities were 
+associated with business travel and employee commuting. AFG looks to address employee commuting emissions through its hybrid work policy (AFG Group Work From Home Policy).
+As a national organisation we face 
+challenges with eliminating interstate travel, however we continue to take steps to reduce this where possible and have chosen to voluntarily purchase offsets to match emissions created through travel throughout the year.Vehicle fuel 
+consumption,  1.26 t CO
+2-e (0.1%) Electricity use, 115.36 t CO
+2-e (9.1%) 
+Upstream  leased assets,  116.84 t CO
+2-e (9.2%) Employee commuting, 352.13 t CO
+2-e (27.9%) Purchased goods  and services,  244.58 t CO
+2-e (19.3%)Indirect fuel and energy use,  12.15 t CO
+2-e (1.0%) 
+Business travel,  386.41 t CO
+2-e (30.5%)Waste generated  in operations,  36.64 t CO
+2-e (2.9%) 
+02004006008001,0001,200
+Scope 1 Scope 2 Scope 3Scope 1
+Scope 3Scope 216 AFG 
+Sustainability Report 2024

@@ -1,0 +1,75 @@
+=== Page 30 ===
+Impact and innovation 
+Greenhouse gas emissions 
+We completed our third annual calculation of the Group’s 
+GHG emissions in FY25, demonstrating our commitment to 
+keeping our stakeholders informed of the Group’s carbon 
+footprint. The nature and modest quantum of the Group’s 
+emissions set out in the table below reflect the low‑emission 
+nature of professional services businesses.
+Our ongoing efforts to track our GHG emissions are essential for 
+monitoring our environmental impact. The GHG emissions data 
+set out in this report adheres to international standards such 
+as the International Greenhouse Gas Protocol (GHG Protocol), 
+which is adopted by AASB S2, along with ISO 14064‑ 1 Standard 
+for the reporting of GHG emissions and removals. 
+During FY25, IPH:
+ —formalised a basis of preparation, which provides clear 
+guidance as to the methods of calculation, including 
+appropriate emission factors, for the Group’s Scope 
+1, 2 and applicable Scope 3 GHG emissions; 
+ —established a boundary setting policy, by adopting 
+the operational control method. Under this method, 
+IPH accounts for 100% of its emissions from 
+operations over which it, including its subsidiaries, 
+has operational control, as Scope 1 emissions;
+ —refined the methodology and conversion factors used 
+for estimating and calculating GHG emissions; and
+ —established more robust processes and controls to ensure 
+data used to calculate emissions is complete and accurate.
+The Group’s FY24 comparative GHG emissions data has been 
+re‑presented to ensure consistency and comparability with 
+our refined methodology. 
+Total Group GHG emissions
+2025  
+tCO 2e2024  
+tCO 2e 
+Re-presented
+Scope 1 Fugitive emissions 
+from refrigerants 0.05 0.03
+Scope 2 Purchased electricity 572.46 224.69
+Scope 3 Indirect emissions111,103.05 9,104.72
+Total 11,675.56 9,329.46
+1. Relevant categories in the Scope 3 Chart.Gross emissions have been estimated using a standardised 
+approach based on activity data and emission factors. 
+Activity data collected – such as fuel combustion, electricity 
+usage, distance travelled, or dollars spent – were multiplied 
+by relevant emission factors. Emissions factors are coefficients 
+that estimate the amount of GHGs emitted per unit of activity. 
+IPH has used publicly available emission factors published 
+by the United States Environmental Protection Agency and 
+Australian National Greenhouse Accounts Factors.
+The increase in Group GHG emissions from FY24 to FY25 
+is mainly attributed to the acquisition of the Bereskin & Parr 
+business during FY25, and the full year impact of businesses 
+acquired part year through FY24.
+Scope 3 GHG emissions
+Scope 3 GHG emissions represent indirect emissions 
+arising from activities across our value chain that are not 
+included in Scope 1 or Scope 2 and are the highest source 
+of GHG emissions for the Group as a network of professional 
+services businesses.
+The graph below depicts the categories that comprise the 
+Group’s Scope 3 GHG emissions.
+2025: Total 11,103
+2024: Total 9,1059,284
+6,806Puchased Goods & Services (Category 1)
+180
+740Capital Goods (Category 2)
+64
+25Fuel & Other Energy-Related Activities (Category 3)
+826
+207Business Travel (Category 6)
+749
+1,325Employee Commuting (Category 7)27
+Directors’ Report Financial Statements Remuneration Report Shareholder Information Corporate Directory

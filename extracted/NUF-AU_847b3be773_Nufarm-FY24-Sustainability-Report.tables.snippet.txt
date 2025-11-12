@@ -1,0 +1,755 @@
+=== Table 1 (page 7) ===
+People,We continue to focus on our decarbonisation pathways and
+,concluded a power purchase agreement at Pipe Road and
+"Our long-term strategic goals rely on the dedication, creativity",
+,"Horsham, which will help us achieve our 30 per cent reduction"
+and resilience of our employees across the world.,
+,target by FY30. We also continue to monitor the suitability of
+Safety is our highest priority and we strive to improve our,hydrogen energy supply for our Wyke site in the UK.
+approach and achieve better outcomes. We have dedicated,
+,We understand the importance of a risk-based approach
+"programs to address process safety management, personal",
+,to environmental management. Our activities include training
+safety and wellbeing. Our objective is that 'everyone goes,
+,"our workforce and conducting regular environmental audits,"
+home safely' every day—whether they are working in the,
+,to ensure compliance with our environmental obligations.
+"manufacturing plants, out on the road, or in the field meeting",
+,Currently 4 of our 11 crop protection manufacturing sites are
+with our customers. Our wellness program is available to all,
+,ISO 14001 certified and we are on track to certify six sites
+employees and provides support to our employees and their,
+,in the coming year to achieve our target of 10 sites certified
+family members.,
+,to ISO 14001 by FY25. This initiative aims to embed strong
+"In FY24, we saw 6 of our 11 crop protection manufacturing",governance and process around environmental management at
+sites achieve a lost time injury (LTI) free year. Despite these,our manufacturing sites.
+"milestone achievements, our overall rate of injury remained on",
+,"We aim to use materials responsibly, reduce waste, and"
+"an upward trend, due to injuries that occurred in the first six",
+,"increase recycling rates. This year, our operational hazardous"
+months of the year. In the last six months of FY24 we saw an,
+,waste was 27 per cent below our FY20 baseline (FY23: 12
+improvement in safety performance and we remain ever vigilant,
+,per cent). This year-on-year change is mostly due to efforts
+to the risks that could see this more recent trend reverse. The,
+,made at Chicago Heights in North America to reduce their
+Serious Injury Frequency Rate has declined during FY24: 2.01,
+,waste. We anticipate the activities planned at Chicago Heights
+in FY24 compared with 2.92 in FY23.,
+,"will continue to reduce operational hazardous waste, helping"
+We aim to foster a workplace where diversity is celebrated,"us achieve our target of a 20 per cent reduction by FY25,"
+and our employees feel included. We understand that diverse,measured from our FY20 baseline.10
+"thinking helps contribute to our innovative culture, among other",
+,Our efforts in air emissions management have progressed
+"things. Our activities in this area include targeted hiring policies,",
+,and we are focusing on reducing volatile organic compounds
+"ongoing cultural sensitivity training, and specific gender equality",
+,"(VOCs) at our site in Linz, Austria. We have a target to reduce"
+programs. FY24 saw a decrease in the number of women in,
+,"our VOC emissions by 25 per cent by FY25, measured from a"
+"our senior leadership team6 by two percentage points, bringing",
+,FY20 baseline. Next year we will install a regenerative thermal
+our gender ratio down from 35 per cent to 33 per cent. Our,
+,oxidation (RTO) plant at Linz which will allow us to reduce
+target for FY30 is to have a gender balance that is 40:40:20 for,
+,"VOC emissions to a much lower level, however, the impact of"
+"our senior leadership team, meaning 40 per cent who identify",
+,the solution will not be achieved in time for us to achieve our
+"as women, 40 per cent who identify as men and 20 per cent",
+,FY25 target.
+"who identify as men, women or other. Overall, we increased",
+the total percentage of women at Nufarm this year by one,We recognise the need to protect ecosystems and have
+"percentage point, with women now making up 29 per cent",incorporated biodiversity considerations into our operations
+of our employee population. We have identified that supply,"and product development. Where applicable, we evaluate the"
+"chain, manufacturing and commercial remain three areas where",potential impact of our products on biodiversity as a part of the
+our representation of women is lower and we will need more,registration process to minimise the risk of harm from their use.
+targeted initiatives to make a difference in our gender metrics in,
+these areas.,Our planned sustainability activity for FY25
+"Our employees remain engaged in our business, with our latest","We made progress in FY24 against our sustainability plans,"
+"employee survey resulting in an engagement score of 797,",but as sustainability challenges grow we understand there
+which is top quartile compared with other organisations.8,"will be increasing areas for improvement. In FY25, we will"
+,improve the processes needed to capture emissions across
+Planet,"the group, including a spend-based approach to measure"
+,our scope 3 emissions. This will help us to comply with
+We have made steady progress in responding to our,
+,the Australian mandatory climate related financial disclosure
+environmental challenges. We continue to work towards,
+,"legislation coming into law on 1 January 2025, which Nufarm"
+aligning our climate-related disclosures with the Taskforce on,
+,will report against for the first time in FY26.
+Climate-related Financial Disclosures (TCFD) recommendations.,
+We recorded a 42 per cent reduction in our greenhouse,
+gas emissions from our FY20 baseline (FY23: 19 per cent,
+reduction).9 This reduction was due to the extended shutdown,
+"of our synthesis plant at Pipe Road, Laverton, Australia.",
+
+=== Table 2 (page 7) ===
+,
+6,Our senior leadership team (SLT) comprises of the CEO's direct reports (CEO-1) and their direct reports (CEO-2).
+,
+7,This is an employee satisfaction score out of 100.
+,
+8,"""Top Quartile"" is in reference to the GLINT database of companies. We have partnered with GLINT to facilitate our employee engagement surveys. We"
+,benchmark Nufarm against GLINT's 900-strong customer base.
+,
+9,"Our greenhouse gas emissions (GHG) target is to reduce our scope 1 and 2 emissions from our crop protection manufacturing sites by 30 per cent by FY30,"
+,from a FY20 baseline.
+,
+10,"This year we produced approximately 23,000 tonnes of waste, of which 18,629 tonnes was hazardous waste. Due to significant construction activities"
+,"at several of our locations, over 4,000 tonnes (18 per cent) was non-operating hazardous waste, in the form of construction materials, soil and obsolete"
+,plant equipment. Our hazardous waste target was set with the intention of reducing our operational waste. As such we have separated non-operating
+,(construction) waste from our hazardous waste performance measure.
+
+=== Table 3 (page 8) ===
+,Our sustainability objective,Target,Plan,,Progress,,Comments,Status
+1,Reduce Nufarm’s,To reduce our scope 1 and 2,We will establish a power purchase agreement (PPA) for our,Scope 1 and 2,,,"Our target is based on normal operating conditions, however in the last two years,",On track
+,,,,,94,,,
+,scope 1 and 2,GHG emissions from our crop,"Victorian, Australia sites and use the large-scale renewable",,87,,Nufarm has seen extended shutdowns at our two synthesis plants as we conduct,
+,,,,greenhouse,82,,,
+,greenhouse gas,protection manufacturing sites,energy certificates (LGCs) to progressively offset our scope,,,76,asset integrity and capacity enhancing work which has driven emissions reductions.,
+,,,,gas emissions,,,,
+,(GHG) emissions,by 30 per cent by FY30 from a,1 and 2 GHG emissions at these locations.,,,66,These plants are the largest source of our scope 1 and 2 GHG emissions.,
+,,,,from our crop,,,,
+,,FY20 baseline,,,,55,,
+,,,Our Pipe Road site in Australia is our largest emitting,,,,Adjusting for normal production levels in FY24 our GHG emissions would have been,
+,,,,protection,KtonnesCO2e,,,
+,,,"site, comprising almost 50 per cent of our crop protection",,,,approximately 74 K tonne CO2e.,
+,,,,manufacturing,,,,
+,,,"manufacturing GHG emissions, (under normal operating",,,,,
+,,,,sites,,,,
+,,,conditions) and is the focus of our GHG emissions,,,,,
+,,,reduction target.,,,,,
+
+=== Table 4 (page 9) ===
+,Our sustainability objective,Target,Plan,,Progress,,Comments,Status
+1,Reduce Nufarm’s,To reduce our scope 1 and 2,We will establish a power purchase agreement (PPA) for our,Scope 1 and 2,,,"Our target is based on normal operating conditions, however in the last two years,",On track
+,,,,,94,,,
+,scope 1 and 2,GHG emissions from our crop,"Victorian, Australia sites and use the large-scale renewable",,87,,Nufarm has seen extended shutdowns at our two synthesis plants as we conduct,
+,,,,greenhouse,82,,,
+,greenhouse gas,protection manufacturing sites,energy certificates (LGCs) to progressively offset our scope,,,76,asset integrity and capacity enhancing work which has driven emissions reductions.,
+,,,,gas emissions,,,,
+,(GHG) emissions,by 30 per cent by FY30 from a,1 and 2 GHG emissions at these locations.,,,66,These plants are the largest source of our scope 1 and 2 GHG emissions.,
+,,,,from our crop,,,,
+,,FY20 baseline,,,,55,,
+,,,Our Pipe Road site in Australia is our largest emitting,,,,Adjusting for normal production levels in FY24 our GHG emissions would have been,
+,,,,protection,KtonnesCO2e,,,
+,,,"site, comprising almost 50 per cent of our crop protection",,,,approximately 74 K tonne CO2e.,
+,,,,manufacturing,,,,
+,,,"manufacturing GHG emissions, (under normal operating",,,,,
+,,,,sites,,,,
+,,,conditions) and is the focus of our GHG emissions,,,,,
+,,,reduction target.,,,,,
+
+=== Table 5 (page 18) ===
+Our contribution to the UN SDGs,
+We are pleased to see clear and continued similarities between,topics. This reflects the risks and opportunities that climate
+"the topics our stakeholders find most material, and the six","change presents to agriculture, and Nufarm has positioned"
+United Nations Sustainable Development Goals (SDGs) we,itself to take climate action by responding with solutions such
+have chosen to focus on. The most significant shift we have,"as Nuseed Carinata and energy cane. As an organisation, we"
+witnessed has been the ascension of our most important,are taking steps to reduce our greenhouse gas emissions. Our
+"material topic, sustainable agricultural innovation. The very core",current target is to reduce our scope 1 and 2 emissions from
+of what we do leverages agricultural solutions to meet global,"our crop protection manufacturing sites by FY30, measured"
+"sustainability challenges, helping the world work towards zero",from our FY20 baseline.
+"hunger, while sustaining life on land and below water. This",
+,"Minimising harm to growers, the community, and the"
+theme previously fell outside our top five most material topics.,
+,environment through the development of safe products and
+"The safety, health and wellbeing of our people and the",promoting responsible product stewardship also continues to
+community continues to be one of Nufarm’s most material,be a key material topic. This commitment is a crucial step in our
+"topics, and is an essential facet of our commitment to",focus on sustainable life on land and below water.
+"our people, customers, and growers which we demonstrate",
+,Nufarm’s concentration on gender equality means employees
+by practising responsible consumption and production. Our,
+,"feel empowered to bring their whole self to work, improving"
+stakeholders told us that waste management and cleaner,
+,the overall wellbeing of our workforce. While not identified by
+"production, previously one of our most material issues, is now",
+,"stakeholders as a tier one material topic, we consider it an"
+an expected part of business as usual.,
+,important driver of the innovative thinking needed to respond
+Reducing our greenhouse gas emissions and adapting our,to the sustainability challenges we face. We are targeting a
+operations and supply chain to mitigate climate change,gender composition of 40:40:20 in our senior leadership team
+impacts is now one of our most material sustainability,by FY30.
+
+=== Table 6 (page 51) ===
+,2 Emissions from our 15 non-manufacturing sites in Australia and New Zealand
+was not available for these locations at the time we established,
+,were reported for the first time in FY24.
+the target. A 30 per cent reduction from our FY20 baseline is,
+approximately 28k tonne CO2e.,
+Our material emissions,30% by FY30
+The majority of our emissions come from energy used,
+,Our target is to reduce our scope 1
+in our synthesis plants and the heating of raw materials,
+,and 2 greenhouse gas emissions
+for processing.,
+,from our crop protection manufacturing
+"Under normal operating conditions, our Pipe Road site","sites by 30% by FY30, measured from"
+"in Laverton, Australia is our most significant emitter. The",our FY20 baseline.
+primary source of emissions at this site is scope 2 electricity,
+
+=== Table 7 (page 51) ===
+We aim to minimise our environmental impacts,
+,"In January 2023 (FY23), our site at Wyke in the UK took over"
+We are working to reduce our greenhouse,
+,ownership of the CHP plant. The change in ownership resulted
+gas emissions,
+,in an increase in our scope 1 emissions and a corresponding
+,decrease in scope 2 emissions. We also had a small increase in
+Our emissions reporting scope,
+,scope 1 emissions as we sell the excess electricity generated
+We measure location-based scope 1 and 2 greenhouse gas,
+,by the CHP plant back to the national electricity grid.
+emissions from our crop protection manufacturing sites over,
+which we have both financial and operational control. We do,"Despite being one of our larger facilities, our Linz site in Austria"
+not yet measure emissions across our entire business footprint,"has low emissions, (76 tonnes CO2e in FY24 and 77 tonnes"
+but are planning to progressively expand our measurement and,"in FY23 CO2e), and only contributes 0.1 per cent to our"
+reporting of scope 1 and 2 emissions. This year we expanded,reported emissions footprint. This is due to the use of 100
+our measurement to include an additional 15 locations beyond,"per cent renewable electricity and waste heat and cooling,"
+our manufacturing locations. We aim to expand our reporting,"which supply most of its energy requirements. For this site,"
+footprint again in FY25.,our approach is to focus on energy reduction opportunities in
+,the short-term. The emissions contribution of our locations is
+We have reported an estimated 90 per cent of our total scope,
+,shown in Figure 24.
+"1 and 2 emissions this year, based on the scope of our",
+operations globally and the anticipated energy activities of the,
+,Figure 24: Our material greenhouse gas emissions this year
+activities carried out at each location. We do not yet measure,
+"or report scope 3 emissions, but we aim to from FY26.",
+"Our emissions calculations include carbon dioxide (CO2),",
+"methane (CH4), nitrous oxide (N2O), and hydrofluorocarbons",Percentage of measured
+"(HFCs). We do not produce perfluorocarbons (PFCs), sulphur",emissions
+hexafluoride (SF6) or nitrogen trifluoride (NF3) emissions.,"Wyke
+51%"
+,"Pipe Rd
+28%"
+Our emissions reduction target,
+,"Other CP sites¹
+19%"
+We are working to reduce our own operational climate impacts,"Non-manufacturing (ANZ)²
+3%"
+and set a target to reduce scope 1 and 2 emissions from our,
+crop protection manufacturing sites only (and over which we,
+"have both financial and operational control), by 30 per cent by",
+"FY30. This is an absolute reduction, measured from our FY20",
+,1 Emissions from our crop protection (CP) manufacturing sites at Kwinana in
+"baseline, which was our most current annual crop protection","Australia, Port Klang in Malaysia, Merak in Indonesia, Linz in Austria, Gaillon"
+emissions data at the time we established the target. This,"in France, Cairo in Egypt, and Chicago Heights, Alsip and Greenville, all in the"
+target does not include our other locations as emissions data,United States.
+,2 Emissions from our 15 non-manufacturing sites in Australia and New Zealand
+was not available for these locations at the time we established,
+,were reported for the first time in FY24.
+the target. A 30 per cent reduction from our FY20 baseline is,
+approximately 28k tonne CO2e.,
+Our material emissions,30% by FY30
+The majority of our emissions come from energy used,
+,Our target is to reduce our scope 1
+in our synthesis plants and the heating of raw materials,
+,and 2 greenhouse gas emissions
+for processing.,
+,from our crop protection manufacturing
+"Under normal operating conditions, our Pipe Road site","sites by 30% by FY30, measured from"
+"in Laverton, Australia is our most significant emitter. The",our FY20 baseline.
+primary source of emissions at this site is scope 2 electricity,
+"emissions, which are generated during chlorine production,",
+"a key ingredient in 2,4-D synthesis. This year we had an",Our emissions fell this year
+extended plant shutdown at the site while we upgraded plant,
+,This year our total reported scope 1 and 2 greenhouse gas
+capacity which reduced the site's emissions by 56 per cent,
+,"emissions were 56,671 tonne CO2e, representing a decrease"
+"compared with FY23 (FY24:15,596 tonnes CO2e versus FY23:",
+,of approximately 25 per cent compared with FY23. When
+"35,069 tonnes CO2e ).",
+,comparing our crop protection manufacturing site emissions
+Our second major emitter is our Wyke site in the United,"only, this is 42 per cent lower than our FY20 baseline, which is"
+,the reference for our target.1 This is show in Figure 25.
+"Kingdom (28,633 tonnes CO2e in FY24 versus 28,685 tonnes",
+"CO2e in FY23), normally accounting for approximately 40 per",
+"cent of our reported emissions, but this year 50 per cent of",
+our total measured emissions are attributed to Wyke due to the,
+lower emissions from Pipe Road. Wyke has its own gas-fired,
+"combined heat and power (CHP) plant, which produces steam",
+and electricity for manufacturing.,
+
+=== Table 8 (page 52) ===
+Figure 25: Our greenhouse gas emissions,,,,,,,
+,"100,000",,,0.3,,,
+,,,,,,,We are working towards our
+,,,,0.25,,,emissions reduction target
+,"75,000",,,,,,
+,,,,,,,In line with our strategy to reduce our greenhouse
+,,,,0.2,,,"gas emissions, this year we established a power"
+,,,,,,,purchase agreement (PPA) for our Australian sites;
+,,,,,,,"Horsham and Pipe Road, Laverton. Emissions"
+Greenhouse gas emissions (tonne CO₂e),"50,000",,,0.15,of production),Greenhouse gas intensity (tonne CO₂e/tonne or m³,intensive synthesis operations at Pipe Road drive
+,,,,,,,"the majority of the demand, and these have been"
+,,,,,,,recently expanded. While our Horsham site is a
+,,,,0.1,,,
+,,,,,,,"relative low emitting site, combining its energy"
+,"25,000",,,,,,requirements with Pipe Road delivered a better
+,,,,,,,economic outcome for the site and will also deliver
+,,,,0.05,,,
+,,,,,,,some emissions reduction benefit.
+,,,,,,,The five-year PPA commenced in July 2024 and
+,0,,,0,,,secures renewable energy from Origin Energy's
+,,"FY20
+FY21
+FY22
+FY23¹",FY24²,,,,
+,,,,,,,Stockyard Hill Wind Farm near Ballarat in Victoria.
+,,Manufacturing scope 1 emissions,,,,,The large-scale renewable certificates (LGCs) will
+,,Manufacturing scope 2 emissions,,,,,
+,,,,,,,allow us to progressively reduce our greenhouse
+,,Non-manufacturing scope 1 emissions,,,,,
+,,,,,,,gas emissions as we step down towards our
+,,Non-manufacturing scope 2 emissions,,,,,
+,,,,,,,emissions reduction target.
+,,,Greenhouse gas intensity (tonne CO₂e/tonne or m³,,,,
+,,of production),,,,,
+1 The increase in Scope 1 emissions and decrease in Scope 2 emissions is due to,,,,,,,
+
+=== Table 9 (page 52) ===
+Non-manufacturing scope 2 emissions,
+,emissions reduction target.
+Greenhouse gas intensity (tonne CO₂e/tonne or m³,
+of production),
+1 The increase in Scope 1 emissions and decrease in Scope 2 emissions is due to,
+the change in ownership of the CHP plant at Wyke in FY23.,
+,The CHP plant at Wyke is powered almost entirely by natural
+"2 Our manufacturing emissions are from our crop protection manufacturing sites,",
+,"gas, making it more challenging to transition to a renewable"
+while our non-manufacturing emissions are from our offices and warehouses in,
+,energy source in the short term. We have a decarbonisation
+Australia and New Zealand.,
+,strategy for the site which identified hydrogen as the preferred
+,alternative fuel source to eventually replace natural gas.
+The decline in this year's emissions is primarily due to the,
+extended shutdown at our Pipe Road facility. The year-on-year,
+,"While the UK Government is advancing its hydrogen strategy,"
+change in our emissions is shown in Figure 26. Under normal,
+,we do not anticipate hydrogen being available as a source
+"operating circumstances, we estimate this year's emissions",
+,"of energy supply at the site until the mid 2030s. In addition,"
+"footprint would have been approximately 74,000 tonne CO2e.","as the technology is still developing for commercial use, we"
+We anticipate emissions increasing in FY25 once our Pipe,
+,do not yet know whether it will deliver the cost effective
+"Road facility is fully operational again, but we remain committed",
+,"emissions reductions required. In the short-term, the site is"
+to reducing our total emissions in accordance with our,
+,focusing on energy efficiency and electrification initiatives. We
+climate strategy.,
+,continue to monitor hydrogen developments and if any of
+,the fundamental assumptions change we will reconsider its
+Figure 26: Changes in our emissions footprint this year,
+,suitability. We appointed a specialised sustainability project
+,leader in early FY24 to champion emissions reduction efforts
+100,for the site.
+"1.9
+- 3.5
+75.8",
+- 17.5,
+,We obtained limited assurance
+56.7,
+,We obtained limited assurance from Bureau Veritas for
+"Greenhouse gas
+emissions (tonne CO₂e)
+50",our FY24 reported scope 1 and 2 emissions and energy
+,consumption. Our certificate of assurance is available in
+,Appendix 9. Independent assurance report.
+0,Looking ahead
+"FY23 GHG
+Non-
+Seasonal
+Pipe Road
+FY24 GHG",
+,In anticipation of Australia's mandatory climate-related financial
+"emissions
+manufacturing
+variation
+shut-down
+emissions",
+,"disclosure obligations, we developed a roadmap to identify"
+locations¹,
+,the steps we need to take to implement the requirements of
+1 Our 15 non-manufacturing locations in Australia and New Zealand.,
+,this regulation. These regulations will apply to Nufarm's FY26
+,reporting year and next year (FY25) we aim to extend our
+See pages 85 to 87 in Appendix 7. Our environmental data,
+,current reporting to all scope 1 and 2 emissions across our
+for a detailed emissions breakdown.,
+,entire business and begin a spend based estimate for scope
+,"3 emissions. For our current, non-mandatory climate-related"
+Our decarbonisation progress,
+,"disclosures, refer to Appendix 6. Our progress towards climate-"
+Our strategy for lowering emissions focuses on our largest,
+,related disclosures.
+"emitting site, Pipe Road.",
+
+=== Table 10 (page 65) ===
+GRI Standard,,Location of our disclosure
+GRI 205: Anti-corruption 2016,,
+,,FY24 SR page 23
+3-3,Management of material topics,
+,,FY24 AR page 48
+,,Corruption risk is one of the risks considered in
+,,our ongoing assessment of organisational risk.
+,,The effectiveness of our controls to mitigate
+205-1,Operations assessed for risks related to corruption,
+,,corruption risk is evaluated through our program
+,,of rotational site reviews within the internal
+,,audit program.
+205-2,Communication and training about anti-corruption policies and procedures,FY24 SR page 23
+,,No confirmed incidents of material corruption
+205-3,Confirmed incidents of corruption and actions taken,
+,,in FY24.
+GRI 206: Anti-competitive behaviour 2016,,
+3-3,Management of material topics,FY23 SR page 23
+,,No material legal action related to anti-competitive
+206-1,"Legal actions for anti-competitive behaviour, anti-trust, and monopoly practices",
+,,"behaviour, anti-trust, and monopoly practices."
+Environmental,,
+GRI: 302 Energy 2016,,
+3-3,Management of material topics,FY24 SR pages 55-56
+302-1,Energy consumption within the organisation,FY24 SR page 87
+302-3,Energy intensity,FY24 SR page 87
+302-4,Reduction of energy consumption,FY24 SR pages 55-56
+GRI: 303 Water and effluents 2018,,
+3-3,Management of material topics,FY24 SR pages 56-58
+303-1,Interactions with water as a shared resource,FY24 SR pages 56-58
+303-2,Management of water discharge-related impacts,FY24 SR pages 56-58
+303-3,Water withdrawal,FY24 SR pages 87 and 89
+303-4,Water discharge,FY24 SR pages 88 and 90
+303-5,Water consumption,FY24 SR page 90
+GRI: 304 Biodiversity 2016,,
+3-3,Management of material topics,FY24 SR pages 58-59
+,"Operational sites owned, leased, managed in, or adjacent to protected areas and",
+304-1,,FY24 SR pages 58-59
+,areas of high biodiversity value outside of protected areas,
+304-2,"Significant impacts of activities, products, and services on biodiversity",FY24 SR pages 58-59
+304-3,Habitats protected or restored,FY24 SR pages 58-59
+,,The Eurasian Thick-knee Burhinus oedicnemus
+,,is a bird that nests in the ZENIFF area on and
+,IUCN Red List species and national conservation list species with habitats in areas,
+304-4,,"adjacent to our site in Gaillon, France and which"
+,affected by operations,
+,,is classified in the IUCN Red List species as
+,,‘least concern’.
+GRI: 305 Emissions 2016,,
+3-3,Management of material topics,FY24 SR pages 51-53 and 76-80
+305-1,Direct (scope 1) GHG emissions,FY24 SR pages 79-80
+305-2,Energy indirect (scope 2) GHG emissions,FY24 SR pages 79-80
+305-4,GHG emissions intensity,FY24 SR pages 79-80
+305-5,Reduction of GHG emissions,FY24 SR page 51
+305-6,Emissions of ozone-depleting substances (ODS),FY24 SR pages 55 and 85
+305-7,"Nitrogen oxides (NOX), sulphur oxides (SOX), and other significant air emissions","FY24 SR pages 55, 85 and 86"
+GRI: 306 Waste 2020,,
+3-3,Management of material topics,FY24 SR pages 34 and 53
+306-1,Waste generation and significant waste-related impacts,FY24 SR page 53
+306-2,Management of significant waste related impacts,FY24 SR page 53
+306-3,Waste generated,FY24 SR page 82
+
+=== Table 11 (page 76) ===
+,Appendix 6. Our progress towards climate-related disclosures
+In FY22 we partnered with an experienced service provider who,business processes and expand our emissions measurement
+conducted a qualitative climate-related risk and opportunity,and reporting. In FY24 we expanded our scope 1 and
+assessment over Nufarm’s value chain. In FY23 we developed,2 emissions reporting and planned for the processes and
+a roadmap to guide us on the incremental improvements,technology solutions that will help us further expand this
+"needed to lift our climate-related governance frameworks,",in FY25.
+embed climate scenario analysis and risk assessment into,
+Our TCFD index,
+
+=== Table 12 (page 76) ===
+embed climate scenario analysis and risk assessment into,,
+Our TCFD index,,
+,Recommendations,Reference
+Governance,a. Describe the board’s oversight of climate-related risks and opportunities.,FY24 SR page 77
+Disclose the,,
+,b. Describe management’s role in assessing and managing climate-related risks,FY24 SR page 77
+organisation’s governance,,
+,and opportunities.,
+around climate-related risks,,
+and opportunities.,,
+Strategy,a. Describe the climate-related risks and opportunities the organisation has identified,FY24 SR pages 77 to 79
+Disclose the action and,"over the short, medium and long term.",
+,,FY22 CC Sup pages 5–8
+potential impacts of,,
+,b. Describe the impact of climate-related risks and opportunities on the organisation’s,
+climate-related risks and,,
+,"businesses, strategy and financial planning.",
+opportunities on the,,
+"organisation’s businesses,",,
+,"c. Describe the resilience of the organisation’s strategy, taking into consideration",
+strategy and financial,,
+,different climate-related scenarios.,
+planning where such,,
+information is material.,,
+Risk management,a. Describe the organisation’s processes for identifying and assessing climate-,FY22 CC Sup pages 5–8
+Disclose how the,related risks.,
+"organisation identifies,",,
+,b. Describe the organisation’s processes for managing climate-related risks.,FY24 SR page 77
+"assesses, and manages",,
+climate-related risks.,,
+,"c. Describe how processes for identifying, assessing and managing climate-related",FY24 SR page 77
+,risks are integrated into the organisation’s overall risk management.,
+Metrics and targets,a. Disclose the metrics used by the organisation to assess climate-related risks and,FY24 SR page 79
+Disclose the metrics and,opportunities in line with its strategy and risk management process.,
+targets used to assess,,
+,"b. Disclose scope 1, scope 2 and, if appropriate, scope 3 greenhouse gas (GHG)",FY24 SR page 79
+and manage relevant,,
+,emissions and the related risks.,
+climate-related risks and,,
+opportunities where such,,
+,c. Describe the targets used by the organisation to manage climate-related risks and,FY24 SR page 51
+information is material.,,
+,opportunities and performance against targets.,
+
+=== Table 13 (page 78) ===
+Description – Risk,Description – Opportunity,Strategy and mitigating actions
+,"1. Changes in product demand – driven by changes in the market, and in policy and regulation",
+"Transition: Policy, legal and regulation; Market",,
+Risk,Opportunity,Manufacturing and selling products that
+,,enable sustainable farming practices such as
+Scenario: Low emissions (<2° C),Scenario: Low (<2° C) and high emissions,
+,,no-till farming.
+,(>3° C),
+Time horizon: 2030,,
+,Time horizon: 2050,
+Impact: Reduced volume of sales,,
+,Impact: Increased revenue,
+,2a. Operational changes – fossil fuel and carbon footprint reduction/compliance with GHG policy and regulation,
+,2b. Operational cost/cost of goods increase – suppliers passing on transition costs,
+"Transition: policy, legal and regulation",,
+Risk,Opportunity,Seeking to minimise our emissions through
+,,transitioning to renewable energy and
+Scenario: Low emissions (<2° C),Scenario: Low (<2° C) and high emissions,
+,,reducing energy consumption. We have set
+,(>3° C),
+,,a target to reduce our scope 1 and 2
+Time horizon: 2030,,
+,,greenhouse gas emissions from our crop
+,Time horizon: 2030–2050,
+Impact: Increased capital and,,protection manufacturing sites by 30 per cent
+operational expenditure,"Impact: Reduced operating costs, access","by FY30, measured from our FY20 baseline."
+,"to new suppliers and sources of finance,",
+,,See pages 51-53 for more information
+,reduced climate-related impact on revenue,
+,3a. Changes in product demand – driven by climate unsuitability (chronic physical),
+3b. Changes in product demand – driven by acute physical events,,
+Physical,,
+Risk,Opportunity,The climate change risk assessment gives us
+,,insights into how climate change may impact
+Scenario: High emissions (>3° C),Scenario: Low (<2° C) and high emissions,
+,,our core crop selection and geographies. We
+,(>3° C),
+,,expect to integrate these insights into our
+Time horizon: 2030–2050,,
+,,longer-term strategic planning process.
+,Time horizon: 2050,
+Impact: Reduced sales,,
+,Refer to the opportunities outlined under:,
+
+=== Table 14 (page 79) ===
+especially in the hard to abate area of liquid fuels.,,
+,,We have reported an estimated 90 per cent of our total scope
+The transitional and physical impacts of climate change may,,
+,,"1 and 2 emissions this year, based on the scope of our"
+require some adaptation of our supply chain and operations:,,
+,,operations globally and the anticipated energy activities of the
+•,"Under the low emissions scenario, regulatory changes to",activities carried out at each location. We do not yet measure
+,address climate change in some locations may affect our,"or report scope 3 emissions, but we aim to from FY26."
+,manufacturing and processing facilities. Opportunities also,
+,,"Our emissions calculations include carbon dioxide (CO2),"
+,exist to achieve greater resource efficiency and resilience to,
+,,"methane (CH4), nitrous oxide (N2O), and hydrofluorocarbons"
+,climate variability under the low emissions scenario.,
+,,"(HFCs). We do not produce perfluorocarbons (PFCs), sulphur"
+•,Physical events may disrupt our operations. Repeated,
+,,hexafluoride (SF6) or nitrogen trifluoride (NF3) emissions.
+,disruptions may render parts of our supply chain and,
+,manufacturing arrangements nonviable in the long term.,We are working to reduce our own operational climate impacts
+,Our business continuity and insurance programs consider,and set a target to reduce scope 1 and 2 emissions from our
+,physical risk exposures relating to our manufacturing,crop protection manufacturing sites only over which we have
+,"and non-manufacturing operations, including identifying","both financial and operational control, by 30 per cent before"
+,actions to physically strengthen our facilities. We assess,"the end of FY30. This is an absolute reduction, measured from"
+,the longer-term suitability of our manufacturing footprint,"our FY20 baseline, which was our most current annual crop"
+,and supply chain arrangements through our strategic risk,protection emissions data at the time we established the target.
+,management process.,This target does not include our other locations as emissions
+,,data was not available for these locations at the time we
+
+=== Table 15 (page 79) ===
+Strategic implications,which we have both financial and operational control. We do
+,not yet measure emissions across our entire business footprint
+Nufarm is able to respond to climate-related opportunities,
+,but are planning to progressively expand our measurement and
+through investing in new products to meet lower-carbon biofuel,
+,reporting of scope 1 and 2 emissions. This year we expanded
+demand. In our Sustainable Agricultural Innovation section,
+,our measurement to include an additional 15 locations beyond
+"on pages 26 to 36 of this report, we outline in detail how",
+,our manufacturing locations. We aim to expand our reporting
+"our bioenergy platform addresses this increasing demand,",
+,footprint again in FY25.
+especially in the hard to abate area of liquid fuels.,
+,We have reported an estimated 90 per cent of our total scope
+The transitional and physical impacts of climate change may,
+,"1 and 2 emissions this year, based on the scope of our"
+require some adaptation of our supply chain and operations:,
+,operations globally and the anticipated energy activities of the
+"•
+Under the low emissions scenario, regulatory changes to",activities carried out at each location. We do not yet measure
+address climate change in some locations may affect our,"or report scope 3 emissions, but we aim to from FY26."
+manufacturing and processing facilities. Opportunities also,
+,"Our emissions calculations include carbon dioxide (CO2),"
+exist to achieve greater resource efficiency and resilience to,
+,"methane (CH4), nitrous oxide (N2O), and hydrofluorocarbons"
+climate variability under the low emissions scenario.,
+,"(HFCs). We do not produce perfluorocarbons (PFCs), sulphur"
+"•
+Physical events may disrupt our operations. Repeated",
+,hexafluoride (SF6) or nitrogen trifluoride (NF3) emissions.
+disruptions may render parts of our supply chain and,
+manufacturing arrangements nonviable in the long term.,We are working to reduce our own operational climate impacts
+Our business continuity and insurance programs consider,and set a target to reduce scope 1 and 2 emissions from our
+physical risk exposures relating to our manufacturing,crop protection manufacturing sites only over which we have
+"and non-manufacturing operations, including identifying","both financial and operational control, by 30 per cent before"
+actions to physically strengthen our facilities. We assess,"the end of FY30. This is an absolute reduction, measured from"
+the longer-term suitability of our manufacturing footprint,"our FY20 baseline, which was our most current annual crop"
+and supply chain arrangements through our strategic risk,protection emissions data at the time we established the target.
+management process.,This target does not include our other locations as emissions
+,data was not available for these locations at the time we
+,established the target. A 30 per cent reduction from our FY20
+Metrics and targets,
+,baseline is approximately 28k tonne CO2e.
+We measure location-based scope 1 and 2 greenhouse gas,
+
+=== Table 16 (page 79) ===
+Table 25: Greenhouse gas emissions,,,,,
+"Greenhouse gas emissions (tonne CO2e)1,2,3,4",FY20,FY215,FY22,FY23,"FY246,7"
+Scope 1 – direct emissions,,,,,
+Fuel,,,"2,139","2,150","3,393"
+Gas,,,"14,241","35,011","34,472"
+Onsite incineration,,,417,243,68
+Hydrofluorocarbons (HCFs),,,15,452,25
+Other8,,,226,194,85
+Total scope 1 - direct emissions,"18,848","16,951","17,039","38,049","38,043"
+Scope 2 – energy indirect emissions,,,,,
+Purchased steam,,,"18,571","5,509","1,804"
+Purchased electricity,,,"45,914","32,251","16,824"
+Total Scope 2 – energy indirect emissions,"75,070","70,430","64,485","37,760","18,628"
+
+=== Table 17 (page 79) ===
+Greenhouse gas intensity (tonne CO2e/tonne or m3,,,,,
+of production),0.244,0.239,0.251,0.261,0.209
+,"1 We report our scope 1 and 2 greenhouse gas emissions from our crop protection manufacturing sites, over which we have both financial and operational control. We",,,,
+estimate this represents 80 per cent of our total scope 1 and 2 emissions.,,,,,
+"2 We include the following gases in our calculation of our emissions: carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and hydrofluorocarbons (HFCs). We do not",,,,,
+,"have emissions of perfluorocarbons (PFCs), sulphur hexafluoride (SF6) or nitrogen trifluoride (NF3).",,,,
+,"3 Scope 1 and 2 emissions are calculated using the relevant regulatory authority conversion factors (location-based method). Where not available, Intra-governmental Panel",,,,
+,on Climate Change (IPCC) default emission and global warming potential factors are used to determine scope 1 emissions and supplier emission factors are used to,,,,
+determine scope 2 emissions.,,,,,
+,4 Greenhouse gas intensity includes only the scope 1 and 2 emissions reported under total greenhouse gas emissions.,,,,
+,5 In FY20 we changed our financial reporting year. FY21 is the 12-month period from October 2020 to September 2021; all prior years are the 12-month period from,,,,
+August to July.,,,,,
+,"6 The reduction in emissions in FY24 was due to an extended shut-down at our Pipe Road site in North Laverton, Australia.",,,,
+,7 In working towards mandatory climate reporting obligations we expanded the scope of our emissions reporting in FY24 to include the scope 1 and 2 emissions for all,,,,
+,"our Australian and New Zealand locations. These additional 15 locations contributed 1,900 tonne to our reported emissions which is included in the FY24 total of 56,671",,,,
+,tonne. Non-crop protection manufacturing locations are not included in our scope 1 and 2 emissions reduction target.,,,,
+8 'Other' refers to CO2 released from in process use of soda ash (sodium carbonate).,,,,,
+
+=== Table 18 (page 80) ===
+Table 26: Greenhouse gas emissions by region,,,,,
+"Greenhouse gas emissions (tonne CO2e)1,2,3,4",FY20,FY215,FY22,FY23,"FY246,7"
+Asia Pacific,,,,,
+Scope 1 – direct,"10,582","10,806","10,645","9,375","5,473"
+Scope 2 – energy indirect,"43,680","37,802","34,271","27,469","13,424"
+Total greenhouse gas emissions Asia Pacific,"54,261","48,607","44,917","36,844","18,897"
+Greenhouse gas intensity (tonne CO2e/tonne or m3,,,,,
+of production),0.47,0.34,0.36,0.30,0.18
+Europe,,,,,
+Scope 1 – direct,"1,999",930,883,"22,749","27,359"
+Scope 2 – energy indirect,"29,449","30,684","28,291","8,111","3,313"
+Total greenhouse gas emissions,"31,448","31,614","29,174","30,860","30,672"
+Greenhouse gas intensity (tonne CO2e/tonne or m3,,,,,
+of production),0.28,0.28,0.30,0.39,0.40
+Latin America,,,,,
+Scope 1 – direct,"1,550",,,,
+Scope 2 – energy indirect,289,,,,
+Total greenhouse gas emissions,,,,,
+Latin America,"1,839",,,,
+Greenhouse gas intensity (tonne CO2e/tonne or m3,,,,,
+of production),0.03,,,,
+North America,,,,,
+Scope 1 – direct,"4,717","5,215","5,511","5,925","5,211"
+Scope 2 – energy indirect,"1,652","1,944","1,922","2,180","1,892"
+Total greenhouse gas emissions,,,,,
+North America,"6,369","7,159","7,433","8,105","7,102"
+Greenhouse gas intensity (tonne CO2e/tonne or m3,,,,,
+of production),0.06,0.07,0.07,0.09,0.08
+"1 We report our scope 1 and 2 greenhouse gas emissions from our crop protection manufacturing sites, over which we have both financial and operational control. We",,,,,
+
+=== Table 19 (page 93) ===
+T,o:  The Stakeholders of Nufarm Limited,
+"1
+.",Introduction and Objectives of Work,
+Bureau  Veritas  Limited  (Bureau  Veritas)  has  been  engaged  by  Nufarm  Limited  (Nufarm)  to,,
+"provide limited assurance of its total energy use, and Scope 1 and 2 Greenhouse Gas (GHG)",,
+emissions  associated  with  all,crop  protection  manufacturing,sites  globally  and  non-
+"manufacturing locations only in Australia and New Zealand, in the 2024 Sustainability Report",,
+(the ‘Report’). The objective is to provide assurance to Nufarm and its stakeholders over the,,
+accuracy and reliability of the reported information and data.,,
+"2
+.",Scope of Work,
+The scope of our work was limited to assurance over the following information included within,,
+the Report for the period 1st October 2023 to 30th September 2024 (the ‘Selected Information’):,,
+
+=== Table 20 (page 93) ===
+.,Scope of Work
+The scope of our work was limited to assurance over the following information included within,
+the Report for the period 1st October 2023 to 30th September 2024 (the ‘Selected Information’):,
+,"Scope  1 GHG emissions (site vehicles, company cars, gas boilers and  heating, fuel 
+•"
+,"boilers and heating, onsite incineration, refrigerants, process emissions)"
+,"Scope 2 GHG emissions location-based (purchased steam, purchased electricity, sold 
+•"
+,electricity) and
+,"Total  energy  use  (fuel  consumption,  petrol  consumption,  electricity  consumption, 
+•"
+,"heating (gas) consumption, steam consumption, cooling consumption, electricity sold)"
+
+=== Table 21 (page 94) ===
+.,Summary of Work Performed
+"As part of our independent assurance, our work included:",
+,1.  Conducting interviews with relevant personnel of Nufarm;
+,2.  Reviewing the data collection and consolidation processes used to compile Selected
+,"Information, including assessing assumptions made, and the data scope and reporting"
+,boundaries;
+,3.  Reviewing documentary evidence provided by Nufarm;
+,"4. 
+Agreeing  a  selection  of 
+the  Selected 
+Information 
+to 
+the  corresponding  source"
+,documentation;
+,5.  Reviewing Nufarm systems for quantitative data aggregation and analysis;
+,"6. 
+Assessing  the  disclosure  and  presentation  of  the  Selected  Information  to  ensure"
+,consistency with assured information;
+,"7.  Carrying out two remote site visits, selected on a risk-based approach to Wyke, UK,"
+,"and Chicago Heights, USA. These sites contribute to over 50% of Scope 1 and 2 GHG"
+,emissions. Bureau Veritas also conducted desk-based reviews two non-manufacturing
+,sites Nuseed Horsham and Toowoomba;
+,8.  Reperforming a selection of aggregation calculations of the Selected Information;
+,9.  Reperforming greenhouse gas emissions conversions calculations;
+,"10.  Comparing 
+the  Selected 
+Information 
+to 
+the  prior 
+year  amounts 
+taking 
+into"
+,"consideration changes in business activities, acquisitions and disposals; and"
+,"11.  Evaluating the design of internal systems, processes and controls to collect and report"
+,the Selected Information.

@@ -1,0 +1,413 @@
+=== Table 1 (page 4) ===
+,Climate-related risks and
+Governance,
+,opportunities that form part of our
+,ELT accountabilities include:
+,CEO
+Board oversight,Accountable for the delivery of climate-related
+The SGL Board and the Vero Insurance New Zealand Limited Board (VINZL) each,risk management within Suncorp’s strategy and
+have their own regular schedule of meetings throughout the financial year to,business plan. Accountable for overall strategy
+,and corporate governance of the group.
+discuss matters outlined in their respective charters. They have oversight of climate-,
+"related risks and opportunities across Australia and New Zealand respectively, and",
+,CFO
+are accountable for the approval of climate-related targets and annual climate-,
+,Accountable for delivering climate-related targets
+related disclosure reports. They delegate authority to their own respective Board,
+,and sensitive sector exclusions for Suncorp’s
+Risk and Audit Committees through their charters1 for specific governance activities.,investment portfolios. Accountable for partnering
+,with the business in delivery of climate-related
+"The SGL Board Risk Committee (BRC) meets at least four times per year, and",
+,"disclosures, and the accounting and reporting of"
+approves the risk appetite for climate-related risk and oversees management of,
+,financed emissions. Accountable for the delivery
+these risks including transition and physical risks. The BRC reviews and approves,
+,of the climate scenario analysis. Accountable for
+climate scenario analysis and outcomes.,
+,"the reinsurance program, capital management"
+,and financial reporting.
+"The SGL Board Audit Committee meets at least four times per year, and",
+recommends updates or changes in relation to climate-related reporting and,
+,"CE People, Legal & Corporate Services"
+other sustainability matters to the SGL Board.,
+,"Accountable for delivering Scope 1, 2 &"
+,upstream Scope 3 GHG emissions (excluding
+"In FY25, the SGL Board and its Committees considered a wide range of key",
+,financed emissions). Oversees performance
+climate-related physical and transition risks and opportunities impacting,
+,"against Suncorp’s Scope 1 & 2 net-zero target,"
+"reinsurance, natural hazard allowances, risk selection and pricing, climate-related",
+,including the purchase of renewable electricity.
+"regulatory change, and climate transition targets.",
+,Accountable for procurement suppliers’
+,engagement. Accountable for the provision of
+Board Skills,legal advice in climate-related disclosures.
+"The board skills matrix outlines the current skills and expertise of the Board, including",
+,CE Consumer Insurance
+in areas relevant to the management of physical and transition risks. It covers a,
+,Accountable for delivering pricing and analytics
+"range of categories, such as strategy; major change and transformation, regulatory",
+,for consumer insurance portfolios. Oversees end-to-
+environment; risk management; customer outcomes; sustainability; and accounting,
+,end customer experience including consumer home
+and financial reporting. The Board skills matrix and annual self-assessment are,and motor claims and natural hazard response.
+"designed to ensure the Board has the capability to identify, assess and monitor",Accountable for engagement with claims suppliers.
+responses to existing and emerging risks and opportunities arising from environmental,Oversees delivery of Suncorp’s resilient Australia
+and social issues.,advocacy strategy.
+,CE Commercial & Personal
+Management role,
+,Injury Insurance
+Suncorp’s Executive Leadership Team (ELT) is responsible for identifying and,Accountable for delivering natural hazard
+managing climate-related risks and opportunities across the organisation.,pricing and analytics for commercial insurance
+,portfolios. Oversees end-to-end customer
+"Where required, these matters may be escalated to relevant ELT management",
+,"experience, including commercial and"
+"committees, such as the Executive Risk Committee, and, if appropriate, further",
+,personal injury claims response. Accountable
+to the Suncorp Group Limited Board or its committees. The ELT is supported in,
+,for implementing Sensitive Sector Standard
+these responsibilities by recommendations and advice from both internal and,
+,exclusions within commercial underwriting.
+"external experts, as well as input from business governance committees including",
+the Responsible Investment Committee and AASB S22 Steering Committee.,CRO Suncorp
+"These processes are underpinned by a suite of internal policies, controls, and",Accountable for setting Suncorp’s risk
+"procedures, developed in line with Suncorp’s broader standards, to guide the",management frameworks. Oversees the first
+Group’s response to climate-related risks and opportunities.,"line of defence on risk management activities,"
+,"including climate-related risk, advocacy and"
+While there are no standalone climate-related measures in Suncorp’s executive,
+,reports to the SGL Board Risk Committee.
+"remuneration framework, appropriate consideration and management of climate-",
+"related physical risks can impact executive remuneration outcomes. For example,",CEO Suncorp New Zealand
+,Accountable for Suncorp New Zealand's
+indirect links to physical risk are embedded in risk management performance,
+,"climate-related strategy, business planning, risks"
+measures in the executive remuneration framework and Suncorp’s scorecard.,
+,"and opportunities, and performance against"
+,"climate-related commitments and targets,"
+,including Sensitive Sector Standard exclusions
+,within commercial underwriting. Accountable for
+"1.  
+Suncorp governance and policies, https://www.suncorpgroup.com.au/about/corporate-governance.",
+,meeting Suncorp New Zealand climate-related
+"2.  
+Australian Accounting Standards Board, Australian Sustainability Reporting Standard -",
+,obligations and Suncorp climate-related policies
+"AASB S2, https://standards.aasb.gov.au/aasb-s2-sep-2024.",
+,and standards.
+4     Climate Report FY2024-25,
+
+=== Table 2 (page 11) ===
+Climate Transition Plan
+"Suncorp’s Climate Transition Plan focuses on our operations, investment portfolio and supply chain. The new and updated targets (refer to"
+"the table below) replace our previous Climate Change Action Plan, with prior commitments either achieved or revised."
+Suncorp is preparing to adhere to the mandatory climate reporting requirements outlined by the Australian Sustainability Reporting
+Standards. We note that the Australian Accounting Standards Board (AASB) is determining whether Scope 3 insurance-associated emissions
+"relating to the underwriting of our customers must be included. Accordingly, Suncorp will defer any decision regarding the disclosure of"
+insurance-associated emissions until the AASB has issued its determination.
+
+=== Table 3 (page 11) ===
+Value chain,Scope,Status,Action
+,Reduce our Scope 1 & 2 absolute emissions to,Existing,
+,,,Target
+,"net-zero by end FY30, from an FY20 baseline.",restated,
+Operations,RE100 commitment to purchase 100% renewable,,
+,,Existing,Target
+,electricity across our operations in 2025.,,
+,Analyse the climate commitments and progress of,,
+,our major procurement suppliers by spend to build,New,Monitor
+,our understanding of their climate maturity.,,
+Procurement and,Engage our property claims panel builders and,,
+claims suppliers,motor claims mobility suppliers that support our,,
+,,New,Engage
+,Australian operations to continue to build our,,
+,understanding of their climate maturity.,,
+,Target an emissions intensity of listed equities,,
+,and corporate bonds portfolio (sub portfolio),,
+,(investees’ Scope 1 & 2 emissions) to be at least,New,Target
+,"60% lower at the end of FY30, compared to the",,
+,emissions intensity of the sub portfolio in FY20.,,
+,Engage with 100% of our external investment,,
+,managers each year to foster open dialogue on,New,Engage
+,climate objectives.,,
+Investments,,,
+,Invest 5% of shareholder funds in social- and,,
+,,Existing,Target
+,lower-carbon impact investments.,,
+,Apply fossil fuel exclusions across aspects of our,,
+,,Existing,
+,investment portfolio through Suncorp’s Sensitive,,Exclusion
+,,revised,
+,Sector Standard.1,,
+,Apply fossil fuel exclusions across aspects of,,
+,,Existing,
+,our commercial underwriting portfolio through,,Exclusion
+,,revised,
+,Suncorp’s Sensitive Sector Standard.1,,
+Insurance portfolios,,,
+
+=== Table 4 (page 12) ===
+a restated FY20 baseline.,,,,
+Scope 1 & 2 net-zero performance restated,,,,
+,"FY201, 2","FY231, 2","FY241, 2","FY251, 4"
+Scope 1,"1,731","1,419","1,324","1,245"
+Scope 2 (market-based),"11,348","1,949",848,718
+Scope 2 (location-based),"14,751","9,802","8,333","6,074"
+Scope 1 & 2 (market-based) tCo2-e3,"13,078","3,368","2,172","1,963"
+Scope 1 & 2 (market-based) % reduced from FY20 baseline,0,74%,83%,85%
+
+=== Table 5 (page 14) ===
+Investments portfolio
+"As a regulated entity, Suncorp is required to meet APRA’s Prudential Standards for financial resilience. This includes appropriate investment"
+"strategies such as holding sufficient Australian assets (e.g., Australian equities, bonds, and property) to meet its total liabilities in Australia."
+"As such, this has an influence on the assets we are required to invest in."
+Suncorp’s investments portfolio as of 30 June 2025 had AUD $19.6 billion in funds under management (FUM).
+Investment emissions reporting
+"Since 2019, Suncorp has been disclosing the emissions performance of its Australian and global listed equities using a tCO2-e/US$M revenue"
+"intensity metric. In FY22, we expanded our reporting to include Australian corporate bonds. Over the past year, we revised our methodology"
+to an economic intensity metric of tCO2-e/A$M invested in line with the Partnership for Carbon Accounting Financials (PCAF) financed
+"emissions measurement of listed equities and corporate bonds. The calculations include investees’ Scope 1 & 2 emissions, where data is"
+"available, but does not include their Scope 3 emissions."
+
+=== Table 6 (page 14) ===
+to an economic intensity metric of tCO2-e/A$M invested in line with the Partnership for Carbon Accounting Financials (PCAF) financed,,
+"emissions measurement of listed equities and corporate bonds. The calculations include investees’ Scope 1 & 2 emissions, where data is",,
+"available, but does not include their Scope 3 emissions.",,
+Key decision,Historical methodology,Current methodology
+Organisational boundary,Operational control,Operational control
+Asset class inclusion,Listed Equities and Corporate Bonds,Listed Equities and Corporate Bonds1
+,"Global (listed equities only),",
+Geographical coverage,,Global
+,Australia (corporate bonds),
+Metric,tCO2-e/US$M revenue2,tCO2-e/A$M invested3
+Scope inclusion,Scope 1 and 2,Scope 1 and 2
+PCAF data quality inclusion,Scores 1 and 2,Scores 1 - 5
+Attribution factor denominator,Revenue,Enterprise value including cash (EVIC)
+Currency,USD,AUD
+Reporting date,31 March (Current reporting period),30 June (Prior reporting period)4
+
+=== Table 7 (page 15) ===
+,,Our engagement process is aligned with our overall performance
+Investments sub portfolio target,,
+,,objectives for our external investment managers.
+,,Engagement with our external investment managers will include:
+Suncorp has set a target for the emissions intensity,,
+of its listed equities and corporate bonds portfolio,Ά,increasing our understanding of how they represent our long-
+(sub portfolio) (investees’ Scope 1 & 2 emissions) to,,term climate objectives
+"be at least 60% lower at the end of FY30, compared",Ά,seeking to achieve longer-term alignment between the
+to the emissions intensity of the sub portfolio in FY20.,,investment managers overall climate ambitions and our own
+,,Ά promoting conversations on climate-related risks and
+In setting our target for the sub portfolio (listed equities and,,
+,,opportunities across our portfolio
+"corporate bonds), we referenced the New-Zero Asset Owner Alliance",,
+,,"Ά promoting active engagement with investee companies,"
+"(NZAOA) target setting protocol1, that recommends setting targets",,
+,,including through accessing insights and recommendations
+using the Intergovernmental Panel on Climate Change (IPCC) no or,,
+,,to enable proxy voting consistent with the application of our
+"limited overshoot global scenarios for 1.5°C2, which corresponds to",,
+,,proxy voting principles4
+reducing emissions by 40-60 per cent by 2030 compared to 2020.,,
+,,Ά developing a process for effective resolution should our portfolio
+Suncorp selected a FY20 baseline as it marks the start of,,
+,,trajectory become misaligned with our commitments.
+Suncorp’s investment portfolio emission reduction efforts with the,,
+implementation of the Sensitive Sector Standard – fossil fuel.,,
+
+=== Table 8 (page 16) ===
+Sensitive Sector Standard – Fossil Fuels,
+"In FY20, Suncorp introduced a Sensitive Sector Standard – Fossil Fuels",Oil & gas exploration and production
+(the Standard) which is aimed at gradually reducing our underwriting,"From 1 January 2025, Suncorp will not directly invest or hold"
+and investment portfolio exposure to the fossil fuel industry.,investments in the top 25 per cent most emission intensive (Scope
+,"1 & 2) oil & gas exploration or production companies globally,"
+We have revised the Standard to provide greater clarity and,
+,unless the company has a climate transition plan that meets the
+"specificity around our commitments, and have introduced a",
+,requirements of our CAF once implemented.
+framework to assess the climate strategies of investee companies,
+,"From 2030, Suncorp will not directly invest or hold investments"
+involved in thermal coal generation and oil & gas exploration and,
+,in the top 50 per cent of oil & gas exploration or production
+production. These changes provide greater transparency and detail,
+,companies globally unless the company has a climate transition
+around scope of the exclusions and are not expected to materially,
+,plan that meets the requirements of our CAF.
+change Suncorp's exposure to the fossil fuel industry.,
+,"By 2040, Suncorp will not directly invest or hold investments in any"
+,oil & gas exploration and production companies globally unless the
+Changes and clarifications to the Standard:,
+,company has a climate transition plan that meets the requirements
+Ά Updated the language around our phase out commitments as,
+,of our CAF.
+it relates to underwriting or investing in thermal coal and oil &,
+,The top percentage of exploration and production companies that
+gas exploration and production activities from 1 January 2025.,
+,are excluded is determined by measuring the metric tonnes of CO2
+Given we have met this commitment in its original form as at the,
+,equivalent per million of USD revenue for Scope 1 & 2 emissions
+"date of this report, the updated language reflects our ongoing",
+,and/or metric tonnes of CO2 equivalent for Scope 1 & 2 emissions.
+position from 2025.,This ranking is determined by data sourced from our third-party
+,data provider.
+"Ά
+Improved transparency against the exemptions and limitations",
+"applied to our underwriting exclusions. For example, specifying","From August 2020, Suncorp will not directly invest in or hold"
+thresholds for our business package insurance asset values and,investments in any companies globally generating more than 5 per
+,cent of revenue from direct involvement in unconventional oil & gas
+non-fleet motor vehicles.,
+,"exploration or production in tar sands, or with production inside the"
+"Ά
+Formalised a Climate Assessment Framework (CAF) for our",
+,Arctic Circle.
+investment portfolio to clarify our existing exemption which,
+,"From August 2020, Suncorp will not directly invest in or hold"
+enables support for companies that are committed to the,
+,investments in any company globally who derives revenue from
+transition but would otherwise be excluded. Where companies,
+,direct involvement in oil & gas exploration or production in the
+"meet the requirements of our CAF, they will be eligible for",Great Australian Bight. While it is not possible to use a revenue
+"investment by Suncorp, not with standing they may otherwise","threshold due to data screening limitations, screening will take"
+have been excluded under our Sensitive Sector Standard. The,"place for exploration permits, leases or production licences from"
+,public sources.
+framework applies to thermal coal generation companies and,
+to the top percentage of companies in oil & gas exploration and,"From 1 July 2025, Suncorp will not directly invest or hold"
+production otherwise excluded.,special purpose corporate bonds issued globally to provide
+,ring-fenced financing to new or additional oil & gas exploration
+Ά Updated our language for new and expanded fossil fuel,
+,or production projects.
+investment to clarify that these commitments apply to corporate,
+bonds that are issued for the primary purpose of providing ring-,
+,Exemptions
+fenced financing to new or additional thermal coal extraction or,
+,The Standard does not apply to:
+power generation or oil & gas exploration and production.,
+,"Ά
+entities that provide capital or financing"
+
+=== Table 9 (page 19) ===
+to the timing and availability of third-party data.,,,,,,,
+Value chain performance summary,,,,,,,
+Metric / target,Type,Scope,Unit,FY23,FY24,FY25,Status
+Scope 1 & 2 and upstream Scope 3,,,,,,,
+,,,% tCO2-e,,,,
+,,% market-based emissions reduced,,,,,
+"Scope 1 & 2 net-zero by 20301, 2, 7",Target,,market-,74%,83%,85%,
+,,from an FY20 baseline,,,,,
+,,,based,,,,
+RE100 - 100% renewable electricity,,% renewable electricity,,,,,
+,Target,,% MWh,75%,77%,89%1,
+by 20257,,generated/ purchased at 30 June,,,,,
+"Upstream Scope 3 emissions3, 7",Metric,Total upstream Scope 3 emissions,tCO2-e,"15,980","19,551","17,9641",
+Suppliers,,,,,,,
+Procurement suppliers measuring,,Operational purchased goods,,,,,4
+,Metric,,% suppliers,82%,81%,,
+their Scope 1 & 2 emissions,,and services suppliers,,,,,
+Procurement suppliers with Scope 1,,Operational purchased goods,,,,,4
+,Metric,,% suppliers,74%,79%,,
+& 2 commitments,,and services suppliers,,,,,
+Investments,,,,,,,
+Investments sub portfolio (listed,,,,,,,
+,,% emission intensity reduction,,,,,
+equities and corporate bonds),,,,,,,
+,,of listed equities and corporate,,,,,5
+emissions intensity to be at least,Target,,% tCO2-e,75%1,71%1,,
+,,bonds (investees' Scope 1 & 2),,,,,
+60% lower at the end of FY30,,,,,,,
+,,from an FY20 baseline6,,,,,
+compared to FY20,,,,,,,
+Scope 1 and 2 emissions intensity of,,Global listed equities and,tCO2-e/,,,,5
+,Metric,,,26.51,30.51,,
+listed equities and corporate bonds,,corporate bonds,A$M,,,,
+,,Global listed equities and,,,,,5
+In-scope FUM for sub-portfolio target,Metric,,A$B,10.6,11.1,,
+,,corporate bonds,,,,,
+,,Global listed equities and,,,,,5
+Sub-portfolio FUM as a % of total FUM,Metric,,% A$B,66%,63%,,
+,,corporate bonds,,,,,
+,,Global listed equities and,,,,,5
+PCAF data quality score,Metric,,1 to 5,2.6,2.2,,
+,,corporate bonds,,,,,
+At least 5% social- and lower-carbon,,,,,,,
+,Target,Shareholder funds invested8,%,6.5%,"7
+.2%","7
+.5%1",
+impact investments,,,,,,,
+
+=== Table 10 (page 19) ===
+impact investments,
+Target on track,"New target 
+Metric measured
+Measurement in progress"
+1.,"Subject to limited independent assurance by KPMG. Please refer to the assurance opinion included on the Suncorp website, https://www.suncorpgroup.com.au/corporate-"
+,responsibility/reports.
+2.,Restated due to the recent divestment of Suncorp Bank and Asteron Life resulting in a change to our organisational boundary. Refer to page 12 for additional information.
+3.,Measured upstream Scope 3 emission categories include: Category 1 - purchased goods and services (paper only); Category 3 - fuel and energy related activities; Category 5 -
+,waste generated in operations; Category 6 - business travel; Category 7 - employee commuting (including work from home); Category 8 - upstream leased assets. Refer to the FY25
+,Sustainability Data Pack for further details and associated emissions.
+4.,"Procurement supplier percentages are calculated based on total operational spend associated with Scope 3 Category 1 - purchased goods and services, and suppliers within this"
+,"boundary ranked by related supplier spend. In FY25, prior year operational spend (FY24) is used. Supplier Scope 1 & 2 emissions and target data is used from the FY23 and FY24"
+,"reporting periods, where publicly available. Refer to FY24 metrics"
+5.,"For our investment sub-portfolio’s emissions and associated metrics, due to the timing and availability of data, the most recently measured investments metrics rely on FY24 holdings"
+,"data and are reported under FY24 performance. For additional detail on methodology, refer to the Investments emissions reporting section on Page 14."
+6.,Baseline of 8.1 in-scope FUM (A$B).
+"7
+.",FY25 GHG metrics reported on a 10+2 basis. FY24 GHG metrics restated from the previously disclosed 10+2 metric to reflect the full FY24 reporting period.
+8.,Based on Global Investor Coalition definition. Excludes New Zealand.
+
+=== Table 11 (page 21) ===
+Term,Definition
+Net-zero,Net-zero emissions are achieved when anthropogenic emissions of greenhouse gases to the atmosphere are balanced by
+,"anthropogenic removals over a specified period. Where multiple greenhouse gases are involved, the quantification of net-zero"
+,"emissions depends on the climate metric chosen to compare emissions of different gases (such as global warming potential, global"
+,"temperature change potential, and others, as well as the chosen time horizon)."
+Net-Zero Asset Owner,The UN-convened Net-Zero Asset Owner Alliance (NZAOA) is a member-led initiative of institutional investors committed to
+Alliance (NZAOA),transitioning their investment portfolios to net-zero GHG emissions by 2050 – consistent with a maximum temperature rise of 1.5°C.
+Oil & gas exploration or,The upstream activities of the oil & gas sector. Upstream oil extraction refers to entities whose principal operations include the
+production,exploration and development of oil fields for the purposes of extracting and producing crude oil. Upstream gas extraction refers to
+,"entities whose principal operations include exploration, development and management of gas fields used for the purpose of natural"
+,gas production or liquefied natural gas production. Principal operations are irrespective of the owner of the fossil fuel asset.
+,"Upstream activities do not include processing, transportation, storage, power generation, refining, distribution or other activities"
+,further downstream.
+Procurement suppliers,"Suppliers under Scope 3 Category 1 – purchased goods and services, that support the operations of Suncorp but do not provide"
+,goods and services in relation to the provision of claims.
+Paris Agreement,"The Paris Agreement is a legally binding international treaty on climate change, which sets long-term goals to limit global warming"
+,"to well below 2° Celsius, preferably to 1.5 degrees compared to pre-industrial levels."
+Partnership of Carbon,A global partnership of financial institutions that work together to develop and implement a harmonised approach to assess and
+Accounting Financials,disclose the GHG emissions associated with their loans and investments.
+(PCAF),
+RE100,RE100 is a global initiative led by the Climate Group and in partnership with the CDP bringing together companies to commit to
+,purchase 100% renewable energy.
+Representative,Greenhouse gas emissions and concentration pathways used in climate models to depict different possible futures of climate
+Concentration Pathways,change.
+(RCPs),
+Revenue from direct,Revenue from the investee company itself that is directly involved in a product or service (such as production or distribution) and
+involvement,revenue from an involved subsidiary that the company holds more than 50 per cent ownership.
+Scope 1 emissions,Scope 1 emissions are measured from direct fuel combustion represented by fuel used in our owned and operated corporate
+,vehicles and stationary fuels such as diesel generators used in our buildings.
+Scope 2 location-based,Emissions associated with our total electricity consumption using grid average emission factors. This approach does not account
+emissions,for our own renewable energy purchased.
+Scope 2 market-based,Scope 2 market-based accounts for emissions associated with electricity purchased from the grid plus emission avoidance through
+emissions,voluntary action such as renewable electricity generation and purchases. We do this in alignment with the GHG Protocol and
+,RE100 Technical Criteria.
+Scope 3 emissions,Indirect emissions caused by the operations of an organisation not owned or controlled by Suncorp. These include upstream
+,"emissions generated by other organisations in the course of Suncorp’s business and sale of products and services (e.g., business"
+,"travel, waste, vehicle parts, employee commuting); as well as downstream emissions that occur in the life cycle of a product/service"
+,"after the sale (e.g., investments, sold products, end-of-life treatment). Scope 3 emissions also include financed emissions."
+"Short, medium, and",This report refers to ranges of time from now as follows: short term - up to 3 years; medium term - 3 to 20 years; long term - 20 years
+long term,and beyond.
+Social- and lower-carbon,Lower-carbon investments include Green Bonds that finance environmentally sustainable projects to transition to a lower-carbon
+impact investments,"economy. Other lower-carbon assets include renewable energy infrastructure, renewable energy credit and equity securities, and"
+,energy efficient real estate. Social impact investments are defined by their dual objective of achieving a measurable social or
+,environmental return alongside a financial return. Key underlying aspects include an investor’s intention to have a positive social or
+,"environmental impact combined with an expectation of some level of financial return, and the commitment to measure and report"
+,the social and environmental performance and progress of underlying investments.
+Sustainability /,"The responsible management of environmental, social and governance (ESG) risks and opportunities to support a resilient"
+Sustainable,"organisation that creates long-term value for people, customers, communities and shareholders."
+(business context),
+Target,"An intended outcome in relation to which we have identified one or more pathways for delivery of that outcome, subject to certain"
+,assumptions or conditions.
+Tonnes carbon dioxide,Metric tonnes of CO2 equivalent.
+equivalent (tCO2e),
+Top percentage of oil,"The exclusion boundary includes companies globally, however is limited to the data available through Suncorp’s chosen third-party"
+& gas exploration and,data providers. The top percentage of companies globally is defined using measure of the metric tonne of CO2 equivalent per
+production companies,million of USD revenue for Scope 1 & 2 emissions and/or metric tonne of CO2 equivalent for Scope 1 & 2 emissions.
+globally,

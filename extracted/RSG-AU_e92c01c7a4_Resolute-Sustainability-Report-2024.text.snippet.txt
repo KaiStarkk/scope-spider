@@ -1,0 +1,345 @@
+=== Page 19 ===
+Sustainable Development Goals Sustainable Development Goals
+• Conformance with the Responsible Gold Mining 
+Principles and Conflict-Free Gold Standard • Countries of operations are active in the EITI • Partnerships with NGOs for programme 
+implementation at site • Membership of the UN Global CompactSDG
+• Disclosure of Scope 1,2 and 3 greenhouse 
+gas emissions • Group Climate Change Risk Assessment 
+incorporating financial modelling• Commitment to report in conformance with the 
+TCFD recommendationsSDG
+SDG
+• Direct payments to the governments of over 
+$308 million in 2024• Direct community investment of $2.2 million in 
+2024 at Mako and Syama
+SDG
+• Robust health and safety policies and procedures • Group ISO 45001 certification maintained• Strong safety performance with TRIF better than 
+industry-peer standards• Primary, occupational, and emergency medicine 
+capability established across operations • Routine health surveillance, including drug and 
+alcohol and infectious disease testing • Ongoing health and hygiene education 
+and awareness • Private health insurance support for all 
+direct employees
+SDG
+• Construction of primary schools in Syama and 
+Mako host communities • Ongoing host community training and education • Artisan training across operations • Scholarship and internship programmes
+SDG
+• Gender diversity targets set and monitored • Paid Parental Leave policies across the group • Sexual Harassment Policy approved by the Board• Increase in women in STEM positions 
+across the group
+SDG
+• Water extraction from the Gambia and 
+Bagoe Rivers undertaken in accordance 
+with licencing conditions • Supporting critical water infrastructure at 
+community level and maximising re-use of 
+extracted water• Regular monitoring of surface and groundwater 
+quality and no major water quality issues 
+associated with mine operation beyond 
+site boundaries
+SDG
+• Direct employment of 965 nationals, representing 
+91% of our operations workforce • $48 million paid in 2024 for employee wages 
+and benefits • 42% of national new hires aged under 30 years
+SDG
+• Gender pay gap analysis conducted at least 
+twice a year • Board-approved Diversity, Equity and 
+Inclusion Policy • Gender parity considered for all our 
+Apprenticeship and Traineeship programmes 
+at operations
+17
+  RESOLUTE MINING LIMITED 2024 SUSTAINABILITY REPORTOVERVIEW  I  OUR COMMITMENTS
+
+=== Page 80 ===
+Greenhouse gas emissions
+Resolute has been disclosing its Scope 1 and 2 GHG emissions 
+since 2019, and Scope 3 emissions since 2020. These are 
+calculated using the GHG Protocol Corporate Accounting and 
+Reporting Standard. 
+Our Scope 1 and 2 emissions have decreased in the reporting 
+period by approximately 7%. Emissions intensity, the ratio of emissions to volume of gold 
+produced, has been influenced at Mako by reducing the diesel 
+consumption. At Syama, emissions intensity decreased due 
+to lower consumption of explosives. Land clearing associated 
+with development activity and biogenic emissions are reported 
+separately. Mako and Syama biogenic emissions were 76 and 
+2,013 tCO₂ equivalent, respectively.
+Total GHG Emissions Scope 1 & 2, 2022-2024
+2022 2023 2024
+Indicator Sub-Indicator Unit Syama Mako Syama Mako Syama Mako
+GHG 
+emissionsScope 1 tCO 2e 180,502 110,862 212,685 114,144 199,515 101,405
+Scope 2 tCO 2e 8 17 26 17 10 24
+Total Scope 1 and 2 tCO 2e 291,389 326,873 300,954
+GHG Emissions Intensity, 2022-2024 
+2022 2023 2024
+Indicator Unit Syama Mako Syama Mako Syama Mako
+GHG emissions 
+per ounce of gold 
+produced tCO 2e  
+per Au oz0.81 0.86 1.01 0.95 0.92 0.82
+Resolute calculates Scope 3 GHG emissions for 12 of the 15 
+Scope 3 emissions categories set out in the Greenhouse Gas 
+Protocol Standard. The remaining three categories have been 
+determined to be not relevant to the business. 
+We have continued to work in partnership with industry 
+specialists at Normative to calculate our spend-based emissions 
+and validate our calculated activity-based emissions using their 
+Carbon Accounting software which uses methodologies aligned 
+with the Greenhouse Gas Protocol. We have applied extensive 
+in-house datasets that use the latest available scientific based 
+region and country specific emission factors. The database 
+that the software uses for the spend-based assessment is the 
+global database Exiobase 3 (an Environmentally Extended 
+Multi-Regional-Input-Output database), which is suited for 
+environmental evaluations.Due to the change in approach, some substantial variances 
+have been reported within some Scope 3 categories in 
+comparison to previous years. These variations are not 
+unexpected and are consistent with other industries that 
+have updated their approach to carbon accounting. The 
+variations are attributable to factors including higher sectoral 
+granularity and updated economic values for production. 
+Further reductions have been experienced due to the sourcing 
+of purchased goods from European-based suppliers with lower 
+emission intensity, as opposed to Africa-based suppliers in 
+previous years. These components have improved accuracy 
+and reduced the uncertainty in our Scope 3 reporting. Further 
+information on our approach to Scope 3 calculations is available 
+on the Resolute website: https://www.rml.com.au/about-us/
+corporat e-goverance 
+Total GHG Emissions Scope 3, 2022-2024
+2022 2023 2024
+Indicator Sub-Indicator Unit Syama Mako Syama Mako Syama Mako
+GHG 
+emissionsScope 3 tCO 2e 646,744 331,268 150,900 105,800 150,589 65,339
+Total 978,012 256,700 215,928PROTECTING THE ENVIRONMENT   I  ENERGY AND CLIMATE CHANGE
+78
+RESOLUTE MINING LIMITED  2024 SUSTAINABILITY REPORT
+
+=== Page 83 ===
+Table 1. Future time horizons used for all climate risks assessed
+Time horizon Year Rationale
+Short-term 2026Provides a near-term view of impacts to our operations, with Mako ceasing 
+planned production in the year following
+Medium-term 2030Provides a mid-term view of operational impacts at Syama, and to closure at 
+Mako
+Long-term 2040Aligned with the final year of our financial forecast in existing life of mine plans, 
+and Syama closure in 2037
+Table 2. Scenarios and parameters used in the financial impact assessment
+Carbon pricing Flooding and extreme heat/dust
+Scenario Net Zero 2050Delayed 
+TransitionCurrent  
+Policies SSP1-2.6 SSP3-7.0 SSP5-8.5
+Source Network for Greening the Financial System (NGFS) 
+GCAM 6.0 model, downscaled for West AfricaIntergovernmental Panel on Climate Change (IPCC) 
+Shared Socioeconomic Pathways (SSPs), from the latest 
+phase (6) of the Coupled Model Intercomparison Project 
+(CMIP6)
+Policy 
+ambition (°C)1.4 1.7 3.0 1.8 3.6 4.4
+Scenario 
+narrative and 
+assumptionsAmbitious 
+scenario, limiting 
+global warming to 
+1.5°C
+Global net zero 
+reached in 2050
+Stringent climate 
+policies introduced 
+immediately, 
+and focus on low 
+carbon innovationGlobal emissions 
+do not decrease 
+until 2030, and 
+strong policies 
+needed following 
+this to limit 
+warming to 
+below 2°C 
+New climate 
+policies not 
+introduced 
+until 2030 
+Level of action 
+differs across 
+jurisdictions 
+based on currently 
+implemented 
+policiesHigh emissions 
+scenario
+Only currently 
+implemented 
+policies are 
+preserved, with no 
+new policies
+Emissions grow 
+until 2080, 
+leading to severe 
+and irreversible 
+physical risksAmbitious 
+scenario, in which 
+global emissions 
+are strongly 
+reduced, with the 
+objective of net 
+zero by 2050
+Socio-economic 
+trends are towards 
+sustainable 
+development
+Few challenges 
+to mitigation and 
+adaptationEmissions and 
+temperatures keep 
+increasing, with 
+emissions almost 
+doubling from 
+current levels by 
+2100
+Countries 
+compete more, 
+prioritising issues 
+of national and 
+food security‘Worst case’ 
+scenario, where 
+current levels of 
+emissions almost 
+double by 2050
+World economy 
+grows rapidly, 
+driven by fossil fuel 
+exploitation, and 
+energy demand 
+triples
+Many challenges 
+to mitigation, few 
+challenges to 
+adaptation
+Key climate 
+parameters 
+used for 
+modelling• Carbon prices
+• Scope 1 and 2 emissions• Wet season (May to October) rainfall
+• Historical flood dewatering costs
+• Historical rain delay hours
+• Days with max. temperatures above 35°C 
+• Historical water usage for dust suppression
+• Historical water costsPROTECTING THE ENVIRONMENT   I  OUR APPROACH TO CLIMATE-RELATED RISKS AND OPPORTUNITIES
+81
+  RESOLUTE MINING LIMITED 2024 SUSTAINABILITY REPORT
+
+=== Page 84 ===
+Climate financial impacts and management actions
+Climate-related risk Financial impact to our businessMateriality over 
+future time horizonsRisk management actions 
+and strategy
+Carbon pricing
+Establishment of 
+carbon taxes in our 
+operating regions 
+leading to increased 
+direct operating costs in 
+the futureand scope of these mechanisms, mining 
+companies around the world will be increasingly 
+exposed to the cost of carbon. As a result, 
+it is possible that our operations and supply 
+chain will fall under some form of carbon 
+pricing mechanism in the future, leading to 
+increased direct and pass-through costs. Failing 
+to prepare for this could lead to significant 
+financial pressure on us to decarbonise quickly 
+to avoid the worst impacts.
+We currently do not fall under a carbon pricing 
+mechanism, however, both Senegal and Mali 
+have national climate targets, and we recognise 
+that the Senegal government is also considering 
+implementing a carbon tax (although a timeline 
+for this is not confirmed1). As West Africa has 
+a fossil fuel dominant energy mix, in the net 
+zero 2050 scenario, it is expected to experience 
+significant carbon price increases as stringent 
+climate policies are introduced to curb emissions.
+Under this scenario, the direct costs associated 
+with a carbon tax applied to our Scope 1 and 2 
+emissions are modelled as financially material 
+across all time horizons. However, the likelihood 
+of this, at least in the short-term, is expected 
+to be low. We therefore do not anticipate any 
+significant impacts until the mid to long term, 
+or until mechanisms are implemented in our 
+operating regions.Medium- to long-term 
+(2030 to 2040)• Further develop and 
+implement our emissions 
+reduction targets and plans
+• Continue to engage 
+with governments to 
+evaluate renewable 
+energy opportunities, and 
+assess feasibility of using 
+renewable energy for any 
+new operations
+• Monitor regional carbon 
+pricing mechanisms in West 
+Africa, and carbon import 
+levies in Australia as the sole 
+market for our goods
+• Incorporate carbon pricing 
+mechanisms into financial 
+planning by setting an 
+internal carbon price
+Flooding
+Increases in wet 
+season rainfall causing 
+surface water flooding 
+at our sites, and 
+leading to additional 
+costs associated with 
+floodwater pumping 
+and/or deferred 
+revenueWet season runs between May to October, 
+bringing heavy rainfall and flooding. This has 
+been particularly evident at our sites in recent 
+years, although financial performance has still 
+been strong as both are well adapted towards 
+mining during this season. More severe floods hold 
+potential to affect our operating costs, through 
+increasing the amount of pumping required to 
+remove water from mine pits, or lead to mining and 
+processing delays and deferred revenue under 
+certain conditions. As this is typically recovered 
+in subsequent months, there is currently no 
+detectable financial impact over annual timescales.
+The additional operating costs and revenues2 
+associated with changes in wet season rainfall 
+were modelled for open pit operations at Mako, 
+and both open pit and underground operations 
+at Syama. For 2040, a revenue impact was not 
+modelled, as planned production at both sites will 
+be complete, however, operating costs were still 
+evaluated due to their relevance post mine closure.
+Across all scenarios, the financial impacts are not 
+expected to be material. Due to an overall drying 
+trend in future wet seasons at Mako, the only 
+additional impacts are modelled at Syama. These 
+are most significant post 2030, driven by deferred 
+revenue from delays to open pit mining activities, 
+although this is not considered consequential and 
+will be factored into future operating budgets.Not Material • In 2024, both Mako and 
+Syama made capital 
+investments in new pumps 
+or other dewatering 
+measures for wet season 
+mining  
+• Both sites are already well 
+adapted to flooding, and 
+have implemented several 
+measures to minimise 
+disruptions, such as wet 
+season plans, educating 
+mining teams in wet season 
+mining, and establishing pit 
+sumps
+• Projected changes in wet 
+season rainfall will be 
+reviewed to determine 
+implications for site water 
+balance and budgetingPROTECTING THE ENVIRONMENT   I  OUR APPROACH TO CLIMATE-RELATED RISKS AND OPPORTUNITIES
+82
+RESOLUTE MINING LIMITED  2024 SUSTAINABILITY REPORT

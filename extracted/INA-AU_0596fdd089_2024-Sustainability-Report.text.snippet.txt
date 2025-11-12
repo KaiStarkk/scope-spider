@@ -1,0 +1,338 @@
+=== Page 22 ===
+INGENIA IS COMMITTED TO ACHIEVING 
+ENERGY EFFICIENCIES AND REDUCING 
+GREENHOUSE GAS EMISSIONS FROM 
+OUR BUILT COMMUNITIES AND BUSINESS 
+OPERATIONS.
+GHG emissions and risk management are the core of Ingenia’s 
+climate change mitigation and adaptation strategy. We have 
+undertaken a multi-pronged approach that includes increased 
+adoption of alternative clean energy options, supporting 
+energy efficiency measures in our built communities.
+OUR REPORTED GREENHOUSE GAS (GHG) EMISSIONS 
+ENCOMPASS THESE CATEGORIES: 
+ SCOPE 1 EMISSIONS: 
+These emissions primarily comprise of LPG and natural gas, which 
+is used in barbecues and water heaters and is still in use in older 
+homes and cabins. New developments are designed to be all electric.
+SCOPE 2 EMISSIONS: 
+This category includes emissions resulting from electricity 
+consumption sourced from the grid. This electricity powers various 
+aspects of our operations, including holiday parks, communal 
+facilities within the Gardens, Lifestyle, and Rental communities.
+RESIDENT EMISSIONS (SCOPE 3): 
+Resident emissions encompass the GHG emissions produced from 
+the electricity used in the homes of our residents across our Rental, 
+Lifestyle and Gardens communities. 
+In FY24, we continued to focus on reducing emissions 
+and managing climate risks. Our approach to climate risk 
+management is detailed in our Climate Disclosure Statement, 
+issued in May 2023. This statement outlines our Climate 
+Strategy, key risks, and opportunities across the business. 
+Appendix A of this report includes details of energy use and 
+emissions by portfolio and an update of our actions aligned 
+to our Climate Strategy is outlined on page 88.
+We are currently reviewing our Emissions Pathway and 
+Climate Risk Disclosure to reflect the significant change in the 
+Group’s asset base and business focus since our pathway was 
+first established. This work will help us refine our strategies 
+and ensure compliance with the latest standards as well as 
+consider the Group’s Scope 3 emissions more widely. Emissions and 
+Energy EfficiencyENVIRONMENT
+20
+
+=== Page 23 ===
+EMISSIONS REDUCTION PATHWAY
+NET ZERO COMMITMENT  – WE HAVE COMMITTED TO 
+ACHIEVE NET ZERO CARBON EMISSIONS (SCOPE 1 AND 2). 
+We have continued our progress towards the 2035 Net Zero target which covers our 
+existing operations and includes an intermediary target of 30% reduction in Scope 1 and 
+2 emissions (against a 2019 baseline). Following a best practice carbon management 
+hierarchy (i.e. avoid, reduce and replace emissions before purchasing offsets). Our 
+current focus is on decarbonising our portfolio as much as possible before moving 
+to carbon offset purchasing.
+We will refine our pathway over FY25 to capture significant changes in our portfolio 
+since the original target was established.
+Renewable energy  
+(generated on-site)Renewable energy  
+(purchased from grid )Eﬃciencies
+(on-site )Eﬃciencies
+(in grid )Carbon oﬀse t
+(purchased from retailers)Operational  
+eﬃciencies
+(Part 1)
+Solar 
+optimisation  
+with battery 
+storag eOperational  
+eﬃciencies
+(Part 2)Solar 
+(Phase 1)
+Solar 
+(Phase 2a )
+Solar 
+(Phase 2b )
+Grid 
+eﬃciencies
+(on-going)Green 
+power
+Carbon  
+oﬀsetsScope 
+& 2
+(tCO2e)Avoided 
+emissions
+Oﬀset 
+emissions
+2035 FY211
+Image:  Ingenia Lifestyle Chambers Pines, QLD
+ 21
+SOCIAL GOVERNANCE APPENDICES ENVIRONMENT INTRODUCTION
+
+=== Page 25 ===
+• Net Zero transportable 
+cabin prototype  through 
+our collaboration with 
+Prefabulous, Aus Industry 
+Innovations Connection 
+Program and Sustainability 
+Building Research Centre at 
+the University of Wollongong: 
+In FY24, we revised the 
+design and commissioned the 
+construction of a prototype. 
+A Development Application 
+(DA) has been lodged to 
+install the prototype cabin 
+at Ingenia Holidays Wagga 
+Wagga
+• Over FY25 we will progress 
+cabin installation and 
+monitoring.
+Improved Data capture 
+and Disclosures
+• Installed more than 400 
+energy sub-meters  and 90 
+water meters in FY24. The 
+installation of additional 
+meters will continue 
+through FY25
+• In FY24, we implemented 
+Fleet Card® for fuel purchases 
+across our portfolio. This 
+system enables us to monitor 
+fuel expenditure, capture 
+odometer readings, and 
+compare running costs for 
+each vehicle.  In addition to focusing 
+on improving efficiency, 
+this allows us to generate 
+detailed fuel consumption 
+reports that are now included 
+in our emission disclosures. 
+This information was not 
+captured previously.
+We will continue to improve our 
+data capture in FY25, including 
+consideration of Scope 3 
+emissions.
+23
+SOCIAL GOVERNANCE APPENDICES ENVIRONMENT INTRODUCTION
+
+=== Page 27 ===
+Energy and Emissions Overall Performance 
+Over the course of FY22 and FY23, we acquired 30 new communities, and since then we have continued 
+to grow via development of new communities as the business focuses on asset creation. Our overall 
+emissions disclosures reflects the impact of these acquisitions, greater data capture and completed 
+developments, as well as our first two years of normal operations after COVID. 
+The table below captures our overall performance data on energy consumption and greenhouse gas 
+(GHG) emissions for activities under our operational control. The data summary excludes assets under 
+development as outlined in our emissions protocol (refer to Appendix A).
+Occupancy, Energy consumption and GHG emissions* FY24 FY23
+Number of Assets Reported 86 90
+Nights Occupied 3,365,483 3,432,608
+Electricity Usage (MWh) 17,887 17,594
+Natural Gas (MWh) 2,546 2,876
+LPG (MWh) 4,295 4,402
+Scope 1 Emissions (tCO2e) 1,409 1,494
+Scope 2 Emissions (tCO2e) 12,755 13,130
+Total GHG Emissions (Scope 1 and Scope 2 (tCO2e)) 14,077 14,512
+Emissions Intensity (Scope 1 and Scope 2 (kg CO2e/night)) 4.2 4.2
+Resident Emissions (tCO2e) - Scope 3 Emissions for Ingenia 7,521 8,214
+* Assets under development are excluded. See Appendix A for more information.
+In FY24, we observed ongoing changes in our occupied nights, energy consumption, and greenhouse gas 
+(GHG) emissions across our portfolio driven by the sale of assets, continued asset intensification across 
+the holiday and rental assets, completion of new developments and additional data capture, particularly 
+in relation to gas and LPG. The change in asset mix remains the key driver of outcomes. FY24 saw a 
+reduction in overall Scope 1 and 2 emissions by 3% compared to FY23. This year also reflected:
+1.  The benefits of operating initiatives, including solar and LED.
+2. Improvements in visibility in resident data. 
+3.  Electricity and Fuel Usage: Electricity, Natural Gas and LPG consumption increased as we expanded 
+our data capture and saw growth in occupancy across the business, leading to higher emissions. 
+These comparisons provide insight into the changing dynamics of our business and footprint over 
+the course of a year, with more detailed analysis of individual assets assisting in our assessment of 
+opportunities and outcomes.
+Our next focus is reviewing our Emissions Pathway to reflect the significant change in the Group’s asset 
+base and focus, allowing us to refine our strategies and consider more targeted portfolio specific needs. 
+25
+SOCIAL GOVERNANCE APPENDICES ENVIRONMENT INTRODUCTION
+
+=== Page 28 ===
+Energy and Emissions Performance in Comparable Assets
+To assist in tracking our progress towards our 2035 net zero carbon 
+emissions from operations (Scope 1 and 2) goal, a medium term goal of 
+a 30% reduction in Scope 1 and 2 emissions has been set using a 2019 
+baseline and comparable assets.
+Pleasingly we have achieved an overall reduction of 18% across the 47 
+assets included in the baseline, despite an increase in occupancy and 
+intensification of the holiday and rental assets. Reductions in Gardens (over 
+50% reduction in emissions), Lifestyle (over 30% reduction) and Rental 
+(more than 45% reduction) have exceeded the target. While the occupancy 
+in the holiday parks increased materially in the period (occupied nights up 
+22%), and the addition of new accommodation further increased energy 
+use, pleasingly the intensity of these assets reduced 15%. Overall intensity 
+reduced 26%. Further analysis of these individual assets and outcomes 
+is providing insight into the benefit of actions taken to date and further 
+opportunities to enhance outcomes.
+EMISSIONS AND ENERGY EFFICIENCYENVIRONMENT
+Image:  Ingenia Lifestyle Lara, VIC 26
+
+=== Page 38 ===
+CREATING SUSTAINABLE COMMUNITIESENVIRONMENT
+In seeking to embed our sustainability focus across the Group, a range of initiatives were progressed. 
+These initiatives form the foundation for longer-term improvements in portfolio resilience and overall 
+business sustainability as new communities reflect our commitment to creating a positive impact. 
+Progressing these initiatives will also support the continued evolution of our policies, standards and goals.2020 – 2021 
+Participation in the GBCA Green Star 
+for Early Homes Access Program 
+• Continued construction on 
+Ingenia Lifestyle Chambers Pines 
+with electric homes and solar on 
+community facilities only
+• Committed to a Net Zero 
+Operation by 2035 (Scope 1 and 
+Scope 2) 
+• Progressed construction on our 
+first project featuring solar panels 
+on homes – Ingenia Lifestyle 
+Latitude One. 2022
+All-electric homes at current 
+and future projects 
+• First battery installation at Hervey 
+Bay
+• Registered Ingenia Lifestyle 
+Fullerton Cove for Green Star – 
+Communities rating 
+• Electric charging stations at all 
+future communities 
+• Progressed the clubhouse at 
+Ingenia Lifestyle Parkside with 
+Best Practice Built Environment 
+Sustainability Scorecard (BESS) 
+Assessment.Our journey towards creating more sustainable communities 
+362023
+Commenced construction on 
+Beveridge community targeting 261 
+Green Star Homes and Green Star - 
+Communities rating
+• Created Development Energy 
+Strategy & Guidelines for future 
+developments 
+• First homes settled at Ingenia 
+Lifestyle Natura with >4 kW solar 
+and 3,000L water tanks on 7-star 
+NatHERS rated homes
+• Registered upcoming community 
+in Bargara, for Green Star – 
+Communities rating
+• First installation of geothermal 
+heating and cooling at Nature’s 
+Edge, QLD.2024
+Submitted 9 home designs for Green 
+Star Homes design certification – 
+Beveridge community
+• Current projects were 
+benchmarked against the 
+Sustainability Design Guidelines
+• Completed installation of 
+geothermal heating and cooling at 
+Ingenia Lifestyle Nature’s Edge
+• Installed a 25,000L water tank at 
+Ingenia Lifestyle Chambers Pines
+• Registered 600+ home Archer’s Run 
+community at Morisset for Green 
+Star - Communities rating.
+
+=== Page 83 ===
+FOCUS AREA FY24 ACTIONS NEXT STEPS
+ 
+Climate 
+Strategy• Continue delivery of actions under 
+the Climate strategy roadmap• Review emissions reduction pathway 
+and consider Scope 3 emissions 
+• Enhance climate-related disclosure 
+practices in alignment with the 
+Australian Sustainability Reporting 
+Standard (ASRS) requirements for 
+identifying, measuring and disclosing 
+information about climate-related 
+risks and opportunities
+Human  
+Rights• Extended our supplier analysis 
+including integration of assessment 
+into large procurement decisions and 
+review of all suppliers with an annual 
+spend of over $1m
+• Embedded Responsible Sourcing 
+Framework into procurement and 
+supplier management for Priority 1/
+high risk/over $1m spend
+• Continued with Modern Slavery 
+training as part of the onboarding 
+process for new employees and 
+offered ongoing annual training for 
+all staff
+• Continued to improve data capture 
+and quality.• Expand assessment to Level 2 
+suppliers
+• Update relevant policies as part of 
+continuous improvement to include 
+Modern Slavery
+• Explore technology solutions to 
+assist with the management of 
+Modern Slavery.
+Information 
+Technology 
+and Cyber 
+Security • Advanced Ingenia’s Cyber Security 
+roadmap and attained alignment to 
+the Australian Signal Directorate’s 
+Essential 8 maturity model
+• Partnering with strategic Cyber 
+Security providers to ensure 
+Ingenia’s roadmap and posture is 
+continuously evolving
+• Uplifting security awareness 
+programs and utilising modern 
+training platforms to help raise staff 
+awareness to cyber security threats
+• Designed a comprehensive 
+business continuity plan tested by 
+externally hosted crisis management 
+simulations
+• Revised & rolled out policies aligned 
+with ISO 27001 standards
+• Embedded cyber security training 
+for staff on-boarding and sustained 
+compulsory annual training for all 
+staff members.• Targeting External assurance and 
+verification on Cyber Sec targets
+• Initiate a program of work to increase 
+Ingenia’s privacy maturity and 
+benchmark in line with the Australian 
+Privacy Principles.Continued rollout of our 
+climate strategy
+Continued to strengthen our 
+Modern Slavery Responsible 
+Sourcing FrameworkFY24 Summary
+SOCIAL GOVERNANCE APPENDICES ENVIRONMENT INTRODUCTION
+81

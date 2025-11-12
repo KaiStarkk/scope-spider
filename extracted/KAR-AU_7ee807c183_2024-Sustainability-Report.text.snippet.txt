@@ -1,0 +1,417 @@
+=== Page 5 ===
+This report outlines the sustainability 
+performance and strategy of Karoon 
+Energy Limited (Karoon) for assets 
+owned and operated by Karoon, 
+including the Baúna Project (100%) 
+and non-operated Who Dat (30%). 
+This report, statistics and annual data 
+therein cover the period 1st January 
+2024 – 31st December 2024.
+The people-related data included in 
+this report, such as safety performance 
+data, refer to workers associated 
+with our operated assets, including 
+contractors. It does not include 
+people-related data associated with 
+non-operated assets. Safety, Process 
+Safety and Environment performance 
+of non-operated assets is addressed 
+under ‘Performance and Achievements’ 
+in the appropriate section.
+For emissions related data, such 
+as Scope 1 and 2 emissions, the 
+data included in this report reflects 
+activities and assets under our 
+operational control, such as the Baúna 
+Project, as well as our interest in the 
+Who Dat asset, which are reported  
+on a net working interest basis.
+All monetary amounts reported are 
+in United States (US) dollars, unless 
+otherwise stated. Karoon uses the term ‘sustainability’ 
+when referring to the five pillars of our 
+sustainability strategy: ‘health, safety 
+and security, ‘climate’ , ‘people and 
+culture’ , ‘community’ and ‘environment’ . 
+Throughout this report, sustainability 
+can refer to any one of these items 
+and may be used interchangeably 
+with each of these terms. Each use 
+of the term sustainability should be 
+understood in this context and in the 
+specific context of the topic discussed. 
+The metrics in this report should be 
+read in conjunction with the footnotes 
+and glossary in this report.
+REPORTING FRAMEWORKS
+Karoon’s fourth Sustainability 
+Report continues to align with the 
+International Petroleum Industry 
+Environmental Conservation 
+Association (IPIECA) Sustainability 
+Reporting Guidelines and Global 
+Reporting Initiative (GRI) Standards. 
+Additionally, this report has been 
+prepared considering the Australian 
+Sustainability Reporting Standards 
+(ASRS), S1 and S2, which applies to 
+Karoon from 1 January 2025 onwards. EXTERNAL ASSURANCE
+PricewaterhouseCoopers (PwC) 
+have provided limited assurance on 
+Karoon’s total Scope 1 and Scope 2 
+emissions, total emissions intensity, 
+safety statistics for operated assets 
+and the surrender of voluntary carbon 
+units (VCU’s) to offset emissions.  
+Their report is available on page 47.SCOPE OF  
+THIS REPORT
+2
+
+=== Page 7 ===
+Karoon prioritises safety above 
+all else. In 2024, Baúna’s safety 
+performance fell short with four 
+recordable injuries, including two 
+LTIs, a deterioration relative to 2023 
+performance. We believe all incidents 
+and injuries are preventable and  
+have previously demonstrated that 
+this can be achieved. We will enhance 
+our vigilance, implement additional 
+safety initiatives and strengthen 
+existing controls in collaboration  
+with our contractors.
+There were no recordable safety 
+incidents associated with the  
+Who Dat operations.
+The Company has continued its focus 
+on further developing Process Safety 
+Management and understanding. 
+However, during 2024 there were two 
+Tier 2 gas release events, compared 
+to none in 2023. In response, further 
+improvements in facility maintenance, 
+inspection and Process Safety 
+awareness will be undertaken during 
+2025, working in close collaboration 
+with the FPSO contractor.
+Overall environmental performance 
+remained good, with no significant 
+incidents during the year. However, 
+poor operational reliability at the 
+Baúna Project resulted in higher gas 
+flaring than planned. Improving the 
+reliability of the FPSO is a high priority 
+and is expected to materially reduce 
+gas flaring in 2025.Our commitment to remain Carbon 
+Neutral for Scope 1 and 2 emissions 
+through the use of carbon offsets was 
+met with the surrender of 204,071 
+verified carbon units (VCUs), fully 
+covering emissions from 1 July 2022 
+to 31 December 2023. Our ability to 
+meet future commitments was further 
+strengthened with the execution of 
+a five year agreement with Suzano 
+S.A., to supply 100,000 high quality 
+afforestation, reforestation and 
+revegetation (ARR) credits per year.
+Karoon has a strong record of 
+engaging with and supporting those 
+communities in which we operate, 
+through our social and community 
+programs. In 2024 our program in 
+Brazil expanded to include four 
+voluntary and eighteen incentivised 
+projects, half of which were continued 
+partnerships. This shows the 
+importance we place on building 
+lasting relationships with communities 
+and local organisations.
+In 2024, the Company reviewed its 
+sustainability strategy and committed 
+to continuing to minimise emissions 
+where practical and to fully offset its 
+operated Scope 1 and 2 emissions. 
+In addition, recognising that future 
+growth is likely to also increase 
+absolute emissions, the Company  
+will aim to reduce emissions intensity 
+by 30% by 2032 from a 2021 baseline.The review considered many factors 
+including current asset operational 
+performance and potential future 
+growth, as well as advancements 
+in offshore emissions reduction 
+technology. Consequently, the 
+Company has updated its  
+commitment to achieving ‘Net Zero  
+by 2050 or sooner’ for Scope 1 
+and Scope 2 emissions , replacing 
+the previous target of 2035, while 
+continuing to focus on reducing 
+absolute emissions where practical 
+and economical. Our Climate 
+Transition Action Plan (CTAP) which 
+will be developed in 2025, will specify 
+Karoon’s approach and pathway  
+to achieving Net Zero by 2050. INTRODUCTION
+The Company is pleased to present the 2024 Sustainability Report, 
+including Karoon’s first full year of operations at the Who Dat 
+production asset in the Gulf of Mexico.
+Luciana Rachid
+Chair of the 
+Sustainability  
+and Operational  
+Risk Committee
+Julian Fowles
+CEO and Managing 
+Director
+4
+
+=== Page 8 ===
+11.7  
+Emissions Intensity 
+(Scope 1 and 2,  
+kgCO2e/boe)2
+2 
+Tier 1 & 2 Process  
+Safety Events2100% 
+Scope 1 and 2  
+Emissions offset  
+2023 (%)2
+5.4 
+Oil in Water (ppm)14.4 
+Flaring  
+(% of gas produced)1
+US$2.4m 
+Contribution to Social  
+and Communities  
+($ amount, voluntary  
+and incentivised)1US$142.9 
+Contribution to the 
+Brazilian, Australian and 
+US economies in wages, 
+royalties, levies and 
+taxes as well as social 
+and community and 
+environmental programs20.77  
+T otal Recordable 
+Incident Rate (TRIR 
+per 200,000 hours)1127,996 
+Absolute Emissions 
+(Scope 1 and 2, tCO2e)2
+1. Operated assets.
+2. Operated assets and non-operated assets on an equity basis.
+5
+
+=== Page 11 ===
+THE WAY WE WORK  CONTINUED
+SUSTAINABILITY STRATEGY 2021 SUSTAINABILITY STRATEGY RESULTS
+2024 marked the successful 
+completion of Karoon’s 2021 strategic 
+plan. Under this plan, eleven 
+sustainability targets were set, of 
+these, eight have been fully achieved, 
+two remain in progress and only one 
+has not progressed due to market  
+and business changes. 
+The second half of 2024 saw the 
+development of the next phase of 
+Karoon’s sustainability strategy, 
+working closely with Karoon’s 
+executive leadership team and Board 
+of directors to develop a sustainability 
+strategy that supports the business, 
+demonstrating continuous 
+improvement and a positive impact. 
+The original five pillars, namely  
+health, safety and security, climate, 
+people and culture, environment  
+and community remain very relevant 
+for us as a business and continue 
+to be the framework on which our 
+sustainability strategy is constructed.
+Health, Safety and Security
+1. Personal Safety
+Karoon remains committed to 
+managing our operations in a way  
+that puts the health, safety and 
+security of people first.
+Our focus is to continue to mature 
+our safety systems and to work 
+collaboratively with our contractors 
+and partners to reduce the risk of 
+a serious injury for our workers. 
+This includes focusing on hazard 
+identification, risk management and 
+incident investigation, as well as 
+introducing physical improvements  
+in our work environments.Goal Progress
+Implementation of identified emission  
+reduction opportunities
+Identification of additional emission  
+reduction opportunities
+Carbon neutral for scope 1 & 2 emissions  
+through the use of carbon offsets
+Focus on R&D projects supporting sustainability  
+and emission reduction
+Long term agreements (5 years) in place for  
+the purchase of offsets (VCU’s) 
+Equity investment in carbon credit  
+generating projects
+Establish an internal carbon price
+Executive remuneration linked  
+to sustainability objectives 
+Annual climate change reporting using  
+the TCFD framework
+Assurance on Scope 1 and 2 emissions 
+30% female participation on the Board and  
+in senior management by 2025, 50% female  
+employees across Karoon Group
+Achieved
+In progress
+Not progressed
+8
+
+=== Page 13 ===
+Climate
+Karoon’s long term target is to  
+become a Net Zero Company for 
+Scope 1 and 2 emissions, meaning  
+a substantial reduction in operating 
+carbon emissions over a given period,  
+complemented by offsets for any 
+residual emissions. As part of a 
+sustainability strategy review, the 
+Company elected to adopt a revised 
+target of ‘Net Zero by 2050 or sooner’ 
+for Scope 1 and 2 emissions in order to 
+reflect the Company’s growth strategy, 
+practical and economic opportunities 
+to reduce emissions offshore, and 
+alignment with industry norms and 
+global trends. 
+This change recognises the operating 
+lessons we have learnt over the last 
+four years as an operator and the 
+unique challenges associated with 
+decarbonising existing upstream 
+assets due to their location and the 
+environment in which they operate,  
+as well as changes in our industry  
+and the broader environment. 
+In the medium term, as Karoon grows, 
+CO 2 emissions from our producing 
+assets will increase. T o balance this, 
+we aim to reduce emission intensity 
+through improved practices and  
+new technologies. Although Karoon  
+is already below the Oil and Gas 
+Climate Initiative (OGCI) industry 
+target of 17 kgCO 2e/boe1, we aim  
+to improve further. 
+Since 2021, we’ve reduced emission 
+intensity by 21%, from 14.9 kgCO 2e/
+boe to 11.7 kgCO 2e/boe in 2024. 
+Future reductions will focus on steady 
+operations, efficiency, and emission 
+reduction technologies, guided by  
+our Climate Transition Action Plan 
+(CTAP) to be developed in 2025, along 
+with selective growth opportunities.
+In addition to these two primary 
+goals, the Company is dedicated to 
+remaining Carbon Neutral for Scope 1 
+and 2 emissions. This will be achieved 
+through the use of carbon offsets  
+(see Metrics & T argets, page 22),  
+with a focus on higher quality and 
+higher permanence carbon credits. 
+This has been an essential part of the 
+Company’s sustainability strategy since becoming an operator.  
+The commitment to improving  
+the quality of the credits used and 
+expanding to include non-operated 
+assets on an equity basis reflects 
+the Company’s commitment to 
+continuous improvement.
+Karoon recognises that while 
+technology to reduce emissions from 
+offshore production is evolving, it is 
+not yet always economically viable 
+for existing offshore facilities. Proven 
+technology is being trialled by the 
+offshore industry and it is expected 
+that significant developments will 
+make it more economical for new 
+assets by the 2030s and beyond.
+Karoon continues to invest in research 
+and development that supports 
+sustainability initiatives, particularly 
+operational efficiency through the 
+application of Artificial Intelligence 
+(AI) technology. Karoon’s next target 
+is to develop Karoon’s Climate 
+Transition Action Plan (CTAP) in 2025 
+and establish a clear decarbonisation 
+pathway for the Company that 
+will include existing and emerging 
+technology, operational efficiency  
+and process improvement, and 
+reduction of fugitive emissions.
+People and Culture
+Karoon’s commitment to People and 
+Culture is reflected in our Company 
+Mission. We believe that supporting 
+the wellbeing of our people, and 
+promoting an inclusive and diverse 
+culture promotes safety, engagement, 
+and productivity. We aim to attract and retain the best people and have 
+the right skills and capabilities in 
+place to support future work needs. 
+Our OneKaroon culture is centred 
+upon supporting a thriving workforce 
+and our employee programs are 
+designed to reflect the needs of all 
+employees including the provision  
+of flexible working schedules and 
+work-life balance programs. 
+In 2024, we implemented employee 
+programs aimed at supporting 
+positive employee engagement, 
+reducing turnover, and increasing 
+individual accountability to support 
+high productivity. 
+Diversity and inclusion is a key priority 
+for Karoon and is reflected in our 
+target of at least 30% participation 
+of women on the Board, in Senior 
+Leadership positions, and 50% across 
+the entire Karoon network. Ensuring 
+pay equity and the absence of any 
+gender bias in our recruitment and 
+remuneration processes is equally  
+a significant priority at Karoon.
+Community
+Karoon remains committed to 
+supporting the communities in 
+which we operate and on supporting 
+gender and social equality, advancing 
+education, and fostering positive 
+socioeconomic change. 
+Under our strategy we have set two 
+key commitments. The first is to 
+ensure that as the business continues 
+to grow, we continue to build and 
+improve our community support. THE WAY WE WORK  CONTINUED
+Emission Intensity
+(Annual; Scope 1 & 2)
+0.05.010.015.020.025.0kgCO2e/boe
+202114.9
+2022222.8
+202313.5
+202411.7
+1. https://www.ogci.com/carbon-intensity-target.
+2. 2022 Scope 1 emission intensity includes emissions associated with Patola development and Neon control well drilling.
+10

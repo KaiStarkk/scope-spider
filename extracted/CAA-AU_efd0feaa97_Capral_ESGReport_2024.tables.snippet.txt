@@ -1,0 +1,69 @@
+=== Table 1 (page 3) ===
+Sustainability,
+In 2021 Capral embarked upon a journey to lower,"Capral’s lower carbon aluminium, marketed under"
+carbon emissions across our operations. Reducing our,"our proprietary LocAl® brand, has gained substantial"
+environmental impact is an essential element of our,industry interest and has reinforced Capral's
+corporate responsibility framework and our vision for a,position as the leader in sustainable aluminium
+sustainable future. Our Sustainability Roadmap is,extrusion production in Australia. Combined with
+closely aligned with the UN Sustainable Development,our Aluminium Stewardship Initiative (ASI)
+"Goals and the Global Reporting Initiative. This year, we","certification, this underlines our commitment to"
+have taken significant steps to enhance transparency,producing more sustainable materials. We have
+and accountability in our reporting and day-to-day,initiated the process of aligning our sustainability
+operations.,reporting with the Australian Sustainability
+,Reporting Standards (ASRS). This will ensure that
+Our improved clarity of greenhouse gas emissions,
+,our environmental performance data is accurate
+"across Scope 1, 2, and 3 is a significant development.",
+,"and transparent to our stakeholders. This year, to"
+We have refined our tracking systems to deliver,
+,"align with ASRS, we are reporting calendar year"
+"comprehensive data on our emissions, from cradle to",
+,sustainability data to line-up with Capral’s
+gate. Capral's IMS incorporates lifecycle assessments,
+,December financial year.
+"and tracking of Scope 3 emissions, giving a more",
+complete picture of our environmental impact. This,"Alongside these initiatives, we have been evaluating"
+increased transparency not only supports our internal,the inclusion of recycled content aluminium into our
+targets but also provides our customers with accurate,process. This is a component of our broader
+insights into the ecological footprint of our operations.,"commitment to enhancing our circular economy,"
+,"optimising resource utilisation, and minimising"
+Our ongoing efforts to reduce emissions are supported,
+,waste across our operations.
+by strategic investments in energy-efficient,
+technologies and a gradual transition towards,Through these initiatives Capral is advancing its
+renewable energy sources. The advancements,sustainability position and will keep our
+achieved in lowering carbon emissions across our,stakeholders informed as we progress towards a
+operations demonstrates our commitment to meeting,more sustainable future.
+our long-term sustainability goals.,
+
+=== Table 2 (page 6) ===
+Carbon Emissions Overview,,,,
+"In 2022, Capral’s baseline Scope 1 (gas) and Scope 2",,,,
+,,Carbon Emissions,SCOPE 1,SCOPE 2
+emissions (electricity) totalled 38360t. Total emissions,,,,
+"fell in 2023 to 36,690t, and in 2024 they fell a further 9%",,,,
+,,"38,360",,
+,"40,000",,,
+"to 33,320t. These reductions are a result of our targeted",,,"36,690",
+"emission reduction strategies. In 2022, Capral’s",,,,
+,"35,000",,,"33,320"
+emissions intensity was 0.67 tCO₂e per tonne of,,,,
+"aluminium produced. This fell to 0.64 in 2023, and a",,,,
+,"30,000",,,
+further 5% to 0.61 in 2024.,,,,
+,"25,000",,,
+,,"28,890",,
+Capral’s target is net zero by 2050 with an interim target,,,"26,900",
+,,,,"23,870"
+of a 20% reduction in carbon emissions by 2030. We are,,,,
+,"20,000",,,
+currently tracking ahead of that target due to emission,,,,
+"reduction initiatives, such as; operational energy",,,,
+,"15,000",,,
+"efficiency programs, process improvements, and an",,,,
+increased mix of renewable energy sources. Ongoing,"10,000",,,
+"investments in low-carbon technologies, further process",,,,
+"optimisations, and an increasing use of renewable","5,000",,,
+,,"9,470","9,790","9,450"
+energy will drive future reductions.,,,,
+,0,,,

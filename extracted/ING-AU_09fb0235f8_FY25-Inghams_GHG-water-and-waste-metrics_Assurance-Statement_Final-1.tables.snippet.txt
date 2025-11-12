@@ -1,0 +1,19 @@
+=== Table 1 (page 1) ===
+"The scope of assurance was limited to the Subject Matter Information, as presented in the table below and within the Report, applicable to facilities under",
+"Ingham’s operational control (breeder farms, broiler farms, feed mill, hatcheries, primary/further processing sites, distribution centres, administration offices)",
+in Australia and New Zealand for the period of 30th June 2024 to 28th June 2025 (Ingham’s own financial year of 2025).,
+Subject Matter Information,Assured Figures
+Production (t),"1,993,887"
+Scope 1 GHG emissions (tCO2-eq),"55,812"
+Scope 2 GHG emissions (tCO2-eq) (location based),"128,861"
+Scope 2 GHG emissions (tCO2-eq) (market based),"158,209"
+Total Scope 1 & 2 GHG emissions (tCO2-eq) (location based),"184,674*"
+Total Scope 1 & 2 Location based emissions intensity (kgCO2-eq/t),92.6
+Total Scope 1 & 2 GHG emissions (tCO2-eq) (market based),"214,021"
+Waste to landfill (kg),"8,707,867"
+Waste to landfill intensity (kg/t),4.37
+Total water withdrawn (kL),"4,797,430"
+Total water withdrawn intensity (kL/t),2.41
+Total recycled water usage (kL),"1,012,183"
+Total water usage (kL)**,"5,809,613"
+Total water intensity (kL/t),2.91

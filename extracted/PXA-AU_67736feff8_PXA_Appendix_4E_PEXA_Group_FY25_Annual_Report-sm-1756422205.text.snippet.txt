@@ -1,0 +1,328 @@
+=== Page 6 ===
+About this Report
+Welcome to our 2025 Annual Report
+This report covers PEXA global operations and its 
+controlled entities (collectively ‘the PEXA Group’, or ‘the 
+Group’) for the financial  year ended 30 June  2025.
+References to 2025, the year, period or FY25 are to the 
+financial  year ended 30 June  2025. References to 2024, 
+comparative period or FY24 are to the financial  year 
+ended 30 June  2024. All monetary amounts are subject 
+to rounding and are reported in Australian dollars, unless 
+otherwise stated.
+A glossary of key terms is provided at the end of this report.
+Additional documents
+PEXA’s Annual Report should be read in conjunction 
+with the other materials that comprise our 2025 
+annual reporting suite. These are available at our online 
+Investor Centre .
+•2025 Full Year Results – Appendix 4E
+•2025 Full Year Results ASX Announcement
+•2025 Full Year Results Investor Presentation
+•2025 Climate-related Disclosures Report
+Our 2025 Corporate Governance Statement is 
+included in this report and discloses how we have 
+complied with the ASX Corporate Governance Council’s 
+‘Corporate Governance Principles and Recommendations 
+– 4th edition’.
+Our 2024 Modern Slavery Statement provides an overview 
+of how we identify, manage and mitigate modern slavery 
+risks in our operating and supply chains and can be found at 
+Reports Policies and Publications | PEXA Group .
+Our 2025 Modern Slavery Statement will be released later 
+this calendar year.
+Non-IFRS financial  information
+Measures included in this report incorporate ‘non-IFRS 
+financial  information’ presented under ASIC Regulatory 
+Guide 230 ‘Disclosing non-IFRS financial  information’. 
+Management believes this non-IFRS financial  information 
+provides useful information to users in measuring the 
+financial  performance and condition of the Group. The 
+non-IFRS financial  information does not have standardised 
+meanings prescribed by Australian Accounting Standards.Assurance
+The Remuneration Report on pages 68 to 89 and 
+Financial Statements on pages 100  to 164  have been 
+audited by Ernst & Young. The assurance statement for the 
+Financial Statements and Remuneration Report is on pages 
+159  to 164  .
+Independent limited assurance has been provided over 
+our Scope 1, 2 and 3 greenhouse gas emissions. Ernst 
+& Young’s limited assurance statement is included on 
+pages 44 to 45 of this Annual Report. We expect 
+to extend external assurance over key components 
+within our climate-related disclosures reporting as part 
+of our compliance with the Australian Sustainability 
+Reporting Standards.
+Forward looking statements
+This Annual Report contains general information, in 
+summary form, about PEXA and its activities as at 
+29 August  2025. It is not complete and should not be relied 
+upon as financial  advice. Investors should consider their 
+individual investment objectives, financial  situation and if 
+professional advice should be gained, when deciding if an 
+investment is appropriate for them.
+This Annual Report may contain forward-looking 
+statements or opinions regarding our current intent 
+or expectations of PEXA Group business operations, 
+performance and market conditions. Forward looking 
+statements may be identified  by the use of terms such as; 
+“believe”, “estimate”, “plan”, “project”, “anticipate”, “expect”, 
+“goal”, “target”, “intend”, “likely”, “may”, “will”, “could” or 
+“should” or other similar expressions, or by discussions 
+of strategy, plans, objectives, targets or goals. Such 
+statements are predictive in nature and may be affected 
+by inaccurate assumptions or unknown future risks and 
+uncertainties. Accordingly, as results ultimately achieved 
+may differ materially, they should not be relied upon when 
+making investment decisions. No representation is made as 
+to their correctness and no undertaking is given to issue 
+any revisions to reflect  future events or circumstances.
+PEXA Group Limited Annual Report 2025
+
+=== Page 10 ===
+Business Highlights
+The business has made good progress in delivering its strategy in FY25, demonstrating its 
+resilience amid uncertain macroeconomic conditions.
+Our focus has been on uplifting the performance of each business within PEXA: delivering operational excellence in our 
+core Australian Exchange business, building a transferable, efficient  and industry-leading platform in our International 
+business and scaling our Insights businesses within the Digital Solutions portfolio. We have underpinned this with continued 
+investment in our people, and our FY25 results are the product of their dedication and passion to improve the property 
+market ecosystem.
+THE AUSTRALIAN EXCHANGE
+•Invested $34 million in core infrastructure improvements to resilience and implementing new features.
+•$5 trillion in property transactions passed through the exchange since inception, with $1 trillion transacted for the first 
+time in a financial  year.
+•12 additional API connections were delivered, enabling operational efficiencies  for our customers.
+•Completed national coverage via Tasmania in FY25 and Northern Territory in August 2025.
+•Achieved net zero for scope 1 and scope 2 emissions based on our FY24 greenhouse gas inventory, with Melbourne, 
+Sydney and Leeds offices  operating on 100% renewable energy.
+INTERNATIONAL
+•Received approval from UK Financial Conduct Authority to become an Authorised Payment Institution in the UK.
+•Finalised delivery of the PEXA UK platform which enabled the first  digital Purchase Transaction in the UK.
+•Progressed UK lender engagement, signing a formal commitment with NatWest to proceed with an 
+implementation program.
+•Completed integration of Smoove and saw an uplift in performance of Optima Legal.
+DIGITAL SOLUTIONS
+•Solid revenue growth driven primarily by .id and Value Australia businesses (together, “Insights”).
+•Established critical foundations to transform and scale the Insights business.
+•>95% customer retention and >85% annuity style revenue in Insights.
+•Achieving commercialisation maturity with the Automated Valuation Model as a result of ongoing innovation and 
+strategic partnerships, resulting in expansion of Tier 1 banking customers.
+•In August 2025, a strategic review of Digital Solutions was announced to assess its fit within the broader PEXA Group.
+PEXA Group Limited Annual Report 2025 4
+
+=== Page 47 ===
+Overview Our 
+BusinessDirectors' 
+ReportRemuneration 
+ReportCorporate 
+GovernanceAuditor's 
+Independence 
+DeclarationFinancial 
+StatementsShareholder 
+informationGlossary
+Environment
+We are committed to protecting our natural assets for future generations by supporting 
+sustainable communities, managing carbon emissions and climate risk and instilling a 
+sustainability minded culture across our global team.
+Material Topics FY25 Progress Status
+Climate
+Align climate response 
+with ASRS•Management of climate-related risks and opportunities embedded into 
+business units to support readiness for new reporting requirements
+•Steering Committee established
+Develop climate 
+disclosures 2025•FY25 Climate Disclosures Report released
+Transition plan for a 
+changing climate.•Risk/opportunity assessments complete
+•Implemented ongoing monitoring processes
+Carbon and energy
+Net zero scope 1&2 by FY25 •Achieved net zero scope 1&2 emissions
+Switch to renewable electricity •100% renewable: Melbourne, Sydney, West Village Leeds
+Scope 3 reduction strategies •Supplier engagement commenced for value chain data
+Expand emissions assurance •Emissions assurance expanded to Scope 3
+Sustainable communities
+Expand sustainability 
+impact metrics•Expanded social and environmental reporting metrics
+•Overall emissions reduction: 3,740.8 tonnes net
+•Total electricity use: 502 MWh
+•97,660 kWh GreenPower, 34,138 kWh  carbon-neutral electricity
+Reduce waste & 
+increase recycling•Recycling rates: Melbourne 53%, Sydney 76%, Leeds 37%
+•Implemented recycling campaigns
+•100% compostable catering packaging requested
+Nature & biodiversity approach •Developed risk assessment scope
+Embed our sustainability culture •UK Sustainability Champions Network launched
+•3 ESG internal events
+•2 ESG all-team engagements
+KEY
+ Continuing
+ Achieved
+PEXA Group Limited Annual Report 2025 41
+
+=== Page 49 ===
+Overview Our 
+BusinessDirectors' 
+ReportRemuneration 
+ReportCorporate 
+GovernanceAuditor's 
+Independence 
+DeclarationFinancial 
+StatementsShareholder 
+informationGlossary
+Metrics and Targets – Net zero scope 1 & 2
+ScopeGHG Protocol 
+Category DescriptionGross Emissions 
+FY2025 (tCO2-e)
+Scope 1 Scope 1 Direct emissions from fuel combustion, chemical processing 
+or fugitive emissions0.49
+Scope 2 Scope 2 Indirect emissions from purchased electricity, heat 
+and steam199.5
+Scope 3 Category 1 Purchased goods & services 7,094.85
+Scope 3 Category 2 Capital goods 59.27
+Scope 3 Category 3 Fuel and energy related activities 29.50
+Scope 3 Category 5 Waste generated in operations 5.25
+Scope 3 Category 6 Business travel 1,242.59
+Scope 3 Category 7 Employee commuting 576.5
+Scope 3 Category 8 Upstream leased assets 162.46
+T otal 9,370.5
+PEXA achieved net zero scope 1 and 2 emissions in FY25, 
+based on our FY24 greenhouse gas inventory. As part of 
+our net zero plan, our Melbourne headquarters, Sydney, and 
+West Village Leeds offices  operate on 100% renewable 
+electricity (97,660 kWh GreenPower and 34,138 kWh of 
+carbon-neutral electricity), eliminating 120 tonnes of CO2-e 
+annually2. We expect to move further offices  to renewable 
+in FY26.
+Our independently assessed FY25 gross emissions 
+profile  was:
+•Scope 1:  0.49 tonnes (<1% of total emissions)
+•Scope 2:  199.5 tonnes (market based, 2% of 
+total emissions)
+•Scope 3:  9170.5 tonnes (largest contributor at 98% of 
+total emissions)Our total gross carbon footprint was 9,370.5 tonnes, 
+with total electricity consumption of 502MWh. Our net 
+emissions totalled 9,332.3 tonnes, a decrease of 3,740.8 
+tonnes from FY24, using the market based methodology 
+which better reflects  our efforts to purchase lower-
+emissions electricity. Our scope 2 location-based emissions 
+were 319. tCO2-e. Our net emissions reduced in FY25 
+compared to FY24 as a result of us improving our 
+scope 3 spend data sources and how we categorise 
+our data under the Greenhouse Gas Protocol categories 
+and the use of supplier-specific  emissions factors, as 
+well as using GreenPower and Carbon neutral electricity. 
+Our largest scope 3 categories remain Information and 
+Communication Technology Services and Professional 
+services, contributing 48% and 18% respectively of our 
+gross footprint (category 1). We have begun to engage 
+directly with our largest suppliers to better understand 
+our scope 3 emissions and their decarbonisation efforts. 
+Through engagement with one of our largest Information 
+and Communication Technology providers, we were able 
+to source portfolio-specific  emissions data and reduce 
+over 1,400 tonnes in our scope 3 emissions allocation for 
+that supplier. We will continue to directly source supplier-
+specific  data where possible. In FY25, limited assurance 
+expanded to include scope 3 emissions, refer to pages 44
+to 45. Our relevant emissions categories are tabulated 
+below aligned to the Greenhouse Gas protocol. More details 
+are on the group website.
+2Emissions reductions through the purchase of renewable electricity are aligned to the market-based method.
+PEXA Group Limited Annual Report 2025 43
+
+=== Page 50 ===
+A member firm of Ernst & Young Global Limited  
+Liability limited by a scheme approved under Professional Standards Legislation  
+Independent Limited Assurance Report  to the 
+Management and Directors of PEXA  Group Limited  
+Our Conclusion:  
+Ernst & Young (‘EY’, ‘we’) were engaged by PEXA  Group Limited (‘PEXA’)  to undertake a limited assurance 
+engagement as defined by Australian  Auditing Standards, hereafter referred to as a ‘review’, over the Subject Matter 
+defined below for the year ended  30 June 202 5. Based on the procedures we have performed and the evidence we 
+have obtained, nothing has come to our attention that causes us to believe the Subject Matter has not been prepared, 
+in all material respects, in accordance  with the Criteria defined below.  
+What  our review covered  
+We reviewed  the following Subject Matter  as presented 
+within PEXA ’s FY25 Annual Report (the ‘Report’ ): 
+►Total  Scope 1 greenhouse gas emissions in tonnes
+of carbon dioxide equivalent (t CO 2-e)
+►Total Scope 2 greenhouse gas emissions (t CO 2-e)
+(measured on a location -based and market -based
+approach)
+►Total Scope 3 greenhouse gas emissions (t CO 2-e).
+Criteria applied by PEXA  
+In preparing the Scope 1 , 2 and 3  greenhouse gas 
+emissions (t CO 2-e), PEXA  applied the  following Criteria: 
+►PEXA’s own publicly disclosed criteria as detailed in
+the Basis of Preparation, with reference to :
+►The Greenhouse Gas Protocol: A Corporate
+Accounting and Reporting Standard (Revised
+Edition) .
+►Corporate Value Chain (Scope 3) Standard .
+Key responsibilities 
+PEXA ’s responsibility 
+PEXA’s  management is responsible  for selecting the 
+Criteria , and for presenting the Scope 1 , Scope 2 and 
+Scope 3 greenhouse gas emissions (t CO 2-e) in 
+accordance with that Criteria, in all material respects. 
+This responsibility includes establishing and maintaining 
+internal controls, maintaining adequate records and 
+making estimates that are relevant to the preparation of 
+the subject matter, such that  it is free from material 
+misstatement, whether due to fraud or error.  
+EY’s responsibility and independence  
+Our responsibility is to express a conclusion on the 
+Subject Matter based on our review.  
+We have complied with the independence and relevant 
+ethical requirements, which are founded on 
+fundamental principles of integrity, objectivity, 
+professional competence and due care, confidentiality 
+and professional behaviour.  
+The firm applies Auditing Standard ASQM 1  Quality 
+Management for Firms that Perform Audits or Reviews 
+of Financial Reports and Other Financial Information, or 
+Other Assurance or Related Services Engagements , which requires the firm to design, implement and 
+operate a system of quality management including 
+policies or procedures regarding compliance with 
+ethical requirements, professional standards and 
+applicable legal and regulatory requirements.  
+Our approach  to conducting the review  
+We conducted this review  in accordance with the 
+Australian Auditing and Assurance Standards Board’s 
+Australian Standard on Assurance Engagements Other 
+Than Audits or Reviews of Historical Financial 
+Information (‘ASAE3000’ ) and the terms of reference for 
+this engagement as agreed with PEXA  on 19 February 
+2025 . That standard requires that we plan and perform 
+our engagement to express a conclusion on whether 
+anything has come to our attention that causes us to 
+believe that the Subject Matter is not prepared, in all 
+material respects, in accordance with the Criteri a, and to 
+issue a report.  
+Summary of review procedures performed  
+A review consists of making enquiries, primarily of 
+persons responsible for preparing the Scope 1 , Scope 2 
+and Scope 3 greenhouse gas emissions (t CO 2-e) and 
+related informatio n and applying analytical and other 
+review procedures.  
+The nature, timing, and extent of the procedures 
+selected depend on our judgement, including an 
+assessment of the risk of material misstatement, 
+whether due to fraud or error. The procedures we 
+performed included, but were not limited to:  
+►Conducted interviews with personnel to understand
+the business and reporting process
+►Conducted interviews with key personnel to
+understand the process for collecting, collating and
+reporting the Subject Matter during the reporting
+period
+►Assessed that the calculation criteria have been
+correctly applied in accordance with the
+methodologies outlined in the Criteria
+►Undertook analytical review procedures to support
+the reasonableness of the data
+►Identified and tested assumptions supporting
+calculations
+We believe that the evidence obtained is sufficient and 
+appropriate to provide a basis for our review  conclusion.  PEXA Group Limited Annual Report 2025 44

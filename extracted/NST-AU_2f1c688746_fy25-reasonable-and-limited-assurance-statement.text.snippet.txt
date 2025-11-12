@@ -1,0 +1,60 @@
+=== Page 1 ===
+INDEPENDENT ASSURANCE STATEMENT  
+ 
+ 
+To the Stakeholders of Northern Star Resources Limited (“Northern Star”)  
+ 
+Conclusion  
+Reasonable Assurance Conclusion  
+In our opinion, the total Scope 1 and Scope 2 Greenhouse Gas (GHG) emissions of 836,894 tCO 2eq and 467,881 tCO 2eq reported by Northern Star, 
+along with the associated GHG emissions methods, assumptions, and estimation uncertainty within the scope of our reasonable a ssurance engagement, 
+are fairly presented and prepared in all material respects in accordance with the Reporting Criteria, as disclosed in Northern Star's Environment and Social 
+Responsibility (ESR) Disclosure Suite (“the ESR Suite”) for the period of 1st July 2024  to 30th June 2025 . 
+ 
+Limited Assurance Conclusion  
+Based on the procedures  we have performed and evidence we have obtained, nothing has come to our attention that causes us to believe  the Sustainability 
+Information, including associated methods, assumptions, and estimation uncertainty within the scope of our limited assurance engagement , included  in 
+Northern Star's ESR Suite for the period of 1st July 2024  to 30th June 2025 , is not fairly presented and prepared, in all material  respects, in accordance 
+with the Reporting Criteria, . 
+ Scope of the Assurance Engagement  
+The scope of assurance was limited to the Sustainability Information and Greenhouse Gas (GHG) emissions related to Northern S tar's operating assets: 
+Kalgoorlie Production Centre, Yandal Production Centre, Pilbara Operations, Pogo Production Centre, Perth Corporate Office, and Exploration, for the 
+period of 1
+st July 2024 to 30th June 2025.  
+ 
+We performed a reasonable assurance engagement over Northern Star's Scope 1 and Scope 2 GHG emissions. We also conducted a li mited assurance 
+engagement over the Sustainability Information presented within the GRI Index of the ESR Suite.  
+ Our assurance engagement does not extend to any other information included in the ESR Suite or information from earlier periods. We have not performed 
+any procedures on the excluded information and, therefore, do not express any conclusion on it.  
+ 
+Reporting Criteria  
+The reporting criteria used for the reporting of the Sustainability Information subject to assurance are the GRI Standards is sued by the Global Sustainability 
+Standards Board (GSSB). The ESR Suite was prepared in accordance with the GRI Standards including the reporting principles and additional 
+requirements specified  in GRI 1: Foundation 2021.  
+ 
+The reporting criteria used for the reporting of the GHG emissions are the GHG Protocol  Corporate Accounting and Reporting Standard (Revised Edition) 
+(2015) issued by the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD) and G RI Standards.  
+ 
+Northern Star ’s Responsibilities  
+Management of Northern Star was responsible for:  
+- Selecting and establishing suitable reporting criteria for preparing the disclosures  subject to assurance.  
+- Preparing and presenting the disclosures  in accordance with the Reporting Criteria.  
+- Designing, implementing, and maintaining internal controls relevant to the preparation of  the disclosures  that is free from material misstatement 
+whether due to fraud or error . 
+- Advising us of any known or suspected issues related to the disclosures . 
+ Inherent Uncertainty in preparing GHG disclosures  
+The GHG quantification is subject to inherent uncertainty because of incomplete scientific knowledge used to determine emissions factors and the values 
+needed to combine emissions of different gases .  
+ 
+Our Responsibilities  
+Bureau Veritas  Australia Pty Ltd (“Bureau Veritas”)  was responsible for:  
+- Planning and performing the engagement to obtain the intended level of assurance about whether the disclosures  are free from material 
+misstatement, whether due to fraud or error . 
+- Forming an independent conclusion based on the procedures performed and evidence obtained.  
+- Reporting our conclusion to the Directors of Northern Star . 
+ 
+Bureau Veritas was not involved in the drafting of the ESR Suite and our independence has not been compromised.  
+ 
+Summary of Work Performed  
+Our reasonable assurance engagement on the GHG emissions was performed in accordance with ISAE 3410 Assurance Engagements on Greenhouse 
+Gas Statements  issued by the International Auditing and Assurance Standards Board (IAASB ).

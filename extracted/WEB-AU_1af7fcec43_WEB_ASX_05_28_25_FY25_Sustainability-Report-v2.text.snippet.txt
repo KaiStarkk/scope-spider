@@ -1,0 +1,90 @@
+=== Page 18 ===
+Carbon emissions performance
+Scopes FY25
+Scope 1 227.22
+Scope 2 (Location-based) 828.20
+Scope 2 (Market-based) 939.74
+Scope 3 (Location-based) 648,466
+Scope 3 (Market-based) 648,559
+Total Emissions (Location-based) 649,521
+Total Emissions (Market-based) 649,726
+• In September 2024, Webjet Limited underwent a demerger, resulting 
+in the formation of Webjet Group Limited to manage its former B2C 
+businesses, leaving Webjet Limited operating the WebBeds B2B 
+business only. As a result a new emissions baseline for Webjet Limited 
+(now Web Travel Group) has been established in FY25.
+• Reporting year is 1st Apr 2024- 31st Mar 2025. Actual data was 
+provided for half year (1st Apr 2024-30th Sep 2024) and then an uplift 
+factor applied to project the full year emissions.
+• Emissions calculated in this report have been assessed in line with 
+the Greenhouse Gas Protocol Standard and Greenhouse Gas Scope 
+3 Standard methodology and prepared in line with the operational 
+control consolidation approach. 
+• Emission sources from all properties owned and leased by 
+Web Travel Group have been included in the footprint’s boundary which 
+includes all 25 facilities leased globally.
+• Both Location-based and Market-based emissions were calculated for 
+Scope 2 and Scope 3 Category 3 emissions for completeness.
+• Category 11: Use of Sold Products contributed 94% of emissions, 
+followed by Category 1: Purchased Goods and Services and Category 
+2: Capital Goods, contributing 2.5% and 2.1%, respectively. These 
+figures have used the Market-based approach.
+• Activity or spend data was used for the footprint calculation, where a 
+data gap existed, an estimation was made to fill the gap.
+• Scope 1 & 2 for fuel and electricity were calculated based on the actual 
+consumption and Scope 1 refrigerants emissions were estimated 
+based on the m2 area of sites.
+• Scope 3 Categories 1, 2, 4, & 6 emissions were calculated based on 
+the spend.
+• Scope 3 Category 3 emissions were calculated based on the actual fuel 
+and electricity consumption.
+• Scope 3 Category 7 emissions were calculated based on the number 
+of full-time equivalent (FTE) employees, the expected proportion of 
+employees working from home, and the number of days per week 
+working from office. The average distance for commute and modes of 
+transport were sourced from standard industry information.
+• Scope 3 Category 11 emissions were calculated per night stays in different 
+star rated sold accommodation and per spend for sold land transport.
+Data preparation was externally supported, and the Company 
+will commence external assurance next year in line with 
+ASRS requirements.Location and market-based definitions 
+Location-based emissions use average emission 
+factors for the geographic location where energy is 
+consumed, while market-based emissions reflect a 
+company’s specific energy choices and contracts, 
+including renewable energy purchases. Both are 
+included for completeness in Web Travel Group’s 
+reporting, and to reflect the Company’s purchase of 
+renewable energy in Malaysia.
+Breakdown of the Scopes
+Scope 1 emissions  — consist of emissions relating 
+to mobile fuel (petrol) combustion in fleet vehicles 
+and fugitive emissions from air conditioning within 
+Web Travel Group properties.
+Scope 2 emissions  — include all electricity purchased 
+for Web Travel Group operational locations.
+Scope 3 emissions  — are emissions associated with 
+Web Travel Group’s upstream and downstream business 
+activities. These include indirect emissions sources 
+such as purchased goods and services, employee 
+commute and waste generated. Material sustainability topic –
+Climate Change Risk 
+and Disclosure .
+FY25 IN REVIEW.  (CONTINUED)Reducing our  
+Impact
+Web Travel Group Limited Sustainability Report 2025
+16 Cat 1: Purchased goods  
+and services 2.55%
+ Cat 2: Capital goods  
+2.10%
+ Cat 3: Fuel- and energy-  
+related emissions  
+(Market-based) 0.02% Cat 4: Upstream transportation 
+and distribution 0.003%
+ Cat 5: Waste generated 
+in operations 0.05%
+ Cat 6 : Business travel 0.74%
+ Cat 7 : Employee commuting  
+0.13%Cat 11:  Use of sold 
+products 94.21%Breakdown of Web Travel Group’s  
+Scope 3 emissions

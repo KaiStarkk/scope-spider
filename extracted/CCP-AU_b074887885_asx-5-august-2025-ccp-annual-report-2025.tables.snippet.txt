@@ -1,0 +1,155 @@
+=== Table 1 (page 36) ===
+FY2024,FY2025,Priorities for FY2026
+Completed a detailed review,Completed a gap analysis with,Continue advancing
+of the International Sustainability,an external consultant and,environmental initiatives in line
+Standards Board's (ISSB),developed a three-to-five year,"with our roadmap, including"
+International Financial Reporting,roadmap for compliance with,validating identified climate-
+"Standard, IFRS S2 climate-",the upcoming climate-related,related risks and opportunities
+related disclosure requirements,disclosure requirements,and conducting scenario
+,,analysis. This will help assess
+Completed a benchmarking,The ESG Working Group,
+,,financial materiality and identify
+assessment of our company,completed an assessment,
+,,any potential impacts on our
+position and climate risks,of climate-related risks and,
+,,business or climate strategy
+and opportunities to inform,opportunities. Initial discussions,
+a potential Climate Strategy,were held to prepare for climate,Continue developing
+in FY2025,scenario analysis,environmental and data
+,,"management systems,"
+Continued working to improve,Aligned the structure of,
+,,particularly for Scope 3
+our data collection systems for,the environmental section,
+,,"emissions, and consider"
+reporting Scope 2 emissions for,of this report with AASB S2,
+,,emissions reduction
+our overseas sites and calculation,"requirements, initiating a phased",
+,,opportunities
+of Scope 3 emissions for,approach to implementation,
+all operations,,Trial and potentially expand
+,Improved our data collection,
+,,daylight harvesting in our Salt
+Looked at ways to improve,systems for reporting of Scope 2,
+,,Lake City office to reduce energy
+recycling systems at our sites to,emissions for our overseas sites,
+,,use for lighting
+reduce waste to landfill,,
+,Finalised revisions to our,
+,,Finalise the update of our
+Reviewed our procurement policy,procurement policy to,
+,,travel policy
+to include principles around,incorporate principles addressing,
+minimising environmental impact,environmental and social,Continue to improve recycling
+through sustainable procurement,considerations,systems at our sites to reduce
+practices as well as social,,waste to landfill
+aspects such as opportunities for,,
+Indigenous businesses,,
+Reviewed our travel policy to,,
+consider opportunities to reduce,,
+our environmental impact,,
+
+=== Table 2 (page 38) ===
+,For FY2025 we are reporting our global Scope 1 and 2 emissions for the first time. We have included global emissions in the table,,,
+,below alongside Australian emissions from this year and as reported in previous years for comparative purposes.,,,
+,FY2025,FY2025,FY2024,FY2023
+Emissions (tonnes CO2-e),Global,Australia,Australia,Australia
+Scope 1 emissions,,,,
+Fleet fuels,N/A,N/A,36,195
+Refrigerants,13,13,13,18
+Total Scope 1 emissions,13,13,49,213
+Scope 2 emissions,,,,
+Electricity – Location-based approach 1,626,407,617,559
+Total emissions,639,420,666,772
+Electricity – Market-based approach 2,719,501,609,548
+Total emissions,732,514,658,761
+
+=== Table 3 (page 38) ===
+,Scope 1 and 2 emissions for each country of operation are shown in the table below:,,,,
+,,,FY2025,,
+Emissions (tonnes CO2-e),Australia,New Zealand,Philippines,United States,Total
+Scope 1 emissions,,,,,
+Refrigerants1,13,—,—,—,13
+Total Scope 1 emissions,13,—,—,—,13
+Scope 2 emissions,,,,,
+Electricity – Location-based approach,407,7,136 2,76,626
+Total emissions,420,7,136,76,639
+Electricity – Market-based approach 2,501,8,136,74,719
+Total emissions,514,8,136,74,732
+
+=== Table 4 (page 39) ===
+Scope 3 Greenhouse Gas Emissions,Emission reduction activities,"Procurement: In FY2025, we updated"
+,,our procurement policy to more clearly
+Our Scope 3 emissions comprise indirect,Scope 1,
+,,incorporate environmental and social
+"emissions from our suppliers, such",Scope 1 emissions have significantly,
+,,"considerations, prioritising suppliers that"
+"as professional services (accounting,","reduced since FY2024, with the phase out",
+,,demonstrate a positive social impact and
+"legal), mail house, air travel and waste",of the Radio Rentals fleet. Our remaining,
+,,"environmentally sustainable practices,"
+"management providers, and account",emissions for Scope 1 are small and are,
+,,where their offerings are otherwise
+for a significant proportion of our,limited to those Kyoto-listed refrigerant,
+,,competitive and meet our needs.
+total footprint.,"gases in our operational control, as",
+,mentioned on page 36. Other equipment,Data centres: Our two data centres
+We continue to review Scope 3 emissions,,
+,"within our operational control, such as",in Sydney each have a power usage
+for our internal reference and in,,
+,"fire extinguishers in our Philippines office,",effectiveness (PUE)1 rating of 1.45 and
+readiness for alignment with the AASB S2,,
+,contain gases with low global warming,"1.64, while our Brisbane data centre has a"
+requirement to report Scope 3 emissions,,
+,potential which are not required to be,PUE of 1.3. Our data centre in Utah has a
+in FY2027. Measurement is conducted,,
+,"reported. As a result, further Scope 1","PUE rating of 1.45, while our Denver data"
+in line with the GHG Protocol Corporate,,
+,reduction opportunities are limited at,centre has a PUE of 1.5.
+"Value Chain (Scope 3) Standard 2011,",,
+,this time.,
+based on financial spend in various service,,
+,,Travel: Our travel policy includes limiting
+"categories, along with modelled data",Scope 2,
+,,the use of business class air travel
+"for aspects such as working from home,",,
+,We continue to implement energy-saving,(which has a larger carbon footprint
+"business travel, staff commuting, waste",,
+,initiatives in some of our Australian,than economy travel) and encouraging
+and recycling using emissions factors,,
+,"offices, with timers on air conditioning",the use of web conferencing wherever
+and models from government sources,,
+,"units, TVs and main display screens and",practical. Our continued hybrid working
+as required.,,
+,LED / T5 lighting with proximity sensors,"arrangements, with most Australian teams"
+,in offices to minimise energy use. Our,working from home two to three days per
+Reporting methodology,,
+,Sydney head office is in a building with a,week (varying between department and
+for CO2e emissions,,
+,5.5-star NABERS energy rating and 4-star,location) also reduce greenhouse gas
+We use the World Business Council for,,
+,NABERS water rating.,emissions from staff commuting as well as
+Sustainable Development GHG Protocol,,
+,,resource consumption within the office.
+Corporate Standard 2004 to guide our,"In FY2026, we will commence trialling",
+reporting of carbon dioxide equivalent,daylight harvesting in our Salt Lake City,Waste: Our Sydney head office building
+(CO2e) emissions.,"office in the US, with sensor lights which",continues to provide best-practice
+,automatically dim when there is adequate,"recycling for food organics, paper and"
+"Where we have operational control, we",,
+,"daylight, thereby reducing energy use.","cardboard, toner cartridges, disposable"
+include emissions from energy use as,,
+,,coffee cups and commingled items.
+well as fugitive emissions from on-site,"To further reduce our Scope 2 emissions,",
+"refrigerators, vending machines and air",we will support renewable energy,"To reduce paper use, our offices have"
+conditioning units.,by purchasing GreenPower for most,"printers set to double-sided printing, and"
+,Australian offices in FY2026.,a security code needs to be entered at the
+"All seven greenhouse gases, carbon",,
+,,"printer to release the print job, reducing"
+"dioxide (CO2), methane (CH4), nitrous",Scope 3,
+,,paper use and improving security.
+"oxide (N2), hydrofluorocarbons (HFCs),",We continue to seek opportunities to,
+"perfluorocarbons (PFCs), sulphur",reduce indirect carbon emissions through,"Our computers, phones and network"
+hexafluoride (SF6) and nitrogen trifluoride,"our supply chain, especially through our","equipment are collected to be recycled,"
+(NF3) are reported as CO2e (carbon,"procurement and travel policies, choice",repurposed or destroyed either by ShredX
+"dioxide equivalents), with international","of off-site data centres, and our waste",in Australia or through tenanted building
+and local emissions factors from,reduction and recycling initiatives.,e-waste recycling programs.
+government sources used as required.,,

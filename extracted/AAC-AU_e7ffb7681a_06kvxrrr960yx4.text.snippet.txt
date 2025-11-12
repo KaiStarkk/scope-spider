@@ -1,0 +1,159 @@
+=== Page 45 ===
+AACo completed a lifecycle assessment 
+of its GHG emissions footprint, or product carbon footprint (PCF), for both liveweight turnoff and post-processing boxed beef. Adjustments to previous year’s PCF have been made to reflect changes to the feedlot enteric methane measurement methodology and values.
+• AACo’s liveweight turnoff PCF was 
+11.2kg CO
+2-e/kg liveweight turnoff 
+after feedlot in FY25. This remained 
+steady compared to the previous year’s adjusted liveweight turnoff PCF. Reductions driven by the improved herd performance associated with good seasonal conditions and improved production processes, were offset by an increase in cull beef sales, which have a higher emissions per kilograms of beef output. AACo’s liveweight turnoff PCF remains below the national average.• AACo’s boxed beef PCF was 23.0kg 
+CO
+2-e/kg beef produced after primary 
+processing in FY25. This represents a 2% decrease on the previous year’s adjusted boxed beef turnoff. As with the liveweight results, this was primarily driven by improved herd performance offset by increased cull beef sales. Boxed beef PCF results do not include some classes of cattle that are included in the liveweight results and are not directly comparable.
+This year’s results provide further data and insights into AACo’s emissions profile, helping us to build on existing efforts to improve the efficiency of our herd while providing insights into new possibilities for future efforts to reduce our climate impact across our operations. 
+GHG Emissions (tonnes CO
+2-e)
+Item FY23 FY24 FY25
+Scope 1 – livestock and farming -related emissions 587,827 619,497 637,328
+Scope 1 – energy emissions 29,068 19,211 22,290
+Scope 2 – electricity emissions 3,108 2,609 2,806
+Scope 3 NPR 158,085 159,949
+Total – Scope 1, 2 and 3 NPR 799,402 822,373
+Product Carbon Footprint
+GHG Emissions Footprint: Scope 1, 2 
+and 3 (Kg CO
+2-e/kg liveweight turnoff) – 11.2 11.2
+GHG Emissions Footprint: Scope 1, 2 and 3 (Kg CO
+2-e/kg boxed beef) – 23.5 23.0
+NPR – Not previously reported.GHG emissions inventory
+We continue to prepare for expanded climate -related reporting, with an 
+aspiration for our metrics and disclosures to exceed the minimum requirements under the Australian Sustainability Reporting Standards’ mandatory AASB S2: Climate-related Disclosures . 
+Our emissions accounting and analysis program informs a more evolved understanding of the interaction between our actions and their impacts on climate. 
+Improvements to emissions calculation 
+methodologies and the science underpinning them has led to adjustments to the previous year’s emissions profile which are noted below. Further details regarding the adjustments and the GHG emissions profiling methodology used, are detailed in the Sustainability Information section of this report.
+In FY25, AACo emitted 662,424 tCO
+2-e 
+of Scope 1 and 2 emissions, a 3.3% increase 
+compared to the adjusted FY24 figures. This was primarily due to an increase in weight gain of livestock and increase in fuel-related emissions. Enteric methane 
+represents our largest source of GHG emissions at 88% of Scope 1 and 2 emissions, proportionally remaining steady compared to FY24. A 17% increase in our feedlot population resulted in higher emissions from this part of our operations but also contributed to a proportional increase in the amount of liveweight kilograms produced, reducing our overall emissions footprint.
+AACo’s Scope 3 emissions for FY25 were 
+159,949 tCO
+2-e, representing 19% of our 
+overall emissions, with the most significant source being purchased goods and services such as feedlot inputs. Downstream transportation of boxed beef via air and sea freight to our global markets, meat processing, agistment and upstream freight were other significant sources of Scope 3 emissions. Nature & Climate Highlights 
+(continued)Annual Report 2025Australian Agricultural Company Limited42For personal use only
+
+=== Page 141 ===
+Sustainability Information (continued)
+Item FY23 FY24 FY25
+Herd Size (Number of Head) 432,926 453,968 455,852
+GHG Emissions (tonnes CO2-e)(1)
+Scope 1 and 2
+Enteric Methane 500,197 568,617(2)584,787
+Manure and urine (methane and nitrous oxide) 84,131 44,291(2)46,137
+Atmosphere deposition 1,746 4,034 4,157
+Other land and livestock 1,753 2,555(2)2,247
+Sub-total: Scope 1 – land and livestock 587,827 619,497(2) 637,328^
+Diesel 12,310 12,965(2)15,508
+Other fuels 16,759 6,246(2) 6,782
+Sub-total: Scope 1 – energy 29,069 19,211(2)22,290^
+Sub-total: Scope 2 – electricity (location based) 3,108 2,609(2)2,806^
+Total: Scope 1 and 2 620,004 641,317(2)662,424
+Scope 3Purchase goods and services – 56,635
+(2) 88,051
+Downstream transportation and distribution – 38,472(2)41,445
+Capital goods – 30,904(2) 5,067
+Processing of sold products – 15,215(2)17,690
+Other assessed sources – 16,859(2) 7,696
+Total: Scope 3 – 158,085(2)159,949^
+Total: Scope 1, 2 and 3 620,004 799,402(2)822,373
+Product Carbon FootprintGHG Emissions Footprint: Scope 1, 2 and 3 (Kg CO
+2-e/kg liveweight turnoff) – 11.2(2)11.2
+GHG Emissions Footprint: Scope 1, 2 and 3 (Kg CO 2-e/kg boxed beef) – 23.5(2)23.0
+Energy ManagementTotal energy consumption (fuel + electricity) NPR 336,837 Gj
+(3) 350,564 Gj^
+Fuel consumption NPR 323,980 Gj(3)336,593 Gj^
+Electricity consumption from the grid NPR 12,857 Gj 13,971 Gj^
+Annual renewable energy generation to the grid NPR 16 MWh 7 MWh^
+Carbon ProjectsACCUs generated in the reporting year 191,036 155,502
+(4) 146,260
+Natural AssetsHectare of Ecosystem in Tier 1 (Highest value) NPR 1,266,870 ha 1,285,424 ha
+Hectare of Ecosystem in Tier 2 (Moderate value) NPR 4,423,723 ha 4,390,311 ha
+Hectare of Ecosystem in Tier 3 (Lowest value) NPR 761,044 ha 756,864 ha
+Other ecosystems NPR 70,618 ha 68,108 ha
+Primary woodland or primary forest cleared for grazing purposes 0 ha 0 ha 0 ha
+Animal WelfareAACo properties compliant with LPA NPR 100% 92%^
+,(5)
+AACo feedlots compliant with NFAS NPR 100% 100%^
+Third-party processing facilities compliant with AAWCS NPR 100% 100%^
+Corrective actions taken for non-compliance with LPA & NFAS NPR None required 1^,(6)
+Food SafetyNumber of recalls issued for food safety reasons 0 0 0^
+,(7)
+Volume of products recalled for food safety reasons 0 kgs 0 kgs 0 kgs^,(7)
+Third-party processing facilities certified to a GFSI certification program NPR 100% 67%^,(8)
+Number of market bans in the reporting year 0 0 0^
+Corrective actions taken for non-compliance(9)None required None required None required^Sustainability Metrics (continued)138Annual Report 2025Australian Agricultural Company LimitedFor personal use only
+
+=== Page 142 ===
+Sustainability Information (continued)
+Item FY23 FY24 FY25
+Safety Management
+Fatalities 0 0 0^
+Total recordable injury frequency rate (TRIFR) NPR 18% Increase(10)7% Increase(11)
+EmploymentFTE employees NPR 466 454^
+Number of employees by female/male
+NPRF: 202
+M: 264F: 200^
+M: 254^
+Female representation in leadership – Board 22%
+(12)22%(12)22%^
+Female representation in leadership – People leaders 32% 34% 36%^
+Female representation in leadership – Executive Leadership Team 36% 38% 43%^
+Female representation in leadership – Executive and Senior Leadership Team NPR 50% 53%^
+Number of new appointments 273 254 250^
+Number of internal promotions/appointments 28 45 60
+Turnover rate(13) 48% 49% 42%^
+^ Limited assurance provided by KPMG – refer to KPMG’s Independent Limited Assurance Report included in this report and the prior year 
+Sustainability Report for further details. 
+(1) FY23 GHG emissions values calculated using the Primary Industries Climate Challenges Centre (PICCC) and University of Melbourne’s 
+Greenhouse Accounting Framework (GAF) for Australian Beef production and feedlots. FY24 and FY25 GHG emissions values calculated using overarching guidelines: GHG Protocol Agricultural Guidance, GHG Protocol Corporate Accounting Reporting Standard, GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard, the National GHG Inventory and the National Greenhouse Accounts Factors. FY24 and FY25 product carbon footprint was determined following the methods outlined in the ISO Standard 14067:2018.
+(2) Restated FY24 metric in line with updated science and emissions calculation standards to ensure consistency in comparison between FY24 and FY25.
+(3) Restated FY24 metric following the identification of inaccuracies subsequent to release of the FY24 report in natural gas usage. This resulted in a 31% decline for the previously reported fuel consumption and a 30% decline in previously reported total energy consumption by the Company.
+(4) Restated FY24 metric following the updated calculator becoming available. In prior year, an estimate of ACCUs generated under the fourth year of the Beef Cattle Management Herd Project was required, due to Clean Energy Regulator calculator remaining unavailable. During FY25, a true-up of 27,602 units was recognised to align with the result through the updated Clean Energy Regulator calculator for the FY24 period.
+(5) In FY25, 23 of the 25 livestock carrying properties underwent LPA audits. Two properties did not receive LPA quality assurance certification covering FY25. While annual LPA audits are not mandated by regulation and are generally conducted on a random basis, AACo aims to have all properties audited annually by qualified AUS-MEAT auditors. However, the timing of audits is influenced by auditor availability, particularly given the remote locations of our operations. Audits for the remaining two properties are scheduled for FY26.
+(6) A single corrective action request was issued by LPA auditors in relation to one property, concerning a minor administrative oversight involving the transfer of cattle intake data between livestock system databases. The issue has been resolved by the Company and subsequently verified by the auditor. 
+(7) A limited quantity of a trial product (1,872kg) outside of AACo’s main beef portfolio, was voluntarily withdrawn following the identification of foreign matter within the packaging of a small number of units. An investigation found that contamination incidences were low (<0.22% of the withdrawn product).
+(8) Two of the six third-party processors were not certified under a GFSI-recognised program. For one of these processors, the Company commissioned an independent third-party assessment based on HACCP principles and the FSANZ Food Standards Code (Chapters 3 & 4), which the processor successfully passed. The other processor holds all legally required food safety certifications, including accreditation from Safe Food Queensland. This metric reflects certification status only and does not indicate non-compliance with GFSI standards.
+(9) Food safety corrective actions related to the commercial sale of AACo products.
+(10) Restated FY24 metric following the identification of inaccuracies subsequent to release of the FY24 report.
+(11) KPMG provided limited assurance over the FY25 TRIFR value (85.4) as noted in the Health, Safety & Welfare section of this report that underpins this percentage, and not the percentage itself. Assurance was not undertaken on the FY24 TRIFR value and percentage.
+(12) Restated FY23 & FY24 figures to include the Managing Director and CEO.
+(13) The pastoral industry is one which relies heavily on a transient workforce. AACo employs a significant number of young people who come to our team for short term employment periods. 
+NPR – Not previously reported.Sustainability Metrics (continued)139Sustainability InformationFor personal use only
+
+=== Page 143 ===
+Sustainability Information (continued)
+GHG Emissions Profiling Methodology
+We engaged agricultural and environmental consultancy, Integrity Ag, to support us with calculating AACo’s GHG emissions profile.  
+The calculations utilise industry leading intellectual property that is relevant to AACo’s operational context and provides us with additional confidence for more robust disclosure of our Scope 1, 2 and 3 GHG emissions, which have been included within the scope of our limited independent external assurance assessment. The below details form the basis of preparation of AACo’s GHG emissions calculations, with the outcomes detailed in the GHG Emissions Inventory section on of this report, and in the metrics presented in the Sustainability Metrics table.
+GHG Accounting Standards
+The GHG account is prepared using the following precedent documents:
+1.  Au
+stralian National Greenhouse Gas (GHG) Inventory – referenced here as the National Inventory Reports (NIRs), for methods to 
+determine agricultural emission sources, and some model input data.
+2.  Au
+stralia’s National Greenhouse Accounts Factors (NGAF) for applicable Scope 1 and 2 emission factors and/or calculation methods.
+3.  GHG P
+rotocol Agricultural Guidance (WRI & WBCSD 2011) and GHG Protocol Scope 3 (WRI & WBCSD 2022) agricultural and  
+Scope 3 carbon account guidance.
+These precedent documents are consistent with the recommendations of the ASRS where National Greenhouse and Energy Reporting 
+(NGER) methods are not practicable, which is the case for livestock-related emissions. 
+The principles followed, as described by the GHG Protocol, are as follows:
+• Relevance  – Ensure the GHG inventory appropriately reflects the GHG emissions of the company and serves the decision-making needs 
+of users – both internal and external to the company.
+• Completeness  – All attributable and accountable emission sources included. Non-attributable and non-reported emissions are described. 
+A 1% materiality threshold was accepted (and not more than 5% in aggregate).
+• Consistency  – Methods have remained consistent to previous accounts unless scientific changes have occurred in the previous reporting 
+period. Calculation method or emission boundary changes have been based on new science and documented. Adjustments have been made 
+to previous accounts where appropriate or differences have been quantified if possible. This has been documented.
+• Transparency  – Clear disclosure and documentation has been maintained. Non-attributable and non-reported sources have been 
+documented and justified.
+• Accuracy  – Input data is verifiable. Calculations are verifiable. Uncertainty has been noted where this can be quantified.140Annual Report 2025Australian Agricultural Company LimitedFor personal use only

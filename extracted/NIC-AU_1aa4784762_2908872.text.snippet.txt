@@ -1,0 +1,150 @@
+=== Page 7 ===
+Environmental Stewardship Highlights
+  Environmental Performance
+2024
+20242024 2024 2023
+20232023 2023 2022
+20222022 20226,644,501
+35653,809 6,633,819
+2565
+3,528
+3,584,263
+2064
+2,941Green House Gas (GHG) 
+Emissions (Scope 1 & 2)
+Rehabilitated Land Area at 
+Hengjaya MineEmissions Intensity per 
+Generated RevenueEmissions Intensity
+Tonnes CO2eq
+HatCO2e/ USD tCO2e/tonnes of NiEnvironmental Performance
+Rehabilitated Land Area at Hengjaya Mine
+Total Rehabilitated Area Since 2019 (Ha): 2,057
+Total Trees Planted Since 2019 (Ha): 2,258,500
+Social Responsibility Highlights
+2024 Safety Performance
+• LTIFR: 0.11, with 2 lost time injuries (LTI) recorded across 17.4 
+million work hours.
+• TRIFR: 1.43, with 3 medical treatment injuries and 22 first aid 
+injuries.
+• Hengjaya Mine Achievement: Over 18.2 million work hours 
+without a lost time injury since November 2021.
+5
+Sustainability Report 2024 • Nickel Industries      About the Company Sustainability at Nickel Industries Sustainability Performance
+
+=== Page 41 ===
+To mitigate the risks above, some measures are taken as detailed below:
+Metrics and Targets
+Nickel Industries acknowledges its responsibility to support the 
+global transition to a low-carbon economy while mitigating climate 
+risks across its operations. The Company is committed to a 50% 
+reduction in carbon intensity by 2035 and achieving net-zero 
+emissions by 2050, using 2022 as a baseline. While early-stage 
+initiatives have been implemented, the full impact on absolute and intensity metrics reduction is expected to materialise from 2025 
+onward. The expected commissioning of the ENC HPAL project in 
+the second half of 2025 is expected to deliver material reductions 
+in carbon emissions intensity, which remains a focus area for 
+execution and monitoring.a. Physical Risk Management Measures:
+• Monitoring acute and chronic climate 
+risks through annual data collection.
+• Developing and implementing water 
+management plans.
+• Enhancing water recycling to reduce 
+losses from waste, leakage, and 
+evaporation.
+• Establishing contingency plans for 
+extreme climate events.b. Transition Risk Management Measures:
+• Continuing the 'Future Energy' collaboration to accelerate renewable energy 
+adoption.
+• Proactively integrating green practices in anticipation of carbon taxation.
+• Developing and utilising low-carbon technologies for processing nickel ores.
+• Strengthening its reputation as a responsible nickel producer to foster investor 
+and public trust.
+• Expanding its market presence in high-grade nickel to position itself as a leader 
+in sustainable mining and EV battery supply chains.
+• Monitoring Indonesian and global climate policies to remain adaptive and 
+explore strategic collaborations.
+Emissions [305-1, 305-2, 305-3, 305-4, 14.1.5, 14.1.6, 14.1.7, 14.1.8, 14.1.9] [EM-MM-110a.1, EM-MM-120a.1]
+Nickel Industries calculates its GHG emissions in accordance with 
+ISO 14064-1:2018 and the Greenhouse Gas Protocol Standard, 
+covering operations at Hengjaya Mine and its RKEF facilities: 
+Hengjaya Nickel, Ranger Nickel, Angel Nickel, and Oracle Nickel.
+In 2024, Oracle Nickel transitioned from using recycled furnace 
+gas to coke oven gas sourced from IMIP coking plants to enhance 
+resource efficiency. Distributed via a 3-kilometre pipeline, this 
+cleaner fuel replaces approximately 800 tonnes of coal per day, 
+reducing coal consumption per 1% nickel produced from 0.108 
+tonnes to 0.051 tonnes monthly. In line with its energy transition strategy, Nickel Industries 
+introduced eight electric loaders at Hengjaya Nickel and Ranger 
+Nickel in early 2024, replacing diesel-powered units. Electric 
+loaders, consuming 73% less energy, significantly reduce fuel 
+costs and emissions. Compared to diesel loaders, which require 
+12.6 litres of biodiesel per hour, electric loaders operate at 34.62 
+kWh per hour, cutting operational energy demand and lowering the 
+environmental footprint.
+GHG Emissions  [305-1, 305-2, 305-4, 14.1.5, 14.1.6, 14.1.8] [EM-MM-110a.1]
+GHG Emissions Unit 2024 2023 2022
+Scope 1 - Direct Emissions Category 
+Stationary fuel combustion
+(tCO2e)3,003,366 3,253,113 1,788,264
+Mobile fuel combustion 17,985 20,842 22,892
+Carbon fraction in the NPI -87,166 -80,386 -41,076
+Total Scope 1 2,934,253 3,193,569 1,770,086
+Scope 2 - Indirect Electricity Emissions Category
+Total Scope 2  (tCO2e) 3,710,248 3,440,250 1,814,177
+Total Emissions (tCO2e) 6.644.501 6,633,819 3,584,263
+Emissions intensity tCO2e /tonnes of Ni 65 65 64
+39
+Sustainability Report 2024 • Nickel Industries      About the Company Sustainability at Nickel Industries Sustainability Performance
+
+=== Page 74 ===
+GRI Standard Disclosure LocationGRI Sector 
+Standard
+GRI 305: Emissions 2016305-1 Direct (Scope 1) GHG emissions 39 14.1.5
+305-2 Indirect (Scope 2) GHG emissions 39 14.1.6
+305-3 Other indirect (Scope 3) GHG emissions 39 14.1.7
+305-4 GHG emissions intensity 39 14.1.8
+GRI 306: Waste 2020306-1 Waste generation and significant waste-related impacts 44
+306-2 Management of significant waste-related impacts 44
+306-3 Waste generated 44,45
+306-4 Waste diverted from disposal 44
+306-5 Waste directed to disposal 44
+GRI 401: Employment 2016 401-2Benefits provided to full-time employees that are not provided 
+to temporary or part-time employees28 14.17.4
+GRI 404: Training and Education 
+2016404-2 Programs for upgrading employee skills and transition 
+assistance programs48
+GRI 405: Diversity and Equal 
+Opportunity 2016405-1 Diversity of governance bodies and employees 48
+405-2 Ratio of basic salary and remuneration of women to men 48
+GRI 406: Non-discrimination 2016 406-1 Incidents of discrimination and corrective actions taken 24 14.21.7
+GRI 407: Freedom of Association 
+and Collective Bargaining 2016407-1Right to freedom of association and collective bargaining risks 
+at operations and suppliers24 14.20.2
+GRI 408: Child Labor 2016 408-1Operations and suppliers at significant risk for incidents of 
+child24
+GRI 409: Forced or Compulsory 
+Labor 2016409-1 Forced or compulsory labour risks at operations and suppliers 24
+GRI 411: Rights of Indigenous 
+Peoples 2016411-1 Incidents of violations involving rights of indigenous peoples 24 14.11.2
+GRI 413: Local Communities 2016413-1Operations with local community engagement, impact
+assessments, and development programs56
+413-2Operations with significant actual and potential negative 
+impacts on local communities62
+72
+    Nickel Industries • Sustainability Report 2024About the Company Sustainability at Nickel Industries Sustainability Performance
+
+=== Page 75 ===
+SASB: Metals and Mining
+Topic Description Page
+Greenhouse Gas Emissions EM-MM-110a.1Gross global Scope 1 emissions, percentage covered under emissions-limiting 
+regulations39
+Air Quality EM-MM-120a.1Air emissions of the following pollutants: (1) CO, (2) NOx (excluding N2O), (3) SOx, 
+(4) particulate matter (PM10), (5) mercury (Hg), (6) lead (Pb), and (7) volatile organic 
+compounds (VOCs)39
+Energy Management EM-MM-130a.1 (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable 40
+Biodiversity Impacts EM-MM-160a.1 Description of environmental management policies and practices for active sites 63
+Workforce Health & Safety EM-MM-320a.1(1) MSHA all-incidence rate, (2) fatality rate, (3) near miss frequency rate (NMFR) and 
+(4) average hours of health, safety, and emergency response training for (a) full-time 
+employees and (b) contract employees49
+73
+Sustainability Report 2024 • Nickel Industries      About the Company Sustainability at Nickel Industries Sustainability Performance

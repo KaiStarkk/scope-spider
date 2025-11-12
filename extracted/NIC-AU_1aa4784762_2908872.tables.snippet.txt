@@ -1,0 +1,119 @@
+=== Table 1 (page 7) ===
+,,"Sustainability Performance
+Sustainability at Nickel Industries",About the Company
+,Environmental Stewardship Highlights,,
+Environmental Performance,,,
+Environmental Performance,,,
+Green House Gas (GHG),,Emissions Intensity per,
+,,Emissions Intensity,
+Emissions (Scope 1 & 2),,Generated Revenue,
+Tonnes CO2eq,,"tCO2e/tonnes of Ni
+tCO2e/ USD",
+"6,644,501",65,65,
+,,64,
+"6,633,819",,"3,809",
+,,"3,528",
+,,,"2,941"
+"3,584,263",,,
+"2024
+2023
+2022",2024,"2023
+2022
+2024
+2023",2022
+Rehabilitated Land Area at Hengjaya Mine,,,
+Rehabilitated Land Area at,,,
+Hengjaya Mine,,,
+,,,
+Ha,,"Total Rehabilitated Area Since 2019 (Ha):
+2,057",
+35,,,
+25,,,
+,,,
+20,,"Total Trees Planted Since 2019 (Ha):
+2,258,500",
+"2024
+2023
+2022",,,
+Social Responsibility Highlights,,,
+2024 Safety Performance,,,
+,"•  LTIFR: 0.11, with 2 lost time injuries (LTI) recorded across 17.4",,
+million work hours.,,,
+,"•  TRIFR: 1.43, with 3 medical treatment injuries and 22 first aid",,
+injuries.,,,
+,•  Hengjaya Mine Achievement: Over 18.2 million work hours,,
+without a lost time injury since November 2021.,,,
+,,Sustainability Report 2024 • Nickel Industries,5
+
+=== Table 2 (page 41) ===
+tonnes to 0.051 tonnes monthly.,,,,
+"GHG Emissions [305-1, 305-2, 305-4, 14.1.5, 14.1.6, 14.1.8] [EM-MM-110a.1]",,,,
+GHG Emissions,Unit,2024,2023,2022
+Scope 1 - Direct Emissions Category,,,,
+Stationary fuel combustion,,"3,003,366","3,253,113","1,788,264"
+Mobile fuel combustion,,"17,985","20,842","22,892"
+,(tCO2e),,,
+Carbon fraction in the NPI,,"-87,166","-80,386","-41,076"
+Total Scope 1,,"2,934,253","3,193,569","1,770,086"
+Scope 2 - Indirect Electricity Emissions Category,,,,
+Total Scope 2,(tCO2e),"3,710,248","3,440,250","1,814,177"
+Total Emissions,(tCO2e),6.644.501,"6,633,819","3,584,263"
+Emissions intensity,tCO2e /tonnes of Ni,65,65,64
+
+=== Table 3 (page 74) ===
+,,,,GRI Sector
+GRI Standard,,Disclosure,Location,
+,,,,Standard
+,305-1,Direct (Scope 1) GHG emissions,39,14.1.5
+,305-2,Indirect (Scope 2) GHG emissions,39,14.1.6
+GRI 305: Emissions 2016,,,,
+,305-3,Other indirect (Scope 3) GHG emissions,39,14.1.7
+,305-4,GHG emissions intensity,39,14.1.8
+,306-1,Waste generation and significant waste-related impacts,44,
+,306-2,Management of significant waste-related impacts,44,
+GRI 306: Waste 2020,306-3,Waste generated,"44,45",
+,306-4,Waste diverted from disposal,44,
+,306-5,Waste directed to disposal,44,
+,,Benefits provided to full-time employees that are not provided,,
+GRI 401: Employment 2016,401-2,,28,14.17.4
+,,to temporary or part-time employees,,
+GRI 404: Training and Education,,Programs for upgrading employee skills and transition,,
+,404-2,,48,
+2016,,assistance programs,,
+GRI 405: Diversity and Equal,405-1,Diversity of governance bodies and employees,48,
+Opportunity 2016,405-2,Ratio of basic salary and remuneration of women to men,48,
+GRI 406: Non-discrimination 2016,406-1,Incidents of discrimination and corrective actions taken,24,14.21.7
+GRI 407: Freedom of Association,,Right to freedom of association and collective bargaining risks,,
+,407-1,,24,14.20.2
+and Collective Bargaining 2016,,at operations and suppliers,,
+,,Operations and suppliers at significant risk for incidents of,,
+GRI 408: Child Labor 2016,408-1,,24,
+,,child,,
+GRI 409: Forced or Compulsory,,,,
+,409-1,Forced or compulsory labour risks at operations and suppliers,24,
+Labor 2016,,,,
+GRI 411: Rights of Indigenous,,,,
+,411-1,Incidents of violations involving rights of indigenous peoples,24,14.11.2
+Peoples 2016,,,,
+,,"Operations with local community engagement, impact",,
+,413-1,,56,
+,,"assessments, and development programs",,
+GRI 413: Local Communities 2016,,,,
+,,Operations with significant actual and potential negative,,
+,413-2,,62,
+,,impacts on local communities,,
+
+=== Table 4 (page 75) ===
+SASB: Metals and Mining,,,
+Topic,,Description,Page
+,,"Gross global Scope 1 emissions, percentage covered under emissions-limiting",
+Greenhouse Gas Emissions,EM-MM-110a.1,,39
+,,regulations,
+,,"Air emissions of the following pollutants: (1) CO, (2) NOx (excluding N2O), (3) SOx,",
+Air Quality,EM-MM-120a.1,"(4) particulate matter (PM10), (5) mercury (Hg), (6) lead (Pb), and (7) volatile organic",39
+,,compounds (VOCs),
+Energy Management,EM-MM-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",40
+Biodiversity Impacts,EM-MM-160a.1,Description of environmental management policies and practices for active sites,63
+,,"(1) MSHA all-incidence rate, (2) fatality rate, (3) near miss frequency rate (NMFR) and",
+Workforce Health & Safety,EM-MM-320a.1,"(4) average hours of health, safety, and emergency response training for (a) full-time",49
+,,employees and (b) contract employees,

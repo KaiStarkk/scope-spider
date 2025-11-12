@@ -1,0 +1,313 @@
+=== Table 1 (page 58) ===
+"areas already underway, as well as actions which form part of our future business planning and decision-making.",
+Focus area,Actions
+Emissions,•  Development of an annual emissions baseline and an emissions projection
+reduction strategy,to understand the gap to net zero 2050.
+,•  Mapping of opportunities for emission reduction projects.
+,•  Development of emissions reduction strategy.
+,•  Ongoing review of Endeavour’s renewable energy procurement strategy.
+,"• 
+Finalise initial Scope 3 baseline footprint."
+
+=== Table 2 (page 59) ===
+Metrics and Targets,,
+"In our Sustainability Strategy, we committed",,
+,,Sourcing renewable energy
+to the following Planet targets:,,
+,,"Our Cape Mentelle (Margaret River region, WA) and"
+•,"By 2030, sourcing 100% renewable electricity",
+,,"Isabel Estate 1 (Marlborough region, NZ) sites sourced"
+,to power our business; and,
+,,100% renewable electricity for power usage.
+•,"By 2050, Endeavour Group will have net zero",
+,emissions (Scope 1 and 2 only).,
+,,Smart control systems
+As our operations and supply chains are complex and,,
+,,"175 of our retail sites feature smart control systems,"
+"geographically diverse, the collection and validation",,
+,,which allow our teams to centrally manage light and air
+of our emissions data has proven challenging to date.,,
+,,conditioning settings and automate soft fridge covers.
+"This, in turn, has impacted our ability to accurately",,
+track and report progress against targets.,,
+,,Refrigeration
+"In F25, we prioritised two major streams of work:",,
+,,As refrigeration remains a large component of our
+1.  Governance uplift: working to improve the,,
+,,"energy usage, we review new technologies to reduce"
+,"completeness and accuracy of our emissions data,",
+,,"impact wherever possible. In new sites, we are installing"
+,"as well as improving the governance, controls",
+,,"energy efficient transcritical refrigeration systems,"
+,and process of data collection in order to meet,
+,,which use CO2 instead of synthetic refrigeration gases
+,and assure against the incoming Australian,
+,,"and are considered lower-emissions options. In F25, we"
+,"Sustainability Reporting Standards. In F25, our",
+,,"installed seven new transcritical systems in retail sites,"
+,"total energy consumed was 1,992,026 GJ,and our",
+,,"including Bacchus Marsh, Heathcote and Middle Park."
+,"total Scope 1 and 2 emissions contributed 356,599",
+,tonnes of carbon dioxide equivalent (tCO₂e). For,
+,"more information and context, see Appendix page",Electronic Shelf Labelling
+,"65, and page 29 of the 2025 Endeavour Group",
+,Annual Report.,Electronic Shelf Labelling (ESL) has replaced paper
+,,"ticketing in all 282 Dan Murphy’s stores nationally, saving"
+2.  Development of preliminary roadmaps:,,
+,,an estimated eight million sheets annually. Powered
+,timelines and targets to reduce Scope 1 and 2,
+,,"by energy efficient, long lasting battery systems, ESLs"
+,emissions to net zero.,
+,,provide a better customer experience with improved
+,,pricing accuracy. LED ‘light up’ functionality supports
+We have also continued to implement a range of,,
+,,locating products using the ‘Ask Uncle Dan’ app.
+"initiatives to reduce emissions and drive efficiencies,",,
+
+=== Table 3 (page 60) ===
+Scope 3 emissions
+"Quantifying indirect (Scope 3) emissions across our value chain remains a complex task, given the number of"
+contributing sources and the variability of available data. Scope 3 emissions include all indirect greenhouse gas
+"emissions that occur across Endeavour’s value chain, excluding those from owned or directly controlled sources."
+Since F23 we have progressively continued to develop an indicative inventory of Scope 3 emissions using the
+GHG Protocol in preparation for future reporting requirements.
+"By analysing available data and assessing our ability to influence outcomes in each area, we identified six material"
+"categories for calculation and future disclosure. In F26, we plan to disclose our baseline Scope 3 inventory and"
+targets based off F25 data.
+
+=== Table 4 (page 60) ===
+"categories for calculation and future disclosure. In F26, we plan to disclose our baseline Scope 3 inventory and",,,
+targets based off F25 data.,,,
+Scope 3,Calculation,Total Emissions 1,Emissions
+Emissions Profile,Method,tCO2e,profile %
+Category 1,Spend based,"2,850,312",92%
+Purchased Goods and Services,,,
+Category 2,Spend based,"110,715",4%
+Capital Goods,,,
+Category 3,Activity based,"44,899",1%
+Fuel and Energy-related activities,,,
+(not included in Scope 1 or Scope 2),,,
+Category 4,Spend based,"17,467",1%
+Upstream transportation and distribution,,,
+Category 5,Activity based,"36,852",1%
+Waste generated in operations,,,
+Category 9,Spend based,"21,788",1%
+Downstream transportation and distribution,,,
+
+=== Table 5 (page 60) ===
+Electronic Vehicle (EV) charging
+"In F25, we completed installation of our"
+Electronic Vehicle (EV) charging station at
+Gepps Cross Hotel in Adelaide. This site
+takes the number of EV charging stations
+"across our network to eleven, delivering a"
+reliable and fast charging experience for our
+customers while they dine or shop with us.
+Two further installations are planned for
+F26 as we continue to trial initiatives to
+help reduce our Scope 3 emissions.
+
+=== Table 6 (page 65) ===
+,Table 1: Selected Sustainability Metrics and Disclosures,,
+SELECTED SUSTAINABILITY METRICS AND DISCLOSURES,,,
+,,,REPORTING CRITERIA
+(SUBJECT MATTER INFORMATION),METRIC ASSURED,LOCATION,
+,,Sustainability Report,
+Team members trained in Leading in Responsibility (%),95,,
+,,"Page 9, 17, 19",
+,,Sustainability Report,
+Community investment funding ($ million),"7
+.9",,
+,,"Page 9, 17, 32",
+,,Sustainability Report,
+Total Recordable Injuries (TRI),334,,
+,,Page 45,
+,,,Endeavour’s internal
+,,Sustainability Report,
+Women represented on the Board (%),43,,sustainability policies
+,,Page 39,
+,,,"and procedures,"
+,,,informed by the
+,,Sustainability Report,
+Women represented in the Senior Leadership Group (%),43,,Global Reporting
+,,"Page 9, 37, 39",
+,,,Initiative (“GRI”) and
+,,,the Task Force on
+,,Sustainability Report,
+Total waste going to landfill (tonnes),"14,166",,Climate-Related
+,,"Page 61, 66",
+,,,Financial Disclosures
+"Reusable, recyclable or compostable content used in all",,Sustainability Report,(“TCFD”)
+,98,,
+Own Brand packaging (%) *,,"Page 9, 60",
+,,Sustainability Report,
+Recycled content across all Own Brand packaging (%) *,63,,
+,,"Page 9, 60",
+FSC 1 or PEFC 2 certified pulp and paper based,,,
+,,Sustainability Report,
+Own Brand packaging or has a minimum 60%,90,,
+,,"Page 9, 60",
+recycled content (%) *,,,
+,,Annual Report Page,National Greenhouse
+Scope 1 and 2 greenhouse gas emissions,,,
+,"356,599",29 and Sustainability,and Energy Reporting
+for Endeavour Group Limited (tCO2e),,,
+,,Report Page 56,Act 2007 (“NGER
+,,,"Act’), the National"
+
+=== Table 7 (page 68) ===
+Other information
+Management and the Directors of Endeavour are responsible for the other information. The other information comprises
+"other Sustainability information included in the Corporate Reports, but does not include the Subject Matter Information"
+and our assurance report thereon. Our limited assurance conclusion does not cover the other information and we do not
+express any form of assurance conclusion thereon.
+"In connection with our assurance engagement on the Subject Matter Information, our responsibility is to read the other"
+"information identified above and, in doing so, consider whether the other information is materially inconsistent with"
+"the Subject Matter Information or our knowledge obtained in the assurance engagement, or otherwise appears to be"
+"materially misstated. If, based on the work we have performed, we conclude there is a material misstatement of this"
+"other information, we are required to report that fact. We have nothing to report in this regard."
+Inherent Limitations
+"Because of the inherent limitations of an assurance engagement, together with the inherent limitations of any system of"
+"internal control there is an unavoidable risk that fraud, error, non-compliance with laws and regulations or misstatements"
+in the Subject Matter Information may occur and not be detected.
+Emissions quantification is subject to inherent uncertainty because incomplete scientific knowledge has been used to
+determine emissions factors and the values needed to combine emissions due to different gases. We specifically note
+that Endeavour has used estimates or extrapolated underlying information to calculate certain amounts included within
+Scope 1 and 2 greenhouse gas and energy information.
+"Additionally, non-financial data may be subject to more inherent limitations than financial data, given both its nature"
+"and the methods used for determining, calculating and sampling or estimating such data."
+Restricted use
+The Reporting Criteria used for this engagement was designed for the specific purpose of reporting on the Subject
+"Matter Information presented in the Corporate Reports, as a result, the Subject Matter Information may not be suitable"
+for another purpose.
+This report has been prepared for use by the Directors of Endeavour for the purpose of providing assurance over the
+Subject Matter Information presented in the Corporate Reports. We disclaim any assumption of responsibility for any
+reliance on this report to any person other than Directors of Endeavour or for any purpose other than that for which
+it was prepared.
+Matters relating to electronic presentation of information
+It is our understanding that Endeavour may publish a copy of our report on their website. We do not accept responsibility
+for the electronic presentation of our report on the Endeavour website. The security and controls over information on
+the website is not evaluated or addressed by the independent assurance practitioner. The examination of the controls
+over the electronic presentation of this report on Endeavour’s website is beyond the scope of this engagement.
+
+=== Table 8 (page 69) ===
+Appendix,,,
+Sustainability Metrics,,,
+Electricity Use (MWh),,,
+,,2025,
+,,ELECTRICITY,ELECTRICITY
+,,CONSUMED 1,GENERATED 2
+DIVISION,,MWh,MWh
+ALH,,"195,234","8,627"
+BWS,,"143,518","1,770"
+Dan Murphy’s,,"90,340","10,540"
+Pinnacle Drinks,,"10,781","1,435"
+"Support offices, Warehouses",,916,–
+Total,,"440,789","22,371"
+"1 
+Energy consumed is electricity sourced from the grid.",,,
+"2  All electricity produced are from solar PV systems, and was used on-site.",,,
+Total Emissions (T CO2e),,,
+,SCOPE 1 1,SCOPE 2 1,SCOPE 3 2
+DIVISION,T CO2e,T CO2e,T CO2e
+ALH,"25,888","128,318","31,939"
+BWS,"35,342","90,908","14,360"
+Dan Murphy’s,"10,442","60,339","9,027"
+Pinnacle Drinks,"1,139","2,839","1,145"
+"Support offices, Warehouses",743,639,279
+Total,"73,555","283,044","56,751"
+1  All Scope 1 and 2 emissions have been calculated in accordance with the NGER framework.,,,
+,2  Scope 3 covers emissions from Category 3 Fuel and energy-related activities and Category 5 Waste generated in operations.,,
+Waste (tonnes),,,
+,,,TONNES
+Tonnes of waste to landfill,,,"14,166"
+Tonnes of waste diverted from landfill,,,"12,045"
+Workplace Metrics,,,
+Workplace metrics,,,
+,We submit our people and workplace metrics to the Australian Gender Equality Agency in compliance with the,,
+Workplace Gender Equality Act 2021.,,,
+Freedom of association and collective bargaining,,,
+,Our team members have the right to freedom of association and we have long-standing relationships with the,,
+unions that represent our teams.,,,
+Discrimination,,,
+,"We expect our team members to treat each other, our customers and our suppliers with respect and dignity.",,
+We train our team members on these expectations through our Code of Conduct.,,,
+,"Code of conduct, whistleblowing processes, political donations and anti‑money",,
+laundering (AML) program,,,
+,"We expect our team members to treat each other, our customers and our suppliers with respect and dignity. Our",,
+,team members are expected to work in line with our Code of Conduct. Our whistleblowing process allows for our,,
+,"team, and anyone who works with us, to report issues confidentially. Our Fraud, Anti-Bribery and Corruption Policy,",,
+,"which can be found online, outlines how we manage political donations. We have a comprehensive AML/Counter",,
+,"Terrorism Financing Program in place. This program is independently reviewed biennially and regularly updated,",,
+and our team undergo extensive training to maintain their skills and knowledge.,,,
+
+=== Table 9 (page 70) ===
+Glossary,
+TERM,MEANING
+Carbon dioxide equivalent,A standard measure used to compare the emissions from various greenhouse gases
+(CO2e),based on their global warming potential.
+EBIT,Earnings Before Interest and Tax – total earnings before provisions are deducted.
+,This measures a company’s performance and is often used in preference to net profit
+,as it excludes the effects of borrowings and tax benefits and adjustments.
+Forest Stewardship Council,"FSC is an independent, not-for-profit organisation which promotes responsible"
+(FSC),management of the world’s forests. Refer to fsc.org or fscaustralia.org.au.
+MWh,A megawatt hour is a measure of electrical energy equivalent to a power
+,"consumption of 1,000 kilowatts for one hour."
+National Greenhouse and,NGER establishes a national framework for Australian corporations to report
+Energy Reporting Act 2007,"greenhouse gas emissions, reductions, removals and offsets, and energy consumption"
+(NGER),and production. Refer to climatechange.gov.au/reporting/publications.
+Scope 1 emissions,Direct greenhouse gas emissions from sources owned or controlled by the
+,"Company, such as combustion facilities (e.g. generators) and combustion of fuels"
+,in Company-owned or Company-controlled transport (e.g. cars and trucks).
+Scope 2 emissions,"Indirect greenhouse gas emissions from the generation of purchased electricity,"
+,"heat, cooling or steam. Purchased electricity is defined as electricity that is bought"
+,or otherwise brought into the organisational boundary of the entity.
+Scope 3 emissions,Other indirect greenhouse gas emissions that are a consequence of a company’s
+,"activities, but that arise from sources that other entities own or control. Scope 3, like"
+,"Scope 2, is a category of indirect emissions and covers all other indirect emissions"
+,"from sources that are not owned or controlled by a company, but that occur as a"
+,result of its activities. Examples include emissions from waste disposal to landfill.
+Sustainable Development Goals,17 global goals set by the United Nations in 2015 to define global sustainable
+(SDGs),development priorities and aspirations for the planet.
+Total Recordable Injury (TRI),"A Total Recordable Injury (TRI) is the sum of the total number of employee fatalities,"
+and Total Recordable Injury,"lost time injuries, restricted work injuries or medical treatment injuries within a"
+Frequency Rate (TRIFR),given period.
+,The formula for Total Recordable Injury Frequency Rate (TRIFR) is the addition of the
+,"number of fatalities, lost time injuries, restricted work injuries and medical treatment"
+,injuries in a 12-month period divided by hours worked in a 12-month period multiplied
+,"by 1,000,000."
+
+=== Table 10 (page 74) ===
+Appendix (continued),,
+GRI STANDARD,,PAGE
+Materials,,
+301–3,Reclaimed products and their packaging materials,Page 60–61
+Energy,,
+302–1,Energy consumption within the organisation,Page 56–57
+Water and Effluents,,
+303–1,Interactions with water as a shared resource,Page 58–50
+303–2,Management of water discharge-related impacts,Page 58–59
+Emissions,,
+305–1,Direct (Scope 1) GHG emissions,"Page 56, 66"
+305–2,Energy indirect (Scope 2) GHG emissions,"Page 56, 66"
+305–3,Other indirect (Scope 3) GHG emissions,"Page 57, 66"
+Waste,,
+306–3,Waste generated,"Page 61, 66"
+306–4,Waste diverted from disposal,"Page 61, 66"
+306–5,Waste directed to disposal,"Page 61, 66"
+Labor/Management relations,,
+,"We notify team members as soon as practicable, and in accordance with legislative requirements.",
+402–1,Minimum notice periods regarding operational changes,Page 66
+Occupational Health and Safety,,
+403–1,Occupational health and safety management system,Page 44–45
+403–2,"Hazard identification, risk assessment, and incident investigation",Page 44–45
+403–3,Occupational health services,Page 44–45
+403–7,Prevention and mitigation of occupational health and safety impacts directly,Page 44–45
+,linked by business relationships,
+403–9,Work-related injuries,Page 44–45
+Training and Education,,
+404–2,Programs for upgrading employee skills and transition assistance programs,"Page 22–27, 38–51"
+405–1,Diversity of governance bodies and employees,"Page 11, Endeavour Group"
+,,website
+Non‑discrimination,,
+406–1,Incidents of discrimination and corrective actions taken,Page 66

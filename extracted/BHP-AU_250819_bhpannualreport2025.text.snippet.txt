@@ -1,0 +1,221 @@
+=== Page 41 ===
+9.8 Climate change
+We believe the warming of the climate is unequivocal, human influence is 
+clear and physical climate-related impacts are unavoidable. We recognise 
+the role we play in supporting the net zero transition the world must make.
+For our full position on climate change refer to bhp.com/climate
+Our disclosures and approach to reporting
+Climate Transition Action Plan
+In August 2024, we published our second Climate Transition Action 
+Plan (CTAP 2024) that provides an overview of our climate change 
+strategy, commitments, targets and goals and forward-looking plans. 
+Our CTAP 2024 was approved by the Board, with its development and 
+ongoing implementation governed by the Board and its Committees and 
+management. This OFR 9.8 updates certain aspects of our assumptions and 
+plans since our CTAP 2024 and describes our progress in FY2025 against 
+the strategy and our GHG emissions targets and goals, commitments 
+and key metrics. The climate change targets and goals published in our 
+CTAP 2024 are unchanged. Financial Statements note 16 ‘Climate change’ 
+describes certain potential financial statement impacts, where material 
+or relevant, of the assumptions, plans and actions of our climate change 
+strategy and the consideration of climate-related risks in the assessment 
+of significant areas of judgement and estimation in the financial statements. 
+Our CTAP 2024  is available at bhp.com/CTAP2024
+Navigating our disclosures 
+TCFD recommended disclosuresOur responseSupplementary 
+information
+This Report: Operating 
+and Financial ReviewThis Report: Corporate 
+Governance Statement 
+& Remuneration ReportThis Report: Financial  
+StatementsClimate Transition  
+Action Plan 2024
+Governance: Disclose the organisation’s governance around climate-related risks and opportunities.1
+a)  Describe the board’s oversight of climate -related 
+risks and opportunitiesPages 30 and 40 Pages 87 to 100 – –
+b)  Describe management’s role in assessing and 
+managing climate-related risks and opportunitiesPage 30 Pages 96 to 100 – –
+Strategy: Disclose the actual and potential impacts of climate-related risks and opportunities on the organisation’s businesses, strategy, and financial planning 
+where such information is material.
+a)  Describe the climate-related risks and 
+opportunities the organisation has identified over 
+the short, medium, and long termPages 44 to 48  
+Pages 66 to 71– Pages 148 to 151 Recommended  
+disclosures (a) & (b):
+Pages 10 to 182 
+Pages 19 to 30
+Recommended  
+disclosures (b) & (c):
+Pages 31 to 38
+Page 61
+Page 62b)  Describe the impact of climate -related risks and 
+opportunities on the organisation’s businesses, 
+strategy, and financial planningPages 39 to 53  
+Pages 66 to 71– Pages 148 to 151
+c)  Describe the resilience of the organisation’s strategy, 
+taking into consideration different climate-related 
+scenarios, including a 2°C or lower scenarioPages 46 to 48 – Pages 148 to 151
+Risk Management: Disclose how the organisation identifies, assesses, and manages climate-related risks.
+a)  Describe the organisation’s processes for 
+identifying and assessing climate -related risksPages 25 and 26  
+Pages 44 and 45– – –
+b)  Describe the organisation’s processes for 
+managing climate-related risksPages 25 and 26  
+Pages 44 and 45– – –
+c)  Describe how processes for identifying, assessing, 
+and managing climate -related risks are integrated into 
+the organisation’s overall risk managementPages 25 and 26 – – –
+Metrics and Targets: Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material.
+a)  Disclose the metrics used by the organisation to 
+assess climate-related risks and opportunities in 
+line with its strategy and risk management processPages 48 to 53 Pages 104 to 112 – –
+b)  Disclose Scope 1, Scope 2, and, if appropriate, 
+Scope 3 GHG emissions, and the related risksPages 48 to 53 – – –
+c)  Describe the targets used by the organisation to 
+manage climate-related risks and opportunities 
+and performance against targetsPages 48 to 53 – – –
+1. ‘Risks and opportunities’ is the language adopted in the TCFD recommended disclosures, while under our Risk Framework we regard ‘risks’ as comprising both threats and opportunities.
+2. Refer to the updates in Pathways to our medium-term target and long-term net zero goal and Key changes to our projected pathway to our medium-term target and potential pathways to 
+our long-term net zero goal since CTAP 2024 in this OFR 9.8.Given the global nature of our business, customers and supply chain, the 
+development of our CTAP 2024 considered the goals of the Paris Agreement 
+and the commitments and policy settings of relevant key jurisdictions at the 
+time. Our global headquarters and some of our assets are located in Australia, 
+which has a Long-Term Emissions Reduction Plan and legislated national 
+targets to reduce Australia’s net GHG emissions to 43 per cent below CY2005 
+levels by CY2030, and to achieve net zero GHG emissions by CY2050. 
+We continue to monitor and take into consideration the evolving policy and 
+regulatory landscape applicable to our operations as part of the periodic 
+review by management and the Board of the appropriateness of and our 
+progress towards our GHG emissions targets and goals. 
+TCFD-consistent disclosures
+In accordance with the UK Listing Rules as set by the UK Financial 
+Conduct Authority, we believe our disclosures are consistent with the 
+four recommendations and 11 recommended disclosures of the Task 
+Force  on Climate-related Financial Disclosures (TCFD). 
+The Navigating our disclosures table on this page sets out the TCFD’s 
+recommended disclosures, grouped under the four recommendations, 
+and where our aligned disclosures can be found within this Report (refer 
+to the Our response columns).
+To provide additional detail to supplement our TCFD recommended 
+disclosures in this Report, we refer to certain information in our CTAP 
+2024 (which should be considered in the context of the CTAP 2024 as 
+a whole, together with the updates and our progress in FY2025 provided 
+in this Report), as set out in the Supplementary information column of the 
+Navigating our disclosures table on this page.
+For more information on our alignment with other climate-related 
+sustainability and ESG standards refer to the BHP ESG Standards 
+and Databook 2025  available at bhp.com/ESGSD202539
+ Overview Additional Information Financial Statements Governance Contents Operating and Financial Review
+
+=== Page 42 ===
+9 Sustainability continued
+1. There may be differences between our annual total operational GHG emissions inventory (unadjusted inventory) and the GHG emissions we measure for the baseline year, reference year 
+and performance for our operational GHG emissions medium-term target and long-term net zero goal, resulting from different approaches to the treatment of divestments, acquisitions and 
+methodology changes based on the purpose for which the data is being reported. –We also began studies and engagements to trial and test methane 
+gas extraction techniques for our open-cut metallurgical coal mining 
+operations with potential to reduce the fugitive emissions that occur 
+when methane contained within and near coal seams is released during 
+the mining process.
+ –In FY2025, we continued construction of a boiler diesel displacement 
+solution at Escondida, planned to commence operating in FY2026. 
+This solution will replace diesel-fired boilers with a heat source 
+(combining a thermo-solar and electric boiler solution) that does not 
+generate any GHG emissions from operation of the boiler or generation 
+of its electricity supply due to Escondida’s 100 per cent renewable 
+energy PPAs. We also expect to commence construction of the same 
+type of solution at Spence during FY2026. 
+ –We also continued the operational trial of our first electric Liebherr R9400 
+excavator at WAIO’s Yandi mine and increased our understanding of the 
+potential changes to operations required for larger -scale deployments.  
+ –We partially met our FY2025 social value scorecard Decarbonisation  
+pillar milestone to ‘commence proof-of-concept trials for battery-electric 
+equipment in collaboration with original equipment manufacturers’ through 
+the preparation of the Caterpillar (CAT) Early Learner battery-electric haul 
+truck trial, planned for commencement in FY2026. We expect delivery 
+of the battery -electric locomotives in FY2026, followed by commissioning 
+and the commencement of trials. These are important activities to enable 
+our progress towards diesel displacement and the electrification of 
+vehicles and mining equipment to continue despite broader delays in 
+the development of diesel displacement technology, as discussed below.
+ –In addition to our existing partnerships with Caterpillar and Komatsu, we 
+have announced an exploration of opportunities with XCMG, CATL and 
+BYD for the supply of electric mining equipment and the latest in battery 
+technology for mining equipment, locomotives, light vehicles and battery 
+storage systems.
+ –In July 2019, we committed to establishing a Climate Investment 
+Program (CIP) by investing at least US$400 million over its five-year life 
+to scale-up low emissions technologies that can help decarbonise our 
+operations, drive investment in nature-based solutions, and encourage 
+further collective action on Scope 3 emissions. The CIP commenced in 
+July 2020 and finished in June 2025. During that time, BHP spent more 
+than US$400 million on decarbonisation projects across operational 
+GHG emissions, value chain decarbonisation and climate-related 
+BHP Ventures investments. 
+Operational GHG emissions (Scopes 1 and 2 emissions 
+from our operated assets)
+Medium -term  
+target: Reduce operational GHG emissions (Scopes 1 and 
+2 emissions from our operated assets) by at least 
+30 per cent by FY2030 from an FY2020 baseline.
+Long-term 
+net zero goal: Achieve net zero operational GHG emissions (Scopes 1 
+and 2 emissions from our operated assets) by CY2050.
+Performance, adjusted
+5.010.015.020.0
+0MtCO 2-e
+FY2020 FY2021 FY2022 FY2023 FY2025 FY20248.713.6Value chain GHG emissions (Scope 3 emissions) –  
+Overall
+Long -term 
+net zero goal: We have a long-term goal of net zero Scope 3 emissions 
+by CY2050. Achievement of this goal is uncertain, 
+particularly given the challenges of a net zero pathway 
+for our customers in steelmaking and we cannot ensure 
+the outcome alone.
+Performance, adjusted
+125.0250.0375.0500.0
+0MtCO 2-e
+FY2020 FY2021 FY2022 FY2023 FY2025 FY2024378.2352.0
+For information on the essential definitions, assumptions, GHG emissions boundaries, measurement approach and adjustments for this medium -term 
+target and these long-term net zero goals, including the potential use of offsetting, refer to Climate-related metrics, targets and goals in this OFR 9.8Climate-related governance
+Climate change and climate transition planning is a material governance and 
+strategic issue for BHP, our Board and management as described in OFR 9.2.
+For more information on our governance of climate-related matters 
+including risks (threats and opportunities) refer to our Corporate 
+Governance Statement and Remuneration Report
+Operational GHG emissions (Scopes 1 and 2 
+emissions from our operated assets) 
+Performance and highlights
+ –Based on what we know today and using current methodologies for 
+GHG emission accounting, we remain on track to meet our medium-term 
+target to reduce operational GHG emissions (Scopes 1 and 2 emissions 
+from our operated assets) by at least 30 per cent by FY2030 from an 
+FY2020 baseline (baseline year and performance data adjusted; for 
+more information on the adjustments we make refer to Climate-related 
+metrics, targets and goals in this OFR 9.8). We have not used carbon 
+credits or applied offsetting in our assessment that we are on track to 
+meet our medium-term target. 
+ –For FY2025, our operational GHG emissions were 36 per cent lower 
+than our FY2020 baseline, a further 4 percent improvement against 
+our FY2020 baseline compared to 32 per cent in FY2024 (baseline 
+year and performance data adjusted). Operational GHG emissions in 
+FY2025 were 8.7 MtCO 2-e, which is 5 per cent less than operational 
+emissions of 9.2 MtCO 2-e in FY2024 (performance data adjusted).1 
+Emissions reductions were largely driven by Western Australia Nickel 
+operations going  into temporary suspension and ongoing Power Purchase 
+Agreements (PPAs) in execution. For more information on the calculation 
+of our operational GHG emissions data and energy consumption data refer 
+to Climate-related metrics, targets and goals in this OFR 9.8.
+ –Our total operational energy consumption decreased by 7 per cent 
+from FY2024, largely due to the temporary suspension of Western 
+Australia Nickel.
+ –Our Chilean operations are on track to achieve 100 per cent renewable 
+electricity use in CY2025, as they have each calendar year since CY2022. 
+ –In FY2025, we signed a new seven-year PPA to achieve 100 per cent 
+renewable energy at BMA from FY2027, based on forecasted operational 
+electricity demand and when combined with another renewable PPA 
+signed in 2023.
+ –We commenced our planned drilling program at BMA during FY2025 to 
+obtain a deeper understanding of methane quality and quantity (in both 
+magnitude and density). This is earlier than outlined in our CTAP 2024 
+(FY2026/27).40
+BHP  Annual Report 2025

@@ -1,0 +1,344 @@
+=== Page 38 ===
+ENVIRONMENT
+With mines and projects across multiple states in Australia, we operate in several unique environments  
+home to diverse ecosystems. 
+Our mining operations impact these 
+environments, so we have designed 
+processes and procedures to monitor 
+and manage our environmental 
+impacts. We embed these processes 
+throughout our operations and 
+promote awareness among our 
+employees to ensure that we 
+maintain our social license to operate 
+and act responsibility in delivering our 
+products. 
+ENERGY & GREENHOUSE  
+GAS EMISSIONS 
+With the pressing challenges of 
+climate change and the global call 
+for sustainable solutions, the issues of 
+energy, carbon emissions and climate 
+change remain a central focus to 
+our operations and our stakeholders. 
+Sustainability is becoming a key 
+concern for consumers and with 
+growing regulatory, societal and 
+investor demands, there has been 
+an increase on the emphasis of Aeris 
+Resources’ operational emissions and 
+energy efficiency.
+We are conscious of the need to 
+manage our operational emissions 
+and the demand for producing 
+minerals with limited environmental 
+impact. Simultaneously, the mass 
+scale energy transition to a lower 
+carbon economy presents a rising 
+demand for the base and precious 
+metal we produce. Copper, in 
+particular, is essential for the 
+renewable energy infrastructure that 
+underpins the shift to sustainable 
+energy systems.Aeris Resources reports Scope 1 and 
+2 Greenhouse Gas (GHG) emissions 
+to the Clean Energy Regulator 
+(CER) annually, in accordance with 
+Australia’s National Greenhouse 
+and Energy Reporting (NGER) 
+Scheme. As a result, data on energy 
+consumption and greenhouse gas 
+emissions from fossil fuel combustion 
+and electricity usage at each facility 
+has been prepared and calculated 
+following the NGER methodology and 
+adhering to the guidelines set forth by 
+the Department of Climate Change, 
+Energy, the Environment and Water’s 
+National Greenhouse Accounts 
+(NGA) Factors (August, 2023).
+Mining operations are energy-
+intensive and contribute to  
+Scope 1 and 2 GHG emissions, 
+primarily from the use of fossil 
+fuel-powered machinery and the 
+consumption of both self-generated 
+and purchased electricity. Our operations heavily rely on 
+liquid fuels, primarily diesel, for 
+our machinery and vehicles. This 
+comprises 48% of our total energy 
+profile, while liquefied petroleum 
+gas (LPG) only used at our Cracow 
+site makes up almost 1%. Electricity 
+purchased from the grid powers our 
+offices, mining infrastructure, and 
+processing activities, and comprises 
+37% of our total energy profile. In 
+FY24, our total energy consumption 
+amounted to 1,332,575 GJ. The 
+energy mix across our sites varies 
+based on their location, operation 
+and infrastructure, with key forms of 
+energy being electricity (network grid 
+and natural gas generation supply) 
+and diesel.
+FY24 Total Energy Profile by Fuel Source
+Diesel (GJ) 
+47.9 %Electricity (GJ) 
+36.9%
+LPG (GJ)  
+0.6%
+Natural Gas (GJ) 
+14.6%
+34 | AERIS RESOURCES
+
+=== Page 39 ===
+At our Tritton and Cracow operations, 
+diesel is primarily used for mining 
+machinery, heavy transport, and 
+light vehicles. A diesel power plant 
+is also required at Tritton, while 
+Cracow uses LPG for boilers, furnaces, 
+and production activities. At both 
+sites, we use grid electricity to 
+power processing activities and site 
+infrastructure. 
+Jaguar and North Queensland 
+Operations are not connected 
+to the electricity grid and rely on 
+hydrocarbon-based fuels and  
+natural gas, as a result of their  
+remote locations.
+North Queensland Operations  
+use diesel as the fuel for electricity 
+generation and for mining 
+machinery.
+At Jaguar Operations, we supply 
+the natural gas used by the on-
+site power station, which is owned 
+and operated by Pacific Energy, 
+a third-party contractor. All of the 
+electricity generated from this power 
+station is used exclusively by Aeris 
+Resources, with none being fed back 
+into the grid. As such, natural gas 
+consumption for power generation 
+is classified as a Scope 1 emission 
+source.  Natural gas generated 
+electricity is also supplemented by 
+diesel-powered generators. The electricity consumption and, 
+hence, natural gas consumption 
+at Jaguar Operations has reduced 
+significantly during the year as a 
+result of the operation transitioning  
+to care and maintenance.
+Energy Consumption  
+& Intensity 
+The energy intensity of our operations 
+will change from year to year 
+depending on the changing 
+character of the operation. Important 
+characteristics that drive energy use 
+are the volume of development and 
+stoping activity, the depth of mining, 
+capital development of new mining 
+projects, grade and hardness of the 
+ore, and how electrical power is 
+sourced for remote operations. The 
+complex interaction of these drivers 
+does not allow for simple conclusions 
+to be made based on year-to-year 
+comparisons of energy intensity 
+statistics. Our sustainability objective 
+is to reduce energy consumption 
+to as low as reasonably practical 
+within the technical and economic 
+constraints for each operation.
+In FY24, Tritton experienced a 
+decrease in both diesel and 
+electricity consumed, amounting  
+to a 22% decrease in total energy  
+use as compared to FY23. The inverse trend was observed at our 
+Cracow Operations where an overall 
+16% increase in energy use occurred 
+as compared to FY23. A significant 
+contribution to this increase in energy 
+intensity is associated with the diesel 
+usage involved in the construction 
+activities for the Tailings Storage 
+Facility 2 (TSF2) capacity increase, 
+which occurred during the reporting 
+period.
+The following table provides detailed 
+information on our organisation’s 
+total fuel consumption from non-
+renewable sources. The data is 
+presented in gigajoules and includes 
+a breakdown by specific fuel types 
+used during the FY24 reporting 
+period.
+Where no unit of primary production 
+is available, as is the case for our 
+Corporate Head Office, we have 
+instead calculated energy and 
+emissions intensity using number  
+of full time employees (FTE) as at  
+30 June 2024.
+Due to entering care and 
+maintenance during the reporting 
+period, Jaguar’s energy intensity 
+figure has been calculated using 
+the copper and zinc production 
+figures from the first quarter while the 
+mine was still in production. This has 
+resulted in a higher energy intensity as 
+compared to FY2023.
+Energy Profile by Fuel Source1
+Energy Source Tritton Cracow JaguarNorth 
+QueenslandCorporate 
+(Head Office) Total
+Diesel (GJ) 338,743 146,097 22,534 131,511 - 638,884
+Natural Gas (GJ) - - 194,788 - - 194,788
+LPG (GJ) - 7, 512 - - - 7, 512
+Electricity (GJ) 302,270 189,023 - - 98 491,391
+Total (GJ) 641,013 342,632 217,322 131,511 98  1,332,575
+1.  All energy and GHG emissions calculations have been performed in accordance with the Department of Climate Change, Energy, the 
+Environment and Water’s National Greenhouse Accounts (NGA) Factors 2023, which provides methods, calculations and measurement 
+standards for estimating energy and greenhouse gas emissions. For further details refer to the publication www.dcceew.gov.au/sites/
+default/files/documents/national-greenhouse-account-factors-2023.pdf
+2024 ANNUAL REPORT | 35
+
+=== Page 41 ===
+FY24 SCOPE 1 AND SCOPE 2 EMISSIONS (tCO2-e) BREAKDOWN BY OPERATION
+Scope 1 (tCO2-e)010,00020,00030,00040,00050,00060,00070,00080,000
+Tritton Cracow Jaguar North Queensland Head Office
+Scope 2 (tCO2-e)
+GHG Emissions
+In FY24, our total Scope 1 and Scope 
+2 GHG emissions across all operations 
+amounted to 150,816 tCO2, 
+representing a 23% decrease from 
+the FY2023 figure of 196,396 tCO2. 
+Scope 1 emissions, mainly from diesel 
+consumption, accounted for 37% of 
+our overall emissions profile, while 
+Scope 2 emissions from purchased 
+electricity comprised 63%. 
+At Tritton and Cracow, the largest 
+emissions source is electricity 
+purchased from the grid, primarily 
+used for processing activities. At 
+Jaguar and North Queensland 
+Operations, which are not connected 
+to the national electricity grid, only Scope 1 emissions are present due 
+to the diesel and natural gas usage 
+required for powering machinery and 
+on-site electricity generation. Jaguar 
+experienced a 69% drop in Scope 1 
+GHG emissions from FY2023, which is 
+consistent with expectations with this 
+site entering care and maintenance 
+during the reporting period. 
+In line with Australia’s NGER scheme, 
+we do not currently estimate Scope 
+3 emissions, which covers activities 
+beyond our direct operational control 
+throughout our value chain, however 
+we are tracking what is occurring 
+across the mining sector in relation to 
+this matter.On a site-by-site basis, we have 
+analysed the emissions intensity of our 
+operations. In doing so, we have used 
+the metric of ‘per tonne of primary 
+production variable mined’. 
+Jaguar’s emissions intensity figure has 
+been calculated using the copper 
+and zinc production figures from 
+the first quarter while the mine was 
+still in production. This has resulted 
+in a higher emissions intensity of 3.1 
+in FY24, as compared to 1.47 in FY23 
+when taking into consideration the 
+emissions for the whole reporting 
+period. That is, including emissions 
+during care and maintenance when 
+no production was occurring.
+Scope 1 and 2 GHG Emissio ns1
+Tritton Cracow Jaguar North 
+QueenslandCorporate 
+(Head Office) Total 
+Scope 1  
+(tCO2-e)23,781 10,711 11,619  9,260 - 55,371
+Scope 2  
+(tCO2-e)57,0 95 38,330 - - 20 95,445
+Total 80,877 49,041 11,619 9,260 20 150,816
+1.  All energy and GHG emissions calculations have been performed in accordance with the Department of Climate Change, Energy, the 
+Environment and Water’s National Greenhouse Accounts (NGA) Factors 2023, which provides methods, calculations and measurement 
+standards for estimating energy and greenhouse gas emissions. For further details refer to the publication at www.dcceew.gov.au/sites/
+default/files/documents/national-greenhouse-account-factors-2023.pdf
+2024 ANNUAL REPORT | 37
+
+=== Page 42 ===
+GHG Emissions Intensity
+GHG Activity Tritton Cracow Jaguar North 
+QueenslandCorporate (Head 
+Office) 
+GHG Emissions from 
+Energy (tCO2-e)80,877 49,041 11,619 9,260 20
+Organisation-specific 
+Metric (Denominator)1 19,70 0 45,700 3,700 6,900 41
+GHG Emissions 
+Intensity (tCO2-e 
+per unit of primary 
+production variable1)4.1 1.1 3.1 1.3 0.5
+GHG Emissions 
+Intensity UnittCO2-e/ Cu 
+concentrate (t)tCO2-e/ 
+Gold (oz)tCO2-e/ Cu & Zn 
+concentrate (t)tCO2-e/ Copper 
+Ore (t)tCO2-e/ FTE@  
+30 June 24
+1.  Due to the differences in production outputs for each operation, site specific production metrics have been applied, as defined by the 
+GHG emissions intensity units in the table. 
+Reducing Our GHG Emissions and 
+Energy Consumption
+Due to the high energy demands of 
+mineral exploration, extraction, and 
+processing, we are committed to 
+finding ways to minimise our energy 
+consumption and emissions. As such, 
+Aeris Resources continues to look 
+for Scope 1 and 2 GHG emissions 
+reduction opportunities that are a 
+fit with its ongoing efforts to achieve 
+efficiencies in how it manages  
+its operations. Changing the installed systems to 
+new lower-emission technology is 
+an economic challenge. Therefore, 
+the focus for reducing emissions 
+in operations is avoiding the 
+consumption of energy where 
+possible rather than a change in the 
+mix of supply.
+Where we have new projects being 
+designed there is much greater 
+opportunity to change the mix of 
+energy supply to lower emission 
+technologies. For example, the Constellation 
+Project, which once constructed, is to 
+provide ore to the Tritton processing 
+plant has a commitment to supply 
+30% of its power from a solar farm 
+to be built at the mine site. The 
+Constellation Project power solution 
+of 30% from solar is our standard 
+design assumption for all new mining 
+projects where connection to the 
+grid electricity supply is not feasible 
+and where there is available cleared 
+land that can be used with minimal 
+biodiversity impact and cost.SCOPE 1 AND 2 EMISSIONS (tCO2-e) BY OPERATION (FY22 VS FY23 VS FY24)
+020,00040,00060,00080,000100,0000
+Tritton2022 2023 2024 2022 2023 2024 2022 2023 2024 2022 2023 2024
+Cracow Jaguar North Queensland
+38 | AERIS RESOURCES

@@ -1,0 +1,1485 @@
+=== Table 1 (page 41) ===
+Navigating our disclosures,,,,
+,,,,Supplementary
+,,Our response,,information
+,,This Report: Corporate,,
+,This Report: Operating,Governance Statement,This Report: Financial,Climate Transition
+TCFD recommended disclosures,and Financial Review,& Remuneration Report,Statements,Action Plan 2024
+,Governance: Disclose the organisation’s governance around climate-related risks and opportunities.1,,,
+a)  Describe the board’s oversight of climate-related,Pages 30 and 40,Pages 87 to 100,–,–
+risks and opportunities,,,,
+b)  Describe management’s role in assessing and,Page 30,Pages 96 to 100,–,–
+managing climate-related risks and opportunities,,,,
+,"Strategy: Disclose the actual and potential impacts of climate-related risks and opportunities on the organisation’s businesses, strategy, and financial planning",,,
+where such information is material.,,,,
+a)  Describe the climate-related risks and,Pages 44 to 48,–,Pages 148 to 151,Recommended
+opportunities the organisation has identified over,Pages 66 to 71,,,disclosures (a) & (b):
+"the short, medium, and long term",,,,
+,,,,Pages 10 to 182
+,,,,Pages 19 to 30
+b)  Describe the impact of climate-related risks and,Pages 39 to 53,–,Pages 148 to 151,
+"opportunities on the organisation’s businesses,",Pages 66 to 71,,,Recommended
+"strategy, and financial planning",,,,disclosures (b) & (c):
+,,,,Pages 31 to 38
+"c)   Describe the resilience of the organisation’s strategy,",Pages 46 to 48,–,Pages 148 to 151,
+,,,,Page 61
+taking into consideration different climate-related,,,,
+"scenarios, including a 2°C or lower scenario",,,,Page 62
+,"Risk Management: Disclose how the organisation identifies, assesses, and manages climate-related risks.",,,
+a)  Describe the organisation’s processes for,Pages 25 and 26,–,–,–
+identifying and assessing climate-related risks,Pages 44 and 45,,,
+b)  Describe the organisation’s processes for,Pages 25 and 26,–,–,–
+managing climate-related risks,Pages 44 and 45,,,
+"c)   Describe how processes for identifying, assessing,",Pages 25 and 26,–,–,–
+and managing climate-related risks are integrated into,,,,
+the organisation’s overall risk management,,,,
+,Metrics and Targets: Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material.,,,
+a)   Disclose the metrics used by the organisation to,Pages 48 to 53,Pages 104 to 112,–,–
+assess climate-related risks and opportunities in,,,,
+line with its strategy and risk management process,,,,
+"b)  Disclose Scope 1, Scope 2, and, if appropriate,",Pages 48 to 53,–,–,–
+"Scope 3 GHG emissions, and the related risks",,,,
+c)   Describe the targets used by the organisation to,Pages 48 to 53,–,–,–
+manage climate-related risks and opportunities,,,,
+and performance against targets,,,,
+1.,"‘Risks and opportunities’ is the language adopted in the TCFD recommended disclosures, while under our Risk Framework we regard ‘risks’ as comprising both threats and opportunities.",,,
+2.  Refer to the updates in Pathways to our medium-term target and long-term net zero goal and Key changes to our projected pathway to our medium-term target and potential pathways to,,,,
+our long-term net zero goal since CTAP 2024 in this OFR 9.8.,,,,
+
+=== Table 2 (page 42) ===
+Operational GHG emissions (Scopes 1 and 2 emissions,Value chain GHG emissions (Scope 3 emissions) –
+from our operated assets),Overall
+"Reduce operational GHG emissions (Scopes 1 and 
+Medium-term","We have a long-term goal of net zero Scope 3 emissions 
+Long-term"
+"2 emissions from our operated assets) by at least 
+target:","by CY2050. Achievement of this goal is uncertain, 
+net zero goal:"
+30 per cent by FY2030 from an FY2020 baseline.,particularly given the challenges of a net zero pathway
+,for our customers in steelmaking and we cannot ensure
+"Achieve net zero operational GHG emissions (Scopes 1 
+Long-term",
+,the outcome alone.
+"and 2 emissions from our operated assets) by CY2050.
+net zero goal:",
+
+=== Table 3 (page 42) ===
+"40
+BHP Annual Report 2025",
+9  Sustainability continued,
+,– We also began studies and engagements to trial and test methane
+Climate-related governance,
+,gas extraction techniques for our open-cut metallurgical coal mining
+Climate change and climate transition planning is a material governance and,
+,operations with potential to reduce the fugitive emissions that occur
+"strategic issue for BHP, our Board and management as described in OFR 9.2.",
+,when methane contained within and near coal seams is released during
+,the mining process.
+For more information on our governance of climate-related matters,
+including risks (threats and opportunities) refer to our Corporate,"–
+In FY2025, we continued construction of a boiler diesel displacement"
+Governance Statement and Remuneration Report,"solution at Escondida, planned to commence operating in FY2026."
+,This solution will replace diesel-fired boilers with a heat source
+,
+Operational GHG emissions (Scopes 1 and 2,(combining a thermo-solar and electric boiler solution) that does not
+,generate any GHG emissions from operation of the boiler or generation
+emissions from our operated assets),
+,of its electricity supply due to Escondida’s 100 per cent renewable
+Performance and highlights,energy PPAs. We also expect to commence construction of the same
+– Based on what we know today and using current methodologies for,type of solution at Spence during FY2026.
+"GHG emission accounting, we remain on track to meet our medium-term",
+,– We also continued the operational trial of our first electric Liebherr R9400
+target to reduce operational GHG emissions (Scopes 1 and 2 emissions,
+,excavator at WAIO’s Yandi mine and increased our understanding of the
+from our operated assets) by at least 30 per cent by FY2030 from an,
+,potential changes to operations required for larger-scale deployments.
+FY2020 baseline (baseline year and performance data adjusted; for,
+,– We partially met our FY2025 social value scorecard Decarbonisation
+more information on the adjustments we make refer to Climate-related,
+,pillar milestone to ‘commence proof-of-concept trials for battery-electric
+"metrics, targets and goals in this OFR 9.8). We have not used carbon",
+,equipment in collaboration with original equipment manufacturers’ through
+credits or applied offsetting in our assessment that we are on track to,
+,the preparation of the Caterpillar (CAT) Early Learner battery-electric haul
+meet our medium-term target.,
+,"truck trial, planned for commencement in FY2026. We expect delivery"
+"– For FY2025, our operational GHG emissions were 36 per cent lower",
+,"of the battery-electric locomotives in FY2026, followed by commissioning"
+"than our FY2020 baseline, a further 4 percent improvement against",
+,and the commencement of trials. These are important activities to enable
+our FY2020 baseline compared to 32 per cent in FY2024 (baseline,
+,our progress towards diesel displacement and the electrification of
+year and performance data adjusted). Operational GHG emissions in,
+,vehicles and mining equipment to continue despite broader delays in
+"FY2025 were 8.7 MtCO2-e, which is 5 per cent less than operational",
+,"the development of diesel displacement technology, as discussed below."
+emissions of 9.2 MtCO2-e in FY2024 (performance data adjusted).1,
+,"–
+In addition to our existing partnerships with Caterpillar and Komatsu, we"
+Emissions reductions were largely driven by Western Australia Nickel,
+,"have announced an exploration of opportunities with XCMG, CATL and"
+operations going into temporary suspension and ongoing Power Purchase,
+,BYD for the supply of electric mining equipment and the latest in battery
+Agreements (PPAs) in execution. For more information on the calculation,
+,"technology for mining equipment, locomotives, light vehicles and battery"
+of our operational GHG emissions data and energy consumption data refer,
+,storage systems.
+"to Climate-related metrics, targets and goals in this OFR 9.8.",
+,"–
+In July 2019, we committed to establishing a Climate Investment"
+– Our total operational energy consumption decreased by 7 per cent,
+,Program (CIP) by investing at least US$400 million over its five-year life
+"from FY2024, largely due to the temporary suspension of Western",
+,to scale-up low emissions technologies that can help decarbonise our
+Australia Nickel.,
+,"operations, drive investment in nature-based solutions, and encourage"
+– Our Chilean operations are on track to achieve 100 per cent renewable,
+,further collective action on Scope 3 emissions. The CIP commenced in
+"electricity use in CY2025, as they have each calendar year since CY2022.",
+,"July 2020 and finished in June 2025. During that time, BHP spent more"
+"–
+In FY2025, we signed a new seven-year PPA to achieve 100 per cent",than US$400 million on decarbonisation projects across operational
+"renewable energy at BMA from FY2027, based on forecasted operational","GHG emissions, value chain decarbonisation and climate-related"
+electricity demand and when combined with another renewable PPA,BHP Ventures investments.
+signed in 2023.,
+– We commenced our planned drilling program at BMA during FY2025 to,
+obtain a deeper understanding of methane quality and quantity (in both,
+magnitude and density). This is earlier than outlined in our CTAP 2024,
+(FY2026/27).,
+Operational GHG emissions (Scopes 1 and 2 emissions,Value chain GHG emissions (Scope 3 emissions) –
+from our operated assets),Overall
+"Reduce operational GHG emissions (Scopes 1 and 
+Medium-term","We have a long-term goal of net zero Scope 3 emissions 
+Long-term"
+"2 emissions from our operated assets) by at least 
+target:","by CY2050. Achievement of this goal is uncertain, 
+net zero goal:"
+30 per cent by FY2030 from an FY2020 baseline.,particularly given the challenges of a net zero pathway
+,for our customers in steelmaking and we cannot ensure
+"Achieve net zero operational GHG emissions (Scopes 1 
+Long-term",
+,the outcome alone.
+"and 2 emissions from our operated assets) by CY2050.
+net zero goal:",
+"Performance, adjusted","Performance, adjusted"
+MtCO2-e,MtCO2-e
+
+=== Table 4 (page 44) ===
+9  Sustainability continued,
+– The commercial operations of the Port Hedland solar farm and battery,
+,Value chain GHG emissions (Scope 3 emissions)
+"energy storage system (BESS), which connects to the existing",
+,Value chain
+Port Hedland power station and supplies WAIO’s port facilities under,
+"a PPA, commenced in July 2025 following completion of construction",Approach
+activities in CY2024.,"For FY2025, our reported Scope 3 emissions inventory (unadjusted inventory)"
+– While the key changes to our projected and potential decarbonisation,increased by 0.1 per cent from FY2024.2 This was largely driven by reported
+"pathways are the timeline deferrals described above, the potential variability",GHG emission increases in Category 10 ‘Processing of sold products’
+around the scale and timing of abatement as we progress towards our,(specifically iron ore processing to crude steel). Our reported Scope 3
+goal of net zero by CY2050 (shown in Figure 1.2 of our CTAP 2024 as,emissions inventory remains dominated by the processing of our iron ore
+the ‘range of uncertainty’) also increases. This is due to greater uncertainty,and steelmaking coal products (84 per cent). The combustion of energy
+of technology and commercial readiness of diesel displacement options,"coal (10 per cent), the GHG emissions associated with our direct suppliers"
+as well as our additional insights into the operational integration challenges,(3 per cent) and the shipping of our products (2 per cent) also contribute.
+presented by a change as complex and far-reaching as large-scale,For more information on the calculation of our reported Scope 3 emissions
+electrification. Operational integration challenges include safety-related,"inventory refer to Climate-related metrics, targets and goals in this OFR 9.8."
+"risks associated with high-voltage direct current batteries, integration",The planned closure of our Mt Arthur Coal mine by FY2030 is likely to
+"of cable management of tethered equipment, inter-operability challenges",result in Scope 3 Category 11 emissions (which includes GHG emissions
+"between different voltages, requirements for integration with automation,","from the end use of products sold by the reporting company, such as"
+and the extent of workforce skills and training required.,the combustion of energy coal) becoming an insignificant source in our
+,reported Scope 3 emissions inventory.
+Capital allocation,
+,We do not anticipate significant reductions in our reported Scope 3
+Capital allocation towards operational GHG emission reduction projects is,emissions inventory in the near term. This is partly due to the way we
+considered as part of the maintenance capital category within our Capital,"estimate some Scope 3 emissions categories, particularly Category"
+"Allocation Framework (CAF) (described in OFR 3), along with other forms","10 processing of sold products, which is generally not supplier- or"
+"of risk reduction, asset integrity, compliance and major, minor and sustaining",customer-specific and therefore would not reflect the GHG emission
+projects intended to preserve the ability to generate value at our operated,reductions they achieve. We are looking for ways to improve the data
+assets. This enables consideration of a risk assessment across qualitative,we use and have included this as part of our strategy. As we progress
+"and quantitative criteria relevant to each capital allocation decision. However,",opportunities to reduce Scope 3 emissions associated with processing of
+an important principle within the CAF prioritises operational GHG emission,"sold products, a more granular and customer-specific reporting methodology"
+reduction projects prior to organic development and the other options for,is expected to enable us to reflect GHG emission reductions resulting
+excess cash flow (shown in OFR 3) where they are critical in supporting the,from changes we may make to the quality of our products or from lower
+achievement of our operational GHG emissions medium-term target and,"GHG emission processing routes, including as enabled by our investments"
+long-term net zero goal. Individual operational GHG emission reduction,in the development of lower GHG emission steelmaking pathways.
+"projects must justify the investment based on abatement efficiency,",
+,We have seen improvements associated with data availability associated
+"technology readiness, maturity, operational impact and relative economics.",
+,"with shipping through our use of the Veracity data platform. In FY2025,"
+Operational GHG emission reduction projects are incorporated into,we enhanced our Scope 3 emissions accounting and reporting by improving
+"our corporate planning processes that include review of our mine plans,",the collection of fuel consumption data for BHP-chartered shipping of our
+which are critical to creating alignment across BHP. These processes,"products, including GHG emissions from transhipment of our products on"
+"guide the development of plans, targets and budgets to help us decide",containerised freight and the deployment of emissions tracking and reporting
+where to deploy our capital and resources. We have several Investment,mechanisms with vessel owners. Customer-specific and supplier-specific
+Review Committees that assist our decision-makers with review of proposed,granular data is a key enabler for greater transparency of actual Scope 3
+"investments. The appropriate Investment Review Committee, based on",emissions as well as value chain decarbonisation projects.
+"investment size and any complexity elements, provides endorsement for",
+,Our strategy to support reduction of GHG emissions in our value chain
+whether to progress operational GHG emission reduction projects based,
+,has four primary focus areas:
+on qualitative and quantitative measures. Our Quarterly Business Review,
+forums in each region also review and update strategic direction and tactical,"–
+support the development and adoption of GHG emissions intensity"
+
+=== Table 5 (page 44) ===
+,granular data is a key enabler for greater transparency of actual Scope 3
+"investments. The appropriate Investment Review Committee, based on",emissions as well as value chain decarbonisation projects.
+"investment size and any complexity elements, provides endorsement for",
+,Our strategy to support reduction of GHG emissions in our value chain
+whether to progress operational GHG emission reduction projects based,
+,has four primary focus areas:
+on qualitative and quantitative measures. Our Quarterly Business Review,
+forums in each region also review and update strategic direction and tactical,"–
+support the development and adoption of GHG emissions intensity"
+progress on operational GHG emission reduction. Execution is monitored,reduction technologies in steelmaking
+through periodic reporting to senior leaders and project sponsors on key,"–
+enhance the quality of the iron ore and steelmaking coal we produce (as the"
+performance indicators.,GHG emissions intensity of conventional blast furnace steelmaking can be
+"For FY2025, our incremental capital expenditure, operating expenditure",reduced by improving the quality of the iron ore and steelmaking coal used)
+and lease payments on initiatives associated with operational GHG emission,"–
+encourage direct suppliers to pursue net zero for their operational"
+reductions was approximately US$50 million.1,GHG emissions (direct suppliers’ Scopes 1 and 2 emissions)
+"As indicated in our April 2025 Quarterly Operational Review and noted above,","–
+support the development and adoption of GHG emission reduction"
+"the pace of development of some decarbonisation technology has slowed,",technologies in shipping
+particularly in the displacement of diesel used for materials movement.,
+
+=== Table 6 (page 45) ===
+For more information on actual and planned expenditure to support,"– Within the Electrochemical reduction pathway, our BHP Ventures portfolio"
+value chain GHG emission reductions refer to Financial Statements,"company, Boston Metal, successfully commissioned a large-scale pilot"
+note 16 ‘Climate change’,
+,"using BHP iron ore fines and lump, producing iron metal using electrolysis"
+,at tonnage scale and we made an additional investment into Boston Metal in
+Our equity shares of operational GHG emissions (Scopes 1 and 2,
+,June 2025. We also joined Electra’s series B funding round as it continues
+emissions) from our non-operated joint venture interests are reported in,
+,"to develop its low temperature electrolysis process. With successful pilots,"
+our Scope 3 emissions inventory under Category 15 ‘Investments’ and,
+,these solutions could help support our medium-term goal for steelmaking
+are an immaterial source of Scope 3 emissions when compared to our,
+,and our long-term net zero goal.
+total FY2025 reported Scope 3 emissions inventory. We see our role in,
+,– We continued to engage with our direct iron ore and steelmaking
+non-operated assets as primarily to seek to influence them through their,
+,coal customers on GHG emission reduction pathways and carbon
+"governance structures to reduce their operational GHG emissions, as well",
+,accounting methodologies.
+as sharing decarbonisation knowledge and experience where appropriate.,
+
+=== Table 7 (page 45) ===
+as sharing decarbonisation knowledge and experience where appropriate.,
+,Longer-term industry pathways and strategy
+Steelmaking,
+,"Our ambition is to help develop multiple technology pathways, as"
+Performance and highlights,
+,"described above, that can provide commercially feasible options for"
+"–
+In FY2025, under the Modified blast furnace pathway, we have",
+,steelmakers in different regions. We prioritise projects based on scale of
+"progressed pilots in China and Europe jointly with our partners, with",
+,"impact, our ability to influence the outcomes and alignment with our assets"
+carbon capture trials commenced at customer sites. We plan to share,
+,and products. Our steelmaking decarbonisation program has four key
+key trial results in FY2026. We also initiated new partnerships in,
+,"components: collaborative partnerships with our customers, peers and"
+"India, including studies to progress a next generation carbon capture",
+,partners; directly funded research and development initiatives; early-stage
+"demonstration with steelmaker JSW, and progressed low-carbon fuel",
+,investments in breakthrough technology through BHP Ventures; and
+installations (hydrogen injection to blast furnace) with Zenith Steel in,
+,advocacy for standardisation and traceability throughout the value chain.
+China with the plan for testing campaigns to operate in FY2026.,
+,We aim to leverage our own funding through this program by attracting
+"– Additionally, in August 2025 we announced our participation in an",and enabling investment (financial and in-kind) from our strategic partners.
+"industry consortium comprising leading steelmakers ArcelorMittal,",
+,We have collaborations and exchanges with 11 steel producers representing
+"Nippon Steel India, JSW Steel, Hyundai Steel Company and other",
+,22 per cent of reported global steel production according to recent World Steel
+"value chain participants, Chevron and Mitsui & Co. Ltd, to undertake",
+,Association data1 and US$171 million in committed funding to date2 (including
+"a pre-feasibility study to assess the development of carbon capture,",
+,BHP Ventures investments and based on figures as at 30 June 2025).
+utilisation and storage (CCUS) hubs across Asia. The CCUS hub study,
+is the first independent industry-led study of its kind in Asia and will,"For more information on our strategy, actions to support our value"
+examine the technical and commercial pathways to utilising CCUS,chain and our plan to achieve our steelmaking medium-term goal refer
+in hard-to-abate industries across Asia.,to pages 24 and 25 of our CTAP 2024 available at bhp.com/CTAP2024
+"–
+In FY2025, under the DRI-electric smelting furnace pathway, we",
+,Direct suppliers
+successfully trialled BHP iron ores in pellet and direct reduced iron,
+"(DRI) production at two commercial plants in China. In one of these,",Performance and highlights
+we achieved a lower emissions intensity in the trial (50 per cent lower iron,– We continued to engage with and encourage our top 500 direct suppliers
+unit intensity replacing blast furnace iron in existing basic oxygen furnace,by spend to set their own operational GHG emissions targets or goals
+steelmaking) than conventional blast furnace-basic oxygen furnace,(for their Scopes 1 and 2 emissions) to align with our Scope 3 long-term
+"operation. Importantly, the trial demonstrated the use of BHP Pilbara",target to achieve net zero by CY2050 for the operational GHG emissions
+"ores in pellet-shaft DRI production, which when combined with an electric",of our direct suppliers.
+smelting furnace (ESF) has the potential to achieve 85 per cent emission,
+,– We commenced a pilot with four strategic suppliers that represent
+reductions compared with the conventional blast furnace. In FY2026 and,
+,"5 per cent of our reported Scope 3, Category 1 emissions inventory to"
+"FY2027, we plan to continue to support work to optimise the performance",
+,assess the viability and scalability of sharing their product-level emissions
+of pellet and DRI trials at higher BHP Pilbara ore ratios. We also confirmed,
+,"data. This pilot seeks to improve our reported Scope 3, Category 1"
+Kwinana in Western Australia as the location for the NeoSmelt ESF pilot,
+,emissions inventory accuracy and ability to reflect GHG emissions
+"with our partners BlueScope, Mitsui Iron Ore Development, Rio Tinto",
+,reduction initiatives being implemented by our direct suppliers.
+"and Woodside Energy, and advanced the project from pre-feasibility into",
+"a final design phase. Subject to approvals, the NeoSmelt ESF project",– We are currently working to update the methodology we use to calculate
+remains on track to be commissioned in the second half of CY2028,"our reported Scope 3, Category 1 emissions inventory to more accurately"
+and begin demonstrating the system as a technically viable pathway.,reflect the GHG emissions associated with the products and services we
+Value chain GHG emissions (Scope 3 emissions) –,Value chain GHG emissions (Scope 3 emissions) –
+Steelmaking,Direct suppliers
+"Support industry to develop steel production technology 
+Medium-term","Achieve net zero by CY2050 for the operational 
+Long-term"
+"capable of 30 per cent lower GHG emissions intensity 
+goal:","GHG emissions (Scopes 1 and 2 emissions) of 
+net zero target:"
+"relative to conventional blast furnace steelmaking, with",our direct suppliers.
+widespread adoption expected post-CY2030.,
+Performance,"Performance, adjusted"
+US$ million financial value committed (cumulative) (excluding in-kind contributions),MtCO2-e
+
+=== Table 8 (page 46) ===
+9  Sustainability continued,
+procure by improving the emissions factors used to calculate emissions,"– We continued to promote the adoption of lower GHG emissions fuels,"
+and ultimately shifting to supplier-specific data for key products and,"such as biodiesel and LNG, across our trade routes. In FY2025, we"
+"services. This may have a significant impact on our reported Scope 3,",doubled the volume of biodiesel used in our value chains compared to
+Category 1 emissions inventory in future.,FY2024. We continued to scale our adoption of biodiesel blends (i.e.
+,"B24, B30) and pure biodiesel (i.e. B100), adding bunkering at strategic"
+Industry pathways and strategy,"locations, such as Singapore, Hong Kong and Panama. The biodiesel that"
+,BHP has used has been produced from feedstocks that recycle waste
+"Our strategy targets the top 500 direct suppliers by spend, which",
+,"products, such as used cooking oil and food waste. All biodiesel used"
+contributed to 78 per cent of our FY2025 total spend on suppliers.,
+,is accompanied by ‘Proof of Sustainability’ under a certification scheme.
+"It encompasses three areas of focus – selective purchasing, supportive",
+engagements and measurement and monitoring. Our selective purchasing,– We have awarded time charter contracts to China’s COSCO Shipping for
+"approach sets a commercial requirement that, over time, a supplier",two ammonia dual-fuelled vessels for a duration of five years. We expect
+must actively reduce its operational GHG emissions and/or maintain,the delivery of these vessels from CY2028. This will help us meet our
+a competitive level of GHG emissions intensity for its product or service.,"First Movers Coalition commitment that, by CY2030, 10 per cent of our"
+"Our supportive engagements intend to identify, assess and pursue",total products shipped to our customers on our time charter vessels
+opportunities to partner with our direct suppliers to support their GHG,will be shipped using zero GHG emissions fuels.1 We continue to
+emission reduction initiatives. Measurement and monitoring are also,"work with regulatory bodies, shipyards and other key stakeholders to"
+"essential to assessing performance and advances being pursued, such",address the challenges for use of ammonia onboard vessels as well
+as through climate-specific data clauses in some supplier contracts or,"as with participants across technical, commercial and supply assurance"
+"participation in emission data exchanges, to help improve our ability to","aspects for the supply of electrolytic ammonia, commonly referred to"
+report progress against our long-term net zero target for direct suppliers.,as ‘green ammonia’.
+
+=== Table 9 (page 48) ===
+"coupled with our Capital Allocation Framework, enables us to execute",
+,"the assessment, the net present value of our portfolio modelled under"
+our portfolio positioning decisions for the benefit of our stakeholders,
+,our 1.5°C scenario was approximately the same as under the base
+including shareholders.,
+,"case of our planning range, indicating that we would be resilient in an"
+,accelerated transition to this 1.5°C outcome. It is important to note this
+For more information on our operational activities and our approach to,does not account for changes that could be made or actions that could
+our value chain refer to Operational GHG emissions (Scopes 1 and 2,
+,"be taken if our 1.5°C scenario was to eventuate, such as harnessing new"
+emissions from our operated assets) and Value chain GHG emissions,
+,opportunities or mitigating potential financial impacts.
+(Scope 3 emissions) in this OFR 9.8,
+,"In FY2025, while we continued to consider our 1.5°C scenario in our"
+For more information on potential financial statement impacts due,"strategy formation, we did not consider it as a sensitivity in capital"
+to climate-related risks refer to Financial Statements note 16,
+,allocation processes.
+‘Climate change’,
+,To provide further analysis of potential financial risks under a 1.5°C
+,"scenario, we have also reviewed an external scenario published by"
+
+=== Table 10 (page 50) ===
+"Climate-related metrics, targets and goals",
+Primary metrics we consider when assessing and managing climate-related risks (threats and opportunities),
+Metric,Refer to
+"Commodity production, revenue","– Commodity production, revenue and expenditure tables in BHP ESG Standards and Databook 2025"
+and expenditure,available at bhp.com/ESGSD2025
+Capital allocation and alignment,"–
+Financial Statements note 16 ‘Climate change’ in this Report"
+Operational GHG emissions (Scopes 1 and 2,– Operational GHG emissions (Scopes 1 and 2 emissions from our operated assets) inventory table
+emissions from our operated assets),in this OFR 9.8
+Value chain GHG emissions (Scope 3 emissions),– Value chain GHG emissions (Scope 3 emissions) inventory table in this OFR 9.8
+"Production, reserves and resources",– Production and Mineral Resources and Ore Reserves in Additional Information 4 and 6 in this Report
+Management’s Cash and Deferred Plan,– Remuneration Report in this Report
+(proportion linked to climate),
+
+=== Table 11 (page 51) ===
+,"Operational GHG emissions (Scopes 1 and 2 emissions): Operational control basis (MtCO2-e, unless otherwise indicated)",,,
+,,FY2025,FY2024,FY2023
+Total,Scope 1 emissions,7.4,8.1,8.0
+operations,,,,
+,Scope 2 emissions,1.3,1.9,1.9
+basis,,,,
+,Total operational GHG emissions,8.7,10.0,9.9
+,Location-based Scope 2 emissions,3.1,3.7,3.8
+,Operational GHG emissions intensity (tCO2-e per tonne of copper equivalent production),1.6,1.8,1.7
+Notes,,,,
+
+=== Table 12 (page 51) ===
+"Downstream: Other (Categories 9, 15)","3.2
+3.7
+3.7"
+Total Scope 3 emissions,"378.2
+377.7
+370.8"
+Notes,
+–  Definition: Scope 3 emissions refers to all other indirect GHG emissions (not included in,–  Assessing and comparing reductions in Scope 3 emissions should consider the impact
+Scope 2) that occur in our value chain. Scope 3 emissions have been calculated using,that acquisitions and divestments have had.
+methodologies consistent with the Greenhouse Gas Protocol Corporate Value Chain,–  Scope 3 emissions data includes GHG emissions for former OZ Minerals assets from the
+(Scope 3) Accounting and Reporting Standard.,date of acquisition (completed on 2 May 2023). Former OZ Minerals Scope 3 emissions
+"–  Organisational boundary: Category 10, Processing of sold products, Category 11,",data has not been included in certain categories and/or sub-categories of FY2023 and
+"Use of sold products and Category 15, Investments all defined on an equity share basis.",FY2024 data due to data limitations. We estimate these GHG emissions to be immaterial.
+All other Scope 3 emissions boundaries are defined on a category-by-category (and in,–  All Scope 3 emissions data includes divested operations only up to the completion date
+"some cases, sub-category) basis due to data limitations. Scope 3 emissions reporting",or effective economic date (as applicable) of the divestment. Divestments include BMA’s
+necessarily has a degree of overlap in reporting boundaries due to our involvement at,divestment of the Blackwater and Daunia mines (completed on 2 April 2024).
+multiple points in the lifecycle of the commodities we produce and consume.,
+,"–  Category 10, Processing of sold products does not include GHG emissions associated with"
+–  Rounding: Data has been rounded to the nearest 0.1 MtCO2-e. Downstream: Other in,"downstream processing of our zinc, gold, silver, ethane, cobalt and uranium oxide products"
+FY2024 has been rounded down for the purposes of this table.,"and, for FY2025, nickel, as production and sales volumes are relatively small and a large"
+"–  Restatement: Category 15, Investments FY2024 reported value has been restated due to",range of possible end uses apply. We estimate these GHG emissions to be immaterial.
+finalisation of electricity emissions calculations for the Kelar power plant. Previously reported,"–  Category 15, Investments covers the Scopes 1 and 2 emissions (on an equity basis) from"
+"value was 1.2 MtCO2-e and restated value is 1.3 MtCO2-e as reflected in the Downstream,",entities in which we hold an interest that are not operated by BHP.
+"Other (Categories 9,15) FY2024 value (not previously aggregated) and the Total Scope 3",
+"emissions FY2024 value, which was previously reported as 377.6 MtCO2-e.",
+
+=== Table 13 (page 52) ===
+Operational GHG emissions (Scopes 1 and 2 emissions from our operated assets) medium-term target and long-term,
+"net zero goal definitions, assumptions, adjustments and additional key details",
+Description,Medium-term target: Reduce operational GHG emissions by at least 30 per cent from FY2020 levels by FY2030
+,Long-term net zero goal: Achieve net zero operational GHG emissions by CY2050
+Baseline year or,Medium-term target: Baseline year: FY2020 | Period: FY2020 to FY2030
+reference year and period,
+,"Long-term net zero goal: Reference year: FY2020. FY2020 is used as a reference year to track progress towards our goal,"
+,but is not a baseline year for achieving our goal. | Period: FY2020 to CY2050
+Type and reduction,Medium-term target: Type: Absolute | Reduction: Gross; At least 30 per cent
+,Long-term net zero goal: Type: Absolute | Reduction: Net; 100 per cent
+Boundary,Inventory boundary: Scopes 1 and 2 emissions: Operational control
+Exclusions,Non-operated assets and equity investments (included in our value chain GHG emissions (Scope 3 emissions) long-term net zero goal)
+GHGs included,"CO2, CH4, N2O, HFC, PFC, SF6"
+Offsetting,Medium-term target: Our plan is to achieve our medium-term target through structural GHG emissions abatement instead of
+,offsetting our operational GHG emissions. We will not use carbon credits surrendered to meet regulatory obligations (i.e. those
+,"used for compliance under regulatory schemes, such as Australia’s Safeguard Mechanism) to meet our target. In our projected"
+,"pathway, we have not planned to use voluntary carbon credits to meet our medium-term target, but if there is an unanticipated"
+,"shortfall in our pathway, we may use voluntary carbon credits that meet our integrity standards to close the performance gap."
+,"Long-term net zero goal: Expected, to close the performance gap beyond our structural abatement. However, for the reasons"
+,"outlined in this OFR 9.8, we are currently unable to estimate the contribution of carbon credits to our long-term net zero goal."
+Measurement approach,Scope 1 emissions are calculated using emission factors and methodologies required under mandatory local regulatory programs
+,"where BHP operates, including the National Greenhouse Energy and Reporting (NGER) scheme for Australian operations, Green"
+,Tax legislation (referencing Intergovernmental Panel on Climate Change (IPCC) emission factors) for Chilean operations and
+,Canadian Greenhouse Gas Reporting Program (referencing IPCC emission factors) for our Jansen potash project. In the absence
+,"of mandatory local regulatory programs, the Australian NGER scheme emission factors and methodology are used. Scope 2"
+,emissions are calculated using the market-based method using electricity emission factors sourced directly from the supplier
+,"where available, as evidenced by Renewable Energy Certificates and/or supplier-provided documentation. Where supplier-specific"
+,"emission factors are not available, a default location-based emission factor for electricity, as published in local regulations or"
+,"industry frameworks, is used."
+Key adjustments made to,Baseline year (for our target) and reference year (for our goal) and performance data have been adjusted for divestment of
+baseline year or reference,"our interest in BMC (completed on 3 May 2022), divestment of our Petroleum business (merger with Woodside completed on"
+year and subsequent data,"1 June 2022), BMA’s divestment of the Blackwater and Daunia mines (completed on 2 April 2024), our acquisition of OZ Minerals"
+,(completed on 2 May 2023) and for methodology changes (use of IPCC Assessment Report 5 (AR5) Global Warming Potentials
+,and the transition to a facility-specific GHG emission calculation methodology for fugitives at Caval Ridge and Saraji South)
+,(methodology change adjustments applicable for baseline year and reference year and FY2020 to FY2024 performance data).
+"Performance, adjusted",FY2020: 13.6 MtCO2-e | FY2021: 13.8 MtCO2-e | FY2022: 10.2 MtCO2-e | FY2023: 9.1 MtCO2-e | FY2024: 9.2 MtCO2-e |
+,FY2025: 8.7 MtCO2-e
+Target or goal setting,Medium-term target: Our target is measured on a cumulative GHG emission basis against an overall carbon budget. The target
+method,percentage reduction was established in FY2020 by applying the same rate of reduction to BHP’s GHG emissions as the rate
+,at which the world’s GHG emissions would have to contract in order to meet the Paris Agreement goal to hold global average
+,temperature increase to well below 2°C above pre-industrial levels (known as the ‘absolute contraction method’).
+,Long-term net zero goal: Our goal was developed with the ambition to achieve net zero for our operational GHG emissions by
+,CY2050. Our progress against this goal will be measured on an absolute basis.
+Target or goal derived,"Medium-term target: No, our target was derived using the absolute contraction method specified earlier. At the time of setting the"
+using a sectoral,"target, there were no mining sector-specific pathways for jurisdictions where we operate."
+decarbonisation approach,
+,"Long-term net zero goal: No, however our goal is consistent with the global net zero ambition."
+Process for reviewing,"The Board approves BHP’s significant social, community and sustainability policies (upon recommendation from the Nomination"
+the setting of the target,"and Governance Committee), including those related to climate change and climate transition planning, public sustainability goals"
+or goal,and targets (including for GHG emission reductions). We review our GHG emissions targets and goals as part of the periodic
+,"development of an updated CTAP, or more frequently if required."
+Process for monitoring,"Monitored on an annual basis through our business planning processes, which forecast operational GHG emissions and identify"
+progress towards the,"planned, proposed or potential GHG emission reduction projects out to CY2050. As part of this process, an internal GHG"
+target or goal,"emissions target is set for the relevant financial year and monitored through our annual reporting processes, with progress"
+,reviewed by management and the Board as part of publication of our annual reporting disclosures. Our target is also monitored on
+,"a six-monthly basis through our social value scorecard framework, with progress reviewed by management and the Board as part"
+,"of publication of our half-year results (as well as annual reporting disclosures), or more frequently if required."
+Third-party validation of,"No, but we obtain reasonable assurance over our externally reported performance against our target and goal."
+our target or goal,
+Carbon budget for target,Medium-term target: 126.9 MtCO2-e (FY2020 to FY20230). This reflects a linear reduction between our baseline year and
+or goal period,"the target year. In the interim years before FY2030, we periodically refer to our carbon budget to assess our cumulative GHG"
+,emissions against our carbon budget to FY2030. This enables us to determine if we are on track to achieve our medium-term
+,target or whether we anticipate potential use of voluntary carbon credits to close any performance gap by FY2030 (which we
+,do not currently anticipate).
+,"Long-term net zero goal: For the period FY2020 to FY2030, refer to the carbon budget for our target. We do not currently use"
+,a carbon budget for the period beyond FY2030.
+Expected progression,Progress towards our target and goal is expected to be non-linear and affected by organic changes in our production of commodities
+,"and the availability, capability and competitiveness of low emissions technology."
+
+=== Table 14 (page 53) ===
+"Value chain GHG emissions (Scope 3 emissions) medium-term goals definitions, assumptions, adjustments and",
+additional key details,
+Description,Steelmaking medium-term goal: Support industry to develop steel production technology capable of 30 per cent lower GHG
+,"emissions intensity relative to conventional blast furnace steelmaking, with widespread adoption expected post-CY2030."
+,Shipping medium-term goal: Support 40 per cent GHG emissions intensity reduction of BHP-chartered shipping of BHP products.
+Baseline year or,Steelmaking medium-term goal: Reference year: CY2020 (global average GHG emissions intensity for conventional blast furnace
+"reference year, and period","steelmaking as at CY2020, being 2.2 tonnes of CO2 per tonne of crude steel. Source: IEA Iron and Steel Technology Roadmap"
+,(October 2020)). CY2020 is used as a reference year to assess the potential of collaborative partnerships and venture capital
+,investments to which we may commit funding (refer to Measurement approach in this table) but is not a baseline year for achieving
+,our goal | Period: FY2020 to CY2030.
+,Shipping medium-term goal: Baseline year: CY2008 (reflecting International Maritime Organisation (IMO) objectives for the
+,shipping industry) | Period: CY2008 to CY2030.
+Type and reduction,Steelmaking medium-term goal: Type: Not applicable | Reduction: Not applicable
+,Shipping medium-term goal: Type: Intensity | Reduction: Gross; 40 per cent
+Boundary,Steelmaking medium-term goal: Not applicable
+,Shipping medium-term goal:
+,"– GHG emissions from maritime transportation not owned or operated by BHP, but chartered and paid for by BHP, where the"
+,"transportation was of BHP-produced products sold by BHP. In some cases, the goal’s boundary may differ from the boundaries"
+,under mandatory reporting.
+,"–
+Inventory boundary: Scope 3 emissions, Category 4, shipping of BHP products only."
+Exclusions,Steelmaking medium-term goal: Not applicable
+,Shipping medium-term goal:
+,"– GHG emissions from maritime transportation owned, operated and/or chartered and paid for by a third party, where the"
+,transportation was of BHP-produced products sold by BHP.
+,"– GHG emissions from maritime transportation not owned or operated by BHP but chartered and paid for by BHP, where the"
+,transportation was of third-party-produced products sold by BHP (pursuant to our third-party-trading activity).
+,"– GHG emissions from maritime transportation not owned or operated by BHP but chartered and paid for by BHP or a third party,"
+,where the transportation was of products purchased by BHP.
+GHGs included,Steelmaking medium-term goal: Not applicable
+,"Shipping medium-term goal: CO2, CH4, N2O"
+Offsetting,Steelmaking medium-term goal: Not applicable
+,Shipping medium-term goal: Not planned but will be periodically assessed
+Measurement approach,Steelmaking medium-term goal: Committed funding (US$) for collaborative partnerships and venture capital investments with the
+,aim to support industry to develop steel production technology capable of 30 per cent lower GHG emissions intensity relative to
+,conventional blast furnace steelmaking.
+,"Shipping medium-term goal: Average gCO2-e per deadweight tonne per nautical mile (gCO2-e/dwt/nm), weighted based on"
+,"IMO defined vessel size ranges utilised by BHP during the time period, using a well-to-wake CO2-e emission factor from"
+,EU Regulation 2023/1805.
+Key adjustments made,Steelmaking medium-term goal: Not applicable
+to baseline year and,
+,Shipping medium-term goal: Baseline year and performance data have been adjusted to only include voyages associated with the
+subsequent data,
+,transportation of commodities currently in BHP’s portfolio due to the data availability challenges of adjusting by asset or operation
+,"for CY2008 and subsequent year data. GHG emissions intensity calculations currently include the transportation of copper,"
+,"iron ore, steelmaking coal, energy coal, molybdenum, uranium and nickel. Baseline year and performance data have also been"
+,"adjusted for a methodology change to use maritime transport emission factors from EU Regulation 2023/1805, after The British"
+,Standards Institution EN 16258 standard (the source of the emission factors we previously used) was withdrawn in CY2023.
+"Performance, adjusted",Steelmaking medium-term goal: FY2022: US$75 million | FY2023: US$114 million | FY2024: US$140 million
+(only for shipping),FY2025: US$171 million
+,Shipping medium-term goal: CY2008: 5.8 gCO2-e/dwt/nm | FY2023: 3.5 gCO2-e/dwt/nm | FY2024: 3.4 gCO2-e/dwt/nm |
+,FY2025: 3.3 gCO2-e/dwt/nm
+Goal setting method,Steelmaking medium-term goal: Qualitative. Tracked based on the funding (US$) we commit in collaborative partnerships and
+,venture capital investments with the aim to support industry to develop steel production technology capable of 30 per cent lower
+,GHG emissions intensity relative to conventional blast furnace steelmaking.
+,"Shipping medium-term goal: Set as a point in time, i.e. with the specific date of ‘by CY2030’ for our goal to support a 40 per cent"
+,"GHG emissions intensity reduction of BHP-chartered shipping of BHP products, while reflecting the challenges and uncertainty"
+,"and our inability (as BHP alone) to ensure Scope 3 emission reductions. As a result, the goal is not based on a trajectory and does"
+,"not imply a specific carbon budget, and so Scope 3 emissions may fluctuate (with some increases and/or non-linear decreases)"
+,during the period before the goal date.
+Goal derived using a,Steelmaking medium-term goal: Not applicable
+sectoral decarbonisation,
+,"Shipping medium-term goal: No, although our goal is generally consistent with the IMO’s CY2030 emissions intensity goal for the"
+approach,
+,international shipping sector and we selected CY2008 as our goal’s baseline year to align with the base year for the IMO’s CY2030
+,goal and its corresponding reasoning and strategy.
+Process for reviewing the,"The Board approves BHP’s significant social, community and sustainability policies (upon recommendation from the Nomination"
+setting of the goal,"and Governance Committee), including those related to climate change and climate transition planning, public sustainability goals"
+,and targets (including for GHG emission reductions). We review our GHG emissions targets and goals as part of the periodic
+,"development of an updated CTAP, or more frequently if required."
+Process for monitoring,"Monitored on a six-monthly basis through our social value scorecard framework, with progress reviewed by management and"
+progress towards the goal,"the Board as part of publication of our half-year results and annual reporting disclosures, or more frequently if required."
+Third-party validation of,"No, but we obtain limited assurance over our externally reported performance against our goals."
+our goal,
+Carbon budget for goal,Steelmaking medium-term goal: Not applicable
+period,
+,Shipping medium-term goal: Our goal is not based on a trajectory and does not imply a specific carbon budget.
+Expected progression,Steelmaking medium-term goal: Not applicable
+,Shipping medium-term goal: Progress towards our goal is expected to be non-linear and affected by organic changes in our
+,"production of commodities and associated increases in vessel chartering, due to the dependence on the availability of GHG"
+,emission reduction solutions more broadly across the shipping industry.
+
+=== Table 15 (page 54) ===
+Type and reduction,Type: Absolute
+,Reduction: Net; 100 per cent
+Boundary,Value chain long-term net zero goal:
+,"–
+Total reported Scope 3 emissions are estimated on an equity basis for downstream GHG emissions. For the upstream"
+,"GHG emissions component, the boundary is defined on a category-by-category basis due to data limitations."
+,"–
+Inventory boundary: Scope 3 emissions."
+,Shipping long-term net zero target:
+,– GHG emissions from maritime transportation not owned or operated by BHP where the transportation was of BHP-produced
+,"products sold by BHP. May be BHP-chartered or third-party-chartered. In some cases, the target’s boundary may differ from"
+,the boundaries under mandatory reporting.
+,"–
+Inventory boundary: Scope 3 emissions, Categories 4 and 9, shipping of BHP products only."
+,Direct suppliers long-term net zero target:
+,– Scopes 1 and 2 emissions of our direct suppliers included in BHP’s reported Scope 3 emissions reporting categories of
+,"purchased goods and services (including capital goods), fuel- and energy-related activities, business travel and employee"
+,"commuting. In some cases, the target’s boundary may differ from the boundaries under mandatory reporting."
+,"–
+Inventory boundary: Scope 3 emissions, Categories 1, 3, 6 and 7 (subset) emissions are being used as a proxy for the Scopes 1"
+,and 2 emissions of our direct suppliers.
+Exclusions,Value chain long-term net zero goal: Refer to exclusions for our shipping and suppliers’ targets.
+,Shipping long-term net zero target:
+,"– GHG emissions from maritime transportation not owned or operated by BHP but chartered and paid for by BHP, where the"
+,transportation was of third-party-produced products sold by BHP (pursuant to our third-party-trading activity).
+,"– GHG emissions from maritime transportation not owned or operated by BHP but chartered and paid for by BHP or a third party,"
+,where the transportation was of products purchased by BHP.
+,Direct suppliers long-term net zero target: Scope 3 emissions (for our direct suppliers) associated with our purchased goods and
+
+=== Table 16 (page 54) ===
+"52
+BHP Annual Report 2025"
+9  Sustainability continued
+"Value chain GHG emissions (Scope 3 emissions) long-term net zero targets and goal definitions, assumptions,"
+adjustments and additional key details
+"Description
+Value chain long-term net zero goal: We have a long-term goal of net zero Scope 3 GHG emissions by CY2050. Achievement"
+"of this goal is uncertain, particularly given the challenges of a net zero pathway for our customers in steelmaking, and we cannot"
+ensure the outcome alone.
+Shipping long-term net zero target: Target net zero by CY2050 for the GHG emissions from all shipping of BHP products. Ability
+"to achieve the target is subject to the widespread availability of carbon neutral solutions to meet our requirements, including low"
+"to zero GHG emission technologies, fuels, goods and services."
+Direct suppliers long-term net zero target: Target net zero by CY2050 for the operational GHG emissions of our direct suppliers.
+"Ability to achieve the target is subject to the widespread availability of carbon neutral solutions to meet our requirements,"
+"including low to zero GHG emissions technologies, fuels, goods and services."
+"Reference year, 
+Reference year: FY2020. FY2020 is used as a reference year to track progress towards our targets and goal but is not a baseline"
+"and period
+year for achieving our targets or goal."
+Period: FY2020 to CY2050
+"Type and reduction
+Type: Absolute"
+Reduction: Net; 100 per cent
+"Boundary
+Value chain long-term net zero goal:"
+"–
+Total reported Scope 3 emissions are estimated on an equity basis for downstream GHG emissions. For the upstream"
+"GHG emissions component, the boundary is defined on a category-by-category basis due to data limitations."
+"–
+Inventory boundary: Scope 3 emissions."
+Shipping long-term net zero target:
+– GHG emissions from maritime transportation not owned or operated by BHP where the transportation was of BHP-produced
+"products sold by BHP. May be BHP-chartered or third-party-chartered. In some cases, the target’s boundary may differ from"
+the boundaries under mandatory reporting.
+"–
+Inventory boundary: Scope 3 emissions, Categories 4 and 9, shipping of BHP products only."
+Direct suppliers long-term net zero target:
+– Scopes 1 and 2 emissions of our direct suppliers included in BHP’s reported Scope 3 emissions reporting categories of
+"purchased goods and services (including capital goods), fuel- and energy-related activities, business travel and employee"
+"commuting. In some cases, the target’s boundary may differ from the boundaries under mandatory reporting."
+"–
+Inventory boundary: Scope 3 emissions, Categories 1, 3, 6 and 7 (subset) emissions are being used as a proxy for the Scopes 1"
+and 2 emissions of our direct suppliers.
+"Exclusions
+Value chain long-term net zero goal: Refer to exclusions for our shipping and suppliers’ targets."
+Shipping long-term net zero target:
+"– GHG emissions from maritime transportation not owned or operated by BHP but chartered and paid for by BHP, where the"
+transportation was of third-party-produced products sold by BHP (pursuant to our third-party-trading activity).
+"– GHG emissions from maritime transportation not owned or operated by BHP but chartered and paid for by BHP or a third party,"
+where the transportation was of products purchased by BHP.
+Direct suppliers long-term net zero target: Scope 3 emissions (for our direct suppliers) associated with our purchased goods and
+"services (including capital goods), fuel- and energy-related activities, business travel and employee commuting."
+"GHGs included
+Value chain long-term net zero goal: Defined by the available data, which differs by Scope 3 emissions category. We intend to"
+continue to improve our GHG emission calculations over time to encompass specific GHGs as data becomes available.
+"Shipping long-term net zero target: CO2, CH4, N2O"
+"Direct suppliers long-term net zero target: Defined by the available data, which differs by Scope 3 emissions category. We intend"
+to continue to improve our GHG emission calculations over time to encompass specific GHGs as data becomes available.
+"Offsetting
+We anticipate offsetting by our customers, suppliers and other third parties will play a role in meeting our long-term net zero goal"
+"(and potentially our long-term net zero targets), particularly for residual GHG emissions in steelmaking which are not currently"
+expected to reach zero by CY2050. Where third parties offset their GHG emissions that appear in our reported Scope 3 emissions
+"inventory, we plan to recognise and report the net GHG emissions after offsetting. Carbon credits sourced by third parties in"
+our value chain and associated with GHG emissions that appear in our reported Scope 3 emissions inventory would need to
+be high-integrity before we recognised that offsetting in our reporting. Our carbon offsetting integrity standards are available
+at bhp.com/sustainability/climate-change/carbon-offsetting
+"Value chain long-term net zero goal: Description of the calculation methodology used for each Scope 3 emissions category 
+Measurement approach"
+"can be found in the BHP GHG Emissions Calculation Methodology 2025, available at bhp.com/sustainability"
+Shipping long-term net zero target: Vessel- and voyage-specific GHG emissions calculated using maritime transport emission
+factors from EU Regulation 2023/1805.
+Direct suppliers long-term net zero target: As a proxy for measurement of the Scopes 1 and 2 emissions of our direct
+"suppliers, progress is currently measured using Categories 1, 3, 6 and 7 emissions data using a mix of spend-based"
+and activity-based methodology.
+"Key adjustments made 
+Value chain long-term net zero goal: Category 1, Category 3, Category 4 (maritime component), Category 9 (maritime component),"
+"to reference year and 
+Category 10, Category 11 and Category 15 GHG emissions in reference year and performance data have been adjusted for the"
+"subsequent data
+divestment of our interest in Cerrejón (with an effective economic date of 31 December 2020), divestment of our interest in BMC"
+"(completed on 3 May 2022), divestment of our interest in the Rhourde Ouled Djemma (ROD) Integrated Development (completed"
+"in April 2022), divestment of our Petroleum business (merger with Woodside completed on 1 June 2022), BMA’s divestment"
+of the Blackwater and Daunia mines (completed on 2 April 2024) and acquisition of OZ Minerals (completed on 2 May 2023).
+The remaining categories have not been adjusted due to their immateriality to our long-term net zero goal.
+Shipping long-term net zero target: Category 4 (maritime component) and Category 9 (maritime component) GHG emissions in
+reference year and performance data have been adjusted for a methodology change to use maritime transport emission factors
+"from EU Regulation 2023/1805, after The British Standards Institution (BSI) EN 16258 standard (the source of the emission factors"
+we previously used) was withdrawn in CY2023 (adjustment applicable for reference year and FY2020 to FY2024 performance
+"data), and have been adjusted for the divestment of our interest in BMC (completed on 3 May 2022), divestment of our Petroleum"
+"business (merger with Woodside completed on 1 June 2022), BMA’s divestment of the Blackwater and Daunia mines (completed"
+on 2 April 2024) and acquisition of OZ Minerals (completed on 2 May 2023).
+Direct suppliers long-term net zero target: Category 1 and Category 3 GHG emissions in reference year and performance data
+"have been adjusted for the divestment of our interest in BMC (completed on 3 May 2022), divestment of our Petroleum business"
+"(merger with Woodside completed on 1 June 2022), BMA’s divestment of the Blackwater and Daunia mines (completed on"
+2 April 2024) and acquisition of OZ Minerals (completed on 2 May 2023). Categories 6 and 7 were not adjusted due to their
+immateriality to our long-term net zero target.
+
+=== Table 17 (page 55) ===
+"Value chain GHG emissions (Scope 3 emissions) long-term net zero targets and goal definitions, assumptions,",
+adjustments and additional key details,
+"Performance, adjusted",Value chain long-term net zero goal: FY2020: 352.0 MtCO2-e | FY2021: 356.3 MtCO2-e | FY2022: 364.1 MtCO2-e |
+,FY2023: 371.6 MtCO2-e | FY2024: 377.0 MtCO2-e | FY2025: 378.2 MtCO2-e
+,Shipping long-term net zero target: FY2020: 6.6 MtCO2-e | FY2021: 7.2 MtCO2-e | FY2022: 7.1 MtCO2-e | FY2023: 6.4 MtCO2-e |
+,FY2024: 6.2 MtCO2-e | FY2025: 5.8 MtCO2-e
+,Direct suppliers long-term net zero target: FY2020: 11.6 MtCO2-e | FY2021: 11.7 MtCO2-e | FY2022: 11.5 MtCO2-e |
+,FY2023: 13.0 MtCO2-e | FY2024: 14.3 MtCO2-e | FY2025: 14.5 MtCO2-e
+Target/goal setting,"Set as a point in time, i.e. with the specific date of ‘by CY2050’ to reach the target or goal of net zero, while reflecting the"
+method,"challenges and uncertainty and our inability (as BHP alone) to ensure Scope 3 emission reductions. As a result, the target or"
+,"goal is not based on a trajectory and does not imply a specific carbon budget, and Scope 3 emissions may fluctuate (with some"
+,increases and/or non-linear decreases) during the period before the target or goal date.
+Target/goal derived,No
+using a sectoral,
+decarbonisation approach,
+Process for reviewing the,"The Board approves BHP’s significant social, community and sustainability policies (upon recommendation from the Nomination"
+setting of the target/goal,"and Governance Committee), including those related to climate change and climate transition planning, public sustainability goals"
+,and targets (including for GHG emission reductions). We review our GHG emissions targets and goals as part of the periodic
+,"development of an updated CTAP, or more frequently if required."
+Process for monitoring,"Monitored on a yearly basis through our annual reporting processes, with progress reviewed by management and the Board as"
+progress towards the,"part of publication of our annual reporting disclosures, or more frequently if required."
+target/goal,
+Third-party validation,"No, but we obtain limited assurance over our externally reported performance against our targets and goal."
+of our target/goal,
+Carbon budget for target/,Our targets and goal are not based on trajectories and do not imply specific carbon budgets.
+goal period,
+Expected progression,Progress towards our targets and goal is expected to be non-linear and affected by organic changes in our production
+,of commodities.
+
+=== Table 18 (page 64) ===
+"– Management’s own publicly disclosed criteria, as informed by the GRI Topic",
+,"Standards, and the Sustainability Accounting Standards Board (SASB) Mining"
+,and Metals Standard
+"– BHP GHG Emissions Calculation Methodology 2025, as informed by:",
+,"–
+The World Resource Institute/World Business Council for Sustainable Development"
+,"Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard,"
+,including the Greenhouse Gas Protocol: Corporate Value Chain Scope 3 Accounting
+,and Reporting Standard
+,"–
+The Australian Government’s National Greenhouse and Energy Reporting"
+,"(Measurement) Determination 2008 for Scope 1 and Scope 2 greenhouse gas data,"
+,as applicable
+–,ICMM guidance and minimum disclosure Standards: Water Reporting: Good practice
+
+=== Table 19 (page 64) ===
+What we assured (Reasonable Assurance Subject Matter),What we assured it against (Criteria)
+Scope 1 and Scope 2 greenhouse gas emissions as reported in,"– BHP GHG Emissions Calculation Methodology 2025, as informed by:"
+Section 9 of the Operating and Financial Review within the BHP,
+,"–
+The World Resource Institute/World Business Council for Sustainable"
+Annual Report 2025 and the BHP ESG Standards and Databook,
+,Development Greenhouse Gas Protocol: A Corporate Accounting and Reporting
+"2025, referenced above",
+,"Standard, including the Greenhouse Gas Protocol: Scope 2 Guidance"
+,"–
+The Australian Government’s National Greenhouse and Energy Reporting"
+,(Measurement) Determination 2008 for Scope 1 and Scope 2 greenhouse
+,"gas data, as applicable"
+
+=== Table 20 (page 64) ===
+,–,The Australian Government’s National Greenhouse and Energy Reporting
+,,(Measurement) Determination 2008 for Scope 1 and Scope 2 greenhouse
+,,"gas data, as applicable"
+"Other than as described in the preceding paragraphs, which set out the",,
+,,Key responsibilities
+"scope of our engagement, we did not perform assurance procedures",,
+,,BHP’s responsibility
+on the remaining information included in the BHP Annual Report,,
+"2025, and accordingly, we do not express an opinion or conclusion on",,"BHP’s management is responsible for selecting the Criteria, and ensuring"
+this information.,,"the Subject Matter is prepared, in all material respects, in accordance"
+,,with that Criteria. This responsibility includes establishing and maintaining
+The Limited Assurance Subject Matter and the Reasonable Assurance,,
+,,"internal controls, maintaining adequate records and making estimates that"
+"Subject Matter may be referred to in this report, individually or collectively,",,
+,,"are relevant to the preparation of the Subject Matter, such that it is free"
+"as the case requires, as the ‘Subject Matter’.",,
+,,"from material misstatement, whether due to fraud or error."
+,,EY’s responsibility and independence
+,,"For the Limited Assurance engagement, our responsibility is to express"
+,,a conclusion on the Limited Assurance Subject Matter based on the
+,,"evidence we have obtained. For the Reasonable Assurance engagement,"
+,,our responsibility is to express an opinion conclusion on the Reasonable
+,,Assurance Subject Matter based on the evidence we have obtained.
+A member firm of Ernst & Young Global Limited,,
+Liability limited by a scheme approved under Professional Standards Legislation,,
+
+=== Table 21 (page 150) ===
+148,BHP Annual Report 2025
+1  Consolidated Financial Statements continued,
+16 Climate change,
+"The Group recognises that warming of the climate is unequivocal, the human influence is clear and physical impacts are unavoidable. Identifying,",
+monitoring and assessing the actual and potential impacts of climate change is complex and the Group continues to assess the actual and potential,
+"financial impacts of climate-related risks (threats and opportunities), including the transition to a low-carbon economy and physical risk impacts.",
+"The Group’s current climate change strategy focuses on developing a portfolio of commodities to support the megatrends shaping our world, reducing",
+"operational greenhouse gas (GHG) emissions (Scopes 1 and 2 from our operated assets), supporting value chain (Scope 3) GHG emissions reductions,",
+and managing climate-related risks.,
+Areas of these Financial Statements that may be impacted in connection with this strategy throughout the value creation and delivery cycle of the Group’s,
+"operations, include:",
+
+=== Table 22 (page 153) ===
+,The estimated cost of closure activities includes management’s current
+Expenditure to support value chain decarbonisation,
+,"best estimate in relation to post-closure monitoring and maintenance,"
+"The Group continues to invest, including through partnership with others,",
+,which may be required for significant periods beyond the completion of
+in potential GHG emissions reduction opportunities in its value chain through,
+,other closure activities and is therefore exposed to potential long-term
+technology innovation and development to support GHG emissions reductions,
+,climate-related impacts. While reflecting management’s current best
+by steelmaking customers and in the maritime industry.,
+,"estimate, the cost of post-closure monitoring and maintenance may"
+"While the Group seeks to influence reduction opportunities, Scope 3",
+,"change in future reporting periods as the understanding of, and potential"
+emissions occur outside of the Group’s direct control. Reduction pathways,
+,long-term impacts from a changing climate continue to evolve.
+"are dependent on the development, and upstream or downstream",
+,"Given the long-lived nature of the majority of the Group’s assets, many"
+"deployment of, solutions and/or supportive policy and improvements in",
+,final closure activities are not expected to occur for a significant period
+"Scope 3 emissions measurement. Where possible, the financial impact of",
+,of time. However:
+the Group’s activities in support of the development of Scope 3 emissions,
+"reduction pathways is reflected in these Financial Statements. In FY2025,",– Acknowledging the wide range of potential energy transition impacts
+this included expenditure of approximately US$60 million to support,for steelmaking coal demand and the impact of any significant changes
+
+=== Table 23 (page 153) ===
+,"Given the long-lived nature of the majority of the Group’s assets, many"
+"deployment of, solutions and/or supportive policy and improvements in",
+,final closure activities are not expected to occur for a significant period
+"Scope 3 emissions measurement. Where possible, the financial impact of",
+,of time. However:
+the Group’s activities in support of the development of Scope 3 emissions,
+"reduction pathways is reflected in these Financial Statements. In FY2025,",– Acknowledging the wide range of potential energy transition impacts
+this included expenditure of approximately US$60 million to support,for steelmaking coal demand and the impact of any significant changes
+"collaborative partnerships, consortiums, research and development","in demand on mine lives, for illustrative purposes only, a one-year"
+and BHP Ventures investments.,"change in the mine life of the Group’s steelmaking coal assets would,"
+,"in isolation, change the closure and rehabilitation provisions for those"
+Given the inherent uncertainty in future technology and policy,
+,assets by approximately US$40 million.
+"advancements, it is not currently possible to reliably estimate or measure",
+the full potential Financial Statement impacts of the Group’s pursuit of its,– The Group received approval to continue mining at NSWEC for an
+Scope 3 goals and targets.,"additional four years, as part of the planned closure of the site in"
+,"June 2030. As such, while the provision is subject to estimation and"
+"Timing, scope and expected cost of closure and","assumptions, the timing of closure is no longer considered materially"
+rehabilitation activities,susceptible to potential long-term climate-related transition risks.
+"The extent, timing and cost of the Group’s future closure activities may",
+
+=== Table 24 (page 228) ===
+"226
+BHP Annual Report 2025",
+9  Shareholder information continued,
+"Further, the governments in a number of regions where we or our suppliers","From time to time, certain sanctions are adopted by the UN Security"
+or customers operate have advanced targets and goals to reduce GHGs.,"Council and/or various governments, including in the United Kingdom,"
+"In Australia, the National Greenhouse and Energy Reporting Act 2007 (Cth)","the United States, the EU and Australia. Those sanctions prohibit, or"
+imposes requirements for corporations meeting a certain threshold to register,"in some cases impose, certain approval and reporting requirements"
+and report company information about GHGs and energy production and,"on transactions involving sanctioned countries, entities and individuals"
+"consumption as part of a single, national reporting scheme and establishes",and/or assets controlled or owned by them. Certain transfers into or out
+the Safeguard Mechanism to keep certain GHG emissions at or below,"of Australia of amounts of A$10,000 or more in any currency may also be"
+"legislated limits, known as baselines, for Australia’s largest industrial facilities.",subject to reporting requirements.
+"Under the Safeguard Mechanism, facility baselines for Scope 1 GHG",
+,The Australian Foreign Acquisitions and Takeovers Act 1975 (the FATA)
+emissions at Australia’s largest industrial facilities are required to decrease,
+,restricts certain acquisitions of interests in securities in Australian
+"in accordance with a set decline rate, with a view to achieving consistent and",
+,"companies, including BHP Group Limited. Generally, under the FATA,"
+gradual GHG emission reductions on a trajectory consistent with achieving,
+,the prior approval of the Australian Treasurer must be obtained for
+Australia’s GHG emission reduction targets of 43 per cent below 2005 levels,
+,proposals by a foreign person (either alone or together with its associates)
+by 2030 and net zero by 2050. Australia is due to submit its next round of,
+,to acquire 20 per cent or more of the voting power or issued securities
+Nationally Determined Contributions for the five years to 2035 during CY2025.,
+,in an Australian company. Lower approval thresholds apply in certain
+Facilities that exceed their progressively declining legislated baselines may,
+,"circumstances, including for acquisitions of interests in entities that"
+apply credits to meet the compliance obligations.,
+,"operate a ‘national security business’, and acquisitions of interests by"
+Regulations setting emissions standards for fuels used to power vehicles,foreign government investors of voting power or issued securities in an
+and equipment at our assets and the modes of transport used in our supply,Australian company.
+"chains can also have a substantial impact, both directly and indirectly, on",
+,The FATA also empowers the Treasurer to make certain orders prohibiting
+"the markets for these products, with flow-on impacts on our costs.",
+,"acquisitions by foreign persons in Australian companies, including BHP"
+A number of governments and regulators in relevant jurisdictions for BHP,Group Limited (and requiring divestiture if the acquisition has occurred)
+have implemented or otherwise proposed disclosure rules that would require,where the Treasurer considers the acquisition to be contrary to national
+enhanced climate-related and broader sustainability-related disclosures.,security or the national interest.
+"For example, in Australia, the Federal Government legislation implementing",
+,"Except for the restrictions under the FATA, there are no limitations,"
+a new mandatory annual climate-related financial disclosure regime and,
+,either under Australian law or under the Constitution of BHP Group
+associated auditing and assurance requirements was passed into law in,
+,"Limited, on the right of non-residents to hold or vote BHP Group Limited"
+"September 2024 and is being phased in from 1 January 2025, with BHP’s",
+,ordinary shares.
+first reporting period under this regime commencing 1 July 2025. There is,
+also growing focus on mandatory corporate due diligence and reporting,
+,Post-unification requirements under FATA
+on climate-related and broader sustainability-related issues in the entity’s,
+"own operations and value chain. For example, the European Union (EU)",The Treasurer gave approval under the FATA for the actions taken as
+Corporate Sustainability Due Diligence Directive which is anticipated to be,part of implementation of the unification of BHP’s DLC structure on the
+"phased in from 1 July 2028, will require in-scope companies to conduct",conditions set out below:
+human rights and environmental due diligence on the company’s own,
+,"– BHP Group Limited remains an Australian resident company,"
+operations and certain of their business partners’ chain of activities (noting,
+,"incorporated under the Corporations Act, that is listed on the ASX"
+that these requirements are subject to potential simplification amendments,
+,under the name ‘BHP Group Limited’ and trades under that name.
+currently being considered by the EU Commission).,
+,– BHP Group Limited remains the ultimate holding company of and
+Our business is also subject to a number of regulations and legal,
+,continues to ultimately manage and control the companies conducting
+"developments relating to employee relations, including industrial relations",
+,the businesses that are presently conducted by the subsidiaries of BHP
+developments in Australia and other developments described in OFR 9.5,
+,"Group Limited, including the Minerals and Services businesses, for so"
+and 9.6.,
+,long as those businesses form part of the BHP Group.
+"From time to time, certain trade actions, such as sanctions, tariffs and",
+,– The headquarters of BHP Group Limited (including the BHP Group’s
+"other trade restrictions, including responses to the same, are adopted by",
+,corporate head offices) are in Australia.
+"the United Nations (UN) Security Council and/or various governments,",
+,– The Chief Executive Officer of BHP Group Limited has their principal
+"including in the United Kingdom, the United States, the EU, China and",
+,office in Australia.
+"Australia against certain countries, entities or individuals, that may restrict",
+our ability to sell or the market for extracted minerals or other products,– The centre of administrative and practical management of BHP Group
+"to and/or our ability to purchase goods or services from, these countries,",Limited is in Australia and BHP Group Limited’s corporate head office
+entities or individuals.,"activities, of the kind presently carried on in Australia, continue to be"
+,managed in Australia.
+,
+Shareholding limits,– The headquarters of BHP Group Limited is publicly acknowledged
+,as being in Australia in significant public announcements and in all
+"Under current Australian legislation, the payment of any dividends, interest",
+,public documents.
+or other payments by BHP Group Limited to non-resident holders of BHP,
+Group Limited’s shares is not restricted by exchange controls or other,– The Chief Executive Officer of BHP Group Limited has their principal
+"limitations, except that in certain circumstances, BHP Group Limited may",place of residence in Australia.
+be required to withhold Australian taxes.,– The majority of all regularly scheduled Board meetings of BHP Group
+,Limited in any calendar year occurs in Australia.
+
+=== Table 25 (page 232) ===
+"230
+BHP Annual Report 2025",,
+10  Glossary continued,,
+Equity share approach (in relation to GHG,GRI (Global Reporting Initiative)  The Global,Location-based (in relation to reporting GHG
+emissions data)  A consolidation approach,Reporting Initiative works with businesses and,emissions data)  Scope 2 emissions based on
+whereby a company accounts for GHG,governments to understand and communicate,average energy generation emission factors
+emissions from operations according to its share,their impact on critical sustainability issues.,"for defined geographic locations, including"
+of equity in the operation. The equity share,,"local, subnational, or national boundaries (i.e."
+,"Groundwater  Water beneath the earth’s surface,",
+"reflects economic interest, which is the extent of",,"grid factors). In the case of a direct line transfer,"
+,"including beneath the seabed, which fills pores",
+rights a company has to the risks and rewards,,the location-based emissions are equivalent to
+,"or cracks between porous media, such as soil,",
+flowing from an operation. Also see the definition,,the market-based emissions.
+,"rock, coal and sand, often forming aquifers.",
+for Operational control approach.,,
+,Groundwater may be abstracted for use from,Lower GHG emission(s) (for shipping)  Capable
+"ESG  Environmental, social and governance.",bore fields or accessed via dewatering to,of between 5 per cent to 80 per cent lower GHG
+,"access ore. For accounting purposes, water",emissions intensity (gCO2 -e/joule) on a well-to-
+Executive KMP (Key Management Personnel),,
+,that is entrained in the ore can be considered,wake basis compared to conventional fossil fuels
+Executive Key Management Personnel includes,,
+,as groundwater.,used in shipping.
+"the Executive Director (our CEO), the Chief",,
+"Financial Officer, President Australia, President",Group  BHP Group Limited and its subsidiaries.,Lower GHG emission(s) (other than shipping
+"Americas, and the Chief Operating Officer.",,fuels)  Capable of lower absolute GHG
+,GWP (Global Warming Potential)  A factor,
+It does not include the Non-executive Directors,,emissions or GHG emissions intensity than the
+,describing the radiative forcing impact (degree,
+(on our Board).,,current state or the conventional or incumbent
+,of harm to the atmosphere) of one unit of a given,
+,,"technology, as applicable."
+Fugitive methane emissions  Methane emissions,GHG relative to one unit of CO2. BHP currently,
+that are not physically controlled but result,uses GWP from the Intergovernmental Panel on,Low to zero GHG emission(s) (for shipping)
+from the intentional or unintentional releases,Climate Change (IPCC) Assessment Report 5,Capable of between 81 per cent to 100 per cent
+of methane from coal mining.,(AR5) based on a 100-year timeframe.,lower GHG emissions intensity (gCO2 -e/joule)
+,,on a well-to-wake basis compared to conventional
+Functions  Functions operate along global,HPI (high potential injuries)  High potential,
+,,fossil fuels used in shipping.
+reporting lines to provide support to all areas,injuries are recordable injuries and first aid,
+of the organisation. Functions have specific,cases where there was the potential for a fatality.,Low to zero GHG emission(s) (for energy products
+accountabilities and deep expertise in areas,,other than shipping fuels)  Capable of between
+,ICMM (International Council on Mining and,
+"such as finance, legal, governance, technology,",,90 per cent to 100 per cent lower GHG emissions
+,Metals)  The International Council on Mining and,
+"human resources, corporate affairs, health,",,intensity during generation and/or combustion (as
+,Metals is an international organisation dedicated,
+safety and community.,,applicable) compared to conventional fossil fuel
+,"to a safe, fair and sustainable mining and",
+,,generation and/or combustion.
+Future-facing commodity  A commodity that,metals industry.,
+BHP determines to be positively leveraged in the,,Market-based method (in relation to reporting
+,IFRS (International Financial Reporting,
+energy transition and broader global response to,,GHG emissions data)  Scope 2 emissions based
+,Standards)  Accounting standards as issued by,
+"climate change, with potential for decades-long",,on the generators (and therefore the generation
+,the International Accounting Standards Board.,
+demand growth to support emerging megatrends,,fuel mix from which the reporter contractually
+,Indigenous Peoples Policy Statement,
+like electrification and decarbonisation.,,purchases electricity and/or is directly provided
+,Articulates BHP’s approach to engaging with,
+"Currently, the major commodities in the BHP",,electricity via a direct line transfer).
+,and supporting Indigenous peoples.,
+portfolio that fall within this criterion include,,
+,,MFL (Maximum Foreseeable Loss)  The MFL
+"copper, nickel and potash.",IPCC (Intergovernmental Panel on Climate,
+,,is the estimated impact to BHP if a risk were
+,Change)  The Intergovernmental Panel on,
+Gearing ratio  The ratio of net debt to net debt,,to materialise in a worst-case scenario without
+,Climate Change is the United Nations body for,
+plus net assets.,,regard to probability and assuming all controls
+,assessing the science related to climate change.,
+,,are ineffective.
+GHG (greenhouse gas)  For BHP reporting,,
+,IUCN (International Union for Conservation,
+"purposes, these are the aggregate",,"Nature  The natural world, with an emphasis"
+,of Nature)  The International Union for,
+anthropogenic carbon dioxide equivalent,,on the diversity of living organisms (including
+,Conservation of Nature is an international,
+"emissions of carbon dioxide (CO2), methane",,people) and their interactions among themselves
+,organisation working in the field of nature,
+"(CH4), nitrous oxide (N2O), hydrofluorocarbons",,and with their environment. (Adapted from
+,conservation and sustainable use of,
+"(HFCs), perfluorocarbons (PFCs) and sulphur",,"Díaz, S et al. (2015) The IPBES Conceptual"
+,natural resources.,
+hexafluoride (SF6). Nitrogen trifluoride (NF3),,Framework – Connecting Nature and People).
+GHG emissions are currently not relevant for,KMP (Key Management Personnel)  Key,
+,,"Net zero (for a BHP GHG emissions target,"
+BHP reporting purposes. GHG emissions in,Management Personnel includes the roles,
+,,"goal or pathway, or similar)  Net zero includes"
+this report are presented in tonnes CO2-e or,which have the authority and responsibility for,
+,,the use of carbon credits as governed by BHP’s
+"its multiples, unless otherwise stated.","planning, directing and controlling the activities",
+,,"approach to carbon offsetting, available at"
+,"of BHP. These are Non-executive Directors, the",
+GISTM  Global Industry Standards on,,bhp.com/climate.
+,"CEO, the Chief Financial Officer, the President",
+Tailings Management.,,
+,,"Net zero (for industry sectors, the global"
+,"Australia, and the President Americas.",
+Goal (for BHP with respect to GHG emissions),,"economy, transition or future, or similar)  Net zero"
+,KPI (key performance indicator)  Used to,
+An ambition to seek an outcome for which there,,refers to a state in which the GHGs (as defined
+,"measure the performance of the Group,",
+"is no current pathway(s), but for which efforts are",,in this Glossary) going into the atmosphere are
+,individual businesses and executives in any,
+being made or will be pursued towards addressing,,balanced by removal out of the atmosphere.
+,one year.,
+"that challenge, subject to certain assumptions or",,
+,,NGER (National Greenhouse and Energy
+conditions. Such efforts may include the resolution,Kunming-Montreal Global Biodiversity,
+,,Reporting Scheme)  The Australian National
+of existing potential or emerging pathways.,Framework  The Kunming-Montreal Global,
+,,Greenhouse and Energy Reporting scheme
+,Biodiversity Framework is a set of targets and,
+Goals of the Paris Agreement  The central,,is a single national framework for reporting
+,goals adopted by the 15th Conference of Parties,
+objective of the Paris Agreement is its long-term,,and disseminating company information about
+,(COP15) to the United Nations Convention on,
+temperature goal to hold the global average,,"GHG emissions, energy production, energy"
+,Biological Diversity (CBD) in December 2022,
+temperature increase to well below 2°C above,,consumption and other information specified
+,that aims to address the loss of biodiversity and,
+pre-industrial levels and pursue efforts to,,under the National Greenhouse and Energy
+,restore natural ecosystems by 2030.,
+limit the temperature increase to 1.5°C above,,Reporting Act 2007.
+pre-industrial levels.,Legacy assets  Legacy assets refer to those,
+,,NOJV (non-operated asset/non-operated
+,"BHP operated assets, or part thereof, located in",
+Green ammonia  Ammonia produced by,,joint venture)  Non-operated assets/non-
+,the Americas that are in the closure phase.,
+synthetically combining nitrogen with low to zero,,operated joint ventures are our interests in
+GHG emission hydrogen (ammonia synthesis),LME (London Metal Exchange)  A major futures,assets that are owned as a joint venture but
+using renewable or other low to zero GHG,exchange for the trading of industrial metals.,not operated by BHP. References in this
+emissions electricity.,,Annual Report to a ‘joint venture’ are used for
+,,convenience to collectively describe assets that
+Grievance  An event or community complaint,,
+,,are not wholly owned by BHP. Such references
+relating to an adverse impact/event that has,,
+,,are not intended to characterise the legal
+escalated to the point where a third-party,,
+,,relationship between the owners of the asset.
+intervention or adjudication is required to,,
+resolve it.,,NSWEC  New South Wales Energy Coal.
+
+=== Table 26 (page 233) ===
+Occupational illness  An illness that occurs as,Petroleum (asset group)  A group of oil and,Scope 3 emissions (GHG emissions)  Scope 3
+a consequence of work-related activities or,gas assets formerly operated by BHP before,are all other indirect GHG emissions (not included
+exposure. It includes acute or chronic illnesses,its merger with Woodside in June 2022.,in Scope 2 emissions) that occur in the reporting
+"or diseases, which may be caused by inhalation,",Petroleum’s core production operations were,"company’s value chain. For BHP, these are"
+"absorption, ingestion or direct contact.","located in the US Gulf of Mexico, Australia and",primarily emissions resulting from our customers
+,Trinidad and Tobago. Petroleum produced crude,"using and processing the commodities we sell, as"
+OECD Organisation for Economic Co-operation,,
+,"oil and condensate, gas and natural gas liquids.",well as upstream emissions associated with the
+and Development.,,
+,,"extraction, production and transportation of the"
+,PPA (power purchasing agreement)  An agreement,
+OELs (occupational exposure limits)  An OEL is,,
+,,"goods, services, fuels and energy we purchase"
+,between a vendor and purchaser for the sale,
+an upper limit on the acceptable concentration,,
+,,for use at our operations; emissions resulting from
+,"of electricity, which may be wholly or partially",
+of a hazardous substance in workplace air,,
+,,the transportation and distribution of our products;
+,renewable or other low to zero GHG emissions,
+for a particular material or class of materials.,,
+,,and operational emissions (on an equity basis)
+,energy and either physically supplied directly to the,
+OELs may also be set for exposure to physical,,
+,,from our non-operated joint ventures.
+,purchaser or for supply from an electricity grid.,
+"agents, such as noise, vibration or radiation.",,
+,,SEC (United States Securities and Exchange
+,PPE (personal protective equipment)  PPE,
+Offsetting (in relation to GHG emissions)  The,,
+,,Commission)  The US regulatory commission that
+,means anything used or worn to minimise risk,
+use of carbon credits. Refer to the definition of,,
+,,"aims to protect investors, maintain fair, orderly and"
+,"to a worker’s health and safety, including air",
+carbon credit.,,
+,,efficient markets and facilitate capital formation.
+,supplied respiratory equipment.,
+OFR  BHP’s Operating and Financial Review for,,
+,,Shareplus  BHP’s all-employee share
+,Physical climate-related risk  Acute risks that,
+the year ended 30 June 2025.,,
+,,purchase plan.
+,"are event-driven, including increased severity",
+Onshore US  BHP’s Petroleum asset (divested,,
+,and/or frequency of extreme climatic events and,Social investment  Social investment is our
+in the year ended 30 June 2019) in four US,,
+,chronic risks resulting from longer-term changes,voluntary contribution towards projects
+"shale areas (Eagle Ford, Permian, Haynesville",,
+,in climate patterns.,or donations with the primary purpose of
+"and Fayetteville), where we produced oil,",,
+,,contributing to the resilience of the communities
+,"Record date (in relation to dividends)  The date,",
+"condensate, gas and natural gas liquids.",,
+,,"where we operate and the environment, aligned"
+,"determined by a company’s board of directors,",
+Operated assets  Operated assets are our,,with our broader business priorities.
+,by when an investor must be recorded as,
+"assets (including those under exploration,",,
+,an owner of shares in order to qualify for a,Social value  Our positive contribution to society
+"projects in development or execution phases,",,
+,forthcoming dividend.,"through the creation of mutual benefit for BHP,"
+sites and operations that are closed or in,,
+,,"our shareholders, Indigenous partners and the"
+,Reference year (for a BHP GHG emissions target,
+the closure phase) that are wholly owned,,
+,,broader community.
+,or goal)  A year used to track progress towards,
+and operated by BHP or that are owned as a,,
+,GHG emissions targets and goals. It is not a,"South32  During FY2015, BHP demerged"
+BHP-operated joint venture. References in this,,
+,baseline for GHG emissions targets and goals.,"a selection of our alumina, aluminium, coal,"
+Annual Report to a ‘joint venture’ are used for,,
+,,"manganese, nickel, silver, lead and zinc assets"
+convenience to collectively describe assets that,RIGI  Argentina’s incentive regime for,
+,,into a new company – South32 Limited.
+are not wholly owned by BHP. Such references,large investments.,
+are not intended to characterise the legal,,Steelmaking coal  Metallurgical coal of a
+,Safeguard Mechanism  A mechanism established,
+relationship between the owners of the asset.,,sufficient high quality (grade) that it is suitable
+,in Australia under the National Greenhouse and,
+,,for use in steelmaking. Refer to Additional
+Operational control approach (in relation to,Energy Reporting Act 2007 to keep certain GHG,
+,,information 10.1 for the definition of metallurgical
+GHG emissions data)  A consolidation approach,"emissions at or below legislated limits, known",
+,,coal and coking coal.
+whereby a company accounts for 100 per cent,"as baselines, for Australia’s largest industrial",
+of the GHG emissions over which it has,facilities. Reforms to the Safeguard Mechanism,Surface water  All water naturally open to the
+operational control (a company is considered,that applied from 1 July 2023 are intended to,"atmosphere, including rivers, lakes and creeks"
+to have operational control over an operation if,reduce Scope 1 emissions at Australia’s largest,and external water dams but excluding water from
+it or one of its subsidiaries has the full authority,industrial facilities on a trajectory consistent with,"oceans, seas and estuaries (e.g. precipitation and"
+to introduce and implement its operating,achieving Australia’s GHG emission reduction,"runoff, including snow and hail)."
+policies at the operation). It does not account,targets of 43 per cent below 2005 levels by 2030,
+,,Sustainability (including sustainable and
+for GHG emissions from operations in which it,and net zero by 2050. Facilities that exceed their,
+,,sustainably)  We describe our approach to
+owns an interest but does not have operational,progressively declining legislated baselines may,
+,,"sustainability and its governance in this Report,"
+control. Also see the definition for Equity,apply Australian Carbon Credit Units to meet the,
+,,including OFR 8 and OFR 9. Our references
+share approach.,compliance obligations.,
+,,to sustainability (including sustainable and
+Operational GHG emissions  Our operational,SASB (Sustainability Accounting Standards,sustainably) in this Report and our other
+GHG emissions are the Scope 1 emissions and,Board)  The Sustainability Accounting Standards,disclosures do not mean we will not have
+Scope 2 emissions from our operated assets.,Board is a non-profit organisation that develops,"any adverse impact on the economy, the"
+,standards focused on the financial impacts,"environment or society, and do not imply we"
+"Operations  Open-cut mines, underground",,
+,of sustainability.,will necessarily give primacy to consideration
+"mines and processing facilities, which in the",,
+,,of or achieve any absolute outcome in relation
+case of BHP are within our operated assets.,Scope 1 emissions (GHG emissions)  Scope,
+,,"to any one economic, environmental or social"
+,1 emissions are direct GHG emissions from,
+OZ Minerals Brazil assets  Former OZ Minerals,,
+,,issue (such as zero GHG emissions or other
+,operations that are owned or controlled by the,
+"Brazil operations, projects and exploration",,
+,,environmental effects).
+,"reporting company. For BHP, these are primarily",
+tenements located in Brazil and acquired as part,,
+,GHG emissions from fuel consumed by haul,Structural GHG emissions abatement  Actions
+of the acquisition of OZ Minerals completed on,,
+,"trucks at our operated assets, as well as fugitive",taken at a source of GHG emissions to avoid
+2 May 2023.,,
+,methane emissions from coal production at our,"generating GHG emissions. For BHP, this"
+"Partner, partnership, to partner (or similar)",,
+,operated assets.,includes contractual power purchase agreements.
+A reference used for convenience to describe,,
+,Scope 2 emissions (GHG emissions)  Scope 2,Target (for BHP with respect to GHG
+relationships intended to be collaborative and/,,
+,emissions are indirect GHG emissions from the,emissions)  An intended outcome in relation to
+or mutually beneficial. Such references are not,,
+,"generation of purchased or acquired electricity,",which we have identified one or more pathways
+intended to characterise the legal relationship,,
+,"steam, heat or cooling that is consumed by","for delivery of that outcome, subject to certain"
+"between the parties, unless stated otherwise.",,
+,operations that are owned or controlled by the,assumptions or conditions.
+Paris Agreement  The Paris Agreement is an,,
+,reporting company. BHP’s Scope 2 emissions,
+agreement between countries party to the United,,
+,have been calculated using the market-based,
+Nations Framework Convention on Climate,,
+,method unless otherwise specified.,
+Change to strengthen efforts to combat climate,,
+"change and adapt to its effects, with enhanced",,
+
+=== Table 27 (page 234) ===
+10  Glossary continued,,
+TCFD (Task Force on Climate-Related,Underlying EBIT  Earnings before net finance,Type 3 (in relation to water quality)  Water of low
+Financial Disclosures)  The task force created,"costs, taxation expense, Discontinued",quality that would require significant treatment
+by the Financial Stability Board to improve and,operations and any exceptional items.,to meet drinking water standards. It may have
+increase reporting of climate-related financial,Underlying EBIT includes BHP’s share of profit/,individual constituents with high values of total
+"information, which released recommendations",(loss) from investments accounted for using the,"dissolved solids, elevated levels of metals or"
+designed to help companies provide better,equity method including net finance costs and,extreme levels of pH. This type of water also
+information to investors and others about how,taxation expense/(benefit). For more information,includes seawater. This water is considered low
+they think about and assess climate-related,refer to OFR 13.,quality/low grade in the ICMM ‘Good Practice’
+risks and opportunities. The TCFD has now,,Guide (2nd Edition) (2021).
+,Underlying EBITDA  Earnings before net,
+fulfilled its remit and disbanded and the Financial,,
+,"finance costs, depreciation, amortisation and",Well-to-wake basis  Inclusive of the GHG
+Stability Board has asked the IFRS Foundation,,
+,"impairments, taxation expense, Discontinued",emissions across the entire process of fuel
+to take over the monitoring of the progress of,,
+,operations and any exceptional items.,"production, delivery and use onboard vessels."
+companies’ climate-related disclosures.,,
+,Underlying EBITDA includes BHP’s share,
+,,WRSA (Water Resource Situational Analysis)
+TNFD (Taskforce on Nature-related Financial,of profit/(loss) from investments accounted,
+,,A Water Resource Situational Analysis is an
+Disclosures)  The Taskforce on Nature-,for using the equity method including net,
+,,independent holistic assessment of the water
+"Related Financial Disclosures is a global,","finance costs, depreciation, amortisation and",
+,,situation where an operated asset operates.
+market-led initiative that has developed a set,impairments and taxation expense/(benefit).,
+,,The process is designed to describe the water
+of disclosure recommendations and guidance,For more information refer to OFR 13.,
+,,challenges that partners and stakeholders share
+"for organisations to assess, report and act on",,
+,Unification  The unification of BHP’s corporate,and the opportunities for collective action to
+"evolving nature-related dependencies, impacts,",,
+,structure under BHP Group Limited as effected,address those challenges. The WRSA is funded
+risks and opportunities.,,
+,on 31 January 2022.,by BHP and prepared by a credible third party.
+Transition risk (climate-related)  Risks that arise,,It draws on publicly available information and
+,Unit costs  One of the financial measures BHP,
+"from existing and emerging policy, regulatory,",,direct partner and stakeholder input. Within a
+,uses to monitor the performance of individual,
+"legal, technological, market and other societal",,defined area that includes the water resources
+,assets. Unit costs are calculated as ratio of,
+responses to the challenges posed by climate,,"that BHP interacts with, each WRSA includes"
+,net costs of the assets to the equity share of,
+change and the transition to a net zero,,assessment of:
+,sales tonnage. Net costs is defined as revenue,
+global economy.,,
+,"less Underlying EBITDA and excluding freight,","–
+the ongoing stability of the volume and quality"
+TRIF (total recordable injury frequency)  The,"and other costs, depending on the nature of","of the water resources, taking into account"
+sum of (fatalities + lost-time cases + restricted,each asset. For information on the method of,interactions of all other parties and any related
+work cases + medical treatment cases) x,calculation of the unit costs refer to OFR 13.1.,"environmental, social or cultural values and"
+"1,000,000 ÷ actual hours worked. Stated in units",,climate change forecasts
+,United Nations SDGs (Sustainable Development,
+of per million hours worked. BHP adopts the US,,
+,"Goals)  The Sustainable Development Goals,","–
+the state of water infrastructure, water access,"
+Government Occupational Safety and Health,,
+,"also known as the Global Goals, were adopted",sanitation and hygiene of local communities
+Administration guidelines for the recording and,,
+,by the United Nations in 2015 as a universal,
+,,"–
+the environmental health of the water"
+reporting of occupational injury and illnesses.,,
+,"call to action to end poverty, protect the planet,",
+,,catchments that feed the water resources
+TRIF statistics exclude non-operated assets.,,
+,and ensure that by 2030 all people enjoy peace,
+,,"taking into account the extent of vegetation,"
+TSR (total shareholder return)  Measures the,and prosperity.,
+,,runoff and any conservation of the area
+return delivered to shareholders over a certain,,
+,Value chain GHG emissions  Scope 3 emissions,
+,,"–
+external water governance arrangements"
+period through the movements in share price,,
+,in our reported GHG emissions inventory.,
+,,and their effectiveness
+and dividends paid (which are assumed to be,,
+,WAF (Water Accounting Framework)  A common,
+reinvested). It is the measure used to compare,,
+,mining and metals industry approach to water,
+BHP’s performance to that of other relevant,,
+,accounting in Australia.,
+companies under the Long-Term Incentive Plan.,,
+,Type 1 (in relation to water quality)  Water of high,
+Unadjusted (in respect to GHG emissions data),,
+,quality that would require minimal (if any) treatment,
+Unadjusted means calculated to present the,,
+,to meet drinking water standards. This water is,
+GHG emissions data for a reporting year so that,,
+,considered high quality/high grade in the ICMM,
+any relevant changes that occurred during the,,
+,‘Good Practice’ Guide (2nd Edition) (2021).,
+"year (including acquisitions, divestments and/",,
+or methodology changes) are applied only from,Type 2 (in relation to water quality)  Water of,
+the date they took effect. Also see the definition,medium quality that would require moderate,
+for Adjusted.,treatment to meet drinking water standards (it,
+,may have a high salinity threshold of no higher,
+Underlying attributable profit  Profit/(loss) after,,
+,"than 5,000 milligrams per litre total dissolved solids",
+taxation attributable to BHP shareholders,,
+,and other individual constituents). This water is,
+excluding any exceptional items attributable,,
+,considered high quality/high grade in the ICMM,
+to BHP shareholders as described in Financial,,
+,‘Good Practice’ Guide (2nd Edition) (2021).,
+Statements note 3 ‘Exceptional items’. For more,,
+information refer to OFR 13.,,
+
+=== Table 28 (page 234) ===
+"232
+BHP Annual Report 2025",,
+10  Glossary continued,,
+TCFD (Task Force on Climate-Related,Underlying EBIT  Earnings before net finance,Type 3 (in relation to water quality)  Water of low
+Financial Disclosures)  The task force created,"costs, taxation expense, Discontinued",quality that would require significant treatment
+by the Financial Stability Board to improve and,operations and any exceptional items.,to meet drinking water standards. It may have
+increase reporting of climate-related financial,Underlying EBIT includes BHP’s share of profit/,individual constituents with high values of total
+"information, which released recommendations",(loss) from investments accounted for using the,"dissolved solids, elevated levels of metals or"
+designed to help companies provide better,equity method including net finance costs and,extreme levels of pH. This type of water also
+information to investors and others about how,taxation expense/(benefit). For more information,includes seawater. This water is considered low
+they think about and assess climate-related,refer to OFR 13.,quality/low grade in the ICMM ‘Good Practice’
+risks and opportunities. The TCFD has now,,Guide (2nd Edition) (2021).
+,Underlying EBITDA  Earnings before net,
+fulfilled its remit and disbanded and the Financial,,
+,"finance costs, depreciation, amortisation and",Well-to-wake basis  Inclusive of the GHG
+Stability Board has asked the IFRS Foundation,,
+,"impairments, taxation expense, Discontinued",emissions across the entire process of fuel
+to take over the monitoring of the progress of,,
+,operations and any exceptional items.,"production, delivery and use onboard vessels."
+companies’ climate-related disclosures.,,
+,Underlying EBITDA includes BHP’s share,
+,,WRSA (Water Resource Situational Analysis)
+TNFD (Taskforce on Nature-related Financial,of profit/(loss) from investments accounted,
+,,A Water Resource Situational Analysis is an
+Disclosures)  The Taskforce on Nature-,for using the equity method including net,
+,,independent holistic assessment of the water
+"Related Financial Disclosures is a global,","finance costs, depreciation, amortisation and",
+,,situation where an operated asset operates.
+market-led initiative that has developed a set,impairments and taxation expense/(benefit).,
+,,The process is designed to describe the water
+of disclosure recommendations and guidance,For more information refer to OFR 13.,
+,,challenges that partners and stakeholders share
+"for organisations to assess, report and act on",,
+,Unification  The unification of BHP’s corporate,and the opportunities for collective action to
+"evolving nature-related dependencies, impacts,",,
+,structure under BHP Group Limited as effected,address those challenges. The WRSA is funded
+risks and opportunities.,,
+,on 31 January 2022.,by BHP and prepared by a credible third party.
+Transition risk (climate-related)  Risks that arise,,It draws on publicly available information and
+,Unit costs  One of the financial measures BHP,
+"from existing and emerging policy, regulatory,",,direct partner and stakeholder input. Within a
+,uses to monitor the performance of individual,
+"legal, technological, market and other societal",,defined area that includes the water resources
+,assets. Unit costs are calculated as ratio of,
+responses to the challenges posed by climate,,"that BHP interacts with, each WRSA includes"
+,net costs of the assets to the equity share of,
+change and the transition to a net zero,,assessment of:
+,sales tonnage. Net costs is defined as revenue,
+global economy.,,
+,"less Underlying EBITDA and excluding freight,","–
+the ongoing stability of the volume and quality"
+TRIF (total recordable injury frequency)  The,"and other costs, depending on the nature of","of the water resources, taking into account"
+sum of (fatalities + lost-time cases + restricted,each asset. For information on the method of,interactions of all other parties and any related
+work cases + medical treatment cases) x,calculation of the unit costs refer to OFR 13.1.,"environmental, social or cultural values and"
+"1,000,000 ÷ actual hours worked. Stated in units",,climate change forecasts
+,United Nations SDGs (Sustainable Development,
+of per million hours worked. BHP adopts the US,,
+,"Goals)  The Sustainable Development Goals,","–
+the state of water infrastructure, water access,"
+Government Occupational Safety and Health,,
+,"also known as the Global Goals, were adopted",sanitation and hygiene of local communities
+Administration guidelines for the recording and,,
+,by the United Nations in 2015 as a universal,
+,,"–
+the environmental health of the water"
+reporting of occupational injury and illnesses.,,
+,"call to action to end poverty, protect the planet,",
+,,catchments that feed the water resources
+TRIF statistics exclude non-operated assets.,,
+,and ensure that by 2030 all people enjoy peace,
+,,"taking into account the extent of vegetation,"
+TSR (total shareholder return)  Measures the,and prosperity.,
+,,runoff and any conservation of the area
+return delivered to shareholders over a certain,,
+,Value chain GHG emissions  Scope 3 emissions,
+,,"–
+external water governance arrangements"
+period through the movements in share price,,
+,in our reported GHG emissions inventory.,
+,,and their effectiveness
+and dividends paid (which are assumed to be,,
+,WAF (Water Accounting Framework)  A common,
+reinvested). It is the measure used to compare,,
+,mining and metals industry approach to water,
+BHP’s performance to that of other relevant,,
+,accounting in Australia.,
+companies under the Long-Term Incentive Plan.,,
+,Type 1 (in relation to water quality)  Water of high,
+Unadjusted (in respect to GHG emissions data),,
+,quality that would require minimal (if any) treatment,
+Unadjusted means calculated to present the,,
+,to meet drinking water standards. This water is,
+GHG emissions data for a reporting year so that,,
+,considered high quality/high grade in the ICMM,
+any relevant changes that occurred during the,,
+,‘Good Practice’ Guide (2nd Edition) (2021).,
+"year (including acquisitions, divestments and/",,
+or methodology changes) are applied only from,Type 2 (in relation to water quality)  Water of,
+the date they took effect. Also see the definition,medium quality that would require moderate,
+for Adjusted.,treatment to meet drinking water standards (it,
+,may have a high salinity threshold of no higher,
+Underlying attributable profit  Profit/(loss) after,,
+,"than 5,000 milligrams per litre total dissolved solids",
+taxation attributable to BHP shareholders,,
+,and other individual constituents). This water is,
+excluding any exceptional items attributable,,
+,considered high quality/high grade in the ICMM,
+to BHP shareholders as described in Financial,,
+,‘Good Practice’ Guide (2nd Edition) (2021).,
+Statements note 3 ‘Exceptional items’. For more,,
+information refer to OFR 13.,,

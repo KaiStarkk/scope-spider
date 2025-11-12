@@ -1,0 +1,177 @@
+=== Page 3 ===
+2  
+C1. Introduction  
+(1.1) In which language are you submitting your response?  
+Select from:  
+☑ English  
+(1.2) Select the currency used for all financial information disclosed throughout your response.  
+Select from:  
+☑ AUD  
+(1.3) Provide an overview and introduction to your organization.  
+(1.3.2) Organization type  
+Select from:  
+☑ Publicly traded organization  
+(1.3.3) Description of organization  
+We’re a global, Australian Securities Exchange (ASX) listed company, headquartered in Australia. We're a recognized leader in  consulting, engineering and project 
+delivery for the energy, chemicals, and resources sectors. We partner with customers to design , build and maintain critical assets across their full life cycle. Our 
+expertise across traditional, transitional and sustainable markets positions us at the forefront of change in industries that  shape the world. Decarbonization of 
+industrial processes an d value chains continues to be important for most of our customers, with 80% of our top 20 customers by revenue having set a net zero Scope 
+1 and Scope 2 target by 2050 or earlier.  
+[Fixed row]  
+ 
+(1.4) State the end date of the year for which you are reporting data. For emissions data, indicate whether you will be 
+providing emissions data for past reporting years.
+
+=== Page 31 ===
+30 (1.24.2) Value chain stages covered in mapping  
+Select all that apply  
+☑ Upstream value chain  
+☑ Downstream value chain  
+(1.24.3) Highest supplier tier mapped  
+Select from:  
+☑ Tier 1 suppliers  
+(1.24.4) Highest supplier tier known but not mapped  
+Select from:  
+☑ Tier 2 suppliers  
+(1.24.6) Smallholder inclusion in mapping  
+Select from:  
+☑ Smallholders not relevant, and not included  
+(1.24.7) Description of mapping process and coverage  
+Our value chain includes the activities upstream and downstream of our business. We source materials and equipment from local  and international suppliers. This 
+includes the procurement of day -to-day materials, long term assets and complex services, involvi ng logistics, contracting and modular construction projects. We serve 
+customers from industries ranging from chemicals and fuels to conventional energy, lower carbon energy and mining and resourc es. In our assessment of climate -
+related risks and opportunit ies, we consider how impacts to our value chain can affect different parts of our business. This helps us identify where clim ate-related 
+risks may influence value creation through our operations, supply chains and customer needs, and where opportunities ex ist to strengthen our strategic position. This 
+perspective is integrated in our scenario planning and enterprise risk processes, enabling more informed decision making. We also collect data from across our value 
+chain to disclose our Scope 3 greenhouse gas  (GHG) emissions. We’re committed to improving the accuracy of these metrics as data and technology allow.  
+[Fixed row]  
+ 
+(1.24.1) Have you mapped where in your direct operations or elsewhere in your value chain plastics are produced, 
+commercialized, used, and/or disposed of?
+
+=== Page 82 ===
+81 (4.3.1.6) Please explain  
+The Executive Group Director, Sustainability (Chief Sustainability Officer) reports to the CEO and has responsibility for ESG  performance. This includes climate and 
+nature related input into the Group's strategy, developing plans and targets, and managing disclosures. The CSO is also responsible for monitoring climate and 
+nature related risks and opportunities and assessing future trends. The CSO's team works closely with other functions, such a s Finance, Strategy, Enterprise Risk 
+and Supply Chain in fulfil ling these responsibilities.  
+[Add row]  
+ 
+(4.5) Do you provide monetary incentives for the management of environmental issues, including the attainment of 
+targets?  
+Climate change  
+(4.5.1) Provision of monetary incentives related to this environmental issue  
+Select from:  
+☑ Yes 
+(4.5.2) % of total C -suite and board -level monetary incentives linked to the management of this environmental issue  
+6 
+(4.5.3) Please explain  
+Worley's short term incentive (STI) framework applies to executives and senior leaders. STI accounts for approximately 30% of  remuneration of our Group 
+Executives, of which ESG measures account for 20% and include Scope 1 and Scope 2 GHG emissions, safety,  and diversity and inclusion. The 6% noted is 20% as 
+ESG measure of 30% of total REM.  
+Forests  
+(4.5.1) Provision of monetary incentives related to this environmental issue  
+Select from:  
+☑ No, and we do not plan to introduce them in the next two years
+
+=== Page 84 ===
+83 (4.5.1.3) Performance metrics  
+Targets  
+☑ Reduction in absolute emissions in line with net -zero target  
+ 
+(4.5.1.4) Incentive plan the incentives are linked to  
+Select from:  
+☑ Short -Term Incentive Plan, or equivalent, only (e.g. contractual annual bonus)  
+(4.5.1.5) Further details of incentives  
+Cash incentive based on performance against short term incentive (STI) scorecard. ESG measures account for 20% of the STI sco recard and include Scope 1 and 
+Scope 2 GHG emissions, safety, and diversity and inclusion. We also have a deferred equity plan of p erformance rights where the measure is based on the 
+percentage of sustainability -related revenue. This is approximately 20% of each executive's total compensation.  
+(4.5.1.6) How the position’s incentives contribute to the achievement of your environmental commitments and/or climate 
+transition plan  
+Worley's target of net zero Scope 1 and Scope 2 GHG emissions is central to our climate transition action plan. Our short ter m incentive is used to motivate and 
+reward strong performance. The incentive provides guidance to our Group Executive on the reduct ion in Scope 1 and Scope 2 GHG emissions to be achieved for the 
+year, in line with our net zero roadmap.  
+Climate change  
+(4.5.1.1) Position entitled to monetary incentive  
+Senior -mid management  
+☑ Management group  
+ 
+(4.5.1.2) Incentives  
+Select all that apply
+
+=== Page 85 ===
+84 ☑ Bonus - % of salary  
+(4.5.1.3) Performance metrics  
+Targets  
+☑ Reduction in absolute emissions in line with net -zero target  
+ 
+(4.5.1.4) Incentive plan the incentives are linked to  
+Select from:  
+☑ Short -Term Incentive Plan, or equivalent, only (e.g. contractual annual bonus)  
+(4.5.1.5) Further details of incentives  
+Cash incentive based on performance against short term incentive (STI) scorecard. ESG measures account for 20% of the STI sco recard and include Scope 1 and 
+Scope 2 GHG emissions, safety, and diversity and inclusion.  
+(4.5.1.6) How the position’s incentives contribute to the achievement of your environmental commitments and/or climate 
+transition plan  
+Worley's target of net zero Scope 1 and Scope 2 GHG emissions is central to our climate transition action plan. Our short ter m incentive is used to motivate and 
+reward strong performance. The incentive provides guidance to our Senior Leaders on the reducti on in Scope 1 and Scope 2 GHG emissions to be achieved for the 
+year, in line with our net zero roadmap.  
+[Add row]  
+ 
+(4.6) Does your organization have an environmental policy that addresses environmental issues?
+
+=== Page 105 ===
+104 Select from:  
+☑ No, and we do not plan to add an explicit commitment within the next two years  
+(5.2.6) Explain why your organization does not explicitly commit to cease all spending on and revenue 
+generation from activities that contribute to fossil fuel expansion   
+Fundamental global changes in energy security, affordability, and sustainability are transforming how our customers invest, o perate, and grow. At the same time, 
+decarbonization, digital transformation, and evolving policy landscapes are reshaping industry priorities. Our strategy positions us to lead through this change, helping 
+our customers navigate complexity while unlocking growth opportunities for our business. Our strategic framework focuses on d elivering safe, timely, and cost -
+effective solutions acr oss the full project life cycle – from consulting and engineering to procurement and construction. By aligning our capabilities with customer goals 
+and market dynamics, we’re improving efficiency, strengthening project performance, and supporting the long -term value and sustainability of our customers’ assets. 
+Our diversification across geographies, sectors and services strengthens our ability to adapt and deliver. This creates long -term value for all of our stakeholders. 
+We’re delivering the critical infra structure needed to meet today’s demand for energy, chemicals, and resources – while helping to shape a more sustainable and 
+resilient future.  
+(5.2.7) Mechanism by which feedback is collected from shareholders on your climate transition plan   
+Select from:  
+☑ We have a different feedback mechanism in place    
+(5.2.8) Description of feedback mechanism   
+We have a suite of mechanisms integrated into our Annual Reporting (Annual Report and Climate Change Report) by which we comm unicate our transition plan. This 
+includes: - Our purpose and ambition - Our Climate Change Position Statement including our Scope 1, 2 and 3 net -zero commitments - Our investment in organic 
+growth including carbon capture and storage, low carbon hydrogen, battery materials and low carbon fuels. - Our aspiration to derive 75% of our revenue from 
+sustainability -related work by 2026 - Our short -term incentive plan for our senior leaders. We present our ESG performance at our half year and full year results as 
+well as our Investor Days each year. Our ESG performance includes our performance against our Scope 1 and 2 Net Zero Roadmap as we ll as the work we are 
+doing to support our customers. We also seek feedback from investors and proxy advisors during regular one -to-one meetings.  
+(5.2.9) Frequency of feedback collection   
+Select from:  
+☑ More frequently than annually  
+(5.2.10) Description of key assumptions and dependencies on which the transition plan relies
+
+=== Page 106 ===
+105 Our aspiration to derive 75% of our revenue from sustainability -related work by 2026 is dependent on market conditions. Achieving our net zero Scope 1 and Scope 2 
+target has several uncertainties, including the ability to procure zero -emissions electricity , heating and cooling, the accessibility of zero -emission vehicles and 
+charging infrastructure, and the ability to source high -quality accredited carbon credits for our residual emissions. We are managing these uncertainties by monitoring 
+and choosing full y renewable energy procurement options, fully electrified buildings and electric vehicles in the countries we operate in. Whe re available, we work 
+closely with local teams to implement these initiatives. We expect that sourcing these options will become mo re accessible as we get closer to 2030, however, it is 
+likely we will not be able to remove all of our Scope 1 and Scope 2 emissions. We plan to offset these residual emissions usi ng high quality carbon credits to achieve 
+net zero Scope 1 and Scope 2 emiss ions by 2030.  
+(5.2.11) Description of progress against transition plan disclosed in current or previous reporting period  
+In FY2025, our sustainability -related aggregated revenue was $7.3 billion up from $6.04 billion at 30 June 2024. In FY2024 we completed our initial $100m s trategic 
+investment in organic growth, including carbon capture and storage, lower carbon hydrogen, b attery materials and lower carbon fuels. We have extended this 
+investment by deploying around $30m in FY2025 on similar investments because accretive opportunities continue to be available  for further growth. We're on track to 
+meet our Scope 1 & Scope 2 ne t zero targets, reducing our emissions by 19% from FY24 and by 73% from our FY2020 baseline.  
+(5.2.12) Attach any relevant documents which detail your climate transition plan (optional)   
+wor-climate -change -report -2025.pdf  
+(5.2.13) Other environmental issues that your climate transition plan considers   
+Select all that apply  
+☑ Biodiversity   
+(5.2.14) Explain how the other environmental issues are considered in your climate transition plan  
+In our climate change position statement, we have committed to develop a plan to support biodiversity and nature positivity i n our project work. Our nature roadmap 
+was developed in FY2023 and was guided by the Kunming -Montreal Global Biodiversity Framework  (GBF). It acknowledges the relationship of our business with 
+nature and recognizes that we can affect outcomes for nature in the energy, chemicals and resources sectors through our engin eering delivery systems.  
+[Fixed row]  
+ 
+(5.3) Have environmental risks and opportunities affected your strategy and/or financial planning?  
+(5.3.1) Environmental risks and/or opportunities have affected your strategy and/or financial planning  
+Select from:

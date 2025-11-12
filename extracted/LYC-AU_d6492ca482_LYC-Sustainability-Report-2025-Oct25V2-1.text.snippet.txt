@@ -1,0 +1,270 @@
+=== Page 2 ===
+Table of Contents
+www.LynasRareEarths.com
+FY25 Key Figures and Highlights 1
+Letter from our Board Chair & CEO 2
+1. Our Sustainability Reporting 4
+2. Our Operations 6
+3. Principles of Governance 7
+3.1 Governing purpose 7
+3.2 Quality of governing body 8
+3.3  Stakeholder engagement  
+and material topics 8
+4. Ethical Behaviour 10
+4.1 Anti-corruption 10
+4.2  Initiatives and stakeholder  
+engagement to combat corruption 10
+4.3  Protected ethics advice and  
+reporting mechanisms 10
+4.3.2 Reporting integrity concerns  11
+5. Risk and Opportunity Oversight 12
+5.1 Information security 12
+5.2 Critical incident planning 13
+5.3 Remuneration 14
+5.4 Auditor independence 14
+5.5 Public policy development 14
+6. Caring for our People 15
+6.1 Dignity and equality 15
+6.2 Health and wellbeing 16
+6.3 Skills for the future 187. Caring for our Planet 20
+7.1 Climate change 20
+7.2 Impact of GHG emissions 22
+7.3 Land use and ecological sensitivity 22
+7.4 Water 26
+7.5 Air quality 27
+7.6 Impact of solid waste disposal 27
+8.  Caring for our Communities  
+– Building Prosperity 30
+8.1 Employment and wealth generation 30
+8.2 Economic contribution 31
+8.3  Innovation of better products  
+and services 32
+8.4 Community and social vitality 32
+9. Performance Data Tables 37
+Appendix 1: Stakeholder Engagement 43
+Appendix 2: Navigation Index 45
+Appendix 3: Memberships and Initiatives 51
+Appendix 4: Scope 3 Evaluation Status 52
+PHOTO
+Cover : Lynas’ Kalgoorlie Rare Earths Processing 
+Facility – photo by Kristy Bodycoat.
+
+=== Page 24 ===
+Caring for our Planet
+22 www.LynasRareEarths.comIn compliance with the Australian National Greenhouse and Energy Reporting Act (NGER), Lynas reports Scope 
+1 and Scope 2 GHG emissions associated with the Mt Weld and Kalgoorlie sites in Western Australia to the Clean 
+Energy Regulator.
+Lynas Rare Earths’ GHG methodology is available at: https://lynasrareearths.com/sustainability/
+our-commitment-to-esg/
+7.2 Impact of GHG emissions
+Lynas conducted Life Cycle Assessments for our products and calculated an emission average of 30kg CO 2-eq per 
+kg of REO from our internal LCA on year 2019 basis.
+A Life Cycle Assessment for permanent magnet motors used in water pumps has also been conducted in conjunction 
+with value chain partners. This assessed the manufacturing data from two electric motor pumps, one an induction 
+motor using copper coil for an electromagnet, and the second a permanent magnet motor using neodymium-iron- 
+boron magnets. The manufacturing of the pump from rare earth permanent magnets was shown to have 50% lower 
+carbon dioxide equivalent emissions and over 10 years, will produce 75% lower carbon dioxide equivalent emissions. In 
+addition, the permanent magnet motor pump was 50% lighter than the induction motor pump.
+7.3 Land use and ecological sensitivity
+Lynas’ key biodiversity goals are to:
+ •Protect the environments in which we operate;
+ •Avoid adverse effects on biodiversity through application of the mitigation hierarchy; and
+ •Achieve zero significant environmental incidents.7.1.1 Greenhouse gas emissions
+Our performance
+Lynas monitors and reports on total Scope 1 and Scope 
+2 GHG emissions in line with the GHG Protocol and 
+Australia’s National Greenhouse Energy Reporting 
+(NGER). Our Scope 1 and Scope 2 GHG emissions data  
+is available in Section 9 Performance Data Tables.
+Scope 3 emissions are divided into different categories 
+and Appendix 4 provides an overview of the evaluation 
+status for each category.Lynas Malaysia energy use
+The Lynas Malaysia plant primarily uses natural gas and grid electricity. Some diesel is consumed in machines and 
+processes. The 0.75MW rooftop solar array was commissioned and began operating in FY25.
+OUR FY25  
+ACHIEVEMENT
+Mt Weld hybrid  
+power station gas  
+plant constructed and 
+commissioned and solar 
+farm constructed OUR FY26  
+GOAL
+Mt Weld – 65MW  
+hybrid power station  
+(solar, wind, battery,  
+gas) commissioned  
+and fully operational
+
+=== Page 41 ===
+39
+Lynas Rare Earths Limited | 2025 Sustainability ReportKalgoorlie energy produced and energy consumed
+Primary energy – Scope 1 FY21 FY22 FY23 FY24 FY25
+Natural gas/liquid petroleum gas GJ
+MWhN/A0
+00
+061,227
+17,007172,562
+47,934
+Diesel GJ
+MWhN/A13,562
+3,797132,480
+36,800  52,284
+14,5235,971
+1,659
+Energy Consumed Total GJ
+Total MWhN/A13,562
+3,797132,480
+36,800  113,510
+31,531178,533
+49,592
+Secondary energy – Scope 2 FY21 FY22 FY23 FY24 FY25
+Electricity consumed MWh N/A N/A 23 6,673 27,581
+Total MWh N/A N/A 23 6,673 27,581
+Lynas Malaysia primary and secondary energy produced and energy consumed
+Primary energy – Scope 1 FY21 FY22 FY23 FY24 FY25
+Natural gas/liquid petroleum gas GJ
+MWh732,384
+203,440746,717
+207,421791,091
+219,748681,593
+189,331718,101
+199,472
+Diesel GJ
+MWh31,364
+8,71232,604
+9,05731,040
+8,622  24,321
+6,75630,929
+8,592
+Total GJ
+Total MWh763,748
+212,152779,321
+216,418822,131
+228,370705,914
+196,087749,030
+208,064
+Secondary energy – Scope 2 FY21 FY22 FY23 FY24 FY25
+Electricity MWh 68,579 69,766 71,883 66,128 70,414
+Steam MT
+MWh11,540
+6,7326,130
+3,5764,606
+2,687  9
+50
+0
+Total MWh 75,311 73,342 74,570 66,133 70,414
+Renewable electricity  
+(on site solar + RECs*) MWh 60,000
+* Renewable Energy Certificates issued for Malaysian renewable energy projects and consistent with GHG Protocol Scope 2 
+Quality Criteria
+View Lynas’ Energy policy: https://lynasrareearths.com/wp-content/uploads/2021/04/Energy-Policy.pdf
+
+=== Page 42 ===
+40
+www.LynasRareEarths.comPerformance Data Tables
+Our GHG Performance
+Metric tonnes of CO 2 equivalents (tonnes CO 2-e)
+Reporting Year FY21 FY22 FY23 FY24 FY25
+Mt WeldScope 1 19,697 27,420 29,990 28,523 42,451**
+Scope 2 – – – – –
+Scope 1+2 19,697 27,420 29,990 28,523 42,451**^
+KalgoorlieScope 1 N/A 956 9,324 3,686 10,809
+Scope 2 N/A – 12 3,904 14,066
+Scope 1+2 N/A 956 9,336 7,590 24,875
+MalaysiaScope 1 39,951 40,807 42,952 36,837 27,549
+Scope 2 43,917 42,831 43,568 38,688 54,500
+Scope 1+2 83,868 83,868 86,520 75,525 82,049
+Total – Combined sitesScope 1 59,648 67,412 82,266 69,046 80,809^
+Scope 2 43,917 42,831 43,580 42,592 68,566
+Scope 1 + 2 103,565 112,014 125,846 111,638 149,375^
+View Lynas’ Climate Change policy: https://lynasrareearths.com/wp-content/uploads/2023/11/Lynas-Climate-Change-Policy-28-Nov23.pdf
+** Data updated in line with FY25 NGER reporting.
+^ Data amended
+Water
+FY25 Water 
+summary  
+by site  
+(M3) SiteTotal water 
+withdrawnTotal water 
+consumedTotal water 
+recycledTotal 
+water used 
+(consumed  
++ recycled)Percent 
+recycled 
+(total water 
+recycled/total 
+water used)FY25 bore 
+abstraction/
+tonne ore 
+processed 
+(Mt Weld)
+Malaysia Lynas Malaysia 5,254,809 4,283,440 47,771  
+(rain water)4,331,211 1.1% N/A
+Australia Mt Weld 1,922,825 1,922,825 529,591 2,452,416 27% 6.61
+Kalgoorlie 647,762* 647,762* 0 647,762 N/A N/A
+* Includes both treated recycled grey water and potable water.
+
+=== Page 50 ===
+48
+www.LynasRareEarths.comAppendix 2
+GRI 
+StandardDisclosure Location
+Emissions
+305-1 Direct (Scope 1) GHG emissions Caring for our Planet – Page 20–22
+Performance Data Tables – Page 39–40
+305-2 Energy indirect (Scope 2) GHG emissions Caring for our Planet – Page 20–22
+Performance Data Tables – Page 39–40
+305-3 Other indirect (Scope 3) GHG emissions Caring for our Planet – Page 20–22
+Appendix 4: Scope 3
+Evaluation Status – Page 52
+305-4 GHG emissions intensity Caring for our Planet – Page 20–22
+Performance Data Tables – Page 39–40
+305-5 Reduction of GHG emissions Caring for our Planet – Page 20–22
+Performance Data Tables – Page 39–40
+305-7 Nitrogen oxides (NOx), sulphur oxides 
+(SOx) and other significant air emissionsPerformance Data Tables – Page 41
+Waste
+306-1 Waste generation and significant 
+waste-related impactsCaring for our Planet – Page 27–28
+306-2 Management of significant waste-  
+related impactsCaring for our Planet – Page 27–28
+306-3 Waste generated Caring for our Planet – Page 27–28
+306-4 Waste diverted from disposal Caring for our Planet – Page 27–29
+306-5 Waste directed to disposal Caring for our Planet – Page 27–29
+Supplier environmental assessment
+308-1 New suppliers that were screened using 
+environmental criteriaCaring for our Communities – Building Prosperity  
+– Page 32
+Employment
+401-1 Total number and rates of new employee 
+hires and employee turnoverCaring for our Communities – Building Prosperity  
+– Page 30–31
+Performance Data Tables – Page 41
+401-2 Benefits provided to full-time employees 
+that are not provided to temporary or 
+part-time employeesCaring for our People – Page 15–16
+401-3 Parental leave Caring for our People – Page 16
+
+=== Page 54 ===
+52
+www.LynasRareEarths.comAppendix 4: Scope 3  
+Evaluation Status
+Category name Evaluation status
+Category 1: Purchased Goods and Services 300,000–350,000 tons of CO 2 eq
+Category 2: Capital Goods –
+Category 3: Fuel- and Energy-Related Activities Not Included in Scope 1 & 2 –
+Category 4: Upstream Transportation and Distribution –
+Category 5: Waste Generated in Operations –
+Category 6: Business Travel 25 to 30 tCO 2eq per year, 
+composed mainly of Air  
+Travel emissions
+Category 7: Employee Commuting –
+Category 8: Upstream Leased Assets Not applicable
+Category 9: Downstream Transportation and Distribution 70,000–80,000 tonnes of CO 2 eq
+Category 10: Processing of Sold Products 100,000–110,000 tonnes of CO 2 eq
+Category 11: Use of Sold Products –
+Category 12: End-of-Life Treatment of Sold Products –
+Category 13: Downstream Leased Assets Not applicable
+Category 14: Franchises Not applicable
+Category 15: Investments Not applicable

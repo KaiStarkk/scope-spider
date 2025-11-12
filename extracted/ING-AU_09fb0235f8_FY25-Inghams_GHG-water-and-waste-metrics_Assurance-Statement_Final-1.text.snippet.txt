@@ -1,0 +1,62 @@
+=== Page 1 ===
+INDEPENDENT ASSURANCE STATEMENT 
+ 
+ 
+To the Stakeholders of Ingham’s Group Ltd (Ingham’s) 
+ 
+ 
+Limited Assurance Conclusion 
+Based on the procedures performed and evidence obtained, nothing has come to our attention that causes us to believe the water related metrics (“Subject 
+Matter Information”), including associated methods, assumptions, and estimation uncertainty, presented in Ingham’s Annual Report 2025 (“the Report”), 
+are not fairly presented and prepared, in all material respects, in accordance with the Reporting Criteria, within the scope of our limited assurance 
+engagement (as outlined below). 
+ 
+Scope of the Assurance Engagement  
+The scope of assurance was limited to the Subject Matter Information, as presented in the table below and within the Report, applicable to facilities under 
+Ingham’s operational control (breeder farms, broiler farms, feed mill, hatcheries, primary/further processing sites, distribution centres, administration offices) 
+in Australia and New Zealand for the period of 30th June 2024 to 28th June 2025 (Ingham’s own financial year of 2025). 
+Subject Matter Information Assured Figures 
+Production (t)  1,993,887  
+Scope 1 GHG emissions (tCO2 -eq) 55,812 
+Scope 2 GHG emissions (tCO2 -eq) (location based)  128,861 
+Scope 2 GHG emissions (tCO2 -eq) (market based)  158,209 
+Total Scope 1 & 2 GHG emissions (tCO2 -eq) (location based)  184,674* 
+Total Scope 1  & 2 Location based emissions intensity (kgCO2 -eq/t) 92.6 
+Total Scope 1 & 2 GHG emissions (tCO2 -eq) (market based)  214,021 
+Waste to landfill (kg)  8,707,867  
+Waste to landfill intensity (kg/t)  4.37 
+Total water withdraw n (kL) 4,797,430  
+Total water withdraw n intensity (kL/t)  2.41 
+Total recycled water usage (kL)  1,012,183  
+Total water usage (kL)** 
+Total water intensity (kL/t)  5,809,613 
+2.91 
+ 
+Note*: The figure may not precisely sum due to standard mathematical rounding conventions applied during calculation. 
+Note**: Total water usage comprises the sum of all water withdrawn and the recycled water from water treatment plants necessary to meet production 
+targets.  
+ 
+Our assurance engagement does not extend to any other information included in the Report or information from earlier periods. We have not performed 
+any procedures on the excluded information and, therefore, do not express any conclusion on it. 
+ 
+Reporting Criteria 
+The Reporting Criteria used for the reporting of the GHG emissions are the GHG Protocol Corporate Accounting and Reporting Standard  (Revised Edition) 
+(2015) issued by the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD), and Inghams’ internal 
+document - “Sustainability Reporting Basis of Preparation FY2025” dated May 2025.  
+ 
+Ingham’s Responsibilities 
+Management of Ingham’s was responsible for: 
+- Selecting and establishing suitable reporting criteria for preparing the Subject Matter Information subject to assurance. 
+- Preparing and presenting the Subject Matter Information in accordance with the Reporting Criteria. 
+- Designing, implementing, and maintaining internal controls relevant to the preparation of the Subject Matter Information that is free from material 
+misstatement whether due to fraud or error. 
+- Advising us of any known or suspected issues related to the Subject Matter Information. 
+ 
+Our Responsibilities 
+Bureau Veritas Australia Pty Ltd (“Bureau Veritas”) was responsible for: 
+- Planning and performing the engagement to obtain the intended level of assurance about whether the Subject Matter Information is free from 
+material misstatement, whether due to fraud or error.  
+- Forming an independent conclusion based on the procedures performed and evidence obtained.  
+- Reporting our conclusion to the Directors of Ingham’s. 
+ 
+Bureau Veritas was not involved in the drafting of the Report and our independence has not been compromised.

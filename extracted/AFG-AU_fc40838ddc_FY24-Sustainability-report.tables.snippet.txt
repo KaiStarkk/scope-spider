@@ -1,0 +1,61 @@
+=== Table 1 (page 16) ===
+Our own footprint:,
+"To understand our impact on the climate, AFG measures its","AFG is still refining its data capture process, and not all"
+"own Greenhouse Gas (GHG) emissions, using the services",Scope 3 emissions are able to be measured or reported at
+of an independent consultant. We have been voluntarily,this stage.
+measuring our footprint since 2021.,
+,"This year, the boundary of our GHG emissions inventory"
+"In measuring our emissions, AFG’s scope and organisational",widened with inclusion of the facilities associated with
+boundary were determined in accordance with the GHG,BrokerEngine (100% owned by AFG since 31 August 2023)
+Protocol Standard (World Business Council for Sustainable,and Fintelligence (83% owned by AFG as at 30 June 2024).
+"Development, World Resources Institute, 2004).",The FY24 measurement therefore took into consideration
+,"expanded activity, increased number of employees and"
+The boundary follows the operational control model and,
+,additional offices.
+includes the aspects of AFG’s supply chain that our,
+organisation has influence over. GHG emissions from,"This year’s measurement determined we produced 1,265.37"
+the AFG Group have been included and reported on,tonnes of carbon dioxide equivalent (t CO2-e) gross between
+where activity data was available and provided to the,1 July 2023 and 30 June 2024. This was a decrease on the
+independent consultant.,"year before, when 1,484.1 t CO2-e (gross) was disclosed in"
+,the FY23 annual report.
+Emissions summary,
+GHG emissions scope,"Emissions (t CO2-e)
+Percentage"
+Scope 1,"1.26
+0.1"
+Scope 2,"115.36
+9.1"
+Scope 3,"1,148.75
+90.8"
+Total,"1,265.37
+100"
+
+=== Table 2 (page 16) ===
+,Summary of AFG’s gross emissions by scope,,,,
+"1,200",,,,,
+,,,,,
+,,,Scope 1,Scope 2,Our main GHG emitting activities were
+,,,,,
+,,,Vehicle fuel,"Electricity use,",associated with business travel and
+"1,000",,,"consumption,",115.36 t CO2-e (9.1%),
+,,,,,employee commuting. AFG looks to
+,,,1.26 t CO2-e (0.1%),,
+,,,,,address employee commuting emissions
+,,,,,
+800,,,Scope 3,,through its hybrid work policy (AFG
+,,,Purchased goods,Indirect fuel and,Group Work From Home Policy).
+600,,,"and services,","energy use,",
+,,,244.58 t CO2-e (19.3%),12.15 t CO2-e (1.0%),
+,,,,,As a national organisation we face
+,,,,,challenges with eliminating interstate
+400,,,Waste generated,"Business travel,",
+,,,,,"travel, however we continue to take steps"
+,,,,386.41 t CO2-e (30.5%),
+,,,36.64 t CO2-e (2.9%),,to reduce this where possible and have
+200,,,,,
+,,,,Upstream,chosen to voluntarily purchase offsets to
+,,,"Employee commuting,","leased assets,",
+,,,,,match emissions created through travel
+,,,352.13 t CO2-e (27.9%),116.84 t CO2-e (9.2%),
+0,,,,,
+Scope 1,Scope 2,Scope 3,,,throughout the year.

@@ -1,0 +1,50 @@
+=== Page 5 ===
+Metrics, targets and next steps
+Since launching This Changes Everything in 2014, we have tracked emissions and water 
+intensity, and emissions reduction.
+To support our long-term goals, we set sustainability targets aligned with our ESG strategy. 
+Accountabilities are shared across all divisions, and the Group scorecard is reviewed quarterly 
+by the HSE&S Committee, ELT, and Board. More detail can be found on page 56 of our 
+annual report available here.
+As climate disclosure standards evolve, we are getting ready to meet Australia’s new requirements.  
+With years of experience managing climate risks and opportunities, we are committed to advancing  
+decarbonisation and building resilience across the sector.
+Energy, GHG, water and waste1
+Emissions tCO2e FY19 FY23 FY24 FY25 FY25  
+ Source data
+Scope 1
+Natural Gas 4,193 7,897  8,363 7,655 148,561 GJ
+Refrigerants 843 415  1,218 522  359 Kg
+Diesel 1,375 1208  1,025 1,143  421,717 L
+Petrol 126 83  57 46  19,849 L
+LPG 81 29  49 5 3,093 L 
+Total Scope 1  6,618 9,632  10,711 9,371
+Scope 2 (market-based)
+Electricity  73,110 — — — 103,847,936 kWh
+Total Scope 2  73,110 — — —
+Total Scope 1 + 2 9,632 10,711 9,371
+Voluntary carbon offsets 9,732 10,811 9,471
+Net Scope 1 + 2 2(100) (100) (100)
+Renewable electricity % 100% 100% 100%
+Renewable energy % 67% 70% 71%
+Potable water usage
+Retail 493,605 322,291 283,963  282,776 
+Office & Industrial 349,597 557,800 663,746 628,375
+Build to rent 42,815 58,718 75,592
+Total (kL) 841,813 922,906 1,006,427 986,744
+Total waste
+Construction 35,565 11,819 15,645 14,312
+Investment 12,833 18,343 19,420 17,392
+Total (T) 48,398 30,162 35,065 31,703
+Construction 4% 96%
+Landfill Recycled
+Investment 36% 64%
+Landfill Recycled
+1. From FY23 the addition of five Mirvac Wholesale Office Fund (MWOF) assets resulted in an increase to Scope 1, 
+emissions, electricity and water consumed.
+2. Mirvac offsets 100 more tonnes of Scope 1 and Scope 2 carbon emissions than we emit, meeting our Net Positive 
+in Scope 1 and 2 Carbon Emissions by 2030 target.
+Note: Some columns may not add due to rounding.
+Tullamore, Melbourne Limited assurance has been provided by PwC. Further information can be found in the FY25 ESG Analyst Toolkit 
+assurance opinion available on our website here.
+Mirvac Group Climate Resilience Update FY25 3
