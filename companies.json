@@ -7,19 +7,20 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1600000000,
+          "value": 5437000,
           "confidence": 0.9,
-          "context": "to our LNG,,\"1.6 Mtpa abatement16, 17\"\n•  Emissions reduction and energy security are valued,•  We delivered strong Scope 1 and 2 GHG,\"•\nInvesting in opportunities where we have strengths\""
+          "context": "=== Table 4 (page 5) ===\nHIGHLIGHTS,CONFIDENCE IN LNG,SCOPE 1 AND 2,NEW ENERGY"
         },
         "scope_2": {
-          "value": 2000,
+          "value": 6320000000,
           "confidence": 0.9,
-          "context": "emissions,gas emissions from operations according to Woodside’s share of equity in the operation. Its equity share of an operation reflects,,\n,,Scope 2 GHG,Electricity indirect GHG emissions. Scope 2 accounts for GHG emissions from the generation of purchased electricity consumed\n,\"its economic interest in the operation, which is the extent of rights it has to the risks and rewards flowing from the operation.49\",,"
+          "context": ",\"compared to historical and/or current conventions or analogues, for example relating to an otherwise similar resource, process,\",,\n,,Starting base,Woodside uses a starting base of 6.32 Mt CO2-e which is representative of the gross annual average equity Scope 1 and 2\n,\"production facility, product or service, or activity. When applied to Woodside's strategy, please see the definition of lower-carbon\",,greenhouse gas emissions over 2016-2020 and which may be adjusted (up or down) for potential equity changes in producing"
         },
         "scope_3": {
           "value": 3000,
           "confidence": 0.9,
-          "context": ",methane emissions benchmarks.,\n•  This is reinforced by firm demand side commitments to,,Scope 3 targets.18\n\"offtake, with over 15 Mt of LNG contracted to Asian buyers\",•  We are pursuing emissions reduction opportunities and,"
+          "context": ",methane emissions benchmarks.,\n•  This is reinforced by firm demand side commitments to,,Scope 3 targets.18\n\"offtake, with over 15 Mt of LNG contracted to Asian buyers\",•  We are pursuing emissions reduction opportunities and,",
+          "qualifiers": "net equity"
         }
       },
       "annotations": {
@@ -59,12 +60,11 @@
         "table_token_count": 9314
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/WDS-AU_95bbe8a32b_climate-update-2024.tables.snippet.txt",
         "snippet_pages": [
-          2,
-          3,
+          12,
           13
         ],
         "confidence": 0.9
@@ -80,19 +80,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 48000,
-          "confidence": 0.95,
-          "context": "line with its strategy and risk management process,,,,\n\"b)  Disclose Scope 1, Scope 2, and, if appropriate,\",Pages 48 to 53,–,–,–\n\"Scope 3 GHG emissions, and the related risks\",,,,"
+          "value": 2025000,
+          "confidence": 1.0,
+          "context": ",,FY2025,FY2024,FY2023\nTotal,Scope 1 emissions,7.4,8.1,8.0\noperations,,,,"
         },
         "scope_2": {
-          "value": 48000,
-          "confidence": 0.95,
-          "context": "line with its strategy and risk management process,,,,\n\"b)  Disclose Scope 1, Scope 2, and, if appropriate,\",Pages 48 to 53,–,–,–\n\"Scope 3 GHG emissions, and the related risks\",,,,"
+          "value": 1000,
+          "confidence": 1.0,
+          "context": "line with its strategy and risk management process,,,,\n\"b)  Disclose Scope 1, Scope 2, and, if appropriate,\",Pages 48 to 53,–,–,–\n\"Scope 3 GHG emissions, and the related risks\",,,,",
+          "method": "market"
         },
         "scope_3": {
-          "value": 3000,
-          "confidence": 0.95,
-          "context": "\"b)  Disclose Scope 1, Scope 2, and, if appropriate,\",Pages 48 to 53,–,–,–\n\"Scope 3 GHG emissions, and the related risks\",,,,\nc)   Describe the targets used by the organisation to,Pages 48 to 53,–,–,–"
+          "value": 378200,
+          "confidence": 1.0,
+          "context": "3.7\"\nTotal Scope 3 emissions,\"378.2\n377.7",
+          "qualifiers": "Operational control basis"
         }
       },
       "annotations": {
@@ -132,13 +134,14 @@
         "table_token_count": 24133
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/BHP-AU_250819_bhpannualreport2025.tables.snippet.txt",
         "snippet_pages": [
-          41
+          41,
+          64
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -441,16 +444,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/QAN-AU_2025%20sustainability%20report.pdf",
-        "title": "QAN-AU_2025%20sustainability%20report.pdf",
-        "filename": "QAN-AU_2025%20sustainability%20report.pdf",
-        "year": "2024",
-        "doc_type": "sustainability"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -543,16 +542,12 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": {
-        "url": "https://www.iluka.com/media/hlbhtwnj/final-iluka-ar24-25225.pdf",
-        "title": "final-iluka-ar24-25225.pdf",
-        "filename": "final-iluka-ar24-25225.pdf",
-        "year": "2024",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -578,16 +573,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://prod.ramsayhealth.com/globalassets/global/investor-centre/investor-centre-pdfs/rhc_2025_impact_report.pdf",
-        "title": "rhc_2025_impact_report.pdf",
-        "filename": "rhc_2025_impact_report.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -679,16 +670,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "https://www.bluescope.com/content/dam/bluescope/corporate/bluescope-com/sustainability/documents/fy2025/FY2025_BlueScope_Sustainability_Report.pdf",
-        "title": "FY2025_BlueScope_Sustainability_Report.pdf",
-        "filename": "FY2025_BlueScope_Sustainability_Report.pdf",
-        "year": "2025",
-        "doc_type": "sustainability"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -770,19 +757,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": "transition plan\nWorley's target of net zero Scope 1 and Scope 2 GHG emissions is central to our climate transition action plan. Our short term incentive is used to motivate and\nreward strong performance. The incentive provides guidance to our Group Executive on the reduction in Scope 1 and Scope 2 GHG emissions to be achieved for the"
+          "value": 24485000,
+          "confidence": 1.0,
+          "context": "\"GHG emissions from diesel generators at four leased sites in India were reclassified from Scope 1 to Scope 3 – category 8, as they relate to base building operations\"\nmanaged by landlords. This caused our Scope 1 & 2 emissions to decrease by approximately 27t CO2e. 27/38360 0.1% decrease in emissions compared to FY2024.\nChange in boundary"
         },
         "scope_2": {
-          "value": 80000,
-          "confidence": 0.95,
-          "context": "\"industrial processes and value chains continues to be important for most of our customers, with 80% of our top 20 customers by revenue having set a net zero Scope\"\n1 and Scope 2 target by 2050 or earlier.\n[Fixed row]"
+          "value": 6524000,
+          "confidence": 1.0,
+          "context": "We report Scope 2 emissions using both location-based and market-based methods as recommended by the GHG Protocol Scope 2 Guidance.",
+          "method": "market"
         },
         "scope_3": {
-          "value": 3000,
-          "confidence": 0.95,
-          "context": "\"perspective is integrated in our scenario planning and enterprise risk processes, enabling more informed decision making. We also collect data from across our value\"\nchain to disclose our Scope 3 greenhouse gas (GHG) emissions. We’re committed to improving the accuracy of these metrics as data and technology allow.\n[Fixed row]"
+          "value": 826334000,
+          "confidence": 1.0,
+          "context": "Our Climate Change Position Statement (CCPS) sets out the actions we’re taking in response to climate change. We are decarbonizing our business and are,\n\"committed to reducing Scope 1 and 2 GHG emissions to net zero by 2030, and Scope 3 emissions by 2050. We plan to achieve our Scope 1 and 2 commitments\",\n\"through initiatives, such as reducing energy use and switching to renewable energy and low carbon fuels. We will achieve our Scope 3 commitments through working\",",
+          "qualifiers": "Market-based accounting for Scope 2 emissions."
         }
       },
       "annotations": {
@@ -822,15 +811,14 @@
         "table_token_count": 49496
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/WOR-AU_ac62e8c6e4_wor-cdp-report-2025.tables.snippet.txt",
         "snippet_pages": [
           3,
-          31,
-          84
+          110
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -1082,16 +1070,12 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": {
-        "url": "https://www.cedarwoods.com.au/getattachment/30f285ea-38d4-4e8f-9a4b-6598050eb921/2024%20Full%20Year%20Report.pdf",
-        "title": "Cedar Woods Properties Limited 2024 Full Year Report",
-        "filename": "2024%20Full%20Year%20Report.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -1116,15 +1100,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/CNI-AU_Sustainability-report_2025-v12.pdf",
-        "title": "CNI-AU_Sustainability-report_2025-v12.pdf",
-        "filename": "CNI-AU_Sustainability-report_2025-v12.pdf",
-        "doc_type": "sustainability"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -1206,19 +1187,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": ",,►  Scentre Group’s GHG Methodology,,,\n\"Scope 1 GHG emissions in tonnes of carbon dioxide\n10,211\",,►  National Greenhouse and Energy Reporting Act 2007 (for,,,"
+          "value": 10211,
+          "confidence": 1.0,
+          "context": "\"Scope 1 GHG emissions in tonnes of carbon dioxide\n10,211\",,►  National Greenhouse and Energy Reporting Act 2007 (for,,,\nequivalent (tCO2-e),,,,,"
         },
         "scope_2": {
-          "value": 2000,
-          "confidence": 0.95,
-          "context": "equivalent (tCO2-e),,,,,\n,scope 1 and scope 2 GHG data),,,,\n,,►  GHG  Protocol  Scope  2  Guidance:  An  amendment  to  the,,,"
+          "value": 175110,
+          "confidence": 1.0,
+          "context": "\"Scope 2 GHG emissions as calculated using the\n175,110\",,,,,\n,,GHG Protocol Corporate Standard,,,",
+          "method": "location"
         },
         "scope_3": {
-          "value": 2000,
-          "confidence": 0.95,
-          "context": "based method (tCO2-e),\"(e.g., Basis of Preparation).\",,,,\n\"Selected Scope 3 GHG emissions (limited to waste to\n72,655\",K,,,,"
+          "value": 72655,
+          "confidence": 1.0,
+          "context": "\"Selected Scope 3 GHG emissions (limited to waste to\n72,655\",K,,,,\n\"landfill, purchased electricity, employee commute\",ey responsibilities,,,,",
+          "qualifiers": "location-based method for Scope 2"
         }
       },
       "annotations": {
@@ -1257,13 +1240,13 @@
         "table_token_count": 853
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/SCG-AU_4d7e2391b0_SCG_2024_Responsible_Business_Limited_Assurance_Statement.tables.snippet.txt",
         "snippet_pages": [
           1
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -1369,7 +1352,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -1395,16 +1381,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://www.macquarie.com/assets/macq/about/company/sustainability/macquarie-group-fy25-sustainability-report.pdf",
-        "title": "macquarie-group-fy25-sustainability-report.pdf",
-        "filename": "macquarie-group-fy25-sustainability-report.pdf",
-        "year": "2025",
-        "doc_type": "sustainability"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -1468,20 +1450,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1993887000,
-          "confidence": 0.95,
-          "context": "Production (t),\"1,993,887\"\nScope 1 GHG emissions (tCO2-eq),\"55,812\"\nScope 2 GHG emissions (tCO2-eq) (location based),\"128,861\""
+          "value": 55812,
+          "confidence": 1.0,
+          "context": "Scope 1 GHG emissions (tCO2-eq),\"55,812\""
         },
         "scope_2": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": "Scope 1 GHG emissions (tCO2-eq),\"55,812\"\nScope 2 GHG emissions (tCO2-eq) (location based),\"128,861\"\nScope 2 GHG emissions (tCO2-eq) (market based),\"158,209\"",
+          "value": 128861,
+          "confidence": 1.0,
+          "context": "Scope 2 GHG emissions (tCO2-eq) (location based),\"128,861\"",
           "method": "location"
         },
         "scope_3": {
           "value": 1993887000,
           "confidence": 0.95,
-          "context": "Production (t),\"1,993,887\"\nScope 1 GHG emissions (tCO2-eq),\"55,812\"\nScope 2 GHG emissions (tCO2-eq) (location based),\"128,861\""
+          "context": "Production (t),\"1,993,887\"\nScope 1 GHG emissions (tCO2-eq),\"55,812\"\nScope 2 GHG emissions (tCO2-eq) (location based),\"128,861\"",
+          "qualifiers": "location based"
         }
       },
       "annotations": {
@@ -1520,13 +1503,13 @@
         "table_token_count": 352
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/ING-AU_09fb0235f8_FY25-Inghams_GHG-water-and-waste-metrics_Assurance-Statement_Final-1.tables.snippet.txt",
         "snippet_pages": [
           1
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -1556,16 +1539,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "https://www.telstra.com.au/content/dam/tcom/about-us/community-environment/pdf/2025-Bigger-Picture-Sustainability-Report-Remediated.pdf",
-        "title": "2025-Bigger-Picture-Sustainability-Report-Remediated.pdf",
-        "filename": "2025-Bigger-Picture-Sustainability-Report-Remediated.pdf",
-        "year": "2025",
-        "doc_type": "sustainability"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -1590,16 +1569,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://www.lendlease.com/siteassets/lendlease/shared/investor-centre/announcements/reports/2025/lendlease-annual-report-2025-2-relodged-version.pdf",
-        "title": "lendlease-annual-report-2025-2-relodged-version.pdf",
-        "filename": "lendlease-annual-report-2025-2-relodged-version.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -1676,20 +1651,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
-          "confidence": 0.9,
+          "value": 2004000,
+          "confidence": 1.0,
           "context": ",,OUR SUSTAINABILITY TARGETS,,,\n,,,female executive and,,scope 1 and 2\n,,,,,"
         },
         "scope_2": {
-          "value": 2004000,
-          "confidence": 0.9,
-          "context": ",\"2,004 t CO2-e\",\"2,969 t CO2-e\"\nby end of FY30,scope 1 emissions,scope 2 (location based) emissions\n,\"FY24: 2,003 t CO2-e\",\"FY24: 2,9 14 t CO2-e\"",
+          "value": 2969000,
+          "confidence": 1.0,
+          "context": "Greenhouse gas emissions – Scope 2 (market-based),\"1,834 tonnes CO2-e\"\nGreenhouse gas emissions – Scope 2 (location-based),\"2,969 tonnes CO2-e\"",
           "method": "location"
         },
         "scope_3": {
           "value": 1000,
           "confidence": 0.9,
-          "context": ",,OUR SUSTAINABILITY TARGETS,,,\n,,,female executive and,,scope 1 and 2\n,,,,,"
+          "context": ",,OUR SUSTAINABILITY TARGETS,,,\n,,,female executive and,,scope 1 and 2\n,,,,,",
+          "qualifiers": "location-based"
         }
       },
       "annotations": {
@@ -1729,13 +1705,14 @@
         "table_token_count": 3507
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/PRN-AU_591aab4875_SD-REPORT-2025_FRONT-SECTION.tables.snippet.txt",
         "snippet_pages": [
-          2
+          2,
+          23
         ],
-        "confidence": 0.9
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -1767,7 +1744,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -1794,16 +1774,12 @@
         "company_region": "Pacific",
         "company_state": "South Australia (SA)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/STO-AU_2023-Sustainability-Report-FINAL.pdf",
-        "title": "STO-AU_2023-Sustainability-Report-FINAL.pdf",
-        "filename": "STO-AU_2023-Sustainability-Report-FINAL.pdf",
-        "year": "2023",
-        "doc_type": "sustainability"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -1904,7 +1880,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -1913,20 +1892,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 25000,
-          "confidence": 0.95,
-          "context": "\"Spain, Botswana and Portugal. The FY25\",(SDGs) and the United Nations Global,rating agencies,,,,\n,assurance on our Scope 1 and 2 GHG,,•,Capital allocation,,\nSustainability Databook includes additional,Compact (UNGC). As a signatory to the,,,,•,Management of cultural heritage"
+          "value": 123967,
+          "confidence": 1.0,
+          "context": ",,,,,,,\"Sandfire\nScope 1 - Diesel (tCO2e)\",\"123,967\",\"108,769\",14%\n5,,,,,,,Group,,,"
         },
         "scope_2": {
-          "value": 35000,
-          "confidence": 0.95,
+          "value": 207796,
+          "confidence": 1.0,
           "context": "35,,,,,,,Scope 1 - Other (tCO2e),894,709,26%\n,,,,,,,Scope 2 - Market-based (tCO2e),0,0,N/A\n,,,,,,,Scope 2 - Location-based (tCO2e),\"82,288\",\"73,272\",12%",
-          "method": "market"
+          "method": "location"
         },
         "scope_3": {
           "value": 3000,
           "confidence": 0.95,
-          "context": "=== Table 6 (page 51) ===\nfactors that are aligned with our company jurisdictional footprint. This has resulted in an increase in our disclosed Scope 3 GHG emissions.,,\nProcessing of Sold Products (Category 10) and Purchased Goods and Services (Category 1) remain the most significant contributing,,"
+          "context": "=== Table 6 (page 51) ===\nfactors that are aligned with our company jurisdictional footprint. This has resulted in an increase in our disclosed Scope 3 GHG emissions.,,\nProcessing of Sold Products (Category 10) and Purchased Goods and Services (Category 1) remain the most significant contributing,,",
+          "qualifiers": "Includes market-based and location-based emissions."
         }
       },
       "annotations": {
@@ -1966,13 +1946,14 @@
         "table_token_count": 10076
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/SFR-AU_75df983432_Sandfire-AR2025.tables.snippet.txt",
         "snippet_pages": [
+          29,
           50
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -2004,7 +1985,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -2173,7 +2157,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -2199,16 +2186,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "https://www.nab.com.au/content/dam/nab/documents/reports/corporate/2025-climate-report.pdf",
-        "title": "2025-climate-report.pdf",
-        "filename": "2025-climate-report.pdf",
-        "year": "2025",
-        "doc_type": "sustainability"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -2235,16 +2218,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "https://www.ansell.com/-/media/projects/ansell/website/pdf/investors-relations/annual-report-2025/ansell-annual-report-2025-pdf.ashx",
-        "title": "report.pdf",
-        "filename": "report.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -2272,16 +2251,12 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": {
-        "url": "https://cdn.shopify.com/s/files/1/0574/1458/2338/files/16.2_SustainabilityUpdate_April2025.pdf",
-        "title": "16.2_SustainabilityUpdate_April2025.pdf",
-        "filename": "16.2_SustainabilityUpdate_April2025.pdf",
-        "year": "2025",
-        "doc_type": "sustainability"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -2524,7 +2499,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -2552,30 +2530,17 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
         "name": "Mosaic Brands Ltd.",
         "ticker": "MOZ-AU"
       },
-      "emissions": {
-        "scope_1": {
-          "value": 2000,
-          "confidence": 0.8571428571428572,
-          "context": ",,,,,,,RT-CH-110a.1\nGHG – Scope 2,Tonnes CO2e,1.5,1.3,1.2,1.2,1.2,\nGHG Intensity –,Tonnes CO2e,0.234,0.230,0.223,0.248,0.235,"
-        },
-        "scope_2": {
-          "value": 2000,
-          "confidence": 0.8571428571428572,
-          "context": ",,,,,,,RT-CH-110a.1\nGHG – Scope 2,Tonnes CO2e,1.5,1.3,1.2,1.2,1.2,\nGHG Intensity –,Tonnes CO2e,0.234,0.230,0.223,0.248,0.235,"
-        },
-        "scope_3": {
-          "value": 2000,
-          "confidence": 0.8571428571428572,
-          "context": ",,,,,,,RT-CH-110a.1\nGHG – Scope 2,Tonnes CO2e,1.5,1.3,1.2,1.2,1.2,\nGHG Intensity –,Tonnes CO2e,0.234,0.230,0.223,0.248,0.235,"
-        }
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_context": "Consumer Retail",
@@ -2593,33 +2558,10 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://mosaicbrandsltd.com.au/wp-content/uploads/2025/11/Mosaic-Brands-Ltd-2025-Sustainability-Report.pdf",
-        "title": "Mosaic-Brands-Ltd-2025-Sustainability-Report.pdf",
-        "filename": "Mosaic-Brands-Ltd-2025-Sustainability-Report.pdf",
-        "year": "2024",
-        "doc_type": "sustainability"
-      },
-      "download_record": {
-        "pdf_path": "downloads/MOZ-AU_0-2024-Sustainability-Performance-Summary.pdf"
-      },
-      "extraction_record": {
-        "text_path": "/home/user/code/scope-spider/extracted/MOZ-AU_0-2024-Sustainability-Performance-Summary.text.snippet.txt",
-        "text_token_count": 872,
-        "snippet_page_count": 1,
-        "table_path": "/home/user/code/scope-spider/extracted/MOZ-AU_0-2024-Sustainability-Performance-Summary.tables.snippet.txt",
-        "table_count": 1,
-        "table_token_count": 465
-      },
-      "analysis_record": {
-        "method": "python",
-        "snippet_label": "tables",
-        "snippet_path": "/home/user/code/scope-spider/extracted/MOZ-AU_0-2024-Sustainability-Performance-Summary.tables.snippet.txt",
-        "snippet_pages": [
-          3
-        ],
-        "confidence": 0.8571428571428572
-      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null,
+      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -2631,19 +2573,20 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 836894000,
-          "confidence": 0.95,
-          "context": "Reasonable Assurance Conclusion\n\"In our opinion, the total Scope 1 and Scope 2 Greenhouse Gas (GHG) emissions of 836,894 tCO2eq and 467,881 tCO2eq reported by Northern Star,\"\n\"along with the associated GHG emissions methods, assumptions, and estimation uncertainty within the scope of our reasonable assurance engagement,\""
+          "value": 8368940,
+          "confidence": 1.0,
+          "context": "In our opinion, the total Scope 1 and Scope 2 Greenhouse Gas (GHG) emissions of 836,894 tCO2eq and 467,881 tCO2eq reported by Northern Star,"
         },
         "scope_2": {
-          "value": 836894000,
-          "confidence": 0.95,
-          "context": "Reasonable Assurance Conclusion\n\"In our opinion, the total Scope 1 and Scope 2 Greenhouse Gas (GHG) emissions of 836,894 tCO2eq and 467,881 tCO2eq reported by Northern Star,\"\n\"along with the associated GHG emissions methods, assumptions, and estimation uncertainty within the scope of our reasonable assurance engagement,\""
+          "value": 4678810,
+          "confidence": 1.0,
+          "context": "In our opinion, the total Scope 1 and Scope 2 Greenhouse Gas (GHG) emissions of 836,894 tCO2eq and 467,881 tCO2eq reported by Northern Star,"
         },
         "scope_3": {
           "value": 836894000,
           "confidence": 0.95,
-          "context": "Reasonable Assurance Conclusion\n\"In our opinion, the total Scope 1 and Scope 2 Greenhouse Gas (GHG) emissions of 836,894 tCO2eq and 467,881 tCO2eq reported by Northern Star,\"\n\"along with the associated GHG emissions methods, assumptions, and estimation uncertainty within the scope of our reasonable assurance engagement,\""
+          "context": "Reasonable Assurance Conclusion\n\"In our opinion, the total Scope 1 and Scope 2 Greenhouse Gas (GHG) emissions of 836,894 tCO2eq and 467,881 tCO2eq reported by Northern Star,\"\n\"along with the associated GHG emissions methods, assumptions, and estimation uncertainty within the scope of our reasonable assurance engagement,\"",
+          "qualifiers": "Reporting period: 1st July 2024 to 30th June 2025; Assurance engagement limited to operating assets."
         }
       },
       "annotations": {
@@ -2683,13 +2626,13 @@
         "table_token_count": 609
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/NST-AU_2f1c688746_fy25-reasonable-and-limited-assurance-statement.tables.snippet.txt",
         "snippet_pages": [
           1
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -2722,7 +2665,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -2748,16 +2694,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "https://company-announcements.afr.com/asx/ax1/5575b3d9-7ee5-11f0-a50b-761c7b168270.pdf",
-        "title": "5575b3d9-7ee5-11f0-a50b-761c7b168270.pdf",
-        "filename": "5575b3d9-7ee5-11f0-a50b-761c7b168270.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -2924,7 +2866,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -2949,16 +2894,12 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": {
-        "url": "https://perseusmining.com/storage/2025/08/Perseus-2025-Annual-Report-Final.pdf",
-        "title": "Perseus-2025-Annual-Report-Final.pdf",
-        "filename": "Perseus-2025-Annual-Report-Final.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -2984,16 +2925,12 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": {
-        "url": "https://company-announcements.afr.com/asx/ehl/c244c4c5-7d48-11f0-a14a-aaf2b0bbb5d6.pdf",
-        "title": "c244c4c5-7d48-11f0-a14a-aaf2b0bbb5d6.pdf",
-        "filename": "c244c4c5-7d48-11f0-a14a-aaf2b0bbb5d6.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -3019,16 +2956,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "https://www.seek.com.au/content/media/SEK-2025-Sustainability-Report.pdf",
-        "title": "SEK-2025-Sustainability-Report.pdf",
-        "filename": "SEK-2025-Sustainability-Report.pdf",
-        "year": "2025",
-        "doc_type": "sustainability"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -3130,7 +3063,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -3229,16 +3165,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/SVR-AU_Solvar_Limited_2025_Annual_Report.pdf",
-        "title": "SVR-AU_Solvar_Limited_2025_Annual_Report.pdf",
-        "filename": "SVR-AU_Solvar_Limited_2025_Annual_Report.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -3265,7 +3197,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -3291,16 +3226,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/EGN-AU_annual-report-2024.pdf",
-        "title": "EGN-AU_annual-report-2024.pdf",
-        "filename": "EGN-AU_annual-report-2024.pdf",
-        "year": "2024",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -3310,18 +3241,19 @@
       "emissions": {
         "scope_1": {
           "value": 14183000,
-          "confidence": 0.95,
-          "context": "\"requirements. BCI contributed 14,183 t\",\nCO2-e (Scope 1) and 53 t CO2-e (Scope 2) for,\n\"FY24, which is below the NGER emissions\","
+          "confidence": 1.0,
+          "context": "Greenhouse and Energy Reporting (NGER),\n\"requirements. BCI contributed 14,183 t\",\nCO2-e (Scope 1) and 53 t CO2-e (Scope 2) for,"
         },
         "scope_2": {
-          "value": 14183000,
-          "confidence": 0.95,
-          "context": "\"requirements. BCI contributed 14,183 t\",\nCO2-e (Scope 1) and 53 t CO2-e (Scope 2) for,\n\"FY24, which is below the NGER emissions\","
+          "value": 53000,
+          "confidence": 1.0,
+          "context": "BCI contributed 53 t CO2-e (Scope 2) for FY24, which is below the NGER emissions reporting thresholds."
         },
         "scope_3": {
           "value": 14183000,
           "confidence": 0.95,
-          "context": "\"requirements. BCI contributed 14,183 t\",\nCO2-e (Scope 1) and 53 t CO2-e (Scope 2) for,\n\"FY24, which is below the NGER emissions\","
+          "context": "\"requirements. BCI contributed 14,183 t\",\nCO2-e (Scope 1) and 53 t CO2-e (Scope 2) for,\n\"FY24, which is below the NGER emissions\",",
+          "qualifiers": "FY24 emissions report, below NGER thresholds"
         }
       },
       "annotations": {
@@ -3360,13 +3292,13 @@
         "table_token_count": 246
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/BCI-AU_904d93b991_BCI_Minerals_Annual_Report_2025_DIGITAL_SPREADS_FINAL.tables.snippet.txt",
         "snippet_pages": [
           29
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -3380,19 +3312,20 @@
       "emissions": {
         "scope_1": {
           "value": 174700000,
-          "confidence": 0.95,
-          "context": ",174.7kt CO -e2,1.5kt CO -e2\n,FY24: 110.6kt CO -e2,FY24: 0.6kt CO -e2\nGenesis recognises that climate change is a pressing global issue. We are committed to,,"
+          "confidence": 1.0,
+          "context": "174.7kt CO -e2"
         },
         "scope_2": {
-          "value": 174700000,
-          "confidence": 0.95,
-          "context": ",174.7kt CO -e2,1.5kt CO -e2\n,FY24: 110.6kt CO -e2,FY24: 0.6kt CO -e2\nGenesis recognises that climate change is a pressing global issue. We are committed to,,",
+          "value": 1500000,
+          "confidence": 1.0,
+          "context": "1.5kt CO -e2",
           "method": "location"
         },
         "scope_3": {
           "value": 174700000,
           "confidence": 0.95,
-          "context": ",174.7kt CO -e2,1.5kt CO -e2\n,FY24: 110.6kt CO -e2,FY24: 0.6kt CO -e2\nGenesis recognises that climate change is a pressing global issue. We are committed to,,"
+          "context": ",174.7kt CO -e2,1.5kt CO -e2\n,FY24: 110.6kt CO -e2,FY24: 0.6kt CO -e2\nGenesis recognises that climate change is a pressing global issue. We are committed to,,",
+          "qualifiers": "location-based"
         }
       },
       "annotations": {
@@ -3431,13 +3364,13 @@
         "table_token_count": 179
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/GMD-AU_0ba2be51b7_Sustainability-Report-2025-FINAL.tables.snippet.txt",
         "snippet_pages": [
           31
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -3468,7 +3401,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -3477,19 +3413,20 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": "=== Table 1 (page 19) ===\n,Balama Graphite Operation,,,,,Greenhouse Gas Emissions - Scope 1 and Scope 2(3) Reporting,,,\n,Scope 1 and 2 GHG Emissions,,,,,,,,"
+          "value": 22024000,
+          "confidence": 0.9,
+          "context": "Q2 2024,\"6,355\",23,2.7,\"40,000\",,,,,10\nQ3 2024,\"1,264\",0,N/A,,,,,,\n,,,,0,,,,,0"
         },
         "scope_2": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": "=== Table 1 (page 19) ===\n,Balama Graphite Operation,,,,,Greenhouse Gas Emissions - Scope 1 and Scope 2(3) Reporting,,,\n,Scope 1 and 2 GHG Emissions,,,,,,,,"
+          "value": 22024000,
+          "confidence": 0.9,
+          "context": "Q2 2024,\"6,355\",23,2.7,\"40,000\",,,,,10\nQ3 2024,\"1,264\",0,N/A,,,,,,\n,,,,0,,,,,0"
         },
         "scope_3": {
           "value": 1000,
           "confidence": 0.95,
-          "context": "=== Table 1 (page 19) ===\n,Balama Graphite Operation,,,,,Greenhouse Gas Emissions - Scope 1 and Scope 2(3) Reporting,,,\n,Scope 1 and 2 GHG Emissions,,,,,,,,"
+          "context": "=== Table 1 (page 19) ===\n,Balama Graphite Operation,,,,,Greenhouse Gas Emissions - Scope 1 and Scope 2(3) Reporting,,,\n,Scope 1 and 2 GHG Emissions,,,,,,,,",
+          "qualifiers": "Natural Graphite, Emissions"
         }
       },
       "annotations": {
@@ -3529,13 +3466,13 @@
         "table_token_count": 336
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/SYR-AU_12e87e11e2_1745891084-q1-2025-quarterly-sustainability-update.tables.snippet.txt",
         "snippet_pages": [
           19
         ],
-        "confidence": 0.95
+        "confidence": 0.9
       },
       "verification": {
         "status": "pending"
@@ -3769,7 +3706,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -3796,7 +3736,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -3897,7 +3840,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -3906,20 +3852,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 3000,
+          "value": 1000,
           "confidence": 0.9,
-          "context": "Metric / target,Type,Scope,Unit,FY23,FY24,FY25,Status\nScope 1 & 2 and upstream Scope 3,,,,,,,\n,,,% tCO2-e,,,,"
+          "context": "Scope 1,\"1,731\",\"1,419\",\"1,324\",\"1,245\""
         },
         "scope_2": {
-          "value": 3000,
+          "value": 6074,
           "confidence": 0.9,
-          "context": ",\"Accountable for delivering Scope 1, 2 &\"\n,upstream Scope 3 GHG emissions (excluding\n\"In FY25, the SGL Board and its Committees considered a wide range of key\",",
-          "method": "market"
+          "context": "Scope 2 (location-based),\"14,751\",\"9,802\",\"8,333\",\"6,074\"",
+          "method": "location"
         },
         "scope_3": {
-          "value": 3000,
+          "value": 17964,
           "confidence": 0.9,
-          "context": ",\"Accountable for delivering Scope 1, 2 &\"\n,upstream Scope 3 GHG emissions (excluding\n\"In FY25, the SGL Board and its Committees considered a wide range of key\","
+          "context": "Upstream Scope 3 emissions3, 7\",Metric,Total upstream Scope 3 emissions,tCO2-e,\"15,980\",\"19,551\",\"17,9641\"",
+          "qualifiers": "location-based emissions"
         }
       },
       "annotations": {
@@ -3958,12 +3905,12 @@
         "table_token_count": 5961
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/SUN-AU_3472ed46d3_FY25-SUN-Climate-related-Disclsoure-Report-Final.tables.snippet.txt",
         "snippet_pages": [
           4,
-          19
+          12
         ],
         "confidence": 0.9
       },
@@ -3995,7 +3942,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -4022,7 +3972,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -4031,14 +3984,15 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": "We are on track to meet our near-term target of net zero,\n\"scope 1 and 2 emissions by the end of 2025, with the core\",Robert (Bob) Johnston was appointed to the Board on\ncomponent of our net zero strategy being the delivery of,1 October 2024. Bob has over 30 years of experience in"
+          "value": 2155,
+          "confidence": 1.0,
+          "context": "Total Scope 1: 2,155tCO2-e (up 13%)"
         },
         "scope_2": {
-          "value": 100000,
-          "confidence": 0.95,
-          "context": "partnership with distributed energy resources company,\nEnergy Bay to achieve 100% renewable energy across our,Chris Lawton was appointed to the Board on 1 January\n\"portfolio and net zero scope 2 emissions.  In FY25, we\",2025. Chris has over 40 years’ experience in professional"
+          "value": 32121,
+          "confidence": 1.0,
+          "context": "Total Scope 2: 32,121tCO2-e (down 11%)",
+          "method": "location"
         }
       },
       "annotations": {
@@ -4078,13 +4032,13 @@
         "table_token_count": 4514
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/SGP-AU_af45fc950c_856446_Stockland_FY25_Annual_Report.tables.snippet.txt",
         "snippet_pages": [
           10
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -4116,7 +4070,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -4142,15 +4099,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://ir.aristocrat.com/static-files/04f3a9fd-c718-4b38-b488-8c9853d2ba76",
-        "title": "report.pdf",
-        "filename": "report.pdf",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -4176,16 +4130,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "https://www.orica.com/ArticleDocuments/311/FY2024%20Climate%20Action%20Report.pdf.aspx",
-        "title": "report.pdf",
-        "filename": "report.pdf",
-        "year": "2024",
-        "doc_type": "sustainability"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -4194,19 +4144,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 73860000,
-          "confidence": 0.95,
-          "context": "Our planet,,,,,\nReduce absolute scope 1 and 2,2019,\"73,860 tCO2-e\",\"31,878 tCO2-e\",Overall GHG emissions have decreased by 43% in comparison to,50-\nGHG emissions 46.2% by 2030,,,,our FY19 baseline. This is comprised of 57% reduction in emissions in,52"
+          "value": 22554,
+          "confidence": 1.0,
+          "context": "Scope 1 – Where activity data was available emissions were calculated on this basis."
         },
         "scope_2": {
-          "value": 202476000,
-          "confidence": 0.95,
-          "context": "Global employee engagement,2024,76%,N/A,\"No data available for FY23, on track to meet target.\",27\nscore of 80%4,,,,,\nIncrease of 10% year-on-year,2022,\"$155,300 AUD\",\"$238,000 AUD\",53% increase in financial year 2023 for Australian year-on-year,31"
+          "value": 9324,
+          "confidence": 1.0,
+          "context": "Scope 2 – Calculations were made where metered energy consumption billing data was available.",
+          "method": "location"
         },
         "scope_3": {
-          "value": 302102000,
-          "confidence": 0.95,
-          "context": "=== Table 7 (page 55) ===\nGraph 1. FY19 and FY23 FLT carbon footprint (excluding scope 3 category 11) (‘000 tCO2e emissions)15,,,,,,,\n350,,,,,,,"
+          "value": 181919,
+          "confidence": 1.0,
+          "context": "=== Table 7 (page 55) ===\nGraph 1. FY19 and FY23 FLT carbon footprint (excluding scope 3 category 11) (‘000 tCO2e emissions)15,,,,,,,\n350,,,,,,,",
+          "qualifiers": "Excluding category 11 emissions (use of sold products)."
         }
       },
       "annotations": {
@@ -4246,14 +4198,14 @@
         "table_token_count": 5476
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/FLT-AU_b79ee45eff_Flight-Centre-Travel-Group-Sustainability-Report.tables.snippet.txt",
         "snippet_pages": [
           19,
           53
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -4264,24 +4216,7 @@
         "name": "Transurban Group Ltd.",
         "ticker": "TCL-AU"
       },
-      "emissions": {
-        "scope_1": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": "Scope 1 and 2 GHG emissions"
-        },
-        "scope_2": {
-          "value": 2000,
-          "confidence": 0.95,
-          "context": "assumptions\n2 All GHG emissions targets are relative to a FY19 baseline. In FY25 scope 2 (market-based) methodology has been updated to align with FY25 Clean Energy Regulator guidance, and this\nhas been applied retrospectively to FY24. Comparisons to prior years and baseline should not be made. In making progress against our scope 1 & 2 Target we utilise a combination of",
-          "method": "market"
-        },
-        "scope_3": {
-          "value": 3000,
-          "confidence": 0.95,
-          "context": "Scope 3 GHG emissions and materials"
-        }
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_context": "Industrial Services",
@@ -4300,33 +4235,10 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "https://www.transurban.com/content/dam/investor-centre/04/2025-Corporate-Report.pdf",
-        "title": "Transurban Group 2025 Corporate Report",
-        "filename": "2025-Corporate-Report.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/TCL-AU_352eda695a_2025-Corporate-Report.pdf"
-      },
-      "extraction_record": {
-        "text_path": "/home/user/code/scope-spider/extracted/TCL-AU_352eda695a_2025-Corporate-Report.text.snippet.txt",
-        "text_token_count": 3581,
-        "snippet_page_count": 11,
-        "table_path": "/home/user/code/scope-spider/extracted/TCL-AU_352eda695a_2025-Corporate-Report.tables.snippet.txt",
-        "table_count": 10,
-        "table_token_count": 5156
-      },
-      "analysis_record": {
-        "method": "python",
-        "snippet_label": "text",
-        "snippet_path": "/home/user/code/scope-spider/extracted/TCL-AU_352eda695a_2025-Corporate-Report.text.snippet.txt",
-        "snippet_pages": [
-          8
-        ],
-        "confidence": 0.95
-      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null,
+      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -4354,15 +4266,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://investorcentre.apn.com.au/static-files/550fe75f-7405-4147-bb59-1f80cfaf92a6",
-        "title": "report.pdf",
-        "filename": "report.pdf",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -4389,15 +4298,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/SOL-AU_2024%20sustainability.pdf",
-        "title": "SOL-AU_2024%20sustainability.pdf",
-        "filename": "SOL-AU_2024%20sustainability.pdf",
-        "doc_type": "sustainability"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -4479,23 +4385,7 @@
         "name": "Sonic Healthcare Ltd.",
         "ticker": "SHL-AU"
       },
-      "emissions": {
-        "scope_1": {
-          "value": 1000,
-          "confidence": 0.8571428571428572,
-          "context": "aligned) and high (3°C+) emissions scenarios over short-term, medium-term and long-term time horizons\n ¡undertake assurance of Sonic’s global scope 1 and 2 greenhouse gas (GHG) emissions for FY2025, in preparation for limited\nassurance requirements of mandatory disclosures in FY2026"
-        },
-        "scope_2": {
-          "value": 1000,
-          "confidence": 0.8571428571428572,
-          "context": "aligned) and high (3°C+) emissions scenarios over short-term, medium-term and long-term time horizons\n ¡undertake assurance of Sonic’s global scope 1 and 2 greenhouse gas (GHG) emissions for FY2025, in preparation for limited\nassurance requirements of mandatory disclosures in FY2026"
-        },
-        "scope_3": {
-          "value": 1000,
-          "confidence": 0.8571428571428572,
-          "context": "aligned) and high (3°C+) emissions scenarios over short-term, medium-term and long-term time horizons\n ¡undertake assurance of Sonic’s global scope 1 and 2 greenhouse gas (GHG) emissions for FY2025, in preparation for limited\nassurance requirements of mandatory disclosures in FY2026"
-        }
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_context": "Healthcare Services",
@@ -4513,32 +4403,10 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/AR/SHL_AnnualReport_2025.pdf",
-        "title": "SHL_AnnualReport_2025.pdf",
-        "filename": "SHL_AnnualReport_2025.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/SHL-AU_e51d23188b_SHL_AnnualReport_2025.pdf"
-      },
-      "extraction_record": {
-        "text_path": "/home/user/code/scope-spider/extracted/SHL-AU_e51d23188b_SHL_AnnualReport_2025.text.snippet.txt",
-        "text_token_count": 689,
-        "snippet_page_count": 1,
-        "table_count": 0,
-        "table_token_count": 0
-      },
-      "analysis_record": {
-        "method": "python",
-        "snippet_label": "text",
-        "snippet_path": "/home/user/code/scope-spider/extracted/SHL-AU_e51d23188b_SHL_AnnualReport_2025.text.snippet.txt",
-        "snippet_pages": [
-          37
-        ],
-        "confidence": 0.8571428571428572
-      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null,
+      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -4567,16 +4435,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/DNL-AU_2024-ipl-sustainability-report.pdf",
-        "title": "DNL-AU_2024-ipl-sustainability-report.pdf",
-        "filename": "DNL-AU_2024-ipl-sustainability-report.pdf",
-        "year": "2024",
-        "doc_type": "sustainability"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -4880,7 +4744,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -5044,15 +4911,12 @@
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/BOQ-AU_25-annual-report.pdf",
-        "title": "BOQ-AU_25-annual-report.pdf",
-        "filename": "BOQ-AU_25-annual-report.pdf",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -5080,7 +4944,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -5108,7 +4975,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -5256,13 +5126,13 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 53821000,
-          "confidence": 0.85,
-          "context": "53,821\",\"57,081\"\n\"Ridley. In FY25, our total Scope 1 GHG\",,\n,\"Scope 2"
+          "value": 57081,
+          "confidence": 1.0,
+          "context": ",,,charities and or community groups.,\n,,,,contribution five-fold to 0.15%\n,,,This represents approximately,of group EBITDA and continue"
         },
         "scope_2": {
-          "value": 25000,
-          "confidence": 0.85,
+          "value": 50977,
+          "confidence": 1.0,
           "context": ",,,charities and or community groups.,\n,,,,contribution five-fold to 0.15%\n,,,This represents approximately,of group EBITDA and continue"
         }
       },
@@ -5303,14 +5173,13 @@
         "table_token_count": 2908
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/RIC-AU_sustainability-2025.tables.snippet.txt",
         "snippet_pages": [
-          5,
-          11
+          5
         ],
-        "confidence": 0.85
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -5341,7 +5210,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -5368,7 +5240,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -5394,15 +5269,12 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": {
-        "url": "https://investor.austal.com/static-files/13ecc41b-f143-4b9a-9946-ebc4962c5458",
-        "title": "report.pdf",
-        "filename": "report.pdf",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -5571,7 +5443,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -5598,7 +5473,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -5626,7 +5504,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -5653,7 +5534,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -5662,14 +5546,14 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
-          "confidence": 0.85,
-          "context": "Greenhouse gas emissions,\nResolute has been disclosing its Scope 1 and 2 GHG emissions,\"Emissions intensity, the ratio of emissions to volume of gold\"\n\"since 2019, and Scope 3 emissions since 2020. These are\",\"produced, has been influenced at Mako by reducing the diesel\""
+          "value": 180502,
+          "confidence": 1.0,
+          "context": "tCO2e\n180,502\",\"110,862\n212,685"
         },
         "scope_2": {
-          "value": 1000,
-          "confidence": 0.85,
-          "context": "Greenhouse gas emissions,\nResolute has been disclosing its Scope 1 and 2 GHG emissions,\"Emissions intensity, the ratio of emissions to volume of gold\"\n\"since 2019, and Scope 3 emissions since 2020. These are\",\"produced, has been influenced at Mako by reducing the diesel\""
+          "value": 110862,
+          "confidence": 1.0,
+          "context": "tCO2e\n180,502\",\"110,862\n212,685"
         },
         "scope_3": {
           "value": 1000,
@@ -5714,13 +5598,13 @@
         "table_token_count": 2268
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/RSG-AU_e92c01c7a4_Resolute-Sustainability-Report-2024.tables.snippet.txt",
         "snippet_pages": [
           80
         ],
-        "confidence": 0.85
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -5822,7 +5706,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -5980,16 +5867,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/KSC-AU_29578-KS-Annual-Report-2025_web-FINAL-printed.pdf",
-        "title": "KSC-AU_29578-KS-Annual-Report-2025_web-FINAL-printed.pdf",
-        "filename": "KSC-AU_29578-KS-Annual-Report-2025_web-FINAL-printed.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -5998,20 +5881,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 34000,
-          "confidence": 0.95,
-          "context": "Energy – Building Data,,,,,,\nGross Energy Consumed,000GJ,179.1,188.2,143.3,40.9,4.0\nNatural Gas,000GJ,37.4,39.0,38.9,<0.1,-"
+          "value": 3343,
+          "confidence": 1.0,
+          "context": "Scope 1 – Total GHG emissions 3, 4b"
         },
         "scope_2": {
-          "value": 4000,
-          "confidence": 0.95,
-          "context": "Scope 1 – Carbon Offsets – Retired 10,tCO2e,\"3,530\",\"3,343\",\"2,781\",525,38\n\"Scope 2 – Electricity Total GHG emissions Location Based 4a, 5\",tCO2e,\"18,289\",\"18,257\",\"16,574\",\"1,014\",670\n\"Residual Scope 1 and 2 Carbon Emissions Location Based 4a, 5\",tCO2e,\"18,289\",\"18,257\",\"16,574\",\"1,014\",670",
+          "value": 18257,
+          "confidence": 1.0,
+          "context": "Scope 2 – Electricity Total GHG emissions Location Based 4a, 5",
           "method": "location"
         },
         "scope_3": {
           "value": 10000,
           "confidence": 0.95,
-          "context": "Natural Gas,tCO2e,\"1,924\",\"2,009\",\"2,007\",2,-\nScope 1 – Carbon Offsets – Retired 10,tCO2e,\"3,530\",\"3,343\",\"2,781\",525,38\n\"Scope 2 – Electricity Total GHG emissions Location Based 4a, 5\",tCO2e,\"18,289\",\"18,257\",\"16,574\",\"1,014\",670"
+          "context": "Natural Gas,tCO2e,\"1,924\",\"2,009\",\"2,007\",2,-\nScope 1 – Carbon Offsets – Retired 10,tCO2e,\"3,530\",\"3,343\",\"2,781\",525,38\n\"Scope 2 – Electricity Total GHG emissions Location Based 4a, 5\",tCO2e,\"18,289\",\"18,257\",\"16,574\",\"1,014\",670",
+          "qualifiers": "Location Based"
         }
       },
       "annotations": {
@@ -6051,13 +5935,13 @@
         "table_token_count": 823
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/EBO-NZ_60d1a33a21_EBOS_ESG-Doument_2025_Environmental-Data_FINAL.tables.snippet.txt",
         "snippet_pages": [
           1
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -6088,7 +5972,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -6171,13 +6058,13 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": ",for the industry\nEnvironment,Scope a project to improve GHG emissions (Scope 1 and 2) data collection\n,Meet internal earning growth targets"
+          "value": 25000,
+          "confidence": 1.0,
+          "context": "\"In FY25 IMDEX’s Scope 1 and 2 GHG emissions were 2,831 metric tonnes of carbon dioxide\"\n\"equivalent (tCO2-e). This included 2,006 tCO2-e Scope 1 and 825 tCO2-e Scope 2 (location-\"\n\"based). For FY25, IMDEX has also measured market-based Scope 2 GHG emissions which\""
         },
         "scope_2": {
-          "value": 2006000,
-          "confidence": 0.95,
+          "value": 25000,
+          "confidence": 1.0,
           "context": "\"In FY25 IMDEX’s Scope 1 and 2 GHG emissions were 2,831 metric tonnes of carbon dioxide\"\n\"equivalent (tCO2-e). This included 2,006 tCO2-e Scope 1 and 825 tCO2-e Scope 2 (location-\"\n\"based). For FY25, IMDEX has also measured market-based Scope 2 GHG emissions which\"",
           "method": "location"
         }
@@ -6219,13 +6106,13 @@
         "table_token_count": 6299
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/IMD-AU_31391cac80_06pmwdxz5d7x0t.tables.snippet.txt",
         "snippet_pages": [
           19
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -6238,14 +6125,14 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 65000000000,
-          "confidence": 0.95,
-          "context": "Mt Weld hybrid,Mt Weld – 65MW,,Australia’s National Greenhouse Energy Reporting\npower station gas,hybrid power station,,(NGER). Our Scope 1 and Scope 2 GHG emissions data\nplant constructed and,\"(solar, wind, battery,\",,"
+          "value": 42451,
+          "confidence": 1.0,
+          "context": "Scope 1,\"19,697\",\"27,420\",\"29,990\",\"28,523\",\"42,451**\""
         },
         "scope_2": {
-          "value": 65000000000,
-          "confidence": 0.95,
-          "context": "Mt Weld hybrid,Mt Weld – 65MW,,Australia’s National Greenhouse Energy Reporting\npower station gas,hybrid power station,,(NGER). Our Scope 1 and Scope 2 GHG emissions data\nplant constructed and,\"(solar, wind, battery,\",,"
+          "value": 68566,
+          "confidence": 1.0,
+          "context": "Scope 2,\"43,917\",\"42,831\",\"43,580\",\"42,592\",\"68,566\""
         }
       },
       "annotations": {
@@ -6285,13 +6172,13 @@
         "table_token_count": 2266
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/LYC-AU_d6492ca482_LYC-Sustainability-Report-2025-Oct25V2-1.tables.snippet.txt",
         "snippet_pages": [
           24
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -6389,30 +6276,17 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
         "name": "Grange Resources Ltd.",
         "ticker": "GRR-AU"
       },
-      "emissions": {
-        "scope_1": {
-          "value": 2000,
-          "confidence": 0.8571428571428572,
-          "context": "•          CO2-e emission target reduction of 50% by 2035\n•          Target of Zero CO2 -e (Scope 1 and 2) emissions by 2040"
-        },
-        "scope_2": {
-          "value": 2000,
-          "confidence": 0.8571428571428572,
-          "context": "•          CO2-e emission target reduction of 50% by 2035\n•          Target of Zero CO2 -e (Scope 1 and 2) emissions by 2040"
-        },
-        "scope_3": {
-          "value": 2000,
-          "confidence": 0.8571428571428572,
-          "context": "•          CO2-e emission target reduction of 50% by 2035\n•          Target of Zero CO2 -e (Scope 1 and 2) emissions by 2040"
-        }
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_context": "Mining and Mineral Products",
@@ -6430,32 +6304,10 @@
         "company_region": "Pacific",
         "company_state": "Tasmania (TAS)"
       },
-      "search_record": {
-        "url": "https://announcements.asx.com.au/asxpdf/20250228/pdf/06g3vl9c2zrmz5.pdf",
-        "title": "06g3vl9c2zrmz5.pdf",
-        "filename": "06g3vl9c2zrmz5.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/GRR-AU_d9caeb0a68_06g3vl9c2zrmz5.pdf"
-      },
-      "extraction_record": {
-        "text_path": "/home/user/code/scope-spider/extracted/GRR-AU_d9caeb0a68_06g3vl9c2zrmz5.text.snippet.txt",
-        "text_token_count": 856,
-        "snippet_page_count": 1,
-        "table_count": 0,
-        "table_token_count": 0
-      },
-      "analysis_record": {
-        "method": "python",
-        "snippet_label": "text",
-        "snippet_path": "/home/user/code/scope-spider/extracted/GRR-AU_d9caeb0a68_06g3vl9c2zrmz5.text.snippet.txt",
-        "snippet_pages": [
-          8
-        ],
-        "confidence": 0.8571428571428572
-      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null,
+      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -6467,19 +6319,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
-          "confidence": 0.85,
-          "context": "=== Table 1 (page 33) ===\n,Emissions intensity per ounce maintained,,,Reduced total Scope 1 and Scope 2 emissions,,,,,\n,,,,Reduced total Scope 1 and Scope 2 emissions,,,,,"
+          "value": 144964,
+          "confidence": 0.9,
+          "context": "Total,,t CO2-e,,\"59,259\",,\"58,620\",\"27,085\",\"144,964\""
         },
         "scope_2": {
-          "value": 1000,
-          "confidence": 0.85,
-          "context": "=== Table 1 (page 33) ===\n,Emissions intensity per ounce maintained,,,Reduced total Scope 1 and Scope 2 emissions,,,,,\n,,,,Reduced total Scope 1 and Scope 2 emissions,,,,,"
+          "value": 119648,
+          "confidence": 0.9,
+          "context": "Total,,765,–,–,118,883",
+          "method": "location"
         },
         "scope_3": {
           "value": 305000,
           "confidence": 0.85,
-          "context": "305-2,Energy indirect (Scope 2) GHG emissions,60\n305-3,Other indirect (Scope 3) GHG emissions,N/A\n305-4,GHG emissions intensity,60"
+          "context": "305-2,Energy indirect (Scope 2) GHG emissions,60\n305-3,Other indirect (Scope 3) GHG emissions,N/A\n305-4,GHG emissions intensity,60",
+          "qualifiers": "Total emissions including Scope 1 and Scope 2"
         }
       },
       "annotations": {
@@ -6519,14 +6373,14 @@
         "table_token_count": 3998
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/WGX-AU_7e9f69b6bf_2024-Sustainability-Report.tables.snippet.txt",
         "snippet_pages": [
           33,
-          51
+          60
         ],
-        "confidence": 0.85
+        "confidence": 0.9
       },
       "verification": {
         "status": "pending"
@@ -6555,16 +6409,12 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/PDN-AU_Sustainability%202025.pdf.pdf",
-        "title": "PDN-AU_Sustainability%202025.pdf.pdf",
-        "filename": "PDN-AU_Sustainability%202025.pdf.pdf",
-        "year": "2025",
-        "doc_type": "sustainability"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -6660,7 +6510,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -6688,7 +6541,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -6716,7 +6572,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -6818,7 +6677,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -6845,7 +6707,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -6872,7 +6737,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -6881,14 +6749,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
-          "confidence": 0.95,
+          "value": 640535,
+          "confidence": 1.0,
           "context": "Cultural heritage,Operational emissions\nWe respect the connections of Traditional,New Hope reports on Scope 1 and Scope 2 greenhouse gas (GHG) emissions (also referred\nOwners and custodians with the lands,\"to as ‘operational emissions’), energy consumption and energy production to the Clean\""
         },
         "scope_2": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": "Cultural heritage,Operational emissions\nWe respect the connections of Traditional,New Hope reports on Scope 1 and Scope 2 greenhouse gas (GHG) emissions (also referred\nOwners and custodians with the lands,\"to as ‘operational emissions’), energy consumption and energy production to the Clean\""
+          "value": 5402000,
+          "confidence": 1.0,
+          "context": "Queensland Bulk Handling,\"5,402\",5.2 million throughput tonnes\nBridgeport Energy,\"16,753\",0.3 boe\nOther Group operations*,\"11,987\",-",
+          "method": "location"
+        },
+        "scope_3": {
+          "value": 3000000000,
+          "confidence": 1.0,
+          "context": "were calculated using methods aligned to,,\n,Total Scope 3 emissions (32.8 Mt CO2e),",
+          "qualifiers": "Equity share 80 percent basis is applied for emissions from Bengalla Mine."
         }
       },
       "annotations": {
@@ -6928,13 +6803,14 @@
         "table_token_count": 7570
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/NHC-AU_1aa5d9b47c_859152_New_Hope_Group_Appendix_4E_and_Annual_Report_2025.tables.snippet.txt",
         "snippet_pages": [
-          42
+          42,
+          59
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -6965,7 +6841,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7067,7 +6946,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7076,19 +6958,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": "\"■\nEstablished Greenhouse Gas (GHG) inventory baseline: for Scope 1 & 2 emissions for the group\"\n\"through FY24, which are aligned with globally recognized GHG protocols.\""
+          "value": 2690510,
+          "confidence": 0.9,
+          "context": "Fugitive Emissions,\"2,690.51\",,,\n,,,Total Emissions,\"0.38K\n(3.6%)\""
         },
         "scope_2": {
-          "value": 10663000,
-          "confidence": 0.95,
-          "context": "\"China, GALE Pacific Ltd in Australia, GALE Pacific USA, and GALE Pacific FZE in Dubai.  The baseline for\",,,,\n\"our Green House gas Scope 1 and Scope 2 inventory is 10,663 tons of carbon dioxide equivalent.\",,,,\n,Emissions,,,"
+          "value": 711362,
+          "confidence": 0.9,
+          "context": "\"China, GALE Pacific Ltd in Australia, GALE Pacific USA, and GALE Pacific FZE in Dubai.  The baseline for\",,,,\n\"our Green House gas Scope 1 and Scope 2 inventory is 10,663 tons of carbon dioxide equivalent.\",,,,\n,Emissions,,,",
+          "method": "location"
         },
         "scope_3": {
           "value": 3549520,
           "confidence": 0.95,
-          "context": "(3.6%)\"\nTotal Scope 1,\"3,549.52\",7.11K,(tCO2e),0.48K\n,,(66.71%),,(4.46%)"
+          "context": "(3.6%)\"\nTotal Scope 1,\"3,549.52\",7.11K,(tCO2e),0.48K\n,,(66.71%),,(4.46%)",
+          "qualifiers": "Aligned with GHG Protocol"
         }
       },
       "annotations": {
@@ -7128,14 +7012,13 @@
         "table_token_count": 516
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/GAP-AU_b6f05dda33_GAP_ASX_Announcement_-_240829_-_FY24_Annual_Report.tables.snippet.txt",
         "snippet_pages": [
-          18,
           31
         ],
-        "confidence": 0.95
+        "confidence": 0.9
       },
       "verification": {
         "status": "pending"
@@ -7166,7 +7049,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7193,7 +7079,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7221,7 +7110,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7248,7 +7140,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7275,7 +7170,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7303,7 +7201,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7331,7 +7232,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7358,7 +7262,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7383,39 +7290,19 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/ABG-AU_-FY25-Financial-Statements-Appendix-4E.pdf",
-        "title": "ABG-AU_-FY25-Financial-Statements-Appendix-4E.pdf",
-        "filename": "ABG-AU_-FY25-Financial-Statements-Appendix-4E.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
         "name": "Boom Logistics Ltd.",
         "ticker": "BOL-AU"
       },
-      "emissions": {
-        "scope_1": {
-          "value": 25000,
-          "confidence": 0.8571428571428572,
-          "context": "■Sustainable Financial Performance\nDuring FY25 the Company accelerated work on its Scope 1 and 2 greenhouse gas emission assessment. FY23 and FY24 data\nwas analysed and has established a baseline that will guide the Company’s approach to emissions management and will allow"
-        },
-        "scope_2": {
-          "value": 25000,
-          "confidence": 0.8571428571428572,
-          "context": "■Sustainable Financial Performance\nDuring FY25 the Company accelerated work on its Scope 1 and 2 greenhouse gas emission assessment. FY23 and FY24 data\nwas analysed and has established a baseline that will guide the Company’s approach to emissions management and will allow"
-        },
-        "scope_3": {
-          "value": 25000,
-          "confidence": 0.8571428571428572,
-          "context": "■Sustainable Financial Performance\nDuring FY25 the Company accelerated work on its Scope 1 and 2 greenhouse gas emission assessment. FY23 and FY24 data\nwas analysed and has established a baseline that will guide the Company’s approach to emissions management and will allow"
-        }
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_context": "Industrial Services",
@@ -7434,32 +7321,10 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "https://www.boomlogistics.com.au/wp-content/uploads/2025/08/Annual-Report-to-Shareholders-22.08.2025.pdf",
-        "title": "Annual-Report-to-Shareholders-22.08.2025.pdf",
-        "filename": "Annual-Report-to-Shareholders-22.08.2025.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/BOL-AU_951c877fd2_Annual-Report-to-Shareholders-22.08.2025.pdf"
-      },
-      "extraction_record": {
-        "text_path": "/home/user/code/scope-spider/extracted/BOL-AU_951c877fd2_Annual-Report-to-Shareholders-22.08.2025.text.snippet.txt",
-        "text_token_count": 410,
-        "snippet_page_count": 1,
-        "table_count": 0,
-        "table_token_count": 0
-      },
-      "analysis_record": {
-        "method": "python",
-        "snippet_label": "text",
-        "snippet_path": "/home/user/code/scope-spider/extracted/BOL-AU_951c877fd2_Annual-Report-to-Shareholders-22.08.2025.text.snippet.txt",
-        "snippet_pages": [
-          11
-        ],
-        "confidence": 0.8571428571428572
-      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null,
+      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -7490,7 +7355,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7518,7 +7386,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7527,14 +7398,19 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 25000,
-          "confidence": 0.95,
+          "value": 1030870,
+          "confidence": 1.0,
           "context": "GHG Emissions,,FY25,FY24,FY23\nTotal Scope 1 Emissions,Metric tonnes,\"103,087\",\"118,369\",\"122,977\"\n,(tCO₂-e),,,"
         },
         "scope_2": {
-          "value": 2000,
-          "confidence": 0.95,
-          "context": ",(tCO₂-e),,,\nTotal Scope 2 Emissions,Metric tonnes,\"19,668\",\"28,673\",\"27,727\"\n,(tCO₂-e),,,"
+          "value": 196680,
+          "confidence": 1.0,
+          "context": ",(tCO₂-e),,,\nEmissions intensity per ounce gold produced,tCO₂-e/oz,0.41,0.50,0.63\n(group total),,,,"
+        },
+        "scope_3": {
+          "value": 1661310,
+          "confidence": 1.0,
+          "context": "Engagement,community investment and engagement,\n,(assuming a minimum of $2/oz).,\nEthics & Human,\"All employees to receive whistleblower,\",Target achieved."
         }
       },
       "annotations": {
@@ -7574,14 +7450,14 @@
         "table_token_count": 1682
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/RMS-AU_5edd02d05b_2025-Sustainability-Report.tables.snippet.txt",
         "snippet_pages": [
-          42,
+          11,
           43
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -7613,7 +7489,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7707,7 +7586,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7809,7 +7691,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -7837,7 +7722,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -8205,19 +8093,20 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 115460,
-          "confidence": 0.9,
-          "context": "115.46 TL,\"13,488 tonnes\",14%\nTotal water recycled,Non-mineral waste recycled,Reduction in scope 2\n,,emissions from 2023 to 2024"
+          "value": 648866,
+          "confidence": 1.0,
+          "context": "our environmental footprint is a key part of our goal,,,,,,,our operations need to adopt new technologies\n,Scope 1,,,,,,\nto achieving net zero carbon emissions by 2050 for,,,,,,,to meet our climate commitments. Our Rosebery"
         },
         "scope_2": {
-          "value": 2023000,
-          "confidence": 0.9,
-          "context": "115.46 TL,\"13,488 tonnes\",14%\nTotal water recycled,Non-mineral waste recycled,Reduction in scope 2\n,,emissions from 2023 to 2024"
+          "value": 315043,
+          "confidence": 1.0,
+          "context": ",,,,,,,requirements underground. They also considerably\n,Scope 2,,\"315,043.80\",Downstream T&D,,\"42,585.35\",\n\"requirements. Dugald River’s solar farm, which\",,,,,,,"
         },
         "scope_3": {
-          "value": 2023000,
-          "confidence": 0.9,
-          "context": ",,,,,,,reduced the diesel particulate matter emissions\n\"came online in 2023, has reduced energy-related\",Scope 3,,\"2,914,385.18\",,,,\n,,,,Fuel and energy,,\"255,715.69\","
+          "value": 2914385,
+          "confidence": 1.0,
+          "context": ",,,,,,,in diesel-electric loaders\nenergy storage and critical infrastructure. All of this,,,,,Scope 3,,\n,,Total emissions,Scope 3,,,,",
+          "qualifiers": "Downstream processing for Scope 1, Downstream T&D for Scope 2, spend-based for Scope 3"
         }
       },
       "annotations": {
@@ -8257,14 +8146,14 @@
         "table_token_count": 753
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/1208-HK_7d097fa904_MMG-Sust-Report-2024.tables.snippet.txt",
         "snippet_pages": [
           24,
           30
         ],
-        "confidence": 0.9
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -8296,7 +8185,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -8323,7 +8215,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -8423,7 +8318,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -8450,7 +8348,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -8475,15 +8376,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "https://investorcentre.sigmahealthcare.com.au/static-files/375226a9-4233-41ba-8eda-1931da8fe386",
-        "title": "report.pdf",
-        "filename": "report.pdf",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -8511,7 +8409,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -8539,7 +8440,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -8567,7 +8471,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -8595,7 +8502,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -8677,19 +8587,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 12000,
-          "confidence": 0.85,
+          "value": 29500,
+          "confidence": 0.9,
           "context": "\"ecosystems, going\",,,,\n,,,,0.1% increase since FY24\nbeyond zero waste and,SBTi validated 2030 climate targets for,Performance against SBT,,"
         },
         "scope_2": {
-          "value": 2025000000,
-          "confidence": 0.85,
-          "context": ",,,,,,,,in February 2025. It supports material supplier,\n,Scope 1 & 2 emissions (ktCO2-e),,,,,Scope 3 emissions (ktCO2-e)22,,\"categories (carriers, subcontracted service centres\",\n,,,–32.3%,,2000,,–16.8%,and timber suppliers) on their decarbonisation journey.,"
+          "value": 32023,
+          "confidence": 0.9,
+          "context": ",,,,,,42%\treduction,\n,Total Scope 1 and 2,29.5,32.023,-7.8%,-32.3%,,\n,,,,,,,Renewable",
+          "method": "location"
         },
         "scope_3": {
           "value": 2025000000,
-          "confidence": 0.85,
-          "context": ",,,,,,,,in February 2025. It supports material supplier,\n,Scope 1 & 2 emissions (ktCO2-e),,,,,Scope 3 emissions (ktCO2-e)22,,\"categories (carriers, subcontracted service centres\",\n,,,–32.3%,,2000,,–16.8%,and timber suppliers) on their decarbonisation journey.,"
+          "confidence": 0.9,
+          "context": ",,,,,,,,in February 2025. It supports material supplier,\n,Scope 1 & 2 emissions (ktCO2-e),,,,,Scope 3 emissions (ktCO2-e)22,,\"categories (carriers, subcontracted service centres\",\n,,,–32.3%,,2000,,–16.8%,and timber suppliers) on their decarbonisation journey.,",
+          "qualifiers": "Includes Scope 1, 2, and 3 emissions"
         }
       },
       "annotations": {
@@ -8729,13 +8641,14 @@
         "table_token_count": 5439
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/BXB-AU_a4ff10d9af_Brambles-2025-Sustainability-Review.tables.snippet.txt",
         "snippet_pages": [
-          6
+          6,
+          9
         ],
-        "confidence": 0.85
+        "confidence": 0.9
       },
       "verification": {
         "status": "pending"
@@ -8767,7 +8680,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -8868,7 +8784,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -8896,7 +8815,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -8924,30 +8846,17 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
         "name": "Cuscal Ltd.",
         "ticker": "CCL-AU"
       },
-      "emissions": {
-        "scope_1": {
-          "value": 1000,
-          "confidence": 0.9,
-          "context": "activities (Scope 3).,,,,\nB,\"ased on the best available data, the estimated total Scope 1 and Scope 2 GHG emissions for the Group in\",,,\n,FY25 was 234.42 tonnes of carbon dioxide equivalent (tCO2-e).,,,"
-        },
-        "scope_2": {
-          "value": 25000,
-          "confidence": 0.9,
-          "context": ",assumptions.,,,\nT,he Group had a 0.36 GHG intensity ratio for Scope 1 and Scope 2 emissions per full-time equivalent (FTE) in,,,\n,\"FY25. This represents a slight increase from FY24 (0.34), predominantly due to a decrease in FTE numbers.\",,,"
-        },
-        "scope_3": {
-          "value": 1000,
-          "confidence": 0.9,
-          "context": "=== Table 1 (page 42) ===\n,These changes reflect Cuscal’s strategic priorities and its belief that having an inclusive leadership team and,,,"
-        }
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Specialty Finance and Services",
@@ -8966,33 +8875,10 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://www.cuscal.com/wp-content/uploads/2025/08/Cuscal-Annual-Report-2025.pdf",
-        "title": "Cuscal-Annual-Report-2025.pdf",
-        "filename": "Cuscal-Annual-Report-2025.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
-      "download_record": {
-        "pdf_path": "downloads/CCL-AU_2acbc13308_Cuscal-Annual-Report-2025.pdf"
-      },
-      "extraction_record": {
-        "text_path": "/home/user/code/scope-spider/extracted/CCL-AU_2acbc13308_Cuscal-Annual-Report-2025.text.snippet.txt",
-        "text_token_count": 783,
-        "snippet_page_count": 1,
-        "table_path": "/home/user/code/scope-spider/extracted/CCL-AU_2acbc13308_Cuscal-Annual-Report-2025.tables.snippet.txt",
-        "table_count": 1,
-        "table_token_count": 1006
-      },
-      "analysis_record": {
-        "method": "python",
-        "snippet_label": "tables",
-        "snippet_path": "/home/user/code/scope-spider/extracted/CCL-AU_2acbc13308_Cuscal-Annual-Report-2025.tables.snippet.txt",
-        "snippet_pages": [
-          42
-        ],
-        "confidence": 0.9
-      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null,
+      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -9023,7 +8909,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -9263,25 +9152,17 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
         "name": "Pinnacle Investment Management Group Ltd.",
         "ticker": "PNI-AU"
       },
-      "emissions": {
-        "scope_1": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": "Global GHG,\"•\nScope 1: Direct GHG emissions\nScope 1 emissions occur from sources we own or\""
-        },
-        "scope_2": {
-          "value": 2000,
-          "confidence": 0.95,
-          "context": ",\"•\nScope 2: Indirect GHG emissions\"\n\"have increased by 80%, largely due to domestic growth\","
-        }
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Investment Services",
@@ -9299,33 +9180,10 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://pinnacleinvestment.com/wp-content/uploads/Pinnacle-Sustainability-Report-2025.pdf",
-        "title": "Pinnacle-Sustainability-Report-2025.pdf",
-        "filename": "Pinnacle-Sustainability-Report-2025.pdf",
-        "year": "2025",
-        "doc_type": "sustainability"
-      },
-      "download_record": {
-        "pdf_path": "downloads/PNI-AU_003312b7a1_Pinnacle-Sustainability-Report-2025.pdf"
-      },
-      "extraction_record": {
-        "text_path": "/home/user/code/scope-spider/extracted/PNI-AU_003312b7a1_Pinnacle-Sustainability-Report-2025.text.snippet.txt",
-        "text_token_count": 2394,
-        "snippet_page_count": 6,
-        "table_path": "/home/user/code/scope-spider/extracted/PNI-AU_003312b7a1_Pinnacle-Sustainability-Report-2025.tables.snippet.txt",
-        "table_count": 6,
-        "table_token_count": 3502
-      },
-      "analysis_record": {
-        "method": "python",
-        "snippet_label": "tables",
-        "snippet_path": "/home/user/code/scope-spider/extracted/PNI-AU_003312b7a1_Pinnacle-Sustainability-Report-2025.tables.snippet.txt",
-        "snippet_pages": [
-          18
-        ],
-        "confidence": 0.95
-      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null,
+      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -9426,16 +9284,12 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/NWH-AU_Annual-Report-2025-Digital.pdf",
-        "title": "NWH-AU_Annual-Report-2025-Digital.pdf",
-        "filename": "NWH-AU_Annual-Report-2025-Digital.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -9534,7 +9388,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -9562,7 +9419,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -9591,7 +9451,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -9619,7 +9482,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -9720,7 +9586,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -9748,7 +9617,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -9775,7 +9647,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -9877,7 +9752,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -9886,14 +9764,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 2030000,
-          "confidence": 0.85,
-          "context": "in all Australian Sites,emissions intensity by 2030,emissions by 2050\nTarget maintained through onsite,18.3 tco2e/$m revenue,\"57,210 total Scope 1 and 2 emissions\"\nsolar generation and LGC procurement,against a baseline year of 2021 (Subject to,in 2024"
+          "value": 57210,
+          "confidence": 1.0,
+          "context": "Total Scope 1 emissions – 57,210 tCO2-e"
         },
         "scope_2": {
-          "value": 308073000,
-          "confidence": 0.85,
-          "context": "Total energy consumption (GJ),\"308,073\",\"322,582\",\"348,518\"\nTotal emissions - scope 1 and scope 2 (market based) (tCO2e),\"64,7723\",\"59,5513\",\"57,210\""
+          "value": 5840,
+          "confidence": 1.0,
+          "context": "Total Scope 2 emissions (location-based) – 5,840 tCO2-e",
+          "method": "location"
+        },
+        "scope_3": {
+          "value": 1795000,
+          "confidence": 1.0,
+          "context": "generated 1,795 tCO2e for flights and 252 tCO2e for hotel stays",
+          "qualifiers": "Location-based emissions"
         }
       },
       "annotations": {
@@ -9932,14 +9817,15 @@
         "table_token_count": 6376
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/ELD-AU_e8948c203f_Elders_Sustainability-Report.tables.snippet.txt",
         "snippet_pages": [
           6,
+          27,
           58
         ],
-        "confidence": 0.85
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -9970,7 +9856,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -9996,7 +9885,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10023,7 +9915,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10113,16 +10008,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/BGA-AU_154989-Bega-Annual-Report-2025-Web.pdf",
-        "title": "BGA-AU_154989-Bega-Annual-Report-2025-Web.pdf",
-        "filename": "BGA-AU_154989-Bega-Annual-Report-2025-Web.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10222,7 +10113,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10250,7 +10144,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10278,7 +10175,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10305,7 +10205,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10315,13 +10218,13 @@
       "emissions": {
         "scope_1": {
           "value": 1170000000,
-          "confidence": 0.95,
+          "confidence": 1.0,
           "context": ",,\"1,170\nScope 1 emissions (kt CO2e)\"\n–,Re‑aligning targets and tracking progress against measure,"
         },
         "scope_2": {
-          "value": 258000000,
-          "confidence": 0.95,
-          "context": ",of carbon reduction against a unit of production/economic,\"258\nScope 2 emissions (kt CO2e)\"\n,\"activity, with dollar revenue a better reflection of the progress\","
+          "value": 258000,
+          "confidence": 1.0,
+          "context": ",Materials (SCMs). SCMs are typically ground granulated\n0,\n,\"blast‑furnace slag and fly ash, which are by‑products of steel\""
         }
       },
       "annotations": {
@@ -10361,13 +10264,14 @@
         "table_token_count": 4389
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/SGH-AU_57c2678a9e_ASX-SGH-2025-Annual-Report-Final-12-August-2025.tables.snippet.txt",
         "snippet_pages": [
+          16,
           40
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -10397,16 +10301,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/APX-AU_67c1060434fb0aa9be39659f_Appen%20Annual%20Report%202024.pdf",
-        "title": "APX-AU_67c1060434fb0aa9be39659f_Appen%20Annual%20Report%202024.pdf",
-        "filename": "APX-AU_67c1060434fb0aa9be39659f_Appen%20Annual%20Report%202024.pdf",
-        "year": "2024",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10434,7 +10334,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10532,7 +10435,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10558,16 +10464,12 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/EGR-AU_EcoGraf-Annual-Report-2025.pdf",
-        "title": "EGR-AU_EcoGraf-Annual-Report-2025.pdf",
-        "filename": "EGR-AU_EcoGraf-Annual-Report-2025.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10731,16 +10633,12 @@
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/SGR-AU_TSEG-Annual-Report-2025.pdf",
-        "title": "SGR-AU_TSEG-Annual-Report-2025.pdf",
-        "filename": "SGR-AU_TSEG-Annual-Report-2025.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10841,7 +10739,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10868,7 +10769,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10896,7 +10800,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10924,7 +10831,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -10952,7 +10862,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -11185,7 +11098,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -11212,7 +11128,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -11305,7 +11224,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -11331,16 +11253,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/EVN-AU_Annual_Report_to_shareholders.pdf",
-        "title": "EVN-AU_Annual_Report_to_shareholders.pdf",
-        "filename": "EVN-AU_Annual_Report_to_shareholders.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -11367,7 +11285,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -11395,7 +11316,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -11422,30 +11346,17 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
         "name": "Tyro Payments Ltd.",
         "ticker": "TYR-AU"
       },
-      "emissions": {
-        "scope_1": {
-          "value": 439340,
-          "confidence": 0.95,
-          "context": ",,,,Key changes from 2024 Methodology,,,\nScope 1 - Direct emissions – associated with refrigerants.,0.09,0.002,0.0002,,The 2023 and 2024 emissions inventories had not previously contained the ‘Capital Goods’ and ‘Fuel and Energy Related Activities’ GHG Protocol categories.,,\n,,,,,\"In alignment with the GHG Protocol, a review was conducted to assess all categories and their applicability to Tyro. It was identified that all spend related to\",,"
-        },
-        "scope_2": {
-          "value": 2000,
-          "confidence": 0.95,
-          "context": ",,,,,\"In alignment with the GHG Protocol, a review was conducted to assess all categories and their applicability to Tyro. It was identified that all spend related to\",,\nScope 2 - Indirect GHG emissions arising from the use of electricity,406.02,8.706,0.7199,,,,\n,,,,,\"purchase, shipping, repair and management of terminals should be allocated to the Capital Goods category as terminals constitute a capital good under the\",,"
-        },
-        "scope_3": {
-          "value": 3823340,
-          "confidence": 0.95,
-          "context": ",,•  Climate reporting requirements,,,,\nScope 3 emissions,•,Business disruption from a climate-,\"3,823.34 tCO2e\",\"4,466.30 tCO2e\",\"4,257.37 tCO2e\",Plan to develop\n,,related physical event,,,,science-based targets in FY26.3"
-        }
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Specialty Finance and Services",
@@ -11464,34 +11375,10 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://company-announcements.afr.com/asx/tyr/5ac0c02c-8209-11f0-8c97-9ec1d8f4dacb.pdf",
-        "title": "5ac0c02c-8209-11f0-8c97-9ec1d8f4dacb.pdf",
-        "filename": "5ac0c02c-8209-11f0-8c97-9ec1d8f4dacb.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
-      "download_record": {
-        "pdf_path": "downloads/TYR-AU_285353ec21_5ac0c02c-8209-11f0-8c97-9ec1d8f4dacb.pdf"
-      },
-      "extraction_record": {
-        "text_path": "/home/user/code/scope-spider/extracted/TYR-AU_285353ec21_5ac0c02c-8209-11f0-8c97-9ec1d8f4dacb.text.snippet.txt",
-        "text_token_count": 2812,
-        "snippet_page_count": 2,
-        "table_path": "/home/user/code/scope-spider/extracted/TYR-AU_285353ec21_5ac0c02c-8209-11f0-8c97-9ec1d8f4dacb.tables.snippet.txt",
-        "table_count": 5,
-        "table_token_count": 2893
-      },
-      "analysis_record": {
-        "method": "python",
-        "snippet_label": "tables",
-        "snippet_path": "/home/user/code/scope-spider/extracted/TYR-AU_285353ec21_5ac0c02c-8209-11f0-8c97-9ec1d8f4dacb.tables.snippet.txt",
-        "snippet_pages": [
-          30,
-          31
-        ],
-        "confidence": 0.95
-      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null,
+      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -11522,7 +11409,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -11531,14 +11421,14 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": ",,Emissions Intensity,\nEmissions (Scope 1 & 2),,Generated Revenue,\nTonnes CO2eq,,\"tCO2e/tonnes of Ni"
+          "value": 2934253,
+          "confidence": 1.0,
+          "context": "Carbon fraction in the NPI,,\"-87,166\",\"-80,386\",\"-41,076\"\nTotal Scope 1,,\"2,934,253\",\"3,193,569\",\"1,770,086\"\nScope 2 - Indirect Electricity Emissions Category,,,,"
         },
         "scope_2": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": "Total Scope 1,,\"2,934,253\",\"3,193,569\",\"1,770,086\"\nScope 2 - Indirect Electricity Emissions Category,,,,\nTotal Scope 2,(tCO2e),\"3,710,248\",\"3,440,250\",\"1,814,177\""
+          "value": 3710248,
+          "confidence": 1.0,
+          "context": "Scope 2 - Indirect Electricity Emissions Category,,,,\nTotal Scope 2,(tCO2e),\"3,710,248\",\"3,440,250\",\"1,814,177\"\nTotal Emissions,(tCO2e),6.644.501,\"6,633,819\",\"3,584,263\""
         },
         "scope_3": {
           "value": 305000,
@@ -11582,14 +11472,13 @@
         "table_token_count": 1541
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/NIC-AU_1aa4784762_2908872.tables.snippet.txt",
         "snippet_pages": [
-          7,
-          74
+          41
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -11620,7 +11509,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -11647,7 +11539,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -11674,7 +11569,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -11700,7 +11598,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -11709,13 +11610,13 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
-          "confidence": 0.95,
+          "value": 538000,
+          "confidence": 1.0,
           "context": "economy. As part of our commitment to environmental,\n,\"Scope 1 tCO2e\n538"
         },
         "scope_2": {
-          "value": 2000,
-          "confidence": 0.95,
+          "value": 1534000,
+          "confidence": 1.0,
           "context": "\"stewardship, we have set long-term and achievable goals\",\naimed at enhancing our environmental performance and,\"Scope 2 tCO2e\n1,534"
         }
       },
@@ -11756,13 +11657,13 @@
         "table_token_count": 833
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/SDF-AU_fa020d0dd2_Steadfast_Group_Annual_Report_2025.tables.snippet.txt",
         "snippet_pages": [
           30
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -11915,23 +11816,7 @@
         "name": "Cobram Estate Olives Ltd.",
         "ticker": "CBO-AU"
       },
-      "emissions": {
-        "scope_1": {
-          "value": 12651000,
-          "confidence": 0.95,
-          "context": ",\"–\nScope 1 GHG emissions: 12,651 tCO2e\","
-        },
-        "scope_2": {
-          "value": 2000,
-          "confidence": 0.95,
-          "context": ",\"–\nTotal Scope 2 GHG emissions: tCO2e\""
-        },
-        "scope_3": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": ",\"–\nScope 1 GHG emissions: 12,651 tCO2e\","
-        }
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_context": "Food and Tobacco Production",
@@ -11949,34 +11834,10 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "https://cobramestateolives.com.au/wp-content/uploads/2025/01/CBO-2030-Sustainability-Strategy_External-Use.pdf",
-        "title": "2030 Sustainability Strategy",
-        "filename": "CBO-2030-Sustainability-Strategy_External-Use.pdf",
-        "year": "2025",
-        "doc_type": "sustainability"
-      },
-      "download_record": {
-        "pdf_path": "downloads/CBO-AU_dce338698a_CBO-2030-Sustainability-Strategy_External-Use.pdf"
-      },
-      "extraction_record": {
-        "text_path": "/home/user/code/scope-spider/extracted/CBO-AU_dce338698a_CBO-2030-Sustainability-Strategy_External-Use.text.snippet.txt",
-        "text_token_count": 1098,
-        "snippet_page_count": 2,
-        "table_path": "/home/user/code/scope-spider/extracted/CBO-AU_dce338698a_CBO-2030-Sustainability-Strategy_External-Use.tables.snippet.txt",
-        "table_count": 2,
-        "table_token_count": 578
-      },
-      "analysis_record": {
-        "method": "python",
-        "snippet_label": "tables",
-        "snippet_path": "/home/user/code/scope-spider/extracted/CBO-AU_dce338698a_CBO-2030-Sustainability-Strategy_External-Use.tables.snippet.txt",
-        "snippet_pages": [
-          19,
-          38
-        ],
-        "confidence": 0.95
-      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null,
+      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -12006,7 +11867,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12033,7 +11897,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12060,7 +11927,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12154,7 +12024,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12253,16 +12126,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/GDI-AU_-Annual-Report-30-June-2025-FINAL.pdf",
-        "title": "GDI-AU_-Annual-Report-30-June-2025-FINAL.pdf",
-        "filename": "GDI-AU_-Annual-Report-30-June-2025-FINAL.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12360,7 +12229,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12387,7 +12259,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12416,7 +12291,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12425,19 +12303,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 403300,
-          "confidence": 0.95,
-          "context": "Sourcing from regional suppliers,$403.3M,$472.0M,\"Climate Change - Total GHG Emissions,\",\"126,786\",\"125,289\"\n,,,Scope 1 & 2 (T CO2 e),,\nSourcing from First Nations suppliers,$14.0M,$11.7M,,,"
+          "value": 65800000000,
+          "confidence": 1.0,
+          "context": "\"operations  and  processes.  Last  year,  we  transported  a  total  of  65.8  Mt,  comprising\",\n,\"In FY2025, a total of 124,118 tonnes of CO2e were emitted from Scope 1 direct sources\"\n\"40.9 Mt of ore and 24.9 Mt of waste rock. This year, while ore volumes remained stable\","
         },
         "scope_2": {
-          "value": 1171000,
-          "confidence": 0.95,
-          "context": "initiatives in offsetting emissions from increased haulage.,\nOur GHG Scope 1 and Scope 2 emissions were calculated based on the GHG Protocol.,"
+          "value": 1000,
+          "confidence": 1.0,
+          "context": "initiatives in offsetting emissions from increased haulage.,\nOur GHG Scope 1 and Scope 2 emissions were calculated based on the GHG Protocol.,",
+          "method": "market"
         },
         "scope_3": {
-          "value": 3000000000,
-          "confidence": 0.95,
-          "context": "Total Taxes paid to government11,$26.9M,$106.6M,,,\n,,,Scope 3 (Mt CO2 e),,\n,,,Tailings - Compliance with monitoring program,100%,100%"
+          "value": 1000000000,
+          "confidence": 1.0,
+          "context": "Scope 1,\"125,617\",\"124,118\",\n,,,\"section. During the financial year 2025, our total Scope 3 emissions stood at 18.3\"\nScope 2,\"1,169\",\"1,171\",\"Mt  of  CO2e  representing  a  14.6%  year-over-year  increase,  primarily  driven  by\"",
+          "qualifiers": "All our GHG emissions fall under the Québec regulations and the cap-and-trade system."
         }
       },
       "annotations": {
@@ -12476,14 +12356,15 @@
         "table_token_count": 4809
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/CIA-AU_83728dc324_ci2025-sustainabilityreport.tables.snippet.txt",
         "snippet_pages": [
           21,
+          66,
           73
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -12514,7 +12395,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12542,7 +12426,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12643,7 +12530,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12810,7 +12700,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12835,16 +12728,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/COF-AU_Report_ComNews_20250929_03000078.pdf",
-        "title": "COF-AU_Report_ComNews_20250929_03000078.pdf",
-        "filename": "COF-AU_Report_ComNews_20250929_03000078.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12871,7 +12760,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12898,7 +12790,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12925,7 +12820,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12952,7 +12850,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -12980,7 +12881,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13073,16 +12977,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/IDX-AU_Annual-Report-2025_26-August-2025_FINAL-RELEASE.pdf",
-        "title": "IDX-AU_Annual-Report-2025_26-August-2025_FINAL-RELEASE.pdf",
-        "filename": "IDX-AU_Annual-Report-2025_26-August-2025_FINAL-RELEASE.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13110,7 +13010,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13137,7 +13040,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13166,7 +13072,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13191,16 +13100,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://data-api.marketindex.com.au/api/v1/announcements/XASX:BRI:2A1623562/pdf/inline/2025-annual-report-to-shareholders",
-        "title": "report.pdf",
-        "filename": "report.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13226,7 +13131,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13254,7 +13162,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13281,7 +13192,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13290,14 +13204,15 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 124000000,
+          "value": 4000,
           "confidence": 0.9,
-          "context": "THE IMPORTANCE OF TRANSPARENCY IN,\n,\"over 124,000 trees through the Michael Hill Foundation,\"\nEVERYTHING WE DO.,our actions have demonstrated that our brands and our"
+          "context": "transportation and distribution (category 4) to comprise,remain on track to meet our reporting obligations for\nmost of our scope 3 emissions inventory.,FY26. We have identified key climate-related risks and\n,\"opportunities, integrated climate risk into our broader\""
         },
         "scope_2": {
-          "value": 2000,
+          "value": 2217000,
           "confidence": 0.9,
-          "context": "\"2 electricity emissions as zero, using the market-based\",\nmethodology as per the GHG Protocol Scope 2 Guidance.,"
+          "context": ",,,,\"and heating, calculated using both location-based and\"\nMarket-based,\"2,217\",\"1,449\",281,market-based methodologies. Our total location-based\n,,,,emissions have increased 6% on last year due to a higher",
+          "method": "market"
         }
       },
       "annotations": {
@@ -13336,12 +13251,12 @@
         "table_token_count": 1880
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/MHJ-AU_0854f5d571_35c0d5c5-974b-11f0-8027-1e05b5c2f523.tables.snippet.txt",
         "snippet_pages": [
-          4,
-          21
+          22,
+          23
         ],
         "confidence": 0.9
       },
@@ -13375,7 +13290,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13399,16 +13317,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/JLG-AU_ASX_JLG_2024.pdf",
-        "title": "JLG-AU_ASX_JLG_2024.pdf",
-        "filename": "JLG-AU_ASX_JLG_2024.pdf",
-        "year": "2024",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13435,7 +13349,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13463,7 +13380,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13491,7 +13411,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13517,16 +13440,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://data-api.marketindex.com.au/api/v1/announcements/XASX:MAF:2A1579284/pdf/inline/fy24-annual-report",
-        "title": "report.pdf",
-        "filename": "report.pdf",
-        "year": "2024",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13554,7 +13473,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13579,15 +13501,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "file:///home/user/code/scope-spider/downloads/TLX-AU_Telix%20Pharmaceuticals%20Annual%20Report%202024.pdf",
-        "title": "TLX-AU_Telix%20Pharmaceuticals%20Annual%20Report%202024.pdf",
-        "filename": "TLX-AU_Telix%20Pharmaceuticals%20Annual%20Report%202024.pdf",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13614,7 +13533,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13642,7 +13564,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13669,7 +13594,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13696,7 +13624,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13706,13 +13637,19 @@
       "emissions": {
         "scope_1": {
           "value": 12991832000,
-          "confidence": 0.95,
+          "confidence": 1.0,
           "context": "1,299,1832\",7.20,46%,85%\nScope 1 + Scope 2 Total GHG emissions,Total Recordable Injury Frequency Rate,Female representation in our Senior,of our second RAP\n,,Leadership Team (Target: 40%),deliverables completed"
         },
         "scope_2": {
-          "value": 12991832000,
-          "confidence": 0.95,
-          "context": "1,299,1832\",7.20,46%,85%\nScope 1 + Scope 2 Total GHG emissions,Total Recordable Injury Frequency Rate,Female representation in our Senior,of our second RAP\n,,Leadership Team (Target: 40%),deliverables completed"
+          "value": 301675,
+          "confidence": 1.0,
+          "context": ",,via renewable power procurement.,Certificates\t(LGCs)\tto\tcover\tthe\tannual\tLGC\tobligation\tunder\ntCO2e (’000),,,the\tRenewable\tEnergy\tTarget.\tIt\talso\thas\tthe\tpotential\tto\n,,Following\tthe\tColes\tExpress\tacquisition\t(which\tallowed\tus,meet a substantial proportion of our net zero Scope 2"
+        },
+        "scope_3": {
+          "value": 45672353,
+          "confidence": 1.0,
+          "context": ",,via renewable power procurement.,Certificates\t(LGCs)\tto\tcover\tthe\tannual\tLGC\tobligation\tunder\ntCO2e (’000),,,the\tRenewable\tEnergy\tTarget.\tIt\talso\thas\tthe\tpotential\tto\n,,Following\tthe\tColes\tExpress\tacquisition\t(which\tallowed\tus,meet a substantial proportion of our net zero Scope 2",
+          "qualifiers": "Operational Scope 1 and Scope 2 greenhouse gas emissions."
         }
       },
       "annotations": {
@@ -13752,13 +13689,13 @@
         "table_token_count": 13536
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/VEA-AU_eceaea61f2_Viva_Energy_SR_2023.tables.snippet.txt",
         "snippet_pages": [
           3
         ],
-        "confidence": 0.95
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -13789,7 +13726,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13816,7 +13756,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13844,7 +13787,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13946,7 +13892,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -13973,7 +13922,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14001,31 +13953,17 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
         "name": "MoneyMe Ltd.",
         "ticker": "MME-AU"
       },
-      "emissions": {
-        "scope_1": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": "Environment\nAnnual Scope 1 and 2 greenhouse gas (GHG) emissions (tCO2e)\ncompared to the targets validated by the Science Based Targets"
-        },
-        "scope_2": {
-          "value": 115000000,
-          "confidence": 0.95,
-          "context": "Score tool>115,000 ≥120,000>133,000\n1 The market-based approach is the primary Scope 2 emissions calculation methodology for all the GHG disclosures that include Scope 2 emissions in this\nreport. The location-based Scope 2 figure is provided in the Estimated Operational Greenhouse Gas Emissions table in the Environment section of this",
-          "method": "market"
-        },
-        "scope_3": {
-          "value": 12000,
-          "confidence": 0.95,
-          "context": "Australian Financial Complaints Authority (AFCA) customer\ncomplaints as a proportion of active customers0.5% ≤1%0.5%\nNumber of users provided with ongoing access to their credit"
-        }
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Specialty Finance and Services",
@@ -14043,33 +13981,10 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://company-announcements.afr.com/asx/mme/47ad7fd7-848a-11f0-ac3b-3e76d32cb072.pdf",
-        "title": "2025 Sustainability Report",
-        "filename": "47ad7fd7-848a-11f0-ac3b-3e76d32cb072.pdf",
-        "year": "2025",
-        "doc_type": "sustainability"
-      },
-      "download_record": {
-        "pdf_path": "downloads/MME-AU_16b854b318_47ad7fd7-848a-11f0-ac3b-3e76d32cb072.pdf"
-      },
-      "extraction_record": {
-        "text_path": "/home/user/code/scope-spider/extracted/MME-AU_16b854b318_47ad7fd7-848a-11f0-ac3b-3e76d32cb072.text.snippet.txt",
-        "text_token_count": 3066,
-        "snippet_page_count": 11,
-        "table_path": "/home/user/code/scope-spider/extracted/MME-AU_16b854b318_47ad7fd7-848a-11f0-ac3b-3e76d32cb072.tables.snippet.txt",
-        "table_count": 11,
-        "table_token_count": 4962
-      },
-      "analysis_record": {
-        "method": "python",
-        "snippet_label": "text",
-        "snippet_path": "/home/user/code/scope-spider/extracted/MME-AU_16b854b318_47ad7fd7-848a-11f0-ac3b-3e76d32cb072.text.snippet.txt",
-        "snippet_pages": [
-          6
-        ],
-        "confidence": 0.95
-      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null,
+      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -14081,19 +13996,21 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
-          "confidence": 0.85,
-          "context": ",benefits of connectivity to more,\n\"scope 1 and 2 targets, and we\",,\n,,\"Managing Director, TPG Telecom\""
+          "value": 2023000,
+          "confidence": 1.0,
+          "context": "I am pleased to share our 2023,,\n,our partners and suppliers on,significant milestones in our 5G\nSustainability Report and provide,,"
         },
         "scope_2": {
-          "value": 2050000,
-          "confidence": 0.85,
-          "context": "226.0\nScope 2 emissions\",,90%\n,absolute scope 1 and 2,"
+          "value": 224400,
+          "confidence": 1.0,
+          "context": ",,\n\"224.4\n224.8",
+          "method": "market"
         },
         "scope_3": {
-          "value": 3000,
-          "confidence": 0.85,
-          "context": "Sustainability Report and provide,,\n,our scope 3 targets.,rollout and continued to deliver\nan update on the progress we have,,"
+          "value": 1235200,
+          "confidence": 1.0,
+          "context": "=== Table 1 (page 3) ===\nMessage from the CEO,,",
+          "qualifiers": "market-based"
         }
       },
       "annotations": {
@@ -14133,14 +14050,14 @@
         "table_token_count": 3877
       },
       "analysis_record": {
-        "method": "python",
+        "method": "ai-snippet",
         "snippet_label": "tables",
         "snippet_path": "/home/user/code/scope-spider/extracted/TPG-AU_TelecomSustainabilityReport_2023_20240318.tables.snippet.txt",
         "snippet_pages": [
           3,
           17
         ],
-        "confidence": 0.85
+        "confidence": 1.0
       },
       "verification": {
         "status": "pending"
@@ -14171,7 +14088,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14196,16 +14116,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://www.hmccapital.com.au/investment-strategies/real-estate/homeco-daily-needs-reit/financial-reports-presentations/hdn-annual-report-2025/",
-        "title": "report.pdf",
-        "filename": "report.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14233,7 +14149,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14261,7 +14180,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14351,15 +14273,12 @@
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)"
       },
-      "search_record": {
-        "url": "https://investors.dbinfrastructure.com.au/DownloadFile.axd",
-        "title": "report.pdf",
-        "filename": "report.pdf",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14386,7 +14305,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14413,7 +14335,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14441,7 +14366,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14466,15 +14394,12 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": {
-        "url": "https://www.dglinvestors.com/DownloadFile.axd",
-        "title": "report.pdf",
-        "filename": "report.pdf",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14501,7 +14426,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14528,7 +14456,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14629,7 +14560,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14805,7 +14739,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14900,7 +14837,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -14927,30 +14867,17 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
         "name": "Abacus Storage King",
         "ticker": "ASK-AU"
       },
-      "emissions": {
-        "scope_1": {
-          "value": 2030000,
-          "confidence": 0.95,
-          "context": ",we are undertaking as an organisation.,\nNET ZERO TARGET OF 2030 SCOPE 1 AND 2 GHG EMISSIONS2,,\n,shareholder returns.,"
-        },
-        "scope_2": {
-          "value": 6200,
-          "confidence": 0.95,
-          "context": ",that impact through an effective sustainability framework. By,\n6.2% reduction in scope 1 and 2 GHG emissions intensity,announced our commitment to net zero scope 1 and scope 2,\n,ensuring effective Board oversight we commit as a business to,"
-        },
-        "scope_3": {
-          "value": 1000,
-          "confidence": 0.95,
-          "context": "opportunities its performance in relation to those risks and opportunities,,,\n\"Disclose scope 1, scope 2, and, if appropriate, scope 34 greenhouse gas (GHG) emissions, and the\",Yes,Refer Data Pack,\nrelated risks,,,"
-        }
-      },
+      "emissions": {},
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_context": "Real Estate",
@@ -14968,34 +14895,10 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://abacusgroup.com.au/wp-content/uploads/2024/09/ASK-Sustainability-Report.pdf",
-        "title": "Abacus Storage King Sustainability Report 2024",
-        "filename": "ASK-Sustainability-Report.pdf",
-        "year": "2024",
-        "doc_type": "sustainability"
-      },
-      "download_record": {
-        "pdf_path": "downloads/ASK-AU_727a4cf0b8_ASK-Sustainability-Report.pdf"
-      },
-      "extraction_record": {
-        "text_path": "/home/user/code/scope-spider/extracted/ASK-AU_727a4cf0b8_ASK-Sustainability-Report.text.snippet.txt",
-        "text_token_count": 2793,
-        "snippet_page_count": 7,
-        "table_path": "/home/user/code/scope-spider/extracted/ASK-AU_727a4cf0b8_ASK-Sustainability-Report.tables.snippet.txt",
-        "table_count": 5,
-        "table_token_count": 4262
-      },
-      "analysis_record": {
-        "method": "python",
-        "snippet_label": "tables",
-        "snippet_path": "/home/user/code/scope-spider/extracted/ASK-AU_727a4cf0b8_ASK-Sustainability-Report.tables.snippet.txt",
-        "snippet_pages": [
-          3,
-          20
-        ],
-        "confidence": 0.95
-      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null,
+      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -15026,7 +14929,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -15054,7 +14960,10 @@
       },
       "verification": {
         "status": "pending"
-      }
+      },
+      "search_record": null,
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -15145,16 +15054,12 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": {
-        "url": "https://www.hmccapital.com.au/investment-strategies/digital-infrastructure/digico-infrastructure-reit/financial-reports-presentations/dgt-annual-report-2025/",
-        "title": "report.pdf",
-        "filename": "report.pdf",
-        "year": "2025",
-        "doc_type": "annual"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     },
     {
       "identity": {
@@ -15180,16 +15085,12 @@
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)"
       },
-      "search_record": {
-        "url": "([gemlife.com.au](https://www.gemlife.com.au/wp-content/uploads/2025/08/1H-FY25-Appendix-4D-and-Financial-Reports.pdf",
-        "title": "1H FY25 Appendix 4D and Financial Reports",
-        "filename": "1H-FY25-Appendix-4D-and-Financial-Reports.pdf",
-        "year": "2025",
-        "doc_type": "other"
-      },
+      "search_record": null,
       "verification": {
         "status": "pending"
-      }
+      },
+      "download_record": null,
+      "extraction_record": null
     }
   ]
 }

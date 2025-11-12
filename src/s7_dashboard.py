@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import math
 from datetime import datetime
 import base64
 import re
@@ -308,6 +309,28 @@ def create_dash_app(
     net_min, net_max = _calc_range("net_income_mm", (0.0, 1.0))
     rev_min, rev_max = _calc_range("revenue_mm", (0.0, 1.0))
 
+    def _build_slider_marks(
+        minimum: float,
+        maximum: float,
+        *,
+        segments: int = 4,
+    ) -> dict[float, str]:
+        if not math.isfinite(minimum) or not math.isfinite(maximum):
+            return {}
+        if minimum == maximum:
+            return {minimum: f"{minimum:,.0f}"}
+        if segments <= 0:
+            segments = 1
+        span = maximum - minimum
+        step = span / segments
+        marks: dict[float, str] = {}
+        for index in range(segments + 1):
+            value = minimum + step * index
+            # Avoid floating artefacts in keys to keep slider happy
+            key = float(round(value, 6))
+            marks[key] = f"{value:,.0f}"
+        return marks
+
     insights_tab = html.Div(
         [
             html.Div(
@@ -364,6 +387,8 @@ def create_dash_app(
                                 min=scope1_min,
                                 max=scope1_max,
                                 value=[scope1_min, scope1_max],
+                                marks=_build_slider_marks(scope1_min, scope1_max),
+                                step=None,
                                 tooltip={
                                     "placement": "bottom",
                                     "always_visible": False,
@@ -380,6 +405,8 @@ def create_dash_app(
                                 min=net_min,
                                 max=net_max,
                                 value=[net_min, net_max],
+                                marks=_build_slider_marks(net_min, net_max),
+                                step=None,
                                 tooltip={
                                     "placement": "bottom",
                                     "always_visible": False,
@@ -396,6 +423,8 @@ def create_dash_app(
                                 min=rev_min,
                                 max=rev_max,
                                 value=[rev_min, rev_max],
+                                marks=_build_slider_marks(rev_min, rev_max),
+                                step=None,
                                 tooltip={
                                     "placement": "bottom",
                                     "always_visible": False,
@@ -1169,7 +1198,7 @@ def create_dash_app(
         Output("verification-new-url", "value"),
         Output("verification-upload", "contents"),
         Output("verification-upload", "filename"),
-        Output("verification-current-key", "data"),
+        Output("verification-current-key", "data", allow_duplicate=True),
         Input("verify-accept-btn", "n_clicks"),
         Input("verify-reject-btn", "n_clicks"),
         Input("verify-save-btn", "n_clicks"),
@@ -1235,10 +1264,6 @@ def create_dash_app(
                 no_update,
                 no_update,
                 no_update,
-                no_update,
-                no_update,
-                no_update,
-                no_update,
                 next_key,
             )
 
@@ -1263,10 +1288,6 @@ def create_dash_app(
             return (
                 store_data,
                 html.Div("Company not found."),
-                no_update,
-                no_update,
-                no_update,
-                no_update,
                 no_update,
                 no_update,
                 no_update,
@@ -1303,10 +1324,6 @@ def create_dash_app(
                     return (
                         store_data,
                         html.Div("Provide a valid PDF URL (http/https ending with .pdf) before rejecting."),
-                        no_update,
-                        no_update,
-                        no_update,
-                        notes,
                         url_value,
                         upload_data,
                         upload_name,
@@ -1322,10 +1339,6 @@ def create_dash_app(
                     return (
                         store_data,
                         html.Div(str(exc)),
-                        no_update,
-                        no_update,
-                        no_update,
-                        notes,
                         url_value,
                         upload_data,
                         upload_name,
@@ -1338,10 +1351,6 @@ def create_dash_app(
                 return (
                     store_data,
                     html.Div("Provide a replacement PDF URL or upload a new PDF before rejecting."),
-                    no_update,
-                    no_update,
-                    no_update,
-                    notes,
                     url_value,
                     upload_data,
                     upload_name,
@@ -1392,10 +1401,6 @@ def create_dash_app(
                 return (
                     store_data,
                     html.Div("Provide Scope 1 and Scope 2 overrides to save corrections."),
-                    override_scope1,
-                    override_scope2,
-                    override_scope3,
-                    notes,
                     url_value,
                     upload_data,
                     upload_name,
@@ -1476,11 +1481,7 @@ def create_dash_app(
         return (
             new_store,
             html.Div(message),
-            no_update,
-            no_update,
-            no_update,
-            no_update,
-            None,
+            "",
             None,
             None,
             next_key,

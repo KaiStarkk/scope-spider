@@ -13,7 +13,7 @@ from typing import Any, Callable, Dict, List, Optional, Tuple
 from openai import OpenAI
 
 
-from src.models import Company, EmissionsData, VerificationRecord
+from src.models import Company
 
 from src.utils.companies import dump_companies, load_companies
 from src.utils.verification import (
@@ -239,99 +239,6 @@ def derive_relevant_pages(
     return default_pages
 
 
-def clean_company_artifacts(
-    company: Company,
-    companies_path: Path,
-) -> Tuple[bool, List[str], List[str]]:
-    base_dir = companies_path.parent
-    changed = False
-    removed_files: List[str] = []
-    missing_files: List[str] = []
-
-    def resolve_path(path_str: str) -> Path:
-        candidate = Path(path_str)
-        if not candidate.is_absolute():
-            candidate = (base_dir / candidate).resolve()
-        return candidate
-
-    def delete_file(path_str: Optional[str]) -> None:
-        nonlocal changed
-        if not path_str:
-            return
-        path = resolve_path(path_str)
-        try:
-            path.unlink()
-            removed_files.append(str(path))
-            changed = True
-        except FileNotFoundError:
-            missing_files.append(str(path))
-        except OSError as exc:
-            missing_files.append(f"{path} (error: {exc})")
-
-    download = company.download_record
-    if download and download.pdf_path:
-        delete_file(download.pdf_path)
-        company.download_record = None
-        changed = True
-    elif download is not None:
-        company.download_record = None
-        changed = True
-
-    extraction = company.extraction_record
-    if extraction:
-        delete_file(extraction.text_path)
-        delete_file(extraction.table_path)
-        company.extraction_record = None
-        changed = True
-
-    if company.search_record is not None:
-        company.search_record = None
-        changed = True
-
-    if company.analysis_record is not None:
-        company.analysis_record = None
-        changed = True
-
-    empty_emissions = EmissionsData()
-    if company.emissions is None or company.emissions.model_dump(
-        mode="json"
-    ) != empty_emissions.model_dump(mode="json"):
-        company.emissions = empty_emissions
-        changed = True
-
-    verification = getattr(company, "verification", None)
-    if verification is None:
-        company.verification = VerificationRecord()
-        changed = True
-    else:
-        reset_verification = False
-        if verification.status != "pending":
-            verification.status = "pending"
-            reset_verification = True
-        if verification.reviewer is not None:
-            verification.reviewer = None
-            reset_verification = True
-        if verification.verified_at is not None:
-            verification.verified_at = None
-            reset_verification = True
-        if verification.scope_1_override is not None:
-            verification.scope_1_override = None
-            reset_verification = True
-        if verification.scope_2_override is not None:
-            verification.scope_2_override = None
-            reset_verification = True
-        if verification.scope_3_override is not None:
-            verification.scope_3_override = None
-            reset_verification = True
-        if verification.notes is not None:
-            verification.notes = None
-            reset_verification = True
-        if reset_verification:
-            changed = True
-
-    return changed, removed_files, missing_files
-
-
 def parse_args(argv: list[str]) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         prog="s5_analyse",
@@ -376,14 +283,6 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
         help="Skip the ai-upload/vector-store stage and rely only on snippets.",
     )
     parser.add_argument(
-        "--clean",
-        action="store_true",
-        help=(
-            "When analysis fails to extract emissions, remove the company's search, download, and extraction "
-            "records (and associated files) so it can be re-searched."
-        ),
-    )
-    parser.add_argument(
         "--threshold",
         type=float,
         default=0.7,
@@ -399,6 +298,16 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
         type=int,
         default=1,
         help="Number of parallel workers to use in auto mode (default: 1).",
+    )
+    parser.add_argument(
+        "--reanalyse-python",
+        "--reanalyze-python",
+        dest="reanalyse_python",
+        action="store_true",
+        help=(
+            "Re-run analysis for companies whose current emissions were derived with the python method, "
+            "forcing the AI snippet tables workflow."
+        ),
     )
     return parser.parse_args(argv)
 
@@ -466,6 +375,7 @@ def analyse_company(
     log: Callable[[str], None],
     prompt_accept_fn: Callable[[str, ParsedResult, str, List[int], float], bool],
     test_mode: bool,
+    force_ai_tables: bool = False,
 ) -> AnalysisResult:
     identity = company.identity
     ticker = identity.ticker or identity.name
@@ -508,6 +418,17 @@ def analyse_company(
             f"SKIP [{idx}/{total}] {ticker}: no usable snippets found, run s4_extract.py"
         )
         return AnalysisResult(False, None, vector_store_id, attempted_any)
+
+    if force_ai_tables:
+        table_candidates = [
+            candidate for candidate in snippet_candidates if candidate[0] == "tables"
+        ]
+        if not table_candidates:
+            log(
+                f"SKIP [{idx}/{total}] {ticker}: tables snippet required for reanalysis"
+            )
+            return AnalysisResult(False, None, vector_store_id, attempted_any)
+        snippet_candidates = table_candidates
 
     download_path = Path(download.pdf_path)
     changed = False
@@ -632,7 +553,7 @@ def analyse_company(
             )
             return False
 
-        if attempt_method(
+        if not force_ai_tables and attempt_method(
             "python",
             parse_data_fuzzy(snippet_text),
             current_snippet_label=snippet_label,
@@ -640,6 +561,23 @@ def analyse_company(
             current_snippet_path=snippet_path,
         ):
             break
+
+        if force_ai_tables:
+            if local_only:
+                log(
+                    f"SKIP [{idx}/{total}] {ticker}: reanalysis requires OpenAI snippet access; --local not supported"
+                )
+                continue
+            parsed_ai_snippet = parse_data_local(ensure_client(), snippet_text)
+            if attempt_method(
+                "ai-snippet",
+                parsed_ai_snippet,
+                current_snippet_label=snippet_label,
+                current_snippet_pages=snippet_pages,
+                current_snippet_path=snippet_path,
+            ):
+                break
+            continue
 
         if local_only:
             log(
@@ -732,7 +670,14 @@ def main(argv: Optional[list[str]] = None) -> int:
 
     companies, payload = load_companies(companies_path)
 
+    reanalyse_python = getattr(args, "reanalyse_python", False)
     test_mode = args.test
+    if reanalyse_python and test_mode:
+        print(
+            "ERROR: --reanalyse-python cannot be combined with --test.",
+            flush=True,
+        )
+        return 1
     changed = False
     vector_store_id: Optional[str] = None
     client: Optional[OpenAI] = None
@@ -740,7 +685,17 @@ def main(argv: Optional[list[str]] = None) -> int:
     mode = args.mode
 
     local_llm_path: Optional[Path] = None
-    if args.local_llm:
+    if reanalyse_python and args.local:
+        print(
+            "WARN: --reanalyse-python ignores --local; using OpenAI snippet analysis.",
+            flush=True,
+        )
+    if args.local_llm and reanalyse_python:
+        print(
+            "WARN: --reanalyse-python ignores --local-llm; using OpenAI snippet analysis.",
+            flush=True,
+        )
+    if args.local_llm and not reanalyse_python:
         candidate = Path(args.local_llm).expanduser().resolve()
         if candidate.exists():
             local_llm_path = candidate
@@ -750,7 +705,9 @@ def main(argv: Optional[list[str]] = None) -> int:
                 flush=True,
             )
 
-    if args.local and local_llm_path:
+    use_local_only = args.local and not reanalyse_python
+
+    if use_local_only and local_llm_path:
         print(
             "NOTE: --local specified; ignoring --local-llm and OpenAI methods.",
             flush=True,
@@ -822,6 +779,12 @@ def main(argv: Optional[list[str]] = None) -> int:
         dirty = False
         persisted = True
     jobs = max(1, args.jobs)
+    if reanalyse_python and jobs > 1:
+        print(
+            "WARN: --reanalyse-python runs sequentially; ignoring --jobs.",
+            flush=True,
+        )
+        jobs = 1
     if jobs > 1:
         if test_mode:
             print(
@@ -850,7 +813,26 @@ def main(argv: Optional[list[str]] = None) -> int:
 
     indexed_companies = list(enumerate(companies))
 
-    if test_mode:
+    if reanalyse_python:
+        company_pairs = [
+            (idx, company)
+            for idx, company in indexed_companies
+            if getattr(company, "analysis_record", None)
+            and company.analysis_record.method == "python"
+        ]
+        total_need = len(company_pairs)
+        if total_need == 0:
+            print(
+                "No companies currently analysed with the python method were found.",
+                flush=True,
+            )
+            return 0
+        print(
+            f"Reanalysing {total_need} compan{'y' if total_need == 1 else 'ies'} "
+            "previously processed with the python method.",
+            flush=True,
+        )
+    elif test_mode:
         analyzable: List[Tuple[int, Company]] = [
             (idx, company)
             for idx, company in indexed_companies
@@ -911,39 +893,22 @@ def main(argv: Optional[list[str]] = None) -> int:
                 total=total_need,
                 threshold=threshold,
                 mode=mode,
-                local_only=args.local,
-                local_llm_path=None if args.local else local_llm_path,
-                no_upload=args.no_upload,
+                local_only=use_local_only,
+                local_llm_path=None if use_local_only else local_llm_path,
+                no_upload=args.no_upload or reanalyse_python,
                 ensure_client=ensure_client,
                 ensure_local_llm=ensure_local_llm,
                 vector_store_id=vector_store_id,
                 log=log,
                 prompt_accept_fn=prompt_accept_wrapper,
                 test_mode=test_mode,
+                force_ai_tables=reanalyse_python,
             )
             vector_store_id = result.vector_store_id
             if result.changed:
                 mark_dirty()
                 company_changed = True
             ticker = company.identity.ticker or company.identity.name
-            if args.clean and not test_mode and result.attempted and not result.changed:
-                cleaned, removed_files, missing_files = clean_company_artifacts(
-                    company, companies_path
-                )
-                if cleaned:
-                    mark_dirty()
-                    company_changed = True
-                    detail_parts: List[str] = []
-                    if removed_files:
-                        detail_parts.append(f"removed {len(removed_files)} file(s)")
-                    if missing_files:
-                        detail_parts.append(f"{len(missing_files)} file(s) missing")
-                    detail = (
-                        "; ".join(detail_parts) if detail_parts else "records cleared"
-                    )
-                    log(
-                        f"CLEAN [{position}/{total_need}] {ticker}: no usable emissions; {detail}; ready for re-search"
-                    )
             companies[company_index] = company
             if company_changed:
                 persist_if_needed()
@@ -993,7 +958,7 @@ def main(argv: Optional[list[str]] = None) -> int:
                 total=total_need,
                 threshold=threshold,
                 mode="auto",
-                local_only=args.local,
+                local_only=use_local_only,
                 local_llm_path=None,
                 no_upload=True,
                 ensure_client=ensure_client_worker,
@@ -1005,23 +970,6 @@ def main(argv: Optional[list[str]] = None) -> int:
             )
             worker_changed = worker_result.changed
             ticker = company_obj.identity.ticker or company_obj.identity.name
-            if args.clean and worker_result.attempted and not worker_result.changed:
-                cleaned, removed_files, missing_files = clean_company_artifacts(
-                    company_obj, companies_path
-                )
-                if cleaned:
-                    worker_changed = True
-                    detail_parts: List[str] = []
-                    if removed_files:
-                        detail_parts.append(f"removed {len(removed_files)} file(s)")
-                    if missing_files:
-                        detail_parts.append(f"{len(missing_files)} file(s) missing")
-                    detail = (
-                        "; ".join(detail_parts) if detail_parts else "records cleared"
-                    )
-                    logs.append(
-                        f"CLEAN [{position}/{total_need}] {ticker}: no usable emissions; {detail}; ready for re-search"
-                    )
             return (
                 company_index,
                 company_obj.model_dump(mode="json"),

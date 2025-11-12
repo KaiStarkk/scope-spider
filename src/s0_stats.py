@@ -614,7 +614,7 @@ def main(argv: list[str]) -> int:
     if len(argv) < 2:
         print(
             "Usage: python -m src.s0_stats <companies.json> [--write] [--pdf] [--checkyear] "
-            "[--checkscope] [--delete] [--all] [--reset[=STAGE[,STAGE...]]]",
+            "[--checkscope] [--delete] [--all] [--failed-analysis] [--reset[=STAGE[,STAGE...]]]",
             file=sys.stderr,
         )
         return 1
@@ -628,6 +628,7 @@ def main(argv: list[str]) -> int:
     delete_scope = False
     show_all = False
     reset_only = False
+    list_failed_analysis = False
     reset_requested: List[str] = []
 
     i = 0
@@ -645,6 +646,8 @@ def main(argv: list[str]) -> int:
             delete_scope = True
         elif arg == "--all":
             show_all = True
+        elif arg == "--failed-analysis":
+            list_failed_analysis = True
         elif arg.startswith("--reset"):
             reset_only = True
             value: Optional[str] = None
@@ -738,6 +741,7 @@ def main(argv: list[str]) -> int:
 
     stage_counts: Counter = Counter()
     doc_counter: Counter = Counter()
+    failed_analysis_companies: List[str] = []
     issues: list[Issue] = []
     any_changes = False
     scope_checked = 0
@@ -766,7 +770,11 @@ def main(argv: list[str]) -> int:
     check_progress = 0
 
     for idx, company in enumerate(companies):
-        ticker = company.identity.ticker or f"company[{idx}]"
+        ticker = (
+            company.identity.ticker
+            or company.identity.name
+            or f"company[{idx}]"
+        )
 
         raw_entry = raw_companies[idx] if idx < len(raw_companies) else None
         structure_issues: list[Issue] = []
@@ -893,6 +901,28 @@ def main(argv: list[str]) -> int:
 
         summarise_stages(company, stage_counts)
         summarise_documents(company.search_record, doc_counter)
+        if list_failed_analysis:
+            has_download = (
+                company.download_record is not None
+                and bool(company.download_record.pdf_path)
+            )
+            extraction_record = company.extraction_record
+            has_extraction = bool(
+                extraction_record
+                and (
+                    extraction_record.text_path
+                    or (
+                        extraction_record.table_count > 0
+                        and extraction_record.table_path
+                    )
+                )
+            )
+            if (
+                has_download
+                and has_extraction
+                and company.analysis_record is None
+            ):
+                failed_analysis_companies.append(ticker)
 
         if check_scope:
             if not company.download_record or not company.download_record.pdf_path:
@@ -1020,6 +1050,14 @@ def main(argv: list[str]) -> int:
     print(format_stage_summary(stage_counts, len(companies)))
     print()
     print(format_doc_summary(doc_counter))
+
+    if list_failed_analysis:
+        print("\nCompanies with downloads and extraction but no analysis:")
+        if failed_analysis_companies:
+            for name in sorted(set(failed_analysis_companies)):
+                print(f"  - {name}")
+        else:
+            print("  - None")
 
     actionable = [issue for issue in issues if not issue.fixed]
     corrected = [issue for issue in issues if issue.fixed]

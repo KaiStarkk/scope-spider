@@ -4,7 +4,7 @@ import re
 import sys
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from pathlib import Path
-from typing import Any, List, Optional, Tuple
+from typing import Any, Iterable, List, Optional, Tuple
 
 from src.models import Company, ExtractionRecord
 from src.utils.companies import dump_companies, load_companies, safe_write_text
@@ -53,6 +53,13 @@ def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
         default=1,
         help="Number of parallel worker processes to use (default: 1).",
     )
+    parser.add_argument(
+        "--clean",
+        action="store_true",
+        help=(
+            "When extraction fails, clear search/download artefacts so the company can be re-searched."
+        ),
+    )
     args = parser.parse_args(argv)
     if args.jobs < 1:
         parser.error("--jobs must be >= 1")
@@ -68,6 +75,7 @@ def process_company_task(
     total_ok: int,
     extract_dir: str,
     debug: bool,
+    clean: bool,
 ) -> Tuple[int, dict[str, Any], List[str], int, bool]:
     company = Company.model_validate(company_data)
     extract_dir_path = Path(extract_dir)
@@ -95,6 +103,26 @@ def process_company_task(
         except OSError:
             return False
 
+    def force_research_cleanup(
+        reason: str, cleanup_paths: Iterable[Optional[Path]]
+    ) -> None:
+        if not clean:
+            return
+        seen: set[Path] = set()
+        for candidate in cleanup_paths:
+            if candidate is None:
+                continue
+            if candidate in seen:
+                continue
+            seen.add(candidate)
+            delete_path(candidate)
+        company.search_record = None
+        company.download_record = None
+        company.extraction_record = None
+        log(
+            f"CLEAR {progress_prefix} extract {ticker}: {reason}; forced re-search (--clean)"
+        )
+
     progress_prefix = f"[{progress_idx}/{total_ok}]"
     download_record = company.download_record
     ticker = company.identity.ticker or "UNKNOWN"
@@ -105,6 +133,7 @@ def process_company_task(
         log(
             f"FAIL {progress_prefix} extract: missing PDF path for {ticker}; download record cleared"
         )
+        force_research_cleanup("missing PDF path", [])
         return finalize()
 
     pdf_path = Path(download_record.pdf_path)
@@ -114,6 +143,7 @@ def process_company_task(
         log(
             f"FAIL {progress_prefix} extract: missing/invalid PDF for {ticker}; download record cleared"
         )
+        force_research_cleanup("missing or invalid PDF", [pdf_path])
         return finalize()
 
     base = pdf_path.stem
@@ -150,6 +180,11 @@ def process_company_task(
         company.extraction_record = None
         log(
             f"FAIL {progress_prefix} extract {ticker}: no text extracted; extraction record cleared"
+        )
+        delete_path(out_txt)
+        delete_path(out_tables)
+        force_research_cleanup(
+            "no extractable text from PDF", [out_txt, out_tables, pdf_path]
         )
         return finalize()
 
@@ -220,6 +255,9 @@ def process_company_task(
             )
             if table_count == 0:
                 delete_path(out_tables)
+            force_research_cleanup(
+                "failed to write text snippet", [out_txt, out_tables, pdf_path]
+            )
             return finalize()
     else:
         delete_path(out_txt)
@@ -227,6 +265,9 @@ def process_company_task(
             company.extraction_record = None
             log(
                 f"FAIL {progress_prefix} extract {ticker}: matched pages contained no extractable text"
+            )
+            force_research_cleanup(
+                "no extractable text in matched pages", [out_tables, pdf_path]
             )
             return finalize()
         log(
@@ -297,6 +338,7 @@ def main(argv: Optional[List[str]] = None) -> None:
                 total_ok,
                 str(extract_dir),
                 debug,
+                args.clean,
             )
             (
                 _,
@@ -323,6 +365,7 @@ def main(argv: Optional[List[str]] = None) -> None:
                     total_ok,
                     str(extract_dir),
                     debug,
+                    args.clean,
                 )
                 for progress_idx, (company_index, company) in enumerate(
                     indexed_candidates, start=1

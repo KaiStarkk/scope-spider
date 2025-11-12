@@ -13,13 +13,16 @@
   in {
     devShells = forAllSystems (pkgs: {
       default = pkgs.mkShell {
-        packages = with pkgs; [python312 virtualenv];
+        packages = with pkgs; [python312 virtualenv nodejs_20];
         shellHook = ''
           if [ ! -d ".venv" ]; then
             virtualenv -p python .venv
           fi
           . .venv/bin/activate
           python -m pip install --no-input --upgrade pip >/dev/null 2>&1
+          if [ -f backend/requirements.txt ]; then
+            python -m pip install --no-input -r backend/requirements.txt >/dev/null 2>&1
+          fi
           python -m pip install --no-input "openai==2.7.1" openpyxl pandas plotly dash requests tqdm PyPDF2 rapidfuzz camelot-py[cv] tiktoken pycryptodome llama-cpp-python pdf2image pillow >/dev/null 2>&1
         '';
       };
