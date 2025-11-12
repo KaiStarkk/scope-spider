@@ -1,12 +1,38 @@
 <script lang="ts">
 	import { browser } from '$app/environment';
-	import { onMount } from 'svelte';
 	import PlotlyChart from '$lib/components/PlotlyChart.svelte';
 	import type { PageData } from './$types';
 
 	export let data: PageData;
 
-	const { stats } = data.dashboard;
+	type StageSummary = {
+		total: number;
+		searched: number;
+		downloaded: number;
+		extracted: number;
+		analysed: number;
+		verified: number;
+	};
+
+	type ScatterPoint = {
+		scope_1?: number | null;
+		net_income?: number | null;
+		revenue?: number | null;
+		ebitda?: number | null;
+		assets?: number | null;
+		industry?: string | null;
+		company?: string | null;
+		revenue_mm?: number | null;
+	};
+
+	type GroupMatrixRow = {
+		group: string;
+		cells: Array<{
+			industry: string;
+			count: number;
+			emissions: number;
+		}>;
+	};
 
 	type MetricsResponse = {
 		filters: {
@@ -23,6 +49,8 @@
 		summary: {
 			total_companies: number;
 			filtered_companies: number;
+			stages: StageSummary;
+			filtered_stages: StageSummary;
 		};
 		top_revenue?: Array<{ name?: string | null; revenue_mm?: number | null; anzsic_division?: string | null }>;
 		scope_averages?: Array<{ industry?: string | null; scope_1_avg?: number | null; scope_2_avg?: number | null }>;
@@ -34,23 +62,67 @@
 			scope1_vs_assets?: ScatterPoint[];
 		};
 		group_matrix?: {
-			rows: string[];
+			rows: GroupMatrixRow[];
 			columns: string[];
-			counts: number[][];
-			emissions: number[][];
 		};
 	};
 
-	type ScatterPoint = {
-		scope_1?: number | null;
-		net_income?: number | null;
-		revenue?: number | null;
-		ebitda?: number | null;
-		assets?: number | null;
-		industry?: string | null;
-		company?: string | null;
-		revenue_mm?: number | null;
+	const stageDefaults: StageSummary = {
+		total: 0,
+		searched: 0,
+		downloaded: 0,
+		extracted: 0,
+		analysed: 0,
+		verified: 0
 	};
+
+	const stageOrder: Array<{ key: keyof StageSummary; label: string }> = [
+		{ key: 'total', label: 'Total' },
+		{ key: 'searched', label: 'Searched' },
+		{ key: 'downloaded', label: 'Downloaded' },
+		{ key: 'extracted', label: 'Extracted' },
+		{ key: 'analysed', label: 'Analysed' },
+		{ key: 'verified', label: 'Verified' }
+	];
+
+	type ScatterConfig = {
+		id: string;
+		label: string;
+		key: keyof NonNullable<MetricsResponse['scatter']>;
+		valueKey: keyof ScatterPoint;
+		axisLabel: string;
+	};
+
+	const chartTabs: ScatterConfig[] = [
+		{
+			id: 'net_income',
+			label: 'Scope 1 vs Net Income',
+			key: 'scope1_vs_net_income',
+			valueKey: 'net_income',
+			axisLabel: 'Net Income (MM AUD)'
+		},
+		{
+			id: 'revenue',
+			label: 'Scope 1 vs Revenue',
+			key: 'scope1_vs_revenue',
+			valueKey: 'revenue',
+			axisLabel: 'Revenue (MM AUD)'
+		},
+		{
+			id: 'ebitda',
+			label: 'Scope 1 vs EBITDA',
+			key: 'scope1_vs_ebitda',
+			valueKey: 'ebitda',
+			axisLabel: 'EBITDA (MM AUD)'
+		},
+		{
+			id: 'assets',
+			label: 'Scope 1 vs Total Assets',
+			key: 'scope1_vs_assets',
+			valueKey: 'assets',
+			axisLabel: 'Total Assets (MM AUD)'
+		}
+	];
 
 	let metrics: MetricsResponse = data.metrics as MetricsResponse;
 	let loading = false;
@@ -63,11 +135,19 @@
 	let scope1MinInput = metrics.ranges.scope1?.[0]?.toString() ?? '';
 	let scope1MaxInput = metrics.ranges.scope1?.[1]?.toString() ?? '';
 
+	let activeChart = chartTabs[0].id;
+
 	const plotConfig = { responsive: true, displaylogo: false };
 
-	function markerSize(revenueMm: number | null | undefined): number {
-		if (!revenueMm || Number.isNaN(revenueMm)) return 8;
-		return Math.max(6, Math.sqrt(Math.abs(revenueMm)) + 6);
+	function normaliseStage(summary?: StageSummary | null): StageSummary {
+		return {
+			total: summary?.total ?? 0,
+			searched: summary?.searched ?? 0,
+			downloaded: summary?.downloaded ?? 0,
+			extracted: summary?.extracted ?? 0,
+			analysed: summary?.analysed ?? 0,
+			verified: summary?.verified ?? 0
+		};
 	}
 
 	function buildScatter(dataset: ScatterPoint[], yKey: keyof ScatterPoint, yLabel: string) {
@@ -89,7 +169,7 @@
 				}`
 			),
 			marker: {
-				size: points.map((p) => markerSize(p.revenue_mm ?? null)),
+				size: 9,
 				opacity: 0.85
 			},
 			hovertemplate: '%{text}<extra></extra>'
@@ -106,17 +186,22 @@
 		};
 	}
 
-	$: scatterNetIncomeData = buildScatter(metrics.scatter?.scope1_vs_net_income ?? [], 'net_income', 'Net Income');
-	$: scatterNetIncomeLayout = scatterLayout('Scope 1 vs Net Income', 'Net Income (MM AUD)');
+	$: overallStages = normaliseStage(metrics.summary?.stages);
+	$: filteredStages = normaliseStage(metrics.summary?.filtered_stages);
 
-	$: scatterRevenueData = buildScatter(metrics.scatter?.scope1_vs_revenue ?? [], 'revenue', 'Revenue');
-	$: scatterRevenueLayout = scatterLayout('Scope 1 vs Revenue', 'Revenue (MM AUD)');
+	$: scatterConfigs = chartTabs.reduce(
+		(acc, tab) => {
+			const dataset = (metrics.scatter?.[tab.key] as ScatterPoint[] | undefined) ?? [];
+			acc[tab.id] = {
+				data: buildScatter(dataset, tab.valueKey, tab.axisLabel),
+				layout: scatterLayout(tab.label, tab.axisLabel)
+			};
+			return acc;
+		},
+		{} as Record<string, { data: Array<Record<string, unknown>>; layout: Record<string, unknown> }>
+	);
 
-	$: scatterEbitdaData = buildScatter(metrics.scatter?.scope1_vs_ebitda ?? [], 'ebitda', 'EBITDA');
-	$: scatterEbitdaLayout = scatterLayout('Scope 1 vs EBITDA', 'EBITDA (MM AUD)');
-
-	$: scatterAssetsData = buildScatter(metrics.scatter?.scope1_vs_assets ?? [], 'assets', 'Total Assets');
-	$: scatterAssetsLayout = scatterLayout('Scope 1 vs Total Assets', 'Total Assets (MM AUD)');
+	$: activeChartConfig = scatterConfigs[activeChart] ?? { data: [], layout: scatterLayout('', '') };
 
 	$: revenueBarData = [
 		{
@@ -127,9 +212,10 @@
 				(item) => `${item.name ?? 'Unknown'}<br>${formatNumber(item.revenue_mm ?? null)} MM AUD`
 			),
 			hovertemplate: '%{text}<extra></extra>',
-			marker: { color: '#2563eb' }
+			marker: { color: '#1d4ed8' }
 		}
 	];
+
 	$: revenueBarLayout = {
 		title: 'Top 10 Companies by Revenue',
 		margin: { t: 50, r: 30, b: 80, l: 70 },
@@ -137,32 +223,8 @@
 		yaxis: { title: 'Revenue (MM AUD)', hoverformat: ',.0f' }
 	};
 
-	const emptyMatrix = { rows: [] as string[], columns: [] as string[], counts: [] as number[][], emissions: [] as number[][] };
-	$: groupMatrix = metrics.group_matrix ?? emptyMatrix;
-	$: heatmapData = groupMatrix.rows.length && groupMatrix.columns.length
-		? [
-				{
-					type: 'heatmap',
-					x: groupMatrix.columns,
-					y: groupMatrix.rows,
-					z: groupMatrix.counts,
-					text: groupMatrix.counts.map((row, i) =>
-						row.map(
-							(count, j) =>
-								`${count} companies<br>${formatNumber(groupMatrix.emissions?.[i]?.[j] ?? null)} kg`
-						)
-					),
-					hovertemplate: '%{text}<extra></extra>',
-					colorscale: 'Blues'
-				}
-			]
-		: [];
-	$: heatmapLayout = {
-		title: 'Companies & Scope 1 Emissions by Reporting Group / Industry',
-		margin: { t: 60, r: 40, b: 80, l: 120 },
-		xaxis: { automargin: true },
-		yaxis: { automargin: true }
-	};
+	$: groupMatrixRows = metrics.group_matrix?.rows ?? [];
+	$: groupMatrixColumns = metrics.group_matrix?.columns ?? [];
 
 	async function refreshMetrics() {
 		if (!browser) return;
@@ -210,261 +272,263 @@
 		selectedRbics = [];
 		selectedStates = [];
 		selectedMethods = [];
-	scope1MinInput = metrics.ranges.scope1?.[0]?.toString() ?? '';
-	scope1MaxInput = metrics.ranges.scope1?.[1]?.toString() ?? '';
+		scope1MinInput = metrics.ranges.scope1?.[0]?.toString() ?? '';
+		scope1MaxInput = metrics.ranges.scope1?.[1]?.toString() ?? '';
 		refreshMetrics();
 	}
-
-	onMount(() => {
-		if (!browser) return;
-		refreshMetrics();
-	});
 </script>
 
-<section class="space-y-8">
+<section class="mx-auto max-w-7xl space-y-8 px-6 py-8">
 	<header class="space-y-2">
-		<h1 class="text-3xl font-semibold text-surface-900">Dashboard</h1>
-		<p class="text-sm text-surface-500">
-			Overview of extracted emissions data and reporting coverage.
+		<h1 class="text-3xl font-semibold text-slate-900">Dashboard</h1>
+		<p class="text-sm text-slate-600">
+			Overview of extraction status and key indicators across the portfolio.
 		</p>
 	</header>
 
-	<section class="grid gap-4 md:grid-cols-4">
-		<div class="card preset-tonal p-4">
-			<h2 class="text-sm uppercase tracking-wide text-surface-500">Total companies</h2>
-			<p class="text-3xl font-semibold text-surface-900">{stats.total}</p>
-		</div>
-		<div class="card preset-tonal p-4">
-			<h2 class="text-sm uppercase tracking-wide text-surface-500">Verified</h2>
-			<p class="text-3xl font-semibold text-success-600">{stats.verified}</p>
-		</div>
-		<div class="card preset-tonal p-4">
-			<h2 class="text-sm uppercase tracking-wide text-surface-500">Pending</h2>
-			<p class="text-3xl font-semibold text-warning-600">{stats.pending}</p>
-		</div>
-		<div class="card preset-tonal p-4">
-			<h2 class="text-sm uppercase tracking-wide text-surface-500">Filtered set</h2>
-			<p class="text-3xl font-semibold text-surface-900">
-				{metrics.summary?.filtered_companies ?? '—'}
-			</p>
-		</div>
-	</section>
-
-	<section class="card preset-elevated p-6 space-y-4">
-		<header>
-			<h2 class="text-lg font-semibold text-surface-900">Filters</h2>
-			<p class="text-sm text-surface-500">
-				Refine the dataset before downloading or graphing. Leave blank to include all values.
-			</p>
-		</header>
-
-		{#if errorMessage}
-			<div class="alert preset-tonal-error">
-				<span>{errorMessage}</span>
+	<section class="grid gap-4 sm:grid-cols-2 lg:grid-cols-6">
+		{#each stageOrder as stage}
+			<div class="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
+				<p class="text-xs font-semibold uppercase tracking-wide text-slate-500">{stage.label}</p>
+				<p class="mt-2 text-3xl font-semibold text-slate-900">
+					{formatNumber(overallStages[stage.key] ?? 0)}
+				</p>
+				<p class="mt-1 text-xs text-slate-500">
+					Filtered: {formatNumber(filteredStages[stage.key] ?? 0)}
+				</p>
 			</div>
-		{/if}
+		{/each}
+	</section>
 
-		<div class="grid gap-4 md:grid-cols-2">
-			<label class="space-y-2 text-sm text-surface-600">
-				<span class="font-semibold text-surface-700">Industries</span>
-				<select class="select h-32" multiple bind:value={selectedIndustries} on:change={refreshMetrics}>
-					{#each metrics.filters?.industries ?? [] as option}
-						<option value={option}>{option}</option>
-					{/each}
-				</select>
-			</label>
-			<label class="space-y-2 text-sm text-surface-600">
-				<span class="font-semibold text-surface-700">RBICS Sectors</span>
-				<select class="select h-32" multiple bind:value={selectedRbics} on:change={refreshMetrics}>
-					{#each metrics.filters?.rbics ?? [] as option}
-						<option value={option}>{option}</option>
-					{/each}
-				</select>
-			</label>
-			<label class="space-y-2 text-sm text-surface-600">
-				<span class="font-semibold text-surface-700">States</span>
-				<select class="select h-32" multiple bind:value={selectedStates} on:change={refreshMetrics}>
-					{#each metrics.filters?.states ?? [] as option}
-						<option value={option}>{option}</option>
-					{/each}
-				</select>
-			</label>
-			<label class="space-y-2 text-sm text-surface-600">
-				<span class="font-semibold text-surface-700">Analysis methods</span>
-				<select class="select h-32" multiple bind:value={selectedMethods} on:change={refreshMetrics}>
-					{#each metrics.filters?.methods ?? [] as option}
-						<option value={option}>{option}</option>
-					{/each}
-				</select>
-			</label>
-		</div>
+	<details class="rounded-xl border border-slate-200 bg-white shadow-sm" open>
+		<summary class="cursor-pointer select-none rounded-xl px-5 py-4 text-sm font-semibold text-slate-700">
+			Filters
+		</summary>
+		<div class="space-y-4 px-5 pb-5">
+			<p class="text-xs text-slate-500">
+				Adjust filters and press reset to return to the original dataset.
+			</p>
 
-		<div class="grid gap-4 md:grid-cols-2">
-			<label class="flex flex-col gap-2 text-sm text-surface-600">
-				<span class="font-semibold text-surface-700">Scope 1 range (kgCO₂e)</span>
-				<div class="flex gap-3">
-					<input class="input" type="number" placeholder="min" bind:value={scope1MinInput} on:change={refreshMetrics} />
-					<input class="input" type="number" placeholder="max" bind:value={scope1MaxInput} on:change={refreshMetrics} />
+			{#if errorMessage}
+				<div class="rounded-lg border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700">
+					{errorMessage}
 				</div>
-			</label>
-		</div>
+			{/if}
 
-		<div class="flex items-center gap-3">
-			<button class="btn preset-tonal" type="button" on:click={resetFilters} disabled={loading}>
-				Reset filters
-			</button>
-			{#if loading}
-				<span class="text-sm text-surface-500">Refreshing metrics…</span>
+			<div class="grid gap-4 md:grid-cols-2">
+				<label class="space-y-2 text-sm text-slate-600">
+					<span class="font-semibold text-slate-700">Industries</span>
+					<select class="input h-32" multiple bind:value={selectedIndustries} on:change={refreshMetrics}>
+						{#each metrics.filters?.industries ?? [] as option}
+							<option value={option}>{option}</option>
+						{/each}
+					</select>
+				</label>
+				<label class="space-y-2 text-sm text-slate-600">
+					<span class="font-semibold text-slate-700">RBICS sectors</span>
+					<select class="input h-32" multiple bind:value={selectedRbics} on:change={refreshMetrics}>
+						{#each metrics.filters?.rbics ?? [] as option}
+							<option value={option}>{option}</option>
+						{/each}
+					</select>
+				</label>
+				<label class="space-y-2 text-sm text-slate-600">
+					<span class="font-semibold text-slate-700">States</span>
+					<select class="input h-32" multiple bind:value={selectedStates} on:change={refreshMetrics}>
+						{#each metrics.filters?.states ?? [] as option}
+							<option value={option}>{option}</option>
+						{/each}
+					</select>
+				</label>
+				<label class="space-y-2 text-sm text-slate-600">
+					<span class="font-semibold text-slate-700">Analysis methods</span>
+					<select class="input h-32" multiple bind:value={selectedMethods} on:change={refreshMetrics}>
+						{#each metrics.filters?.methods ?? [] as option}
+							<option value={option}>{option}</option>
+						{/each}
+					</select>
+				</label>
+			</div>
+
+			<div class="grid gap-4 md:grid-cols-2">
+				<label class="space-y-2 text-sm text-slate-600">
+					<span class="font-semibold text-slate-700">Scope 1 range (kgCO₂e)</span>
+					<div class="flex gap-3">
+						<input class="input" type="number" placeholder="Min" bind:value={scope1MinInput} on:change={refreshMetrics} />
+						<input class="input" type="number" placeholder="Max" bind:value={scope1MaxInput} on:change={refreshMetrics} />
+					</div>
+				</label>
+			</div>
+
+			<div class="flex items-center gap-3">
+				<button class="btn preset-filled" type="button" on:click={resetFilters} disabled={loading}>
+					Reset filters
+				</button>
+				{#if loading}
+					<span class="text-sm text-slate-500">Refreshing metrics…</span>
+				{/if}
+			</div>
+		</div>
+	</details>
+
+	<section class="space-y-4 rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+		<div class="flex flex-wrap items-center gap-2">
+			{#each chartTabs as tab}
+				<button
+					class="rounded-lg border px-3 py-1.5 text-sm font-medium transition-colors"
+					class:bg-slate-900={activeChart === tab.id}
+					class:text-white={activeChart === tab.id}
+					class:border-slate-900={activeChart === tab.id}
+					class:bg-white={activeChart !== tab.id}
+					class:text-slate-700={activeChart !== tab.id}
+					class:border-slate-200={activeChart !== tab.id}
+					on:click={() => (activeChart = tab.id)}
+					type="button"
+				>
+					{tab.label}
+				</button>
+			{/each}
+		</div>
+		<div class="rounded-lg border border-slate-100 bg-slate-50 p-3">
+			{#if activeChartConfig.data.length}
+				<PlotlyChart data={activeChartConfig.data} layout={activeChartConfig.layout} config={plotConfig} />
+			{:else}
+				<p class="px-2 py-6 text-sm text-slate-500">
+					Not enough data to render this chart for the selected filters.
+				</p>
 			{/if}
 		</div>
 	</section>
 
-	<section class="grid gap-6 md:grid-cols-2">
-		<div class="card preset-tonal p-5 space-y-3">
-			<h3 class="text-lg font-semibold text-surface-900">Scope 1 vs Net Income</h3>
-			{#if scatterNetIncomeData.length}
-				<PlotlyChart data={scatterNetIncomeData} layout={scatterNetIncomeLayout} config={plotConfig} />
-			{:else}
-				<p class="text-sm text-surface-500">
-					Not enough data to plot Net Income vs Scope 1 for the current filters.
-				</p>
-			{/if}
-		</div>
-		<div class="card preset-tonal p-5 space-y-3">
-			<h3 class="text-lg font-semibold text-surface-900">Scope 1 vs Revenue</h3>
-			{#if scatterRevenueData.length}
-				<PlotlyChart data={scatterRevenueData} layout={scatterRevenueLayout} config={plotConfig} />
-			{:else}
-				<p class="text-sm text-surface-500">
-					Not enough data to plot Revenue vs Scope 1 for the current filters.
-				</p>
-			{/if}
-		</div>
-	</section>
-
-	<section class="grid gap-6 md:grid-cols-2">
-		<div class="card preset-tonal p-5 space-y-3">
-			<h3 class="text-lg font-semibold text-surface-900">Scope 1 vs EBITDA</h3>
-			{#if scatterEbitdaData.length}
-				<PlotlyChart data={scatterEbitdaData} layout={scatterEbitdaLayout} config={plotConfig} />
-			{:else}
-				<p class="text-sm text-surface-500">
-					Not enough data to plot EBITDA vs Scope 1 for the current filters.
-				</p>
-			{/if}
-		</div>
-		<div class="card preset-tonal p-5 space-y-3">
-			<h3 class="text-lg font-semibold text-surface-900">Scope 1 vs Total Assets</h3>
-			{#if scatterAssetsData.length}
-				<PlotlyChart data={scatterAssetsData} layout={scatterAssetsLayout} config={plotConfig} />
-			{:else}
-				<p class="text-sm text-surface-500">
-					Not enough data to plot Total Assets vs Scope 1 for the current filters.
-				</p>
-			{/if}
-		</div>
-	</section>
-
-	<section class="card preset-elevated overflow-hidden">
-		<header class="border-b border-surface-200 px-4 py-3">
-			<h2 class="text-lg font-semibold text-surface-900">Filtered companies</h2>
-			<p class="text-sm text-surface-500">
-				Data returned by the current filter set.
+	<section class="rounded-xl border border-slate-200 bg-white shadow-sm">
+		<header class="border-b border-slate-200 px-5 py-4">
+			<h2 class="text-lg font-semibold text-slate-900">Filtered companies</h2>
+			<p class="text-sm text-slate-500">
+				All companies matching the filters. Scroll to view the full list.
 			</p>
 		</header>
-		<div class="overflow-x-auto">
-			<table class="min-w-full divide-y divide-surface-200 text-sm">
-				<thead class="bg-surface-50 text-left text-xs uppercase tracking-wide text-surface-500">
-					<tr>
-						<th class="px-4 py-2">Ticker</th>
-						<th class="px-4 py-2">Name</th>
-						<th class="px-4 py-2 text-right">Scope 1 (kgCO₂e)</th>
-						<th class="px-4 py-2 text-right">Scope 2 (kgCO₂e)</th>
-						<th class="px-4 py-2">Reporting group</th>
-						<th class="px-4 py-2 text-right">Revenue (MM AUD)</th>
-						<th class="px-4 py-2">Industry</th>
-					</tr>
-				</thead>
-				<tbody class="divide-y divide-surface-100 bg-white">
-					{#if (metrics.table ?? []).length === 0}
+		<div class="overflow-x-auto px-5 pb-5">
+			<div class="max-h-[32rem] overflow-y-auto">
+				<table class="min-w-full divide-y divide-slate-200 text-sm">
+					<thead class="sticky top-0 bg-slate-50 text-left text-xs uppercase tracking-wide text-slate-600">
 						<tr>
-							<td class="px-4 py-4 text-center text-surface-400" colspan="7">
-								No companies match the selected filters.
-							</td>
+							<th class="px-3 py-2 font-semibold">Ticker</th>
+							<th class="px-3 py-2 font-semibold">Name</th>
+							<th class="px-3 py-2 text-right font-semibold">Scope 1 (kgCO₂e)</th>
+							<th class="px-3 py-2 text-right font-semibold">Scope 2 (kgCO₂e)</th>
+							<th class="px-3 py-2 font-semibold">Reporting group</th>
+							<th class="px-3 py-2 text-right font-semibold">Revenue (MM AUD)</th>
+							<th class="px-3 py-2 font-semibold">Industry</th>
 						</tr>
-					{:else}
-						{#each (metrics.table ?? []).slice(0, 20) as row}
+					</thead>
+					<tbody class="divide-y divide-slate-100 bg-white">
+						{#if (metrics.table ?? []).length === 0}
 							<tr>
-								<td class="px-4 py-3 font-mono text-xs text-surface-600">
-									{(row.ticker as string) ?? '—'}
-								</td>
-								<td class="px-4 py-3 text-surface-900">
-									{(row.name as string) ?? (row.ticker as string) ?? '—'}
-								</td>
-								<td class="px-4 py-3 text-right text-surface-900">
-									{formatNumber((row.scope_1 as number) ?? null)}
-								</td>
-								<td class="px-4 py-3 text-right text-surface-900">
-									{formatNumber((row.scope_2 as number) ?? null)}
-								</td>
-								<td class="px-4 py-3 text-surface-600">
-									{(row.reporting_group as string) ?? '—'}
-								</td>
-								<td class="px-4 py-3 text-right text-surface-900">
-									{formatNumber((row.revenue_mm as number) ?? null)}
-								</td>
-								<td class="px-4 py-3 text-surface-600">
-									{(row.anzsic_division as string) ?? '—'}
+								<td class="px-3 py-6 text-center text-slate-400" colspan="7">
+									No companies match the selected filters.
 								</td>
 							</tr>
+						{:else}
+							{#each metrics.table ?? [] as row}
+								<tr>
+									<td class="px-3 py-2 font-mono text-xs text-slate-600">
+										{(row.ticker as string) ?? '—'}
+									</td>
+									<td class="px-3 py-2 text-slate-800">
+										{(row.name as string) ?? (row.ticker as string) ?? '—'}
+									</td>
+									<td class="px-3 py-2 text-right text-slate-800">
+										{formatNumber((row.scope_1 as number) ?? null)}
+									</td>
+									<td class="px-3 py-2 text-right text-slate-800">
+										{formatNumber((row.scope_2 as number) ?? null)}
+									</td>
+									<td class="px-3 py-2 text-slate-600">
+										{(row.reporting_group as string) ?? '—'}
+									</td>
+									<td class="px-3 py-2 text-right text-slate-800">
+										{formatNumber((row.revenue_mm as number) ?? null)}
+									</td>
+									<td class="px-3 py-2 text-slate-600">
+										{(row.anzsic_division as string) ?? '—'}
+									</td>
+								</tr>
+							{/each}
+						{/if}
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</section>
+
+	<section class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+		<h3 class="text-lg font-semibold text-slate-900">Top revenue (MM AUD)</h3>
+		{#if revenueBarData[0]?.x?.length}
+			<PlotlyChart data={revenueBarData} layout={revenueBarLayout} config={plotConfig} />
+		{:else}
+			<p class="text-sm text-slate-500">No revenue data available for this selection.</p>
+		{/if}
+	</section>
+
+	<section class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+		<h3 class="text-lg font-semibold text-slate-900">Reporting group vs industry</h3>
+		{#if groupMatrixRows.length}
+			<div class="overflow-x-auto">
+				<table class="min-w-full divide-y divide-slate-200 text-sm">
+					<thead class="bg-slate-50 text-left text-xs uppercase tracking-wide text-slate-600">
+						<tr>
+							<th class="px-3 py-2 font-semibold">Reporting group</th>
+							{#each groupMatrixColumns as column}
+								<th class="px-3 py-2 font-semibold">{column}</th>
+							{/each}
+						</tr>
+					</thead>
+					<tbody class="divide-y divide-slate-100 bg-white">
+						{#each groupMatrixRows as row}
+							<tr>
+								<td class="px-3 py-3 text-slate-800">{row.group}</td>
+								{#each groupMatrixColumns as column}
+									{@const cell = row.cells.find((entry) => entry.industry === column)}
+									<td class="px-3 py-3 text-slate-700">
+										<div class="font-semibold text-slate-800">
+											{formatNumber(cell?.count ?? 0)} companies
+										</div>
+										<div class="text-xs text-slate-500">
+											{formatNumber(cell?.emissions ?? null)} kg scope 1
+										</div>
+									</td>
+								{/each}
+							</tr>
 						{/each}
-					{/if}
-				</tbody>
-			</table>
-		</div>
+					</tbody>
+				</table>
+			</div>
+		{:else}
+			<p class="text-sm text-slate-500">No aggregation data available for this selection.</p>
+		{/if}
 	</section>
 
-	<section class="grid gap-6 md:grid-cols-2">
-		<div class="card preset-tonal p-5 space-y-3">
-			<h3 class="text-lg font-semibold text-surface-900">Top revenue (MM AUD)</h3>
-			{#if revenueBarData[0]?.x?.length}
-				<PlotlyChart data={revenueBarData} layout={revenueBarLayout} config={plotConfig} />
-			{:else}
-				<p class="text-sm text-surface-500">No revenue data available for this selection.</p>
-			{/if}
-		</div>
-
-		<div class="card preset-tonal p-5 space-y-3">
-			<h3 class="text-lg font-semibold text-surface-900">Reporting group vs industry</h3>
-			{#if heatmapData.length}
-				<PlotlyChart data={heatmapData} layout={heatmapLayout} config={plotConfig} />
-			{:else}
-				<p class="text-sm text-surface-500">No aggregation data available for this selection.</p>
-			{/if}
-		</div>
-	</section>
-
-	<section class="card preset-tonal p-5 space-y-3">
-		<h3 class="text-lg font-semibold text-surface-900">Average scope emissions by industry</h3>
+	<section class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+		<h3 class="text-lg font-semibold text-slate-900">Average scope emissions by industry</h3>
 		{#if (metrics.scope_averages ?? []).length === 0}
-			<p class="text-sm text-surface-500">No industry averages available for this selection.</p>
+			<p class="text-sm text-slate-500">No industry averages available for this selection.</p>
 		{:else}
 			<table class="w-full text-sm">
-				<thead class="text-left text-xs uppercase tracking-wide text-surface-500">
+				<thead class="text-left text-xs uppercase tracking-wide text-slate-600">
 					<tr>
-						<th class="pb-2">Industry</th>
-						<th class="pb-2 text-right">Scope 1 (kgCO₂e)</th>
-						<th class="pb-2 text-right">Scope 2 (kgCO₂e)</th>
+						<th class="pb-2 font-semibold">Industry</th>
+						<th class="pb-2 text-right font-semibold">Scope 1 (kgCO₂e)</th>
+						<th class="pb-2 text-right font-semibold">Scope 2 (kgCO₂e)</th>
 					</tr>
 				</thead>
-				<tbody class="divide-y divide-surface-200">
-					{#each (metrics.scope_averages ?? []).slice(0, 10) as row}
+				<tbody class="divide-y divide-slate-100">
+					{#each metrics.scope_averages ?? [] as row}
 						<tr>
-							<td class="py-2 text-surface-700">{row.industry ?? '—'}</td>
-							<td class="py-2 text-right text-surface-900">
+							<td class="py-2 text-slate-700">{row.industry ?? '—'}</td>
+							<td class="py-2 text-right text-slate-800">
 								{formatNumber(row.scope_1_avg ?? null)}
 							</td>
-							<td class="py-2 text-right text-surface-900">
+							<td class="py-2 text-right text-slate-800">
 								{formatNumber(row.scope_2_avg ?? null)}
 							</td>
 						</tr>

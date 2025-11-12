@@ -6,16 +6,16 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any, Iterable, List, Optional, Tuple
 
-from src.models import Company, ExtractionRecord
-from src.utils.companies import dump_companies, load_companies, safe_write_text
-from src.utils.pdf import (
+from backend.domain.models import Company, ExtractionRecord
+from backend.domain.utils.companies import dump_companies, load_companies, safe_write_text
+from backend.domain.utils.pdf import (
     build_text_snippet,
     camelot_available,
     extract_pdf_text,
     extract_scope_tables,
     keyword_hit_pages,
 )
-from src.utils.text import count_tokens
+from backend.domain.utils.text import count_tokens
 
 
 DEFAULT_EXTRACT_DIR = Path("extracted")

@@ -80,18 +80,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 2025000,
+          "value": 7400000,
           "confidence": 1.0,
           "context": ",,FY2025,FY2024,FY2023\nTotal,Scope 1 emissions,7.4,8.1,8.0\noperations,,,,"
         },
         "scope_2": {
-          "value": 1000,
+          "value": 1300000,
           "confidence": 1.0,
           "context": "line with its strategy and risk management process,,,,\n\"b)  Disclose Scope 1, Scope 2, and, if appropriate,\",Pages 48 to 53,–,–,–\n\"Scope 3 GHG emissions, and the related risks\",,,,",
           "method": "market"
         },
         "scope_3": {
-          "value": 378200,
+          "value": 378200000,
           "confidence": 1.0,
           "context": "3.7\"\nTotal Scope 3 emissions,\"378.2\n377.7",
           "qualifiers": "Operational control basis"
@@ -226,9 +226,12 @@
           "context": "Scope 1,tCO2-e,\"35,822.02\",\"41,605.88\""
         },
         "scope_2": {
-          "value": 9217,
+          "value": 9276,
           "confidence": 0.9,
           "context": "Scope 2,tCO2-e,\"9,217.31\",\"1,891.67\""
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -458,7 +461,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 9371,
+          "value": 6618,
           "confidence": 1.0,
           "context": "Total Scope 1,\"6,618\",\"9,632\",\"10,711\",\"9,371\","
         },
@@ -467,6 +470,9 @@
           "confidence": 1.0,
           "context": "Total Scope 2,\"73,110\",—,—,—,",
           "method": "market"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -684,18 +690,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 2640,
+          "value": 2640000,
           "confidence": 1.0,
           "context": "Total Group Scope 1,2.64,2.36,12.0%"
         },
         "scope_2": {
-          "value": 370,
+          "value": 520000,
           "confidence": 1.0,
           "context": "Australian terrestrial iron ore operations Scope 2 emissions (location-based),0.37,0.36,0.35",
           "method": "location"
         },
         "scope_3": {
-          "value": 275880,
+          "value": 275880000,
           "confidence": 1.0,
           "context": "Total Group Scope 3 emissions,275.88,269.31,2.4%",
           "qualifiers": "location-based"
@@ -909,13 +915,13 @@
           "context": "Scope 1 GHG emissions,tCO2e,\"7,669\""
         },
         "scope_2": {
-          "value": 90686,
+          "value": 0,
           "confidence": 1.0,
           "context": "Scope 2 location-based GHG emissions,tCO2e,\"90,686\"",
           "method": "location"
         },
         "scope_3": {
-          "value": 34745,
+          "value": 26006,
           "confidence": 1.0,
           "context": "Scope 3 location-based GHG emissions,tCO2e,\"34,745\"",
           "qualifiers": "Includes some Scope 3 emissions which received limited assurance."
@@ -978,12 +984,12 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 12000,
+          "value": 951,
           "confidence": 1.0,
           "context": "pathway for adults,and services,\"a culture of aspiration,\",of initiatives to reduce our,,returns\n,,\"achievement, experimentation\",\"Scope 1, 2 and 3 carbon\",,\n•  Develop the acoustic implant,•  Support recipient access to,,,•,Improve efficiency and agility"
         },
         "scope_2": {
-          "value": 100000,
+          "value": 1980,
           "confidence": 1.0,
           "context": ",operate on 100% renewable energy. We are actively working to,,,\nScope 1 and Scope 2 emissions,,,,\n,expand renewable energy use across all locations.,,,",
           "method": "market"
@@ -1259,12 +1265,12 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 12000000,
+          "value": 7400000,
           "confidence": 1.0,
           "context": "Total high potential injuries,,\n,0.2,\nand illnesses frequency (HPIIF),,"
         },
         "scope_2": {
-          "value": 20700000,
+          "value": 17300000,
           "confidence": 1.0,
           "context": "US$10.5 million exceeded our target of US$3.63 million.,Worsley Alumina’s Scope 1 emissions and a 4.2% reduction in total\n,\"Scope 1 emissions42, both relative to FY21 levels. However, in FY25\"\nIn Australia we are committed to increasing our procurement of,",
           "method": "market"
@@ -1395,7 +1401,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 2030000,
+          "value": 929,
           "confidence": 1.0,
           "context": ",when compared to on-premises energy,,external partners and their suppliers\nthe early vision for the company.,,\"carbon by 2030 for Scope 1, 2 and\",\n,\"consumption. At the same time, the data\",,for their important role in driving a"
         },
@@ -1404,6 +1410,9 @@
           "confidence": 1.0,
           "context": ",,is a particularly pertinent challenge in countries like,\n,an average Water Usage Effectiveness of 0.01. CDC’s closed-loop chilled water system consumes almost,,\n,,\"Australia, where severe droughts can significantly\",This innovation is considered a genuine game",
           "method": "location"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -1461,7 +1470,7 @@
           "method": "location"
         },
         "scope_3": {
-          "value": 1993887000,
+          "value": 0,
           "confidence": 0.95,
           "context": "Production (t),\"1,993,887\"\nScope 1 GHG emissions (tCO2-eq),\"55,812\"\nScope 2 GHG emissions (tCO2-eq) (location based),\"128,861\"",
           "qualifiers": "location based"
@@ -1583,15 +1592,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 7927000,
+          "value": 7927,
           "confidence": 1.0,
           "context": ",,,,,,,\nClimate,\"In FY25, our Scope 1 emissions totalled 7,927 tCO2-e,\",emission,emission,,,,\n,primarily driven by diesel consumption for backup,source,source,,,,"
         },
         "scope_2": {
-          "value": 358348000,
+          "value": 358348,
           "confidence": 1.0,
           "context": ",environmental,,,,\n,0,,,,Social highlights\n,,,,,",
           "method": "location"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -1651,18 +1663,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 2004000,
+          "value": 2004,
           "confidence": 1.0,
           "context": ",,OUR SUSTAINABILITY TARGETS,,,\n,,,female executive and,,scope 1 and 2\n,,,,,"
         },
         "scope_2": {
-          "value": 2969000,
+          "value": 2969,
           "confidence": 1.0,
           "context": "Greenhouse gas emissions – Scope 2 (market-based),\"1,834 tonnes CO2-e\"\nGreenhouse gas emissions – Scope 2 (location-based),\"2,969 tonnes CO2-e\"",
           "method": "location"
         },
         "scope_3": {
-          "value": 1000,
+          "value": 0,
           "confidence": 0.9,
           "context": ",,OUR SUSTAINABILITY TARGETS,,,\n,,,female executive and,,scope 1 and 2\n,,,,,",
           "qualifiers": "location-based"
@@ -1788,12 +1800,12 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 140000000,
+          "value": 127937,
           "confidence": 1.0,
           "context": "140,000\"\nCarbon Neutral for Scope 1 and,\"125,732\n127,996\""
         },
         "scope_2": {
-          "value": 140000000,
+          "value": 59,
           "confidence": 1.0,
           "context": "140,000\"\nCarbon Neutral for Scope 1 and,\"125,732\n127,996\"",
           "method": "unsure"
@@ -1892,7 +1904,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 123967,
+          "value": 127075,
           "confidence": 1.0,
           "context": ",,,,,,,\"Sandfire\nScope 1 - Diesel (tCO2e)\",\"123,967\",\"108,769\",14%\n5,,,,,,,Group,,,"
         },
@@ -1903,7 +1915,7 @@
           "method": "location"
         },
         "scope_3": {
-          "value": 3000,
+          "value": 718487,
           "confidence": 0.95,
           "context": "=== Table 6 (page 51) ===\nfactors that are aligned with our company jurisdictional footprint. This has resulted in an increase in our disclosed Scope 3 GHG emissions.,,\nProcessing of Sold Products (Category 10) and Purchased Goods and Services (Category 1) remain the most significant contributing,,",
           "qualifiers": "Includes market-based and location-based emissions."
@@ -2063,7 +2075,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 23000,
+          "value": 50,
           "confidence": 1.0,
           "context": "offices (FY23 baseline),,,\nReduce paper purchased for printing in Australian,,Failed to achieve 50% reduction of FY21 baseline. Commitment was de‑prioritised due to separation activities in advance of,\n,,,page 17"
         },
@@ -2074,7 +2086,7 @@
           "method": "location"
         },
         "scope_3": {
-          "value": 11335242000,
+          "value": 15312,
           "confidence": 1.0,
           "context": "Operational emissions,,Electricity (market-based),011,335,242\n,,Total Scope 3 operational emissions5,\"15,156\",\"19,672\",\"22,120\"\n\"As a global business, Perpetual Group is committed to\",,,,,",
           "qualifiers": "Based on operational control boundary setting approach."
@@ -2265,18 +2277,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 12000000000,
+          "value": 16044000,
           "confidence": 1.0,
           "context": "Why it’s important,\"is not linear. Our total Scope 1, 2 and 3 equity emissions for FY25 was 45.1 Mt CO2-e, largely consistent with FY24.\"\n,\"Emissions from Eraring made up 84 per cent of our total Scope 1 equity emissions of 16.0 Mt CO2-e, with Scope 1\"\n\"As a leading energy company in Australia, the energy transition is core to our\",\"and 2 emissions up due to slightly higher generation output at our other generating sites. Scope 3 emissions, which\""
         },
         "scope_2": {
-          "value": 25000,
+          "value": 876000,
           "confidence": 1.0,
           "context": ",,baseline for FY25.,,,,,,,,\n,,,Scope 1,,Scope 2,,Flaring,Venting,,",
           "method": "market"
         },
         "scope_3": {
-          "value": 4262000,
+          "value": 28135000,
           "confidence": 1.0,
           "context": ",\"4,262\",\"4,436\",\"4,483\",\"4,591\",\"4,695\",\"we operate (including those under exploration, projects\"\n\"('000) 1, 5\",,,,,,not eventuate. Scenarios may also be impacted by\n,,,,,,\"in development or execution phases, sites and closed\"",
           "qualifiers": "equity emissions"
@@ -2412,14 +2424,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 135,
+          "value": 135000,
           "confidence": 0.9,
           "context": "Product safety and quality,Critical ﬁndings in Plasma and Manufacturing,,\n,regulatory inspections that prevent the release,#,0\n,of commercial product,,"
         },
         "scope_2": {
-          "value": 151,
+          "value": 151000,
           "confidence": 0.9,
           "context": "Product safety and quality,Critical ﬁndings in Plasma and Manufacturing,,\n,regulatory inspections that prevent the release,#,0\n,of commercial product,,"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -2708,7 +2723,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
+          "value": 1409,
           "confidence": 1.0,
           "context": "Scope 1 Emissions (tCO2e),\"1,409\",\"1,494\""
         },
@@ -2779,15 +2794,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 149207,
+          "value": 259,
           "confidence": 1.0,
           "context": "Scope 1 – Group (Net),CO2-e tonnes,149,207,164"
         },
         "scope_2": {
-          "value": 144143,
+          "value": 591,
           "confidence": 1.0,
           "context": "Scope 2 – Group (Net)11,CO2-e tonnes,144,143,16",
           "method": "market"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -2970,18 +2988,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 673,
+          "value": 1070000,
           "confidence": 0.9,
           "context": "CONTAINERS\nPROCESSED VIA CDS 1\n224 kt"
         },
         "scope_2": {
-          "value": 1000000,
+          "value": 52000,
           "confidence": 0.9,
           "context": "Our net combined Scope 1 and 2 GHG emissions in FY25 were aligned with the 1.5oC net combined Scope 1 and 2 GHG target of 1,132kt CO2-e.",
           "method": "unsure"
         },
         "scope_3": {
-          "value": 3000000,
+          "value": 484000,
           "confidence": 0.9,
           "context": "decarbonisation. Our Scope 3 emissions were estimated\nat 484kt CO2-e, around 30% of our total footprint, with\nkey contributors being fuel, transport, landfill use and",
           "qualifiers": "Net emissions; combined Scope 1 and 2 GHG emissions."
@@ -3240,17 +3258,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 14183000,
+          "value": 14183,
           "confidence": 1.0,
           "context": "Greenhouse and Energy Reporting (NGER),\n\"requirements. BCI contributed 14,183 t\",\nCO2-e (Scope 1) and 53 t CO2-e (Scope 2) for,"
         },
         "scope_2": {
-          "value": 53000,
+          "value": 53,
           "confidence": 1.0,
           "context": "BCI contributed 53 t CO2-e (Scope 2) for FY24, which is below the NGER emissions reporting thresholds."
         },
         "scope_3": {
-          "value": 14183000,
+          "value": 0,
           "confidence": 0.95,
           "context": "\"requirements. BCI contributed 14,183 t\",\nCO2-e (Scope 1) and 53 t CO2-e (Scope 2) for,\n\"FY24, which is below the NGER emissions\",",
           "qualifiers": "FY24 emissions report, below NGER thresholds"
@@ -3485,17 +3503,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 27100,
+          "value": 27,
           "confidence": 1.0,
           "context": "Scope 1,27.1,25.3"
         },
         "scope_2": {
-          "value": 22182300,
+          "value": 182,
           "confidence": 1.0,
           "context": "Scope 22,182.3,202.3"
         },
         "scope_3": {
-          "value": 14660800,
+          "value": 14661,
           "confidence": 1.0,
           "context": "Scope 3,\"14,660.8\",\"11,783.9\""
         }
@@ -3630,6 +3648,9 @@
           "confidence": 1.0,
           "context": "FY24 methodology total Scope 2 emissions,,,,,,\n(tonnes CO2-e),\"60,731\",\"9,356\",\"70,088\",n/a,n/a,n/a\nTotal location-based Scope 2 emissions,,,,,,",
           "method": "location"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -3748,17 +3769,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 26000,
+          "value": 531,
           "confidence": 1.0,
           "context": ",,Gas Reporting Criteria’ inclusive of reporting boundaries\n\"Auckland City Mission, Kindness Collective, RSA,\",•  Scope 1 greenhouse gases (‘GHG’) emissions of 26,\n,,\"for operational impact emissions, environmental\""
         },
         "scope_2": {
-          "value": 636000,
+          "value": 636,
           "confidence": 1.0,
           "context": "•  Scope 2 GHG emissions of 636 tCO2-e;"
         },
         "scope_3": {
-          "value": 3758000,
+          "value": 3758,
           "confidence": 1.0,
           "context": "•  Selected scope 3 GHG emissions of 3,758 tCO2-e;",
           "qualifiers": "Operational impact emissions, environmental metrics, and sustainability disclosures."
@@ -4449,18 +4470,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
+          "value": 1847,
           "confidence": 1.0,
           "context": "Scope 1,\"2,791\",\"1,847\",2%,-944,-34%"
         },
         "scope_2": {
-          "value": 2000,
+          "value": 129,
           "confidence": 1.0,
           "context": "Scope 2,\"8,065\",129,<1%,\"-7,937\",-98%",
           "method": "market"
         },
         "scope_3": {
-          "value": 9411000,
+          "value": 93221,
           "confidence": 1.0,
           "context": "Investments\",941,1%\n\"TOTAL, Scope 3 (excl. optional categories)\",\"89,333\",94%\n\"TOTAL, Scope 3 (incl. optional categories)\",\"93,221\",98%",
           "qualifiers": "Includes optional categories"
@@ -4524,15 +4545,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 139623398913656735399936,
+          "value": 39623,
           "confidence": 1.0,
           "context": "(baseline)\nScope 1 39,623 39,891 36,567 36,238\nScope 2 market-based 24,373 25,695 27,216 27,865"
         },
         "scope_2": {
-          "value": 24373,
+          "value": 26299,
           "confidence": 1.0,
           "context": "4.8 Reducing our carbon footprint\nIn FY24, the Group’s Scope 1 and 2 greenhouse gas emissions were 63,996 tonnes of carbon dioxide equivalent (tCO2e-),\ncalculated on market-based methodology to reflect our use of renewable energy. This represents a 2.4% decrease on FY23,",
           "method": "market"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -4592,14 +4616,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1064000,
+          "value": 321,
           "confidence": 0.9,
           "context": "GWA’s approach is grounded in data-driven,,,,,,\n\"monitoring of Scope 1 and Scope 2 emissions,\",,,,,,\nand laying the groundwork to review and,,,,,,"
         },
         "scope_2": {
-          "value": 321000,
+          "value": 1064,
           "confidence": 0.9,
           "context": ",,,,,CO2e,,\nChina,Tonnes,0,0,,,,\n,,,,New Zealand,Tonnes,37,32"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -4658,15 +4685,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 822619485000,
+          "value": 38043,
           "confidence": 1.0,
           "context": "Other8,,,226,194,85\nTotal scope 1 - direct emissions,\"18,848\",\"16,951\",\"17,039\",\"38,049\",\"38,043\"\nScope 2 – energy indirect emissions,,,,,"
         },
         "scope_2": {
-          "value": 45914000,
+          "value": 18628,
           "confidence": 1.0,
           "context": "Purchased electricity,,,\"45,914\",\"32,251\",\"16,824\"\nTotal Scope 2 – energy indirect emissions,\"75,070\",\"70,430\",\"64,485\",\"37,760\",\"18,628\"",
           "method": "location"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -4767,7 +4797,7 @@
           "method": "market"
         },
         "scope_3": {
-          "value": 629401,
+          "value": 636284,
           "confidence": 1.0,
           "context": "Total Upsteam and Downstream (net),,305-3,t CO2-e,\"629,401\",\"656,841\",\"809,638\",\"853,473\",\"771,671\",\"708,901\"",
           "qualifiers": "market method"
@@ -4838,6 +4868,9 @@
           "value": 60086,
           "confidence": 1.0,
           "context": "=== Table 3 (page 17) ===\n,FY21,,\"0\nFY21\",\"53,363"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -4996,6 +5029,9 @@
           "confidence": 1.0,
           "context": "framework during the year.,\n,\"as Scope 1 emissions and 30,056 tCO2-e as Scope 2\"\nThe business has completed a focused review of climate,(location based)emissions.",
           "method": "location"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -5053,18 +5089,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 2700,
+          "value": 3,
           "confidence": 1.0,
           "context": ",transparency in our reporting approach.\n\"Scope 1, 2 and 3 operational emissions – measurement\",\n,Our methodology will continue to evolve in line with emerging"
         },
         "scope_2": {
-          "value": 5700,
+          "value": 6,
           "confidence": 1.0,
           "context": "Total Scope 2,,,5.7,,603.3",
           "method": "market"
         },
         "scope_3": {
-          "value": 10253800,
+          "value": 10254,
           "confidence": 1.0,
           "context": "Total Scope 3,,,\"10,253.8\",,\"9,700.1\"",
           "qualifiers": "Market-based method for Scope 2 emissions."
@@ -5134,6 +5170,9 @@
           "value": 50977,
           "confidence": 1.0,
           "context": ",,,charities and or community groups.,\n,,,,contribution five-fold to 0.15%\n,,,This represents approximately,of group EBITDA and continue"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -5283,18 +5322,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 851526000,
+          "value": 36970,
           "confidence": 1.0,
           "context": "Industrial materials,0,851,526,\"1,377\"\nCorporate,0,0,0,0\nTotal,7,\"11,605\",\"25,358\",\"36,970\""
         },
         "scope_2": {
-          "value": 2000,
+          "value": 1603,
           "confidence": 1.0,
           "context": ",,Electricity,District,Total\n,Scope 2 emissions*,,,\nprograms to reduce Scope 2 emissions through improving,,,,",
           "method": "market"
         },
         "scope_3": {
-          "value": 851526000,
+          "value": 289326,
           "confidence": 1.0,
           "context": "Industrial materials,0,851,526,\"1,377\"\nCorporate,0,0,0,0\nTotal,7,\"11,605\",\"25,358\",\"36,970\"",
           "qualifiers": "Market-based for Scope 2 emissions"
@@ -5358,14 +5397,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 38360,
+          "value": 9450,
           "confidence": 1.0,
           "context": "energy will drive future reductions.,,,,\n,0,,,"
         },
         "scope_2": {
-          "value": 36690,
+          "value": 23870,
           "confidence": 1.0,
           "context": "energy will drive future reductions.,,,,\n,0,,,"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -5546,17 +5588,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 180502,
+          "value": 300920,
           "confidence": 1.0,
           "context": "tCO2e\n180,502\",\"110,862\n212,685"
         },
         "scope_2": {
-          "value": 110862,
+          "value": 34,
           "confidence": 1.0,
           "context": "tCO2e\n180,502\",\"110,862\n212,685"
         },
         "scope_3": {
-          "value": 1000,
+          "value": 0,
           "confidence": 0.85,
           "context": "Greenhouse gas emissions,\nResolute has been disclosing its Scope 1 and 2 GHG emissions,\"Emissions intensity, the ratio of emissions to volume of gold\"\n\"since 2019, and Scope 3 emissions since 2020. These are\",\"produced, has been influenced at Mako by reducing the diesel\""
         }
@@ -5792,6 +5834,9 @@
           "value": 3203,
           "confidence": 1.0,
           "context": "GHG emissions – Scope 2,t CO2-e,\"3,203\",977,913"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -5984,18 +6029,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
+          "value": 86,
           "confidence": 1.0,
           "context": "Scope 1(2),–,77.8,7.8,85.6"
         },
         "scope_2": {
-          "value": 1631300,
+          "value": 1631,
           "confidence": 1.0,
           "context": "Scope 2(3),30.9,\"1,568.3\",32.1,\"1,631.3\"",
           "method": "market"
         },
         "scope_3": {
-          "value": 11378200,
+          "value": 11378,
           "confidence": 1.0,
           "context": "Scope 3(4),\"2,824.6\",\"5,934.0\",\"2,619.5\",\"11,378.2\"",
           "qualifiers": "Market-based"
@@ -6058,15 +6103,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 25000,
+          "value": 2006,
           "confidence": 1.0,
           "context": "\"In FY25 IMDEX’s Scope 1 and 2 GHG emissions were 2,831 metric tonnes of carbon dioxide\"\n\"equivalent (tCO2-e). This included 2,006 tCO2-e Scope 1 and 825 tCO2-e Scope 2 (location-\"\n\"based). For FY25, IMDEX has also measured market-based Scope 2 GHG emissions which\""
         },
         "scope_2": {
-          "value": 25000,
+          "value": 825,
           "confidence": 1.0,
           "context": "\"In FY25 IMDEX’s Scope 1 and 2 GHG emissions were 2,831 metric tonnes of carbon dioxide\"\n\"equivalent (tCO2-e). This included 2,006 tCO2-e Scope 1 and 825 tCO2-e Scope 2 (location-\"\n\"based). For FY25, IMDEX has also measured market-based Scope 2 GHG emissions which\"",
           "method": "location"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -6125,7 +6173,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 42451,
+          "value": 80809,
           "confidence": 1.0,
           "context": "Scope 1,\"19,697\",\"27,420\",\"29,990\",\"28,523\",\"42,451**\""
         },
@@ -6133,6 +6181,9 @@
           "value": 68566,
           "confidence": 1.0,
           "context": "Scope 2,\"43,917\",\"42,831\",\"43,580\",\"42,592\",\"68,566\""
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -6191,14 +6242,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 73535,
+          "value": 50679,
           "confidence": 0.9,
           "context": ",,,,,,,,,Property Trust\nEMISSIONS INTENSITY,,,,,,,,0.27kL/m2,66%\n,,,,,,,,,"
         },
         "scope_2": {
-          "value": 141472,
+          "value": 28416,
           "confidence": 0.9,
           "context": ",,,,,,,,,Property Trust\nEMISSIONS INTENSITY,,,,,,,,0.27kL/m2,66%\n,,,,,,,,,"
+        },
+        "scope_3": {
+          "value": 135911
         }
       },
       "annotations": {
@@ -6428,10 +6482,13 @@
           "context": "Direct Scope 1 GHG Emissions,(tCO2-e),\"206,313\",\"228,723\""
         },
         "scope_2": {
-          "value": 55800,
+          "value": 56,
           "confidence": 0.9,
           "context": "Indirect Scope 2 GHG Emissions,(tCO2-e),55.8,48.6",
           "method": "market"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -6584,18 +6641,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 637328,
+          "value": 659618,
           "confidence": 1.0,
           "context": ",GHG Emissions (tonnes CO2-e),,,\n\"emissions at 88% of Scope 1 and 2 emissions,\",,,,\nproportionally remaining steady compared,,,,"
         },
         "scope_2": {
-          "value": 22890,
+          "value": 2806,
           "confidence": 1.0,
           "context": "Scope 1 – energy emissions,\"29,068\",\"19,211\",\"22,290\"",
           "method": "location"
         },
         "scope_3": {
-          "value": 70618000,
+          "value": 159949,
           "confidence": 1.0,
           "context": "Other ecosystems,NPR,\"70,618 ha\",\"68,108 ha\"\nPrimary woodland or primary forest cleared for grazing purposes,0 ha,0 ha,0 ha\nAnimal Welfare,,,",
           "qualifiers": "Location-based emissions for Scope 2."
@@ -6754,13 +6811,13 @@
           "context": "Cultural heritage,Operational emissions\nWe respect the connections of Traditional,New Hope reports on Scope 1 and Scope 2 greenhouse gas (GHG) emissions (also referred\nOwners and custodians with the lands,\"to as ‘operational emissions’), energy consumption and energy production to the Clean\""
         },
         "scope_2": {
-          "value": 5402000,
+          "value": 57783,
           "confidence": 1.0,
           "context": "Queensland Bulk Handling,\"5,402\",5.2 million throughput tonnes\nBridgeport Energy,\"16,753\",0.3 boe\nOther Group operations*,\"11,987\",-",
           "method": "location"
         },
         "scope_3": {
-          "value": 3000000000,
+          "value": 32800000,
           "confidence": 1.0,
           "context": "were calculated using methods aligned to,,\n,Total Scope 3 emissions (32.8 Mt CO2e),",
           "qualifiers": "Equity share 80 percent basis is applied for emissions from Bengalla Mine."
@@ -6853,18 +6910,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
+          "value": 47,
           "confidence": 1.0,
           "context": "Scope 1 and 2 emissions (tCO2e, market based)"
         },
         "scope_2": {
-          "value": 1000,
+          "value": 688,
           "confidence": 1.0,
           "context": "Scope 1 and 2 emissions (tCO2e, market based)",
           "method": "market"
         },
         "scope_3": {
-          "value": 13728,
+          "value": 0,
           "confidence": 1.0,
           "context": "Scope 3 emissions (tCO2e)",
           "qualifiers": "market based"
@@ -6958,18 +7015,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 2690510,
+          "value": 3550,
           "confidence": 0.9,
           "context": "Fugitive Emissions,\"2,690.51\",,,\n,,,Total Emissions,\"0.38K\n(3.6%)\""
         },
         "scope_2": {
-          "value": 711362,
+          "value": 7114,
           "confidence": 0.9,
           "context": "\"China, GALE Pacific Ltd in Australia, GALE Pacific USA, and GALE Pacific FZE in Dubai.  The baseline for\",,,,\n\"our Green House gas Scope 1 and Scope 2 inventory is 10,663 tons of carbon dioxide equivalent.\",,,,\n,Emissions,,,",
           "method": "location"
         },
         "scope_3": {
-          "value": 3549520,
+          "value": 0,
           "confidence": 0.95,
           "context": "(3.6%)\"\nTotal Scope 1,\"3,549.52\",7.11K,(tCO2e),0.48K\n,,(66.71%),,(4.46%)",
           "qualifiers": "Aligned with GHG Protocol"
@@ -7398,17 +7455,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1030870,
+          "value": 103087,
           "confidence": 1.0,
           "context": "GHG Emissions,,FY25,FY24,FY23\nTotal Scope 1 Emissions,Metric tonnes,\"103,087\",\"118,369\",\"122,977\"\n,(tCO₂-e),,,"
         },
         "scope_2": {
-          "value": 196680,
+          "value": 19668,
           "confidence": 1.0,
           "context": ",(tCO₂-e),,,\nEmissions intensity per ounce gold produced,tCO₂-e/oz,0.41,0.50,0.63\n(group total),,,,"
         },
         "scope_3": {
-          "value": 1661310,
+          "value": 166131,
           "confidence": 1.0,
           "context": "Engagement,community investment and engagement,\n,(assuming a minimum of $2/oz).,\nEthics & Human,\"All employees to receive whistleblower,\",Target achieved."
         }
@@ -7501,15 +7558,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 113000,
+          "value": 13,
           "confidence": 1.0,
           "context": "Refrigerants1,13,—,—,—,13\nTotal Scope 1 emissions,13,—,—,—,13\nScope 2 emissions,,,,,"
         },
         "scope_2": {
-          "value": 1626407617559000,
+          "value": 719,
           "confidence": 1.0,
           "context": "Electricity – Location-based approach 1,626,407,617,559",
           "method": "location"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -7734,15 +7794,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 7000,
+          "value": 6590,
           "confidence": 1.0,
           "context": "Key Metrics and Targets – Climate resilience and decarbonisation,,,\nTable 7: GPT key climate metrics and targets,,,\nKey Performance Indicator,Specific goal or target,Metrics and Progress,Notes"
         },
         "scope_2": {
-          "value": 2030000,
+          "value": 21357,
           "confidence": 1.0,
           "context": ",2030 target:,Baseline:,contracted foreseeable needs until 2030 with an assumption of the\n,0 kgCO2e/m2 (with offsets) and,2005: 136 kgCO2e/m2 (no offsets in 2005),requirements based on the current development pipeline and portfolio\n,3 kgCO2e/m2 (without offsets),,\"scale. Beyond 2030, any new targets will have a dependency on being able\"",
           "method": "market"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -7806,12 +7869,12 @@
           "context": ",,,,,FY25 Proportion of spend\n\"FY24 (0)\n0\",,,emissions,Land rehabilitated,"
         },
         "scope_2": {
-          "value": 3691,
+          "value": 3692,
           "confidence": 1.0,
           "context": ",,,,,\n,,,\"FY24 (133,741.3tCO2-e)\",FY24 (207.2 ha),3.2% FY24 (2.2%)\n,,,,,"
         },
         "scope_3": {
-          "value": 205624,
+          "value": 205625,
           "confidence": 1.0,
           "context": ",,,,,FY25 Proportion of spend\n\"FY24 (0)\n0\",,,emissions,Land rehabilitated,"
         }
@@ -7871,12 +7934,12 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1414000,
+          "value": 3819,
           "confidence": 1.0,
           "context": ",,Refrigerants,\"1,414\",\"1,360\",\"1,775\",\"1,972\",\"1,709\"\n,Total Scope 1,,\"3,313\",\"3,105\",\"3,493\",\"3,906\",\"3,819\"\n,,Electricity (market-,,,,,"
         },
         "scope_2": {
-          "value": 37065000,
+          "value": 106,
           "confidence": 1.0,
           "context": ",,Electricity,,,,,\n,,,\"37,065\",\"29,777\",\"32,867\",\"31,862\",\"32,139\"\n,,(location-based),,,,,",
           "method": "location"
@@ -8514,7 +8577,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1431727500,
+          "value": 4,
           "confidence": 1.0,
           "context": "Scope 1,43,17,27.5,26,4"
         },
@@ -8592,13 +8655,13 @@
           "context": "\"ecosystems, going\",,,,\n,,,,0.1% increase since FY24\nbeyond zero waste and,SBTi validated 2030 climate targets for,Performance against SBT,,"
         },
         "scope_2": {
-          "value": 32023,
+          "value": 0,
           "confidence": 0.9,
           "context": ",,,,,,42%\treduction,\n,Total Scope 1 and 2,29.5,32.023,-7.8%,-32.3%,,\n,,,,,,,Renewable",
           "method": "location"
         },
         "scope_3": {
-          "value": 2025000000,
+          "value": 1261000,
           "confidence": 0.9,
           "context": ",,,,,,,,in February 2025. It supports material supplier,\n,Scope 1 & 2 emissions (ktCO2-e),,,,,Scope 3 emissions (ktCO2-e)22,,\"categories (carriers, subcontracted service centres\",\n,,,–32.3%,,2000,,–16.8%,and timber suppliers) on their decarbonisation journey.,",
           "qualifiers": "Includes Scope 1, 2, and 3 emissions"
@@ -8692,18 +8755,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000000000,
+          "value": 30400000,
           "confidence": 1.0,
           "context": "Scope 1 (MtCO2e),30.42,32.9,,CTAP target"
         },
         "scope_2": {
-          "value": 2000000000,
+          "value": 250000,
           "confidence": 1.0,
           "context": "Scope 2 (location-based) (MtCO2e),0.252,0.26,,CTAP target",
           "method": "location"
         },
         "scope_3": {
-          "value": 2000000000,
+          "value": 23200000,
           "confidence": 1.0,
           "context": "Operated and contracted generation intensity,tCO2e/MWh,0.9082,0.936,0.916,NR,NR\nScope 3 emissions,MtCO2e,23.22,25.8,24.8,25.1,25.2\nEmissions intensity of total revenue,ktCO2e/$m,2.12,2.4,2.5,3.0,3.7",
           "qualifiers": "Location-based Scope 2 emissions"
@@ -8921,7 +8984,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
+          "value": 1573,
           "confidence": 1.0,
           "context": "low carbon economy commitments will\nimplementing scope 1 and scope 2\nterm\",,,,,"
         },
@@ -8993,12 +9056,12 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 253000,
+          "value": 58,
           "confidence": 1.0,
           "context": "\"Category, name & scope\",,FY253,FY24,FY23,(base year),FY25,FY24,(base year)\nScope 1,,57.9,68.7,71.3,130.5,0,0,0\n\"Refrigerants, fuel & gas\",Scope 1,57.9,68.7,71.3,130.5,0,0,0"
         },
         "scope_2": {
-          "value": 27544100,
+          "value": 1532,
           "confidence": 1.0,
           "context": "\"to a total of 27,544.1 t CO2-equivalent. Our next step will be\",\n,across these sites to strengthen the reliability of our Scope 2\nto reassess targets and our decarbonisation pathway.,",
           "method": "market"
@@ -9066,15 +9129,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 25000000,
+          "value": 414891,
           "confidence": 1.0,
           "context": "\"In FY25, Qube’s total Australian absolute calculated GHG emissions were approximately 437 thousand tonnes of carbon\"\ndioxide equivalent (KtCO2-e). This included 415 KtCO2-e Scope 1 and 23 KtCO2-e Scope 2 (location-based).\nThis represents a 5% increase in operational GHG emissions compared with FY241 and this is tied to business growth"
         },
         "scope_2": {
-          "value": 25000000,
+          "value": 22561,
           "confidence": 1.0,
           "context": "\"In FY25, Qube’s total Australian absolute calculated GHG emissions were approximately 437 thousand tonnes of carbon\"\ndioxide equivalent (KtCO2-e). This included 415 KtCO2-e Scope 1 and 23 KtCO2-e Scope 2 (location-based).\nThis represents a 5% increase in operational GHG emissions compared with FY241 and this is tied to business growth",
           "method": "location"
+        },
+        "scope_3": {
+          "value": 113000
         }
       },
       "annotations": {
@@ -9195,7 +9261,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 6000,
+          "value": 371,
           "confidence": 0.9,
           "context": "\"Natural gas\n6\",0,\n,,operations."
         },
@@ -9205,7 +9271,7 @@
           "context": "Scope 1\nScope 2\",Scope 3,\n,,of our emissions split between development and"
         },
         "scope_3": {
-          "value": 2046,
+          "value": 11489,
           "confidence": 0.9,
           "context": "Scope 1\nScope 2\",Scope 3,\n,,of our emissions split between development and",
           "qualifiers": "Based on metered data."
@@ -9303,7 +9369,7 @@
           "context": "• Target 1 (Internal emissions Net Zero) - Scope 1 emissions: Target 26,288 tCO\n2eq (5% reduction"
         },
         "scope_2": {
-          "value": 3000,
+          "value": 3170,
           "confidence": 1.0,
           "context": "The BNK Financial Group recognize s the importance of the impact\nof financed emissions (Scope 3) through investments and loans in\naddition to the greenhouse gases (Sco pe 1&2) emitted directly or",
           "method": "location"
@@ -9769,13 +9835,13 @@
           "context": "Total Scope 1 emissions – 57,210 tCO2-e"
         },
         "scope_2": {
-          "value": 5840,
+          "value": 0,
           "confidence": 1.0,
           "context": "Total Scope 2 emissions (location-based) – 5,840 tCO2-e",
           "method": "location"
         },
         "scope_3": {
-          "value": 1795000,
+          "value": 2047,
           "confidence": 1.0,
           "context": "generated 1,795 tCO2e for flights and 252 tCO2e for hotel stays",
           "qualifiers": "Location-based emissions"
@@ -10022,18 +10088,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 474820,
+          "value": 475,
           "confidence": 1.0,
           "context": "Direct Scope 1 GHG emissions,474.82,515.97"
         },
         "scope_2": {
-          "value": 1322730,
+          "value": 1323,
           "confidence": 1.0,
           "context": "Indirect (location-based) Scope 2 GHG emissions (purchased electricity),\"1,322.73\",\"1,322.23\"",
           "method": "location"
         },
         "scope_3": {
-          "value": 178939510,
+          "value": 178940,
           "confidence": 1.0,
           "context": "Other indirect Scope 3 GHG emissions (value chain),\"178,939.51\",\"156,102.40\"",
           "qualifiers": "location-based"
@@ -10346,17 +10412,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 5000,
+          "value": 234,
           "confidence": 1.0,
           "context": ",\"has 5-star National Australian Built Environment Rating System (NABERS) energy rating, and the\"\n,\"Melbourne office has a 4.5-star NABERS Energy rating, a 39% recycling rate NABERS Water rating and\"\n,5-star rating in NABERS Indoor Environment."
         },
         "scope_2": {
-          "value": 77084,
+          "value": 4220,
           "confidence": 1.0,
           "context": "Emissions,Emissions (tCo2-e),Percentage\n,234.0,0.3%\nScope 1,,"
         },
         "scope_3": {
-          "value": 81539,
+          "value": 77085,
           "confidence": 1.0,
           "context": "Emissions,Emissions (tCo2-e),Percentage\n,234.0,0.3%\nScope 1,,",
           "qualifiers": "FY24"
@@ -10647,18 +10713,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 2000,
+          "value": 0,
           "confidence": 0.9,
           "context": "tCO2e - 1,833.3"
         },
         "scope_2": {
-          "value": 2000,
+          "value": 1833,
           "confidence": 0.9,
           "context": "Scope 2 - Purchased Electricity,363.7,\"1,078.4\",47.4 5,343.8,\"1,833.3\"",
           "method": "market"
         },
         "scope_3": {
-          "value": 13673,
+          "value": 11319,
           "confidence": 0.9,
           "context": "REF,OPPORTUNITY TYPE,,OPPORTUNITY DESCRIPTION,TARGET\n0.1,Energy Source,Participation in the,Drive proactive policies and strategic,100% Net Zero for Scope 2 Electricity\n,,carbon market,planning to reduce carbon footprint,consumption in 2030",
           "qualifiers": "Scope 1 and Scope 2 emissions are based on actual data; Scope 3 emissions include offsets."
@@ -10874,14 +10940,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 3587490,
+          "value": 358749,
           "confidence": 1.0,
           "context": ",commuter behaviour.\ntransport sector accounts for 23% of global carbon emissions.4,\n\"Despite the challenge, decarbonising the transport sector presents\",•  Service Frequency and Reliability: While operations vary across"
         },
         "scope_2": {
-          "value": 157650,
+          "value": 15765,
           "confidence": 1.0,
           "context": "FINES,,,\nNumber of fines for non-compliance with environmental regulations,0,0,0\nGREENHOUSE GAS EMISSIONS BY COUNTRY,,,"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -10940,17 +11009,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
+          "value": 1,
           "confidence": 1.0,
           "context": "Percentage\"\nScope 1,\"1.26\n0.1\""
         },
         "scope_2": {
-          "value": 115360,
+          "value": 115,
           "confidence": 1.0,
           "context": "0.1\"\nScope 2,\"115.36\n9.1\""
         },
         "scope_3": {
-          "value": 1148750,
+          "value": 1149,
           "confidence": 1.0,
           "context": "0,,,,,\nScope 1,Scope 2,Scope 3,,,throughout the year.",
           "qualifiers": "Operational control model, includes supply chain aspects."
@@ -11021,6 +11090,9 @@
           "confidence": 1.0,
           "context": "(tCO2-e),,,,,,\nScope 2,\"57,095\",\"38,330\",-,-,20,\"95,445\"\n(tCO2-e),,,,,,",
           "method": "market"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -11431,7 +11503,7 @@
           "context": "Scope 2 - Indirect Electricity Emissions Category,,,,\nTotal Scope 2,(tCO2e),\"3,710,248\",\"3,440,250\",\"1,814,177\"\nTotal Emissions,(tCO2e),6.644.501,\"6,633,819\",\"3,584,263\""
         },
         "scope_3": {
-          "value": 305000,
+          "value": 0,
           "confidence": 0.95,
           "context": "GRI 305: Emissions 2016,,,,\n,305-3,Other indirect (Scope 3) GHG emissions,39,14.1.7\n,305-4,GHG emissions intensity,39,14.1.8"
         }
@@ -11610,14 +11682,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 538000,
+          "value": 538,
           "confidence": 1.0,
           "context": "economy. As part of our commitment to environmental,\n,\"Scope 1 tCO2e\n538"
         },
         "scope_2": {
-          "value": 1534000,
+          "value": 1534,
           "confidence": 1.0,
           "context": "\"stewardship, we have set long-term and achievable goals\",\naimed at enhancing our environmental performance and,\"Scope 2 tCO2e\n1,534"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -11685,6 +11760,9 @@
           "confidence": 0.9,
           "context": ",,,,\"emissions by 40% by FY30,\"\nScope 2 (market‑based),\"13,811\",\"14,2 85\",\"14,097\",from an FY23 baseline\nScope 2 (location‑based),\"14,071\",\"15,318\",\"14,940\",Reduce Scope 1 and 2",
           "method": "market"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -11939,15 +12017,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 427000,
+          "value": 415000,
           "confidence": 1.0,
           "context": ",Climate Change Metrics,,,,Circular Economy Metrics,,\n,Scope 1 GHG Emissions,427k,ktCO2e,,Circularity Metric for OPS,62,%\n,Scope 2 GHG Emissions (Location-,,,,,,"
         },
         "scope_2": {
-          "value": 129000,
+          "value": 121000,
           "confidence": 1.0,
           "context": "Fuel and energy related activities (33.7%)\nBusiness travel (0.4%)\nUpstream transportation and distribution (6.4%)",
           "method": "market"
+        },
+        "scope_3": {
+          "value": 771317
         }
       },
       "annotations": {
@@ -12036,7 +12117,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
+          "value": 484,
           "confidence": 1.0,
           "context": "Scope 1 - Fuel Consumed,146.6,145.5,0.8%,,,,,,"
         },
@@ -12303,18 +12384,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 65800000000,
+          "value": 124118,
           "confidence": 1.0,
           "context": "\"operations  and  processes.  Last  year,  we  transported  a  total  of  65.8  Mt,  comprising\",\n,\"In FY2025, a total of 124,118 tonnes of CO2e were emitted from Scope 1 direct sources\"\n\"40.9 Mt of ore and 24.9 Mt of waste rock. This year, while ore volumes remained stable\","
         },
         "scope_2": {
-          "value": 1000,
+          "value": 1171,
           "confidence": 1.0,
           "context": "initiatives in offsetting emissions from increased haulage.,\nOur GHG Scope 1 and Scope 2 emissions were calculated based on the GHG Protocol.,",
           "method": "market"
         },
         "scope_3": {
-          "value": 1000000000,
+          "value": 18287918,
           "confidence": 1.0,
           "context": "Scope 1,\"125,617\",\"124,118\",\n,,,\"section. During the financial year 2025, our total Scope 3 emissions stood at 18.3\"\nScope 2,\"1,169\",\"1,171\",\"Mt  of  CO2e  representing  a  14.6%  year-over-year  increase,  primarily  driven  by\"",
           "qualifiers": "All our GHG emissions fall under the Québec regulations and the cap-and-trade system."
@@ -12542,15 +12623,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 15587240,
+          "value": 5587,
           "confidence": 0.9,
           "context": "Scope 1 5,587.24"
         },
         "scope_2": {
-          "value": 231756180,
+          "value": 31756,
           "confidence": 0.9,
           "context": "Scope 2 31,756.18",
           "method": "market"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -12609,17 +12693,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 9284000,
+          "value": 0,
           "confidence": 1.0,
           "context": "\"operations over which it, including its subsidiaries,\",\n,\"9,284\"\n\"has operational control, as Scope 1 emissions;\","
         },
         "scope_2": {
-          "value": 6806,
+          "value": 572,
           "confidence": 1.0,
           "context": "\"has operational control, as Scope 1 emissions;\",\n,\"6,806\"\n— refined the methodology and conversion factors used,"
         },
         "scope_3": {
-          "value": 1000,
+          "value": 11103,
           "confidence": 1.0,
           "context": "=== Table 1 (page 30) ===\nImpact and innovation,Gross emissions have been estimated using a standardised",
           "qualifiers": "operational control method"
@@ -12893,14 +12977,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 99000,
+          "value": 99,
           "confidence": 1.0,
           "context": ",in accordance with Australian Sustainability Reporting\n•  Scope 1: 99 tonnes (FY2024: 119 tonnes) CO₂e,\n,Standards (AASB S2). These are first expected to apply to"
         },
         "scope_2": {
-          "value": 6771000,
+          "value": 6771,
           "confidence": 1.0,
           "context": ",Standards (AASB S2). These are first expected to apply to\n\"•  Scope 2: 6,771 tonnes (FY2024: 6,728) tonnes CO₂e\",\n,Baby Bunting in relation to FY2026."
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -13204,15 +13291,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 4000,
+          "value": 26,
           "confidence": 0.9,
           "context": "transportation and distribution (category 4) to comprise,remain on track to meet our reporting obligations for\nmost of our scope 3 emissions inventory.,FY26. We have identified key climate-related risks and\n,\"opportunities, integrated climate risk into our broader\""
         },
         "scope_2": {
-          "value": 2217000,
+          "value": 2390,
           "confidence": 0.9,
           "context": ",,,,\"and heating, calculated using both location-based and\"\nMarket-based,\"2,217\",\"1,449\",281,market-based methodologies. Our total location-based\n,,,,emissions have increased 6% on last year due to a higher",
           "method": "market"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -13636,7 +13726,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 12991832000,
+          "value": 12991.832,
           "confidence": 1.0,
           "context": "1,299,1832\",7.20,46%,85%\nScope 1 + Scope 2 Total GHG emissions,Total Recordable Injury Frequency Rate,Female representation in our Senior,of our second RAP\n,,Leadership Team (Target: 40%),deliverables completed"
         },
@@ -13804,7 +13894,7 @@
           "context": "=== Table 10 (page 74) ===\nAppendix (continued),,"
         },
         "scope_2": {
-          "value": 282000,
+          "value": 283044,
           "confidence": 1.0,
           "context": ",Annual Report.,Electronic Shelf Labelling (ESL) has replaced paper\n,,\"ticketing in all 282 Dan Murphy’s stores nationally, saving\"\n2.  Development of preliminary roadmaps:,,"
         },
@@ -14192,7 +14282,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 41777000,
+          "value": 41777,
           "confidence": 0.9,
           "context": "Total\n41,777t\nCo2-e*Total"
         },
@@ -14200,6 +14290,9 @@
           "value": 5237,
           "confidence": 0.9,
           "context": "2% 13%\n2% 5%Less than 1% Less than 1%Construction Materials Construction Materials\nCommercial Real Estate Commercial Real Estate"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -14468,18 +14561,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
+          "value": 0,
           "confidence": 1.0,
           "context": "Scope 1:  0.49 tonnes (<1% of total emissions)"
         },
         "scope_2": {
-          "value": 199500,
+          "value": 200,
           "confidence": 1.0,
           "context": "•Scope 1:  0.49 tonnes (<1% of total emissions)\n•Scope 2:  199.5 tonnes (market based, 2% of\ntotal emissions)",
           "method": "market"
         },
         "scope_3": {
-          "value": 9170500,
+          "value": 9370,
           "confidence": 1.0,
           "context": "total emissions)\n•Scope 3:  9170.5 tonnes (largest contributor at 98% of\ntotal emissions)Our total gross carbon footprint was 9,370.5 tonnes,",
           "qualifiers": "market based"
@@ -14572,18 +14665,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 3415895000,
+          "value": 3415895,
           "confidence": 1.0,
           "context": "Total,\"3,415,895\""
         },
         "scope_2": {
-          "value": 7176997000,
+          "value": 114197,
           "confidence": 1.0,
           "context": "Total GHG emissions (market-based),\"7,176,997\"",
           "method": "market"
         },
         "scope_3": {
-          "value": 3557464000,
+          "value": 3557464,
           "confidence": 1.0,
           "context": "Total,\"3,557,464\"",
           "qualifiers": "market-based"
@@ -14760,6 +14853,9 @@
           "confidence": 1.0,
           "context": ",,,,decarbonisation efforts as the company scales.\nScope 2,\"11,697\",\"9,886\",18%,\nTotal Scope 1,,,,Emissions intensity per restaurant (Australia and US)",
           "method": "location"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {
@@ -14972,14 +15068,17 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 91400,
+          "value": 1772,
           "confidence": 0.9,
           "context": ",,,91.4%,8.6%,,,,100%\n\"AIFR5\nper million hours\",,,gender7,,,,,"
         },
         "scope_2": {
-          "value": 8300,
+          "value": 5590,
           "confidence": 0.9,
           "context": "as total % of office-\",50.89%,Sustain,48.67%,,43.93%\n,,,based employees,,FY24 result8,,,\n\"Significant environmental incidents"
+        },
+        "scope_3": {
+          "value": 0
         }
       },
       "annotations": {

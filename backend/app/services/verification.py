@@ -8,8 +8,8 @@ from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
 
 from fastapi import HTTPException
 
-from src.models import Company
-from src.models import (
+from backend.domain.models import Company
+from backend.domain.models import (
     AnalysisRecord,
     DownloadRecord,
     Scope2Emissions,
@@ -17,14 +17,14 @@ from src.models import (
     ScopeValue,
     SearchRecord,
 )
-from src.s0_stats import STAGE_DEPENDENCIES, reset_company_stages
-from src.utils.documents import (
+from backend.domain.s0_stats import STAGE_DEPENDENCIES, reset_company_stages
+from backend.domain.utils.documents import (
     classify_document_type,
     infer_year_from_text,
     normalise_pdf_url,
 )
-from src.utils.pdf_preview import previews_as_data_urls
-from src.utils.query import derive_filename
+from backend.domain.utils.pdf_preview import previews_as_data_urls
+from backend.domain.utils.query import derive_filename
 
 __all__ = [
     "company_key",

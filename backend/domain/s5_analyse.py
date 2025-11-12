@@ -13,10 +13,10 @@ from typing import Any, Callable, Dict, List, Optional, Tuple
 from openai import OpenAI
 
 
-from src.models import Company
+from backend.domain.models import Company
 
-from src.utils.companies import dump_companies, load_companies
-from src.utils.verification import (
+from backend.domain.utils.companies import dump_companies, load_companies
+from backend.domain.utils.verification import (
     advise_on_failure,
     attach_file_to_vector_store,
     get_or_create_vector_store,

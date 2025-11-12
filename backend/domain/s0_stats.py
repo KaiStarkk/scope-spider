@@ -22,16 +22,16 @@ from typing import (
 
 from pydantic import BaseModel
 
-from src.models import Company, EmissionsData, SearchRecord, VerificationRecord
-from src.utils.companies import dump_companies, load_companies
-from src.utils.documents import (
+from backend.domain.models import Company, EmissionsData, SearchRecord, VerificationRecord
+from backend.domain.utils.companies import dump_companies, load_companies
+from backend.domain.utils.documents import (
     MAX_REPORT_YEAR,
     classify_document_type,
     infer_year_from_text,
 )
-from src.utils.documents import normalise_pdf_url  # type: ignore[attr-defined]
-from src.utils.pdf import extract_pdf_text
-from src.utils.query import derive_filename
+from backend.domain.utils.documents import normalise_pdf_url  # type: ignore[attr-defined]
+from backend.domain.utils.pdf import extract_pdf_text
+from backend.domain.utils.query import derive_filename
 
 
 SCOPE_KEYWORDS = [
@@ -613,7 +613,7 @@ def format_stage_summary(stage_counts: Counter, total: int) -> str:
 def main(argv: list[str]) -> int:
     if len(argv) < 2:
         print(
-            "Usage: python -m src.s0_stats <companies.json> [--write] [--pdf] [--checkyear] "
+            "Usage: python -m backend.domain.s0_stats <companies.json> [--write] [--pdf] [--checkyear] "
             "[--checkscope] [--delete] [--all] [--failed-analysis] [--reset[=STAGE[,STAGE...]]]",
             file=sys.stderr,
         )

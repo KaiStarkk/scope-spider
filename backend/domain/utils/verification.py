@@ -10,14 +10,14 @@ from openai import OpenAI
 from pydantic import BaseModel, Field
 
 from rapidfuzz import fuzz
-from src.models import (
+from backend.domain.models import (
     AnalysisRecord,
     Company,
     Scope2Emissions,
     Scope3Emissions,
     ScopeValue,
 )
-from src.utils.pdf_preview import ensure_page_previews
+from backend.domain.utils.pdf_preview import ensure_page_previews
 
 
 class ParsedResult(BaseModel):

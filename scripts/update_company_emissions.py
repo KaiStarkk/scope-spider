@@ -14,6 +14,7 @@ from typing import Dict, List, Optional, Tuple
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DEFAULT_COMPANIES_PATH = ROOT_DIR / "companies.json"
 DEFAULT_INPUT_PATH = ROOT_DIR / "authoritative_company_emissions.json"
+DEFAULT_SECONDARY_INPUT_PATH = ROOT_DIR / "authoritative_company_emissions_tickers.json"
 
 
 @dataclass
@@ -36,9 +37,13 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--input-path",
+        action="append",
+        dest="input_paths",
         type=Path,
-        default=DEFAULT_INPUT_PATH,
-        help="Path to the authoritative company emissions JSON (default: %(default)s).",
+        help=(
+            "Path to an authoritative company emissions JSON payload. "
+            "May be provided multiple times."
+        ),
     )
     parser.add_argument(
         "--apply",
@@ -113,7 +118,9 @@ def extract_ticker_hint(company_name: str) -> Optional[str]:
     return ticker or None
 
 
-def build_indexes(companies: List[Dict]) -> Tuple[Dict[str, List[int]], Dict[str, List[int]]]:
+def build_indexes(
+    companies: List[Dict],
+) -> Tuple[Dict[str, List[int]], Dict[str, List[int]]]:
     by_name: Dict[str, List[int]] = {}
     by_ticker: Dict[str, List[int]] = {}
     for index, company in enumerate(companies):
@@ -144,20 +151,28 @@ def resolve_company_index(
         ticker_matches = by_ticker.get(ticker_upper, [])
         if len(ticker_matches) == 1:
             idx = ticker_matches[0]
-            return MatchResult(name=company_name, ticker=ticker_upper, index=idx, reason="ticker")
+            return MatchResult(
+                name=company_name, ticker=ticker_upper, index=idx, reason="ticker"
+            )
         if len(ticker_matches) > 1:
             candidates.extend(
-                MatchResult(name=company_name, ticker=ticker_upper, index=idx, reason="ticker")
+                MatchResult(
+                    name=company_name, ticker=ticker_upper, index=idx, reason="ticker"
+                )
                 for idx in ticker_matches
             )
 
     exact_matches = by_name.get(norm_name, [])
     if len(exact_matches) == 1:
         idx = exact_matches[0]
-        return MatchResult(name=company_name, ticker=None, index=idx, reason="normalised-name")
+        return MatchResult(
+            name=company_name, ticker=None, index=idx, reason="normalised-name"
+        )
     if len(exact_matches) > 1:
         candidates.extend(
-            MatchResult(name=company_name, ticker=None, index=idx, reason="normalised-name")
+            MatchResult(
+                name=company_name, ticker=None, index=idx, reason="normalised-name"
+            )
             for idx in exact_matches
         )
 
@@ -167,7 +182,12 @@ def resolve_company_index(
         for candidate_name in close:
             for idx in by_name.get(candidate_name, []):
                 candidates.append(
-                    MatchResult(name=company_name, ticker=None, index=idx, reason=f"fuzzy({candidate_name})")
+                    MatchResult(
+                        name=company_name,
+                        ticker=None,
+                        index=idx,
+                        reason=f"fuzzy({candidate_name})",
+                    )
                 )
 
     if len(candidates) == 1:
@@ -187,6 +207,88 @@ def resolve_company_index(
     return None
 
 
+def coerce_emission_value(raw_value: object) -> int:
+    if isinstance(raw_value, bool):
+        raise ValueError("Boolean values are not valid emission totals.")
+    if isinstance(raw_value, (int, float)):
+        return int(round(raw_value))
+    if isinstance(raw_value, str):
+        trimmed = raw_value.strip()
+        if not trimmed:
+            raise ValueError("Empty string is not a valid emission total.")
+        normalised = trimmed.replace(",", "")
+        try:
+            parsed = float(normalised)
+        except ValueError as exc:  # noqa: B904
+            raise ValueError(f"Could not parse emission value: {raw_value!r}") from exc
+        return int(round(parsed))
+    raise TypeError(f"Unsupported emission value type: {type(raw_value).__name__}")
+
+
+def normalise_entry_from_list(entry: Dict, source: Path) -> Dict:
+    normalised = dict(entry)
+    normalised.setdefault("_source", str(source))
+    if "ticker" not in normalised and "company_name" in normalised:
+        candidate = normalised["company_name"]
+        if isinstance(candidate, str) and re.fullmatch(
+            r"[A-Za-z0-9]+", candidate.strip()
+        ):
+            normalised["ticker"] = candidate.strip().upper()
+    return normalised
+
+
+def normalise_entries_from_mapping(
+    payload: Dict, source: Path
+) -> Tuple[List[Dict], List[str]]:
+    entries: List[Dict] = []
+    warnings: List[str] = []
+    for ticker, content in payload.items():
+        if not isinstance(content, Dict):
+            warnings.append(f"Skipped malformed entry for {ticker} in {source}")
+            continue
+        emissions = content.get("emissions")
+        if emissions is None:
+            emissions = {
+                key: value for key, value in content.items() if key.startswith("scope_")
+            }
+        if not isinstance(emissions, Dict):
+            warnings.append(f"Invalid emissions object for {ticker} in {source}")
+            continue
+        entry = {
+            "company_name": content.get("company_name") or ticker,
+            "ticker": content.get("ticker") or ticker,
+            "emissions": emissions,
+            "_source": str(source),
+        }
+        entries.append(entry)
+    return entries, warnings
+
+
+def load_authoritative_entries(paths: List[Path]) -> Tuple[List[Dict], List[str]]:
+    collected: List[Dict] = []
+    warnings: List[str] = []
+    for path in paths:
+        data = read_json(path)
+        if isinstance(data, Dict) and "company_emissions" in data:
+            company_emissions = data["company_emissions"]
+            if not isinstance(company_emissions, list):
+                raise ValueError(
+                    f"authoritative payload in {path} must contain a 'company_emissions' list."
+                )
+            for entry in company_emissions:
+                if not isinstance(entry, Dict):
+                    warnings.append(f"Skipped malformed list entry in {path}")
+                    continue
+                collected.append(normalise_entry_from_list(entry, path))
+        elif isinstance(data, Dict):
+            entries, local_warnings = normalise_entries_from_mapping(data, path)
+            collected.extend(entries)
+            warnings.extend(local_warnings)
+        else:
+            raise ValueError(f"Unsupported authoritative payload format in {path}")
+    return collected, warnings
+
+
 def update_scope(scope_data: Optional[Dict], new_value: int) -> Dict:
     if scope_data is None:
         return {"value": int(new_value)}
@@ -197,16 +299,12 @@ def update_scope(scope_data: Optional[Dict], new_value: int) -> Dict:
 
 def apply_updates(
     companies_payload: Dict,
-    authoritative_data: Dict,
+    entries: List[Dict],
     cutoff: float,
 ) -> Tuple[List[Dict], List[str]]:
     companies = companies_payload.get("companies")
     if not isinstance(companies, list):
         raise ValueError("companies.json payload must contain a 'companies' list.")
-
-    entries = authoritative_data.get("company_emissions") or []
-    if not isinstance(entries, list):
-        raise ValueError("authoritative payload must contain a 'company_emissions' list.")
 
     by_name, by_ticker = build_indexes(companies)
     updates: List[Dict] = []
@@ -217,10 +315,20 @@ def apply_updates(
         if not company_name:
             warnings.append("Skipped entry with missing company_name.")
             continue
-        ticker_hint = extract_ticker_hint(company_name)
-        match = resolve_company_index(company_name, ticker_hint, by_name, by_ticker, cutoff)
+        source = entry.get("_source", "<unknown>")
+        explicit_ticker = entry.get("ticker")
+        ticker_hint = explicit_ticker or extract_ticker_hint(company_name)
+        if not ticker_hint:
+            stripped_name = company_name.strip()
+            if re.fullmatch(r"[A-Z0-9]+", stripped_name):
+                ticker_hint = stripped_name
+        match = resolve_company_index(
+            company_name, ticker_hint, by_name, by_ticker, cutoff
+        )
         if match is None:
-            warnings.append(f"Could not locate company in source dataset: {company_name}")
+            warnings.append(
+                f"Could not locate company in source dataset: {company_name} (source: {source})"
+            )
             continue
 
         company = companies[match.index]
@@ -228,13 +336,16 @@ def apply_updates(
         emissions = company.setdefault("emissions", {})
         new_emissions = entry.get("emissions") or {}
         if not isinstance(new_emissions, dict):
-            warnings.append(f"Invalid emissions payload for {company_name}; expected an object.")
+            warnings.append(
+                f"Invalid emissions payload for {company_name}; expected an object. (source: {source})"
+            )
             continue
 
         update_record = {
             "company_name": identity.get("name"),
             "ticker": identity.get("ticker"),
             "matched_via": match.reason,
+            "source": source,
             "changes": {},
         }
 
@@ -242,17 +353,30 @@ def apply_updates(
             scope_values = new_emissions.get(scope_key) or {}
             if not isinstance(scope_values, dict):
                 warnings.append(
-                    f"Invalid {scope_key} structure for {company_name}; expected an object with 'value'."
+                    f"Invalid {scope_key} structure for {company_name}; expected an object with 'value'. (source: {source})"
                 )
                 continue
             if "value" not in scope_values:
                 continue
             previous_scope = emissions.get(scope_key)
-            previous_value = previous_scope.get("value") if isinstance(previous_scope, dict) else None
-            new_value = int(scope_values["value"])
+            previous_value = (
+                previous_scope.get("value")
+                if isinstance(previous_scope, dict)
+                else None
+            )
+            try:
+                new_value = coerce_emission_value(scope_values["value"])
+            except (TypeError, ValueError) as exc:
+                warnings.append(
+                    f"Invalid {scope_key}.value for {company_name} (source: {source}): {exc}"
+                )
+                continue
             if previous_value == new_value:
                 continue
-            emissions[scope_key] = update_scope(previous_scope if isinstance(previous_scope, dict) else None, new_value)
+            emissions[scope_key] = update_scope(
+                previous_scope if isinstance(previous_scope, dict) else None,
+                new_value,
+            )
             update_record["changes"][scope_key] = {
                 "from": previous_value,
                 "to": new_value,
@@ -266,14 +390,27 @@ def apply_updates(
 
 def main() -> int:
     args = parse_args()
+    input_paths = args.input_paths
+    if input_paths:
+        resolved_paths = input_paths
+    else:
+        resolved_paths = [DEFAULT_INPUT_PATH]
+        if DEFAULT_SECONDARY_INPUT_PATH.exists():
+            resolved_paths.append(DEFAULT_SECONDARY_INPUT_PATH)
     try:
         companies_payload = read_json(args.companies_path)
-        authoritative_data = read_json(args.input_path)
-    except Exception as exc:  # noqa: BLE001
+        authoritative_entries, load_warnings = load_authoritative_entries(
+            resolved_paths
+        )
+    except (FileNotFoundError, json.JSONDecodeError, ValueError) as exc:
         print(f"[error] {exc}", file=sys.stderr)
         return 1
 
-    updates, warnings = apply_updates(companies_payload, authoritative_data, args.cutoff)
+    updates, apply_warnings = apply_updates(
+        companies_payload, authoritative_entries, args.cutoff
+    )
+
+    warnings = [*load_warnings, *apply_warnings]
 
     if warnings:
         for warning in warnings:
@@ -284,19 +421,27 @@ def main() -> int:
             company_name = update["company_name"]
             ticker = update["ticker"] or "N/A"
             matched_via = update["matched_via"]
-            print(f"[update] {company_name} ({ticker}) via {matched_via}")
+            source = update.get("source", "<unknown>")
+            print(
+                f"[update] {company_name} ({ticker}) via {matched_via} (source: {source})"
+            )
             for scope_key, change in update["changes"].items():
                 print(f"  - {scope_key}: {change['from']} -> {change['to']}")
     else:
         print("[info] No changes required (all values already up-to-date).")
 
     if args.apply and updates:
-        args.companies_path.write_text(json.dumps(companies_payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        args.companies_path.write_text(
+            json.dumps(companies_payload, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
         print(f"[info] Wrote updates to {args.companies_path}")
     elif args.apply:
         print("[info] No updates were applied because no changes were detected.")
     else:
-        print("[info] Dry-run mode: no files were modified. Use --apply to persist changes.")
+        print(
+            "[info] Dry-run mode: no files were modified. Use --apply to persist changes."
+        )
 
     return 0
 

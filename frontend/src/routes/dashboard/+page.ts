@@ -1,12 +1,38 @@
 import { error } from '@sveltejs/kit';
 
+type StageSummary = {
+	total: number;
+	searched: number;
+	downloaded: number;
+	extracted: number;
+	analysed: number;
+	verified: number;
+};
+
 type DashboardResponse = {
 	companies: unknown[];
-	stats: { total: number; verified: number; pending: number };
+	stats: {
+		total: number;
+		searched: number;
+		downloaded: number;
+		extracted: number;
+		analysed: number;
+		verified: number;
+		pending: number;
+		stages: StageSummary;
+	};
 	metadata: Record<string, unknown>;
 };
 
-type MetricsResponse = Record<string, unknown>;
+type MetricsResponse = {
+	summary: {
+		total_companies: number;
+		filtered_companies: number;
+		stages: StageSummary;
+		filtered_stages: StageSummary;
+	};
+	[key: string]: unknown;
+};
 
 export const load = async ({ fetch }) => {
 	const [companiesRes, metricsRes] = await Promise.all([

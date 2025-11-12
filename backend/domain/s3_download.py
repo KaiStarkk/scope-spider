@@ -3,17 +3,17 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import List, Tuple
 
-from src.models import Company, DownloadRecord
-from src.utils.companies import dump_companies, load_companies
-from src.utils.documents import normalise_pdf_url
-from src.utils.downloads import (
+from backend.domain.models import Company, DownloadRecord
+from backend.domain.utils.companies import dump_companies, load_companies
+from backend.domain.utils.documents import normalise_pdf_url
+from backend.domain.utils.downloads import (
     DownloadError,
     download_pdf,
     find_existing_download,
     hash_url,
     safe_filename_from_url,
 )
-from src.utils.status import needs_download
+from backend.domain.utils.status import needs_download
 
 
 DEFAULT_DOWNLOAD_DIR = Path("downloads")

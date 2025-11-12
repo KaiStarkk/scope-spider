@@ -7,17 +7,17 @@ from pathlib import Path
 from typing import Literal, Optional
 
 from openai import OpenAI
-from src.models import Company, DownloadRecord, SearchRecord
-from src.utils.companies import dump_companies, load_companies
-from src.utils.documents import classify_document_type, infer_year_from_text
-from src.utils.query import derive_filename
-from src.utils.search_workflow import (
+from backend.domain.models import Company, DownloadRecord, SearchRecord
+from backend.domain.utils.companies import dump_companies, load_companies
+from backend.domain.utils.documents import classify_document_type, infer_year_from_text
+from backend.domain.utils.query import derive_filename
+from backend.domain.utils.search_workflow import (
     get_unsearched_companies,
     parse_search_args,
     process_company,
     SearchArgs,
 )
-from src.utils.downloads import find_existing_download
+from backend.domain.utils.downloads import find_existing_download
 
 DEFAULT_DOWNLOAD_DIR = Path("downloads")
 

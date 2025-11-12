@@ -11,9 +11,9 @@ import pandas as pd
 from pydantic import BaseModel, Field
 from openai import OpenAI
 
-from src.models import Annotations, Company
-from src.utils.companies import dump_companies, load_companies
-from src.utils.verification import _clean_json_response  # type: ignore[attr-defined]
+from backend.domain.models import Annotations, Company
+from backend.domain.utils.companies import dump_companies, load_companies
+from backend.domain.utils.verification import _clean_json_response  # type: ignore[attr-defined]
 
 if TYPE_CHECKING:  # pragma: no cover
     from llama_cpp import Llama

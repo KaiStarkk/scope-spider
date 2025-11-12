@@ -18,7 +18,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-from src.models import (
+from backend.domain.models import (
     AnalysisRecord,
     Company,
     DownloadRecord,
@@ -27,15 +27,15 @@ from src.models import (
     ScopeValue,
     SearchRecord,
 )
-from src.utils.companies import dump_companies, load_companies
-from src.utils.pdf_preview import previews_as_data_urls
-from src.utils.documents import (
+from backend.domain.utils.companies import dump_companies, load_companies
+from backend.domain.utils.pdf_preview import previews_as_data_urls
+from backend.domain.utils.documents import (
     classify_document_type,
     infer_year_from_text,
     normalise_pdf_url,
 )
-from src.utils.query import derive_filename
-from src.s0_stats import reset_company_stages, STAGE_DEPENDENCIES
+from backend.domain.utils.query import derive_filename
+from backend.domain.s0_stats import reset_company_stages, STAGE_DEPENDENCIES
 
 
 def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:

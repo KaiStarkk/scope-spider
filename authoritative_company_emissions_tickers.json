@@ -1,0 +1,922 @@
+{
+  "IEL": {
+    "emissions": {
+      "scope_1": {
+        "value": 4
+      },
+      "scope_2": {
+        "value": 5589
+      },
+      "scope_3": {
+        "value": 49153
+      }
+    }
+  },
+  "IGO": {
+    "emissions": {
+      "scope_1": {
+        "value": 65861.0
+      },
+      "scope_2": {
+        "value": 3691.9
+      },
+      "scope_3": {
+        "value": 205624.7
+      }
+    }
+  },
+  "IMD": {
+    "emissions": {
+      "scope_1": {
+        "value": 2006
+      },
+      "scope_2": {
+        "value": 825
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "INA": {
+    "emissions": {
+      "scope_1": {
+        "value": 1409
+      },
+      "scope_2": {
+        "value": 12755
+      },
+      "scope_3": {
+        "value": 7521
+      }
+    }
+  },
+  "ING": {
+    "emissions": {
+      "scope_1": {
+        "value": 55812
+      },
+      "scope_2": {
+        "value": 128861
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "IPH": {
+    "emissions": {
+      "scope_1": {
+        "value": 0.05
+      },
+      "scope_2": {
+        "value": 572.46
+      },
+      "scope_3": {
+        "value": 11103.05
+      }
+    }
+  },
+  "IRE": {
+    "emissions": {
+      "scope_1": {
+        "value": 47
+      },
+      "scope_2": {
+        "value": 688
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "IREN": {
+    "emissions": {
+      "scope_1": {
+        "value": 3415895
+      },
+      "scope_2": {
+        "value": 114197
+      },
+      "scope_3": {
+        "value": 3557464
+      }
+    }
+  },
+  "KAR": {
+    "emissions": {
+      "scope_1": {
+        "value": 127937
+      },
+      "scope_2": {
+        "value": 59
+      },
+      "scope_3": {
+        "value": 4651475
+      }
+    }
+  },
+  "KLS": {
+    "emissions": {
+      "scope_1": {
+        "value": 358749
+      },
+      "scope_2": {
+        "value": 15765
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "LIC": {
+    "emissions": {
+      "scope_1": {
+        "value": 371
+      },
+      "scope_2": {
+        "value": 3436
+      },
+      "scope_3": {
+        "value": 11489
+      }
+    }
+  },
+  "LTR": {
+    "emissions": {
+      "scope_1": {
+        "value": 35822.02
+      },
+      "scope_2": {
+        "value": 9276.4
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "LYC": {
+    "emissions": {
+      "scope_1": {
+        "value": 80809
+      },
+      "scope_2": {
+        "value": 68566
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "MAH": {
+    "emissions": {
+      "scope_1": {
+        "value": 9301
+      },
+      "scope_2": {
+        "value": 3203
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "MGH": {
+    "emissions": {
+      "scope_1": {
+        "value": 41777
+      },
+      "scope_2": {
+        "value": 5237
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "MGR": {
+    "emissions": {
+      "scope_1": {
+        "value": 6618
+      },
+      "scope_2": {
+        "value": 73110
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "MHJ": {
+    "emissions": {
+      "scope_1": {
+        "value": 26
+      },
+      "scope_2": {
+        "value": 2390
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "MMS": {
+    "emissions": {
+      "scope_1": {
+        "value": 259
+      },
+      "scope_2": {
+        "value": 591
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "MPL": {
+    "emissions": {
+      "scope_1": {
+        "value": 57.9
+      },
+      "scope_2": {
+        "value": 1532.3
+      },
+      "scope_3": {
+        "value": 30810.5
+      }
+    }
+  },
+  "MTS": {
+    "emissions": {
+      "scope_1": {
+        "value": 13225
+      },
+      "scope_2": {
+        "value": 60434
+      },
+      "scope_3": {
+        "value": 1158193
+      }
+    }
+  },
+  "NEC": {
+    "emissions": {
+      "scope_1": {
+        "value": 1573
+      },
+      "scope_2": {
+        "value": 14784
+      },
+      "scope_3": {
+        "value": 473826
+      }
+    }
+  },
+  "NHC": {
+    "emissions": {
+      "scope_1": {
+        "value": 640535
+      },
+      "scope_2": {
+        "value": 57783
+      },
+      "scope_3": {
+        "value": 32800000
+      }
+    }
+  },
+  "NHF": {
+    "emissions": {
+      "scope_1": {
+        "value": 27.1
+      },
+      "scope_2": {
+        "value": 182.3
+      },
+      "scope_3": {
+        "value": 14660.8
+      }
+    }
+  },
+  "NIC": {
+    "emissions": {
+      "scope_1": {
+        "value": 2934253
+      },
+      "scope_2": {
+        "value": 3710248
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "NSR": {
+    "emissions": {
+      "scope_1": {
+        "value": 483.9
+      },
+      "scope_2": {
+        "value": 7890.1
+      },
+      "scope_3": {
+        "value": 19306.0
+      }
+    }
+  },
+  "NUF": {
+    "emissions": {
+      "scope_1": {
+        "value": 38043
+      },
+      "scope_2": {
+        "value": 18628
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "NXT": {
+    "emissions": {
+      "scope_1": {
+        "value": 7927
+      },
+      "scope_2": {
+        "value": 358348
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "ORA": {
+    "emissions": {
+      "scope_1": {
+        "value": 415000
+      },
+      "scope_2": {
+        "value": 121000
+      },
+      "scope_3": {
+        "value": 771317
+      }
+    }
+  },
+  "ORG": {
+    "emissions": {
+      "scope_1": {
+        "value": 16044000
+      },
+      "scope_2": {
+        "value": 876000
+      },
+      "scope_3": {
+        "value": 28135000
+      }
+    }
+  },
+  "PGH": {
+    "emissions": {
+      "scope_1": {
+        "value": 17692
+      },
+      "scope_2": {
+        "value": 222536
+      },
+      "scope_3": {
+        "value": 851442
+      }
+    }
+  },
+  "PPT": {
+    "emissions": {
+      "scope_1": {
+        "value": 50
+      },
+      "scope_2": {
+        "value": 1310
+      },
+      "scope_3": {
+        "value": 15312
+      }
+    }
+  },
+  "PRN": {
+    "emissions": {
+      "scope_1": {
+        "value": 2004
+      },
+      "scope_2": {
+        "value": 2969
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "PXA": {
+    "emissions": {
+      "scope_1": {
+        "value": 0.49
+      },
+      "scope_2": {
+        "value": 199.5
+      },
+      "scope_3": {
+        "value": 9370.5
+      }
+    }
+  },
+  "QUB": {
+    "emissions": {
+      "scope_1": {
+        "value": 414891
+      },
+      "scope_2": {
+        "value": 22561
+      },
+      "scope_3": {
+        "value": 113000
+      }
+    }
+  },
+  "RDX": {
+    "emissions": {
+      "scope_1": {
+        "value": 474.82
+      },
+      "scope_2": {
+        "value": 1322.73
+      },
+      "scope_3": {
+        "value": 178939.51
+      }
+    }
+  },
+  "REG": {
+    "emissions": {
+      "scope_1": {
+        "value": 5587.24
+      },
+      "scope_2": {
+        "value": 31756.18
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "REH": {
+    "emissions": {
+      "scope_1": {
+        "value": 39623
+      },
+      "scope_2": {
+        "value": 26299
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "RIC": {
+    "emissions": {
+      "scope_1": {
+        "value": 57081
+      },
+      "scope_2": {
+        "value": 50977
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "RMS": {
+    "emissions": {
+      "scope_1": {
+        "value": 103087
+      },
+      "scope_2": {
+        "value": 19668
+      },
+      "scope_3": {
+        "value": 166131
+      }
+    }
+  },
+  "RRL": {
+    "emissions": {
+      "scope_1": {
+        "value": 206313
+      },
+      "scope_2": {
+        "value": 55.8
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "RSG": {
+    "emissions": {
+      "scope_1": {
+        "value": 300920
+      },
+      "scope_2": {
+        "value": 34
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "S32": {
+    "emissions": {
+      "scope_1": {
+        "value": 7400000
+      },
+      "scope_2": {
+        "value": 17300000
+      },
+      "scope_3": {
+        "value": 22700000
+      }
+    }
+  },
+  "SCG": {
+    "emissions": {
+      "scope_1": {
+        "value": 10211
+      },
+      "scope_2": {
+        "value": 175110
+      },
+      "scope_3": {
+        "value": 72655
+      }
+    }
+  },
+  "SDF": {
+    "emissions": {
+      "scope_1": {
+        "value": 538
+      },
+      "scope_2": {
+        "value": 1534
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "SFR": {
+    "emissions": {
+      "scope_1": {
+        "value": 127075
+      },
+      "scope_2": {
+        "value": 207796
+      },
+      "scope_3": {
+        "value": 718487
+      }
+    }
+  },
+  "CDC": {
+    "emissions": {
+      "scope_1": {
+        "value": 929
+      },
+      "scope_2": {
+        "value": 78601
+      },
+      "scope_3": {
+        "value": 0
+      }
+    }
+  },
+  "SGH": {
+    "company_name": "SGH Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 1170000
+      },
+      "scope_2": {
+        "value": 258000
+      },
+      "scope_3": {
+        "context": "Data not explicitly stated for SGH total emissions"
+      }
+    }
+  },
+  "SGP": {
+    "company_name": "Stockland",
+    "emissions": {
+      "scope_1": {
+        "value": 2155
+      },
+      "scope_2": {
+        "value": 32121
+      },
+      "scope_3": {
+        "context": "Data not explicitly quantified in absolute tCO2e"
+      }
+    }
+  },
+  "SHV": {
+    "company_name": "Select Harvests Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 54601
+      },
+      "scope_2": {
+        "value": 40762
+      },
+      "scope_3": {
+        "value": 45855
+      }
+    }
+  },
+  "SIQ": {
+    "company_name": "Smartgroup Corp. Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 97.62
+      },
+      "scope_2": {
+        "value": 50.91
+      },
+      "scope_3": {
+        "value": 10815.46
+      }
+    }
+  },
+  "SMR": {
+    "company_name": "Stanmore Resources Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 582483
+      },
+      "scope_2": {
+        "value": 114865
+      },
+      "scope_3": {
+        "context": "Data not reported in line with NGER scheme"
+      }
+    }
+  },
+  "SUN": {
+    "company_name": "Suncorp Group Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 1245
+      },
+      "scope_2": {
+        "value": 718
+      },
+      "scope_3": {
+        "value": 17964
+      }
+    }
+  },
+  "SWM": {
+    "company_name": "Seven West Media Ltd.",
+    "emissions": {
+      "scope_1": {
+        "context": "Data not explicitly available in tCO2e"
+      },
+      "scope_2": {
+        "context": "Data not explicitly available in tCO2e"
+      },
+      "scope_3": {
+        "context": "Data not explicitly available"
+      }
+    }
+  },
+  "SYR": {
+    "company_name": "Syrah Resources Ltd.",
+    "emissions": {
+      "scope_1": {
+        "context": "Not specified individually (Scope 1 + 2 total is 4,955 tCO2e)"
+      },
+      "scope_2": {
+        "context": "Not specified individually (Scope 1 + 2 total is 4,955 tCO2e)"
+      },
+      "scope_3": {
+        "context": "Data not reported"
+      }
+    }
+  },
+  "TAH": {
+    "company_name": "Tabcorp Holdings Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 3108
+      },
+      "scope_2": {
+        "value": 11493
+      },
+      "scope_3": {
+        "value": 57223
+      }
+    }
+  },
+  "TLC": {
+    "company_name": "The Lottery Corp. Ltd.",
+    "emissions": {
+      "scope_1": {
+        "context": "Not specified individually (Scope 1 + 2 total is 932 tCO2e)"
+      },
+      "scope_2": {
+        "context": "Not specified individually (Scope 1 + 2 total is 932 tCO2e)"
+      },
+      "scope_3": {
+        "value": 39787
+      }
+    }
+  },
+  "TPG": {
+    "company_name": "TPG Telecom Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 2800
+      },
+      "scope_2": {
+        "value": 226000
+      },
+      "scope_3": {
+        "value": 1235200
+      }
+    }
+  },
+  "TWE": {
+    "company_name": "Treasury Wine Estates Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 21500
+      },
+      "scope_2": {
+        "value": 0
+      },
+      "scope_3": {
+        "value": 351000
+      }
+    }
+  },
+  "VCX": {
+    "company_name": "Vicinity Centres",
+    "emissions": {
+      "scope_1": {
+        "value": 5516
+      },
+      "scope_2": {
+        "value": 108143
+      },
+      "scope_3": {
+        "value": 204469
+      }
+    }
+  },
+  "VEA": {
+    "company_name": "Viva Energy Group Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 997508
+      },
+      "scope_2": {
+        "value": 301675
+      },
+      "scope_3": {
+        "value": 45672353
+      }
+    }
+  },
+  "WAF": {
+    "company_name": "West African Resources Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 168660
+      },
+      "scope_2": {
+        "value": 132.8
+      },
+      "scope_3": {
+        "value": 207946
+      }
+    }
+  },
+  "WDS": {
+    "company_name": "Woodside Energy Group Ltd.",
+    "emissions": {
+      "scope_1": {
+        "context": "Not specified individually (Scope 1 + 2 total is 6,784,000 tCO2e)"
+      },
+      "scope_2": {
+        "context": "Not specified individually (Scope 1 + 2 total is 6,784,000 tCO2e)"
+      },
+      "scope_3": {
+        "context": "Data not reported in absolute tCO2e"
+      }
+    }
+  },
+  "WEB": {
+    "company_name": "WEB Travel Group Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 28.53
+      },
+      "scope_2": {
+        "value": 939.74
+      },
+      "scope_3": {
+        "value": 648559
+      }
+    }
+  },
+  "WES": {
+    "company_name": "Wesfarmers Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 789700
+      },
+      "scope_2": {
+        "value": 236900
+      },
+      "scope_3": {
+        "value": 30500000
+      }
+    }
+  },
+  "WGX": {
+    "company_name": "Westgold Resources Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 144964
+      },
+      "scope_2": {
+        "value": 883
+      },
+      "scope_3": {
+        "context": "Data not reported"
+      }
+    }
+  },
+  "WHC": {
+    "company_name": "Whitehaven Coal Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 1958000
+      },
+      "scope_2": {
+        "value": 271000
+      },
+      "scope_3": {
+        "context": "Data not reported"
+      }
+    }
+  },
+  "WOR": {
+    "company_name": "Worley Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 24485
+      },
+      "scope_2": {
+        "value": 6524
+      },
+      "scope_3": {
+        "value": 1317095
+      }
+    }
+  },
+  "WOW": {
+    "company_name": "Woolworths Group Ltd.",
+    "emissions": {
+      "scope_1": {
+        "context": "F25 absolute data not explicitly available in tCO2e"
+      },
+      "scope_2": {
+        "context": "F25 absolute data not explicitly available in tCO2e"
+      },
+      "scope_3": {
+        "context": "F25 absolute data not explicitly available in tCO2e"
+      }
+    }
+  },
+  "YAL": {
+    "company_name": "Yancoal Australia Ltd.",
+    "emissions": {
+      "scope_1": {
+        "value": 1819649
+      },
+      "scope_2": {
+        "value": 266753
+      },
+      "scope_3": {
+        "context": "Data not reported"
+      }
+    }
+  }
+}

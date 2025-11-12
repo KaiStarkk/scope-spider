@@ -6,8 +6,8 @@ from typing import Callable, Dict, List, Tuple, TypeVar
 
 from fastapi import HTTPException
 
-from src.models import Company
-from src.utils.companies import dump_companies, load_companies
+from backend.domain.models import Company
+from backend.domain.utils.companies import dump_companies, load_companies
 
 
 T = TypeVar("T")

@@ -3,8 +3,8 @@ from pathlib import Path
 
 from pydantic import ValidationError
 
-from src.utils.companies import dump_companies, load_companies
-from src.utils.excel import extract_companies_from_workbook
+from backend.domain.utils.companies import dump_companies, load_companies
+from backend.domain.utils.excel import extract_companies_from_workbook
 
 HEADER_ROW_INDEX = 3
 TICKER_COL_INDEX = 0

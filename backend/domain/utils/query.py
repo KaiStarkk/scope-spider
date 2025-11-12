@@ -7,7 +7,7 @@ from textwrap import dedent
 from typing import Callable, Literal, cast
 from urllib.parse import urlparse
 
-from src.utils.documents import (
+from backend.domain.utils.documents import (
     classify_document_type,
     infer_year_from_text,
     normalise_pdf_url,

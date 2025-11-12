@@ -5,7 +5,7 @@ from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
 
 import pandas as pd
 
-from src.models import Company
+from backend.domain.models import Company
 
 
 def companies_to_dataframe(companies: Sequence[Company]) -> pd.DataFrame:
@@ -132,11 +132,67 @@ def _records(df: pd.DataFrame, columns: Iterable[str]) -> List[Dict[str, Any]]:
     return subset.to_dict(orient="records")
 
 
+def company_stage_summary(companies: Sequence[Company]) -> Dict[str, int]:
+    total = len(companies)
+    searched = sum(1 for company in companies if company.search_record is not None)
+    downloaded = sum(
+        1
+        for company in companies
+        if company.download_record and company.download_record.pdf_path
+    )
+    extracted = sum(1 for company in companies if company.extraction_record is not None)
+    analysed = sum(1 for company in companies if company.analysis_record is not None)
+    verified = sum(
+        1
+        for company in companies
+        if company.verification and company.verification.status == "accepted"
+    )
+    return {
+        "total": total,
+        "searched": searched,
+        "downloaded": downloaded,
+        "extracted": extracted,
+        "analysed": analysed,
+        "verified": verified,
+    }
+
+
+def _match_filtered_companies(
+    companies: Sequence[Company], filtered_df: pd.DataFrame
+) -> List[Company]:
+    if filtered_df.empty:
+        return []
+    ticker_values = {
+        str(value).strip().upper()
+        for value in filtered_df["ticker"].dropna().unique()
+        if str(value).strip()
+    }
+    name_values = {
+        str(value).strip().lower()
+        for value in filtered_df["name"].dropna().unique()
+        if str(value).strip()
+    }
+    if not ticker_values and not name_values:
+        return []
+    matched: List[Company] = []
+    for company in companies:
+        ticker = (company.identity.ticker or "").strip().upper()
+        name = (company.identity.name or "").strip().lower()
+        if ticker and ticker in ticker_values:
+            matched.append(company)
+            continue
+        if name and name in name_values:
+            matched.append(company)
+    return matched
+
+
 def build_dashboard_metrics(
     companies: Sequence[Company],
     filters: DashboardFilters,
 ) -> Dict[str, Any]:
     df = companies_to_dataframe(companies)
+
+    overall_stages = company_stage_summary(companies)
 
     response: Dict[str, Any] = {
         "filters": {
@@ -161,6 +217,15 @@ def build_dashboard_metrics(
         "summary": {
             "total_companies": len(df),
             "filtered_companies": 0,
+            "stages": overall_stages,
+            "filtered_stages": {
+                "total": 0,
+                "searched": 0,
+                "downloaded": 0,
+                "extracted": 0,
+                "analysed": 0,
+                "verified": 0,
+            },
         },
     }
 
@@ -170,7 +235,7 @@ def build_dashboard_metrics(
                 "scatter": {},
                 "top_revenue": [],
                 "scope_averages": [],
-                "group_matrix": {"rows": [], "columns": [], "counts": [], "emissions": []},
+                "group_matrix": {"rows": [], "columns": [], "cells": []},
                 "table": [],
             }
         )
@@ -178,6 +243,8 @@ def build_dashboard_metrics(
 
     filtered = _apply_filters(df, filters)
     response["summary"]["filtered_companies"] = len(filtered)
+    filtered_companies = _match_filtered_companies(companies, filtered)
+    response["summary"]["filtered_stages"] = company_stage_summary(filtered_companies)
 
     if filtered.empty:
         response.update(
@@ -185,7 +252,7 @@ def build_dashboard_metrics(
                 "scatter": {},
                 "top_revenue": [],
                 "scope_averages": [],
-                "group_matrix": {"rows": [], "columns": [], "counts": [], "emissions": []},
+                "group_matrix": {"rows": [], "columns": [], "cells": []},
                 "table": [],
             }
         )
@@ -274,15 +341,35 @@ def build_dashboard_metrics(
     )
 
     if pivot_counts.empty or pivot_emissions.empty:
-        group_matrix = {"rows": [], "columns": [], "counts": [], "emissions": []}
+        group_matrix = {"rows": [], "columns": [], "cells": []}
     else:
         pivot_counts = pivot_counts.sort_index().sort_index(axis=1)
         pivot_emissions = pivot_emissions.reindex(index=pivot_counts.index, columns=pivot_counts.columns).fillna(0.0)
+        rows = []
+        for group in pivot_counts.index:
+            cells = []
+            for industry in pivot_counts.columns:
+                cells.append(
+                    {
+                        "industry": industry,
+                        "count": int(pivot_counts.loc[group, industry]),
+                        "emissions": float(pivot_emissions.loc[group, industry]),
+                    }
+                )
+            rows.append({"group": group, "cells": cells})
         group_matrix = {
-            "rows": list(pivot_counts.index),
+            "rows": rows,
             "columns": list(pivot_counts.columns),
-            "counts": pivot_counts.astype(int).values.tolist(),
-            "emissions": pivot_emissions.astype(float).values.tolist(),
+            "cells": [
+                {
+                    "group": row["group"],
+                    "industry": cell["industry"],
+                    "count": cell["count"],
+                    "emissions": cell["emissions"],
+                }
+                for row in rows
+                for cell in row["cells"]
+            ],
         }
 
     table_columns = [
@@ -320,3 +407,11 @@ def build_dashboard_metrics(
         }
     )
     return response
+
+
+__all__ = [
+    "DashboardFilters",
+    "companies_to_dataframe",
+    "company_stage_summary",
+    "build_dashboard_metrics",
+]

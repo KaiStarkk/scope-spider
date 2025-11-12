@@ -302,31 +302,37 @@ function updateMethodSelection(event: Event) {
 }
 </script>
 
-<section class="space-y-6">
+<section class="mx-auto max-w-7xl space-y-6 px-6 py-8">
 	<header class="space-y-2">
-		<h1 class="text-3xl font-semibold text-surface-900">Verification</h1>
-		<p class="text-sm text-surface-500">
+		<h1 class="text-3xl font-semibold text-slate-900">Verification</h1>
+		<p class="text-sm text-slate-600">
 			Review extracted emissions values, attach notes, and progress the verification queue.
 		</p>
 	</header>
 
 	{#if message}
-		<div class="alert preset-tonal-info flex items-center justify-between px-4 py-3">
-			<p class="text-sm">{message}</p>
-			<button class="btn btn-sm preset-text" onclick={() => (message = '')}>Dismiss</button>
+		<div class="flex items-center justify-between rounded-lg border border-blue-200 bg-blue-50 px-4 py-3 text-sm text-blue-800">
+			<p>{message}</p>
+			<button
+				class="rounded-md border border-blue-300 px-3 py-1 text-xs font-semibold text-blue-700 transition hover:bg-blue-100"
+				type="button"
+				onclick={() => (message = '')}
+			>
+				Dismiss
+			</button>
 		</div>
 	{/if}
 
-	<section class="card preset-tonal p-5 space-y-3">
-		<h2 class="text-lg font-semibold text-surface-900">Queue filters</h2>
-		<p class="text-sm text-surface-500">
+	<section class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm space-y-3">
+		<h2 class="text-lg font-semibold text-slate-900">Queue filters</h2>
+		<p class="text-sm text-slate-500">
 			Restrict the verification queue to specific analysis methods. Leave unselected to include all methods.
 		</p>
 		{#if availableMethods.length === 0}
-			<p class="text-sm text-surface-500">No analysis methods available.</p>
+			<p class="text-sm text-slate-500">No analysis methods available.</p>
 		{:else}
 			<select
-				class="select h-40 w-full"
+				class="input h-40 w-full"
 				multiple
 				bind:value={selectedMethods}
 				onchange={updateMethodSelection}
@@ -339,17 +345,17 @@ function updateMethodSelection(event: Event) {
 	</section>
 
 	{#if !company}
-		<div class="card preset-tonal p-6 text-center text-surface-600">
+		<div class="rounded-xl border border-slate-200 bg-white p-6 text-center text-slate-600 shadow-sm">
 			<p>No companies are waiting for verification. Great job!</p>
 		</div>
 	{:else}
 		<section class="space-y-6">
-			<div class="card preset-elevated p-6 space-y-4">
+			<div class="rounded-xl border border-slate-200 bg-white p-6 shadow-sm space-y-4">
 				<header>
-					<h2 class="text-2xl font-semibold text-surface-900">
+					<h2 class="text-2xl font-semibold text-slate-900">
 						{company.identity.name ?? company.identity.ticker ?? 'Unknown company'}
 					</h2>
-					<p class="text-sm text-surface-500">
+					<p class="text-sm text-slate-600">
 						Status: {company.verification.status ?? 'pending'}
 						{#if company.verification.verified_at}
 							· Last updated {company.verification.verified_at}
@@ -359,20 +365,20 @@ function updateMethodSelection(event: Event) {
 
 				<div class="grid gap-4 md:grid-cols-3">
 					<div>
-						<h3 class="label text-xs uppercase text-surface-500">Scope 1</h3>
-						<p class="text-lg font-semibold text-surface-900">
+						<h3 class="text-xs font-semibold uppercase tracking-wide text-slate-500">Scope 1</h3>
+						<p class="text-lg font-semibold text-slate-900">
 							{formatValue(company.emissions.scope_1)}
 						</p>
 					</div>
 					<div>
-						<h3 class="label text-xs uppercase text-surface-500">Scope 2</h3>
-						<p class="text-lg font-semibold text-surface-900">
+						<h3 class="text-xs font-semibold uppercase tracking-wide text-slate-500">Scope 2</h3>
+						<p class="text-lg font-semibold text-slate-900">
 							{formatValue(company.emissions.scope_2)}
 						</p>
 					</div>
 					<div>
-						<h3 class="label text-xs uppercase text-surface-500">Scope 3</h3>
-						<p class="text-lg font-semibold text-surface-900">
+						<h3 class="text-xs font-semibold uppercase tracking-wide text-slate-500">Scope 3</h3>
+						<p class="text-lg font-semibold text-slate-900">
 							{formatValue(company.emissions.scope_3)}
 						</p>
 					</div>
@@ -380,61 +386,61 @@ function updateMethodSelection(event: Event) {
 
 				<div class="grid gap-4 md:grid-cols-3">
 					<div>
-						<h4 class="text-xs uppercase text-surface-500">Reporting group</h4>
-						<p class="text-sm text-surface-700">
+						<h4 class="text-xs uppercase tracking-wide text-slate-500">Reporting group</h4>
+						<p class="text-sm text-slate-700">
 							{company.annotations.reporting_group ?? '—'}
 						</p>
 					</div>
 					<div>
-						<h4 class="text-xs uppercase text-surface-500">Location</h4>
-						<p class="text-sm text-surface-700">{company.annotations.location ?? '—'}</p>
+						<h4 class="text-xs uppercase tracking-wide text-slate-500">Location</h4>
+						<p class="text-sm text-slate-700">{company.annotations.location ?? '—'}</p>
 					</div>
 					<div>
-						<h4 class="text-xs uppercase text-surface-500">Analysis method</h4>
-						<p class="text-sm text-surface-700">{company.analysis.method ?? '—'}</p>
+						<h4 class="text-xs uppercase tracking-wide text-slate-500">Analysis method</h4>
+						<p class="text-sm text-slate-700">{company.analysis.method ?? '—'}</p>
 					</div>
 				</div>
 			</div>
 
 			<section class="grid gap-4 md:grid-cols-2">
-				<div class="card preset-tonal p-5 space-y-3">
-					<h3 class="text-lg font-semibold text-surface-900">Snippet</h3>
+				<div class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm space-y-3">
+					<h3 class="text-lg font-semibold text-slate-900">Snippet</h3>
 					{#if company.snippet.text}
-						<pre class="max-h-72 overflow-y-auto whitespace-pre-wrap rounded border border-surface-200 bg-white p-4 text-sm text-surface-800">
+						<pre class="max-h-72 overflow-y-auto whitespace-pre-wrap rounded border border-slate-200 bg-slate-50 p-4 text-sm text-slate-800">
 {company.snippet.text}
 						</pre>
 					{:else}
-						<p class="text-sm text-surface-500">No snippet available for this record.</p>
+						<p class="text-sm text-slate-500">No snippet available for this record.</p>
 					{/if}
 				</div>
-				<div class="card preset-tonal p-5 space-y-3">
-					<h3 class="text-lg font-semibold text-surface-900">Preview</h3>
+				<div class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm space-y-3">
+					<h3 class="text-lg font-semibold text-slate-900">Preview</h3>
 					{#if company.previews.length > 0}
 						<div class="space-y-4">
 							{#each company.previews as preview}
 								<figure class="space-y-2">
-									<figcaption class="text-xs uppercase text-surface-500">
+									<figcaption class="text-xs uppercase text-slate-500">
 										Page {preview.page}
 									</figcaption>
 									<img
 										alt={`Preview page ${preview.page}`}
-										class="w-full rounded border border-surface-200 shadow-sm"
+										class="w-full rounded border border-slate-200 bg-white shadow-sm"
 										src={preview.data_url}
 									/>
 								</figure>
 							{/each}
 						</div>
 					{:else}
-						<p class="text-sm text-surface-500">Preview unavailable.</p>
+						<p class="text-sm text-slate-500">Preview unavailable.</p>
 					{/if}
 				</div>
 			</section>
 
-			<section class="card preset-elevated p-5 space-y-4">
+			<section class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm space-y-4">
 				<label class="block space-y-2">
-					<span class="text-sm font-medium text-surface-700">Reviewer notes</span>
+					<span class="text-sm font-medium text-slate-700">Reviewer notes</span>
 					<textarea
-						class="textarea"
+						class="input min-h-[120px]"
 						rows="4"
 						bind:value={notes}
 						placeholder="Document any rationale or follow-up actions..."
@@ -443,28 +449,36 @@ function updateMethodSelection(event: Event) {
 
 				<div class="flex flex-wrap gap-3">
 					<button
-						class="btn preset-filled-success"
+						class="rounded-lg bg-emerald-600 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-emerald-700 disabled:cursor-not-allowed disabled:opacity-60"
 						disabled={loading}
 						onclick={acceptCompany}
 					>
 						Accept
 					</button>
-					<button class="btn preset-filled-error" disabled={loading} onclick={rejectCompany}>
+					<button
+						class="rounded-lg bg-red-600 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-red-700 disabled:cursor-not-allowed disabled:opacity-60"
+						disabled={loading}
+						onclick={rejectCompany}
+					>
 						Reject
 					</button>
-					<button class="btn preset-tonal" disabled={loading} onclick={skipCompany}>
+					<button
+						class="rounded-lg border border-slate-300 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:bg-slate-100 disabled:cursor-not-allowed disabled:opacity-60"
+						disabled={loading}
+						onclick={skipCompany}
+					>
 						Skip
 					</button>
 				</div>
 			</section>
 
-			<section class="card preset-tonal p-5 space-y-4">
-				<h3 class="text-lg font-semibold text-surface-900">Replacement document</h3>
-				<p class="text-sm text-surface-500">
+			<section class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm space-y-4">
+				<h3 class="text-lg font-semibold text-slate-900">Replacement document</h3>
+				<p class="text-sm text-slate-500">
 					Provide a new PDF URL or upload a replacement document before rejecting an extraction.
 				</p>
-				<label class="space-y-2 text-sm text-surface-600">
-					<span class="font-semibold text-surface-700">Replacement PDF URL</span>
+				<label class="space-y-2 text-sm text-slate-600">
+					<span class="font-semibold text-slate-700">Replacement PDF URL</span>
 					<input
 						class="input"
 						type="url"
@@ -472,11 +486,11 @@ function updateMethodSelection(event: Event) {
 						bind:value={replacementUrl}
 					/>
 				</label>
-				<label class="space-y-2 text-sm text-surface-600">
-					<span class="font-semibold text-surface-700">Upload PDF</span>
+				<label class="space-y-2 text-sm text-slate-600">
+					<span class="font-semibold text-slate-700">Upload PDF</span>
 					<input class="input" type="file" accept="application/pdf" onchange={handleFileChange} />
 					{#if uploadFilename}
-						<p class="text-xs text-surface-500">Selected: {uploadFilename}</p>
+						<p class="text-xs text-slate-500">Selected: {uploadFilename}</p>
 					{/if}
 					{#if uploadError}
 						<p class="text-xs text-error-500">{uploadError}</p>
@@ -484,27 +498,31 @@ function updateMethodSelection(event: Event) {
 				</label>
 			</section>
 
-			<section class="card preset-tonal p-5 space-y-4">
-				<h3 class="text-lg font-semibold text-surface-900">Manual overrides</h3>
-				<p class="text-sm text-surface-500">
+			<section class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm space-y-4">
+				<h3 class="text-lg font-semibold text-slate-900">Manual overrides</h3>
+				<p class="text-sm text-slate-500">
 					Update the extracted values when verified manually. Scope 1 and Scope 2 are required.
 				</p>
 				<div class="grid gap-4 md:grid-cols-3">
-					<label class="space-y-2 text-sm text-surface-600">
-						<span class="font-semibold text-surface-700">Scope 1 (kgCO₂e)</span>
+					<label class="space-y-2 text-sm text-slate-600">
+						<span class="font-semibold text-slate-700">Scope 1 (kgCO₂e)</span>
 						<input class="input" type="number" min="0" bind:value={overrideScope1} />
 					</label>
-					<label class="space-y-2 text-sm text-surface-600">
-						<span class="font-semibold text-surface-700">Scope 2 (kgCO₂e)</span>
+					<label class="space-y-2 text-sm text-slate-600">
+						<span class="font-semibold text-slate-700">Scope 2 (kgCO₂e)</span>
 						<input class="input" type="number" min="0" bind:value={overrideScope2} />
 					</label>
-					<label class="space-y-2 text-sm text-surface-600">
-						<span class="font-semibold text-surface-700">Scope 3 (kgCO₂e)</span>
+					<label class="space-y-2 text-sm text-slate-600">
+						<span class="font-semibold text-slate-700">Scope 3 (kgCO₂e)</span>
 						<input class="input" type="number" min="0" bind:value={overrideScope3} />
 					</label>
 				</div>
 				<div>
-					<button class="btn preset-filled" disabled={loading} onclick={saveOverride}>
+					<button
+						class="rounded-lg bg-slate-900 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-slate-800 disabled:cursor-not-allowed disabled:opacity-60"
+						disabled={loading}
+						onclick={saveOverride}
+					>
 						Save manual override
 					</button>
 				</div>

@@ -1,12 +1,14 @@
-from __future__ import annotations
-
 from typing import Any, Dict, List, Optional, Tuple
 
 from fastapi import APIRouter, Depends, Query
 
 from ..dependencies import get_company_repository
 from ..services.companies import CompanyRepository
-from ..services.dashboard import DashboardFilters, build_dashboard_metrics
+from ..services.dashboard import (
+    DashboardFilters,
+    build_dashboard_metrics,
+    company_stage_summary,
+)
 
 router = APIRouter(prefix="/api/dashboard", tags=["dashboard"])
 
@@ -22,23 +24,23 @@ def list_companies(
         company.model_dump(mode="json") for company in companies
     ]
 
-    total_companies = len(companies)
-    verified_count = sum(
-        1 for company in companies if company.verification and company.verification.status == "accepted"
-    )
-    pending_count = sum(
-        1 for company in companies if not company.verification or company.verification.status != "accepted"
-    )
+    stage_counts = company_stage_summary(companies)
+    stats = {
+        "total": stage_counts["total"],
+        "searched": stage_counts["searched"],
+        "downloaded": stage_counts["downloaded"],
+        "extracted": stage_counts["extracted"],
+        "analysed": stage_counts["analysed"],
+        "verified": stage_counts["verified"],
+        "pending": stage_counts["total"] - stage_counts["verified"],
+        "stages": stage_counts,
+    }
 
     extra_metadata = {key: value for key, value in payload.items() if key != "companies"}
 
     return {
         "companies": serialised_companies,
-        "stats": {
-            "total": total_companies,
-            "verified": verified_count,
-            "pending": pending_count,
-        },
+        "stats": stats,
         "metadata": extra_metadata,
     }
 
