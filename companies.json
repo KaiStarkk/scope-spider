@@ -3329,18 +3329,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 174700000,
+          "value": 174700,
           "confidence": 1.0,
           "context": "174.7kt CO -e2"
         },
         "scope_2": {
-          "value": 1500000,
+          "value": 1500,
           "confidence": 1.0,
           "context": "1.5kt CO -e2",
           "method": "location"
         },
         "scope_3": {
-          "value": 174700000,
+          "value": 0,
           "confidence": 0.95,
           "context": ",174.7kt CO -e2,1.5kt CO -e2\n,FY24: 110.6kt CO -e2,FY24: 0.6kt CO -e2\nGenesis recognises that climate change is a pressing global issue. We are committed to,,",
           "qualifiers": "location-based"
@@ -10283,7 +10283,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1170000000,
+          "value": 1170000,
           "confidence": 1.0,
           "context": ",,\"1,170\nScope 1 emissions (kt CO2e)\"\n–,Re‑aligning targets and tracking progress against measure,"
         },
