@@ -1,0 +1,226 @@
+{
+  "ALX_Atlas_Arteria_2024": {
+    "emissions": {
+      "scope_1": {
+        "value": 6013
+      },
+      "scope_2": {
+        "value": 39
+      },
+      "scope_3": {
+        "value": 2353964
+      }
+    },
+    "notes": "Scope 2 uses market-based methodology [1]. Scope 3 represents customer emissions only [1]."
+  },
+  "APX_Appen_2023": {
+    "emissions": {
+      "scope_1": {
+        "value": 309
+      },
+      "scope_2": {
+        "value": 1631
+      },
+      "scope_3": {
+        "value": 12496
+      }
+    },
+    "notes": "Scope 1 (Natural gas) [2, 3]. Scope 2 uses Market-Based methodology [2, 3]."
+  },
+  "ARF_Arena_REIT_FY2024": {
+    "emissions": {
+      "scope_1": {
+        "value": 0
+      },
+      "scope_2": {
+        "value": 0
+      },
+      "scope_3": {
+        "value": 205.83
+      }
+    },
+    "notes": "Organizational inventory. Scope 1 and 2 are zero due to purchasing GreenPower [4, 5]. Scope 3 reflects organizational scope 3 emissions (excluding Downstream Leased Assets) [5]."
+  },
+  "AZJ_Aurizon_FY2023": {
+    "emissions": {
+      "scope_1": {
+        "value": 591216
+      },
+      "scope_2": {
+        "value": 304703
+      },
+      "scope_3": {
+        "value": 304710
+      }
+    },
+    "notes": "Scope 1 emissions reported in FY2023 [6]. Scope 2 uses Market-based methodology [7]. Scope 3 emissions reported in FY2023 [7]."
+  },
+  "DXS_Dexus_FY2025": {
+    "emissions": {
+      "scope_1": {
+        "value": 7669
+      },
+      "scope_2": {
+        "value": 0
+      },
+      "scope_3": {
+        "value": 26006
+      }
+    },
+    "notes": "Group managed portfolio, based on independently assured data for FY25 [8]. Scope 2 (market-based) is 0 [9, 10]. Scope 3 uses market-based methodology [11]."
+  },
+  "IVE_Group_2022": {
+    "emissions": {
+      "scope_1": {
+        "value": 14457
+      },
+      "scope_2": {
+        "value": 54888
+      },
+      "scope_3": {
+        "value": 400734
+      }
+    },
+    "notes": "Emissions data for the 2022 calendar year [12]."
+  },
+  "MY_MyState_FY2023": {
+    "emissions": {
+      "scope_1": {
+        "value": 41
+      },
+      "scope_2": {
+        "value": 137
+      },
+      "scope_3": {
+        "value": 4341
+      }
+    },
+    "notes": "Operational emissions for FY23. Scope 3 excludes financed emissions [13, 14]."
+  },
+  "OFX_Group_2025": {
+    "emissions": {
+      "scope_1": {
+        "value": 0
+      },
+      "scope_2": {
+        "value": 57.23
+      },
+      "scope_3": {
+        "value": 7074.4
+      }
+    },
+    "notes": "Scope 1 emissions are zero [15]. Scope 2 uses market-based methodology where available [15, 16]. Scope 3 emissions reported for 2025 [15]."
+  },
+  "PNI_Pinnacle_FY2024": {
+    "emissions": {
+      "scope_1": {
+        "value": 0
+      },
+      "scope_2": {
+        "value": 0
+      },
+      "scope_3": {
+        "value": 1194.1
+      }
+    },
+    "notes": "Scope 1 is 0 [17]. Scope 2 (market-based) is 0 due to LGC purchases [17, 18]. Scope 3 uses market-based methodology [17]."
+  },
+  "REA_Group_FY2025": {
+    "emissions": {
+      "scope_1": {
+        "value": 74.4
+      },
+      "scope_2": {
+        "value": 417.9
+      },
+      "scope_3": {
+        "value": 46045.6
+      }
+    },
+    "notes": "Scope 2 uses market-based methodology [19]. Total Scope 3 emissions for FY25 [20]."
+  },
+  "SDR_SiteMinder_CY2023": {
+    "emissions": {
+      "scope_1": {
+        "value": 0
+      },
+      "scope_2": {
+        "value": 119
+      },
+      "scope_3": {
+        "value": 4763
+      }
+    },
+    "notes": "Scope 1 emissions are zero [21, 22]. Scope 2 reflects reduction due to transition to 100% GreenPower in Sydney office [21, 23]. Scope 3 emissions for CY23 [21]."
+  },
+  "SLC_Superloop_FY2025": {
+    "emissions": {
+      "scope_1": {
+        "value": 54.1
+      },
+      "scope_2": {
+        "value": 6851.4
+      },
+      "scope_3": {
+        "value": 94410.9
+      }
+    },
+    "notes": "FY25 GHG emissions based on baseline assessment [24-26]."
+  },
+  "TPW_Temple_Webster_FY2025": {
+    "emissions": {
+      "scope_1": {
+        "value": 0.14
+      },
+      "scope_2": {
+        "value": 19.05
+      },
+      "scope_3": {
+        "value": 28309.18
+      }
+    },
+    "notes": "FY25 gross emissions figures [27]. Scope 3 excludes product manufacturing, use of sold products, end-of-life treatment of sold products, and investments due to limitations [27]."
+  },
+  "TYR_Tyro_FY2023": {
+    "emissions": {
+      "scope_1": {
+        "value": 0
+      },
+      "scope_2": {
+        "value": 439
+      },
+      "scope_3": {
+        "value": 4488
+      }
+    },
+    "notes": "Emissions for FY23 [28]. Scope 1 is zero [28]."
+  },
+  "WPR_Waypoint_REIT_FY2023": {
+    "emissions": {
+      "scope_1": {
+        "value": 0
+      },
+      "scope_2": {
+        "value": 2.84
+      },
+      "scope_3": {
+        "value": 65.96
+      }
+    },
+    "notes": "FY23 Measured Emissions. Scope 1 is zero [29, 30]. Scope 2 emissions are market-based [31]. Scope 3 total includes only selected direct Scope 3 categories (3, 5, 6, 7, 8) [29, 30, 32]."
+  },
+  "ZIP_Zip_Water_Group_2024": {
+    "emissions": {
+      "scope_1": {
+        "value": 2199
+      },
+      "scope_2": {
+        "value": 661
+      },
+      "scope_3": {
+        "value": 268853
+      }
+    },
+    "notes": "Emissions data for the 2024 calendar year [33, 34]."
+  }
+}

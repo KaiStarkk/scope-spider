@@ -295,7 +295,7 @@
           "context": "=== Table 8 (page 32) ===\nand Daunia mines. Scope 1 emissions,offsetting Scope 2 emissions on a whole-,,,,,,\n,,,,,\"1,958\",,"
         },
         "scope_2": {
-          "value": 51000000,
+          "value": 271000,
           "confidence": 1.0,
           "context": ",,,for June Qtr,,51%\n,Our Scope 2 emissions (location based),,271,,\n,\"totalled 271 kt CO2-e, with the increase\",,,,",
           "method": "location"
@@ -356,12 +356,12 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
+          "value": 789700,
           "confidence": 1.0,
           "context": ",and others in the sectors in which,\nfocus on reducing operational Scope 1,,financial disclosure requirements apply\n,they operate.,"
         },
         "scope_2": {
-          "value": 2000,
+          "value": 236900,
           "confidence": 1.0,
           "context": ",they operate.,\nand Scope 2 greenhouse gas emissions,,to the Group from 1 July 2025 for financial\n(operational emissions). All divisions have,\"This year, we established cross-functional\",year 2026 reporting. As the ASRS S2",
           "method": "market"
@@ -428,7 +428,20 @@
         "name": "Qantas Airways Ltd.",
         "ticker": "QAN-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY25 Scope 1 emissions (tCO₂e).",
+          "value": 12139425
+        },
+        "scope_2": {
+          "context": "FY25 Global Scope 2 GHG emissions (tCO₂e) (location-based method).",
+          "value": 58106
+        },
+        "scope_3": {
+          "context": "FY25 Scope 3 emissions (tCO₂e).",
+          "value": 7305845
+        }
+      },
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_context": "Industrial Services",
@@ -529,7 +542,20 @@
         "name": "Iluka Resources Ltd.",
         "ticker": "ILU-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "2024 Scope 1 emissions (392 ktCO2e).",
+          "value": 392000
+        },
+        "scope_2": {
+          "context": "2024 Scope 2 emissions (71 ktCO2e).",
+          "value": 71000
+        },
+        "scope_3": {
+          "context": "Iluka is currently examining its scope 3 emissions and intends to disclose this information in future reports.",
+          "value": 0
+        }
+      },
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_context": "Mining and Mineral Products",
@@ -560,7 +586,20 @@
         "name": "Ramsay Health Care Ltd.",
         "ticker": "RHC-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY25 Group Scope 1 emissions (tCO2-e) derived from summing Gas and fuel (59,949), Anaesthetic gases (26,244), and Refrigerants (2,518).",
+          "value": 88711
+        },
+        "scope_2": {
+          "context": "FY25 Group Scope 2 emissions (tCO2-e) (Market-based Electricity).",
+          "value": 129225
+        },
+        "scope_3": {
+          "context": "No specific total Scope 3 quantification found in the provided tables, although Scope 3 is included in the net zero target scope.",
+          "value": 0
+        }
+      },
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_context": "Healthcare Services",
@@ -657,7 +696,20 @@
         "name": "BlueScope Steel Ltd.",
         "ticker": "BSL-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY25 Scope 1 GHG emissions (8,500 ktCO2-e)",
+          "value": 8500000
+        },
+        "scope_2": {
+          "context": "FY25 Scope 2 GHG emissions (1,700 ktCO2-e)",
+          "value": 1700000
+        },
+        "scope_3": {
+          "context": "FY25 Scope 3 GHG emissions (12,770 ktCO2-e)",
+          "value": 12770000
+        }
+      },
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_context": "Mining and Mineral Products",
@@ -763,18 +815,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 24485000,
+          "value": 24485,
           "confidence": 1.0,
           "context": "\"GHG emissions from diesel generators at four leased sites in India were reclassified from Scope 1 to Scope 3 – category 8, as they relate to base building operations\"\nmanaged by landlords. This caused our Scope 1 & 2 emissions to decrease by approximately 27t CO2e. 27/38360 0.1% decrease in emissions compared to FY2024.\nChange in boundary"
         },
         "scope_2": {
-          "value": 6524000,
+          "value": 6524,
           "confidence": 1.0,
           "context": "We report Scope 2 emissions using both location-based and market-based methods as recommended by the GHG Protocol Scope 2 Guidance.",
           "method": "market"
         },
         "scope_3": {
-          "value": 826334000,
+          "value": 1317095,
           "confidence": 1.0,
           "context": "Our Climate Change Position Statement (CCPS) sets out the actions we’re taking in response to climate change. We are decarbonizing our business and are,\n\"committed to reducing Scope 1 and 2 GHG emissions to net zero by 2030, and Scope 3 emissions by 2050. We plan to achieve our Scope 1 and 2 commitments\",\n\"through initiatives, such as reducing energy use and switching to renewable energy and low carbon fuels. We will achieve our Scope 3 commitments through working\",",
           "qualifiers": "Market-based accounting for Scope 2 emissions."
@@ -837,7 +889,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 6000,
+          "value": 5516,
           "confidence": 1.0,
           "context": "=== Table 6 (page 145) ===\n\"We reviewed a selection of performance metrics, as\",,14  Gender 40:40:20 target,63:37:0"
         },
@@ -1057,7 +1109,20 @@
         "name": "Cedar Woods Properties Ltd.",
         "ticker": "CWP-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Reported as combined Scope 1 & 2 net Greenhouse Gas Emissions (t-CO2-e).",
+          "value": 74
+        },
+        "scope_2": {
+          "context": "Reported as combined Scope 1 & 2 net Greenhouse Gas Emissions (t-CO2-e).",
+          "value": 74
+        },
+        "scope_3": {
+          "context": "No specific Scope 3 total found.",
+          "value": 0
+        }
+      },
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_context": "Real Estate",
@@ -1368,7 +1433,20 @@
         "name": "Macquarie Group Ltd.",
         "ticker": "MQG-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY25 Scope 1 emissions (tCO2e).",
+          "value": 482
+        },
+        "scope_2": {
+          "context": "FY25 Scope 2 emissions (tCO2e). Scope 2 emissions reduced to zero since FY2022 due to the purchase of 100% renewable electricity equivalent.",
+          "value": 0
+        },
+        "scope_3": {
+          "context": "FY25 Total Scope 3 (Categories 1-6 & 8) operational emissions (tCO2e).",
+          "value": 227896
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.95,
@@ -1529,7 +1607,20 @@
         "name": "Telstra Group Ltd.",
         "ticker": "TLS-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY25 Scope 1 total emissions (tCO2e). Calculated using location-based methodology for S1&S2.",
+          "value": 31794
+        },
+        "scope_2": {
+          "context": "FY25 Scope 2 total emissions (tCO2e). Calculated using location-based methodology for S1&S2.",
+          "value": 703989
+        },
+        "scope_3": {
+          "context": "FY25 Scope 3 total emissions (tCO2e) (aligned to GHG protocol).",
+          "value": 1454930
+        }
+      },
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_context": "Telecommunications",
@@ -1560,7 +1651,20 @@
         "name": "Lendlease Group",
         "ticker": "LLC-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY25 Gross Scope 1 Emissions (tCO2-eq).",
+          "value": 23715
+        },
+        "scope_2": {
+          "context": "FY25 Gross Scope 2 Emissions (Market-based Method) (tCO2-eq). Market-based emissions resulted in zero due to application of renewable electricity purchases/offsets.",
+          "value": 0
+        },
+        "scope_3": {
+          "context": "FY25 Total Scope 3 Emissions (tCO2-eq).",
+          "value": 1353639
+        }
+      },
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_context": "Industrial Services",
@@ -1766,7 +1870,20 @@
         "name": "Santos Ltd.",
         "ticker": "STO-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "2024 Gross operated Scope 1 greenhouse gas emissions (4.44 MtCO2e).",
+          "value": 4440000
+        },
+        "scope_2": {
+          "context": "2024 Gross operated Scope 2 greenhouse gas emissions (0.80 MtCO2e).",
+          "value": 800000
+        },
+        "scope_3": {
+          "context": "2024 Total Scope 3 emissions (29.9 MtCO2e).",
+          "value": 29900000
+        }
+      },
       "annotations": {
         "anzsic_division": "Electricity, Gas, Water and Waste Services",
         "anzsic_context": "Downstream and Midstream Energy",
@@ -2179,7 +2296,20 @@
         "name": "National Australia Bank Ltd.",
         "ticker": "NAB-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "2025 Scope 1 emissions (tCO2-e). Note: This is the gross Scope 1 figure.",
+          "value": 8359
+        },
+        "scope_2": {
+          "context": "2025 Scope 2 market-based emissions (tCO2-e). Market-based emissions are zero, reflecting 100% renewable electricity sourcing.",
+          "value": 0
+        },
+        "scope_3": {
+          "context": "2025 Total gross Scope 3 emissions (tCO2-e). This excludes financed emissions.",
+          "value": 78259
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Banking",
@@ -2210,7 +2340,20 @@
         "name": "Ansell Ltd.",
         "ticker": "ANN-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY25 Scope 1 emissions",
+          "value": 181558
+        },
+        "scope_2": {
+          "context": "FY25 Scope 2 emissions (market based)",
+          "value": 46346
+        },
+        "scope_3": {
+          "context": "FY24 Scope 3 emissions. Current year (FY25) Scope 3 data is reported a year in arrears.",
+          "value": 798935
+        }
+      },
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_context": "Healthcare Equipment",
@@ -2351,7 +2494,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 2019000,
+          "value": 3108,
           "confidence": 1.0,
           "context": "and targets sections.,,,,\n,how much and how quickly they,2019 levels,\"Scope 1, 2 and 3 GHG emissions\",set their own science-based\n,need to reduce their GHG,,reduction targets. These,targets. While this is not a small"
         },
@@ -2361,7 +2504,7 @@
           "context": ",, Company specific definitions that are publicly disclosed.\nTotal scope 2 greenhouse gas emissions (tCO2-e),\"11,493\",\n,,Key responsibilities"
         },
         "scope_3": {
-          "value": 57223000,
+          "value": 57223,
           "confidence": 1.0,
           "context": "emissions baseline to remove,,,,\n,\"were 57,223 tonnes CO2e, a\",Scope 3 – 79.7%,,\nthose emissions related to our,,,,",
           "qualifiers": "Net targets relate to carbon dioxide (CO2)."
@@ -2492,7 +2635,20 @@
         "name": "Codan Ltd.",
         "ticker": "CDA-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY24 Scope 1 emissions (tCO2-e)",
+          "value": 1485
+        },
+        "scope_2": {
+          "context": "FY24 Scope 2 emissions (tCO2-e)",
+          "value": 1037
+        },
+        "scope_3": {
+          "context": "FY24 Scope 3 emissions (tCO2-e)",
+          "value": 51835
+        }
+      },
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_context": "Hardware",
@@ -2555,7 +2711,20 @@
         "name": "Mosaic Brands Ltd.",
         "ticker": "MOZ-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "2024 Scope 1 GHG (3.3 Million tonnes CO2e).",
+          "value": 3300000
+        },
+        "scope_2": {
+          "context": "2024 Scope 2 GHG (1.2 Million tonnes CO2e, assuming 'Tonnes CO2e' is a unit error in the source and refers to Millions for consistency with Scope 1).",
+          "value": 1200000
+        },
+        "scope_3": {
+          "context": "No specific Scope 3 total found.",
+          "value": 0
+        }
+      },
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_context": "Consumer Retail",
@@ -2894,7 +3063,20 @@
         "name": "Perseus Mining Ltd.",
         "ticker": "PRU-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY2022 Total Scope 1 emissions (tCO2-e).",
+          "value": 186110
+        },
+        "scope_2": {
+          "context": "FY2022 Total Scope 2 emissions (tCO2-e), calculated using the market-based method.",
+          "value": 86724
+        },
+        "scope_3": {
+          "context": "FY2022 Total Scope 3 emissions (tCO2-e).",
+          "value": 472742
+        }
+      },
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_context": "Mining and Mineral Products",
@@ -2955,7 +3137,20 @@
         "name": "SEEK Ltd.",
         "ticker": "SEK-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY2024 Scope 1 (1% of 16,570 tCO2e), including Continuing and Discontinued Operations.",
+          "value": 166
+        },
+        "scope_2": {
+          "context": "FY2024 Scope 2 (8% of 16,570 tCO2e), including Continuing and Discontinued Operations.",
+          "value": 1326
+        },
+        "scope_3": {
+          "context": "FY2024 Scope 3 (91% of 16,570 tCO2e), including Continuing and Discontinued Operations.",
+          "value": 15079
+        }
+      },
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_context": "Software and Consulting",
@@ -3195,7 +3390,20 @@
         "name": "Humm Group Ltd.",
         "ticker": "HUM-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "No Scope 1 emissions figure explicitly reported. The Company's GHG emission is limited to Scope 2 indirect and Scope 3 other indirect.",
+          "value": 0
+        },
+        "scope_2": {
+          "context": "FY21 Scope 2: Electricity GHG emissions (tCO2e).",
+          "value": 291
+        },
+        "scope_3": {
+          "context": "FY21 Scope 3: Travel GHG emissions (tCO2e). Currently, Scope 3 indirect emissions recorded are limited to travel.",
+          "value": 216
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Specialty Finance and Services",
@@ -3399,7 +3607,20 @@
         "name": "SRG Global Ltd.",
         "ticker": "SRG-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY25 Scope 1 emissions (tCO2-e).",
+          "value": 1341
+        },
+        "scope_2": {
+          "context": "FY25 Market Based Scope 2 emissions (tCO2-e).",
+          "value": 54937
+        },
+        "scope_3": {
+          "context": "Scope 3 calculation figure is not able to be published this reporting period.",
+          "value": 0
+        }
+      },
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_context": "Industrial Services",
@@ -3707,7 +3928,20 @@
         "name": "Westpac Banking Corp.",
         "ticker": "WBC-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "2025 Scope 1 emissions (tCO2-e).",
+          "value": 4714
+        },
+        "scope_2": {
+          "context": "2025 Scope 2 emissions (tCO2-e) (market-based).",
+          "value": 1963
+        },
+        "scope_3": {
+          "context": "2025 Scope 3 upstream emissions only (tCO2-e). Financed emissions (Category 15) are calculated one year in arrears and are not included in this figure.",
+          "value": 56469
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Banking",
@@ -3737,7 +3971,20 @@
         "name": "Commonwealth Bank of Australia",
         "ticker": "CBA-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Reported as combined Scope 1 and 2 operational emissions (tCO2-e).",
+          "value": 29640
+        },
+        "scope_2": {
+          "context": "Reported as combined Scope 1 and 2 operational emissions (tCO2-e).",
+          "value": 29640
+        },
+        "scope_3": {
+          "context": "FY24 Scope 3 operational emissions (tCO2-e).",
+          "value": 34288
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Banking",
@@ -3840,7 +4087,12 @@
         "name": "Downer EDI Ltd.",
         "ticker": "DOW-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Operational emissions—total Scope 1 and 2 (market based). Combined Scope 1 and 2 total. Operational emissions—total Scope 1 and 2 (market based). Citation(s): [39, 40]",
+          "value": 302151
+        }
+      },
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_context": "Industrial Services",
@@ -3873,12 +4125,12 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 1000,
+          "value": 1245,
           "confidence": 0.9,
           "context": "Scope 1,\"1,731\",\"1,419\",\"1,324\",\"1,245\""
         },
         "scope_2": {
-          "value": 6074,
+          "value": 718,
           "confidence": 0.9,
           "context": "Scope 2 (location-based),\"14,751\",\"9,802\",\"8,333\",\"6,074\"",
           "method": "location"
@@ -3944,7 +4196,20 @@
         "name": "Insurance Australia Group Ltd.",
         "ticker": "IAG-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "2025 Scope 1 GHG Emissions (tCO2e).",
+          "value": 6770
+        },
+        "scope_2": {
+          "context": "2025 Scope 2 – Market based emissions (tCO2e). Market-based emissions are used in calculating Net GHG emissions.",
+          "value": 5429
+        },
+        "scope_3": {
+          "context": "2025 Total Scope 3 emissions (tCO2e).",
+          "value": 19383
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Insurance",
@@ -4132,7 +4397,20 @@
         "name": "Orica Ltd.",
         "ticker": "ORI-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY2024 Global Scope 1 emissions (1,158 ktCO₂-e).",
+          "value": 1158000
+        },
+        "scope_2": {
+          "context": "FY2024 Global Scope 2 emissions (139 ktCO₂-e).",
+          "value": 139000
+        },
+        "scope_3": {
+          "context": "FY2024 Global Scope 3 emissions (7,891 ktCO₂-e).",
+          "value": 7891000
+        }
+      },
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_context": "Chemical, Plastic and Rubber Materials",
@@ -4237,7 +4515,20 @@
         "name": "Transurban Group Ltd.",
         "ticker": "TCL-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Total Scope 1 greenhouse gas emissions (5,910 tCO2-e) for FY24.",
+          "value": 5910
+        },
+        "scope_2": {
+          "context": "Total scope 2 greenhouse gas emissions (“market-based”) (30,669 tCO2-e) for FY24.",
+          "value": 30669
+        },
+        "scope_3": {
+          "context": "Total Scope 3 greenhouse gas emissions (370,826 tCO2-e) for FY24.",
+          "value": 370826
+        }
+      },
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_context": "Industrial Services",
@@ -4299,7 +4590,20 @@
         "name": "Washington H. Soul Pattinson & Co. Ltd.",
         "ticker": "SOL-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY24 Scope 1 emissions for Controlled investments (tCO2e).",
+          "value": 8373
+        },
+        "scope_2": {
+          "context": "FY24 Scope 2 emissions for Controlled investments (tCO2e). Note: Direct operations Scope 2 emissions are zero using a market-based approach.",
+          "value": 18595
+        },
+        "scope_3": {
+          "context": "No specific Scope 3 total found.",
+          "value": 0
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_confidence": 0.9,
@@ -4406,7 +4710,20 @@
         "name": "Sonic Healthcare Ltd.",
         "ticker": "SHL-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY2025 Total global Scope 1 emissions (tCO2-e).",
+          "value": 29908
+        },
+        "scope_2": {
+          "context": "FY2025 Scope 2 emissions (market-based) (tCO2-e).",
+          "value": 58507
+        },
+        "scope_3": {
+          "context": "FY2025 Total global Scope 3 (GHG protocol categories 1–9) emissions (tCO2-e).",
+          "value": 323506
+        }
+      },
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_context": "Healthcare Services",
@@ -4753,7 +5070,20 @@
         "name": "Sims Ltd.",
         "ticker": "SGM-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY25 Total Scope 1 emissions (75.0 kt CO₂e).",
+          "value": 75000
+        },
+        "scope_2": {
+          "context": "FY25 Total Scope 2 emissions (Market-based) (0.0 kt CO₂e). Zero emissions achieved by procuring 100% renewable energy.",
+          "value": 0
+        },
+        "scope_3": {
+          "context": "FY25 Total Scope 3 emissions (5,098.3 kt CO₂e).",
+          "value": 5098300
+        }
+      },
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_context": "Mining and Mineral Products",
@@ -4956,7 +5286,20 @@
         "name": "Ampol Ltd.",
         "ticker": "ALD-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Total Group Scope 1 emissions (tCO2e) for 2024",
+          "value": 725975
+        },
+        "scope_2": {
+          "context": "Total Group Scope 2 emissions (tCO2e) for 2024",
+          "value": 217452
+        },
+        "scope_3": {
+          "context": "Total Group Scope 3 emissions (tCO2e) for 2024",
+          "value": 60745311
+        }
+      },
       "annotations": {
         "anzsic_division": "Electricity, Gas, Water and Waste Services",
         "anzsic_context": "Downstream and Midstream Energy",
@@ -4987,7 +5330,20 @@
         "name": "Beach Energy Ltd.",
         "ticker": "BPT-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY25 Scope 1 emissions (Australia: 537,493 tCO2e + New Zealand: 89,238 tCO2e)",
+          "value": 626731
+        },
+        "scope_2": {
+          "context": "FY25 Scope 2 emissions (Australia: 21,194 tCO2e + New Zealand: 5,238 tCO2e)",
+          "value": 26432
+        },
+        "scope_3": {
+          "context": "FY25 Estimated Scope 3 emissions (6.38 MtCO2e)",
+          "value": 6380000
+        }
+      },
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_context": "Upstream Energy",
@@ -5229,7 +5585,20 @@
         "name": "EVT Ltd.",
         "ticker": "EVT-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY24 total Scope 1 emissions (sum of Natural gas: 15,321; Stationary fuels: 3,175; Transport fuels: 305; Other: 1 tCO2e).",
+          "value": 18821
+        },
+        "scope_2": {
+          "context": "FY24 Scope 2 emissions (market-based) electricity (tCO2e).",
+          "value": 105217
+        },
+        "scope_3": {
+          "context": "FY23 Scope 3 total estimate (tCO2e). FY24 estimate is in development.",
+          "value": 307344
+        }
+      },
       "annotations": {
         "anzsic_division": "Health Care and Social Assistance",
         "anzsic_context": "Hospitality Services",
@@ -5289,7 +5658,20 @@
         "name": "Austal Ltd.",
         "ticker": "ASB-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Citation(s): [3]",
+          "value": 3405
+        },
+        "scope_2": {
+          "context": "Citation(s): [3]",
+          "value": 7011
+        },
+        "scope_3": {
+          "context": "Includes upstream emissions only. Downstream Scope 3 is not currently reported. Citation(s): [3, 4]",
+          "value": 46668
+        }
+      },
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_context": "Industrial Manufacturing",
@@ -5495,7 +5877,20 @@
         "name": "Amotiv Ltd.",
         "ticker": "AOV-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Estimated based on 30% of Net Scope 1 & 2 total (8.8 ktCO2e), assuming the remaining portion after Scope 2 is Scope 1. Note: Net Scope 1 & 2 is 8,800 tCO2e.",
+          "value": 2640
+        },
+        "scope_2": {
+          "context": "Estimated based on 70% of Net Scope 1 & 2 total (8.8 ktCO2e), as the vast majority (70%) is linked to purchased electricity. Note: Net Scope 1 & 2 is 8,800 tCO2e.",
+          "value": 6160
+        },
+        "scope_3": {
+          "context": "No specific Scope 3 total found.",
+          "value": 0
+        }
+      },
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_context": "Consumer Vehicles and Parts",
@@ -5659,7 +6054,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 2023000,
+          "value": 54601,
           "confidence": 1.0,
           "context": "Emission source,2023–24,2022–23,% change\nScope 1,\"54,601\",\"53,346\",2%\nScope 2,\"40,762\",\"37,297\",9%"
         },
@@ -5931,13 +6326,13 @@
           "context": "Scope 1 – Total GHG emissions 3, 4b"
         },
         "scope_2": {
-          "value": 18257,
+          "value": 15311,
           "confidence": 1.0,
           "context": "Scope 2 – Electricity Total GHG emissions Location Based 4a, 5",
           "method": "location"
         },
         "scope_3": {
-          "value": 10000,
+          "value": 0,
           "confidence": 0.95,
           "context": "Natural Gas,tCO2e,\"1,924\",\"2,009\",\"2,007\",2,-\nScope 1 – Carbon Offsets – Retired 10,tCO2e,\"3,530\",\"3,343\",\"2,781\",525,38\n\"Scope 2 – Electricity Total GHG emissions Location Based 4a, 5\",tCO2e,\"18,289\",\"18,257\",\"16,574\",\"1,014\",670",
           "qualifiers": "Location Based"
@@ -6378,7 +6773,7 @@
           "context": "Total,,t CO2-e,,\"59,259\",,\"58,620\",\"27,085\",\"144,964\""
         },
         "scope_2": {
-          "value": 119648,
+          "value": 883,
           "confidence": 0.9,
           "context": "Total,,765,–,–,118,883",
           "method": "location"
@@ -6744,7 +7139,20 @@
         "name": "Insignia Financial Ltd.",
         "ticker": "IFL-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "No material Scope 1 sources identified. Citation(s): [15, 16]",
+          "value": 0
+        },
+        "scope_2": {
+          "context": "Citation(s): [15]",
+          "value": 1344
+        },
+        "scope_3": {
+          "context": "Citation(s): [17]",
+          "value": 52992
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Investment Services",
@@ -6982,7 +7390,20 @@
         "name": "Breville Group Ltd.",
         "ticker": "BRG-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Reported as combined Scope 1 and 2 emissions (1,116 MT C02eq).",
+          "value": 1116
+        },
+        "scope_2": {
+          "context": "Reported as combined Scope 1 and 2 emissions (1,116 MT C02eq).",
+          "value": 1116
+        },
+        "scope_3": {
+          "context": "FY24 Scope 3 product emissions estimated and reported as 1,352,563.74 MT CO2 eq.",
+          "value": 1352564
+        }
+      },
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_context": "Household Products",
@@ -7086,7 +7507,12 @@
         "name": "Technology One Ltd.",
         "ticker": "TNE-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_3": {
+          "context": "Citation(s): [37]",
+          "value": 7941
+        }
+      },
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_context": "Software and Consulting",
@@ -7237,7 +7663,20 @@
         "name": "Super Retail Group Ltd.",
         "ticker": "SUL-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Citation(s): [26, 27]",
+          "value": 1565
+        },
+        "scope_2": {
+          "context": "Citation(s): [26, 27]",
+          "value": 51946
+        },
+        "scope_3": {
+          "context": "Includes limited categories (Air travel: 3,291 tCO₂ + Road travel: 128 tCO₂). Citation(s): [28, 29]",
+          "value": 3419
+        }
+      },
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_context": "Consumer Retail",
@@ -7268,7 +7707,20 @@
         "name": "Data#3 Ltd.",
         "ticker": "DTL-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Calculated total: Transport Fuels (7.3) + Stationary Fuels (2.4) + Synthetic Greenhouse Gases (47.3). Citation(s): [10]",
+          "value": 57
+        },
+        "scope_2": {
+          "context": "Electricity. Citation(s): [11]",
+          "value": 577
+        },
+        "scope_3": {
+          "context": "Calculated total of all other listed components (e.g., Purchased goods, Business Travel, Employee Commuting). Citation(s): [10, 11]",
+          "value": 4500
+        }
+      },
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_context": "Software and Consulting",
@@ -7329,7 +7781,16 @@
         "name": "Abacus Group",
         "ticker": "ABG-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Citation(s): [34]",
+          "value": 1233
+        },
+        "scope_2": {
+          "context": "Citation(s): [34]",
+          "value": 5659
+        }
+      },
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_context": "Real Estate",
@@ -7422,7 +7883,20 @@
         "name": "Amplitude Energy Ltd.",
         "ticker": "AEL-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Citation(s): [1]",
+          "value": 83609
+        },
+        "scope_2": {
+          "context": "Citation(s): [1]",
+          "value": 1542
+        },
+        "scope_3": {
+          "context": "Total Scope 3, including customer emissions. Relevant Scope 3 emissions were 18,505 tCO2-e. Citation(s): [1, 2]",
+          "value": 1484405
+        }
+      },
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_context": "Upstream Energy",
@@ -7658,12 +8132,12 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 2550,
+          "value": 29,
           "confidence": 1.0,
           "context": ",,\"and services 2.55%\nand distribution 0.003%\"\n,\"employees working from home, and the number of days per week\","
         },
         "scope_2": {
-          "value": 1000,
+          "value": 940,
           "confidence": 1.0,
           "context": "=== Table 1 (page 18) ===\nFY25 IN REVIEW. (CONTINUED),,",
           "method": "market"
@@ -7729,7 +8203,20 @@
         "name": "REA Group Ltd.",
         "ticker": "REA-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Scope 2 uses market-based methodology [19]. Total Scope 3 emissions for FY25 [20].",
+          "value": 74
+        },
+        "scope_2": {
+          "context": "Scope 2 uses market-based methodology [19]. Total Scope 3 emissions for FY25 [20].",
+          "value": 418
+        },
+        "scope_3": {
+          "context": "Scope 2 uses market-based methodology [19]. Total Scope 3 emissions for FY25 [20].",
+          "value": 46046
+        }
+      },
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_confidence": 0.9,
@@ -7761,7 +8248,20 @@
         "name": "Domino'S Pizza Enterprises Ltd.",
         "ticker": "DMP-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Estimated as 1% of the 1.55 MTCO2eq total footprint. Citation(s): [12]",
+          "value": 15500
+        },
+        "scope_2": {
+          "context": "Estimated as 2% of the 1.55 MTCO2eq total footprint. Citation(s): [12]",
+          "value": 31000
+        },
+        "scope_3": {
+          "context": "Estimated as 97% of the 1.55 MTCO2eq total footprint. Citation(s): [12]",
+          "value": 1503500
+        }
+      },
       "annotations": {
         "anzsic_division": "Manufacturing",
         "anzsic_context": "Hospitality Services",
@@ -8161,7 +8661,7 @@
           "context": "our environmental footprint is a key part of our goal,,,,,,,our operations need to adopt new technologies\n,Scope 1,,,,,,\nto achieving net zero carbon emissions by 2050 for,,,,,,,to meet our climate commitments. Our Rosebery"
         },
         "scope_2": {
-          "value": 315043,
+          "value": 315044,
           "confidence": 1.0,
           "context": ",,,,,,,requirements underground. They also considerably\n,Scope 2,,\"315,043.80\",Downstream T&D,,\"42,585.35\",\n\"requirements. Dugald River’s solar farm, which\",,,,,,,"
         },
@@ -8391,7 +8891,16 @@
         "name": "Ora Banda Mining Ltd.",
         "ticker": "OBM-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Citation(s): [20]",
+          "value": 48730
+        },
+        "scope_2": {
+          "context": "Citation(s): [20]",
+          "value": 919
+        }
+      },
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_context": "Mining and Mineral Products",
@@ -8421,7 +8930,12 @@
         "name": "Sigma Healthcare Ltd.",
         "ticker": "SIG-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Combined Scope 1 and 2 total Citation(s): [45]",
+          "value": 8613
+        }
+      },
       "annotations": {
         "anzsic_division": "Wholesale Trade",
         "anzsic_context": "Healthcare Services",
@@ -8513,7 +9027,16 @@
         "name": "Emerald Resources NL",
         "ticker": "EMR-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Calculated total across locations: Cambodia (2,716) + Okvau Gold Mine (40,733) + Exploration (1,659). Citation(s): [13]",
+          "value": 45108
+        },
+        "scope_2": {
+          "context": "Calculated total across locations: Corporate Office Cambodia (14) + Okvau Gold Mine (33,235) + Corporate Office Australia (11). Citation(s): [13]",
+          "value": 33260
+        }
+      },
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_context": "Mining and Mineral Products",
@@ -8951,7 +9474,16 @@
         "name": "Service Stream Ltd.",
         "ticker": "SSM-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Citation(s): [23]",
+          "value": 14301
+        },
+        "scope_2": {
+          "context": "Citation(s): [23]",
+          "value": 3528
+        }
+      },
       "annotations": {
         "anzsic_division": "Construction",
         "anzsic_context": "Industrial Services",
@@ -9228,7 +9760,20 @@
         "name": "Pinnacle Investment Management Group Ltd.",
         "ticker": "PNI-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Scope 1 is 0 [17]. Scope 2 (market-based) is 0 due to LGC purchases [17, 18]. Scope 3 uses market-based methodology [17].",
+          "value": 0
+        },
+        "scope_2": {
+          "context": "Scope 1 is 0 [17]. Scope 2 (market-based) is 0 due to LGC purchases [17, 18]. Scope 3 uses market-based methodology [17].",
+          "value": 0
+        },
+        "scope_3": {
+          "context": "Scope 1 is 0 [17]. Scope 2 (market-based) is 0 due to LGC purchases [17, 18]. Scope 3 uses market-based methodology [17].",
+          "value": 1194
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Investment Services",
@@ -9560,18 +10105,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 27001000,
+          "value": 1,
           "confidence": 1.0,
           "context": "Demonstrated progress on,with ISO 27001\nscope 1 and 2 emission,Increased employee engagement to\nreduction. Opted into,"
         },
         "scope_2": {
-          "value": 257560,
+          "value": 161,
           "confidence": 1.0,
           "context": "Scope,Emissions Source,FY25,FY24,FY23,(Baseline)\n1,Refrigerants,0.66,2.16,2.35,2.35\n2,Location-based,257.56,250.82,290.76,253.10",
           "method": "location"
         },
         "scope_3": {
-          "value": 10506370,
+          "value": 10484,
           "confidence": 1.0,
           "context": ",Category 15 - Investments,217.38,329.36,235.00,221.81\nTotal - (Scope 3),Location-based,\"10,506.37\",\"8,434.18\",\"7,272.83\",\"5,107.64\"\nTotal - (Scope 3),Market-based,\"10,483.74\",\"8,409.20\",\"7,272.83\",\"5,107.64\"",
           "qualifiers": "Location-based emissions."
@@ -9730,7 +10275,7 @@
           "context": "+\",\n,Emissions intensity - Scope 1 only (t CO2e/oz),0.82,0.57,0.53,,\n,,,,,related Financial Information [for which disclosure is,"
         },
         "scope_2": {
-          "value": 132800,
+          "value": 133,
           "confidence": 1.0,
           "context": "both internally and to an external party.,,\n,Scope 2 GHG emissions (location based) – all sites,132.8 tCO2-eq\n,Total Energy Consumption – all sites,\"1,693,215 GJ\"",
           "method": "location"
@@ -9993,12 +10538,12 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 997048,
+          "value": 582483,
           "confidence": 1.0,
           "context": "3.,OUR BUSINESS AND PERFORMANCE,8,,,\n,,,,Scope 1 and 2 Emissions,67\n3.1,Our Business,8,,,"
         },
         "scope_2": {
-          "value": 111075,
+          "value": 114865,
           "confidence": 1.0,
           "context": "Total Scope 1 Emissions,tCO2-e,\"582,483\",\"797,805\",\"997,048\"\nTotal Scope 2 Emissions,tCO2-e,\"114,865\",\"109,674\",\"111,075\"\nTotal Emissions,tCO2-e,\"697,348\",\"907,479\",\"1,108,123\""
         }
@@ -10251,7 +10796,20 @@
         "name": "Atlas Arteria Ltd.",
         "ticker": "ALX-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Scope 2 uses market-based methodology [1]. Scope 3 represents customer emissions only [1].",
+          "value": 6013
+        },
+        "scope_2": {
+          "context": "Scope 2 uses market-based methodology [1]. Scope 3 represents customer emissions only [1].",
+          "value": 39
+        },
+        "scope_3": {
+          "context": "Scope 2 uses market-based methodology [1]. Scope 3 represents customer emissions only [1].",
+          "value": 2353964
+        }
+      },
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_context": "Industrial Services",
@@ -10348,7 +10906,20 @@
         "name": "Appen Ltd.",
         "ticker": "APX-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Scope 1 (Natural gas) [2, 3]. Scope 2 uses Market-Based methodology [2, 3].",
+          "value": 309
+        },
+        "scope_2": {
+          "context": "Scope 1 (Natural gas) [2, 3]. Scope 2 uses Market-Based methodology [2, 3].",
+          "value": 1631
+        },
+        "scope_3": {
+          "context": "Scope 1 (Natural gas) [2, 3]. Scope 2 uses Market-Based methodology [2, 3].",
+          "value": 12496
+        }
+      },
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_context": "Software and Consulting",
@@ -10379,7 +10950,20 @@
         "name": "Aurizon Holdings Ltd.",
         "ticker": "AZJ-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Scope 1 emissions reported in FY2023 [6]. Scope 2 uses Market-based methodology [7]. Scope 3 emissions reported in FY2023 [7].",
+          "value": 591216
+        },
+        "scope_2": {
+          "context": "Scope 1 emissions reported in FY2023 [6]. Scope 2 uses Market-based methodology [7]. Scope 3 emissions reported in FY2023 [7].",
+          "value": 304703
+        },
+        "scope_3": {
+          "context": "Scope 1 emissions reported in FY2023 [6]. Scope 2 uses Market-based methodology [7]. Scope 3 emissions reported in FY2023 [7].",
+          "value": 304710
+        }
+      },
       "annotations": {
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_context": "Industrial Services",
@@ -10544,18 +11128,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 21510,
+          "value": 21500,
           "confidence": 1.0,
           "context": "\"Kilotonnes CO2-e\nTotal scope 1 and 2 CO2-e\temissions\t(net)9\",30.0,16.2,21.5,-11,,,,,,\n,,,,,Female representation,,,,,"
         },
         "scope_2": {
-          "value": 1213000,
+          "value": 0,
           "confidence": 1.0,
           "context": ",,,,,Develop solutions to known,,>  Our position reflects the progress we have made,\"12, 13\",See pages\naverage by 20% (0.43) with a focus,,continued focus on managing hazards that can,,,,,,,\n,,,,,challenges to further progress,,\"in improving the recyclability of our packaging,\",,76–79",
           "method": "location"
         },
         "scope_3": {
-          "value": 342300,
+          "value": 351000,
           "confidence": 1.0,
           "context": ",,,,,Develop solutions to known,,>  Our position reflects the progress we have made,\"12, 13\",See pages\naverage by 20% (0.43) with a focus,,continued focus on managing hazards that can,,,,,,,\n,,,,,challenges to further progress,,\"in improving the recyclability of our packaging,\",,76–79"
         }
@@ -10845,7 +11429,20 @@
         "name": "SiteMinder Ltd.",
         "ticker": "SDR-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Scope 1 emissions are zero [21, 22]. Scope 2 reflects reduction due to transition to 100% GreenPower in Sydney office [21, 23]. Scope 3 emissions for CY23 [21].",
+          "value": 0
+        },
+        "scope_2": {
+          "context": "Scope 1 emissions are zero [21, 22]. Scope 2 reflects reduction due to transition to 100% GreenPower in Sydney office [21, 23]. Scope 3 emissions for CY23 [21].",
+          "value": 119
+        },
+        "scope_3": {
+          "context": "Scope 1 emissions are zero [21, 22]. Scope 2 reflects reduction due to transition to 100% GreenPower in Sydney office [21, 23]. Scope 3 emissions for CY23 [21].",
+          "value": 4763
+        }
+      },
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_context": "Hospitality Services",
@@ -10876,7 +11473,20 @@
         "name": "OFX Group Ltd.",
         "ticker": "OFX-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Scope 1 emissions are zero [15]. Scope 2 uses market-based methodology where available [15, 16]. Scope 3 emissions reported for 2025 [15].",
+          "value": 0
+        },
+        "scope_2": {
+          "context": "Scope 1 emissions are zero [15]. Scope 2 uses market-based methodology where available [15, 16]. Scope 3 emissions reported for 2025 [15].",
+          "value": 57
+        },
+        "scope_3": {
+          "context": "Scope 1 emissions are zero [15]. Scope 2 uses market-based methodology where available [15, 16]. Scope 3 emissions reported for 2025 [15].",
+          "value": 7074
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Specialty Finance and Services",
@@ -11428,7 +12038,20 @@
         "name": "Tyro Payments Ltd.",
         "ticker": "TYR-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Emissions for FY23 [28]. Scope 1 is zero [28].",
+          "value": 0
+        },
+        "scope_2": {
+          "context": "Emissions for FY23 [28]. Scope 1 is zero [28].",
+          "value": 439
+        },
+        "scope_3": {
+          "context": "Emissions for FY23 [28]. Scope 1 is zero [28].",
+          "value": 4488
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Specialty Finance and Services",
@@ -11651,7 +12274,20 @@
         "name": "Arena REIT",
         "ticker": "ARF-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Organizational inventory. Scope 1 and 2 are zero due to purchasing GreenPower [4, 5]. Scope 3 reflects organizational scope 3 emissions (excluding Downstream Leased Assets) [5].",
+          "value": 0
+        },
+        "scope_2": {
+          "context": "Organizational inventory. Scope 1 and 2 are zero due to purchasing GreenPower [4, 5]. Scope 3 reflects organizational scope 3 emissions (excluding Downstream Leased Assets) [5].",
+          "value": 0
+        },
+        "scope_3": {
+          "context": "Organizational inventory. Scope 1 and 2 are zero due to purchasing GreenPower [4, 5]. Scope 3 reflects organizational scope 3 emissions (excluding Downstream Leased Assets) [5].",
+          "value": 206
+        }
+      },
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_context": "Real Estate",
@@ -12519,18 +13155,18 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 97620,
+          "value": 98,
           "confidence": 0.9,
           "context": "Standards Board (AASB).,,,\n,Gross direct Scope 1 emissions (t CO2eq),97.62,\n\"This year, we have continued to deliver against\",,,95%"
         },
         "scope_2": {
-          "value": 50910,
+          "value": 51,
           "confidence": 0.9,
           "context": ",,,\n\"qualitative scenario analysis risk assessment,\",Gross location-based energy indirect Scope 2 emissions (t CO2eq),50.91,\n,,,e-waste recycling rate in our Sydney",
           "method": "location"
         },
         "scope_3": {
-          "value": 10815460,
+          "value": 10815,
           "confidence": 0.9,
           "context": "which included an analysis of our climate-related,,,\n,Gross other indirect Scope 3 emissions (t CO2eq)1,\"10,815.46\",office – equates to a CO₂ reduction of\nrisks and opportunities for two distinct climate,,,"
         }
@@ -12884,7 +13520,20 @@
         "name": "Superloop Ltd.",
         "ticker": "SLC-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY25 GHG emissions based on baseline assessment [24-26].",
+          "value": 54
+        },
+        "scope_2": {
+          "context": "FY25 GHG emissions based on baseline assessment [24-26].",
+          "value": 6851
+        },
+        "scope_3": {
+          "context": "FY25 GHG emissions based on baseline assessment [24-26].",
+          "value": 94411
+        }
+      },
       "annotations": {
         "anzsic_division": "Information Media and Telecommunications",
         "anzsic_context": "Telecommunications",
@@ -12914,7 +13563,20 @@
         "name": "Temple & Webster Group Ltd.",
         "ticker": "TPW-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY25 gross emissions figures [27]. Scope 3 excludes product manufacturing, use of sold products, end-of-life treatment of sold products, and investments due to limitations [27].",
+          "value": 0
+        },
+        "scope_2": {
+          "context": "FY25 gross emissions figures [27]. Scope 3 excludes product manufacturing, use of sold products, end-of-life treatment of sold products, and investments due to limitations [27].",
+          "value": 19
+        },
+        "scope_3": {
+          "context": "FY25 gross emissions figures [27]. Scope 3 excludes product manufacturing, use of sold products, end-of-life treatment of sold products, and investments due to limitations [27].",
+          "value": 28309
+        }
+      },
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_context": "Consumer Retail",
@@ -12944,7 +13606,20 @@
         "name": "Zip Co. Ltd.",
         "ticker": "ZIP-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Emissions data for the 2024 calendar year [33, 34].",
+          "value": 2199
+        },
+        "scope_2": {
+          "context": "Emissions data for the 2024 calendar year [33, 34].",
+          "value": 661
+        },
+        "scope_3": {
+          "context": "Emissions data for the 2024 calendar year [33, 34].",
+          "value": 268853
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Specialty Finance and Services",
@@ -13259,7 +13934,20 @@
         "name": "Waypoint REIT Ltd.",
         "ticker": "WPR-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "FY23 Measured Emissions. Scope 1 is zero [29, 30]. Scope 2 emissions are market-based [31]. Scope 3 total includes only selected direct Scope 3 categories (3, 5, 6, 7, 8) [29, 30, 32].",
+          "value": 0
+        },
+        "scope_2": {
+          "context": "FY23 Measured Emissions. Scope 1 is zero [29, 30]. Scope 2 emissions are market-based [31]. Scope 3 total includes only selected direct Scope 3 categories (3, 5, 6, 7, 8) [29, 30, 32].",
+          "value": 3
+        },
+        "scope_3": {
+          "context": "FY23 Measured Emissions. Scope 1 is zero [29, 30]. Scope 2 emissions are market-based [31]. Scope 3 total includes only selected direct Scope 3 categories (3, 5, 6, 7, 8) [29, 30, 32].",
+          "value": 66
+        }
+      },
       "annotations": {
         "anzsic_division": "Rental, Hiring and Real Estate Services",
         "anzsic_context": "Real Estate",
@@ -13726,7 +14414,7 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 12991.832,
+          "value": 997508,
           "confidence": 1.0,
           "context": "1,299,1832\",7.20,46%,85%\nScope 1 + Scope 2 Total GHG emissions,Total Recordable Injury Frequency Rate,Female representation in our Senior,of our second RAP\n,,Leadership Team (Target: 40%),deliverables completed"
         },
@@ -13992,7 +14680,12 @@
         "name": "HMC Capital Ltd.",
         "ticker": "HMC-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Total calculated from component entities (HMC: 882 + HDN: 20,409 + HCW: 2,317 + DGT: 37,548). Combined Scope 1 and 2 total. Total calculated from component entities (HMC: 882 + HDN: 20,409 + HCW: 2,317 + DGT: 37,548). Citation(s): [41-43]",
+          "value": 61156
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Investment Services",
@@ -14053,7 +14746,12 @@
         "name": "MoneyMe Ltd.",
         "ticker": "MME-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Combined Scope 1 and 2 total Citation(s): [44]",
+          "value": 4
+        }
+      },
       "annotations": {
         "anzsic_division": "Financial and Insurance Services",
         "anzsic_context": "Specialty Finance and Services",
@@ -14086,12 +14784,12 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 2023000,
+          "value": 2800,
           "confidence": 1.0,
           "context": "I am pleased to share our 2023,,\n,our partners and suppliers on,significant milestones in our 5G\nSustainability Report and provide,,"
         },
         "scope_2": {
-          "value": 224400,
+          "value": 226000,
           "confidence": 1.0,
           "context": ",,\n\"224.4\n224.8",
           "method": "market"
@@ -14348,7 +15046,20 @@
         "name": "Dalrymple Bay Infrastructure Ltd.",
         "ticker": "DBI-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Annual diesel consumption associated with DBI leased vehicles. Citation(s): [7]",
+          "value": 54
+        },
+        "scope_2": {
+          "context": "Annual electricity consumption from the Queensland grid associated with DBI’s corporate office. Citation(s): [7]",
+          "value": 20
+        },
+        "scope_3": {
+          "context": "Derived primarily from Scope 1 and Scope 2 emissions of the DBT Operator and other DBI contractors and suppliers. Citation(s): [8, 9]",
+          "value": 79139
+        }
+      },
       "annotations": {
         "anzsic_division": "Electricity, Gas, Water and Waste Services",
         "anzsic_context": "Industrial Services",
@@ -14408,7 +15119,16 @@
         "name": "Peter Warren Automotive Holdings Ltd.",
         "ticker": "PWR-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Citation(s): [22]",
+          "value": 5877
+        },
+        "scope_2": {
+          "context": "Citation(s): [22]",
+          "value": 8291
+        }
+      },
       "annotations": {
         "anzsic_division": "Retail Trade",
         "anzsic_context": "Miscellaneous Retail",
@@ -14499,7 +15219,12 @@
         "name": "29metals Ltd.",
         "ticker": "29M-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Total scope 1 and 2 greenhouse gas emissions. Combined Scope 1 and 2 total. Total scope 1 and 2 greenhouse gas emissions. Citation(s): [38]",
+          "value": 144375
+        }
+      },
       "annotations": {
         "anzsic_division": "Mining",
         "anzsic_context": "Mining and Mineral Products",
@@ -14572,7 +15297,7 @@
           "method": "market"
         },
         "scope_3": {
-          "value": 9170,
+          "value": 9370,
           "confidence": 1.0,
           "context": "total emissions)\n•Scope 3:  9170.5 tonnes (largest contributor at 98% of\ntotal emissions)Our total gross carbon footprint was 9,370.5 tonnes,",
           "qualifiers": "market based"
@@ -14750,7 +15475,7 @@
           "method": "location"
         },
         "scope_3": {
-          "value": 39787000,
+          "value": 39787,
           "confidence": 1.0,
           "context": "emissions profile.\nWe estimated our total Scope 3 emissions to be 39,787\ntonnes CO2-e(i) in FY25.FY23 FY25Electricity consumption",
           "qualifiers": "Location-based emissions factors"
@@ -14913,7 +15638,20 @@
         "name": "Lynch Group Holdings Ltd.",
         "ticker": "LGL-AU"
       },
-      "emissions": {},
+      "emissions": {
+        "scope_1": {
+          "context": "Citation(s): [19]",
+          "value": 39227
+        },
+        "scope_2": {
+          "context": "Citation(s): [19]",
+          "value": 11991
+        },
+        "scope_3": {
+          "context": "Includes selected emissions only (air, sea, and road transport). Citation(s): [19]",
+          "value": 23723
+        }
+      },
       "annotations": {
         "anzsic_division": "Agriculture, Forestry and Fishing",
         "anzsic_context": "Food and Tobacco Production",

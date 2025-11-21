@@ -13,8 +13,7 @@ from typing import Dict, List, Optional, Tuple
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DEFAULT_COMPANIES_PATH = ROOT_DIR / "companies.json"
-DEFAULT_INPUT_PATH = ROOT_DIR / "authoritative_company_emissions.json"
-DEFAULT_SECONDARY_INPUT_PATH = ROOT_DIR / "authoritative_company_emissions_tickers.json"
+DEFAULT_INPUT_GLOB = "authoritative_company_emissions*.json"
 
 
 @dataclass
@@ -59,6 +58,15 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+def discover_default_input_paths() -> List[Path]:
+    candidates = [
+        path
+        for path in sorted(ROOT_DIR.glob(DEFAULT_INPUT_GLOB), key=lambda p: p.name)
+        if path.is_file() and path.stat().st_size > 0
+    ]
+    return candidates
+
+
 def read_json(path: Path) -> Dict:
     if not path.exists():
         raise FileNotFoundError(f"JSON file not found: {path}")
@@ -78,18 +86,18 @@ def normalise_name(name: str) -> str:
     # remove non-alphanumeric separators
     tokens = re.split(r"[^a-z0-9]+", text)
     substitutions = {
-        "limited": "ltd",
-        "ltd": "ltd",
+        "limited": "",
+        "ltd": "",
         "pty": "",
         "plc": "",
-        "holding": "hldg",
-        "holdings": "hldgs",
-        "company": "co",
-        "companies": "co",
-        "corp": "corp",
-        "corporation": "corp",
+        "holding": "",
+        "holdings": "",
+        "company": "",
+        "companies": "",
+        "corp": "",
+        "corporation": "",
         "inc": "",
-        "group": "grp",
+        "group": "",
         "the": "",
         "sa": "",
         "spa": "",
@@ -116,6 +124,39 @@ def extract_ticker_hint(company_name: str) -> Optional[str]:
     if digits:
         ticker = f"{ticker or ''}{digits}"
     return ticker or None
+
+
+def _extract_prefix_ticker(raw_label: str) -> Optional[str]:
+    prefix_match = re.match(r"\s*([A-Za-z0-9.]{2,6})(?=[_\s-])", raw_label)
+    if prefix_match:
+        token = prefix_match.group(1)
+        if token.isupper():
+            return token.replace(".", "")
+    return None
+
+
+def _deduce_identity_from_label(
+    raw_label: str, content: Dict[str, object]
+) -> Tuple[str, Optional[str]]:
+    ticker_hint = content.get("ticker")
+    ticker_hint = ticker_hint.strip().upper() if isinstance(ticker_hint, str) else None
+    prefix_token = _extract_prefix_ticker(raw_label)
+    if not ticker_hint and prefix_token:
+        ticker_hint = prefix_token
+    if not ticker_hint:
+        match = re.search(r"\(([A-Za-z0-9.]+)\)", raw_label)
+        if match:
+            ticker_hint = match.group(1).replace(".", "").upper()
+    entry_company_name = content.get("company_name")
+    if not isinstance(entry_company_name, str) or not entry_company_name.strip():
+        entry_company_name = re.split(r"\s+-\s+", raw_label, maxsplit=1)[0].strip()
+    entry_company_name = (
+        re.sub(r"\([^)]*\)", "", entry_company_name.replace("_", " ")).strip()
+        or raw_label.strip()
+    )
+    if prefix_token and entry_company_name.upper().startswith(prefix_token + " "):
+        entry_company_name = entry_company_name[len(prefix_token) :].lstrip()
+    return entry_company_name, ticker_hint
 
 
 def build_indexes(
@@ -234,6 +275,10 @@ def normalise_entry_from_list(entry: Dict, source: Path) -> Dict:
             r"[A-Za-z0-9]+", candidate.strip()
         ):
             normalised["ticker"] = candidate.strip().upper()
+    emissions = normalised.get("emissions")
+    if isinstance(emissions, Dict):
+        entry_context = normalised.get("notes") or normalised.get("note")
+        normalised["emissions"] = _normalise_scope_payloads(emissions, entry_context)
     return normalised
 
 
@@ -242,9 +287,9 @@ def normalise_entries_from_mapping(
 ) -> Tuple[List[Dict], List[str]]:
     entries: List[Dict] = []
     warnings: List[str] = []
-    for ticker, content in payload.items():
+    for raw_label, content in payload.items():
         if not isinstance(content, Dict):
-            warnings.append(f"Skipped malformed entry for {ticker} in {source}")
+            warnings.append(f"Skipped malformed entry for {raw_label} in {source}")
             continue
         emissions = content.get("emissions")
         if emissions is None:
@@ -252,16 +297,100 @@ def normalise_entries_from_mapping(
                 key: value for key, value in content.items() if key.startswith("scope_")
             }
         if not isinstance(emissions, Dict):
-            warnings.append(f"Invalid emissions object for {ticker} in {source}")
+            warnings.append(f"Invalid emissions object for {raw_label} in {source}")
             continue
+        entry_level_context = content.get("notes") or content.get("note")
+        emissions = _normalise_scope_payloads(emissions, entry_level_context)
+        entry_company_name, ticker_hint = _deduce_identity_from_label(raw_label, content)
         entry = {
-            "company_name": content.get("company_name") or ticker,
-            "ticker": content.get("ticker") or ticker,
+            "company_name": entry_company_name,
+            "ticker": ticker_hint,
             "emissions": emissions,
             "_source": str(source),
+            "_label": raw_label,
         }
         entries.append(entry)
     return entries, warnings
+
+
+def normalise_combined_scope_totals(
+    payload: Dict, source: Path
+) -> Tuple[List[Dict], List[str]]:
+    entries: List[Dict] = []
+    warnings: List[str] = []
+    for raw_label, content in payload.items():
+        if not isinstance(content, Dict):
+            warnings.append(f"Skipped malformed entry for {raw_label} in {source}")
+            continue
+        total_payload = content.get("total_scope_1_and_2")
+        if not isinstance(total_payload, Dict):
+            warnings.append(
+                f"Invalid total_scope_1_and_2 object for {raw_label} in {source}"
+            )
+            continue
+        if "value" not in total_payload:
+            warnings.append(
+                f"Missing value for combined Scope 1 and 2 in {raw_label} ({source})"
+            )
+            continue
+        entry_company_name, ticker_hint = _deduce_identity_from_label(raw_label, content)
+        entry_context = total_payload.get("notes") or content.get("notes") or content.get("note")
+        emissions = {"scope_1": dict(total_payload)}
+        combined_context = "Combined Scope 1 and 2 total"
+        if entry_context:
+            combined_context = f"{combined_context}. {entry_context}"
+        emissions = _normalise_scope_payloads(
+            emissions,
+            combined_context,
+        )
+        entry = {
+            "company_name": entry_company_name,
+            "ticker": ticker_hint,
+            "emissions": emissions,
+            "_source": str(source),
+            "_label": raw_label,
+        }
+        entries.append(entry)
+    return entries, warnings
+
+
+def _normalise_scope_payloads(emissions: Dict[str, object], entry_context: Optional[str] = None) -> Dict[str, object]:
+    normalised: Dict[str, object] = {}
+    for scope_key, payload in emissions.items():
+        if not isinstance(payload, Dict):
+            normalised[scope_key] = payload
+            continue
+        scope_payload = dict(payload)
+        note = scope_payload.pop("note", None)
+        notes = scope_payload.pop("notes", None)
+        citation = scope_payload.pop("citation", None)
+        value = scope_payload.get("value")
+        if isinstance(value, str):
+            stripped = value.strip()
+            lowered = stripped.lower()
+            if lowered in {"n/a", "na", "not applicable", "not available", "none"} or lowered.startswith("not "):
+                scope_payload.pop("value", None)
+            else:
+                scope_payload["value"] = stripped
+        contexts = [
+            scope_payload.get("context"),
+            note,
+            notes,
+            entry_context,
+        ]
+        if citation:
+            contexts.append(f"Citation(s): {citation}")
+        merged_context = " ".join(
+            part.strip()
+            for part in contexts
+            if isinstance(part, str) and part.strip()
+        )
+        if merged_context:
+            scope_payload["context"] = merged_context
+        else:
+            scope_payload.pop("context", None)
+        normalised[scope_key] = scope_payload
+    return normalised
 
 
 def load_authoritative_entries(paths: List[Path]) -> Tuple[List[Dict], List[str]]:
@@ -269,31 +398,54 @@ def load_authoritative_entries(paths: List[Path]) -> Tuple[List[Dict], List[str]
     warnings: List[str] = []
     for path in paths:
         data = read_json(path)
-        if isinstance(data, Dict) and "company_emissions" in data:
-            company_emissions = data["company_emissions"]
-            if not isinstance(company_emissions, list):
-                raise ValueError(
-                    f"authoritative payload in {path} must contain a 'company_emissions' list."
+        if isinstance(data, Dict):
+            handled = False
+            if "company_emissions" in data:
+                company_emissions = data["company_emissions"]
+                if not isinstance(company_emissions, list):
+                    raise ValueError(
+                        f"authoritative payload in {path} must contain a 'company_emissions' list."
+                    )
+                for entry in company_emissions:
+                    if not isinstance(entry, Dict):
+                        warnings.append(f"Skipped malformed list entry in {path}")
+                        continue
+                    collected.append(normalise_entry_from_list(entry, path))
+                handled = True
+            if "companies_emissions" in data and isinstance(
+                data["companies_emissions"], Dict
+            ):
+                entries, local_warnings = normalise_entries_from_mapping(
+                    data["companies_emissions"], path
                 )
-            for entry in company_emissions:
-                if not isinstance(entry, Dict):
-                    warnings.append(f"Skipped malformed list entry in {path}")
-                    continue
-                collected.append(normalise_entry_from_list(entry, path))
-        elif isinstance(data, Dict):
-            entries, local_warnings = normalise_entries_from_mapping(data, path)
-            collected.extend(entries)
-            warnings.extend(local_warnings)
+                collected.extend(entries)
+                warnings.extend(local_warnings)
+                handled = True
+            if "combined_scope_1_and_2_totals_only" in data and isinstance(
+                data["combined_scope_1_and_2_totals_only"], Dict
+            ):
+                entries, local_warnings = normalise_combined_scope_totals(
+                    data["combined_scope_1_and_2_totals_only"], path
+                )
+                collected.extend(entries)
+                warnings.extend(local_warnings)
+                handled = True
+            if not handled:
+                entries, local_warnings = normalise_entries_from_mapping(data, path)
+                collected.extend(entries)
+                warnings.extend(local_warnings)
         else:
             raise ValueError(f"Unsupported authoritative payload format in {path}")
     return collected, warnings
 
 
-def update_scope(scope_data: Optional[Dict], new_value: int) -> Dict:
-    if scope_data is None:
-        return {"value": int(new_value)}
-    updated = dict(scope_data)
-    updated["value"] = int(new_value)
+def update_scope(scope_data: Optional[Dict], scope_payload: Dict) -> Dict:
+    updated = dict(scope_data) if isinstance(scope_data, Dict) else {}
+    for key, value in scope_payload.items():
+        if key == "value":
+            continue
+        updated[key] = value
+    updated["value"] = int(scope_payload["value"])
     return updated
 
 
@@ -371,11 +523,13 @@ def apply_updates(
                     f"Invalid {scope_key}.value for {company_name} (source: {source}): {exc}"
                 )
                 continue
+            scope_payload = dict(scope_values)
+            scope_payload["value"] = new_value
             if previous_value == new_value:
                 continue
             emissions[scope_key] = update_scope(
                 previous_scope if isinstance(previous_scope, dict) else None,
-                new_value,
+                scope_payload,
             )
             update_record["changes"][scope_key] = {
                 "from": previous_value,
@@ -394,9 +548,14 @@ def main() -> int:
     if input_paths:
         resolved_paths = input_paths
     else:
-        resolved_paths = [DEFAULT_INPUT_PATH]
-        if DEFAULT_SECONDARY_INPUT_PATH.exists():
-            resolved_paths.append(DEFAULT_SECONDARY_INPUT_PATH)
+        resolved_paths = discover_default_input_paths()
+        if not resolved_paths:
+            print(
+                "[error] No authoritative_company_emissions*.json files found. "
+                "Provide --input-path explicitly.",
+                file=sys.stderr,
+            )
+            return 1
     try:
         companies_payload = read_json(args.companies_path)
         authoritative_entries, load_warnings = load_authoritative_entries(
