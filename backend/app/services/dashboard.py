@@ -280,15 +280,16 @@ def build_dashboard_metrics(
         if frame.empty:
             return []
         frame = frame.where(pd.notnull(frame), None)
-        return frame.rename(
-            columns={
-                "scope_1": "scope_1",
-                metric_column: metric_label,
-                "anzsic_division": "industry",
-                "name": "company",
-                "revenue_mm": "revenue_mm",
-            }
-        ).to_dict(orient="records")
+        rename_dict = {
+            "scope_1": "scope_1",
+            metric_column: metric_label,
+            "anzsic_division": "industry",
+            "name": "company",
+        }
+        # Only include revenue_mm in rename if it's not the metric_column being renamed
+        if "revenue_mm" in frame.columns and metric_column != "revenue_mm":
+            rename_dict["revenue_mm"] = "revenue_mm"
+        return frame.rename(columns=rename_dict).to_dict(orient="records")
 
     scatter_payload = {
         "scope1_vs_net_income": scatter("net_income_mm", "net_income"),

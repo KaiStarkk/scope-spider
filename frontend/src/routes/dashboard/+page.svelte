@@ -136,6 +136,7 @@
 	let scope1MaxInput = metrics.ranges.scope1?.[1]?.toString() ?? '';
 
 	let activeChart = chartTabs[0].id;
+	let useLogScale = false;
 
 	const plotConfig = { responsive: true, displaylogo: false };
 
@@ -176,12 +177,20 @@
 		}));
 	}
 
-	function scatterLayout(title: string, yLabel: string) {
+	function scatterLayout(title: string, yLabel: string, logScale: boolean = false) {
 		return {
 			title,
 			margin: { t: 50, r: 30, b: 60, l: 70 },
-			xaxis: { title: 'Scope 1 (kgCO₂e)', hoverformat: ',.0f' },
-			yaxis: { title: yLabel, hoverformat: ',.0f' },
+			xaxis: {
+				title: 'Scope 1 (kgCO₂e)',
+				hoverformat: ',.0f',
+				type: logScale ? 'log' : 'linear'
+			},
+			yaxis: {
+				title: yLabel,
+				hoverformat: ',.0f',
+				type: logScale ? 'log' : 'linear'
+			},
 			legend: { orientation: 'h', x: 0, y: -0.2 }
 		};
 	}
@@ -194,14 +203,14 @@
 			const dataset = (metrics.scatter?.[tab.key] as ScatterPoint[] | undefined) ?? [];
 			acc[tab.id] = {
 				data: buildScatter(dataset, tab.valueKey, tab.axisLabel),
-				layout: scatterLayout(tab.label, tab.axisLabel)
+				layout: scatterLayout(tab.label, tab.axisLabel, useLogScale)
 			};
 			return acc;
 		},
 		{} as Record<string, { data: Array<Record<string, unknown>>; layout: Record<string, unknown> }>
 	);
 
-	$: activeChartConfig = scatterConfigs[activeChart] ?? { data: [], layout: scatterLayout('', '') };
+	$: activeChartConfig = scatterConfigs[activeChart] ?? { data: [], layout: scatterLayout('', '', useLogScale) };
 
 	$: revenueBarData = [
 		{
@@ -220,7 +229,11 @@
 		title: 'Top 10 Companies by Revenue',
 		margin: { t: 50, r: 30, b: 80, l: 70 },
 		xaxis: { automargin: true },
-		yaxis: { title: 'Revenue (MM AUD)', hoverformat: ',.0f' }
+		yaxis: {
+			title: 'Revenue (MM AUD)',
+			hoverformat: ',.0f',
+			type: useLogScale ? 'log' : 'linear'
+		}
 	};
 
 	$: groupMatrixRows = metrics.group_matrix?.rows ?? [];
@@ -372,22 +385,32 @@
 	</details>
 
 	<section class="space-y-4 rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
-		<div class="flex flex-wrap items-center gap-2">
-			{#each chartTabs as tab}
-				<button
-					class="rounded-lg border px-3 py-1.5 text-sm font-medium transition-colors"
-					class:bg-slate-900={activeChart === tab.id}
-					class:text-white={activeChart === tab.id}
-					class:border-slate-900={activeChart === tab.id}
-					class:bg-white={activeChart !== tab.id}
-					class:text-slate-700={activeChart !== tab.id}
-					class:border-slate-200={activeChart !== tab.id}
-					on:click={() => (activeChart = tab.id)}
-					type="button"
-				>
-					{tab.label}
-				</button>
-			{/each}
+		<div class="flex flex-wrap items-center justify-between gap-4">
+			<div class="flex flex-wrap items-center gap-2">
+				{#each chartTabs as tab}
+					<button
+						class="rounded-lg border px-3 py-1.5 text-sm font-medium transition-colors"
+						class:bg-slate-900={activeChart === tab.id}
+						class:text-white={activeChart === tab.id}
+						class:border-slate-900={activeChart === tab.id}
+						class:bg-white={activeChart !== tab.id}
+						class:text-slate-700={activeChart !== tab.id}
+						class:border-slate-200={activeChart !== tab.id}
+						on:click={() => (activeChart = tab.id)}
+						type="button"
+					>
+						{tab.label}
+					</button>
+				{/each}
+			</div>
+			<label class="flex items-center gap-2 text-sm text-slate-700">
+				<input
+					type="checkbox"
+					bind:checked={useLogScale}
+					class="h-4 w-4 rounded border-slate-300 text-slate-900 focus:ring-slate-500"
+				/>
+				<span class="font-medium">Log scale</span>
+			</label>
 		</div>
 		<div class="rounded-lg border border-slate-100 bg-white p-3">
 			{#if activeChartConfig.data.length}
@@ -464,7 +487,9 @@
 	<section class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
 		<h3 class="text-lg font-semibold text-slate-900">Top revenue (MM AUD)</h3>
 		{#if revenueBarData[0]?.x?.length}
-			<PlotlyChart data={revenueBarData} layout={revenueBarLayout} config={plotConfig} />
+			{#key JSON.stringify(revenueBarData)}
+				<PlotlyChart data={revenueBarData} layout={revenueBarLayout} config={plotConfig} />
+			{/key}
 		{:else}
 			<p class="text-sm text-slate-500">No revenue data available for this selection.</p>
 		{/if}
