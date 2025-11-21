@@ -1,758 +1,100 @@
-[
-  {
-    "name": "Atlas Pearls Ltd.",
-    "ticker": "ATP-AU"
-  },
-  {
-    "name": "Enero Group Ltd.",
-    "ticker": "EGG-AU"
-  },
-  {
-    "name": "Accent Group Ltd.",
-    "ticker": "AX1-AU"
-  },
-  {
-    "name": "Peet Ltd.",
-    "ticker": "PPC-AU"
-  },
-  {
-    "name": "Perseus Mining Ltd.",
-    "ticker": "PRU-AU"
-  },
-  {
-    "name": "Emeco Holdings Ltd.",
-    "ticker": "EHL-AU"
-  },
-  {
-    "name": "SEEK Ltd.",
-    "ticker": "SEK-AU"
-  },
-  {
-    "name": "Capitol Health Ltd.",
-    "ticker": "CAJ-AU"
-  },
-  {
-    "name": "Solvar Ltd.",
-    "ticker": "SVR-AU"
-  },
-  {
-    "name": "Humm Group Ltd.",
-    "ticker": "HUM-AU"
-  },
-  {
-    "name": "Engenco Ltd.",
-    "ticker": "EGN-AU"
-  },
-  {
-    "name": "SRG Global Ltd.",
-    "ticker": "SRG-AU"
-  },
-  {
-    "name": "Westpac Banking Corp.",
-    "ticker": "WBC-AU"
-  },
-  {
-    "name": "Commonwealth Bank of Australia",
-    "ticker": "CBA-AU"
-  },
-  {
-    "name": "Downer EDI Ltd.",
-    "ticker": "DOW-AU"
-  },
-  {
-    "name": "Insurance Australia Group Ltd.",
-    "ticker": "IAG-AU"
-  },
-  {
-    "name": "QBE Insurance Group Ltd.",
-    "ticker": "QBE-AU"
-  },
-  {
-    "name": "Harvey Norman Holdings Ltd.",
-    "ticker": "HVN-AU"
-  },
-  {
-    "name": "Aristocrat Leisure Ltd.",
-    "ticker": "ALL-AU"
-  },
-  {
-    "name": "Orica Ltd.",
-    "ticker": "ORI-AU"
-  },
-  {
-    "name": "Transurban Group Ltd.",
-    "ticker": "TCL-AU"
-  },
-  {
-    "name": "ARN Media Ltd.",
-    "ticker": "A1N-AU"
-  },
-  {
-    "name": "Washington H. Soul Pattinson & Co. Ltd.",
-    "ticker": "SOL-AU"
-  },
-  {
-    "name": "Sonic Healthcare Ltd.",
-    "ticker": "SHL-AU"
-  },
-  {
-    "name": "Dyno Nobel Ltd.",
-    "ticker": "DNL-AU"
-  },
-  {
-    "name": "Sims Ltd.",
-    "ticker": "SGM-AU"
-  },
-  {
-    "name": "Bank of Queensland Ltd.",
-    "ticker": "BOQ-AU"
-  },
-  {
-    "name": "Ampol Ltd.",
-    "ticker": "ALD-AU"
-  },
-  {
-    "name": "Beach Energy Ltd.",
-    "ticker": "BPT-AU"
-  },
-  {
-    "name": "EVT Ltd.",
-    "ticker": "EVT-AU"
-  },
-  {
-    "name": "Energy Resources of Australia Ltd.",
-    "ticker": "ERA-AU"
-  },
-  {
-    "name": "Austal Ltd.",
-    "ticker": "ASB-AU"
-  },
-  {
-    "name": "Servcorp Ltd.",
-    "ticker": "SRV-AU"
-  },
-  {
-    "name": "Amotiv Ltd.",
-    "ticker": "AOV-AU"
-  },
-  {
-    "name": "Premier Investments Ltd.",
-    "ticker": "PMV-AU"
-  },
-  {
-    "name": "ARB Corp. Ltd.",
-    "ticker": "ARB-AU"
-  },
-  {
-    "name": "Fleetwood Ltd.",
-    "ticker": "FWD-AU"
-  },
-  {
-    "name": "K&S Corp. Ltd.",
-    "ticker": "KSC-AU"
-  },
-  {
-    "name": "Energy World Corp. Ltd.",
-    "ticker": "EWC-AU"
-  },
-  {
-    "name": "Noumi Ltd.",
-    "ticker": "NOU-AU"
-  },
-  {
-    "name": "Grange Resources Ltd.",
-    "ticker": "GRR-AU"
-  },
-  {
-    "name": "Paladin Energy Ltd.",
-    "ticker": "PDN-AU"
-  },
-  {
-    "name": "Axiom Properties Ltd.",
-    "ticker": "AXI-AU"
-  },
-  {
-    "name": "Ainsworth Game Technology Ltd.",
-    "ticker": "AGI-AU"
-  },
-  {
-    "name": "SKS Technologies Group Ltd.",
-    "ticker": "SKS-AU"
-  },
-  {
-    "name": "Lindsay Australia Ltd.",
-    "ticker": "LAU-AU"
-  },
-  {
-    "name": "Insignia Financial Ltd.",
-    "ticker": "IFL-AU"
-  },
-  {
-    "name": "BWP Trust",
-    "ticker": "BWP-AU"
-  },
-  {
-    "name": "Carindale Property Trust",
-    "ticker": "CDP-AU"
-  },
-  {
-    "name": "Breville Group Ltd.",
-    "ticker": "BRG-AU"
-  },
-  {
-    "name": "Technology One Ltd.",
-    "ticker": "TNE-AU"
-  },
-  {
-    "name": "PRL Global Ltd.",
-    "ticker": "PRG-AU"
-  },
-  {
-    "name": "JB Hi-Fi Ltd.",
-    "ticker": "JBH-AU"
-  },
-  {
-    "name": "Vault Minerals Ltd.",
-    "ticker": "VAU-AU"
-  },
-  {
-    "name": "Charter Hall Social Infrastructure REIT",
-    "ticker": "CQE-AU"
-  },
-  {
-    "name": "Super Retail Group Ltd.",
-    "ticker": "SUL-AU"
-  },
-  {
-    "name": "Data#3 Ltd.",
-    "ticker": "DTL-AU"
-  },
-  {
-    "name": "Virgin Australia Holdings Ltd.",
-    "ticker": "VGN-AU"
-  },
-  {
-    "name": "Abacus Group",
-    "ticker": "ABG-AU"
-  },
-  {
-    "name": "Boom Logistics Ltd.",
-    "ticker": "BOL-AU"
-  },
-  {
-    "name": "Lake Resources NL",
-    "ticker": "LKE-AU"
-  },
-  {
-    "name": "Amplitude Energy Ltd.",
-    "ticker": "AEL-AU"
-  },
-  {
-    "name": "Helloworld Travel Ltd.",
-    "ticker": "HLO-AU"
-  },
-  {
-    "name": "Resimac Group Ltd.",
-    "ticker": "RMC-AU"
-  },
-  {
-    "name": "REA Group Ltd.",
-    "ticker": "REA-AU"
-  },
-  {
-    "name": "Domino'S Pizza Enterprises Ltd.",
-    "ticker": "DMP-AU"
-  },
-  {
-    "name": "Mesoblast Ltd.",
-    "ticker": "MSB-AU"
-  },
-  {
-    "name": "Regional Express Holdings Ltd.",
-    "ticker": "REX-AU"
-  },
-  {
-    "name": "AUB Group Ltd.",
-    "ticker": "AUB-AU"
-  },
-  {
-    "name": "Ora Banda Mining Ltd.",
-    "ticker": "OBM-AU"
-  },
-  {
-    "name": "Sigma Healthcare Ltd.",
-    "ticker": "SIG-AU"
-  },
-  {
-    "name": "Bravura Solutions Ltd.",
-    "ticker": "BVS-AU"
-  },
-  {
-    "name": "Navigator Global Investments Ltd.",
-    "ticker": "NGI-AU"
-  },
-  {
-    "name": "Emerald Resources NL",
-    "ticker": "EMR-AU"
-  },
-  {
-    "name": "United Overseas Australia Ltd.",
-    "ticker": "UOS-AU"
-  },
-  {
-    "name": "AMA Group Ltd.",
-    "ticker": "AMA-AU"
-  },
-  {
-    "name": "Generation Development Group Ltd.",
-    "ticker": "GDG-AU"
-  },
-  {
-    "name": "Coles Group Ltd.",
-    "ticker": "COL-AU"
-  },
-  {
-    "name": "City Chic Collective Ltd.",
-    "ticker": "CCX-AU"
-  },
-  {
-    "name": "Cuscal Ltd.",
-    "ticker": "CCL-AU"
-  },
-  {
-    "name": "Service Stream Ltd.",
-    "ticker": "SSM-AU"
-  },
-  {
-    "name": "MFF Capital Investments Ltd.",
-    "ticker": "MFF-AU"
-  },
-  {
-    "name": "Pinnacle Investment Management Group Ltd.",
-    "ticker": "PNI-AU"
-  },
-  {
-    "name": "NRW Holdings Ltd.",
-    "ticker": "NWH-AU"
-  },
-  {
-    "name": "Magellan Financial Group Ltd.",
-    "ticker": "MFG-AU"
-  },
-  {
-    "name": "Southern Cross Electrical Engineering Ltd.",
-    "ticker": "SXE-AU"
-  },
-  {
-    "name": "Bell Financial Group Ltd.",
-    "ticker": "BFG-AU"
-  },
-  {
-    "name": "Bellevue Gold Ltd.",
-    "ticker": "BGL-AU"
-  },
-  {
-    "name": "Bendigo & Adelaide Bank Ltd.",
-    "ticker": "BEN-AU"
-  },
-  {
-    "name": "Capricorn Metals Ltd.",
-    "ticker": "CMM-AU"
-  },
-  {
-    "name": "Paragon Care Ltd.",
-    "ticker": "PGC-AU"
-  },
-  {
-    "name": "Mastermyne Group Ltd.",
-    "ticker": "MYE-AU"
-  },
-  {
-    "name": "Growthpoint Properties Australia",
-    "ticker": "GOZ-AU"
-  },
-  {
-    "name": "MyState Ltd.",
-    "ticker": "MYS-AU"
-  },
-  {
-    "name": "Myer Holdings Ltd.",
-    "ticker": "MYR-AU"
-  },
-  {
-    "name": "Bega Cheese Ltd.",
-    "ticker": "BGA-AU"
-  },
-  {
-    "name": "Southern Cross Media Group Ltd.",
-    "ticker": "SXL-AU"
-  },
-  {
-    "name": "Ricegrowers Ltd.",
-    "ticker": "SGLLV-AU"
-  },
-  {
-    "name": "Pilbara Minerals Ltd.",
-    "ticker": "PLS-AU"
-  },
-  {
-    "name": "Atlas Arteria Ltd.",
-    "ticker": "ALX-AU"
-  },
-  {
-    "name": "Appen Ltd.",
-    "ticker": "APX-AU"
-  },
-  {
-    "name": "Aurizon Holdings Ltd.",
-    "ticker": "AZJ-AU"
-  },
-  {
-    "name": "Clearview Wealth Ltd.",
-    "ticker": "CVW-AU"
-  },
-  {
-    "name": "EcoGraf Ltd.",
-    "ticker": "EGR-AU"
-  },
-  {
-    "name": "The Star Entertainment Group Ltd.",
-    "ticker": "SGR-AU"
-  },
-  {
-    "name": "Mayne Pharma Group Ltd.",
-    "ticker": "MYX-AU"
-  },
-  {
-    "name": "Adairs Ltd.",
-    "ticker": "ADH-AU"
-  },
-  {
-    "name": "SiteMinder Ltd.",
-    "ticker": "SDR-AU"
-  },
-  {
-    "name": "OFX Group Ltd.",
-    "ticker": "OFX-AU"
-  },
-  {
-    "name": "Dicker Data Ltd.",
-    "ticker": "DDR-AU"
-  },
-  {
-    "name": "GR Engineering Services Ltd.",
-    "ticker": "GNG-AU"
-  },
-  {
-    "name": "Bowen Coking Coal Ltd.",
-    "ticker": "BCB-AU"
-  },
-  {
-    "name": "EML Payments Ltd.",
-    "ticker": "EML-AU"
-  },
-  {
-    "name": "Evolution Mining Ltd.",
-    "ticker": "EVN-AU"
-  },
-  {
-    "name": "US Masters Residential Property Fund",
-    "ticker": "URF-AU"
-  },
-  {
-    "name": "Alliance Aviation Services Ltd.",
-    "ticker": "AQZ-AU"
-  },
-  {
-    "name": "Articore Group Ltd.",
-    "ticker": "ATG-AU"
-  },
-  {
-    "name": "Tyro Payments Ltd.",
-    "ticker": "TYR-AU"
-  },
-  {
-    "name": "Netwealth Group Ltd.",
-    "ticker": "NWL-AU"
-  },
-  {
-    "name": "Region Group",
-    "ticker": "RGN-AU"
-  },
-  {
-    "name": "Burgundy Diamond Mines Ltd.",
-    "ticker": "BDM-AU"
-  },
-  {
-    "name": "Centuria Industrial REIT",
-    "ticker": "CIP-AU"
-  },
-  {
-    "name": "Arena REIT",
-    "ticker": "ARF-AU"
-  },
-  {
-    "name": "Cobram Estate Olives Ltd.",
-    "ticker": "CBO-AU"
-  },
-  {
-    "name": "Motorcycle Holdings Ltd.",
-    "ticker": "MTO-AU"
-  },
-  {
-    "name": "Dexus Industria REIT",
-    "ticker": "DXI-AU"
-  },
-  {
-    "name": "Liberty Financial Group Ltd. (Australia)",
-    "ticker": "LFG-AU"
-  },
-  {
-    "name": "Hotel Property Investments Ltd.",
-    "ticker": "HPI-AU"
-  },
-  {
-    "name": "GDI Property Group Ltd.",
-    "ticker": "GDI-AU"
-  },
-  {
-    "name": "Rural Funds Group",
-    "ticker": "RFF-AU"
-  },
-  {
-    "name": "SG Fleet Group Ltd.",
-    "ticker": "SGF-AU"
-  },
-  {
-    "name": "oOh!media Ltd.",
-    "ticker": "OML-AU"
-  },
-  {
-    "name": "Helia Group Ltd.",
-    "ticker": "HLI-AU"
-  },
-  {
-    "name": "Monash IVF Group Ltd.",
-    "ticker": "MVF-AU"
-  },
-  {
-    "name": "Ashley Services Group Ltd.",
-    "ticker": "ASH-AU"
-  },
-  {
-    "name": "Simonds Group Ltd.",
-    "ticker": "SIO-AU"
-  },
-  {
-    "name": "Centuria Office REIT",
-    "ticker": "COF-AU"
-  },
-  {
-    "name": "Lovisa Holdings Ltd.",
-    "ticker": "LOV-AU"
-  },
-  {
-    "name": "FleetPartners Group Ltd.",
-    "ticker": "FPR-AU"
-  },
-  {
-    "name": "Superloop Ltd.",
-    "ticker": "SLC-AU"
-  },
-  {
-    "name": "Temple & Webster Group Ltd.",
-    "ticker": "TPW-AU"
-  },
-  {
-    "name": "Zip Co. Ltd.",
-    "ticker": "ZIP-AU"
-  },
-  {
-    "name": "Integral Diagnostics Ltd.",
-    "ticker": "IDX-AU"
-  },
-  {
-    "name": "PWR Holdings Ltd.",
-    "ticker": "PWH-AU"
-  },
-  {
-    "name": "MLG Oz Ltd.",
-    "ticker": "MLG-AU"
-  },
-  {
-    "name": "IVE Group Ltd.",
-    "ticker": "IGL-AU"
-  },
-  {
-    "name": "Big River Industries Ltd.",
-    "ticker": "BRI-AU"
-  },
-  {
-    "name": "Nobleoak Life Ltd.",
-    "ticker": "NOL-AU"
-  },
-  {
-    "name": "Kogan.com Ltd.",
-    "ticker": "KGN-AU"
-  },
-  {
-    "name": "Waypoint REIT Ltd.",
-    "ticker": "WPR-AU"
-  },
-  {
-    "name": "Qoria Ltd.",
-    "ticker": "QOR-AU"
-  },
-  {
-    "name": "Johns Lyng Group Ltd.",
-    "ticker": "JLG-AU"
-  },
-  {
-    "name": "Autosports Group Ltd.",
-    "ticker": "ASG-AU"
-  },
-  {
-    "name": "Lithium Universe Ltd.",
-    "ticker": "LU7-AU"
-  },
-  {
-    "name": "Ventia Services Group Ltd.",
-    "ticker": "VNT-AU"
-  },
-  {
-    "name": "MA Financial Group Ltd.",
-    "ticker": "MAF-AU"
-  },
-  {
-    "name": "Pepper Money Ltd.",
-    "ticker": "PPM-AU"
-  },
-  {
-    "name": "Telix Pharmaceuticals Ltd.",
-    "ticker": "TLX-AU"
-  },
-  {
-    "name": "NTAW Holdings Ltd.",
-    "ticker": "NTD-AU"
-  },
-  {
-    "name": "PeopleIn Ltd.",
-    "ticker": "PPE-AU"
-  },
-  {
-    "name": "Wagners Holding Co. Ltd.",
-    "ticker": "WGN-AU"
-  },
-  {
-    "name": "Latitude Group Holdings Ltd.",
-    "ticker": "LFS-AU"
-  },
-  {
-    "name": "Judo Capital Holdings Ltd.",
-    "ticker": "JDO-AU"
-  },
-  {
-    "name": "Qualitas Real Estate Income Fund",
-    "ticker": "QRI-AU"
-  },
-  {
-    "name": "Coronado Global Resources, Inc.",
-    "ticker": "0K17S2-E"
-  },
-  {
-    "name": "Mader Group Ltd.",
-    "ticker": "MAD-AU"
-  },
-  {
-    "name": "HMC Capital Ltd.",
-    "ticker": "HMC-AU"
-  },
-  {
-    "name": "KKR Credit Income Fund",
-    "ticker": "KKC-AU"
-  },
-  {
-    "name": "MoneyMe Ltd.",
-    "ticker": "MME-AU"
-  },
-  {
-    "name": "Plenti Group Ltd.",
-    "ticker": "PLT-AU"
-  },
-  {
-    "name": "HomeCo Daily Needs REIT",
-    "ticker": "HDN-AU"
-  },
-  {
-    "name": "Duratec Ltd.",
-    "ticker": "DUR-AU"
-  },
-  {
-    "name": "GenusPlus Group Ltd.",
-    "ticker": "GNP-AU"
-  },
-  {
-    "name": "Dalrymple Bay Infrastructure Ltd.",
-    "ticker": "DBI-AU"
-  },
-  {
-    "name": "Cettire Ltd.",
-    "ticker": "CTT-AU"
-  },
-  {
-    "name": "Peter Warren Automotive Holdings Ltd.",
-    "ticker": "PWR-AU"
-  },
-  {
-    "name": "Australian Clinical Labs Ltd.",
-    "ticker": "ACL-AU"
-  },
-  {
-    "name": "DGL Group Ltd.",
-    "ticker": "DGL-AU"
-  },
-  {
-    "name": "29metals Ltd.",
-    "ticker": "29M-AU"
-  },
-  {
-    "name": "Silk Logistics Holdings Ltd.",
-    "ticker": "SLH-AU"
-  },
-  {
-    "name": "HealthCo Healthcare & Wellness REIT",
-    "ticker": "HCW-AU"
-  },
-  {
-    "name": "Regal Partners Ltd.",
-    "ticker": "RPL-AU"
-  },
-  {
-    "name": "Lynch Group Holdings Ltd.",
-    "ticker": "LGL-AU"
-  },
-  {
-    "name": "ANZ Group Holdings Ltd.",
-    "ticker": "ANZ-AU"
-  },
-  {
-    "name": "Abacus Storage King",
-    "ticker": "ASK-AU"
-  },
-  {
-    "name": "Symal Group Ltd.",
-    "ticker": "SYL-AU"
-  },
-  {
-    "name": "Tasmea Ltd.",
-    "ticker": "TEA-AU"
-  },
-  {
-    "name": "DigiCo Infrastructure REIT",
-    "ticker": "DGT-AU"
-  },
-  {
-    "name": "Gemlife Communities Group",
-    "ticker": "GLF-AU"
-  }
-]
+Technology One Ltd. TNE-AU sustainability report "scope 1"
+PRL Global Ltd. PRG-AU sustainability report "scope 1"
+JB Hi-Fi Ltd. JBH-AU sustainability report "scope 1"
+Vault Minerals Ltd. VAU-AU sustainability report "scope 1"
+Super Retail Group Ltd. SUL-AU sustainability report "scope 1"
+Data#3 Ltd. DTL-AU sustainability report "scope 1"
+Virgin Australia Holdings Ltd. VGN-AU sustainability report "scope 1"
+Abacus Group ABG-AU sustainability report "scope 1"
+Boom Logistics Ltd. BOL-AU sustainability report "scope 1"
+Lake Resources NL LKE-AU sustainability report "scope 1"
+Amplitude Energy Ltd. AEL-AU sustainability report "scope 1"
+Helloworld Travel Ltd. HLO-AU sustainability report "scope 1"
+Resimac Group Ltd. RMC-AU sustainability report "scope 1"
+REA Group Ltd. REA-AU sustainability report "scope 1"
+Domino'S Pizza Enterprises Ltd. DMP-AU sustainability report "scope 1"
+Mesoblast Ltd. MSB-AU sustainability report "scope 1"
+Regional Express Holdings Ltd. REX-AU sustainability report "scope 1"
+AUB Group Ltd. AUB-AU sustainability report "scope 1"
+Ora Banda Mining Ltd. OBM-AU sustainability report "scope 1"
+Sigma Healthcare Ltd. SIG-AU sustainability report "scope 1"
+Bravura Solutions Ltd. BVS-AU sustainability report "scope 1"
+Navigator Global Investments Ltd. NGI-AU sustainability report "scope 1"
+Emerald Resources NL EMR-AU sustainability report "scope 1"
+United Overseas Australia Ltd. UOS-AU sustainability report "scope 1"
+AMA Group Ltd. AMA-AU sustainability report "scope 1"
+Generation Development Group Ltd. GDG-AU sustainability report "scope 1"
+Coles Group Ltd. COL-AU sustainability report "scope 1"
+City Chic Collective Ltd. CCX-AU sustainability report "scope 1"
+Cuscal Ltd. CCL-AU sustainability report "scope 1"
+Service Stream Ltd. SSM-AU sustainability report "scope 1"
+MFF Capital Investments Ltd. MFF-AU sustainability report "scope 1"
+Pinnacle Investment Management Group Ltd. PNI-AU sustainability report "scope 1"
+NRW Holdings Ltd. NWH-AU sustainability report "scope 1"
+Magellan Financial Group Ltd. MFG-AU sustainability report "scope 1"
+Southern Cross Electrical Engineering Ltd. SXE-AU sustainability report "scope 1"
+Bell Financial Group Ltd. BFG-AU sustainability report "scope 1"
+Bellevue Gold Ltd. BGL-AU sustainability report "scope 1"
+Bendigo & Adelaide Bank Ltd. BEN-AU sustainability report "scope 1"
+Capricorn Metals Ltd. CMM-AU sustainability report "scope 1"
+Paragon Care Ltd. PGC-AU sustainability report "scope 1"
+Mastermyne Group Ltd. MYE-AU sustainability report "scope 1"
+Growthpoint Properties Australia GOZ-AU sustainability report "scope 1"
+MyState Ltd. MYS-AU sustainability report "scope 1"
+Myer Holdings Ltd. MYR-AU sustainability report "scope 1"
+Bega Cheese Ltd. BGA-AU sustainability report "scope 1"
+Southern Cross Media Group Ltd. SXL-AU sustainability report "scope 1"
+Ricegrowers Ltd. SGLLV-AU sustainability report "scope 1"
+Pilbara Minerals Ltd. PLS-AU sustainability report "scope 1"
+Atlas Arteria Ltd. ALX-AU sustainability report "scope 1"
+Appen Ltd. APX-AU sustainability report "scope 1"
+Aurizon Holdings Ltd. AZJ-AU sustainability report "scope 1"
+Clearview Wealth Ltd. CVW-AU sustainability report "scope 1"
+EcoGraf Ltd. EGR-AU sustainability report "scope 1"
+The Star Entertainment Group Ltd. SGR-AU sustainability report "scope 1"
+Mayne Pharma Group Ltd. MYX-AU sustainability report "scope 1"
+Adairs Ltd. ADH-AU sustainability report "scope 1"
+SiteMinder Ltd. SDR-AU sustainability report "scope 1"
+OFX Group Ltd. OFX-AU sustainability report "scope 1"
+Dicker Data Ltd. DDR-AU sustainability report "scope 1"
+GR Engineering Services Ltd. GNG-AU sustainability report "scope 1"
+Bowen Coking Coal Ltd. BCB-AU sustainability report "scope 1"
+EML Payments Ltd. EML-AU sustainability report "scope 1"
+Evolution Mining Ltd. EVN-AU sustainability report "scope 1"
+US Masters Residential Property Fund URF-AU sustainability report "scope 1"
+Alliance Aviation Services Ltd. AQZ-AU sustainability report "scope 1"
+Articore Group Ltd. ATG-AU sustainability report "scope 1"
+Tyro Payments Ltd. TYR-AU sustainability report "scope 1"
+Netwealth Group Ltd. NWL-AU sustainability report "scope 1"
+Region Group RGN-AU sustainability report "scope 1"
+Burgundy Diamond Mines Ltd. BDM-AU sustainability report "scope 1"
+Centuria Industrial REIT CIP-AU sustainability report "scope 1"
+Arena REIT ARF-AU sustainability report "scope 1"
+Cobram Estate Olives Ltd. CBO-AU sustainability report "scope 1"
+Motorcycle Holdings Ltd. MTO-AU sustainability report "scope 1"
+Dexus Industria REIT DXI-AU sustainability report "scope 1"
+Liberty Financial Group Ltd. (Australia) LFG-AU sustainability report "scope 1"
+Hotel Property Investments Ltd. HPI-AU sustainability report "scope 1"
+GDI Property Group Ltd. GDI-AU sustainability report "scope 1"
+Rural Funds Group RFF-AU sustainability report "scope 1"
+SG Fleet Group Ltd. SGF-AU sustainability report "scope 1"
+oOh!media Ltd. OML-AU sustainability report "scope 1"
+Helia Group Ltd. HLI-AU sustainability report "scope 1"
+Monash IVF Group Ltd. MVF-AU sustainability report "scope 1"
+Ashley Services Group Ltd. ASH-AU sustainability report "scope 1"
+Simonds Group Ltd. SIO-AU sustainability report "scope 1"
+Centuria Office REIT COF-AU sustainability report "scope 1"
+Lovisa Holdings Ltd. LOV-AU sustainability report "scope 1"
+FleetPartners Group Ltd. FPR-AU sustainability report "scope 1"
+Superloop Ltd. SLC-AU sustainability report "scope 1"
+Temple & Webster Group Ltd. TPW-AU sustainability report "scope 1"
+Zip Co. Ltd. ZIP-AU sustainability report "scope 1"
+Integral Diagnostics Ltd. IDX-AU sustainability report "scope 1"
+PWR Holdings Ltd. PWH-AU sustainability report "scope 1"
+MLG Oz Ltd. MLG-AU sustainability report "scope 1"
+IVE Group Ltd. IGL-AU sustainability report "scope 1"
+Big River Industries Ltd. BRI-AU sustainability report "scope 1"
+Nobleoak Life Ltd. NOL-AU sustainability report "scope 1"
+Kogan.com Ltd. KGN-AU sustainability report "scope 1"
+Waypoint REIT Ltd. WPR-AU sustainability report "scope 1"
+Qoria Ltd. QOR-AU sustainability report "scope 1"

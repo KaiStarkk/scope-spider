@@ -27,7 +27,7 @@
           if [ -f backend/requirements.txt ]; then
             python -m pip install --no-input -r backend/requirements.txt >/dev/null 2>&1
           fi
-          python -m pip install --no-input "openai==2.7.1" openpyxl pandas plotly dash requests tqdm PyPDF2 rapidfuzz camelot-py[cv] tiktoken pycryptodome llama-cpp-python pdf2image pillow >/dev/null 2>&1
+          python -m pip install --no-input "openai==2.7.1" openpyxl pandas pandas-stubs plotly dash requests tqdm PyPDF2 rapidfuzz camelot-py[cv] tiktoken pycryptodome llama-cpp-python pdf2image pillow >/dev/null 2>&1
           ln -sf ${pkgs.nodejs_20}/bin/node .venv/bin/node
           ln -sf ${pkgs.nodejs_20}/bin/npm .venv/bin/npm
           ln -sf ${pkgs.nodejs_20}/bin/npx .venv/bin/npx

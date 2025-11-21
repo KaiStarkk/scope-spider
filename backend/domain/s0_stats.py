@@ -22,7 +22,12 @@ from typing import (
 
 from pydantic import BaseModel
 
-from backend.domain.models import Company, EmissionsData, SearchRecord, VerificationRecord
+from backend.domain.models import (
+    Company,
+    EmissionsData,
+    SearchRecord,
+    VerificationRecord,
+)
 from backend.domain.utils.companies import dump_companies, load_companies
 from backend.domain.utils.documents import (
     MAX_REPORT_YEAR,
@@ -283,6 +288,7 @@ ANNOTATION_RESET_FIELDS = [
     "company_country",
     "company_region",
     "company_state",
+    "net_zero_claims",
 ]
 
 
@@ -652,10 +658,7 @@ def main(argv: list[str]) -> int:
             reset_only = True
             value: Optional[str] = None
             if arg == "--reset":
-                if (
-                    i + 1 < len(args_list)
-                    and not args_list[i + 1].startswith("--")
-                ):
+                if i + 1 < len(args_list) and not args_list[i + 1].startswith("--"):
                     value = args_list[i + 1]
                     i += 1
             else:
@@ -728,9 +731,7 @@ def main(argv: list[str]) -> int:
             )
         else:
             if reset_requested:
-                stages_display = " -> ".join(
-                    stage.upper() for stage in expanded_stages
-                )
+                stages_display = " -> ".join(stage.upper() for stage in expanded_stages)
                 print(
                     f"[reset] No {stages_display} data required clearing.",
                     flush=True,
@@ -770,11 +771,7 @@ def main(argv: list[str]) -> int:
     check_progress = 0
 
     for idx, company in enumerate(companies):
-        ticker = (
-            company.identity.ticker
-            or company.identity.name
-            or f"company[{idx}]"
-        )
+        ticker = company.identity.ticker or company.identity.name or f"company[{idx}]"
 
         raw_entry = raw_companies[idx] if idx < len(raw_companies) else None
         structure_issues: list[Issue] = []
@@ -902,9 +899,8 @@ def main(argv: list[str]) -> int:
         summarise_stages(company, stage_counts)
         summarise_documents(company.search_record, doc_counter)
         if list_failed_analysis:
-            has_download = (
-                company.download_record is not None
-                and bool(company.download_record.pdf_path)
+            has_download = company.download_record is not None and bool(
+                company.download_record.pdf_path
             )
             extraction_record = company.extraction_record
             has_extraction = bool(
@@ -917,11 +913,7 @@ def main(argv: list[str]) -> int:
                     )
                 )
             )
-            if (
-                has_download
-                and has_extraction
-                and company.analysis_record is None
-            ):
+            if has_download and has_extraction and company.analysis_record is None:
                 failed_analysis_companies.append(ticker)
 
         if check_scope:

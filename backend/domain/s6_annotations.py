@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -13,6 +14,7 @@ from openai import OpenAI
 
 from backend.domain.models import Annotations, Company
 from backend.domain.utils.companies import dump_companies, load_companies
+from backend.domain.utils.pdf import extract_pdf_text
 from backend.domain.utils.verification import _clean_json_response  # type: ignore[attr-defined]
 
 if TYPE_CHECKING:  # pragma: no cover
@@ -297,7 +299,12 @@ RBICS_KEYWORD_MAP: Dict[str, str] = {
 
 def derive_anzsic_from_rbics(info: Dict[str, object]) -> Optional[str]:
     candidates: List[str] = []
-    for key in ("rbics_industry", "rbics_industry_group", "rbics_sub_sector", "rbics_sector"):
+    for key in (
+        "rbics_industry",
+        "rbics_industry_group",
+        "rbics_sub_sector",
+        "rbics_sector",
+    ):
         value = info.get(key)
         if isinstance(value, str):
             text = value.strip()
@@ -310,6 +317,42 @@ def derive_anzsic_from_rbics(info: Dict[str, object]) -> Optional[str]:
             if keyword in lowered:
                 return division
     return None
+
+
+def count_net_zero_in_pdf(
+    pdf_path: Path, base_dir: Optional[Path] = None
+) -> Optional[int]:
+    """
+    Count occurrences of the phrase 'net zero' (case-insensitive) in a PDF file.
+
+    Args:
+        pdf_path: Path to the PDF file (can be relative or absolute)
+        base_dir: Base directory to resolve relative paths against
+
+    Returns:
+        Count of 'net zero' occurrences, or None if PDF cannot be read
+    """
+    if base_dir and not pdf_path.is_absolute():
+        pdf_path = (base_dir / pdf_path).resolve()
+
+    if not pdf_path.exists() or pdf_path.suffix.lower() != ".pdf":
+        return None
+
+    try:
+        pages = extract_pdf_text(pdf_path)
+        if not pages:
+            return None
+
+        # Case-insensitive search for "net zero"
+        pattern = re.compile(r"net\s+zero", re.IGNORECASE)
+        count = 0
+        for page_text in pages:
+            if page_text:
+                count += len(pattern.findall(page_text))
+
+        return count
+    except Exception:
+        return None
 
 
 def determine_reporting_group(info: Optional[Dict[str, Any]]) -> Optional[str]:
@@ -360,6 +403,40 @@ def determine_reporting_group(info: Optional[Dict[str, Any]]) -> Optional[str]:
     return None
 
 
+def update_net_zero_claims(
+    annotations: Annotations,
+    company: Company,
+    base_dir: Path,
+) -> bool:
+    """
+    Update net_zero_claims by counting 'net zero' occurrences in the company's PDF.
+
+    Args:
+        annotations: The annotations object to update
+        company: The company object containing download_record
+        base_dir: Base directory to resolve relative PDF paths
+
+    Returns:
+        True if the annotations were changed, False otherwise
+    """
+    changed = False
+    download_record = company.download_record
+
+    if download_record and download_record.pdf_path:
+        pdf_path = Path(download_record.pdf_path)
+        count = count_net_zero_in_pdf(pdf_path, base_dir)
+        if annotations.net_zero_claims != count:
+            annotations.net_zero_claims = count
+            changed = True
+    else:
+        # If no PDF, set to None
+        if annotations.net_zero_claims is not None:
+            annotations.net_zero_claims = None
+            changed = True
+
+    return changed
+
+
 def update_profitability(
     annotations: Annotations,
     ticker: Optional[str],
@@ -393,7 +470,10 @@ def update_profitability(
         mapped_division = derive_anzsic_from_rbics(info)
         if mapped_division:
             normalised = normalise_division(mapped_division)
-            if annotations.anzsic_division != normalised or annotations.anzsic_source != "rbics":
+            if (
+                annotations.anzsic_division != normalised
+                or annotations.anzsic_source != "rbics"
+            ):
                 annotations.anzsic_division = normalised
                 annotations.anzsic_source = "rbics"
                 annotations.anzsic_confidence = None
@@ -427,7 +507,9 @@ def annotate_company(
 
     ticker = company.identity.ticker or ""
     derived_from_rbics = annotations.anzsic_source == "rbics"
-    needs_primary = (annotations.anzsic_division is None) or (force and not derived_from_rbics)
+    needs_primary = (annotations.anzsic_division is None) or (
+        force and not derived_from_rbics
+    )
     if needs_primary:
         log(f"ANNOTATE {name}")
         primary = call_primary_gpt(ensure_client(), name)
@@ -513,6 +595,8 @@ def main(argv: Optional[List[str]] = None) -> int:
 
     changed = False
 
+    base_dir = companies_path.parent
+
     def process_company(
         company_obj: Company,
         *,
@@ -520,10 +604,13 @@ def main(argv: Optional[List[str]] = None) -> int:
         llm_instance: Optional["Llama"],
         force_flag: bool,
         log_fn: Callable[[str], None],
+        base_directory: Path,
     ) -> bool:
         local_changed = False
         ticker = company_obj.identity.ticker or ""
         if update_profitability(company_obj.annotations, ticker, profitability_map):
+            local_changed = True
+        if update_net_zero_claims(company_obj.annotations, company_obj, base_directory):
             local_changed = True
         if annotate_company(
             company_obj,
@@ -556,6 +643,7 @@ def main(argv: Optional[List[str]] = None) -> int:
                 llm_instance=llm,
                 force_flag=args.force,
                 log_fn=log_single,
+                base_directory=base_dir,
             ):
                 changed = True
                 dump_companies(companies_path, payload, companies)
@@ -585,6 +673,7 @@ def main(argv: Optional[List[str]] = None) -> int:
                 llm_instance=None,
                 force_flag=args.force,
                 log_fn=log_worker,
+                base_directory=base_dir,
             )
             return index, company_obj.model_dump(mode="json"), logs, local_changed
 

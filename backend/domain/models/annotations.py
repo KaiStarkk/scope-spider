@@ -41,7 +41,8 @@ class Annotations(BaseModel):
         description="Whether primary and local classifiers agreed on the division.",
     )
     profitability_year: Optional[int] = Field(
-        default=None, description="Financial year associated with profitability metrics."
+        default=None,
+        description="Financial year associated with profitability metrics.",
     )
     profitability_revenue_mm_aud: Optional[float] = Field(
         default=None, description="Revenue in AUD millions."
@@ -83,6 +84,10 @@ class Annotations(BaseModel):
     company_state: Optional[str] = Field(
         default=None, description="Company state from the external dataset."
     )
+    net_zero_claims: Optional[int] = Field(
+        default=None,
+        description="Count of 'net zero' phrase occurrences found in the company's PDF document.",
+    )
 
     @model_validator(mode="before")
     @classmethod
@@ -90,8 +95,13 @@ class Annotations(BaseModel):
         if not isinstance(value, Dict):
             return value
         migrated = dict(value)
-        if "anzsic_validation_division" in migrated and "anzsic_local_division" not in migrated:
-            migrated["anzsic_local_division"] = migrated.pop("anzsic_validation_division")
+        if (
+            "anzsic_validation_division" in migrated
+            and "anzsic_local_division" not in migrated
+        ):
+            migrated["anzsic_local_division"] = migrated.pop(
+                "anzsic_validation_division"
+            )
         if (
             "anzsic_validation_confidence" in migrated
             and "anzsic_local_confidence" not in migrated
@@ -99,7 +109,10 @@ class Annotations(BaseModel):
             migrated["anzsic_local_confidence"] = migrated.pop(
                 "anzsic_validation_confidence"
             )
-        if "anzsic_validation_context" in migrated and "anzsic_local_context" not in migrated:
+        if (
+            "anzsic_validation_context" in migrated
+            and "anzsic_local_context" not in migrated
+        ):
             migrated["anzsic_local_context"] = migrated.pop("anzsic_validation_context")
         return migrated
 

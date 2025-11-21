@@ -1,0 +1,422 @@
+{
+  "Ampol (ADL) - 2024 Total Group Emissions": {
+    "scope_1": {
+      "value": 725975,
+      "note": "Total Group Scope 1 emissions (tCO2e) for 2024"
+    },
+    "scope_2": {
+      "value": 217452,
+      "note": "Total Group Scope 2 emissions (tCO2e) for 2024"
+    },
+    "scope_3": {
+      "value": 60745311,
+      "note": "Total Group Scope 3 emissions (tCO2e) for 2024"
+    }
+  },
+  "Ansell (ANN) - FY25 Emissions": {
+    "scope_1": {
+      "value": 181558,
+      "note": "FY25 Scope 1 emissions"
+    },
+    "scope_2": {
+      "value": 46346,
+      "note": "FY25 Scope 2 emissions (market based)"
+    },
+    "scope_3": {
+      "value": 798935,
+      "note": "FY24 Scope 3 emissions. Current year (FY25) Scope 3 data is reported a year in arrears."
+    }
+  },
+  "Amotiv (AOV) - FY25 Emissions": {
+    "scope_1": {
+      "value": 2640,
+      "note": "Estimated based on 30% of Net Scope 1 & 2 total (8.8 ktCO2e), assuming the remaining portion after Scope 2 is Scope 1. Note: Net Scope 1 & 2 is 8,800 tCO2e."
+    },
+    "scope_2": {
+      "value": 6160,
+      "note": "Estimated based on 70% of Net Scope 1 & 2 total (8.8 ktCO2e), as the vast majority (70%) is linked to purchased electricity. Note: Net Scope 1 & 2 is 8,800 tCO2e."
+    },
+    "scope_3": {
+      "value": 0,
+      "note": "No specific Scope 3 total found."
+    }
+  },
+  "Beach Energy (BPT) - FY25 Emissions (Australia & NZ Total)": {
+    "scope_1": {
+      "value": 626731,
+      "note": "FY25 Scope 1 emissions (Australia: 537,493 tCO2e + New Zealand: 89,238 tCO2e)"
+    },
+    "scope_2": {
+      "value": 26432,
+      "note": "FY25 Scope 2 emissions (Australia: 21,194 tCO2e + New Zealand: 5,238 tCO2e)"
+    },
+    "scope_3": {
+      "value": 6380000,
+      "note": "FY25 Estimated Scope 3 emissions (6.38 MtCO2e)"
+    }
+  },
+  "BRG (BRV) - FY24 Emissions": {
+    "scope_1": {
+      "value": 1116,
+      "note": "Reported as combined Scope 1 and 2 emissions (1,116 MT C02eq)."
+    },
+    "scope_2": {
+      "value": 1116,
+      "note": "Reported as combined Scope 1 and 2 emissions (1,116 MT C02eq)."
+    },
+    "scope_3": {
+      "value": 1352564,
+      "note": "FY24 Scope 3 product emissions estimated and reported as 1,352,563.74 MT CO2 eq."
+    }
+  },
+  "BlueScope (BSL) - FY25 Total Global Emissions": {
+    "scope_1": {
+      "value": 8500000,
+      "note": "FY25 Scope 1 GHG emissions (8,500 ktCO2-e)"
+    },
+    "scope_2": {
+      "value": 1700000,
+      "note": "FY25 Scope 2 GHG emissions (1,700 ktCO2-e)"
+    },
+    "scope_3": {
+      "value": 12770000,
+      "note": "FY25 Scope 3 GHG emissions (12,770 ktCO2-e)"
+    }
+  },
+  "CBA (CBA) - FY24 Operational Emissions": {
+    "scope_1": {
+      "value": 29640,
+      "note": "Reported as combined Scope 1 and 2 operational emissions (tCO2-e)."
+    },
+    "scope_2": {
+      "value": 29640,
+      "note": "Reported as combined Scope 1 and 2 operational emissions (tCO2-e)."
+    },
+    "scope_3": {
+      "value": 34288,
+      "note": "FY24 Scope 3 operational emissions (tCO2-e)."
+    }
+  },
+  "Codan (CDA) - FY24 Emissions": {
+    "scope_1": {
+      "value": 1485,
+      "note": "FY24 Scope 1 emissions (tCO2-e)"
+    },
+    "scope_2": {
+      "value": 1037,
+      "note": "FY24 Scope 2 emissions (tCO2-e)"
+    },
+    "scope_3": {
+      "value": 51835,
+      "note": "FY24 Scope 3 emissions (tCO2-e)"
+    }
+  },
+  "CWP (CWP) - FY25 Corporate Operations": {
+    "scope_1": {
+      "value": 74,
+      "note": "Reported as combined Scope 1 & 2 net Greenhouse Gas Emissions (t-CO2-e)."
+    },
+    "scope_2": {
+      "value": 74,
+      "note": "Reported as combined Scope 1 & 2 net Greenhouse Gas Emissions (t-CO2-e)."
+    },
+    "scope_3": {
+      "value": 0,
+      "note": "No specific Scope 3 total found."
+    }
+  },
+  "EVT Group (EVT) - FY24/FY23 Emissions": {
+    "scope_1": {
+      "value": 18821,
+      "note": "FY24 total Scope 1 emissions (sum of Natural gas: 15,321; Stationary fuels: 3,175; Transport fuels: 305; Other: 1 tCO2e)."
+    },
+    "scope_2": {
+      "value": 105217,
+      "note": "FY24 Scope 2 emissions (market-based) electricity (tCO2e)."
+    },
+    "scope_3": {
+      "value": 307344,
+      "note": "FY23 Scope 3 total estimate (tCO2e). FY24 estimate is in development."
+    }
+  },
+  "hummgroup (HUM) - FY21 Emissions": {
+    "scope_1": {
+      "value": 0,
+      "note": "No Scope 1 emissions figure explicitly reported. The Company's GHG emission is limited to Scope 2 indirect and Scope 3 other indirect."
+    },
+    "scope_2": {
+      "value": 291,
+      "note": "FY21 Scope 2: Electricity GHG emissions (tCO2e)."
+    },
+    "scope_3": {
+      "value": 216,
+      "note": "FY21 Scope 3: Travel GHG emissions (tCO2e). Currently, Scope 3 indirect emissions recorded are limited to travel."
+    }
+  },
+  "IAG (IAG) - 2025 Emissions": {
+    "scope_1": {
+      "value": 6770,
+      "note": "2025 Scope 1 GHG Emissions (tCO2e)."
+    },
+    "scope_2": {
+      "value": 5429,
+      "note": "2025 Scope 2 – Market based emissions (tCO2e). Market-based emissions are used in calculating Net GHG emissions."
+    },
+    "scope_3": {
+      "value": 19383,
+      "note": "2025 Total Scope 3 emissions (tCO2e)."
+    }
+  },
+  "Iluka (ILU) - 2024 Emissions": {
+    "scope_1": {
+      "value": 392000,
+      "note": "2024 Scope 1 emissions (392 ktCO2e)."
+    },
+    "scope_2": {
+      "value": 71000,
+      "note": "2024 Scope 2 emissions (71 ktCO2e)."
+    },
+    "scope_3": {
+      "value": 0,
+      "note": "Iluka is currently examining its scope 3 emissions and intends to disclose this information in future reports."
+    }
+  },
+  "Lendlease (LLC) - FY25 Gross Emissions (Market-based)": {
+    "scope_1": {
+      "value": 23715,
+      "note": "FY25 Gross Scope 1 Emissions (tCO2-eq)."
+    },
+    "scope_2": {
+      "value": 0,
+      "note": "FY25 Gross Scope 2 Emissions (Market-based Method) (tCO2-eq). Market-based emissions resulted in zero due to application of renewable electricity purchases/offsets."
+    },
+    "scope_3": {
+      "value": 1353639,
+      "note": "FY25 Total Scope 3 Emissions (tCO2-eq)."
+    }
+  },
+  "Mosaic (MOZ) - 2024 Emissions": {
+    "scope_1": {
+      "value": 3300000,
+      "note": "2024 Scope 1 GHG (3.3 Million tonnes CO2e)."
+    },
+    "scope_2": {
+      "value": 1200000,
+      "note": "2024 Scope 2 GHG (1.2 Million tonnes CO2e, assuming 'Tonnes CO2e' is a unit error in the source and refers to Millions for consistency with Scope 1)."
+    },
+    "scope_3": {
+      "value": 0,
+      "note": "No specific Scope 3 total found."
+    }
+  },
+  "Macquarie Group (MQG) - FY25 Operational Emissions": {
+    "scope_1": {
+      "value": 482,
+      "note": "FY25 Scope 1 emissions (tCO2e)."
+    },
+    "scope_2": {
+      "value": 0,
+      "note": "FY25 Scope 2 emissions (tCO2e). Scope 2 emissions reduced to zero since FY2022 due to the purchase of 100% renewable electricity equivalent."
+    },
+    "scope_3": {
+      "value": 227896,
+      "note": "FY25 Total Scope 3 (Categories 1-6 & 8) operational emissions (tCO2e)."
+    }
+  },
+  "NAB (NAB) - 2025 Operational Emissions (Market-based)": {
+    "scope_1": {
+      "value": 8359,
+      "note": "2025 Scope 1 emissions (tCO2-e). Note: This is the gross Scope 1 figure."
+    },
+    "scope_2": {
+      "value": 0,
+      "note": "2025 Scope 2 market-based emissions (tCO2-e). Market-based emissions are zero, reflecting 100% renewable electricity sourcing."
+    },
+    "scope_3": {
+      "value": 78259,
+      "note": "2025 Total gross Scope 3 emissions (tCO2-e). This excludes financed emissions."
+    }
+  },
+  "Orica (ORI) - FY2024 Global Gross Emissions": {
+    "scope_1": {
+      "value": 1158000,
+      "note": "FY2024 Global Scope 1 emissions (1,158 ktCO₂-e)."
+    },
+    "scope_2": {
+      "value": 139000,
+      "note": "FY2024 Global Scope 2 emissions (139 ktCO₂-e)."
+    },
+    "scope_3": {
+      "value": 7891000,
+      "note": "FY2024 Global Scope 3 emissions (7,891 ktCO₂-e)."
+    }
+  },
+  "Perseus Mining (PRU) - FY22 Emissions": {
+    "scope_1": {
+      "value": 186110,
+      "note": "FY2022 Total Scope 1 emissions (tCO2-e)."
+    },
+    "scope_2": {
+      "value": 86724,
+      "note": "FY2022 Total Scope 2 emissions (tCO2-e), calculated using the market-based method."
+    },
+    "scope_3": {
+      "value": 472742,
+      "note": "FY2022 Total Scope 3 emissions (tCO2-e)."
+    }
+  },
+  "Qantas (QAN) - FY25 Emissions": {
+    "scope_1": {
+      "value": 12139425,
+      "note": "FY25 Scope 1 emissions (tCO₂e)."
+    },
+    "scope_2": {
+      "value": 58106,
+      "note": "FY25 Global Scope 2 GHG emissions (tCO₂e) (location-based method)."
+    },
+    "scope_3": {
+      "value": 7305845,
+      "note": "FY25 Scope 3 emissions (tCO₂e)."
+    }
+  },
+  "Ramsay Health Care (RHC) - FY25 Operational Emissions (Market-based S2)": {
+    "scope_1": {
+      "value": 88711,
+      "note": "FY25 Group Scope 1 emissions (tCO2-e) derived from summing Gas and fuel (59,949), Anaesthetic gases (26,244), and Refrigerants (2,518)."
+    },
+    "scope_2": {
+      "value": 129225,
+      "note": "FY25 Group Scope 2 emissions (tCO2-e) (Market-based Electricity)."
+    },
+    "scope_3": {
+      "value": 0,
+      "note": "No specific total Scope 3 quantification found in the provided tables, although Scope 3 is included in the net zero target scope."
+    }
+  },
+  "SEEK (SEK) - FY2024 Emissions": {
+    "scope_1": {
+      "value": 166,
+      "note": "FY2024 Scope 1 (1% of 16,570 tCO2e), including Continuing and Discontinued Operations."
+    },
+    "scope_2": {
+      "value": 1326,
+      "note": "FY2024 Scope 2 (8% of 16,570 tCO2e), including Continuing and Discontinued Operations."
+    },
+    "scope_3": {
+      "value": 15079,
+      "note": "FY2024 Scope 3 (91% of 16,570 tCO2e), including Continuing and Discontinued Operations."
+    }
+  },
+  "Sims Limited (SGM) - FY25 Emissions (Market-based S2)": {
+    "scope_1": {
+      "value": 75000,
+      "note": "FY25 Total Scope 1 emissions (75.0 kt CO₂e)."
+    },
+    "scope_2": {
+      "value": 0,
+      "note": "FY25 Total Scope 2 emissions (Market-based) (0.0 kt CO₂e). Zero emissions achieved by procuring 100% renewable energy."
+    },
+    "scope_3": {
+      "value": 5098300,
+      "note": "FY25 Total Scope 3 emissions (5,098.3 kt CO₂e)."
+    }
+  },
+  "Sonic Healthcare (SHL) - FY2025 Global Emissions (Market-based S2)": {
+    "scope_1": {
+      "value": 29908,
+      "note": "FY2025 Total global Scope 1 emissions (tCO2-e)."
+    },
+    "scope_2": {
+      "value": 58507,
+      "note": "FY2025 Scope 2 emissions (market-based) (tCO2-e)."
+    },
+    "scope_3": {
+      "value": 323506,
+      "note": "FY2025 Total global Scope 3 (GHG protocol categories 1–9) emissions (tCO2-e)."
+    }
+  },
+  "Soul Patts (SOL) - FY24 Controlled Investments (Location-based S2)": {
+    "scope_1": {
+      "value": 8373,
+      "note": "FY24 Scope 1 emissions for Controlled investments (tCO2e)."
+    },
+    "scope_2": {
+      "value": 18595,
+      "note": "FY24 Scope 2 emissions for Controlled investments (tCO2e). Note: Direct operations Scope 2 emissions are zero using a market-based approach."
+    },
+    "scope_3": {
+      "value": 0,
+      "note": "No specific Scope 3 total found."
+    }
+  },
+  "Super Retail Group (SRG) - FY25 Operational Emissions (Market-based S2)": {
+    "scope_1": {
+      "value": 1341,
+      "note": "FY25 Scope 1 emissions (tCO2-e)."
+    },
+    "scope_2": {
+      "value": 54937,
+      "note": "FY25 Market Based Scope 2 emissions (tCO2-e)."
+    },
+    "scope_3": {
+      "value": 0,
+      "note": "Scope 3 calculation figure is not able to be published this reporting period."
+    }
+  },
+  "Santos (STO) - 2024 Gross Operated Emissions": {
+    "scope_1": {
+      "value": 4440000,
+      "note": "2024 Gross operated Scope 1 greenhouse gas emissions (4.44 MtCO2e)."
+    },
+    "scope_2": {
+      "value": 800000,
+      "note": "2024 Gross operated Scope 2 greenhouse gas emissions (0.80 MtCO2e)."
+    },
+    "scope_3": {
+      "value": 29900000,
+      "note": "2024 Total Scope 3 emissions (29.9 MtCO2e)."
+    }
+  },
+  "Transurban (TCL) - FY24 Emissions (Market-based S2)": {
+    "scope_1": {
+      "value": 5910,
+      "note": "Total Scope 1 greenhouse gas emissions (5,910 tCO2-e) for FY24."
+    },
+    "scope_2": {
+      "value": 30669,
+      "note": "Total scope 2 greenhouse gas emissions (“market-based”) (30,669 tCO2-e) for FY24."
+    },
+    "scope_3": {
+      "value": 370826,
+      "note": "Total Scope 3 greenhouse gas emissions (370,826 tCO2-e) for FY24."
+    }
+  },
+  "Telstra (TLS) - FY25 Emissions (Excluding Digicel Pacific)": {
+    "scope_1": {
+      "value": 31794,
+      "note": "FY25 Scope 1 total emissions (tCO2e). Calculated using location-based methodology for S1&S2."
+    },
+    "scope_2": {
+      "value": 703989,
+      "note": "FY25 Scope 2 total emissions (tCO2e). Calculated using location-based methodology for S1&S2."
+    },
+    "scope_3": {
+      "value": 1454930,
+      "note": "FY25 Scope 3 total emissions (tCO2e) (aligned to GHG protocol)."
+    }
+  },
+  "Westpac (WBC) - 2025 Operational Emissions (Market-based S2)": {
+    "scope_1": {
+      "value": 4714,
+      "note": "2025 Scope 1 emissions (tCO2-e)."
+    },
+    "scope_2": {
+      "value": 1963,
+      "note": "2025 Scope 2 emissions (tCO2-e) (market-based)."
+    },
+    "scope_3": {
+      "value": 56469,
+      "note": "2025 Scope 3 upstream emissions only (tCO2-e). Financed emissions (Category 15) are calculated one year in arrears and are not included in this figure."
+    }
+  }
+}
