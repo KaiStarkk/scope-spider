@@ -14,7 +14,11 @@
     devShells = forAllSystems (pkgs: {
       default = pkgs.mkShell {
         packages = with pkgs; [python312 virtualenv nodejs_20];
+        buildInputs = with pkgs; [
+          stdenv.cc.cc.lib
+        ];
         shellHook = ''
+          export LD_LIBRARY_PATH="${pkgs.stdenv.cc.cc.lib}/lib:$LD_LIBRARY_PATH"
           if [ ! -d ".venv" ]; then
             virtualenv -p python .venv
           fi

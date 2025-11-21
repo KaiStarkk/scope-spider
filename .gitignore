@@ -2,3 +2,4 @@ downloads
 # extracted
 .venv
 __pycache__
+.direnv
