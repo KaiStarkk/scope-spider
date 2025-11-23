@@ -721,11 +721,16 @@ def create_dash_app(
                 filtered[filtered["company_state"].isin(states_selected)],
             )
 
+        scope1_series_raw = pd.to_numeric(filtered["scope_1"], errors="coerce")
+        scope2_series_raw = pd.to_numeric(filtered["scope_2"], errors="coerce")
+        scope_total = scope1_series_raw.fillna(0) + scope2_series_raw.fillna(0)
+        scope_total[(scope1_series_raw.isna()) & (scope2_series_raw.isna())] = pd.NA
+
         filtered = cast(
             pd.DataFrame,
             filtered.assign(
-                scope_1_numeric=pd.to_numeric(filtered["scope_1"], errors="coerce"),
-                scope_2_numeric=pd.to_numeric(filtered["scope_2"], errors="coerce"),
+                scope_1_numeric=scope_total,
+                scope_2_numeric=scope2_series_raw,
                 revenue_numeric=pd.to_numeric(filtered["revenue_mm"], errors="coerce"),
                 net_income_numeric=pd.to_numeric(
                     filtered["net_income_mm"], errors="coerce"
@@ -781,7 +786,7 @@ def create_dash_app(
             if available.empty:
                 fig = px.scatter(title=f"{title} (insufficient data)")
                 fig.update_layout(
-                    xaxis_title="Scope 1 (kgCO2e)",
+                    xaxis_title="Scope 1 + 2 (kgCO2e)",
                     yaxis_title=metric_label,
                 )
                 return fig
@@ -795,7 +800,7 @@ def create_dash_app(
                 hover_name="name",
                 title=title,
                 labels={
-                    "scope_1_numeric": "Scope 1 (kgCO2e)",
+                    "scope_1_numeric": "Scope 1 + 2 (kgCO2e)",
                     metric_column: metric_label,
                     "anzsic_division": "Industry / Sector",
                 },
@@ -805,22 +810,22 @@ def create_dash_app(
         net_income_fig = build_scatter(
             "net_income_numeric",
             "Net Income (MM AUD)",
-            "Scope 1 vs Net Income",
+            "Scope 1 + 2 vs Net Income",
         )
         revenue_fig = build_scatter(
             "revenue_numeric",
             "Revenue (MM AUD)",
-            "Scope 1 vs Revenue",
+            "Scope 1 + 2 vs Revenue",
         )
         ebitda_fig = build_scatter(
             "ebitda_numeric",
             "EBITDA (MM AUD)",
-            "Scope 1 vs EBITDA",
+            "Scope 1 + 2 vs EBITDA",
         )
         assets_fig = build_scatter(
             "assets_numeric",
             "Total Assets (MM AUD)",
-            "Scope 1 vs Total Assets",
+            "Scope 1 + 2 vs Total Assets",
         )
 
         top_revenue = cast(

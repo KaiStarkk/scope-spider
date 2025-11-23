@@ -12,7 +12,7 @@
           "context": "=== Table 4 (page 5) ===\nHIGHLIGHTS,CONFIDENCE IN LNG,SCOPE 1 AND 2,NEW ENERGY"
         },
         "scope_2": {
-          "value": 6320000000,
+          "value": 6320000,
           "confidence": 0.9,
           "context": ",\"compared to historical and/or current conventions or analogues, for example relating to an otherwise similar resource, process,\",,\n,,Starting base,Woodside uses a starting base of 6.32 Mt CO2-e which is representative of the gross annual average equity Scope 1 and 2\n,\"production facility, product or service, or activity. When applied to Woodside's strategy, please see the definition of lower-carbon\",,greenhouse gas emissions over 2016-2020 and which may be adjusted (up or down) for potential equity changes in producing"
         },
@@ -39,7 +39,8 @@
         "rbics_industry": "Asia/Pacific Fossil Fuel Exploration/Production",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 8
       },
       "search_record": {
         "url": "https://www.woodside.com/docs/default-source/investor-documents/major-reports-(static-pdfs)/2024-annual-report/climate-update-2024.pdf",
@@ -113,7 +114,8 @@
         "rbics_industry": "Other Base Metal Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 98
       },
       "search_record": {
         "url": "https://www.bhp.com/-/media/documents/investors/annual-reports/2025/250819_bhpannualreport2025.pdf",
@@ -181,7 +183,8 @@
         "rbics_industry": "Other Base Metal Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 23
       },
       "search_record": {
         "url": "https://cdn.sanity.io/files/o6ep64o3/production/0f550073bb6a15cad3d31f948198b3cbd92b9028.pdf",
@@ -249,7 +252,8 @@
         "rbics_industry": "Lithium Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.ltresources.com.au/wp-content/uploads/2025/09/61285793.pdf",
@@ -316,7 +320,8 @@
         "rbics_industry": "Asia/Pacific International Coal Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 8
       },
       "search_record": {
         "url": "https://whitehavencoal.com.au/wp-content/uploads/2025/09/WHC_SR2025_FINAL2_WEB.pdf",
@@ -389,7 +394,8 @@
         "rbics_industry": "Mixed Home Improvement and Furnishings Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 24
       },
       "search_record": {
         "url": "https://www.wesfarmershealth.com.au/wp-content/uploads/2025/09/Wesfarmers-Annual-Report-TCFD-climate-disclosures-2025.pdf",
@@ -430,16 +436,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY25 Scope 1 emissions (tCO₂e).",
-          "value": 12139425
+          "value": 12139425,
+          "context": "FY25 Scope 1 emissions (tCO₂e)."
         },
         "scope_2": {
-          "context": "FY25 Global Scope 2 GHG emissions (tCO₂e) (location-based method).",
-          "value": 58106
+          "value": 58106,
+          "context": "FY25 Global Scope 2 GHG emissions (tCO₂e) (location-based method)."
         },
         "scope_3": {
-          "context": "FY25 Scope 3 emissions (tCO₂e).",
-          "value": 7305845
+          "value": 7305845,
+          "context": "FY25 Scope 3 emissions (tCO₂e)."
         }
       },
       "annotations": {
@@ -458,14 +464,21 @@
         "rbics_industry": "Asia/Pacific Air Passenger Service Providers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 30
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/QAN-AU_2025_Sustainability_Report.pdf",
+        "title": "QAN-AU_2025_Sustainability_Report.pdf",
+        "filename": "QAN-AU_2025_Sustainability_Report.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/QAN-AU_2025_Sustainability_Report.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -504,7 +517,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://mirvac-cdn-web.azureedge.net/-/media/project/mirvac/corporate/main-site/corporate-theme/images/sustainability/pdfs/2025/mirvac_climate-resilience-update-fy25_final.pdf",
@@ -544,16 +558,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "2024 Scope 1 emissions (392 ktCO2e).",
-          "value": 392000
+          "value": 392000,
+          "context": "2024 Scope 1 emissions (392 ktCO2e)."
         },
         "scope_2": {
-          "context": "2024 Scope 2 emissions (71 ktCO2e).",
-          "value": 71000
+          "value": 71000,
+          "context": "2024 Scope 2 emissions (71 ktCO2e)."
         },
         "scope_3": {
-          "context": "Iluka is currently examining its scope 3 emissions and intends to disclose this information in future reports.",
-          "value": 0
+          "value": 0,
+          "context": "Iluka is currently examining its scope 3 emissions and intends to disclose this information in future reports."
         }
       },
       "annotations": {
@@ -572,14 +586,21 @@
         "rbics_industry": "Non-Ferrous Metal Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 1
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/ILU-AU_2025_iluka-sustainability-data-book.pdf",
+        "title": "ILU-AU_2025_iluka-sustainability-data-book.pdf",
+        "filename": "ILU-AU_2025_iluka-sustainability-data-book.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/ILU-AU_2025_iluka-sustainability-data-book.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -588,16 +609,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY25 Group Scope 1 emissions (tCO2-e) derived from summing Gas and fuel (59,949), Anaesthetic gases (26,244), and Refrigerants (2,518).",
-          "value": 88711
+          "value": 88711,
+          "context": "FY25 Group Scope 1 emissions (tCO2-e) derived from summing Gas and fuel (59,949), Anaesthetic gases (26,244), and Refrigerants (2,518)."
         },
         "scope_2": {
-          "context": "FY25 Group Scope 2 emissions (tCO2-e) (Market-based Electricity).",
-          "value": 129225
+          "value": 129225,
+          "context": "FY25 Group Scope 2 emissions (tCO2-e) (Market-based Electricity)."
         },
         "scope_3": {
-          "context": "No specific total Scope 3 quantification found in the provided tables, although Scope 3 is included in the net zero target scope.",
-          "value": 0
+          "value": 0,
+          "context": "No specific total Scope 3 quantification found in the provided tables, although Scope 3 is included in the net zero target scope."
         }
       },
       "annotations": {
@@ -616,14 +637,21 @@
         "rbics_industry": "General and Acute Hospitals",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 20
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/RHC-AU_Ramsay%202025%20sustainability%20report.pdf",
+        "title": "RHC-AU_Ramsay%202025%20sustainability%20report.pdf",
+        "filename": "RHC-AU_Ramsay%202025%20sustainability%20report.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/RHC-AU_Ramsay 2025 sustainability report.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -658,7 +686,8 @@
         "rbics_industry": "Industrial Specialty Engineering Contractors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 22
       },
       "search_record": {
         "url": "https://www.monadelphous.com.au/media/5878381/251020-2025-annual-report.pdf",
@@ -698,16 +727,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY25 Scope 1 GHG emissions (8,500 ktCO2-e)",
-          "value": 8500000
+          "value": 8500000,
+          "context": "FY25 Scope 1 GHG emissions (8,500 ktCO2-e)"
         },
         "scope_2": {
-          "context": "FY25 Scope 2 GHG emissions (1,700 ktCO2-e)",
-          "value": 1700000
+          "value": 1700000,
+          "context": "FY25 Scope 2 GHG emissions (1,700 ktCO2-e)"
         },
         "scope_3": {
-          "context": "FY25 Scope 3 GHG emissions (12,770 ktCO2-e)",
-          "value": 12770000
+          "value": 12770000,
+          "context": "FY25 Scope 3 GHG emissions (12,770 ktCO2-e)"
         }
       },
       "annotations": {
@@ -726,14 +755,21 @@
         "rbics_industry": "Diversified Primary Metals Processors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 14
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/BSL-AU_FY2025_BlueScope_Sustainability_Report.pdf",
+        "title": "BSL-AU_FY2025_BlueScope_Sustainability_Report.pdf",
+        "filename": "BSL-AU_FY2025_BlueScope_Sustainability_Report.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/BSL-AU_FY2025_BlueScope_Sustainability_Report.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -774,7 +810,8 @@
         "rbics_industry": "Other Base Metal Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 8
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/fmg/f8f3f9a4-8200-11f0-8bd2-22fe330236a6.pdf",
@@ -848,7 +885,8 @@
         "rbics_industry": "Process Plants, Utilities and Energy Construction",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 26
       },
       "search_record": {
         "url": "https://www.worley.com/-/media/files/worley/sustainability/2025/wor-cdp-report-2025.pdf",
@@ -921,7 +959,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 17
       },
       "search_record": {
         "url": "https://www.vicinity.com.au/assets/sb/f/129601/x/218db7b71b/2025-annual-report.pdf",
@@ -995,7 +1034,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 22
       },
       "search_record": {
         "url": "https://www.dexus.com/content/dam/dexus/documents/investing/sustainability-reports/2025/2025%20Dexus%20Annual%20Report%201.pdf",
@@ -1069,7 +1109,8 @@
         "rbics_industry": "Other Specialized Medical Devices",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 2
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250815/pdf/06mwwc8bndj71z.pdf",
@@ -1111,16 +1152,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Reported as combined Scope 1 & 2 net Greenhouse Gas Emissions (t-CO2-e).",
-          "value": 74
+          "value": 74,
+          "context": "Reported as combined Scope 1 & 2 net Greenhouse Gas Emissions (t-CO2-e)."
         },
         "scope_2": {
-          "context": "Reported as combined Scope 1 & 2 net Greenhouse Gas Emissions (t-CO2-e).",
-          "value": 74
+          "value": 74,
+          "context": "Reported as combined Scope 1 & 2 net Greenhouse Gas Emissions (t-CO2-e)."
         },
         "scope_3": {
-          "context": "No specific Scope 3 total found.",
-          "value": 0
+          "value": 0,
+          "context": "No specific Scope 3 total found."
         }
       },
       "annotations": {
@@ -1139,14 +1180,21 @@
         "rbics_industry": "Real Estate Developers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 0
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/CWP-AU_250825-CWP-ESG-Report-2025_WEB.pdf",
+        "title": "CWP-AU_250825-CWP-ESG-Report-2025_WEB.pdf",
+        "filename": "CWP-AU_250825-CWP-ESG-Report-2025_WEB.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/CWP-AU_250825-CWP-ESG-Report-2025_WEB.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -1169,14 +1217,21 @@
         "rbics_industry": "Alternative Investment Managers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 1
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/CNI-AU_Sustainability-report_2025-v12.pdf",
+        "title": "CNI-AU_Sustainability-report_2025-v12.pdf",
+        "filename": "CNI-AU_Sustainability-report_2025-v12.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/CNI-AU_Sustainability-report_2025-v12.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -1217,7 +1272,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 64
       },
       "search_record": {
         "url": "https://www.charterhall.com.au/docs/librariesprovider2/corporate-documents/sustainability-docs/2025-sustainability-report.pdf",
@@ -1290,7 +1346,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://assets.ctfassets.net/0vreywxqlgab/3krRUFoThZKUZuo7ppZ33J/38033fdf5d0f03f1f9f2c7414e7d3da9/SCG_2024_Responsible_Business_Limited_Assurance_Statement.pdf",
@@ -1363,7 +1420,8 @@
         "rbics_industry": "Alumina and Aluminum Products Manufacturing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 15
       },
       "search_record": {
         "url": "https://www.south32.net/docs/default-source/annual-reporting-suite/2025/annual-report-2025.pdf",
@@ -1419,14 +1477,22 @@
         "rbics_industry": "Commercial Specialty Engineering Contractors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
+      },
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/SHA-AU_SHAPE-FY25-Annual-Report.pdf",
+        "title": "SHA-AU_SHAPE-FY25-Annual-Report.pdf",
+        "filename": "SHA-AU_SHAPE-FY25-Annual-Report.pdf",
+        "year": "2025",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/SHA-AU_SHAPE-FY25-Annual-Report.pdf"
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -1435,16 +1501,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY25 Scope 1 emissions (tCO2e).",
-          "value": 482
+          "value": 482,
+          "context": "FY25 Scope 1 emissions (tCO2e)."
         },
         "scope_2": {
-          "context": "FY25 Scope 2 emissions (tCO2e). Scope 2 emissions reduced to zero since FY2022 due to the purchase of 100% renewable electricity equivalent.",
-          "value": 0
+          "value": 0,
+          "context": "FY25 Scope 2 emissions (tCO2e). Scope 2 emissions reduced to zero since FY2022 due to the purchase of 100% renewable electricity equivalent."
         },
         "scope_3": {
-          "context": "FY25 Total Scope 3 (Categories 1-6 & 8) operational emissions (tCO2e).",
-          "value": 227896
+          "value": 227896,
+          "context": "FY25 Total Scope 3 (Categories 1-6 & 8) operational emissions (tCO2e)."
         }
       },
       "annotations": {
@@ -1463,14 +1529,22 @@
         "rbics_industry": "Diversified Investment",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 24
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/MQG-AU_macquarie-group-fy25-sustainability-report.pdf",
+        "title": "MQG-AU_macquarie-group-fy25-sustainability-report.pdf",
+        "filename": "MQG-AU_macquarie-group-fy25-sustainability-report.pdf",
+        "year": "2025",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/MQG-AU_macquarie-group-fy25-sustainability-report.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -1497,7 +1571,8 @@
         "anzsic_division": "Transport, Postal and Warehousing",
         "anzsic_confidence": 0.8,
         "anzsic_context": "CDC is likely involved in transport services, which aligns with the Transport, Postal and Warehousing division.",
-        "anzsic_source": "gpt-4o-mini"
+        "anzsic_source": "gpt-4o-mini",
+        "net_zero_claims": 13
       },
       "search_record": {
         "url": "https://cdc.com/media/y0nbxbdf/cdc-sustainability-report-2024.pdf",
@@ -1569,7 +1644,8 @@
         "rbics_industry": "Meat and Seafood Production",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://inghams.com.au/wp-content/uploads/2025/10/FY25-Inghams_GHG-water-and-waste-metrics_Assurance-Statement_Final-1.pdf",
@@ -1609,16 +1685,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY25 Scope 1 total emissions (tCO2e). Calculated using location-based methodology for S1&S2.",
-          "value": 31794
+          "value": 31794,
+          "context": "FY25 Scope 1 total emissions (tCO2e). Calculated using location-based methodology for S1&S2."
         },
         "scope_2": {
-          "context": "FY25 Scope 2 total emissions (tCO2e). Calculated using location-based methodology for S1&S2.",
-          "value": 703989
+          "value": 703989,
+          "context": "FY25 Scope 2 total emissions (tCO2e). Calculated using location-based methodology for S1&S2."
         },
         "scope_3": {
-          "context": "FY25 Scope 3 total emissions (tCO2e) (aligned to GHG protocol).",
-          "value": 1454930
+          "value": 1454930,
+          "context": "FY25 Scope 3 total emissions (tCO2e) (aligned to GHG protocol)."
         }
       },
       "annotations": {
@@ -1637,14 +1713,22 @@
         "rbics_industry": "Australia/New Zealand Mixed Telecom Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 6
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/TLS-AU_telstra-annual-report-2025.pdf",
+        "title": "TLS-AU_telstra-annual-report-2025.pdf",
+        "filename": "TLS-AU_telstra-annual-report-2025.pdf",
+        "year": "2025",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/TLS-AU_telstra-annual-report-2025.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -1653,16 +1737,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY25 Gross Scope 1 Emissions (tCO2-eq).",
-          "value": 23715
+          "value": 23715,
+          "context": "FY25 Gross Scope 1 Emissions (tCO2-eq)."
         },
         "scope_2": {
-          "context": "FY25 Gross Scope 2 Emissions (Market-based Method) (tCO2-eq). Market-based emissions resulted in zero due to application of renewable electricity purchases/offsets.",
-          "value": 0
+          "value": 0,
+          "context": "FY25 Gross Scope 2 Emissions (Market-based Method) (tCO2-eq). Market-based emissions resulted in zero due to application of renewable electricity purchases/offsets."
         },
         "scope_3": {
-          "context": "FY25 Total Scope 3 Emissions (tCO2-eq).",
-          "value": 1353639
+          "value": 1353639,
+          "context": "FY25 Total Scope 3 Emissions (tCO2-eq)."
         }
       },
       "annotations": {
@@ -1680,14 +1764,22 @@
         "rbics_industry": "Diverse Construction and Engineering Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/LLC-AU_lendlease-fy25-esg-databook.pdf",
+        "title": "LLC-AU_lendlease-fy25-esg-databook.pdf",
+        "filename": "LLC-AU_lendlease-fy25-esg-databook.pdf",
+        "year": "2025",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/LLC-AU_lendlease-fy25-esg-databook.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -1726,7 +1818,8 @@
         "rbics_industry": "Colocation and Data Center Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 13
       },
       "search_record": {
         "url": "https://nextdc.com/hubfs/ASX%20Announcements/FY25%20Environmental%2C%20Social%20and%20Governance%20Report.pdf",
@@ -1800,7 +1893,8 @@
         "rbics_industry": "Industrial Specialty Engineering Contractors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 8
       },
       "search_record": {
         "url": "https://www.perenti.com/wp-content/uploads/sites/13/2025/09/SD-REPORT-2025_FRONT-SECTION.pdf",
@@ -1856,14 +1950,21 @@
         "rbics_industry": "Furniture Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
+      },
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/NCK-AU_2025annual.pdf",
+        "title": "NCK-AU_2025annual.pdf",
+        "filename": "NCK-AU_2025annual.pdf",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/NCK-AU_2025annual.pdf"
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -1872,16 +1973,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "2024 Gross operated Scope 1 greenhouse gas emissions (4.44 MtCO2e).",
-          "value": 4440000
+          "value": 4440000,
+          "context": "2024 Gross operated Scope 1 greenhouse gas emissions (4.44 MtCO2e)."
         },
         "scope_2": {
-          "context": "2024 Gross operated Scope 2 greenhouse gas emissions (0.80 MtCO2e).",
-          "value": 800000
+          "value": 800000,
+          "context": "2024 Gross operated Scope 2 greenhouse gas emissions (0.80 MtCO2e)."
         },
         "scope_3": {
-          "context": "2024 Total Scope 3 emissions (29.9 MtCO2e).",
-          "value": 29900000
+          "value": 29900000,
+          "context": "2024 Total Scope 3 emissions (29.9 MtCO2e)."
         }
       },
       "annotations": {
@@ -1901,14 +2002,21 @@
         "rbics_industry": "Other Pipeline and Energy Storage Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "South Australia (SA)"
+        "company_state": "South Australia (SA)",
+        "net_zero_claims": 4
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/STO-AU_Santos_Sustainability_Data_Book_2024.pdf",
+        "title": "STO-AU_Santos_Sustainability_Data_Book_2024.pdf",
+        "filename": "STO-AU_Santos_Sustainability_Data_Book_2024.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/STO-AU_Santos_Sustainability_Data_Book_2024.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -1949,7 +2057,8 @@
         "rbics_industry": "Other Americas Fossil Fuel Exploration/Production",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 15
       },
       "search_record": {
         "url": "https://www.karoonenergy.com.au/wp-content/uploads/2024-Sustainability-Report.pdf",
@@ -2009,10 +2118,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -2054,7 +2160,8 @@
         "rbics_industry": "Non-Ferrous Metal Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 20
       },
       "search_record": {
         "url": "https://www.sandfire.com.au/wp-content/uploads/2025/08/Sandfire-AR2025.pdf",
@@ -2110,14 +2217,21 @@
         "rbics_industry": "Mixed Health and Personal Care Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 0
+      },
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/SSG-AU_.pdf",
+        "title": "SSG-AU_.pdf",
+        "filename": "SSG-AU_.pdf",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/SSG-AU_.pdf"
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -2131,7 +2245,7 @@
           "context": ",,,,vs F23 base year,\n,\"43,300+\",,,,\n,,,N Z,,"
         },
         "scope_2": {
-          "value": 66800000,
+          "value": 66800,
           "confidence": 0.9,
           "context": ",V I C,,,Our planet,\n,,,\"66,800+\",,\n,,,,,Our reach enables us to influence change across our value chain"
         }
@@ -2152,7 +2266,8 @@
         "rbics_industry": "Supermarkets",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 13
       },
       "search_record": {
         "url": "https://www.woolworthsgroup.com.au/content/dam/wwg/sustainability/reports/2025_WG_Sustainability_Report_Interactive_SPREADS.pdf",
@@ -2226,7 +2341,8 @@
         "rbics_industry": "Diverse Asset Management and Financial Advisors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.perpetual.com.au/4a6d72/globalassets/_au-site-media/01-documents/04-group/03-sustainability/2025/fy25-perpetual-sustainability-report.pdf",
@@ -2286,10 +2402,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -2298,16 +2411,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "2025 Scope 1 emissions (tCO2-e). Note: This is the gross Scope 1 figure.",
-          "value": 8359
+          "value": 8359,
+          "context": "2025 Scope 1 emissions (tCO2-e). Note: This is the gross Scope 1 figure."
         },
         "scope_2": {
-          "context": "2025 Scope 2 market-based emissions (tCO2-e). Market-based emissions are zero, reflecting 100% renewable electricity sourcing.",
-          "value": 0
+          "value": 0,
+          "context": "2025 Scope 2 market-based emissions (tCO2-e). Market-based emissions are zero, reflecting 100% renewable electricity sourcing."
         },
         "scope_3": {
-          "context": "2025 Total gross Scope 3 emissions (tCO2-e). This excludes financed emissions.",
-          "value": 78259
+          "value": 78259,
+          "context": "2025 Total gross Scope 3 emissions (tCO2-e). This excludes financed emissions."
         }
       },
       "annotations": {
@@ -2326,14 +2439,21 @@
         "rbics_industry": "Australia and New Zealand Banks",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 22
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/NAB-AU_2025-climate-report.pdf",
+        "title": "NAB-AU_2025-climate-report.pdf",
+        "filename": "NAB-AU_2025-climate-report.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/NAB-AU_2025-climate-report.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -2342,16 +2462,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY25 Scope 1 emissions",
-          "value": 181558
+          "value": 181558,
+          "context": "FY25 Scope 1 emissions"
         },
         "scope_2": {
-          "context": "FY25 Scope 2 emissions (market based)",
-          "value": 46346
+          "value": 46346,
+          "context": "FY25 Scope 2 emissions (market based)"
         },
         "scope_3": {
-          "context": "FY24 Scope 3 emissions. Current year (FY25) Scope 3 data is reported a year in arrears.",
-          "value": 798935
+          "value": 798935,
+          "context": "FY24 Scope 3 emissions. Current year (FY25) Scope 3 data is reported a year in arrears."
         }
       },
       "annotations": {
@@ -2371,14 +2491,21 @@
         "rbics_industry": "Safety and Sterilization Medical Supplies",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 1
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/ANN-AU_Sustainability%20Report%202025.pdf",
+        "title": "ANN-AU_Sustainability%20Report%202025.pdf",
+        "filename": "ANN-AU_Sustainability%20Report%202025.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/ANN-AU_Sustainability Report 2025.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -2404,14 +2531,21 @@
         "rbics_industry": "Jewelry and Other Accessories Production",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 0
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/ATP-AU_ESGGlossy_15May2024.pdf",
+        "title": "ATP-AU_ESGGlossy_15May2024.pdf",
+        "filename": "ATP-AU_ESGGlossy_15May2024.pdf",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/ATP-AU_ESGGlossy_15May2024.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -2453,7 +2587,8 @@
         "rbics_industry": "Other Asia/Pacific Wholesale Power",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 10
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250814/pdf/06mvl9r7gnxr8z.pdf",
@@ -2526,7 +2661,8 @@
         "rbics_industry": "Gaming Industries",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 15
       },
       "search_record": {
         "url": "https://www.tabcorp.com.au/-/media/tabcorp/files/sustainability-reports/2025-sustainability-report.pdf",
@@ -2597,7 +2733,8 @@
         "rbics_industry": "Diversified Biopharmaceuticals",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.csl.com/-/media/shared/documents/annual-report/csl-annual-report-2025.pdf",
@@ -2637,16 +2774,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY24 Scope 1 emissions (tCO2-e)",
-          "value": 1485
+          "value": 1485,
+          "context": "FY24 Scope 1 emissions (tCO2-e)"
         },
         "scope_2": {
-          "context": "FY24 Scope 2 emissions (tCO2-e)",
-          "value": 1037
+          "value": 1037,
+          "context": "FY24 Scope 2 emissions (tCO2-e)"
         },
         "scope_3": {
-          "context": "FY24 Scope 3 emissions (tCO2-e)",
-          "value": 51835
+          "value": 51835,
+          "context": "FY24 Scope 3 emissions (tCO2-e)"
         }
       },
       "annotations": {
@@ -2666,14 +2803,22 @@
         "rbics_industry": "Other Wireless Equipment",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "South Australia (SA)"
+        "company_state": "South Australia (SA)",
+        "net_zero_claims": 2
+      },
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/CDA-AU_CODAN-ESG-GRI-2024-WEB.pdf",
+        "title": "CDA-AU_CODAN-ESG-GRI-2024-WEB.pdf",
+        "filename": "CDA-AU_CODAN-ESG-GRI-2024-WEB.pdf",
+        "year": "2024",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/CDA-AU_CODAN-ESG-GRI-2024-WEB.pdf"
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -2697,14 +2842,21 @@
         "rbics_industry": "Diversified Loan Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
+      },
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/OBL-AU_2025annual.pdf",
+        "title": "OBL-AU_2025annual.pdf",
+        "filename": "OBL-AU_2025annual.pdf",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/OBL-AU_2025annual.pdf"
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -2713,16 +2865,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "2024 Scope 1 GHG (3.3 Million tonnes CO2e).",
-          "value": 3300000
+          "value": 3300000,
+          "context": "2024 Scope 1 GHG (3.3 Million tonnes CO2e)."
         },
         "scope_2": {
-          "context": "2024 Scope 2 GHG (1.2 Million tonnes CO2e, assuming 'Tonnes CO2e' is a unit error in the source and refers to Millions for consistency with Scope 1).",
-          "value": 1200000
+          "value": 1200000,
+          "context": "2024 Scope 2 GHG (1.2 Million tonnes CO2e, assuming 'Tonnes CO2e' is a unit error in the source and refers to Millions for consistency with Scope 1)."
         },
         "scope_3": {
-          "context": "No specific Scope 3 total found.",
-          "value": 0
+          "value": 0,
+          "context": "No specific Scope 3 total found."
         }
       },
       "annotations": {
@@ -2740,12 +2892,19 @@
         "rbics_industry": "Other Apparel Retail",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null,
-      "analysis_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/MOZ-AU_0-2024-Sustainability-Performance-Summary.pdf",
+        "title": "MOZ-AU_0-2024-Sustainability-Performance-Summary.pdf",
+        "filename": "MOZ-AU_0-2024-Sustainability-Performance-Summary.pdf",
+        "year": "2024",
+        "doc_type": "sustainability"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/MOZ-AU_0-2024-Sustainability-Performance-Summary.pdf"
+      },
       "verification": {
         "status": "pending"
       }
@@ -2789,7 +2948,8 @@
         "rbics_industry": "Asia/Pacific Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.nsrltd.com/media/hy1k312h/fy25-reasonable-and-limited-assurance-statement.pdf",
@@ -2845,14 +3005,22 @@
         "rbics_industry": "Other Marketing and Advertising Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
+      },
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/EGG-AU_Enero-FY23-Annual-Report-Released.pdf",
+        "title": "EGG-AU_Enero-FY23-Annual-Report-Released.pdf",
+        "filename": "EGG-AU_Enero-FY23-Annual-Report-Released.pdf",
+        "year": "2023",
+        "doc_type": "annual"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/EGG-AU_Enero-FY23-Annual-Report-Released.pdf"
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -2878,12 +3046,9 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -2923,7 +3088,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 17
       },
       "search_record": {
         "url": "https://www.ingeniacommunities.com.au/wp-content/uploads/2025/01/2024-Sustainability-Report.pdf",
@@ -2994,7 +3160,8 @@
         "rbics_industry": "Administrative Employment Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://cms.mmsg.com.au/sites/default/files/2025-10/FY25%20Sustainability%20Report%202025%20FINAL_0.pdf",
@@ -3053,10 +3220,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -3065,16 +3229,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY2022 Total Scope 1 emissions (tCO2-e).",
-          "value": 186110
+          "value": 186110,
+          "context": "FY2022 Total Scope 1 emissions (tCO2-e)."
         },
         "scope_2": {
-          "context": "FY2022 Total Scope 2 emissions (tCO2-e), calculated using the market-based method.",
-          "value": 86724
+          "value": 86724,
+          "context": "FY2022 Total Scope 2 emissions (tCO2-e), calculated using the market-based method."
         },
         "scope_3": {
-          "context": "FY2022 Total Scope 3 emissions (tCO2-e).",
-          "value": 472742
+          "value": 472742,
+          "context": "FY2022 Total Scope 3 emissions (tCO2-e)."
         }
       },
       "annotations": {
@@ -3094,12 +3258,9 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -3125,12 +3286,9 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -3139,16 +3297,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY2024 Scope 1 (1% of 16,570 tCO2e), including Continuing and Discontinued Operations.",
-          "value": 166
+          "value": 166,
+          "context": "FY2024 Scope 1 (1% of 16,570 tCO2e), including Continuing and Discontinued Operations."
         },
         "scope_2": {
-          "context": "FY2024 Scope 2 (8% of 16,570 tCO2e), including Continuing and Discontinued Operations.",
-          "value": 1326
+          "value": 1326,
+          "context": "FY2024 Scope 2 (8% of 16,570 tCO2e), including Continuing and Discontinued Operations."
         },
         "scope_3": {
-          "context": "FY2024 Scope 3 (91% of 16,570 tCO2e), including Continuing and Discontinued Operations.",
-          "value": 15079
+          "value": 15079,
+          "context": "FY2024 Scope 3 (91% of 16,570 tCO2e), including Continuing and Discontinued Operations."
         }
       },
       "annotations": {
@@ -3169,12 +3327,9 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -3216,7 +3371,8 @@
         "rbics_industry": "Diversified General Waste Collection",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://cleanaway2stor.blob.core.windows.net/cleanaway2-blob-container/2025/09/CWY_SR25_Interactive_SPREADS.pdf",
@@ -3276,10 +3432,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -3320,7 +3473,8 @@
         "rbics_industry": "Asia/Pacific Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 7
       },
       "search_record": {
         "url": "https://www.goldfields.com/pdf/investors/integrated-annual-reports/2024/gold-fields-ccr-report-2024.pdf",
@@ -3378,12 +3532,9 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -3392,16 +3543,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "No Scope 1 emissions figure explicitly reported. The Company's GHG emission is limited to Scope 2 indirect and Scope 3 other indirect.",
-          "value": 0
+          "value": 0,
+          "context": "No Scope 1 emissions figure explicitly reported. The Company's GHG emission is limited to Scope 2 indirect and Scope 3 other indirect."
         },
         "scope_2": {
-          "context": "FY21 Scope 2: Electricity GHG emissions (tCO2e).",
-          "value": 291
+          "value": 291,
+          "context": "FY21 Scope 2: Electricity GHG emissions (tCO2e)."
         },
         "scope_3": {
-          "context": "FY21 Scope 3: Travel GHG emissions (tCO2e). Currently, Scope 3 indirect emissions recorded are limited to travel.",
-          "value": 216
+          "value": 216,
+          "context": "FY21 Scope 3: Travel GHG emissions (tCO2e). Currently, Scope 3 indirect emissions recorded are limited to travel."
         }
       },
       "annotations": {
@@ -3423,10 +3574,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -3452,12 +3600,9 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -3497,7 +3642,8 @@
         "rbics_industry": "Other Nonmetallic Minerals Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.bciminerals.com.au/images/files/annual-report/BCI_Minerals_Annual_Report_2025_DIGITAL_SPREADS_FINAL.pdf",
@@ -3569,7 +3715,8 @@
         "rbics_industry": "Asia/Pacific Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://wp-genesis-2024.s3.ap-southeast-2.amazonaws.com/media/2025/08/21083633/Sustainability-Report-2025-FINAL.pdf",
@@ -3609,16 +3756,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY25 Scope 1 emissions (tCO2-e).",
-          "value": 1341
+          "value": 1341,
+          "context": "FY25 Scope 1 emissions (tCO2-e)."
         },
         "scope_2": {
-          "context": "FY25 Market Based Scope 2 emissions (tCO2-e).",
-          "value": 54937
+          "value": 54937,
+          "context": "FY25 Market Based Scope 2 emissions (tCO2-e)."
         },
         "scope_3": {
-          "context": "Scope 3 calculation figure is not able to be published this reporting period.",
-          "value": 0
+          "value": 0,
+          "context": "Scope 3 calculation figure is not able to be published this reporting period."
         }
       },
       "annotations": {
@@ -3640,10 +3787,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -3657,7 +3801,7 @@
           "context": "Q2 2024,\"6,355\",23,2.7,\"40,000\",,,,,10\nQ3 2024,\"1,264\",0,N/A,,,,,,\n,,,,0,,,,,0"
         },
         "scope_2": {
-          "value": 22024000,
+          "value": 0,
           "confidence": 0.9,
           "context": "Q2 2024,\"6,355\",23,2.7,\"40,000\",,,,,10\nQ3 2024,\"1,264\",0,N/A,,,,,,\n,,,,0,,,,,0"
         },
@@ -3684,7 +3828,8 @@
         "rbics_industry": "Other Nonmetallic Minerals Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.datocms-assets.com/65260/1745891084-q1-2025-quarterly-sustainability-update.pdf",
@@ -3753,7 +3898,8 @@
         "rbics_industry": "Supplemental Health Insurance",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 3
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/nhf/be7d14b9-632f-11ef-beba-3ea1a61ffeaf.pdf",
@@ -3794,12 +3940,12 @@
       },
       "emissions": {
         "scope_1": {
-          "value": 667590,
+          "value": 667,
           "confidence": 1.0,
           "context": "Scope 1,\"667,590 kg\",\"756,899 kg\",\"306,960 kg\",\"351,762 kg\""
         },
         "scope_2": {
-          "value": 9360624,
+          "value": 9360,
           "confidence": 1.0,
           "context": "Scope 2,\"9,360,624 kg\",\"10,132,459 kg\",\"11,761,701 kg\",\"12,026,123 kg\""
         }
@@ -3820,7 +3966,8 @@
         "rbics_industry": "Other Educational Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://g8education.edu.au/wp-content/uploads/2025/02/fy24-annual-report-final.pdf",
@@ -3889,7 +4036,8 @@
         "rbics_industry": "Limited-Service and Fast Food Restaurants",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 2
       },
       "search_record": {
         "url": "https://www.collinsfoods.com/wp-content/uploads/2025/06/Collins-Foods-Sustainability-Report-2025.pdf",
@@ -3930,16 +4078,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "2025 Scope 1 emissions (tCO2-e).",
-          "value": 4714
+          "value": 4714,
+          "context": "2025 Scope 1 emissions (tCO2-e)."
         },
         "scope_2": {
-          "context": "2025 Scope 2 emissions (tCO2-e) (market-based).",
-          "value": 1963
+          "value": 1963,
+          "context": "2025 Scope 2 emissions (tCO2-e) (market-based)."
         },
         "scope_3": {
-          "context": "2025 Scope 3 upstream emissions only (tCO2-e). Financed emissions (Category 15) are calculated one year in arrears and are not included in this figure.",
-          "value": 56469
+          "value": 56469,
+          "context": "2025 Scope 3 upstream emissions only (tCO2-e). Financed emissions (Category 15) are calculated one year in arrears and are not included in this figure."
         }
       },
       "annotations": {
@@ -3961,10 +4109,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -3973,16 +4118,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Reported as combined Scope 1 and 2 operational emissions (tCO2-e).",
-          "value": 29640
+          "value": 29640,
+          "context": "Reported as combined Scope 1 and 2 operational emissions (tCO2-e)."
         },
         "scope_2": {
-          "context": "Reported as combined Scope 1 and 2 operational emissions (tCO2-e).",
-          "value": 29640
+          "value": 29640,
+          "context": "Reported as combined Scope 1 and 2 operational emissions (tCO2-e)."
         },
         "scope_3": {
-          "context": "FY24 Scope 3 operational emissions (tCO2-e).",
-          "value": 34288
+          "value": 34288,
+          "context": "FY24 Scope 3 operational emissions (tCO2-e)."
         }
       },
       "annotations": {
@@ -4004,10 +4149,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -4047,7 +4189,8 @@
         "rbics_industry": "Diverse Asset Management and Financial Advisors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 10
       },
       "search_record": {
         "url": "https://www.amp.com.au/content/dam/corporate/shareholdercentre/files/reports/2025/250213_AMP_SR24_final_A4.pdf",
@@ -4089,8 +4232,8 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Operational emissions—total Scope 1 and 2 (market based). Combined Scope 1 and 2 total. Operational emissions—total Scope 1 and 2 (market based). Citation(s): [39, 40]",
-          "value": 302151
+          "value": 302151,
+          "context": "Operational emissions—total Scope 1 and 2 (market based). Combined Scope 1 and 2 total. Operational emissions—total Scope 1 and 2 (market based). Citation(s): [39, 40]"
         }
       },
       "annotations": {
@@ -4113,10 +4256,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -4157,7 +4297,8 @@
         "rbics_industry": "Personal Insurance",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 2
       },
       "search_record": {
         "url": "https://www.suncorpgroup.com.au/uploads/FY25-SUN-Climate-related-Disclsoure-Report-Final.pdf",
@@ -4198,16 +4339,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "2025 Scope 1 GHG Emissions (tCO2e).",
-          "value": 6770
+          "value": 6770,
+          "context": "2025 Scope 1 GHG Emissions (tCO2e)."
         },
         "scope_2": {
-          "context": "2025 Scope 2 – Market based emissions (tCO2e). Market-based emissions are used in calculating Net GHG emissions.",
-          "value": 5429
+          "value": 5429,
+          "context": "2025 Scope 2 – Market based emissions (tCO2e). Market-based emissions are used in calculating Net GHG emissions."
         },
         "scope_3": {
-          "context": "2025 Total Scope 3 emissions (tCO2e).",
-          "value": 19383
+          "value": 19383,
+          "context": "2025 Total Scope 3 emissions (tCO2e)."
         }
       },
       "annotations": {
@@ -4228,10 +4369,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -4258,10 +4396,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -4297,7 +4432,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 19
       },
       "search_record": {
         "url": "https://links.sgx.com/1.0.0/corporate-announcements/1A9X79FT9X8NW90U/856446_Stockland%20FY25%20Annual%20Report.pdf",
@@ -4356,10 +4492,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -4385,12 +4518,9 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -4399,16 +4529,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY2024 Global Scope 1 emissions (1,158 ktCO₂-e).",
-          "value": 1158000
+          "value": 1158000,
+          "context": "FY2024 Global Scope 1 emissions (1,158 ktCO₂-e)."
         },
         "scope_2": {
-          "context": "FY2024 Global Scope 2 emissions (139 ktCO₂-e).",
-          "value": 139000
+          "value": 139000,
+          "context": "FY2024 Global Scope 2 emissions (139 ktCO₂-e)."
         },
         "scope_3": {
-          "context": "FY2024 Global Scope 3 emissions (7,891 ktCO₂-e).",
-          "value": 7891000
+          "value": 7891000,
+          "context": "FY2024 Global Scope 3 emissions (7,891 ktCO₂-e)."
         }
       },
       "annotations": {
@@ -4429,12 +4559,9 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -4476,7 +4603,8 @@
         "rbics_industry": "Travel Agencies",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 40
       },
       "search_record": {
         "url": "https://www.fcmtravel.com/sites/default/files/2024-08/Flight-Centre-Travel-Group-Sustainability-Report.pdf",
@@ -4517,16 +4645,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Total Scope 1 greenhouse gas emissions (5,910 tCO2-e) for FY24.",
-          "value": 5910
+          "value": 5910,
+          "context": "Total Scope 1 greenhouse gas emissions (5,910 tCO2-e) for FY24."
         },
         "scope_2": {
-          "context": "Total scope 2 greenhouse gas emissions (“market-based”) (30,669 tCO2-e) for FY24.",
-          "value": 30669
+          "value": 30669,
+          "context": "Total scope 2 greenhouse gas emissions (“market-based”) (30,669 tCO2-e) for FY24."
         },
         "scope_3": {
-          "context": "Total Scope 3 greenhouse gas emissions (370,826 tCO2-e) for FY24.",
-          "value": 370826
+          "value": 370826,
+          "context": "Total Scope 3 greenhouse gas emissions (370,826 tCO2-e) for FY24."
         }
       },
       "annotations": {
@@ -4547,10 +4675,6 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null,
-      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -4578,12 +4702,9 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -4592,16 +4713,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY24 Scope 1 emissions for Controlled investments (tCO2e).",
-          "value": 8373
+          "value": 8373,
+          "context": "FY24 Scope 1 emissions for Controlled investments (tCO2e)."
         },
         "scope_2": {
-          "context": "FY24 Scope 2 emissions for Controlled investments (tCO2e). Note: Direct operations Scope 2 emissions are zero using a market-based approach.",
-          "value": 18595
+          "value": 18595,
+          "context": "FY24 Scope 2 emissions for Controlled investments (tCO2e). Note: Direct operations Scope 2 emissions are zero using a market-based approach."
         },
         "scope_3": {
-          "context": "No specific Scope 3 total found.",
-          "value": 0
+          "value": 0,
+          "context": "No specific Scope 3 total found."
         }
       },
       "annotations": {
@@ -4623,12 +4744,9 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -4671,7 +4789,8 @@
         "rbics_industry": "Other Securities Sales and Trading Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 13
       },
       "search_record": {
         "url": "https://www.asx.com.au/content/dam/asx/annual-reports/asx-2025-annual-report.pdf",
@@ -4712,16 +4831,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY2025 Total global Scope 1 emissions (tCO2-e).",
-          "value": 29908
+          "value": 29908,
+          "context": "FY2025 Total global Scope 1 emissions (tCO2-e)."
         },
         "scope_2": {
-          "context": "FY2025 Scope 2 emissions (market-based) (tCO2-e).",
-          "value": 58507
+          "value": 58507,
+          "context": "FY2025 Scope 2 emissions (market-based) (tCO2-e)."
         },
         "scope_3": {
-          "context": "FY2025 Total global Scope 3 (GHG protocol categories 1–9) emissions (tCO2-e).",
-          "value": 323506
+          "value": 323506,
+          "context": "FY2025 Total global Scope 3 (GHG protocol categories 1–9) emissions (tCO2-e)."
         }
       },
       "annotations": {
@@ -4741,10 +4860,6 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null,
-      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -4773,12 +4888,9 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -4820,7 +4932,8 @@
         "rbics_industry": "Other Consulting and Business Process Outsourcing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 14
       },
       "search_record": {
         "url": "https://content-assets.computershare.com/eh96rkuu9740/6yPsID4hlPz2JQYVXImDSS/082ba3e038dd1015c7ae16d50c238c1d/CPU_-_Sustainability_Report_-_FY25.pdf",
@@ -4892,7 +5005,8 @@
         "rbics_industry": "Hardware, Plumbing, Heating Supplies Distributors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 3
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/reh/83e6f033-91b0-11ef-81f6-d6aa1427518f.pdf",
@@ -4961,7 +5075,8 @@
         "rbics_industry": "Plumbing Fixtures and Trim Manufacturing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://cdn.gwagroup.com.au/v3/assets/bltad292a6aa65b6a42/bltab8a1d18b9bae8eb/68d5c6d55a1a1bc4a9c488bf/2025_ESG_Report.pdf",
@@ -5032,7 +5147,8 @@
         "rbics_industry": "General Agrochemicals Manufacturing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://cdn.nufarm.com/wp-content/uploads/2020/11/13080335/Nufarm-FY24-Sustainability-Report.pdf",
@@ -5072,16 +5188,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY25 Total Scope 1 emissions (75.0 kt CO₂e).",
-          "value": 75000
+          "value": 75000,
+          "context": "FY25 Total Scope 1 emissions (75.0 kt CO₂e)."
         },
         "scope_2": {
-          "context": "FY25 Total Scope 2 emissions (Market-based) (0.0 kt CO₂e). Zero emissions achieved by procuring 100% renewable energy.",
-          "value": 0
+          "value": 0,
+          "context": "FY25 Total Scope 2 emissions (Market-based) (0.0 kt CO₂e). Zero emissions achieved by procuring 100% renewable energy."
         },
         "scope_3": {
-          "context": "FY25 Total Scope 3 emissions (5,098.3 kt CO₂e).",
-          "value": 5098300
+          "value": 5098300,
+          "context": "FY25 Total Scope 3 emissions (5,098.3 kt CO₂e)."
         }
       },
       "annotations": {
@@ -5104,10 +5220,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -5149,7 +5262,8 @@
         "rbics_industry": "International Natural Gas Pipeline and Storage",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 3
       },
       "search_record": {
         "url": "https://admin.apa.com.au/media/hargh4do/250820_sustainability_report_data_book_fy25.pdf",
@@ -5218,7 +5332,8 @@
         "rbics_industry": "Other Agricultural Support Activity Providers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 4
       },
       "search_record": {
         "url": "https://www.graincorp.com.au/wp-content/uploads/2025/01/2024-Sustainability-Report.pdf",
@@ -5274,12 +5389,9 @@
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -5288,16 +5400,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Total Group Scope 1 emissions (tCO2e) for 2024",
-          "value": 725975
+          "value": 725975,
+          "context": "Total Group Scope 1 emissions (tCO2e) for 2024"
         },
         "scope_2": {
-          "context": "Total Group Scope 2 emissions (tCO2e) for 2024",
-          "value": 217452
+          "value": 217452,
+          "context": "Total Group Scope 2 emissions (tCO2e) for 2024"
         },
         "scope_3": {
-          "context": "Total Group Scope 3 emissions (tCO2e) for 2024",
-          "value": 60745311
+          "value": 60745311,
+          "context": "Total Group Scope 3 emissions (tCO2e) for 2024"
         }
       },
       "annotations": {
@@ -5320,10 +5432,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -5332,16 +5441,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY25 Scope 1 emissions (Australia: 537,493 tCO2e + New Zealand: 89,238 tCO2e)",
-          "value": 626731
+          "value": 626731,
+          "context": "FY25 Scope 1 emissions (Australia: 537,493 tCO2e + New Zealand: 89,238 tCO2e)"
         },
         "scope_2": {
-          "context": "FY25 Scope 2 emissions (Australia: 21,194 tCO2e + New Zealand: 5,238 tCO2e)",
-          "value": 26432
+          "value": 26432,
+          "context": "FY25 Scope 2 emissions (Australia: 21,194 tCO2e + New Zealand: 5,238 tCO2e)"
         },
         "scope_3": {
-          "context": "FY25 Estimated Scope 3 emissions (6.38 MtCO2e)",
-          "value": 6380000
+          "value": 6380000,
+          "context": "FY25 Estimated Scope 3 emissions (6.38 MtCO2e)"
         }
       },
       "annotations": {
@@ -5364,10 +5473,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -5405,7 +5511,8 @@
         "rbics_industry": "Clinical Laboratory Patient Diagnostics",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/68d6049d22617364c0b18eb1_Annual%20Report%202025%20FINAL.pdf",
@@ -5477,7 +5584,8 @@
         "rbics_industry": "Life and Health Insurance",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 8
       },
       "search_record": {
         "url": "https://edge.sitecorecloud.io/challengerg66c7-challengerprod-prod-4c11/media/Project/Challenger/Challenger/Documents/Reports/2025-Annual-Report.pdf",
@@ -5547,7 +5655,8 @@
         "rbics_industry": "Other Agricultural Support Activity Providers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.ridley.com.au/wp-content/uploads/2025/10/Sustainability-Report-2025.pdf",
@@ -5587,16 +5696,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY24 total Scope 1 emissions (sum of Natural gas: 15,321; Stationary fuels: 3,175; Transport fuels: 305; Other: 1 tCO2e).",
-          "value": 18821
+          "value": 18821,
+          "context": "FY24 total Scope 1 emissions (sum of Natural gas: 15,321; Stationary fuels: 3,175; Transport fuels: 305; Other: 1 tCO2e)."
         },
         "scope_2": {
-          "context": "FY24 Scope 2 emissions (market-based) electricity (tCO2e).",
-          "value": 105217
+          "value": 105217,
+          "context": "FY24 Scope 2 emissions (market-based) electricity (tCO2e)."
         },
         "scope_3": {
-          "context": "FY23 Scope 3 total estimate (tCO2e). FY24 estimate is in development.",
-          "value": 307344
+          "value": 307344,
+          "context": "FY23 Scope 3 total estimate (tCO2e). FY24 estimate is in development."
         }
       },
       "annotations": {
@@ -5618,10 +5727,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -5648,10 +5754,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -5660,16 +5763,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Citation(s): [3]",
-          "value": 3405
+          "value": 3405,
+          "context": "Citation(s): [3]"
         },
         "scope_2": {
-          "context": "Citation(s): [3]",
-          "value": 7011
+          "value": 7011,
+          "context": "Citation(s): [3]"
         },
         "scope_3": {
-          "context": "Includes upstream emissions only. Downstream Scope 3 is not currently reported. Citation(s): [3, 4]",
-          "value": 46668
+          "value": 46668,
+          "context": "Includes upstream emissions only. Downstream Scope 3 is not currently reported. Citation(s): [3, 4]"
         }
       },
       "annotations": {
@@ -5690,12 +5793,9 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -5738,7 +5838,8 @@
         "rbics_industry": "Other Consulting and Business Process Outsourcing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 11
       },
       "search_record": {
         "url": "https://www.alsglobal.com/-/media/ALSGlobal/Resources-Grid/2025-ALS-Sustainability-Report.pdf",
@@ -5807,7 +5908,8 @@
         "rbics_industry": "Architectural Component Manufacturing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://www.capral.com.au/wp-content/uploads/2025/05/Capral_ESGReport_2024.pdf",
@@ -5867,10 +5969,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -5879,16 +5978,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Estimated based on 30% of Net Scope 1 & 2 total (8.8 ktCO2e), assuming the remaining portion after Scope 2 is Scope 1. Note: Net Scope 1 & 2 is 8,800 tCO2e.",
-          "value": 2640
+          "value": 2640,
+          "context": "Estimated based on 30% of Net Scope 1 & 2 total (8.8 ktCO2e), assuming the remaining portion after Scope 2 is Scope 1. Note: Net Scope 1 & 2 is 8,800 tCO2e."
         },
         "scope_2": {
-          "context": "Estimated based on 70% of Net Scope 1 & 2 total (8.8 ktCO2e), as the vast majority (70%) is linked to purchased electricity. Note: Net Scope 1 & 2 is 8,800 tCO2e.",
-          "value": 6160
+          "value": 6160,
+          "context": "Estimated based on 70% of Net Scope 1 & 2 total (8.8 ktCO2e), as the vast majority (70%) is linked to purchased electricity. Note: Net Scope 1 & 2 is 8,800 tCO2e."
         },
         "scope_3": {
-          "context": "No specific Scope 3 total found.",
-          "value": 0
+          "value": 0,
+          "context": "No specific Scope 3 total found."
         }
       },
       "annotations": {
@@ -5910,10 +6009,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -5941,10 +6037,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -5971,10 +6064,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -6014,7 +6104,8 @@
         "rbics_industry": "Other Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 5
       },
       "search_record": {
         "url": "https://www.rml.com.au/wp-content/uploads/2025/04/Resolute-Sustainability-Report-2024.pdf",
@@ -6085,7 +6176,8 @@
         "rbics_industry": "Fruit, Nut and Vegetable Farming",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 4
       },
       "search_record": {
         "url": "https://selectharvests.com.au/documents/SHV_Sustainability-Report_19-Dec-2024_ASX.pdf",
@@ -6143,10 +6235,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -6181,7 +6270,8 @@
         "rbics_industry": "Automobile Dealers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/ape/be142016-0eac-11f0-808d-2eafb8326ff9.pdf",
@@ -6250,7 +6340,8 @@
         "rbics_industry": "Industrial Specialty Engineering Contractors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://d2dycffe7xo3vi.cloudfront.net/app/uploads/2025/08/Sustainability-Report-2025-FINAL_web.pdf",
@@ -6307,12 +6398,9 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -6354,7 +6442,8 @@
         "rbics_industry": "Wholesale Pharmaceuticals Distributors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.ebosgroup.com/wp-content/uploads/2025/11/EBOS_ESG-Doument_2025_Environmental-Data_FINAL.pdf",
@@ -6412,10 +6501,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -6457,7 +6543,8 @@
         "rbics_industry": "Utilities Industry Software",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 4
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/hsn/f8896e2f-7d4b-11f0-a14a-aaf2b0bbb5d6.pdf",
@@ -6528,7 +6615,8 @@
         "rbics_industry": "Monitoring and Control Sensor/Instrument Products",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250925/pdf/06pmwdxz5d7x0t.pdf",
@@ -6597,7 +6685,8 @@
         "rbics_industry": "Rare Earth Elements Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 2
       },
       "search_record": {
         "url": "https://lynasrareearths.com/wp-content/uploads/2025/10/LYC-Sustainability-Report-2025-Oct25V2-1.pdf",
@@ -6666,7 +6755,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 19
       },
       "search_record": {
         "url": "https://www.cromwellpropertygroup.com/wp-content/uploads/sites/3/2024/01/ESG-report-2023.pdf",
@@ -6725,10 +6815,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -6753,10 +6840,6 @@
         "company_region": "Pacific",
         "company_state": "Tasmania (TAS)"
       },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null,
-      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -6801,7 +6884,8 @@
         "rbics_industry": "Asia/Pacific Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.westgold.com.au/pdf/c69c8e82-3a58-4c4a-bf83-7cb2859e6fcd/2024-Sustainability-Report.pdf",
@@ -6858,12 +6942,9 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -6902,7 +6983,8 @@
         "rbics_industry": "Asia/Pacific Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 5
       },
       "search_record": {
         "url": "https://regisresources.com.au/wp-content/uploads/2025/01/Regis-SR24-22.10.24-singles.pdf",
@@ -6962,10 +7044,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -6993,10 +7072,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7024,10 +7100,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7069,7 +7142,8 @@
         "rbics_industry": "Meat and Seafood Production",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kvxrrr960yx4.pdf",
@@ -7129,10 +7203,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7141,16 +7212,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "No material Scope 1 sources identified. Citation(s): [15, 16]",
-          "value": 0
+          "value": 0,
+          "context": "No material Scope 1 sources identified. Citation(s): [15, 16]"
         },
         "scope_2": {
-          "context": "Citation(s): [15]",
-          "value": 1344
+          "value": 1344,
+          "context": "Citation(s): [15]"
         },
         "scope_3": {
-          "context": "Citation(s): [17]",
-          "value": 52992
+          "value": 52992,
+          "context": "Citation(s): [17]"
         }
       },
       "annotations": {
@@ -7172,10 +7243,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7202,10 +7270,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7247,7 +7312,8 @@
         "rbics_industry": "Asia/Pacific International Coal Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://links.sgx.com/1.0.0/corporate-announcements/53YFKQ4JYW5HMBRL/859152_New%20Hope%20Group%20Appendix%204E%20and%20Annual%20Report%202025.pdf",
@@ -7306,10 +7372,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7351,7 +7414,8 @@
         "rbics_industry": "Finance Industry Software",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://www.iress.com/media/documents/IRESS_Annual_Report_2024.pdf",
@@ -7392,16 +7456,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Reported as combined Scope 1 and 2 emissions (1,116 MT C02eq).",
-          "value": 1116
+          "value": 1116,
+          "context": "Reported as combined Scope 1 and 2 emissions (1,116 MT C02eq)."
         },
         "scope_2": {
-          "context": "Reported as combined Scope 1 and 2 emissions (1,116 MT C02eq).",
-          "value": 1116
+          "value": 1116,
+          "context": "Reported as combined Scope 1 and 2 emissions (1,116 MT C02eq)."
         },
         "scope_3": {
-          "context": "FY24 Scope 3 product emissions estimated and reported as 1,352,563.74 MT CO2 eq.",
-          "value": 1352564
+          "value": 1352564,
+          "context": "FY24 Scope 3 product emissions estimated and reported as 1,352,563.74 MT CO2 eq."
         }
       },
       "annotations": {
@@ -7424,10 +7488,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7469,7 +7530,8 @@
         "rbics_industry": "Industrial Fabrics Manufacturing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.galepacific.com/uploads/gale_corporate/documents/GAP_ASX_Announcement_-_240829_-_FY24_Annual_Report.pdf",
@@ -7509,8 +7571,8 @@
       },
       "emissions": {
         "scope_3": {
-          "context": "Citation(s): [37]",
-          "value": 7941
+          "value": 7941,
+          "context": "Citation(s): [37]"
         }
       },
       "annotations": {
@@ -7532,10 +7594,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7562,10 +7621,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7593,10 +7649,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7623,10 +7676,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7653,10 +7703,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7665,16 +7712,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Citation(s): [26, 27]",
-          "value": 1565
+          "value": 1565,
+          "context": "Citation(s): [26, 27]"
         },
         "scope_2": {
-          "context": "Citation(s): [26, 27]",
-          "value": 51946
+          "value": 51946,
+          "context": "Citation(s): [26, 27]"
         },
         "scope_3": {
-          "context": "Includes limited categories (Air travel: 3,291 tCO₂ + Road travel: 128 tCO₂). Citation(s): [28, 29]",
-          "value": 3419
+          "value": 3419,
+          "context": "Includes limited categories (Air travel: 3,291 tCO₂ + Road travel: 128 tCO₂). Citation(s): [28, 29]"
         }
       },
       "annotations": {
@@ -7697,10 +7744,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7709,16 +7753,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Calculated total: Transport Fuels (7.3) + Stationary Fuels (2.4) + Synthetic Greenhouse Gases (47.3). Citation(s): [10]",
-          "value": 57
+          "value": 57,
+          "context": "Calculated total: Transport Fuels (7.3) + Stationary Fuels (2.4) + Synthetic Greenhouse Gases (47.3). Citation(s): [10]"
         },
         "scope_2": {
-          "context": "Electricity. Citation(s): [11]",
-          "value": 577
+          "value": 577,
+          "context": "Electricity. Citation(s): [11]"
         },
         "scope_3": {
-          "context": "Calculated total of all other listed components (e.g., Purchased goods, Business Travel, Employee Commuting). Citation(s): [10, 11]",
-          "value": 4500
+          "value": 4500,
+          "context": "Calculated total of all other listed components (e.g., Purchased goods, Business Travel, Employee Commuting). Citation(s): [10, 11]"
         }
       },
       "annotations": {
@@ -7741,10 +7785,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7771,10 +7812,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7783,12 +7821,12 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Citation(s): [34]",
-          "value": 1233
+          "value": 1233,
+          "context": "Citation(s): [34]"
         },
         "scope_2": {
-          "context": "Citation(s): [34]",
-          "value": 5659
+          "value": 5659,
+          "context": "Citation(s): [34]"
         }
       },
       "annotations": {
@@ -7808,12 +7846,9 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7839,10 +7874,6 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null,
-      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -7873,10 +7904,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7885,16 +7913,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Citation(s): [1]",
-          "value": 83609
+          "value": 83609,
+          "context": "Citation(s): [1]"
         },
         "scope_2": {
-          "context": "Citation(s): [1]",
-          "value": 1542
+          "value": 1542,
+          "context": "Citation(s): [1]"
         },
         "scope_3": {
-          "context": "Total Scope 3, including customer emissions. Relevant Scope 3 emissions were 18,505 tCO2-e. Citation(s): [1, 2]",
-          "value": 1484405
+          "value": 1484405,
+          "context": "Total Scope 3, including customer emissions. Relevant Scope 3 emissions were 18,505 tCO2-e. Citation(s): [1, 2]"
         }
       },
       "annotations": {
@@ -7917,10 +7945,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -7960,7 +7985,8 @@
         "rbics_industry": "Asia/Pacific Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 3
       },
       "search_record": {
         "url": "https://www.rameliusresources.com.au/wp-content/uploads/bsk-pdf-manager/2025/10/2025-Sustainability-Report.pdf",
@@ -8020,10 +8046,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -8062,7 +8085,8 @@
         "rbics_industry": "Diversified Loan Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.creditcorpgroup.com.au/media/1919/asx-5-august-2025-ccp-annual-report-2025.pdf",
@@ -8120,10 +8144,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -8165,7 +8186,8 @@
         "rbics_industry": "Travel Agencies",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://webtravelgroup.sfo2.cdn.digitaloceanspaces.com/public/ASX-Announcements/WEB_ASX_05_28_25_FY25_Sustainability-Report-v2.pdf",
@@ -8205,16 +8227,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Scope 2 uses market-based methodology [19]. Total Scope 3 emissions for FY25 [20].",
-          "value": 74
+          "value": 74,
+          "context": "Scope 2 uses market-based methodology [19]. Total Scope 3 emissions for FY25 [20]."
         },
         "scope_2": {
-          "context": "Scope 2 uses market-based methodology [19]. Total Scope 3 emissions for FY25 [20].",
-          "value": 418
+          "value": 418,
+          "context": "Scope 2 uses market-based methodology [19]. Total Scope 3 emissions for FY25 [20]."
         },
         "scope_3": {
-          "context": "Scope 2 uses market-based methodology [19]. Total Scope 3 emissions for FY25 [20].",
-          "value": 46046
+          "value": 46046,
+          "context": "Scope 2 uses market-based methodology [19]. Total Scope 3 emissions for FY25 [20]."
         }
       },
       "annotations": {
@@ -8238,10 +8260,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -8250,16 +8269,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Estimated as 1% of the 1.55 MTCO2eq total footprint. Citation(s): [12]",
-          "value": 15500
+          "value": 15500,
+          "context": "Estimated as 1% of the 1.55 MTCO2eq total footprint. Citation(s): [12]"
         },
         "scope_2": {
-          "context": "Estimated as 2% of the 1.55 MTCO2eq total footprint. Citation(s): [12]",
-          "value": 31000
+          "value": 31000,
+          "context": "Estimated as 2% of the 1.55 MTCO2eq total footprint. Citation(s): [12]"
         },
         "scope_3": {
-          "context": "Estimated as 97% of the 1.55 MTCO2eq total footprint. Citation(s): [12]",
-          "value": 1503500
+          "value": 1503500,
+          "context": "Estimated as 97% of the 1.55 MTCO2eq total footprint. Citation(s): [12]"
         }
       },
       "annotations": {
@@ -8282,10 +8301,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -8323,7 +8339,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 42
       },
       "search_record": {
         "url": "https://sustainability.gpt.com.au/wp-content/uploads/2025/02/GPT0046-GPT-CNDS25_PFO_Web.pdf",
@@ -8394,7 +8411,8 @@
         "rbics_industry": "Non-Ferrous Metal Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 50
       },
       "search_record": {
         "url": "https://www.igo.com.au/site/pdf/f40bdb2b-fd4c-4d87-8ffb-ec235132f8ad/2025-Sustainability-Report.pdf",
@@ -8467,7 +8485,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n3yv7p9pp64z.pdf",
@@ -8541,7 +8560,8 @@
         "rbics_industry": "General Line Grocery Retail",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.metcash.com/wp-content/uploads/2023/08/20838_Metcash_SR23_FINAL-compressed.pdf",
@@ -8615,7 +8635,8 @@
         "rbics_industry": "Other Consulting and Business Process Outsourcing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250811/pdf/06mqlxn7h4nzg9.pdf",
@@ -8688,7 +8709,8 @@
         "rbics_industry": "Non-Ferrous Metal Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://www.mmg.com/wp-content/uploads/2025/05/MMG-Sust-Report-2024.pdf",
@@ -8748,10 +8770,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -8778,10 +8797,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -8821,7 +8837,8 @@
         "rbics_industry": "Information and News Content Providers and Sites",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://cargroup.com/wp-content/uploads/2025/08/CAR-Group-FY25-Sustainability-Report.pdf",
@@ -8881,10 +8898,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -8893,12 +8907,12 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Citation(s): [20]",
-          "value": 48730
+          "value": 48730,
+          "context": "Citation(s): [20]"
         },
         "scope_2": {
-          "context": "Citation(s): [20]",
-          "value": 919
+          "value": 919,
+          "context": "Citation(s): [20]"
         }
       },
       "annotations": {
@@ -8920,10 +8934,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -8932,8 +8943,8 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Combined Scope 1 and 2 total Citation(s): [45]",
-          "value": 8613
+          "value": 8613,
+          "context": "Combined Scope 1 and 2 total Citation(s): [45]"
         }
       },
       "annotations": {
@@ -8953,12 +8964,9 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -8986,10 +8994,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -9017,10 +9022,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -9029,12 +9031,12 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Calculated total across locations: Cambodia (2,716) + Okvau Gold Mine (40,733) + Exploration (1,659). Citation(s): [13]",
-          "value": 45108
+          "value": 45108,
+          "context": "Calculated total across locations: Cambodia (2,716) + Okvau Gold Mine (40,733) + Exploration (1,659). Citation(s): [13]"
         },
         "scope_2": {
-          "context": "Calculated total across locations: Corporate Office Cambodia (14) + Okvau Gold Mine (33,235) + Corporate Office Australia (11). Citation(s): [13]",
-          "value": 33260
+          "value": 33260,
+          "context": "Calculated total across locations: Corporate Office Cambodia (14) + Okvau Gold Mine (33,235) + Corporate Office Australia (11). Citation(s): [13]"
         }
       },
       "annotations": {
@@ -9057,10 +9059,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -9088,10 +9087,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -9133,7 +9129,8 @@
         "rbics_industry": "Other Educational Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/iel/f199b1a9-7158-11ef-8801-6aa5c5382db2.pdf",
@@ -9206,7 +9203,8 @@
         "rbics_industry": "Logistics and Supply Chain Service Providers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.brambles.com/Content/cms/FY25-Results/pdf/Sustainability/Brambles-2025-Sustainability-Review.pdf",
@@ -9266,10 +9264,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -9311,7 +9306,8 @@
         "rbics_industry": "International Electric Utilities",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 26
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/agl/b32fce37-77cb-11f0-afd1-aef0b727035d.pdf",
@@ -9370,10 +9366,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -9401,10 +9394,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -9432,10 +9422,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -9461,10 +9448,6 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null,
-      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -9476,12 +9459,12 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Citation(s): [23]",
-          "value": 14301
+          "value": 14301,
+          "context": "Citation(s): [23]"
         },
         "scope_2": {
-          "context": "Citation(s): [23]",
-          "value": 3528
+          "value": 3528,
+          "context": "Citation(s): [23]"
         }
       },
       "annotations": {
@@ -9504,10 +9487,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -9548,7 +9528,8 @@
         "rbics_industry": "Radio and Television Broadcasting",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 2
       },
       "search_record": {
         "url": "https://www.nineforbrands.com.au/wp-content/uploads/2025/09/Annual-Report-for-lodgement.pdf",
@@ -9620,7 +9601,8 @@
         "rbics_industry": "Supplemental Health Insurance",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 36
       },
       "search_record": {
         "url": "https://www.medibank.com.au/content/dam/retail/about-assets/pdfs/investor-centre/annual-reports/Medibank_SustainabilitySummary2025.pdf",
@@ -9691,7 +9673,8 @@
         "rbics_industry": "Water Transportation",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 5
       },
       "search_record": {
         "url": "https://qube.com.au/wp-content/uploads/2025/08/Qube-Sustainability-Report-2024-2025.pdf",
@@ -9750,10 +9733,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -9762,16 +9742,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Scope 1 is 0 [17]. Scope 2 (market-based) is 0 due to LGC purchases [17, 18]. Scope 3 uses market-based methodology [17].",
-          "value": 0
+          "value": 0,
+          "context": "Scope 1 is 0 [17]. Scope 2 (market-based) is 0 due to LGC purchases [17, 18]. Scope 3 uses market-based methodology [17]."
         },
         "scope_2": {
-          "context": "Scope 1 is 0 [17]. Scope 2 (market-based) is 0 due to LGC purchases [17, 18]. Scope 3 uses market-based methodology [17].",
-          "value": 0
+          "value": 0,
+          "context": "Scope 1 is 0 [17]. Scope 2 (market-based) is 0 due to LGC purchases [17, 18]. Scope 3 uses market-based methodology [17]."
         },
         "scope_3": {
-          "context": "Scope 1 is 0 [17]. Scope 2 (market-based) is 0 due to LGC purchases [17, 18]. Scope 3 uses market-based methodology [17].",
-          "value": 1194
+          "value": 1194,
+          "context": "Scope 1 is 0 [17]. Scope 2 (market-based) is 0 due to LGC purchases [17, 18]. Scope 3 uses market-based methodology [17]."
         }
       },
       "annotations": {
@@ -9791,10 +9771,6 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null,
-      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -9838,7 +9814,8 @@
         "rbics_industry": "Real Estate Developers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 7
       },
       "search_record": {
         "url": "https://assets.lifestylecommunities.com.au/prod-v2/LIC-Annual-Report-to-Shareholders-2024.pdf",
@@ -9895,12 +9872,9 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -9940,7 +9914,8 @@
         "rbics_industry": "Australia and New Zealand Banks",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 23
       },
       "search_record": {
         "url": "https://eng.bnkfg.com/share_file/%28BNK%20Financial%20Group%29%20PRB-Reporting-and-Self-Assessment-Template.pdf",
@@ -9999,10 +9974,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10030,10 +10002,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10062,10 +10031,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10093,10 +10059,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10138,7 +10101,8 @@
         "rbics_industry": "Finance Industry Software",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 4
       },
       "search_record": {
         "url": "https://www.hub24.com.au/wp-content/uploads/2025/08/HUB24-FY25-Sustainability-Report.pdf",
@@ -10197,10 +10161,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10228,10 +10189,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10258,10 +10216,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10302,7 +10257,8 @@
         "rbics_industry": "Other Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.westafricanresources.com/wp-content/uploads/2025/04/WAF-2024-Sustainability-Report.pdf",
@@ -10363,10 +10319,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10407,7 +10360,8 @@
         "rbics_industry": "Other Agricultural Support Activity Providers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "South Australia (SA)"
+        "company_state": "South Australia (SA)",
+        "net_zero_claims": 7
       },
       "search_record": {
         "url": "https://elders.com.au/content/dam/eld/documents/sustainability/Elders_Sustainability-Report.pdf",
@@ -10467,10 +10421,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10496,10 +10447,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10526,10 +10474,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10563,7 +10508,8 @@
         "rbics_industry": "Asia/Pacific International Coal Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://www.stanmore.au/wp-content/uploads/2025/04/Stanmore-Sustainability-Report-2024.pdf",
@@ -10619,12 +10565,9 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10665,7 +10608,8 @@
         "rbics_industry": "Chemical and Allied Products Distributors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n429wdx4t454.pdf",
@@ -10724,10 +10668,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10755,10 +10696,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10786,10 +10724,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10798,16 +10733,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Scope 2 uses market-based methodology [1]. Scope 3 represents customer emissions only [1].",
-          "value": 6013
+          "value": 6013,
+          "context": "Scope 2 uses market-based methodology [1]. Scope 3 represents customer emissions only [1]."
         },
         "scope_2": {
-          "context": "Scope 2 uses market-based methodology [1]. Scope 3 represents customer emissions only [1].",
-          "value": 39
+          "value": 39,
+          "context": "Scope 2 uses market-based methodology [1]. Scope 3 represents customer emissions only [1]."
         },
         "scope_3": {
-          "context": "Scope 2 uses market-based methodology [1]. Scope 3 represents customer emissions only [1].",
-          "value": 2353964
+          "value": 2353964,
+          "context": "Scope 2 uses market-based methodology [1]. Scope 3 represents customer emissions only [1]."
         }
       },
       "annotations": {
@@ -10829,10 +10764,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10867,7 +10799,8 @@
         "rbics_industry": "Industrial Machinery and Supplies Distributors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 3
       },
       "search_record": {
         "url": "https://sghl.com.au/assets/Uploads/ASX-SGH-2025-Annual-Report-Final-12-August-2025.pdf",
@@ -10908,16 +10841,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Scope 1 (Natural gas) [2, 3]. Scope 2 uses Market-Based methodology [2, 3].",
-          "value": 309
+          "value": 309,
+          "context": "Scope 1 (Natural gas) [2, 3]. Scope 2 uses Market-Based methodology [2, 3]."
         },
         "scope_2": {
-          "context": "Scope 1 (Natural gas) [2, 3]. Scope 2 uses Market-Based methodology [2, 3].",
-          "value": 1631
+          "value": 1631,
+          "context": "Scope 1 (Natural gas) [2, 3]. Scope 2 uses Market-Based methodology [2, 3]."
         },
         "scope_3": {
-          "context": "Scope 1 (Natural gas) [2, 3]. Scope 2 uses Market-Based methodology [2, 3].",
-          "value": 12496
+          "value": 12496,
+          "context": "Scope 1 (Natural gas) [2, 3]. Scope 2 uses Market-Based methodology [2, 3]."
         }
       },
       "annotations": {
@@ -10938,12 +10871,9 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -10952,16 +10882,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Scope 1 emissions reported in FY2023 [6]. Scope 2 uses Market-based methodology [7]. Scope 3 emissions reported in FY2023 [7].",
-          "value": 591216
+          "value": 591216,
+          "context": "Scope 1 emissions reported in FY2023 [6]. Scope 2 uses Market-based methodology [7]. Scope 3 emissions reported in FY2023 [7]."
         },
         "scope_2": {
-          "context": "Scope 1 emissions reported in FY2023 [6]. Scope 2 uses Market-based methodology [7]. Scope 3 emissions reported in FY2023 [7].",
-          "value": 304703
+          "value": 304703,
+          "context": "Scope 1 emissions reported in FY2023 [6]. Scope 2 uses Market-based methodology [7]. Scope 3 emissions reported in FY2023 [7]."
         },
         "scope_3": {
-          "context": "Scope 1 emissions reported in FY2023 [6]. Scope 2 uses Market-based methodology [7]. Scope 3 emissions reported in FY2023 [7].",
-          "value": 304710
+          "value": 304710,
+          "context": "Scope 1 emissions reported in FY2023 [6]. Scope 2 uses Market-based methodology [7]. Scope 3 emissions reported in FY2023 [7]."
         }
       },
       "annotations": {
@@ -10984,10 +10914,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11028,7 +10955,8 @@
         "rbics_industry": "Australia/New Zealand Mixed Telecom Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://wcsecure.weblink.com.au/pdf/ABB/02982687.pdf",
@@ -11085,10 +11013,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11114,12 +11039,9 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11160,7 +11082,8 @@
         "rbics_industry": "Alcoholic Beverage Production",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 12
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/twe/4e41b6d3-9fe6-11f0-8b0c-caccf1a362f5.pdf",
@@ -11227,7 +11150,8 @@
         "rbics_industry": "Asia/Pacific International Coal Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 5
       },
       "search_record": {
         "url": "https://www.yancoal.com.au/wp-content/uploads/2025/02/2024-Full-Year-Financial-Report.pdf",
@@ -11283,12 +11207,9 @@
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11330,7 +11251,8 @@
         "rbics_industry": "Travel Agencies",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 4
       },
       "search_record": {
         "url": "https://investor.travelctm.com.au/wp-content/uploads/2024/08/Sustainability-Report-FY24.pdf",
@@ -11389,10 +11311,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11415,14 +11334,22 @@
         "rbics_industry": "Home Decor and Furnishings Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 1
+      },
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/ADH-AU_ANNUAL-2023.pdf",
+        "title": "ADH-AU_ANNUAL-2023.pdf",
+        "filename": "ADH-AU_ANNUAL-2023.pdf",
+        "year": "2023",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/ADH-AU_ANNUAL-2023.pdf"
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11431,16 +11358,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Scope 1 emissions are zero [21, 22]. Scope 2 reflects reduction due to transition to 100% GreenPower in Sydney office [21, 23]. Scope 3 emissions for CY23 [21].",
-          "value": 0
+          "value": 0,
+          "context": "Scope 1 emissions are zero [21, 22]. Scope 2 reflects reduction due to transition to 100% GreenPower in Sydney office [21, 23]. Scope 3 emissions for CY23 [21]."
         },
         "scope_2": {
-          "context": "Scope 1 emissions are zero [21, 22]. Scope 2 reflects reduction due to transition to 100% GreenPower in Sydney office [21, 23]. Scope 3 emissions for CY23 [21].",
-          "value": 119
+          "value": 119,
+          "context": "Scope 1 emissions are zero [21, 22]. Scope 2 reflects reduction due to transition to 100% GreenPower in Sydney office [21, 23]. Scope 3 emissions for CY23 [21]."
         },
         "scope_3": {
-          "context": "Scope 1 emissions are zero [21, 22]. Scope 2 reflects reduction due to transition to 100% GreenPower in Sydney office [21, 23]. Scope 3 emissions for CY23 [21].",
-          "value": 4763
+          "value": 4763,
+          "context": "Scope 1 emissions are zero [21, 22]. Scope 2 reflects reduction due to transition to 100% GreenPower in Sydney office [21, 23]. Scope 3 emissions for CY23 [21]."
         }
       },
       "annotations": {
@@ -11463,10 +11390,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11475,16 +11399,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Scope 1 emissions are zero [15]. Scope 2 uses market-based methodology where available [15, 16]. Scope 3 emissions reported for 2025 [15].",
-          "value": 0
+          "value": 0,
+          "context": "Scope 1 emissions are zero [15]. Scope 2 uses market-based methodology where available [15, 16]. Scope 3 emissions reported for 2025 [15]."
         },
         "scope_2": {
-          "context": "Scope 1 emissions are zero [15]. Scope 2 uses market-based methodology where available [15, 16]. Scope 3 emissions reported for 2025 [15].",
-          "value": 57
+          "value": 57,
+          "context": "Scope 1 emissions are zero [15]. Scope 2 uses market-based methodology where available [15, 16]. Scope 3 emissions reported for 2025 [15]."
         },
         "scope_3": {
-          "context": "Scope 1 emissions are zero [15]. Scope 2 uses market-based methodology where available [15, 16]. Scope 3 emissions reported for 2025 [15].",
-          "value": 7074
+          "value": 7074,
+          "context": "Scope 1 emissions are zero [15]. Scope 2 uses market-based methodology where available [15, 16]. Scope 3 emissions reported for 2025 [15]."
         }
       },
       "annotations": {
@@ -11507,10 +11431,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11538,10 +11459,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11579,7 +11497,8 @@
         "rbics_industry": "Bus Transportation",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "South Australia (SA)"
+        "company_state": "South Australia (SA)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://cdn.kelsian.com/volumes/uploads/Audio/07_Sustainability-Report-2024-25_29.09.25.pdf",
@@ -11651,7 +11570,8 @@
         "rbics_industry": "Other Mortgage Banking Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://www.afgonline.com.au/wp-content/uploads/2024/09/FY24-Sustainability-report.pdf",
@@ -11720,7 +11640,8 @@
         "rbics_industry": "Non-Ferrous Metal Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.aerisresources.com.au/wp-content/uploads/2024/10/Aeris_AR_2024_WEB.pdf",
@@ -11780,10 +11701,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11810,10 +11728,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11847,7 +11762,8 @@
         "rbics_industry": "Television Cable and Broadcast Networks",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.sevenwestmedia.com.au/assets/Uploads/Seven-West-Media-Sustainability-Report-2024.pdf",
@@ -11906,10 +11822,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11935,12 +11848,9 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11967,10 +11877,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -11998,10 +11905,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -12028,10 +11932,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -12040,16 +11941,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Emissions for FY23 [28]. Scope 1 is zero [28].",
-          "value": 0
+          "value": 0,
+          "context": "Emissions for FY23 [28]. Scope 1 is zero [28]."
         },
         "scope_2": {
-          "context": "Emissions for FY23 [28]. Scope 1 is zero [28].",
-          "value": 439
+          "value": 439,
+          "context": "Emissions for FY23 [28]. Scope 1 is zero [28]."
         },
         "scope_3": {
-          "context": "Emissions for FY23 [28]. Scope 1 is zero [28].",
-          "value": 4488
+          "value": 4488,
+          "context": "Emissions for FY23 [28]. Scope 1 is zero [28]."
         }
       },
       "annotations": {
@@ -12070,10 +11971,6 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null,
-      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -12104,10 +12001,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -12146,7 +12040,8 @@
         "rbics_industry": "Non-Ferrous Metal Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 12
       },
       "search_record": {
         "url": "https://nickelindustries.com/carbon/assets/0007e9/000006/2908872.pdf",
@@ -12204,10 +12099,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -12234,10 +12126,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -12264,10 +12153,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -12276,16 +12162,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Organizational inventory. Scope 1 and 2 are zero due to purchasing GreenPower [4, 5]. Scope 3 reflects organizational scope 3 emissions (excluding Downstream Leased Assets) [5].",
-          "value": 0
+          "value": 0,
+          "context": "Organizational inventory. Scope 1 and 2 are zero due to purchasing GreenPower [4, 5]. Scope 3 reflects organizational scope 3 emissions (excluding Downstream Leased Assets) [5]."
         },
         "scope_2": {
-          "context": "Organizational inventory. Scope 1 and 2 are zero due to purchasing GreenPower [4, 5]. Scope 3 reflects organizational scope 3 emissions (excluding Downstream Leased Assets) [5].",
-          "value": 0
+          "value": 0,
+          "context": "Organizational inventory. Scope 1 and 2 are zero due to purchasing GreenPower [4, 5]. Scope 3 reflects organizational scope 3 emissions (excluding Downstream Leased Assets) [5]."
         },
         "scope_3": {
-          "context": "Organizational inventory. Scope 1 and 2 are zero due to purchasing GreenPower [4, 5]. Scope 3 reflects organizational scope 3 emissions (excluding Downstream Leased Assets) [5].",
-          "value": 206
+          "value": 206,
+          "context": "Organizational inventory. Scope 1 and 2 are zero due to purchasing GreenPower [4, 5]. Scope 3 reflects organizational scope 3 emissions (excluding Downstream Leased Assets) [5]."
         }
       },
       "annotations": {
@@ -12306,10 +12192,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -12347,7 +12230,8 @@
         "rbics_industry": "Insurance Brokerage",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://investor.steadfast.com.au/FormBuilder/_Resource/_module/7zaApZtBC0S8RkpPzBXBxw/file/Steadfast_Group_Annual_Report_2025.pdf",
@@ -12417,7 +12301,8 @@
         "rbics_industry": "Automotive Parts, Accessories and Tires Sales",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 2
       },
       "search_record": {
         "url": "https://www.bapcor.com.au/Reports/2025_Bapcor_ESG_Report.pdf",
@@ -12491,7 +12376,8 @@
         "rbics_industry": "Enterprise Resource Planning Software",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 8
       },
       "search_record": {
         "url": "https://www.wisetechglobal.com/media/xywbubic/wtc-2024-annual-report-final.pdf",
@@ -12548,10 +12434,6 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null,
-      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -12581,10 +12463,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -12611,10 +12490,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -12641,10 +12517,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -12683,7 +12556,8 @@
         "rbics_industry": "Glass Container Manufacturing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 3
       },
       "search_record": {
         "url": "https://www.ororagroup.com/investors/downloads/annual-reports/Orora_Annual_Report_2025.pdf",
@@ -12741,10 +12615,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -12786,7 +12657,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://nationalstorageinvest.com.au/wp-content/uploads/2025/08/NSR-2025-Annual-Report.pdf",
@@ -12843,12 +12715,9 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -12887,7 +12756,8 @@
         "rbics_industry": "Multi-Type Containers and Packaging Makers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://pactgroup.com/wp-content/uploads/2024/11/Pact-Sustainability-Report-2024_V30-spreads.pdf",
@@ -12946,10 +12816,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -12976,10 +12843,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13008,10 +12872,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13052,7 +12913,8 @@
         "rbics_industry": "Other Base Metal Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://www.championiron.com/wp-content/uploads/2025/06/ci2025-sustainabilityreport.pdf",
@@ -13112,10 +12974,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13143,10 +13002,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13188,7 +13044,8 @@
         "rbics_industry": "Administrative Employment Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 11
       },
       "search_record": {
         "url": "https://www.smartgroup.com.au/globalassets/smartgroup-corporate/foundation/smartgroup-sustainability-report-2024.pdf",
@@ -13247,10 +13104,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13289,7 +13143,8 @@
         "rbics_industry": "Other Long-Term Care Facilities",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.regis.com.au/site/wp-content/uploads/2025/08/Regis-Healthcare-Limited-FY25-Annual-Report.pdf",
@@ -13362,7 +13217,8 @@
         "rbics_industry": "Other Consulting and Business Process Outsourcing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://www.iphltd.com.au/wp-content/uploads/2025/08/2932588.pdf",
@@ -13420,10 +13276,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13448,12 +13301,9 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13480,10 +13330,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13510,10 +13357,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13522,16 +13366,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY25 GHG emissions based on baseline assessment [24-26].",
-          "value": 54
+          "value": 54,
+          "context": "FY25 GHG emissions based on baseline assessment [24-26]."
         },
         "scope_2": {
-          "context": "FY25 GHG emissions based on baseline assessment [24-26].",
-          "value": 6851
+          "value": 6851,
+          "context": "FY25 GHG emissions based on baseline assessment [24-26]."
         },
         "scope_3": {
-          "context": "FY25 GHG emissions based on baseline assessment [24-26].",
-          "value": 94411
+          "value": 94411,
+          "context": "FY25 GHG emissions based on baseline assessment [24-26]."
         }
       },
       "annotations": {
@@ -13553,10 +13397,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13565,16 +13406,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY25 gross emissions figures [27]. Scope 3 excludes product manufacturing, use of sold products, end-of-life treatment of sold products, and investments due to limitations [27].",
-          "value": 0
+          "value": 0,
+          "context": "FY25 gross emissions figures [27]. Scope 3 excludes product manufacturing, use of sold products, end-of-life treatment of sold products, and investments due to limitations [27]."
         },
         "scope_2": {
-          "context": "FY25 gross emissions figures [27]. Scope 3 excludes product manufacturing, use of sold products, end-of-life treatment of sold products, and investments due to limitations [27].",
-          "value": 19
+          "value": 19,
+          "context": "FY25 gross emissions figures [27]. Scope 3 excludes product manufacturing, use of sold products, end-of-life treatment of sold products, and investments due to limitations [27]."
         },
         "scope_3": {
-          "context": "FY25 gross emissions figures [27]. Scope 3 excludes product manufacturing, use of sold products, end-of-life treatment of sold products, and investments due to limitations [27].",
-          "value": 28309
+          "value": 28309,
+          "context": "FY25 gross emissions figures [27]. Scope 3 excludes product manufacturing, use of sold products, end-of-life treatment of sold products, and investments due to limitations [27]."
         }
       },
       "annotations": {
@@ -13596,10 +13437,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13608,16 +13446,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Emissions data for the 2024 calendar year [33, 34].",
-          "value": 2199
+          "value": 2199,
+          "context": "Emissions data for the 2024 calendar year [33, 34]."
         },
         "scope_2": {
-          "context": "Emissions data for the 2024 calendar year [33, 34].",
-          "value": 661
+          "value": 661,
+          "context": "Emissions data for the 2024 calendar year [33, 34]."
         },
         "scope_3": {
-          "context": "Emissions data for the 2024 calendar year [33, 34].",
-          "value": 268853
+          "value": 268853,
+          "context": "Emissions data for the 2024 calendar year [33, 34]."
         }
       },
       "annotations": {
@@ -13640,10 +13478,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13681,7 +13516,8 @@
         "rbics_industry": "General Furniture and Home Furnishings Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 2
       },
       "search_record": {
         "url": "https://assets.contentstack.io/v3/assets/blt497a29fffbfff85f/blt11fc3fd83cfb430c/689e63c1b1f9813dfc8963f7/BBN_-_2025_Sustainability_Report_-_15_August_2025.pdf",
@@ -13739,12 +13575,9 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13772,10 +13605,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13802,10 +13632,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13834,10 +13661,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13862,12 +13686,9 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13893,10 +13714,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13924,10 +13742,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -13936,16 +13751,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "FY23 Measured Emissions. Scope 1 is zero [29, 30]. Scope 2 emissions are market-based [31]. Scope 3 total includes only selected direct Scope 3 categories (3, 5, 6, 7, 8) [29, 30, 32].",
-          "value": 0
+          "value": 0,
+          "context": "FY23 Measured Emissions. Scope 1 is zero [29, 30]. Scope 2 emissions are market-based [31]. Scope 3 total includes only selected direct Scope 3 categories (3, 5, 6, 7, 8) [29, 30, 32]."
         },
         "scope_2": {
-          "context": "FY23 Measured Emissions. Scope 1 is zero [29, 30]. Scope 2 emissions are market-based [31]. Scope 3 total includes only selected direct Scope 3 categories (3, 5, 6, 7, 8) [29, 30, 32].",
-          "value": 3
+          "value": 3,
+          "context": "FY23 Measured Emissions. Scope 1 is zero [29, 30]. Scope 2 emissions are market-based [31]. Scope 3 total includes only selected direct Scope 3 categories (3, 5, 6, 7, 8) [29, 30, 32]."
         },
         "scope_3": {
-          "context": "FY23 Measured Emissions. Scope 1 is zero [29, 30]. Scope 2 emissions are market-based [31]. Scope 3 total includes only selected direct Scope 3 categories (3, 5, 6, 7, 8) [29, 30, 32].",
-          "value": 66
+          "value": 66,
+          "context": "FY23 Measured Emissions. Scope 1 is zero [29, 30]. Scope 2 emissions are market-based [31]. Scope 3 total includes only selected direct Scope 3 categories (3, 5, 6, 7, 8) [29, 30, 32]."
         }
       },
       "annotations": {
@@ -13967,10 +13782,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14008,7 +13820,8 @@
         "rbics_industry": "Jewelry Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 14
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/mhj/35c0d5c5-974b-11f0-8027-1e05b5c2f523.pdf",
@@ -14068,10 +13881,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14095,12 +13905,9 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14127,10 +13934,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14158,10 +13962,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14189,10 +13990,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14218,12 +14016,9 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14251,10 +14046,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14277,14 +14069,21 @@
         "rbics_industry": "Other Specialized Medical Devices",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 0
       },
-      "search_record": null,
+      "search_record": {
+        "url": "file:///home/user/code/scope-spider/downloads/TLX-AU_Appendix_4E_and_2023_Annual_Report.pdf",
+        "title": "TLX-AU_Appendix_4E_and_2023_Annual_Report.pdf",
+        "filename": "TLX-AU_Appendix_4E_and_2023_Annual_Report.pdf",
+        "doc_type": "other"
+      },
+      "download_record": {
+        "pdf_path": "/home/user/code/scope-spider/downloads/TLX-AU_Appendix_4E_and_2023_Annual_Report.pdf"
+      },
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14311,10 +14110,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14342,10 +14138,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14372,10 +14165,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14402,10 +14192,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14446,7 +14233,8 @@
         "rbics_industry": "Other Petroleum Products",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 23
       },
       "search_record": {
         "url": "https://www.vivaenergy.com.au/ArticleDocuments/1317/Viva%20Energy%20SR%202023.pdf",
@@ -14504,10 +14292,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14534,10 +14319,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14565,10 +14347,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14609,7 +14388,8 @@
         "rbics_industry": "Beverage and Specialty Foods Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 3
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/edv/3bfa9d39-813e-11f0-8bd2-22fe330236a6.pdf",
@@ -14670,10 +14450,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14682,8 +14459,8 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Total calculated from component entities (HMC: 882 + HDN: 20,409 + HCW: 2,317 + DGT: 37,548). Combined Scope 1 and 2 total. Total calculated from component entities (HMC: 882 + HDN: 20,409 + HCW: 2,317 + DGT: 37,548). Citation(s): [41-43]",
-          "value": 61156
+          "value": 61156,
+          "context": "Total calculated from component entities (HMC: 882 + HDN: 20,409 + HCW: 2,317 + DGT: 37,548). Combined Scope 1 and 2 total. Total calculated from component entities (HMC: 882 + HDN: 20,409 + HCW: 2,317 + DGT: 37,548). Citation(s): [41-43]"
         }
       },
       "annotations": {
@@ -14705,10 +14482,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14736,10 +14510,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14748,8 +14519,8 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Combined Scope 1 and 2 total Citation(s): [44]",
-          "value": 4
+          "value": 4,
+          "context": "Combined Scope 1 and 2 total Citation(s): [44]"
         }
       },
       "annotations": {
@@ -14769,10 +14540,6 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null,
-      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -14817,7 +14584,8 @@
         "rbics_industry": "Australia/New Zealand Mixed Telecom Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 2
       },
       "search_record": {
         "url": "https://dq06ugkuram52.cloudfront.net/files/19822325/49211390.pdf",
@@ -14876,10 +14644,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14904,12 +14669,9 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14937,10 +14699,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -14968,10 +14727,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15009,7 +14765,8 @@
         "rbics_industry": "Mining and Excavation Equipment Manufacturing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 2
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n3y5blvvxvh1.pdf",
@@ -15048,16 +14805,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Annual diesel consumption associated with DBI leased vehicles. Citation(s): [7]",
-          "value": 54
+          "value": 54,
+          "context": "Annual diesel consumption associated with DBI leased vehicles. Citation(s): [7]"
         },
         "scope_2": {
-          "context": "Annual electricity consumption from the Queensland grid associated with DBI’s corporate office. Citation(s): [7]",
-          "value": 20
+          "value": 20,
+          "context": "Annual electricity consumption from the Queensland grid associated with DBI’s corporate office. Citation(s): [7]"
         },
         "scope_3": {
-          "context": "Derived primarily from Scope 1 and Scope 2 emissions of the DBT Operator and other DBI contractors and suppliers. Citation(s): [8, 9]",
-          "value": 79139
+          "value": 79139,
+          "context": "Derived primarily from Scope 1 and Scope 2 emissions of the DBT Operator and other DBI contractors and suppliers. Citation(s): [8, 9]"
         }
       },
       "annotations": {
@@ -15077,12 +14834,9 @@
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15109,10 +14863,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15121,12 +14872,12 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Citation(s): [22]",
-          "value": 5877
+          "value": 5877,
+          "context": "Citation(s): [22]"
         },
         "scope_2": {
-          "context": "Citation(s): [22]",
-          "value": 8291
+          "value": 8291,
+          "context": "Citation(s): [22]"
         }
       },
       "annotations": {
@@ -15148,10 +14899,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15179,10 +14927,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15207,12 +14952,9 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15221,8 +14963,8 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Total scope 1 and 2 greenhouse gas emissions. Combined Scope 1 and 2 total. Total scope 1 and 2 greenhouse gas emissions. Citation(s): [38]",
-          "value": 144375
+          "value": 144375,
+          "context": "Total scope 1 and 2 greenhouse gas emissions. Combined Scope 1 and 2 total. Total scope 1 and 2 greenhouse gas emissions. Citation(s): [38]"
         }
       },
       "annotations": {
@@ -15244,10 +14986,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15274,10 +15013,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15318,7 +15054,8 @@
         "rbics_industry": "Other Real Estate Investment and Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "net_zero_claims": 7
       },
       "search_record": {
         "url": "https://www.pexa-group.com/staticly-media/2025/08/PXA_Appendix_4E_PEXA_Group_FY25_Annual_Report-sm-1756422205.pdf",
@@ -15378,10 +15115,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15423,7 +15157,8 @@
         "rbics_industry": "Cryptocurrency Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 1
       },
       "search_record": {
         "url": "https://www.gruppoiren.it/content/dam/iren/documents/en/investors/integrated-annual-report-2024/Integrated%20annual%20report%202024.pdf",
@@ -15497,7 +15232,8 @@
         "rbics_industry": "Gaming Industries",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "net_zero_claims": 12
       },
       "search_record": {
         "url": "https://www.thelotterycorporation.com/content/dam/projects/tlc/documents/TLC_Sustainability-Report-2025.pdf",
@@ -15557,10 +15293,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15599,7 +15332,8 @@
         "rbics_industry": "Limited-Service and Fast Food Restaurants",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "net_zero_claims": 0
       },
       "search_record": {
         "url": "https://www.guzmanygomez.com.au/wp-content/uploads/2025/08/Guzman-y-Gomez-2025-Annual-Report.pdf",
@@ -15640,16 +15374,16 @@
       },
       "emissions": {
         "scope_1": {
-          "context": "Citation(s): [19]",
-          "value": 39227
+          "value": 39227,
+          "context": "Citation(s): [19]"
         },
         "scope_2": {
-          "context": "Citation(s): [19]",
-          "value": 11991
+          "value": 11991,
+          "context": "Citation(s): [19]"
         },
         "scope_3": {
-          "context": "Includes selected emissions only (air, sea, and road transport). Citation(s): [19]",
-          "value": 23723
+          "value": 23723,
+          "context": "Includes selected emissions only (air, sea, and road transport). Citation(s): [19]"
         }
       },
       "annotations": {
@@ -15671,10 +15405,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15701,10 +15432,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15729,10 +15457,6 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null,
-      "analysis_record": null,
       "verification": {
         "status": "pending"
       }
@@ -15763,10 +15487,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15794,10 +15515,7 @@
       },
       "verification": {
         "status": "pending"
-      },
-      "search_record": null,
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15834,7 +15552,8 @@
         "rbics_industry": "Industrial Specialty Engineering Contractors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "net_zero_claims": 6
       },
       "search_record": {
         "url": "https://civmec.com.au/wp-content/uploads/2025/09/Civmec-Ltd-Annual-Report-2025_digital.pdf",
@@ -15891,12 +15610,9 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     },
     {
       "identity": {
@@ -15922,12 +15638,9 @@
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)"
       },
-      "search_record": null,
       "verification": {
         "status": "pending"
-      },
-      "download_record": null,
-      "extraction_record": null
+      }
     }
   ]
 }

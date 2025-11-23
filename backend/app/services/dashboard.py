@@ -50,6 +50,9 @@ def companies_to_dataframe(companies: Sequence[Company]) -> pd.DataFrame:
                 "ebitda_mm": float(ebitda) if ebitda is not None else None,
                 "assets_mm": float(assets) if assets is not None else None,
                 "employees": int(employees) if employees is not None else None,
+                "net_zero_mentions": int(annotations.net_zero_claims)
+                if annotations.net_zero_claims is not None
+                else None,
                 "reporting_group": reporting_group,
                 "company_country": country,
                 "company_region": region,
@@ -65,7 +68,13 @@ def companies_to_dataframe(companies: Sequence[Company]) -> pd.DataFrame:
 
     if not rows:
         return pd.DataFrame()
-    return pd.DataFrame(rows)
+    df = pd.DataFrame(rows)
+    s1 = pd.to_numeric(df["scope_1"], errors="coerce")
+    s2 = pd.to_numeric(df["scope_2"], errors="coerce")
+    combined = s1.fillna(0) + s2.fillna(0)
+    combined[(s1.isna()) & (s2.isna())] = pd.NA
+    df["scope_1_total"] = combined
+    return df
 
 
 @dataclass
@@ -105,9 +114,9 @@ def _apply_filters(df: pd.DataFrame, filters: DashboardFilters) -> pd.DataFrame:
 
     if filters.scope1_range:
         s_min, s_max = filters.scope1_range
+        scope_series = pd.to_numeric(filtered["scope_1_total"], errors="coerce")
         filtered = filtered[
-            pd.to_numeric(filtered["scope_1"], errors="coerce").between(s_min, s_max, inclusive="both")
-            | filtered["scope_1"].isna()
+            scope_series.between(s_min, s_max, inclusive="both") | scope_series.isna()
         ]
     if filters.net_income_range:
         n_min, n_max = filters.net_income_range
@@ -210,7 +219,7 @@ def build_dashboard_metrics(
             else [],
         },
         "ranges": {
-            "scope1": _column_range(df, "scope_1"),
+            "scope1": _column_range(df, "scope_1_total"),
             "net_income": _column_range(df, "net_income_mm"),
             "revenue": _column_range(df, "revenue_mm"),
         },
@@ -233,7 +242,6 @@ def build_dashboard_metrics(
         response.update(
             {
                 "scatter": {},
-                "top_revenue": [],
                 "scope_averages": [],
                 "group_matrix": {"rows": [], "columns": [], "cells": []},
                 "table": [],
@@ -250,7 +258,6 @@ def build_dashboard_metrics(
         response.update(
             {
                 "scatter": {},
-                "top_revenue": [],
                 "scope_averages": [],
                 "group_matrix": {"rows": [], "columns": [], "cells": []},
                 "table": [],
@@ -260,7 +267,7 @@ def build_dashboard_metrics(
 
     # Prepare scatter datasets
     def scatter(metric_column: str, metric_label: str) -> List[Dict[str, Any]]:
-        columns = ["scope_1", "anzsic_division", "name"]
+        columns = ["scope_1", "scope_2", "anzsic_division", "name"]
         if metric_column not in columns:
             columns.append(metric_column)
         if "revenue_mm" not in columns:
@@ -269,8 +276,14 @@ def build_dashboard_metrics(
         if missing:
             return []
         frame = filtered[columns].copy()
-        frame = frame.dropna(subset=["scope_1", metric_column])
         frame["scope_1"] = pd.to_numeric(frame["scope_1"], errors="coerce")
+        frame["scope_2"] = pd.to_numeric(frame["scope_2"], errors="coerce")
+        combined = frame["scope_1"].fillna(0) + frame["scope_2"].fillna(0)
+        valid_scope = frame["scope_1"].notna() | frame["scope_2"].notna()
+        frame = frame[valid_scope].copy()
+        frame["scope_1"] = combined[valid_scope]
+        frame = frame.drop(columns=["scope_2"])
+        frame = frame.dropna(subset=["scope_1", metric_column])
         frame[metric_column] = pd.to_numeric(frame[metric_column], errors="coerce")
         if "revenue_mm" in frame.columns:
             frame["revenue_mm"] = pd.to_numeric(frame["revenue_mm"], errors="coerce")
@@ -296,10 +309,9 @@ def build_dashboard_metrics(
         "scope1_vs_revenue": scatter("revenue_mm", "revenue"),
         "scope1_vs_ebitda": scatter("ebitda_mm", "ebitda"),
         "scope1_vs_assets": scatter("assets_mm", "assets"),
+        "scope1_vs_employees": scatter("employees", "employees"),
+        "scope1_vs_net_zero_mentions": scatter("net_zero_mentions", "net_zero_mentions"),
     }
-
-    top_revenue = filtered.sort_values(by="revenue_mm", ascending=False).head(10)
-    top_revenue = top_revenue.replace({pd.NA: None}).where(pd.notnull(top_revenue), None)
 
     averages = (
         filtered.groupby("anzsic_division")[["scope_1", "scope_2"]].mean(numeric_only=True).reset_index()
@@ -384,6 +396,7 @@ def build_dashboard_metrics(
         "ebitda_mm",
         "assets_mm",
         "employees",
+        "net_zero_mentions",
         "reporting_group",
         "company_state",
         "company_region",
@@ -401,7 +414,6 @@ def build_dashboard_metrics(
     response.update(
         {
             "scatter": scatter_payload,
-            "top_revenue": _records(top_revenue, ["name", "revenue_mm", "anzsic_division"]),
             "scope_averages": _records(averages, ["industry", "scope_1_avg", "scope_2_avg"]),
             "group_matrix": group_matrix,
             "table": table_df.to_dict(orient="records"),

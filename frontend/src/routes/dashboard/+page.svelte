@@ -20,6 +20,8 @@
 		revenue?: number | null;
 		ebitda?: number | null;
 		assets?: number | null;
+		employees?: number | null;
+		net_zero_mentions?: number | null;
 		industry?: string | null;
 		company?: string | null;
 		revenue_mm?: number | null;
@@ -52,7 +54,6 @@
 			stages: StageSummary;
 			filtered_stages: StageSummary;
 		};
-		top_revenue?: Array<{ name?: string | null; revenue_mm?: number | null; anzsic_division?: string | null }>;
 		scope_averages?: Array<{ industry?: string | null; scope_1_avg?: number | null; scope_2_avg?: number | null }>;
 		table?: Array<Record<string, unknown>>;
 		scatter?: {
@@ -60,6 +61,8 @@
 			scope1_vs_revenue?: ScatterPoint[];
 			scope1_vs_ebitda?: ScatterPoint[];
 			scope1_vs_assets?: ScatterPoint[];
+			scope1_vs_employees?: ScatterPoint[];
+			scope1_vs_net_zero_mentions?: ScatterPoint[];
 		};
 		group_matrix?: {
 			rows: GroupMatrixRow[];
@@ -96,31 +99,45 @@
 	const chartTabs: ScatterConfig[] = [
 		{
 			id: 'net_income',
-			label: 'Scope 1 vs Net Income',
+			label: 'Scope 1 + 2 vs Net Income',
 			key: 'scope1_vs_net_income',
 			valueKey: 'net_income',
 			axisLabel: 'Net Income (MM AUD)'
 		},
 		{
 			id: 'revenue',
-			label: 'Scope 1 vs Revenue',
+			label: 'Scope 1 + 2 vs Revenue',
 			key: 'scope1_vs_revenue',
 			valueKey: 'revenue',
 			axisLabel: 'Revenue (MM AUD)'
 		},
 		{
 			id: 'ebitda',
-			label: 'Scope 1 vs EBITDA',
+			label: 'Scope 1 + 2 vs EBITDA',
 			key: 'scope1_vs_ebitda',
 			valueKey: 'ebitda',
 			axisLabel: 'EBITDA (MM AUD)'
 		},
 		{
 			id: 'assets',
-			label: 'Scope 1 vs Total Assets',
+			label: 'Scope 1 + 2 vs Total Assets',
 			key: 'scope1_vs_assets',
 			valueKey: 'assets',
 			axisLabel: 'Total Assets (MM AUD)'
+		},
+		{
+			id: 'employees',
+			label: 'Scope 1 + 2 vs Employees',
+			key: 'scope1_vs_employees',
+			valueKey: 'employees',
+			axisLabel: 'Employees (count)'
+		},
+		{
+			id: 'net_zero_mentions',
+			label: 'Scope 1 + 2 vs Net Zero Mentions',
+			key: 'scope1_vs_net_zero_mentions',
+			valueKey: 'net_zero_mentions',
+			axisLabel: 'Net zero mentions (count)'
 		}
 	];
 
@@ -165,9 +182,10 @@
 			x: points.map((p) => Number(p.scope_1 ?? 0)),
 			y: points.map((p) => Number(p[yKey] ?? 0)),
 			text: points.map(
-				(p) => `${p.company ?? 'Unknown'}<br>Scope 1: ${formatNumber(p.scope_1 ?? null)}<br>${yLabel}: ${
-					formatNumber((p as any)[yKey] ?? null)
-				}`
+				(p) =>
+					`${p.company ?? 'Unknown'}<br>Scope 1 + 2: ${formatNumber(p.scope_1 ?? null)}<br>${yLabel}: ${formatNumber(
+						(p as any)[yKey] ?? null
+					)}`
 			),
 			marker: {
 				size: 9,
@@ -182,7 +200,7 @@
 			title,
 			margin: { t: 50, r: 30, b: 60, l: 70 },
 			xaxis: {
-				title: 'Scope 1 (kgCO₂e)',
+				title: 'Scope 1 + 2 (kgCO₂e)',
 				hoverformat: ',.0f',
 				type: logScale ? 'log' : 'linear'
 			},
@@ -211,30 +229,6 @@
 	);
 
 	$: activeChartConfig = scatterConfigs[activeChart] ?? { data: [], layout: scatterLayout('', '', useLogScale) };
-
-	$: revenueBarData = [
-		{
-			type: 'bar',
-			x: (metrics.top_revenue ?? []).map((item) => item.name ?? 'Unknown'),
-			y: (metrics.top_revenue ?? []).map((item) => Number(item.revenue_mm ?? 0)),
-			text: (metrics.top_revenue ?? []).map(
-				(item) => `${item.name ?? 'Unknown'}<br>${formatNumber(item.revenue_mm ?? null)} MM AUD`
-			),
-			hovertemplate: '%{text}<extra></extra>',
-			marker: { color: '#1d4ed8' }
-		}
-	];
-
-	$: revenueBarLayout = {
-		title: 'Top 10 Companies by Revenue',
-		margin: { t: 50, r: 30, b: 80, l: 70 },
-		xaxis: { automargin: true },
-		yaxis: {
-			title: 'Revenue (MM AUD)',
-			hoverformat: ',.0f',
-			type: useLogScale ? 'log' : 'linear'
-		}
-	};
 
 	$: groupMatrixRows = metrics.group_matrix?.rows ?? [];
 	$: groupMatrixColumns = metrics.group_matrix?.columns ?? [];
@@ -365,7 +359,7 @@
 
 			<div class="grid gap-4 md:grid-cols-2">
 				<label class="space-y-2 text-sm text-slate-600">
-					<span class="font-semibold text-slate-700">Scope 1 range (kgCO₂e)</span>
+					<span class="font-semibold text-slate-700">Scope 1 + 2 range (kgCO₂e)</span>
 					<div class="flex gap-3">
 						<input class="input" type="number" placeholder="Min" bind:value={scope1MinInput} on:change={refreshMetrics} />
 						<input class="input" type="number" placeholder="Max" bind:value={scope1MaxInput} on:change={refreshMetrics} />
@@ -482,17 +476,6 @@
 				</table>
 			</div>
 		</div>
-	</section>
-
-	<section class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
-		<h3 class="text-lg font-semibold text-slate-900">Top revenue (MM AUD)</h3>
-		{#if revenueBarData[0]?.x?.length}
-			{#key JSON.stringify(revenueBarData)}
-				<PlotlyChart data={revenueBarData} layout={revenueBarLayout} config={plotConfig} />
-			{/key}
-		{:else}
-			<p class="text-sm text-slate-500">No revenue data available for this selection.</p>
-		{/if}
 	</section>
 
 	<section class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
