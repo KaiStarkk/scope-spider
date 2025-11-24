@@ -40,7 +40,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 8
+        "net_zero_claims": 8,
+        "profitability_ratio": 0.255488,
+        "reputational_concern_ratio": 0.000377,
+        "profitability_emissions_ratio": 2.17307136e-08
       },
       "search_record": {
         "url": "https://www.woodside.com/docs/default-source/investor-documents/major-reports-(static-pdfs)/2024-annual-report/climate-update-2024.pdf",
@@ -115,7 +118,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 98
+        "net_zero_claims": 98,
+        "profitability_ratio": 0.175939,
+        "reputational_concern_ratio": 0.001238,
+        "profitability_emissions_ratio": 2.02228736e-08
       },
       "search_record": {
         "url": "https://www.bhp.com/-/media/documents/investors/annual-reports/2025/250819_bhpannualreport2025.pdf",
@@ -184,7 +190,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 23
+        "net_zero_claims": 23,
+        "profitability_ratio": -0.202147,
+        "reputational_concern_ratio": 0.005143,
+        "profitability_emissions_ratio": -2.291835548e-07
       },
       "search_record": {
         "url": "https://cdn.sanity.io/files/o6ep64o3/production/0f550073bb6a15cad3d31f948198b3cbd92b9028.pdf",
@@ -321,7 +330,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 8
+        "net_zero_claims": 8,
+        "profitability_ratio": 0.111283,
+        "reputational_concern_ratio": 0.001372,
+        "profitability_emissions_ratio": 4.99250785e-08
       },
       "search_record": {
         "url": "https://whitehavencoal.com.au/wp-content/uploads/2025/09/WHC_SR2025_FINAL2_WEB.pdf",
@@ -395,7 +407,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 24
+        "net_zero_claims": 24,
+        "profitability_ratio": 0.0642,
+        "reputational_concern_ratio": 0.000527,
+        "profitability_emissions_ratio": 6.25365283e-08
       },
       "search_record": {
         "url": "https://www.wesfarmershealth.com.au/wp-content/uploads/2025/09/Wesfarmers-Annual-Report-TCFD-climate-disclosures-2025.pdf",
@@ -465,7 +480,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 30
+        "net_zero_claims": 30,
+        "profitability_ratio": 0.068563,
+        "reputational_concern_ratio": 0.001282,
+        "profitability_emissions_ratio": 5.6210556e-09
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/QAN-AU_2025_Sustainability_Report.pdf",
@@ -518,7 +536,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.027575,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 3.458634357e-07
       },
       "search_record": {
         "url": "https://mirvac-cdn-web.azureedge.net/-/media/project/mirvac/corporate/main-site/corporate-theme/images/sustainability/pdfs/2025/mirvac_climate-resilience-update-fy25_final.pdf",
@@ -587,7 +608,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.197642,
+        "reputational_concern_ratio": 0.000854,
+        "profitability_emissions_ratio": 4.268725702e-07
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/ILU-AU_2025_iluka-sustainability-data-book.pdf",
@@ -638,7 +662,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 20
+        "net_zero_claims": 20,
+        "profitability_ratio": 0.001349,
+        "reputational_concern_ratio": 0.001124,
+        "profitability_emissions_ratio": 6.1898906e-09
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/RHC-AU_Ramsay%202025%20sustainability%20report.pdf",
@@ -687,7 +714,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 22
+        "net_zero_claims": 22,
+        "profitability_ratio": 0.038883,
+        "reputational_concern_ratio": 0.010218,
+        "profitability_emissions_ratio": 5.1124118e-09
       },
       "search_record": {
         "url": "https://www.monadelphous.com.au/media/5878381/251020-2025-annual-report.pdf",
@@ -756,7 +786,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 14
+        "net_zero_claims": 14,
+        "profitability_ratio": 0.004554,
+        "reputational_concern_ratio": 0.000859,
+        "profitability_emissions_ratio": 4.464706e-10
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/BSL-AU_FY2025_BlueScope_Sustainability_Report.pdf",
@@ -811,7 +844,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 8
+        "net_zero_claims": 8,
+        "profitability_ratio": 0.217039,
+        "reputational_concern_ratio": 0.000333,
+        "profitability_emissions_ratio": 6.86832278e-08
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/fmg/f8f3f9a4-8200-11f0-8bd2-22fe330236a6.pdf",
@@ -886,7 +922,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 26
+        "net_zero_claims": 26,
+        "profitability_ratio": 0.036446,
+        "reputational_concern_ratio": 0.002317,
+        "profitability_emissions_ratio": 1.1753361927e-06
       },
       "search_record": {
         "url": "https://www.worley.com/-/media/files/worley/sustainability/2025/wor-cdp-report-2025.pdf",
@@ -960,7 +999,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 17
+        "net_zero_claims": 17,
+        "profitability_ratio": 0.755282,
+        "reputational_concern_ratio": 0.012781,
+        "profitability_emissions_ratio": 6.6451578845e-06
       },
       "search_record": {
         "url": "https://www.vicinity.com.au/assets/sb/f/129601/x/218db7b71b/2025-annual-report.pdf",
@@ -1035,7 +1077,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 22
+        "net_zero_claims": 22,
+        "profitability_ratio": 0.003374,
+        "reputational_concern_ratio": 0.021834,
+        "profitability_emissions_ratio": 4.399530578e-07
       },
       "search_record": {
         "url": "https://www.dexus.com/content/dam/dexus/documents/investing/sustainability-reports/2025/2025%20Dexus%20Annual%20Report%201.pdf",
@@ -1110,7 +1155,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 2
+        "net_zero_claims": 2,
+        "profitability_ratio": 0.165082,
+        "reputational_concern_ratio": 0.000849,
+        "profitability_emissions_ratio": 5.63227567383e-05
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250815/pdf/06mwwc8bndj71z.pdf",
@@ -1181,7 +1229,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.102733,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 0.0006941418918919
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/CWP-AU_250825-CWP-ESG-Report-2025_WEB.pdf",
@@ -1218,7 +1269,9 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.191518,
+        "reputational_concern_ratio": 0.002316
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/CNI-AU_Sustainability-report_2025-v12.pdf",
@@ -1273,7 +1326,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 64
+        "net_zero_claims": 64,
+        "profitability_ratio": 0.328293,
+        "reputational_concern_ratio": 0.09305,
+        "profitability_emissions_ratio": 2.6331058157e-06
       },
       "search_record": {
         "url": "https://www.charterhall.com.au/docs/librariesprovider2/corporate-documents/sustainability-docs/2025-sustainability-report.pdf",
@@ -1347,7 +1403,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.398089,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 2.1481051797e-06
       },
       "search_record": {
         "url": "https://assets.ctfassets.net/0vreywxqlgab/3krRUFoThZKUZuo7ppZ33J/38033fdf5d0f03f1f9f2c7414e7d3da9/SCG_2024_Responsible_Business_Limited_Assurance_Statement.pdf",
@@ -1421,7 +1480,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 15
+        "net_zero_claims": 15,
+        "profitability_ratio": 0.055017,
+        "reputational_concern_ratio": 0.001681,
+        "profitability_emissions_ratio": 2.2274089e-09
       },
       "search_record": {
         "url": "https://www.south32.net/docs/default-source/annual-reporting-suite/2025/annual-report-2025.pdf",
@@ -1478,7 +1540,9 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.02229,
+        "reputational_concern_ratio": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/SHA-AU_SHAPE-FY25-Annual-Report.pdf",
@@ -1530,7 +1594,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 24
+        "net_zero_claims": 24,
+        "profitability_ratio": 0.111941,
+        "reputational_concern_ratio": 0.00075,
+        "profitability_emissions_ratio": 0.0002322427385892
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/MQG-AU_macquarie-group-fy25-sustainability-report.pdf",
@@ -1645,7 +1712,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.028488,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 1.542618574e-07
       },
       "search_record": {
         "url": "https://inghams.com.au/wp-content/uploads/2025/10/FY25-Inghams_GHG-water-and-waste-metrics_Assurance-Statement_Final-1.pdf",
@@ -1714,7 +1784,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 6
+        "net_zero_claims": 6,
+        "profitability_ratio": 0.093924,
+        "reputational_concern_ratio": 0.000259,
+        "profitability_emissions_ratio": 1.276517669e-07
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/TLS-AU_telstra-annual-report-2025.pdf",
@@ -1765,7 +1838,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.028898,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 1.218553658e-06
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/LLC-AU_lendlease-fy25-esg-databook.pdf",
@@ -1819,7 +1895,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 13
+        "net_zero_claims": 13,
+        "profitability_ratio": -0.141718,
+        "reputational_concern_ratio": 0.03043,
+        "profitability_emissions_ratio": -3.86916934e-07
       },
       "search_record": {
         "url": "https://nextdc.com/hubfs/ASX%20Announcements/FY25%20Environmental%2C%20Social%20and%20Governance%20Report.pdf",
@@ -1894,7 +1973,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 8
+        "net_zero_claims": 8,
+        "profitability_ratio": 0.034565,
+        "reputational_concern_ratio": 0.002293,
+        "profitability_emissions_ratio": 6.9505328775e-06
       },
       "search_record": {
         "url": "https://www.perenti.com/wp-content/uploads/sites/13/2025/09/SD-REPORT-2025_FRONT-SECTION.pdf",
@@ -1951,7 +2033,9 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.116451,
+        "reputational_concern_ratio": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/NCK-AU_2025annual.pdf",
@@ -2003,7 +2087,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "South Australia (SA)",
-        "net_zero_claims": 4
+        "net_zero_claims": 4,
+        "profitability_ratio": 0.223602,
+        "reputational_concern_ratio": 0.000482,
+        "profitability_emissions_ratio": 4.26721374e-08
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/STO-AU_Santos_Sustainability_Data_Book_2024.pdf",
@@ -2058,7 +2145,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 15
+        "net_zero_claims": 15,
+        "profitability_ratio": 0.164198,
+        "reputational_concern_ratio": 0.012742,
+        "profitability_emissions_ratio": 1.2828369637e-06
       },
       "search_record": {
         "url": "https://www.karoonenergy.com.au/wp-content/uploads/2024-Sustainability-Report.pdf",
@@ -2114,7 +2204,8 @@
         "rbics_industry": "General Discount Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.005527
       },
       "verification": {
         "status": "pending"
@@ -2161,7 +2252,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 20
+        "net_zero_claims": 20,
+        "profitability_ratio": 0.078668,
+        "reputational_concern_ratio": 0.010927,
+        "profitability_emissions_ratio": 2.349203126e-07
       },
       "search_record": {
         "url": "https://www.sandfire.com.au/wp-content/uploads/2025/08/Sandfire-AR2025.pdf",
@@ -2218,7 +2312,9 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.068269,
+        "reputational_concern_ratio": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/SSG-AU_.pdf",
@@ -2267,7 +2363,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 13
+        "net_zero_claims": 13,
+        "profitability_ratio": 0.013942,
+        "reputational_concern_ratio": 0.000188,
+        "profitability_emissions_ratio": 1.266303361e-07
       },
       "search_record": {
         "url": "https://www.woolworthsgroup.com.au/content/dam/wwg/sustainability/reports/2025_WG_Sustainability_Report_Interactive_SPREADS.pdf",
@@ -2342,7 +2441,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": -0.041379,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": -3.04257352941e-05
       },
       "search_record": {
         "url": "https://www.perpetual.com.au/4a6d72/globalassets/_au-site-media/01-documents/04-group/03-sustainability/2025/fy25-perpetual-sustainability-report.pdf",
@@ -2398,7 +2500,8 @@
         "rbics_industry": "Personal Loans",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": -0.079283
       },
       "verification": {
         "status": "pending"
@@ -2440,7 +2543,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 22
+        "net_zero_claims": 22,
+        "profitability_ratio": 0.107459,
+        "reputational_concern_ratio": 0.000348,
+        "profitability_emissions_ratio": 1.28554851059e-05
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/NAB-AU_2025-climate-report.pdf",
@@ -2492,7 +2598,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.050716,
+        "reputational_concern_ratio": 0.000323,
+        "profitability_emissions_ratio": 2.225322943e-07
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/ANN-AU_Sustainability%20Report%202025.pdf",
@@ -2532,7 +2641,9 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.49463,
+        "reputational_concern_ratio": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/ATP-AU_ESGGlossy_15May2024.pdf",
@@ -2588,7 +2699,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 10
+        "net_zero_claims": 10,
+        "profitability_ratio": 0.086517,
+        "reputational_concern_ratio": 0.000584,
+        "profitability_emissions_ratio": 5.1132979e-09
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250814/pdf/06mvl9r7gnxr8z.pdf",
@@ -2662,7 +2776,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 15
+        "net_zero_claims": 15,
+        "profitability_ratio": 0.017011,
+        "reputational_concern_ratio": 0.006972,
+        "profitability_emissions_ratio": 1.1650571879e-06
       },
       "search_record": {
         "url": "https://www.tabcorp.com.au/-/media/tabcorp/files/sustainability-reports/2025-sustainability-report.pdf",
@@ -2734,7 +2851,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.194556,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 6.802657343e-07
       },
       "search_record": {
         "url": "https://www.csl.com/-/media/shared/documents/annual-report/csl-annual-report-2025.pdf",
@@ -2804,7 +2924,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "South Australia (SA)",
-        "net_zero_claims": 2
+        "net_zero_claims": 2,
+        "profitability_ratio": 0.153499,
+        "reputational_concern_ratio": 0.002966,
+        "profitability_emissions_ratio": 6.08639968279e-05
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/CDA-AU_CODAN-ESG-GRI-2024-WEB.pdf",
@@ -2843,7 +2966,9 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 6.361565,
+        "reputational_concern_ratio": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/OBL-AU_2025annual.pdf",
@@ -2893,7 +3018,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.000526,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 1.168889e-10
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/MOZ-AU_0-2024-Sustainability-Performance-Summary.pdf",
@@ -2949,7 +3077,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.208842,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 1.6005978e-08
       },
       "search_record": {
         "url": "https://www.nsrltd.com/media/hy1k312h/fy25-reasonable-and-limited-assurance-statement.pdf",
@@ -3006,7 +3137,9 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": -0.039964,
+        "reputational_concern_ratio": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/EGG-AU_Enero-FY23-Annual-Report-Released.pdf",
@@ -3044,7 +3177,8 @@
         "rbics_industry": "Footwear Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.0392
       },
       "verification": {
         "status": "pending"
@@ -3089,7 +3223,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 17
+        "net_zero_claims": 17,
+        "profitability_ratio": 0.247841,
+        "reputational_concern_ratio": 0.032808,
+        "profitability_emissions_ratio": 1.74979525558e-05
       },
       "search_record": {
         "url": "https://www.ingeniacommunities.com.au/wp-content/uploads/2025/01/2024-Sustainability-Report.pdf",
@@ -3161,7 +3298,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.17799,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 0.0002094
       },
       "search_record": {
         "url": "https://cms.mmsg.com.au/sites/default/files/2025-10/FY25%20Sustainability%20Report%202025%20FINAL_0.pdf",
@@ -3216,7 +3356,8 @@
         "rbics_industry": "Real Estate Developers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.140957
       },
       "verification": {
         "status": "pending"
@@ -3256,7 +3397,9 @@
         "rbics_industry": "Other Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.29715,
+        "profitability_emissions_ratio": 1.0891237896e-06
       },
       "verification": {
         "status": "pending"
@@ -3284,7 +3427,8 @@
         "rbics_industry": "Industrial Machinery and Supplies Distributors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.095677
       },
       "verification": {
         "status": "pending"
@@ -3325,7 +3469,9 @@
         "rbics_industry": "Information and News Content Providers and Sites",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.217229,
+        "profitability_emissions_ratio": 0.000145595844504
       },
       "verification": {
         "status": "pending"
@@ -3372,7 +3518,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.04141,
+        "reputational_concern_ratio": 0.000264,
+        "profitability_emissions_ratio": 3.69073084e-08
       },
       "search_record": {
         "url": "https://cleanaway2stor.blob.core.windows.net/cleanaway2-blob-container/2025/09/CWY_SR25_Interactive_SPREADS.pdf",
@@ -3428,7 +3577,8 @@
         "rbics_industry": "Other Ambulatory and Outpatient Diagnostic Care",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": -0.063254
       },
       "verification": {
         "status": "pending"
@@ -3474,7 +3624,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 7
+        "net_zero_claims": 7,
+        "profitability_ratio": 0.270024,
+        "reputational_concern_ratio": 0.013246,
+        "profitability_emissions_ratio": 1.654153394e-07
       },
       "search_record": {
         "url": "https://www.goldfields.com/pdf/investors/integrated-annual-reports/2024/gold-fields-ccr-report-2024.pdf",
@@ -3530,7 +3683,8 @@
         "rbics_industry": "Automobile Financing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.151509
       },
       "verification": {
         "status": "pending"
@@ -3570,7 +3724,9 @@
         "rbics_industry": "General Consumer Finance Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.059406,
+        "profitability_emissions_ratio": 0.0002041443298969
       },
       "verification": {
         "status": "pending"
@@ -3598,7 +3754,8 @@
         "rbics_industry": "Mixed Commercial Transportation Equipment Makers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.018292
       },
       "verification": {
         "status": "pending"
@@ -3716,7 +3873,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.240368,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 1.3641770715e-06
       },
       "search_record": {
         "url": "https://wp-genesis-2024.s3.ap-southeast-2.amazonaws.com/media/2025/08/21083633/Sustainability-Report-2025-FINAL.pdf",
@@ -3783,7 +3943,9 @@
         "rbics_industry": "Diverse Construction and Engineering Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.035881,
+        "profitability_emissions_ratio": 6.375670777e-07
       },
       "verification": {
         "status": "pending"
@@ -3829,7 +3991,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": -3.924229,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": -1.781796676e-07
       },
       "search_record": {
         "url": "https://www.datocms-assets.com/65260/1745891084-q1-2025-quarterly-sustainability-update.pdf",
@@ -3899,7 +4064,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 3
+        "net_zero_claims": 3,
+        "profitability_ratio": 0.054866,
+        "reputational_concern_ratio": 0.000842,
+        "profitability_emissions_ratio": 0.0002625167464115
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/nhf/be7d14b9-632f-11ef-beba-3ea1a61ffeaf.pdf",
@@ -3967,7 +4135,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.06667,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 6.6490475716e-06
       },
       "search_record": {
         "url": "https://g8education.edu.au/wp-content/uploads/2025/02/fy24-annual-report-final.pdf",
@@ -4037,7 +4208,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 2
+        "net_zero_claims": 2,
+        "profitability_ratio": 0.005814,
+        "reputational_concern_ratio": 0.001316,
+        "profitability_emissions_ratio": 7.73446854e-08
       },
       "search_record": {
         "url": "https://www.collinsfoods.com/wp-content/uploads/2025/06/Collins-Foods-Sustainability-Report-2025.pdf",
@@ -4105,7 +4279,9 @@
         "rbics_industry": "Australia and New Zealand Banks",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.120145,
+        "profitability_emissions_ratio": 1.79938595177e-05
       },
       "verification": {
         "status": "pending"
@@ -4145,7 +4321,9 @@
         "rbics_industry": "Australia and New Zealand Banks",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.145053,
+        "profitability_emissions_ratio": 2.4469129555e-06
       },
       "verification": {
         "status": "pending"
@@ -4190,7 +4368,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 10
+        "net_zero_claims": 10,
+        "profitability_ratio": 0.067189,
+        "reputational_concern_ratio": 0.003733,
+        "profitability_emissions_ratio": 5.75741216795e-05
       },
       "search_record": {
         "url": "https://www.amp.com.au/content/dam/corporate/shareholdercentre/files/reports/2025/250213_AMP_SR24_final_A4.pdf",
@@ -4252,7 +4433,9 @@
         "rbics_industry": "Infrastructure Construction",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.013054,
+        "profitability_emissions_ratio": 4.32035638e-08
       },
       "verification": {
         "status": "pending"
@@ -4298,7 +4481,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 2
+        "net_zero_claims": 2,
+        "profitability_ratio": 0.092593,
+        "reputational_concern_ratio": 0.000119,
+        "profitability_emissions_ratio": 4.71691288844e-05
       },
       "search_record": {
         "url": "https://www.suncorpgroup.com.au/uploads/FY25-SUN-Climate-related-Disclsoure-Report-Final.pdf",
@@ -4365,7 +4551,9 @@
         "rbics_industry": "Personal Insurance",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.076745,
+        "profitability_emissions_ratio": 6.2910894336e-06
       },
       "verification": {
         "status": "pending"
@@ -4392,7 +4580,8 @@
         "rbics_industry": "Commercial Insurance",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.077958
       },
       "verification": {
         "status": "pending"
@@ -4433,7 +4622,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 19
+        "net_zero_claims": 19,
+        "profitability_ratio": 0.263813,
+        "reputational_concern_ratio": 0.006068,
+        "profitability_emissions_ratio": 7.6967265725e-06
       },
       "search_record": {
         "url": "https://links.sgx.com/1.0.0/corporate-announcements/1A9X79FT9X8NW90U/856446_Stockland%20FY25%20Annual%20Report.pdf",
@@ -4488,7 +4680,8 @@
         "rbics_industry": "Asia/Pacific Department Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.125687
       },
       "verification": {
         "status": "pending"
@@ -4516,7 +4709,8 @@
         "rbics_industry": "Gaming Industries",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.197377
       },
       "verification": {
         "status": "pending"
@@ -4557,7 +4751,9 @@
         "rbics_industry": "Manufacturing Additives Manufacturing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.068461,
+        "profitability_emissions_ratio": 5.27841172e-08
       },
       "verification": {
         "status": "pending"
@@ -4604,7 +4800,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 40
+        "net_zero_claims": 40,
+        "profitability_ratio": 0.039329,
+        "reputational_concern_ratio": 0.014368,
+        "profitability_emissions_ratio": 1.2337348642e-06
       },
       "search_record": {
         "url": "https://www.fcmtravel.com/sites/default/files/2024-08/Flight-Centre-Travel-Group-Sustainability-Report.pdf",
@@ -4673,7 +4872,9 @@
         "rbics_industry": "Road Transportation",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.033739,
+        "profitability_emissions_ratio": 9.223598239e-07
       },
       "verification": {
         "status": "pending"
@@ -4700,7 +4901,8 @@
         "rbics_industry": "Radio and Television Broadcasting",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.010554
       },
       "verification": {
         "status": "pending"
@@ -4742,7 +4944,9 @@
         "rbics_industry": "Investment Company",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.653156,
+        "profitability_emissions_ratio": 2.42196677544e-05
       },
       "verification": {
         "status": "pending"
@@ -4790,7 +4994,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 13
+        "net_zero_claims": 13,
+        "profitability_ratio": 0.293558,
+        "reputational_concern_ratio": 0.007593,
+        "profitability_emissions_ratio": 0.000146779
       },
       "search_record": {
         "url": "https://www.asx.com.au/content/dam/asx/annual-reports/asx-2025-annual-report.pdf",
@@ -4858,7 +5065,9 @@
         "rbics_industry": "Clinical Laboratory Patient Diagnostics",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.054095,
+        "profitability_emissions_ratio": 6.118305717e-07
       },
       "verification": {
         "status": "pending"
@@ -4886,7 +5095,8 @@
         "rbics_industry": "Manufacturing Additives Manufacturing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.027887
       },
       "verification": {
         "status": "pending"
@@ -4933,7 +5143,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 14
+        "net_zero_claims": 14,
+        "profitability_ratio": 0.197389,
+        "reputational_concern_ratio": 0.002958,
+        "profitability_emissions_ratio": 9.98932186235e-05
       },
       "search_record": {
         "url": "https://content-assets.computershare.com/eh96rkuu9740/6yPsID4hlPz2JQYVXImDSS/082ba3e038dd1015c7ae16d50c238c1d/CPU_-_Sustainability_Report_-_FY25.pdf",
@@ -5006,7 +5219,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 3
+        "net_zero_claims": 3,
+        "profitability_ratio": 0.0353,
+        "reputational_concern_ratio": 0.000334,
+        "profitability_emissions_ratio": 5.354813264e-07
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/reh/83e6f033-91b0-11ef-81f6-d6aa1427518f.pdf",
@@ -5076,7 +5292,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.103657,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 7.4842599278e-05
       },
       "search_record": {
         "url": "https://cdn.gwagroup.com.au/v3/assets/bltad292a6aa65b6a42/bltab8a1d18b9bae8eb/68d5c6d55a1a1bc4a9c488bf/2025_ESG_Report.pdf",
@@ -5148,7 +5367,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": -0.001673,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": -2.95212719e-08
       },
       "search_record": {
         "url": "https://cdn.nufarm.com/wp-content/uploads/2020/11/13080335/Nufarm-FY24-Sustainability-Report.pdf",
@@ -5216,7 +5438,9 @@
         "rbics_industry": "Metal Processing and Recycling Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.00032,
+        "profitability_emissions_ratio": 4.2666667e-09
       },
       "verification": {
         "status": "pending"
@@ -5263,7 +5487,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 3
+        "net_zero_claims": 3,
+        "profitability_ratio": 0.031489,
+        "reputational_concern_ratio": 0.000954,
+        "profitability_emissions_ratio": 1.57292426e-08
       },
       "search_record": {
         "url": "https://admin.apa.com.au/media/hargh4do/250820_sustainability_report_data_book_fy25.pdf",
@@ -5333,7 +5560,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 4
+        "net_zero_claims": 4,
+        "profitability_ratio": 0.009522,
+        "reputational_concern_ratio": 0.000616,
+        "profitability_emissions_ratio": 8.30658106e-08
       },
       "search_record": {
         "url": "https://www.graincorp.com.au/wp-content/uploads/2025/01/2024-Sustainability-Report.pdf",
@@ -5387,7 +5617,8 @@
         "rbics_industry": "Australia and New Zealand Banks",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.026161
       },
       "verification": {
         "status": "pending"
@@ -5428,7 +5659,9 @@
         "rbics_industry": "Asia/Pacific Petroleum Refineries",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.003547,
+        "profitability_emissions_ratio": 3.7596974e-09
       },
       "verification": {
         "status": "pending"
@@ -5469,7 +5702,9 @@
         "rbics_industry": "Asia/Pacific Fossil Fuel Exploration/Production",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "South Australia (SA)"
+        "company_state": "South Australia (SA)",
+        "profitability_ratio": -0.020798,
+        "profitability_emissions_ratio": -3.18419751e-08
       },
       "verification": {
         "status": "pending"
@@ -5512,7 +5747,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": -0.418836,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": -1.1712743645e-05
       },
       "search_record": {
         "url": "https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/68d6049d22617364c0b18eb1_Annual%20Report%202025%20FINAL.pdf",
@@ -5585,7 +5823,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 8
+        "net_zero_claims": 8,
+        "profitability_ratio": 0.061712,
+        "reputational_concern_ratio": 0.002567,
+        "profitability_emissions_ratio": 0.0068568888888889
       },
       "search_record": {
         "url": "https://edge.sitecorecloud.io/challengerg66c7-challengerprod-prod-4c11/media/Project/Challenger/Challenger/Documents/Reports/2025-Annual-Report.pdf",
@@ -5656,7 +5897,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.033257,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 3.077699013e-07
       },
       "search_record": {
         "url": "https://www.ridley.com.au/wp-content/uploads/2025/10/Sustainability-Report-2025.pdf",
@@ -5723,7 +5967,9 @@
         "rbics_industry": "Amusement and Recreation Centers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.027336,
+        "profitability_emissions_ratio": 2.203840758e-07
       },
       "verification": {
         "status": "pending"
@@ -5791,7 +6037,9 @@
         "rbics_industry": "Ship Builders and Ship Repair Service Providers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.049214,
+        "profitability_emissions_ratio": 4.7248463902e-06
       },
       "verification": {
         "status": "pending"
@@ -5839,7 +6087,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 11
+        "net_zero_claims": 11,
+        "profitability_ratio": 0.085417,
+        "reputational_concern_ratio": 0.003667,
+        "profitability_emissions_ratio": 2.2144245975e-06
       },
       "search_record": {
         "url": "https://www.alsglobal.com/-/media/ALSGlobal/Resources-Grid/2025-ALS-Sustainability-Report.pdf",
@@ -5909,7 +6160,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.053751,
+        "reputational_concern_ratio": 0.001655,
+        "profitability_emissions_ratio": 1.6131752701e-06
       },
       "search_record": {
         "url": "https://www.capral.com.au/wp-content/uploads/2025/05/Capral_ESGReport_2024.pdf",
@@ -5965,7 +6219,8 @@
         "rbics_industry": "Other Business Administrative Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.151948
       },
       "verification": {
         "status": "pending"
@@ -6005,7 +6260,9 @@
         "rbics_industry": "Consumer Vehicle Powertrain and Chassis Makers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": -0.106577,
+        "profitability_emissions_ratio": -1.21110227273e-05
       },
       "verification": {
         "status": "pending"
@@ -6033,7 +6290,8 @@
         "rbics_industry": "Other Apparel Retail",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.089609
       },
       "verification": {
         "status": "pending"
@@ -6060,7 +6318,8 @@
         "rbics_industry": "Automobile Comfort/Safety/Electronics Parts Makers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.133608
       },
       "verification": {
         "status": "pending"
@@ -6105,7 +6364,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 5
+        "net_zero_claims": 5,
+        "profitability_ratio": -0.03533,
+        "reputational_concern_ratio": 0.004117,
+        "profitability_emissions_ratio": -1.173933558e-07
       },
       "search_record": {
         "url": "https://www.rml.com.au/wp-content/uploads/2025/04/Resolute-Sustainability-Report-2024.pdf",
@@ -6177,7 +6439,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 4
+        "net_zero_claims": 4,
+        "profitability_ratio": 0.004453,
+        "reputational_concern_ratio": 0.011875,
+        "profitability_emissions_ratio": 4.66952592e-08
       },
       "search_record": {
         "url": "https://selectharvests.com.au/documents/SHV_Sustainability-Report_19-Dec-2024_ASX.pdf",
@@ -6231,7 +6496,8 @@
         "rbics_industry": "Manufactured Building Makers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.028942
       },
       "verification": {
         "status": "pending"
@@ -6271,7 +6537,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.018322,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 8.9482771e-09
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/ape/be142016-0eac-11f0-808d-2eafb8326ff9.pdf",
@@ -6341,7 +6610,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.030461,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 2.4361004479e-06
       },
       "search_record": {
         "url": "https://d2dycffe7xo3vi.cloudfront.net/app/uploads/2025/08/Sustainability-Report-2025-FINAL_web.pdf",
@@ -6396,7 +6668,8 @@
         "rbics_industry": "Road Transportation",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.039201
       },
       "verification": {
         "status": "pending"
@@ -6443,7 +6716,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.017538,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 9.401736893e-07
       },
       "search_record": {
         "url": "https://www.ebosgroup.com/wp-content/uploads/2025/11/EBOS_ESG-Doument_2025_Environmental-Data_FINAL.pdf",
@@ -6544,7 +6820,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 4
+        "net_zero_claims": 4,
+        "profitability_ratio": 0.110384,
+        "reputational_concern_ratio": 0.010191,
+        "profitability_emissions_ratio": 6.42888759464e-05
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/hsn/f8896e2f-7d4b-11f0-a14a-aaf2b0bbb5d6.pdf",
@@ -6616,7 +6895,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.127934,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 4.51903920876e-05
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250925/pdf/06pmwdxz5d7x0t.pdf",
@@ -6686,7 +6968,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 2
+        "net_zero_claims": 2,
+        "profitability_ratio": 0.014357,
+        "reputational_concern_ratio": 0.003594,
+        "profitability_emissions_ratio": 9.61138075e-08
       },
       "search_record": {
         "url": "https://lynasrareearths.com/wp-content/uploads/2025/10/LYC-Sustainability-Report-2025-Oct25V2-1.pdf",
@@ -6756,7 +7041,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 19
+        "net_zero_claims": 19,
+        "profitability_ratio": -0.800451,
+        "reputational_concern_ratio": 0.107103,
+        "profitability_emissions_ratio": -1.0120121373e-05
       },
       "search_record": {
         "url": "https://www.cromwellpropertygroup.com/wp-content/uploads/sites/3/2024/01/ESG-report-2023.pdf",
@@ -6811,7 +7099,8 @@
         "rbics_industry": "Dairy and Dairy Alternative Production",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": -0.251754
       },
       "verification": {
         "status": "pending"
@@ -6838,7 +7127,8 @@
         "rbics_industry": "Other Base Metal Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Tasmania (TAS)"
+        "company_state": "Tasmania (TAS)",
+        "profitability_ratio": 0.11242
       },
       "verification": {
         "status": "pending"
@@ -6885,7 +7175,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.025548,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 1.751698698e-07
       },
       "search_record": {
         "url": "https://www.westgold.com.au/pdf/c69c8e82-3a58-4c4a-bf83-7cb2859e6fcd/2024-Sustainability-Report.pdf",
@@ -6940,7 +7233,8 @@
         "rbics_industry": "Uranium Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": -0.251238
       },
       "verification": {
         "status": "pending"
@@ -6984,7 +7278,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 5
+        "net_zero_claims": 5,
+        "profitability_ratio": 0.154397,
+        "reputational_concern_ratio": 0.003035,
+        "profitability_emissions_ratio": 7.481598496e-07
       },
       "search_record": {
         "url": "https://regisresources.com.au/wp-content/uploads/2025/01/Regis-SR24-22.10.24-singles.pdf",
@@ -7040,7 +7337,8 @@
         "rbics_industry": "Real Estate Developers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "South Australia (SA)"
+        "company_state": "South Australia (SA)",
+        "profitability_ratio": -0.525614
       },
       "verification": {
         "status": "pending"
@@ -7068,7 +7366,8 @@
         "rbics_industry": "Gaming Industries",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.114817
       },
       "verification": {
         "status": "pending"
@@ -7096,7 +7395,8 @@
         "rbics_industry": "Lighting Equipment and Component Manufacturing",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.053616
       },
       "verification": {
         "status": "pending"
@@ -7143,7 +7443,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": -0.002715,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": -4.0985834e-09
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kvxrrr960yx4.pdf",
@@ -7199,7 +7502,8 @@
         "rbics_industry": "Road Transportation",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.020464
       },
       "verification": {
         "status": "pending"
@@ -7239,7 +7543,9 @@
         "rbics_industry": "Alternative Investment Managers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.009883,
+        "profitability_emissions_ratio": 7.353422619e-06
       },
       "verification": {
         "status": "pending"
@@ -7266,7 +7572,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 1.306318
       },
       "verification": {
         "status": "pending"
@@ -7313,7 +7620,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.248887,
+        "reputational_concern_ratio": 0.000566,
+        "profitability_emissions_ratio": 3.564092577e-07
       },
       "search_record": {
         "url": "https://links.sgx.com/1.0.0/corporate-announcements/53YFKQ4JYW5HMBRL/859152_New%20Hope%20Group%20Appendix%204E%20and%20Annual%20Report%202025.pdf",
@@ -7368,7 +7678,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.635772
       },
       "verification": {
         "status": "pending"
@@ -7415,7 +7726,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.147578,
+        "reputational_concern_ratio": 0.001664,
+        "profitability_emissions_ratio": 0.0002007863945578
       },
       "search_record": {
         "url": "https://www.iress.com/media/documents/IRESS_Annual_Report_2024.pdf",
@@ -7484,7 +7798,9 @@
         "rbics_industry": "Other Small Home Appliances Makers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.080077,
+        "profitability_emissions_ratio": 3.58767921147e-05
       },
       "verification": {
         "status": "pending"
@@ -7531,7 +7847,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": -0.030142,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": -2.8265191298e-06
       },
       "search_record": {
         "url": "https://www.galepacific.com/uploads/gale_corporate/documents/GAP_ASX_Announcement_-_240829_-_FY24_Annual_Report.pdf",
@@ -7590,7 +7909,8 @@
         "rbics_industry": "General Enterprise Management Software",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.232982
       },
       "verification": {
         "status": "pending"
@@ -7617,7 +7937,8 @@
         "rbics_industry": "Other Petroleum Products",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.007369
       },
       "verification": {
         "status": "pending"
@@ -7645,7 +7966,8 @@
         "rbics_industry": "Consumer Electronics Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.043809
       },
       "verification": {
         "status": "pending"
@@ -7672,7 +7994,8 @@
         "rbics_industry": "Asia/Pacific Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.165479
       },
       "verification": {
         "status": "pending"
@@ -7699,7 +8022,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.599662
       },
       "verification": {
         "status": "pending"
@@ -7740,7 +8064,9 @@
         "rbics_industry": "Other Entertainment Retail",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.054495,
+        "profitability_emissions_ratio": 1.0183887425e-06
       },
       "verification": {
         "status": "pending"
@@ -7781,7 +8107,9 @@
         "rbics_industry": "Network Design and Implementation Consulting",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.056522,
+        "profitability_emissions_ratio": 8.91514195584e-05
       },
       "verification": {
         "status": "pending"
@@ -7808,7 +8136,8 @@
         "rbics_industry": "Asia/Pacific Air Passenger Service Providers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.082757
       },
       "verification": {
         "status": "pending"
@@ -7844,7 +8173,9 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.152544,
+        "profitability_emissions_ratio": 2.21334881021e-05
       },
       "verification": {
         "status": "pending"
@@ -7872,7 +8203,8 @@
         "rbics_industry": "Industrial Specialty Engineering Contractors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.088118
       },
       "verification": {
         "status": "pending"
@@ -7941,7 +8273,9 @@
         "rbics_industry": "Asia/Pacific Fossil Fuel Exploration/Production",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "South Australia (SA)"
+        "company_state": "South Australia (SA)",
+        "profitability_ratio": -0.154185,
+        "profitability_emissions_ratio": -1.8107244777e-06
       },
       "verification": {
         "status": "pending"
@@ -7986,7 +8320,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 3
+        "net_zero_claims": 3,
+        "profitability_ratio": 0.394074,
+        "reputational_concern_ratio": 0.002493,
+        "profitability_emissions_ratio": 3.2102480551e-06
       },
       "search_record": {
         "url": "https://www.rameliusresources.com.au/wp-content/uploads/bsk-pdf-manager/2025/10/2025-Sustainability-Report.pdf",
@@ -8042,7 +8379,8 @@
         "rbics_industry": "Travel Agencies",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.17765
       },
       "verification": {
         "status": "pending"
@@ -8086,7 +8424,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.17245,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 0.000235587431694
       },
       "search_record": {
         "url": "https://www.creditcorpgroup.com.au/media/1919/asx-5-august-2025-ccp-annual-report-2025.pdf",
@@ -8140,7 +8481,8 @@
         "rbics_industry": "Residential Mortgage Banking and Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.032128
       },
       "verification": {
         "status": "pending"
@@ -8187,7 +8529,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.0338,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 3.48813209494e-05
       },
       "search_record": {
         "url": "https://webtravelgroup.sfo2.cdn.digitaloceanspaces.com/public/ASX-Announcements/WEB_ASX_05_28_25_FY25_Sustainability-Report-v2.pdf",
@@ -8256,7 +8601,9 @@
         "rbics_industry": "Other Marketing and Advertising Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.357448,
+        "profitability_emissions_ratio": 0.0007265203252033
       },
       "verification": {
         "status": "pending"
@@ -8297,7 +8644,9 @@
         "rbics_industry": "Limited-Service and Fast Food Restaurants",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": -0.001613,
+        "profitability_emissions_ratio": -3.4688172e-08
       },
       "verification": {
         "status": "pending"
@@ -8340,7 +8689,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 42
+        "net_zero_claims": 42,
+        "profitability_ratio": -0.202237,
+        "reputational_concern_ratio": 0.042322,
+        "profitability_emissions_ratio": -7.2364475615e-06
       },
       "search_record": {
         "url": "https://sustainability.gpt.com.au/wp-content/uploads/2025/02/GPT0046-GPT-CNDS25_PFO_Web.pdf",
@@ -8412,7 +8764,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 50
+        "net_zero_claims": 50,
+        "profitability_ratio": -1.909582,
+        "reputational_concern_ratio": 0.10002,
+        "profitability_emissions_ratio": -2.74550630454e-05
       },
       "search_record": {
         "url": "https://www.igo.com.au/site/pdf/f40bdb2b-fd4c-4d87-8ffb-ec235132f8ad/2025-Sustainability-Report.pdf",
@@ -8486,7 +8841,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.726734,
+        "reputational_concern_ratio": 0.000436,
+        "profitability_emissions_ratio": 0.0001851551592357
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n3yv7p9pp64z.pdf",
@@ -8561,7 +8919,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.016354,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 2.220231065e-07
       },
       "search_record": {
         "url": "https://www.metcash.com/wp-content/uploads/2023/08/20838_Metcash_SR23_FINAL-compressed.pdf",
@@ -8636,7 +8997,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.085466,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 1.8134481954e-06
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250811/pdf/06mqlxn7h4nzg9.pdf",
@@ -8710,7 +9074,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.036145,
+        "reputational_concern_ratio": 0.000147,
+        "profitability_emissions_ratio": 3.74983142e-08
       },
       "search_record": {
         "url": "https://www.mmg.com/wp-content/uploads/2025/05/MMG-Sust-Report-2024.pdf",
@@ -8766,7 +9133,8 @@
         "rbics_industry": "Transplantation Biopharmaceuticals",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": -5.939179
       },
       "verification": {
         "status": "pending"
@@ -8793,7 +9161,8 @@
         "rbics_industry": "Asia/Pacific Air Passenger Service Providers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.022564
       },
       "verification": {
         "status": "pending"
@@ -8838,7 +9207,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.232705,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 4.9376180271e-06
       },
       "search_record": {
         "url": "https://cargroup.com/wp-content/uploads/2025/08/CAR-Group-FY25-Sustainability-Report.pdf",
@@ -8894,7 +9266,8 @@
         "rbics_industry": "Insurance Brokerage",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.159599
       },
       "verification": {
         "status": "pending"
@@ -8930,7 +9303,9 @@
         "rbics_industry": "Asia/Pacific Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.460261,
+        "profitability_emissions_ratio": 9.2702974884e-06
       },
       "verification": {
         "status": "pending"
@@ -8962,7 +9337,9 @@
         "rbics_industry": "Wholesale Pharmaceuticals Distributors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.088292,
+        "profitability_emissions_ratio": 1.02510159062e-05
       },
       "verification": {
         "status": "pending"
@@ -8990,7 +9367,8 @@
         "rbics_industry": "Finance Industry Software",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.23717
       },
       "verification": {
         "status": "pending"
@@ -9018,7 +9396,8 @@
         "rbics_industry": "Alternative Investment Managers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.267708
       },
       "verification": {
         "status": "pending"
@@ -9055,7 +9434,9 @@
         "rbics_industry": "Asia/Pacific Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.203546,
+        "profitability_emissions_ratio": 2.5973101266e-06
       },
       "verification": {
         "status": "pending"
@@ -9083,7 +9464,8 @@
         "rbics_industry": "Real Estate Developers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.251362
       },
       "verification": {
         "status": "pending"
@@ -9130,7 +9512,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.050665,
+        "reputational_concern_ratio": 0.001138,
+        "profitability_emissions_ratio": 9.0586447345e-06
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/iel/f199b1a9-7158-11ef-8801-6aa5c5382db2.pdf",
@@ -9204,7 +9589,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.129571,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 4.3922372881e-06
       },
       "search_record": {
         "url": "https://www.brambles.com/Content/cms/FY25-Results/pdf/Sustainability/Brambles-2025-Sustainability-Review.pdf",
@@ -9260,7 +9648,8 @@
         "rbics_industry": "Automotive Maintenance and Repair Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": -0.007396
       },
       "verification": {
         "status": "pending"
@@ -9307,7 +9696,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 26
+        "net_zero_claims": 26,
+        "profitability_ratio": -0.006809,
+        "reputational_concern_ratio": 0.001806,
+        "profitability_emissions_ratio": -2.221533e-10
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/agl/b32fce37-77cb-11f0-afd1-aef0b727035d.pdf",
@@ -9362,7 +9754,8 @@
         "rbics_industry": "Funds Management and Advisors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.174233
       },
       "verification": {
         "status": "pending"
@@ -9390,7 +9783,8 @@
         "rbics_industry": "Supermarkets",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.024254
       },
       "verification": {
         "status": "pending"
@@ -9418,7 +9812,8 @@
         "rbics_industry": "Other Apparel Retail",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": -0.065865
       },
       "verification": {
         "status": "pending"
@@ -9446,7 +9841,8 @@
         "rbics_industry": "Electronic Transaction Processing/Clearinghouses",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.071984
       },
       "verification": {
         "status": "pending"
@@ -9483,7 +9879,9 @@
         "rbics_industry": "Infrastructure Construction",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.025439,
+        "profitability_emissions_ratio": 1.4268326883e-06
       },
       "verification": {
         "status": "pending"
@@ -9529,7 +9927,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 2
+        "net_zero_claims": 2,
+        "profitability_ratio": 0.038816,
+        "reputational_concern_ratio": 0.000747,
+        "profitability_emissions_ratio": 2.373051293e-06
       },
       "search_record": {
         "url": "https://www.nineforbrands.com.au/wp-content/uploads/2025/09/Annual-Report-for-lodgement.pdf",
@@ -9602,7 +10003,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 36
+        "net_zero_claims": 36,
+        "profitability_ratio": 0.058691,
+        "reputational_concern_ratio": 0.004219,
+        "profitability_emissions_ratio": 3.69125786164e-05
       },
       "search_record": {
         "url": "https://www.medibank.com.au/content/dam/retail/about-assets/pdfs/investor-centre/annual-reports/Medibank_SustainabilitySummary2025.pdf",
@@ -9674,7 +10078,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 5
+        "net_zero_claims": 5,
+        "profitability_ratio": 0.027166,
+        "reputational_concern_ratio": 0.0012,
+        "profitability_emissions_ratio": 6.21005276e-08
       },
       "search_record": {
         "url": "https://qube.com.au/wp-content/uploads/2025/08/Qube-Sustainability-Report-2024-2025.pdf",
@@ -9729,7 +10136,8 @@
         "rbics_industry": "-",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 9.709832
       },
       "verification": {
         "status": "pending"
@@ -9769,7 +10177,8 @@
         "rbics_industry": "Institutional and High-Net Advisory Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 1.727654
       },
       "verification": {
         "status": "pending"
@@ -9815,7 +10224,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 7
+        "net_zero_claims": 7,
+        "profitability_ratio": -1.314239,
+        "reputational_concern_ratio": 0.047112,
+        "profitability_emissions_ratio": -0.0003452164433937
       },
       "search_record": {
         "url": "https://assets.lifestylecommunities.com.au/prod-v2/LIC-Annual-Report-to-Shareholders-2024.pdf",
@@ -9870,7 +10282,8 @@
         "rbics_industry": "Industrial Specialty Engineering Contractors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.008469
       },
       "verification": {
         "status": "pending"
@@ -9915,7 +10328,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 23
+        "net_zero_claims": 23,
+        "profitability_ratio": 0.014075,
+        "reputational_concern_ratio": 0.252323,
+        "profitability_emissions_ratio": 4.7963878e-07
       },
       "search_record": {
         "url": "https://eng.bnkfg.com/share_file/%28BNK%20Financial%20Group%29%20PRB-Reporting-and-Self-Assessment-Template.pdf",
@@ -9970,7 +10386,8 @@
         "rbics_industry": "Diverse Asset Management and Financial Advisors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.549359
       },
       "verification": {
         "status": "pending"
@@ -9998,7 +10415,8 @@
         "rbics_industry": "Specialty Engineering Contractors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.039516
       },
       "verification": {
         "status": "pending"
@@ -10027,7 +10445,8 @@
         "rbics_industry": "Brokerage Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.110189
       },
       "verification": {
         "status": "pending"
@@ -10055,7 +10474,8 @@
         "rbics_industry": "Asia/Pacific Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": -0.090719
       },
       "verification": {
         "status": "pending"
@@ -10102,7 +10522,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 4
+        "net_zero_claims": 4,
+        "profitability_ratio": 0.1955,
+        "reputational_concern_ratio": 0.009838,
+        "profitability_emissions_ratio": 0.0012067901234568
       },
       "search_record": {
         "url": "https://www.hub24.com.au/wp-content/uploads/2025/08/HUB24-FY25-Sustainability-Report.pdf",
@@ -10157,7 +10580,8 @@
         "rbics_industry": "Australia and New Zealand Banks",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": -0.018525
       },
       "verification": {
         "status": "pending"
@@ -10185,7 +10609,8 @@
         "rbics_industry": "Asia/Pacific Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.297054
       },
       "verification": {
         "status": "pending"
@@ -10212,7 +10637,8 @@
         "rbics_industry": "Diversified Healthcare Distributors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.005693
       },
       "verification": {
         "status": "pending"
@@ -10258,7 +10684,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.30902,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 1.8307631241e-06
       },
       "search_record": {
         "url": "https://www.westafricanresources.com/wp-content/uploads/2025/04/WAF-2024-Sustainability-Report.pdf",
@@ -10315,7 +10744,8 @@
         "rbics_industry": "Industrial Specialty Engineering Contractors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.007815
       },
       "verification": {
         "status": "pending"
@@ -10361,7 +10791,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "South Australia (SA)",
-        "net_zero_claims": 7
+        "net_zero_claims": 7,
+        "profitability_ratio": 0.014397,
+        "reputational_concern_ratio": 0.002236,
+        "profitability_emissions_ratio": 2.516518091e-07
       },
       "search_record": {
         "url": "https://elders.com.au/content/dam/eld/documents/sustainability/Elders_Sustainability-Report.pdf",
@@ -10417,7 +10850,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": -0.376094
       },
       "verification": {
         "status": "pending"
@@ -10443,7 +10877,8 @@
         "rbics_industry": "Australia and New Zealand Banks",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Tasmania (TAS)"
+        "company_state": "Tasmania (TAS)",
+        "profitability_ratio": 0.055677
       },
       "verification": {
         "status": "pending"
@@ -10470,7 +10905,8 @@
         "rbics_industry": "Asia/Pacific Department Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": -0.079873
       },
       "verification": {
         "status": "pending"
@@ -10509,7 +10945,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.079942,
+        "reputational_concern_ratio": 0.000275,
+        "profitability_emissions_ratio": 1.146371682e-07
       },
       "search_record": {
         "url": "https://www.stanmore.au/wp-content/uploads/2025/04/Stanmore-Sustainability-Report-2024.pdf",
@@ -10563,7 +11002,8 @@
         "rbics_industry": "Dairy and Dairy Alternative Production",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": -0.002402
       },
       "verification": {
         "status": "pending"
@@ -10609,7 +11049,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.061988,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 3.44760845384e-05
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n429wdx4t454.pdf",
@@ -10664,7 +11107,8 @@
         "rbics_industry": "Radio and Television Broadcasting",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.015191
       },
       "verification": {
         "status": "pending"
@@ -10692,7 +11136,8 @@
         "rbics_industry": "Other Food Production",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.037087
       },
       "verification": {
         "status": "pending"
@@ -10720,7 +11165,8 @@
         "rbics_industry": "Lithium Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": -0.254622
       },
       "verification": {
         "status": "pending"
@@ -10760,7 +11206,9 @@
         "rbics_industry": "Road Transportation",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 1.886909,
+        "profitability_emissions_ratio": 0.0003117827164574
       },
       "verification": {
         "status": "pending"
@@ -10800,7 +11248,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 3
+        "net_zero_claims": 3,
+        "profitability_ratio": 0.045246,
+        "reputational_concern_ratio": 0.000279,
+        "profitability_emissions_ratio": 3.16848739e-08
       },
       "search_record": {
         "url": "https://sghl.com.au/assets/Uploads/ASX-SGH-2025-Annual-Report-Final-12-August-2025.pdf",
@@ -10869,7 +11320,9 @@
         "rbics_industry": "Information Technology Consulting",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": -0.085405,
+        "profitability_emissions_ratio": -4.40231958763e-05
       },
       "verification": {
         "status": "pending"
@@ -10910,7 +11363,9 @@
         "rbics_industry": "Rail Transportation",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.078315,
+        "profitability_emissions_ratio": 8.74130362e-08
       },
       "verification": {
         "status": "pending"
@@ -10956,7 +11411,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.027659,
+        "reputational_concern_ratio": 0.000842,
+        "profitability_emissions_ratio": 6.2099236641e-06
       },
       "search_record": {
         "url": "https://wcsecure.weblink.com.au/pdf/ABB/02982687.pdf",
@@ -11009,7 +11467,8 @@
         "rbics_industry": "Life and Health Insurance",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.038825
       },
       "verification": {
         "status": "pending"
@@ -11083,7 +11542,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 12
+        "net_zero_claims": 12,
+        "profitability_ratio": 0.146116,
+        "reputational_concern_ratio": 0.004013,
+        "profitability_emissions_ratio": 6.7960930233e-06
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/twe/4e41b6d3-9fe6-11f0-8b0c-caccf1a362f5.pdf",
@@ -11151,7 +11613,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 5
+        "net_zero_claims": 5,
+        "profitability_ratio": 0.177105,
+        "reputational_concern_ratio": 0.000728,
+        "profitability_emissions_ratio": 8.48853672e-08
       },
       "search_record": {
         "url": "https://www.yancoal.com.au/wp-content/uploads/2025/02/2024-Full-Year-Financial-Report.pdf",
@@ -11205,7 +11670,8 @@
         "rbics_industry": "Physical and Online Casinos",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": -0.372638
       },
       "verification": {
         "status": "pending"
@@ -11252,7 +11718,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 4
+        "net_zero_claims": 4,
+        "profitability_ratio": 0.119337,
+        "reputational_concern_ratio": 0.005652,
+        "profitability_emissions_ratio": 6.51047463175e-05
       },
       "search_record": {
         "url": "https://investor.travelctm.com.au/wp-content/uploads/2024/08/Sustainability-Report-FY24.pdf",
@@ -11307,7 +11776,8 @@
         "rbics_industry": "Diversified Biopharmaceuticals",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "South Australia (SA)"
+        "company_state": "South Australia (SA)",
+        "profitability_ratio": -0.220711
       },
       "verification": {
         "status": "pending"
@@ -11335,7 +11805,9 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.04155,
+        "reputational_concern_ratio": 0.001618
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/ADH-AU_ANNUAL-2023.pdf",
@@ -11386,7 +11858,9 @@
         "rbics_industry": "Hospitality Industry Software",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": -0.109256,
+        "profitability_emissions_ratio": -0.0009181176470588
       },
       "verification": {
         "status": "pending"
@@ -11427,7 +11901,9 @@
         "rbics_industry": "Electronic Transaction Processing/Clearinghouses",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.107458,
+        "profitability_emissions_ratio": 0.0018852280701754
       },
       "verification": {
         "status": "pending"
@@ -11455,7 +11931,8 @@
         "rbics_industry": "Computer and Software Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.034625
       },
       "verification": {
         "status": "pending"
@@ -11498,7 +11975,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "South Australia (SA)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.02467,
+        "reputational_concern_ratio": 0.000453,
+        "profitability_emissions_ratio": 6.58720368e-08
       },
       "search_record": {
         "url": "https://cdn.kelsian.com/volumes/uploads/Audio/07_Sustainability-Report-2024-25_29.09.25.pdf",
@@ -11571,7 +12051,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.027895,
+        "reputational_concern_ratio": 0.000797,
+        "profitability_emissions_ratio": 0.000240474137931
       },
       "search_record": {
         "url": "https://www.afgonline.com.au/wp-content/uploads/2024/09/FY24-Sustainability-report.pdf",
@@ -11641,7 +12124,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.078498,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 5.204885423e-07
       },
       "search_record": {
         "url": "https://www.aerisresources.com.au/wp-content/uploads/2024/10/Aeris_AR_2024_WEB.pdf",
@@ -11697,7 +12183,8 @@
         "rbics_industry": "Diverse Construction and Engineering Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.071414
       },
       "verification": {
         "status": "pending"
@@ -11724,7 +12211,8 @@
         "rbics_industry": "Asia/Pacific International Coal Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": -0.216035
       },
       "verification": {
         "status": "pending"
@@ -11763,7 +12251,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.012681,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 1.2681e-09
       },
       "search_record": {
         "url": "https://www.sevenwestmedia.com.au/assets/Uploads/Seven-West-Media-Sustainability-Report-2024.pdf",
@@ -11818,7 +12309,8 @@
         "rbics_industry": "Electronic Transaction Processing/Clearinghouses",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": -0.231733
       },
       "verification": {
         "status": "pending"
@@ -11846,7 +12338,8 @@
         "rbics_industry": "Asia/Pacific Gold Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.21284
       },
       "verification": {
         "status": "pending"
@@ -11873,7 +12366,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": -1.311088
       },
       "verification": {
         "status": "pending"
@@ -11901,7 +12395,8 @@
         "rbics_industry": "Asia/Pacific Air Passenger Service Providers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.075339
       },
       "verification": {
         "status": "pending"
@@ -11928,7 +12423,8 @@
         "rbics_industry": "Other Apparel Retail",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": -0.02575
       },
       "verification": {
         "status": "pending"
@@ -11969,7 +12465,9 @@
         "rbics_industry": "Electronic Transaction Processing/Clearinghouses",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.036686,
+        "profitability_emissions_ratio": 8.35671981777e-05
       },
       "verification": {
         "status": "pending"
@@ -11997,7 +12495,8 @@
         "rbics_industry": "Alternative Investment Managers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.368259
       },
       "verification": {
         "status": "pending"
@@ -12041,7 +12540,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 12
+        "net_zero_claims": 12,
+        "profitability_ratio": -0.096643,
+        "reputational_concern_ratio": 0.004537,
+        "profitability_emissions_ratio": -1.45448093e-08
       },
       "search_record": {
         "url": "https://nickelindustries.com/carbon/assets/0007e9/000006/2908872.pdf",
@@ -12095,7 +12597,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.565009
       },
       "verification": {
         "status": "pending"
@@ -12122,7 +12625,8 @@
         "rbics_industry": "Diamond Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": -0.21998
       },
       "verification": {
         "status": "pending"
@@ -12149,7 +12653,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.566989
       },
       "verification": {
         "status": "pending"
@@ -12188,7 +12693,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.748092
       },
       "verification": {
         "status": "pending"
@@ -12231,7 +12737,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.183728,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 8.86718146718e-05
       },
       "search_record": {
         "url": "https://investor.steadfast.com.au/FormBuilder/_Resource/_module/7zaApZtBC0S8RkpPzBXBxw/file/Steadfast_Group_Annual_Report_2025.pdf",
@@ -12302,7 +12811,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 2
+        "net_zero_claims": 2,
+        "profitability_ratio": 0.014242,
+        "reputational_concern_ratio": 0.001012,
+        "profitability_emissions_ratio": 5.160705874e-07
       },
       "search_record": {
         "url": "https://www.bapcor.com.au/Reports/2025_Bapcor_ESG_Report.pdf",
@@ -12377,7 +12889,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 8
+        "net_zero_claims": 8,
+        "profitability_ratio": 0.257737,
+        "reputational_concern_ratio": 0.006653,
+        "profitability_emissions_ratio": 7.331905282e-07
       },
       "search_record": {
         "url": "https://www.wisetechglobal.com/media/xywbubic/wtc-2024-annual-report-final.pdf",
@@ -12432,7 +12947,8 @@
         "rbics_industry": "Other Food Production",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.20538
       },
       "verification": {
         "status": "pending"
@@ -12459,7 +12975,8 @@
         "rbics_industry": "Other Motor Vehicle Sales",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.027726
       },
       "verification": {
         "status": "pending"
@@ -12486,7 +13003,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 1.121153
       },
       "verification": {
         "status": "pending"
@@ -12513,7 +13031,8 @@
         "rbics_industry": "Other Commercial Finance",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.089749
       },
       "verification": {
         "status": "pending"
@@ -12557,7 +13076,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 3
+        "net_zero_claims": 3,
+        "profitability_ratio": 0.031672,
+        "reputational_concern_ratio": 0.001435,
+        "profitability_emissions_ratio": 5.90895522e-08
       },
       "search_record": {
         "url": "https://www.ororagroup.com/investors/downloads/annual-reports/Orora_Annual_Report_2025.pdf",
@@ -12611,7 +13133,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.437045
       },
       "verification": {
         "status": "pending"
@@ -12658,7 +13181,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.601529,
+        "reputational_concern_ratio": 0.002548,
+        "profitability_emissions_ratio": 7.18329352759e-05
       },
       "search_record": {
         "url": "https://nationalstorageinvest.com.au/wp-content/uploads/2025/08/NSR-2025-Annual-Report.pdf",
@@ -12713,7 +13239,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.434177
       },
       "verification": {
         "status": "pending"
@@ -12757,7 +13284,8 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "reputational_concern_ratio": 0.0
       },
       "search_record": {
         "url": "https://pactgroup.com/wp-content/uploads/2024/11/Pact-Sustainability-Report-2024_V30-spreads.pdf",
@@ -12812,7 +13340,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "ACT (ACT)"
+        "company_state": "ACT (ACT)",
+        "profitability_ratio": 0.197677
       },
       "verification": {
         "status": "pending"
@@ -12839,7 +13368,8 @@
         "rbics_industry": "Automobile Dealers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.121546
       },
       "verification": {
         "status": "pending"
@@ -12868,7 +13398,8 @@
         "rbics_industry": "Other Marketing and Advertising Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.057544
       },
       "verification": {
         "status": "pending"
@@ -12914,7 +13445,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.088415,
+        "reputational_concern_ratio": 0.000565,
+        "profitability_emissions_ratio": 7.056884483e-07
       },
       "search_record": {
         "url": "https://www.championiron.com/wp-content/uploads/2025/06/ci2025-sustainabilityreport.pdf",
@@ -12970,7 +13504,8 @@
         "rbics_industry": "Personal Insurance",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.462007
       },
       "verification": {
         "status": "pending"
@@ -12998,7 +13533,8 @@
         "rbics_industry": "Specialized Ambulatory and Outpatient Patient Care",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.091969
       },
       "verification": {
         "status": "pending"
@@ -13045,7 +13581,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 11
+        "net_zero_claims": 11,
+        "profitability_ratio": 0.247183,
+        "reputational_concern_ratio": 0.035966,
+        "profitability_emissions_ratio": 0.0016589463087248
       },
       "search_record": {
         "url": "https://www.smartgroup.com.au/globalassets/smartgroup-corporate/foundation/smartgroup-sustainability-report-2024.pdf",
@@ -13100,7 +13639,8 @@
         "rbics_industry": "Administrative Employment Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.00421
       },
       "verification": {
         "status": "pending"
@@ -13144,7 +13684,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.042463,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 1.1371073561e-06
       },
       "search_record": {
         "url": "https://www.regis.com.au/site/wp-content/uploads/2025/08/Regis-Healthcare-Limited-FY25-Annual-Report.pdf",
@@ -13218,7 +13761,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.097423,
+        "reputational_concern_ratio": 0.001416,
+        "profitability_emissions_ratio": 0.0001703199300699
       },
       "search_record": {
         "url": "https://www.iphltd.com.au/wp-content/uploads/2025/08/2932588.pdf",
@@ -13272,7 +13818,8 @@
         "rbics_industry": "Home Builders",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.002102
       },
       "verification": {
         "status": "pending"
@@ -13299,7 +13846,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": -0.12819
       },
       "verification": {
         "status": "pending"
@@ -13326,7 +13874,8 @@
         "rbics_industry": "Jewelry Stores",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.108167
       },
       "verification": {
         "status": "pending"
@@ -13353,7 +13902,8 @@
         "rbics_industry": "Leasing Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.10225
       },
       "verification": {
         "status": "pending"
@@ -13393,7 +13943,9 @@
         "rbics_industry": "Telecommunications Carrier Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.002211,
+        "profitability_emissions_ratio": 3.202027516e-07
       },
       "verification": {
         "status": "pending"
@@ -13433,7 +13985,9 @@
         "rbics_industry": "Internet Furniture and Home Furnishings Retail",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.018814,
+        "profitability_emissions_ratio": 0.0009902105263158
       },
       "verification": {
         "status": "pending"
@@ -13474,7 +14028,9 @@
         "rbics_industry": "Electronic Transaction Processing/Clearinghouses",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.073902,
+        "profitability_emissions_ratio": 2.58398601399e-05
       },
       "verification": {
         "status": "pending"
@@ -13517,7 +14073,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 2
+        "net_zero_claims": 2,
+        "profitability_ratio": 0.018272,
+        "reputational_concern_ratio": 0.003832,
+        "profitability_emissions_ratio": 2.6596797671e-06
       },
       "search_record": {
         "url": "https://assets.contentstack.io/v3/assets/blt497a29fffbfff85f/blt11fc3fd83cfb430c/689e63c1b1f9813dfc8963f7/BBN_-_2025_Sustainability_Report_-_15_August_2025.pdf",
@@ -13573,7 +14132,8 @@
         "rbics_industry": "Other Ambulatory and Outpatient Diagnostic Care",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.00745
       },
       "verification": {
         "status": "pending"
@@ -13601,7 +14161,8 @@
         "rbics_industry": "Consumer Vehicle Powertrain and Chassis Makers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.075074
       },
       "verification": {
         "status": "pending"
@@ -13628,7 +14189,8 @@
         "rbics_industry": "Industrial Specialty Engineering Contractors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.022452
       },
       "verification": {
         "status": "pending"
@@ -13657,7 +14219,8 @@
         "rbics_industry": "Other Marketing and Advertising Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.048692
       },
       "verification": {
         "status": "pending"
@@ -13684,7 +14247,8 @@
         "rbics_industry": "Building Materials Distribution",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": -0.036421
       },
       "verification": {
         "status": "pending"
@@ -13710,7 +14274,8 @@
         "rbics_industry": "Life and Health Insurance",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.014936
       },
       "verification": {
         "status": "pending"
@@ -13738,7 +14303,8 @@
         "rbics_industry": "-",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": -0.080879
       },
       "verification": {
         "status": "pending"
@@ -13778,7 +14344,9 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.79697,
+        "profitability_emissions_ratio": 0.2656566666666667
       },
       "verification": {
         "status": "pending"
@@ -13821,7 +14389,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 14
+        "net_zero_claims": 14,
+        "profitability_ratio": 0.003261,
+        "reputational_concern_ratio": 0.021751,
+        "profitability_emissions_ratio": 1.3497516556e-06
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/mhj/35c0d5c5-974b-11f0-8027-1e05b5c2f523.pdf",
@@ -13877,7 +14448,8 @@
         "rbics_industry": "Network Infrastructure Software",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": -0.306533
       },
       "verification": {
         "status": "pending"
@@ -13930,7 +14502,8 @@
         "rbics_industry": "Automobile Dealers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.011471
       },
       "verification": {
         "status": "pending"
@@ -13986,7 +14559,8 @@
         "rbics_industry": "Infrastructure Construction",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.036066
       },
       "verification": {
         "status": "pending"
@@ -14014,7 +14588,8 @@
         "rbics_industry": "Institutional and High-Net Advisory Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.03456
       },
       "verification": {
         "status": "pending"
@@ -14042,7 +14617,8 @@
         "rbics_industry": "Other Mortgage Banking Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.062528
       },
       "verification": {
         "status": "pending"
@@ -14070,7 +14646,9 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.063737,
+        "reputational_concern_ratio": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/TLX-AU_Appendix_4E_and_2023_Annual_Report.pdf",
@@ -14106,7 +14684,8 @@
         "rbics_industry": "Automotive Parts, Accessories and Tires Sales",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": -0.081313
       },
       "verification": {
         "status": "pending"
@@ -14134,7 +14713,8 @@
         "rbics_industry": "Administrative Employment Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": -0.011625
       },
       "verification": {
         "status": "pending"
@@ -14161,7 +14741,8 @@
         "rbics_industry": "Asphalt, Cement and Concrete Products",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.052673
       },
       "verification": {
         "status": "pending"
@@ -14188,7 +14769,8 @@
         "rbics_industry": "General Consumer Finance Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.027439
       },
       "verification": {
         "status": "pending"
@@ -14234,7 +14816,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 23
+        "net_zero_claims": 23,
+        "profitability_ratio": -0.002531,
+        "reputational_concern_ratio": 0.000763,
+        "profitability_emissions_ratio": -1.9481474e-09
       },
       "search_record": {
         "url": "https://www.vivaenergy.com.au/ArticleDocuments/1317/Viva%20Energy%20SR%202023.pdf",
@@ -14288,7 +14873,8 @@
         "rbics_industry": "Diversified Loan Services",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.080335
       },
       "verification": {
         "status": "pending"
@@ -14315,7 +14901,8 @@
         "rbics_industry": "Mortgage REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.840737
       },
       "verification": {
         "status": "pending"
@@ -14343,7 +14930,8 @@
         "rbics_industry": "Asia/Pacific International Coal Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": -0.043418
       },
       "verification": {
         "status": "pending"
@@ -14389,7 +14977,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 3
+        "net_zero_claims": 3,
+        "profitability_ratio": 0.035331,
+        "reputational_concern_ratio": 0.000249,
+        "profitability_emissions_ratio": 9.90776755e-08
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/edv/3bfa9d39-813e-11f0-8bd2-22fe330236a6.pdf",
@@ -14446,7 +15037,8 @@
         "rbics_industry": "Process Plants, Utilities and Energy Construction",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.06552
       },
       "verification": {
         "status": "pending"
@@ -14478,7 +15070,9 @@
         "rbics_industry": "Alternative Investment Managers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.591091,
+        "profitability_emissions_ratio": 9.6652985807e-06
       },
       "verification": {
         "status": "pending"
@@ -14506,7 +15100,8 @@
         "rbics_industry": "-",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 1.068629
       },
       "verification": {
         "status": "pending"
@@ -14538,7 +15133,9 @@
         "rbics_industry": "Personal Loans",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": -0.320257,
+        "profitability_emissions_ratio": -0.08006425
       },
       "verification": {
         "status": "pending"
@@ -14585,7 +15182,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 2
+        "net_zero_claims": 2,
+        "profitability_ratio": -0.019384,
+        "reputational_concern_ratio": 0.000362,
+        "profitability_emissions_ratio": -8.47202797e-08
       },
       "search_record": {
         "url": "https://dq06ugkuram52.cloudfront.net/files/19822325/49211390.pdf",
@@ -14640,7 +15240,8 @@
         "rbics_industry": "Personal Loans",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.09544
       },
       "verification": {
         "status": "pending"
@@ -14667,7 +15268,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.684441
       },
       "verification": {
         "status": "pending"
@@ -14695,7 +15297,8 @@
         "rbics_industry": "Infrastructure Construction",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.039836
       },
       "verification": {
         "status": "pending"
@@ -14723,7 +15326,8 @@
         "rbics_industry": "Process Plants, Utilities and Energy Construction",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.04708
       },
       "verification": {
         "status": "pending"
@@ -14766,7 +15370,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 2
+        "net_zero_claims": 2,
+        "profitability_ratio": 0.06983,
+        "reputational_concern_ratio": 0.001941,
+        "profitability_emissions_ratio": 1.4853022504e-06
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n3y5blvvxvh1.pdf",
@@ -14832,7 +15439,9 @@
         "rbics_industry": "Water Transportation",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.106712,
+        "profitability_emissions_ratio": 0.0014420540540541
       },
       "verification": {
         "status": "pending"
@@ -14859,7 +15468,8 @@
         "rbics_industry": "Mixed Apparel and Accessories Retail",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": -0.003565
       },
       "verification": {
         "status": "pending"
@@ -14895,7 +15505,9 @@
         "rbics_industry": "Automobile Dealers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.004874,
+        "profitability_emissions_ratio": 3.44014681e-07
       },
       "verification": {
         "status": "pending"
@@ -14923,7 +15535,8 @@
         "rbics_industry": "Clinical Laboratory Patient Diagnostics",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.044054
       },
       "verification": {
         "status": "pending"
@@ -14950,7 +15563,8 @@
         "rbics_industry": "Diversified Specialty/Performance Chemicals Makers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": -0.057988
       },
       "verification": {
         "status": "pending"
@@ -14982,7 +15596,9 @@
         "rbics_industry": "Non-Ferrous Metal Ore Mining",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": -0.318426,
+        "profitability_emissions_ratio": -2.2055480519e-06
       },
       "verification": {
         "status": "pending"
@@ -15009,7 +15625,8 @@
         "rbics_industry": "Water Transportation",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.013327
       },
       "verification": {
         "status": "pending"
@@ -15055,7 +15672,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
-        "net_zero_claims": 7
+        "net_zero_claims": 7,
+        "profitability_ratio": -0.193287,
+        "reputational_concern_ratio": 0.017783,
+        "profitability_emissions_ratio": -0.000966435
       },
       "search_record": {
         "url": "https://www.pexa-group.com/staticly-media/2025/08/PXA_Appendix_4E_PEXA_Group_FY25_Annual_Report-sm-1756422205.pdf",
@@ -15111,7 +15731,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": -1.443902
       },
       "verification": {
         "status": "pending"
@@ -15158,7 +15779,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 1
+        "net_zero_claims": 1,
+        "profitability_ratio": 0.270745,
+        "reputational_concern_ratio": 0.002017,
+        "profitability_emissions_ratio": 7.66963014e-08
       },
       "search_record": {
         "url": "https://www.gruppoiren.it/content/dam/iren/documents/en/investors/integrated-annual-report-2024/Integrated%20annual%20report%202024.pdf",
@@ -15233,7 +15857,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
-        "net_zero_claims": 12
+        "net_zero_claims": 12,
+        "profitability_ratio": 0.098063,
+        "reputational_concern_ratio": 0.00322,
+        "profitability_emissions_ratio": 4.82995208e-08
       },
       "search_record": {
         "url": "https://www.thelotterycorporation.com/content/dam/projects/tlc/documents/TLC_Sustainability-Report-2025.pdf",
@@ -15289,7 +15916,8 @@
         "rbics_industry": "Alternative Investment Managers",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 0.261616
       },
       "verification": {
         "status": "pending"
@@ -15333,7 +15961,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "profitability_ratio": 0.033203,
+        "reputational_concern_ratio": 0.0,
+        "profitability_emissions_ratio": 2.0310129679e-06
       },
       "search_record": {
         "url": "https://www.guzmanygomez.com.au/wp-content/uploads/2025/08/Guzman-y-Gomez-2025-Annual-Report.pdf",
@@ -15401,7 +16032,9 @@
         "rbics_industry": "Other Farming",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": -0.009365,
+        "profitability_emissions_ratio": -1.828458745e-07
       },
       "verification": {
         "status": "pending"
@@ -15428,7 +16061,8 @@
         "rbics_industry": "Australia and New Zealand Banks",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.089128
       },
       "verification": {
         "status": "pending"
@@ -15455,7 +16089,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": 1.169002
       },
       "verification": {
         "status": "pending"
@@ -15483,7 +16118,8 @@
         "rbics_industry": "Infrastructure Construction",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Victoria (VIC)"
+        "company_state": "Victoria (VIC)",
+        "profitability_ratio": 0.039384
       },
       "verification": {
         "status": "pending"
@@ -15511,7 +16147,8 @@
         "rbics_industry": "Specialty Engineering Contractors",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Western Australia (WA)"
+        "company_state": "Western Australia (WA)",
+        "profitability_ratio": 0.096858
       },
       "verification": {
         "status": "pending"
@@ -15553,7 +16190,10 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 6
+        "net_zero_claims": 6,
+        "profitability_ratio": 0.052476,
+        "reputational_concern_ratio": 0.007402,
+        "profitability_emissions_ratio": 7.1279543602e-06
       },
       "search_record": {
         "url": "https://civmec.com.au/wp-content/uploads/2025/09/Civmec-Ltd-Annual-Report-2025_digital.pdf",
@@ -15608,7 +16248,8 @@
         "rbics_industry": "Equity REITs",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "New South Wales (NSW)"
+        "company_state": "New South Wales (NSW)",
+        "profitability_ratio": -0.596137
       },
       "verification": {
         "status": "pending"
@@ -15636,7 +16277,8 @@
         "rbics_industry": "-",
         "company_country": "Australia",
         "company_region": "Pacific",
-        "company_state": "Queensland (QLD)"
+        "company_state": "Queensland (QLD)",
+        "profitability_ratio": 0.20785
       },
       "verification": {
         "status": "pending"

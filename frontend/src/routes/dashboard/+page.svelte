@@ -22,6 +22,9 @@
 		assets?: number | null;
 		employees?: number | null;
 		net_zero_mentions?: number | null;
+		profitability_ratio?: number | null;
+		reputational_concern_ratio?: number | null;
+		profitability_emissions_ratio?: number | null;
 		industry?: string | null;
 		company?: string | null;
 		revenue_mm?: number | null;
@@ -63,6 +66,9 @@
 			scope1_vs_assets?: ScatterPoint[];
 			scope1_vs_employees?: ScatterPoint[];
 			scope1_vs_net_zero_mentions?: ScatterPoint[];
+			scope1_vs_profitability_ratio?: ScatterPoint[];
+			scope1_vs_reputational_concern_ratio?: ScatterPoint[];
+			pe_vs_reputational_concern?: ScatterPoint[];
 		};
 		group_matrix?: {
 			rows: GroupMatrixRow[];
@@ -94,6 +100,8 @@
 		key: keyof NonNullable<MetricsResponse['scatter']>;
 		valueKey: keyof ScatterPoint;
 		axisLabel: string;
+		xKey?: keyof ScatterPoint;
+		xAxisLabel?: string;
 	};
 
 	const chartTabs: ScatterConfig[] = [
@@ -138,6 +146,29 @@
 			key: 'scope1_vs_net_zero_mentions',
 			valueKey: 'net_zero_mentions',
 			axisLabel: 'Net zero mentions (count)'
+		},
+		{
+			id: 'profitability_ratio',
+			label: 'Scope 1 + 2 vs Profitability',
+			key: 'scope1_vs_profitability_ratio',
+			valueKey: 'profitability_ratio',
+			axisLabel: 'Net income / revenue'
+		},
+		{
+			id: 'reputational_concern_ratio',
+			label: 'Scope 1 + 2 vs Reputational Concern',
+			key: 'scope1_vs_reputational_concern_ratio',
+			valueKey: 'reputational_concern_ratio',
+			axisLabel: 'Net zero mentions / revenue'
+		},
+		{
+			id: 'pe_vs_reputation',
+			label: 'P/E vs Reputational Concern',
+			key: 'pe_vs_reputational_concern',
+			valueKey: 'profitability_emissions_ratio',
+			xKey: 'reputational_concern_ratio',
+			axisLabel: 'P/E (Profitability / Emissions)',
+			xAxisLabel: 'Reputational Concern (mentions/revenue)'
 		}
 	];
 
@@ -168,7 +199,13 @@
 		};
 	}
 
-	function buildScatter(dataset: ScatterPoint[], yKey: keyof ScatterPoint, yLabel: string) {
+	function buildScatter(
+		dataset: ScatterPoint[],
+		yKey: keyof ScatterPoint,
+		yLabel: string,
+		xKey: keyof ScatterPoint = 'scope_1',
+		xLabel: string = 'Scope 1 + 2'
+	) {
 		const groups = new Map<string, ScatterPoint[]>();
 		for (const point of dataset) {
 			const industry = (point.industry ?? 'Unknown').toString();
@@ -179,13 +216,13 @@
 			name: industry,
 			type: 'scatter',
 			mode: 'markers',
-			x: points.map((p) => Number(p.scope_1 ?? 0)),
+			x: points.map((p) => Number(p[xKey] ?? 0)),
 			y: points.map((p) => Number(p[yKey] ?? 0)),
 			text: points.map(
 				(p) =>
-					`${p.company ?? 'Unknown'}<br>Scope 1 + 2: ${formatNumber(p.scope_1 ?? null)}<br>${yLabel}: ${formatNumber(
-						(p as any)[yKey] ?? null
-					)}`
+					`${p.company ?? 'Unknown'}<br>${xLabel}: ${formatNumber(
+						(p as any)[xKey] ?? null
+					)}<br>${yLabel}: ${formatNumber((p as any)[yKey] ?? null)}`
 			),
 			marker: {
 				size: 9,
@@ -195,12 +232,17 @@
 		}));
 	}
 
-	function scatterLayout(title: string, yLabel: string, logScale: boolean = false) {
+	function scatterLayout(
+		title: string,
+		yLabel: string,
+		xLabel: string = 'Scope 1 + 2 (kgCO₂e)',
+		logScale: boolean = false
+	) {
 		return {
 			title,
 			margin: { t: 50, r: 30, b: 60, l: 70 },
 			xaxis: {
-				title: 'Scope 1 + 2 (kgCO₂e)',
+				title: xLabel,
 				hoverformat: ',.0f',
 				type: logScale ? 'log' : 'linear'
 			},
@@ -220,8 +262,19 @@
 		(acc, tab) => {
 			const dataset = (metrics.scatter?.[tab.key] as ScatterPoint[] | undefined) ?? [];
 			acc[tab.id] = {
-				data: buildScatter(dataset, tab.valueKey, tab.axisLabel),
-				layout: scatterLayout(tab.label, tab.axisLabel, useLogScale)
+				data: buildScatter(
+					dataset,
+					tab.valueKey,
+					tab.axisLabel,
+					tab.xKey,
+					tab.xAxisLabel
+				),
+				layout: scatterLayout(
+					tab.label,
+					tab.axisLabel,
+					tab.xAxisLabel,
+					useLogScale
+				)
 			};
 			return acc;
 		},

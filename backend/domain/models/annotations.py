@@ -56,6 +56,9 @@ class Annotations(BaseModel):
     profitability_total_assets_mm_aud: Optional[float] = Field(
         default=None, description="Total assets in AUD millions."
     )
+    profitability_ratio: Optional[float] = Field(
+        default=None, description="Net income divided by revenue (unitless)."
+    )
     size_employee_count: Optional[int] = Field(
         default=None, description="Employee headcount from external dataset."
     )
@@ -87,6 +90,14 @@ class Annotations(BaseModel):
     net_zero_claims: Optional[int] = Field(
         default=None,
         description="Count of 'net zero' phrase occurrences found in the company's PDF document.",
+    )
+    reputational_concern_ratio: Optional[float] = Field(
+        default=None,
+        description="Net zero mentions per AUD million of revenue.",
+    )
+    profitability_emissions_ratio: Optional[float] = Field(
+        default=None,
+        description="Profitability ratio divided by scope 1+2 emissions.",
     )
 
     @model_validator(mode="before")

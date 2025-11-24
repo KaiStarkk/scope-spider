@@ -33,6 +33,9 @@ def companies_to_dataframe(companies: Sequence[Company]) -> pd.DataFrame:
         rbics_group = annotations.rbics_industry_group
         rbics_industry = annotations.rbics_industry
         analysis_method = company.analysis_record.method if company.analysis_record else None
+        profitability_ratio = annotations.profitability_ratio
+        reputational_ratio = annotations.reputational_concern_ratio
+        profitability_emissions_ratio = annotations.profitability_emissions_ratio
 
         rows.append(
             {
@@ -49,9 +52,18 @@ def companies_to_dataframe(companies: Sequence[Company]) -> pd.DataFrame:
                 "net_income_mm": float(net_income) if net_income is not None else None,
                 "ebitda_mm": float(ebitda) if ebitda is not None else None,
                 "assets_mm": float(assets) if assets is not None else None,
+                "profitability_ratio": float(profitability_ratio)
+                if profitability_ratio is not None
+                else None,
+                "profitability_emissions_ratio": float(profitability_emissions_ratio)
+                if profitability_emissions_ratio is not None
+                else None,
                 "employees": int(employees) if employees is not None else None,
                 "net_zero_mentions": int(annotations.net_zero_claims)
                 if annotations.net_zero_claims is not None
+                else None,
+                "reputational_concern_ratio": float(reputational_ratio)
+                if reputational_ratio is not None
                 else None,
                 "reporting_group": reporting_group,
                 "company_country": country,
@@ -266,43 +278,37 @@ def build_dashboard_metrics(
         return response
 
     # Prepare scatter datasets
-    def scatter(metric_column: str, metric_label: str) -> List[Dict[str, Any]]:
-        columns = ["scope_1", "scope_2", "anzsic_division", "name"]
-        if metric_column not in columns:
-            columns.append(metric_column)
-        if "revenue_mm" not in columns:
-            columns.append("revenue_mm")
-        missing = [col for col in columns if col not in filtered.columns]
+    def scatter(
+        y_col: str, y_alias: str, x_col: str = "scope_1_total", x_alias: str = "scope_1"
+    ) -> List[Dict[str, Any]]:
+        cols = list(set(["anzsic_division", "name", "revenue_mm", x_col, y_col]))
+        missing = [c for c in cols if c not in filtered.columns]
         if missing:
             return []
-        frame = filtered[columns].copy()
-        frame["scope_1"] = pd.to_numeric(frame["scope_1"], errors="coerce")
-        frame["scope_2"] = pd.to_numeric(frame["scope_2"], errors="coerce")
-        combined = frame["scope_1"].fillna(0) + frame["scope_2"].fillna(0)
-        valid_scope = frame["scope_1"].notna() | frame["scope_2"].notna()
-        frame = frame[valid_scope].copy()
-        frame["scope_1"] = combined[valid_scope]
-        frame = frame.drop(columns=["scope_2"])
-        frame = frame.dropna(subset=["scope_1", metric_column])
-        frame[metric_column] = pd.to_numeric(frame[metric_column], errors="coerce")
-        if "revenue_mm" in frame.columns:
-            frame["revenue_mm"] = pd.to_numeric(frame["revenue_mm"], errors="coerce")
-        else:
-            frame["revenue_mm"] = frame[metric_column]
-        frame["revenue_mm"] = frame["revenue_mm"].fillna(1.0)
+
+        frame = filtered[cols].copy()
+        frame[x_col] = pd.to_numeric(frame[x_col], errors="coerce")
+        frame[y_col] = pd.to_numeric(frame[y_col], errors="coerce")
+        frame["revenue_mm"] = (
+            pd.to_numeric(frame["revenue_mm"], errors="coerce").fillna(1.0)
+        )
+
+        frame = frame.dropna(subset=[x_col, y_col])
         if frame.empty:
             return []
+
         frame = frame.where(pd.notnull(frame), None)
-        rename_dict = {
-            "scope_1": "scope_1",
-            metric_column: metric_label,
+        rename_map = {
+            x_col: x_alias,
+            y_col: y_alias,
             "anzsic_division": "industry",
             "name": "company",
         }
-        # Only include revenue_mm in rename if it's not the metric_column being renamed
-        if "revenue_mm" in frame.columns and metric_column != "revenue_mm":
-            rename_dict["revenue_mm"] = "revenue_mm"
-        return frame.rename(columns=rename_dict).to_dict(orient="records")
+        # Avoid conflict if revenue_mm is one of the axes
+        if "revenue_mm" not in [x_alias, y_alias]:
+            rename_map["revenue_mm"] = "revenue_mm"
+
+        return frame.rename(columns=rename_map).to_dict(orient="records")
 
     scatter_payload = {
         "scope1_vs_net_income": scatter("net_income_mm", "net_income"),
@@ -311,6 +317,16 @@ def build_dashboard_metrics(
         "scope1_vs_assets": scatter("assets_mm", "assets"),
         "scope1_vs_employees": scatter("employees", "employees"),
         "scope1_vs_net_zero_mentions": scatter("net_zero_mentions", "net_zero_mentions"),
+        "scope1_vs_profitability_ratio": scatter("profitability_ratio", "profitability_ratio"),
+        "scope1_vs_reputational_concern_ratio": scatter(
+            "reputational_concern_ratio", "reputational_concern_ratio"
+        ),
+        "pe_vs_reputational_concern": scatter(
+            y_col="profitability_emissions_ratio",
+            y_alias="profitability_emissions_ratio",
+            x_col="reputational_concern_ratio",
+            x_alias="reputational_concern_ratio",
+        ),
     }
 
     averages = (
@@ -397,6 +413,9 @@ def build_dashboard_metrics(
         "assets_mm",
         "employees",
         "net_zero_mentions",
+        "profitability_ratio",
+        "reputational_concern_ratio",
+        "profitability_emissions_ratio",
         "reporting_group",
         "company_state",
         "company_region",
