@@ -36,6 +36,8 @@ def companies_to_dataframe(companies: Sequence[Company]) -> pd.DataFrame:
         profitability_ratio = annotations.profitability_ratio
         reputational_ratio = annotations.reputational_concern_ratio
         profitability_emissions_ratio = annotations.profitability_emissions_ratio
+        ebitda_emissions_ratio = annotations.ebitda_emissions_ratio
+        net_zero_mentions_per_page = annotations.net_zero_mentions_per_page
 
         rows.append(
             {
@@ -57,6 +59,12 @@ def companies_to_dataframe(companies: Sequence[Company]) -> pd.DataFrame:
                 else None,
                 "profitability_emissions_ratio": float(profitability_emissions_ratio)
                 if profitability_emissions_ratio is not None
+                else None,
+                "ebitda_emissions_ratio": float(ebitda_emissions_ratio)
+                if ebitda_emissions_ratio is not None
+                else None,
+                "net_zero_mentions_per_page": float(net_zero_mentions_per_page)
+                if net_zero_mentions_per_page is not None
                 else None,
                 "employees": int(employees) if employees is not None else None,
                 "net_zero_mentions": int(annotations.net_zero_claims)
@@ -327,6 +335,18 @@ def build_dashboard_metrics(
             x_col="reputational_concern_ratio",
             x_alias="reputational_concern_ratio",
         ),
+        "ebitda_per_emissions_vs_mentions_per_page": scatter(
+            y_col="ebitda_emissions_ratio",
+            y_alias="ebitda_emissions_ratio",
+            x_col="net_zero_mentions_per_page",
+            x_alias="net_zero_mentions_per_page",
+        ),
+        "ebitda_per_emissions_vs_total_mentions": scatter(
+            y_col="ebitda_emissions_ratio",
+            y_alias="ebitda_emissions_ratio",
+            x_col="net_zero_mentions",
+            x_alias="net_zero_mentions",
+        ),
     }
 
     averages = (
@@ -416,6 +436,8 @@ def build_dashboard_metrics(
         "profitability_ratio",
         "reputational_concern_ratio",
         "profitability_emissions_ratio",
+        "ebitda_emissions_ratio",
+        "net_zero_mentions_per_page",
         "reporting_group",
         "company_state",
         "company_region",

@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { browser } from '$app/environment';
 	import { onMount } from 'svelte';
-import type { PageData } from './$types';
+	import type { PageData } from './$types';
 
 	type VerificationPayload = {
 		key: string;
@@ -9,7 +9,6 @@ import type { PageData } from './$types';
 		verification: {
 			status?: string;
 			verified_at?: string | null;
-			notes?: string | null;
 			overrides?: {
 				scope_1?: number | null;
 				scope_2?: number | null;
@@ -46,17 +45,12 @@ import type { PageData } from './$types';
 	let currentKey: string | null = data.initialKey;
 	let company: VerificationPayload | null = (data.initialCompany as VerificationPayload | null) ?? null;
 	let message = '';
-	let notes = '';
 	let loading = false;
-	let replacementUrl = '';
 	let overrideScope1 = '';
 	let overrideScope2 = '';
 	let overrideScope3 = '';
-	let uploadError = '';
-	let uploadContents: string | null = null;
-	let uploadFilename: string | null = null;
-let availableMethods: string[] = (data.methodOptions as string[] | undefined) ?? [];
-let selectedMethods: string[] = availableMethods.length > 0 ? [...availableMethods] : [];
+	let availableMethods: string[] = (data.methodOptions as string[] | undefined) ?? [];
+	let selectedMethods: string[] = availableMethods.length > 0 ? [...availableMethods] : [];
 
 	async function fetchNext(options: { skip?: boolean } = {}) {
 		const params = new URLSearchParams();
@@ -66,9 +60,9 @@ let selectedMethods: string[] = availableMethods.length > 0 ? [...availableMetho
 		if (options.skip) {
 			params.set('skip_current', 'true');
 		}
-	for (const method of selectedMethods) {
-		if (method) params.append('methods', method);
-	}
+		for (const method of selectedMethods) {
+			if (method) params.append('methods', method);
+		}
 		const res = await fetch(`/api/verification/next?${params.toString()}`);
 		if (!res.ok) {
 			throw new Error('Failed to load next company.');
@@ -88,144 +82,57 @@ let selectedMethods: string[] = availableMethods.length > 0 ? [...availableMetho
 			throw new Error('Failed to load verification target.');
 		}
 		company = (await detailRes.json()) as VerificationPayload;
-		notes = company?.verification?.notes ?? '';
-		overrideScope1 = company?.verification?.overrides?.scope_1?.toString() ?? '';
-		overrideScope2 = company?.verification?.overrides?.scope_2?.toString() ?? '';
-		overrideScope3 = company?.verification?.overrides?.scope_3?.toString() ?? '';
-		replacementUrl = '';
-		uploadContents = null;
-		uploadFilename = null;
-		uploadError = '';
+		// Prepopulate with current emission values (fall back to saved overrides if set)
+		overrideScope1 =
+			(company?.verification?.overrides?.scope_1 ?? company?.emissions?.scope_1)?.toString() ?? '';
+		overrideScope2 =
+			(company?.verification?.overrides?.scope_2 ?? company?.emissions?.scope_2)?.toString() ?? '';
+		// Scope 3: empty string means "unavailable" (null); only show value if present
+		overrideScope3 =
+			(company?.verification?.overrides?.scope_3 ?? company?.emissions?.scope_3)?.toString() ?? '';
 	}
 
-	async function acceptCompany() {
-		if (!currentKey) return;
-		loading = true;
-		try {
-		const query = new URLSearchParams();
-		for (const method of selectedMethods) {
-			if (method) query.append('methods', method);
-		}
-		const suffix = query.toString() ? `?${query.toString()}` : '';
-			const res = await fetch(
-			`/api/verification/${encodeURIComponent(currentKey)}/accept${suffix}`,
-				{
-					method: 'POST',
-					headers: { 'Content-Type': 'application/json' },
-					body: JSON.stringify({ notes })
-				}
-			);
-			if (!res.ok) {
-				const detail = await res.json().catch(() => ({}));
-				throw new Error(detail.detail ?? 'Failed to accept verification.');
-			}
-			const payload = (await res.json()) as {
-				message?: string;
-				next_key?: string | null;
-			};
-			message = payload.message ?? 'Verification accepted.';
-			notes = '';
-			await loadCompany(payload.next_key ?? null);
-		} catch (err) {
-			if (err instanceof Error) {
-				message = err.message;
-			} else {
-				message = 'Unexpected error while accepting verification.';
-			}
-		} finally {
-			loading = false;
-		}
-	}
-
-	async function rejectCompany() {
-		if (!currentKey) return;
-		loading = true;
-		try {
-			const payload: Record<string, unknown> = {
-				notes: notes || null,
-				replacement_url: replacementUrl || null
-			};
-			if (uploadContents) {
-				payload.upload_contents = uploadContents;
-				payload.upload_filename = uploadFilename;
-			}
-		const query = new URLSearchParams();
-		for (const method of selectedMethods) {
-			if (method) query.append('methods', method);
-		}
-		const suffix = query.toString() ? `?${query.toString()}` : '';
-			const res = await fetch(
-			`/api/verification/${encodeURIComponent(currentKey)}/reject${suffix}`,
-				{
-					method: 'POST',
-					headers: { 'Content-Type': 'application/json' },
-					body: JSON.stringify(payload)
-				}
-			);
-			if (!res.ok) {
-				const detail = await res.json().catch(() => ({}));
-				throw new Error(detail.detail ?? 'Failed to reject verification.');
-			}
-			const response = (await res.json()) as { message?: string; next_key?: string | null };
-			message = response.message ?? 'Verification rejected.';
-			notes = '';
-			replacementUrl = '';
-			uploadContents = null;
-			uploadFilename = null;
-			await loadCompany(response.next_key ?? null);
-		} catch (err) {
-			message = err instanceof Error ? err.message : 'Unexpected error while rejecting verification.';
-		} finally {
-			loading = false;
-		}
-	}
-
-	async function saveOverride() {
+	async function saveCompany() {
 		if (!currentKey) return;
 		const scope1 = Number(overrideScope1);
 		const scope2 = Number(overrideScope2);
 		const scope3 = overrideScope3.trim() ? Number(overrideScope3) : null;
 		if (!Number.isFinite(scope1) || !Number.isFinite(scope2)) {
-			message = 'Provide numeric values for Scope 1 and Scope 2 overrides.';
+			message = 'Provide numeric values for Scope 1 and Scope 2.';
 			return;
 		}
 		if (scope3 !== null && !Number.isFinite(scope3)) {
-			message = 'Scope 3 override must be numeric if provided.';
+			message = 'Scope 3 must be numeric if provided.';
 			return;
 		}
 		loading = true;
 		try {
-		const query = new URLSearchParams();
-		for (const method of selectedMethods) {
-			if (method) query.append('methods', method);
-		}
-		const suffix = query.toString() ? `?${query.toString()}` : '';
+			const query = new URLSearchParams();
+			for (const method of selectedMethods) {
+				if (method) query.append('methods', method);
+			}
+			const suffix = query.toString() ? `?${query.toString()}` : '';
 			const res = await fetch(
-			`/api/verification/${encodeURIComponent(currentKey)}/override${suffix}`,
+				`/api/verification/${encodeURIComponent(currentKey)}/override${suffix}`,
 				{
 					method: 'POST',
 					headers: { 'Content-Type': 'application/json' },
 					body: JSON.stringify({
 						scope_1: scope1,
 						scope_2: scope2,
-						scope_3: scope3,
-						notes: notes || null
+						scope_3: scope3
 					})
 				}
 			);
 			if (!res.ok) {
 				const detail = await res.json().catch(() => ({}));
-				throw new Error(detail.detail ?? 'Failed to save manual override.');
+				throw new Error(detail.detail ?? 'Failed to save.');
 			}
 			const response = (await res.json()) as { message?: string; next_key?: string | null };
-			message = response.message ?? 'Manual corrections saved.';
-			notes = '';
-			overrideScope1 = '';
-			overrideScope2 = '';
-			overrideScope3 = '';
+			message = response.message ?? 'Saved and verified.';
 			await loadCompany(response.next_key ?? null);
 		} catch (err) {
-			message = err instanceof Error ? err.message : 'Unexpected error while saving manual override.';
+			message = err instanceof Error ? err.message : 'Unexpected error while saving.';
 		} finally {
 			loading = false;
 		}
@@ -235,13 +142,9 @@ let selectedMethods: string[] = availableMethods.length > 0 ? [...availableMetho
 		loading = true;
 		try {
 			await fetchNext({ skip: true });
-			message = 'Skipped current company.';
+			message = 'Skipped to next company.';
 		} catch (err) {
-			if (err instanceof Error) {
-				message = err.message;
-			} else {
-				message = 'Unexpected error while skipping company.';
-			}
+			message = err instanceof Error ? err.message : 'Unexpected error while skipping.';
 		} finally {
 			loading = false;
 		}
@@ -261,52 +164,18 @@ let selectedMethods: string[] = availableMethods.length > 0 ? [...availableMetho
 		return value.toLocaleString();
 	}
 
-	async function handleFileChange(event: Event) {
-		const target = event.currentTarget as HTMLInputElement;
-		const file = target.files?.[0];
-		uploadContents = null;
-		uploadFilename = null;
-		uploadError = '';
-		if (!file) {
-			return;
-		}
-		if (file.type !== 'application/pdf') {
-			uploadError = 'Only PDF files are supported.';
-			return;
-		}
-		try {
-		await new Promise<void>((resolve, reject) => {
-			const reader = new FileReader();
-			reader.onerror = () => reject(reader.error ?? new Error('Failed to read uploaded file.'));
-			reader.onload = () => {
-				const result = reader.result;
-				if (typeof result === 'string') {
-					uploadContents = result;
-					uploadFilename = file.name;
-					resolve();
-				} else {
-					reject(new Error('Unexpected file reader result.'));
-				}
-			};
-			reader.readAsDataURL(file);
-		});
-		} catch (err) {
-			uploadError = err instanceof Error ? err.message : 'Failed to read uploaded file.';
-		}
+	function updateMethodSelection(event: Event) {
+		const target = event.currentTarget as HTMLSelectElement;
+		selectedMethods = Array.from(target.selectedOptions).map((option) => option.value);
+		fetchNext();
 	}
-
-function updateMethodSelection(event: Event) {
-	const target = event.currentTarget as HTMLSelectElement;
-	selectedMethods = Array.from(target.selectedOptions).map((option) => option.value);
-	fetchNext();
-}
 </script>
 
 <section class="mx-auto max-w-7xl space-y-6 px-6 py-8">
 	<header class="space-y-2">
 		<h1 class="text-3xl font-semibold text-slate-900">Verification</h1>
 		<p class="text-sm text-slate-600">
-			Review extracted emissions values, attach notes, and progress the verification queue.
+			Review and verify extracted emissions values. Save to confirm values and mark as verified.
 		</p>
 	</header>
 
@@ -365,19 +234,19 @@ function updateMethodSelection(event: Event) {
 
 				<div class="grid gap-4 md:grid-cols-3">
 					<div>
-						<h3 class="text-xs font-semibold uppercase tracking-wide text-slate-500">Scope 1</h3>
+						<h3 class="text-xs font-semibold uppercase tracking-wide text-slate-500">Current Scope 1</h3>
 						<p class="text-lg font-semibold text-slate-900">
 							{formatValue(company.emissions.scope_1)}
 						</p>
 					</div>
 					<div>
-						<h3 class="text-xs font-semibold uppercase tracking-wide text-slate-500">Scope 2</h3>
+						<h3 class="text-xs font-semibold uppercase tracking-wide text-slate-500">Current Scope 2</h3>
 						<p class="text-lg font-semibold text-slate-900">
 							{formatValue(company.emissions.scope_2)}
 						</p>
 					</div>
 					<div>
-						<h3 class="text-xs font-semibold uppercase tracking-wide text-slate-500">Scope 3</h3>
+						<h3 class="text-xs font-semibold uppercase tracking-wide text-slate-500">Current Scope 3</h3>
 						<p class="text-lg font-semibold text-slate-900">
 							{formatValue(company.emissions.scope_3)}
 						</p>
@@ -437,71 +306,10 @@ function updateMethodSelection(event: Event) {
 			</section>
 
 			<section class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm space-y-4">
-				<label class="block space-y-2">
-					<span class="text-sm font-medium text-slate-700">Reviewer notes</span>
-					<textarea
-						class="input min-h-[120px]"
-						rows="4"
-						bind:value={notes}
-						placeholder="Document any rationale or follow-up actions..."
-					/>
-				</label>
-
-				<div class="flex flex-wrap gap-3">
-					<button
-						class="rounded-lg bg-emerald-600 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-emerald-700 disabled:cursor-not-allowed disabled:opacity-60"
-						disabled={loading}
-						onclick={acceptCompany}
-					>
-						Accept
-					</button>
-					<button
-						class="rounded-lg bg-red-600 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-red-700 disabled:cursor-not-allowed disabled:opacity-60"
-						disabled={loading}
-						onclick={rejectCompany}
-					>
-						Reject
-					</button>
-					<button
-						class="rounded-lg border border-slate-300 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:bg-slate-100 disabled:cursor-not-allowed disabled:opacity-60"
-						disabled={loading}
-						onclick={skipCompany}
-					>
-						Skip
-					</button>
-				</div>
-			</section>
-
-			<section class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm space-y-4">
-				<h3 class="text-lg font-semibold text-slate-900">Replacement document</h3>
+				<h3 class="text-lg font-semibold text-slate-900">Verify emissions</h3>
 				<p class="text-sm text-slate-500">
-					Provide a new PDF URL or upload a replacement document before rejecting an extraction.
-				</p>
-				<label class="space-y-2 text-sm text-slate-600">
-					<span class="font-semibold text-slate-700">Replacement PDF URL</span>
-					<input
-						class="input"
-						type="url"
-						placeholder="https://example.com/report.pdf"
-						bind:value={replacementUrl}
-					/>
-				</label>
-				<label class="space-y-2 text-sm text-slate-600">
-					<span class="font-semibold text-slate-700">Upload PDF</span>
-					<input class="input" type="file" accept="application/pdf" onchange={handleFileChange} />
-					{#if uploadFilename}
-						<p class="text-xs text-slate-500">Selected: {uploadFilename}</p>
-					{/if}
-					{#if uploadError}
-						<p class="text-xs text-error-500">{uploadError}</p>
-					{/if}
-				</label>
-			</section>
-
-			<section class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm space-y-4">
-				<h3 class="text-lg font-semibold text-slate-900">Manual overrides</h3>
-				<p class="text-sm text-slate-500">
-					Update the extracted values when verified manually. Scope 1 and Scope 2 are required.
+					Confirm or adjust the extracted values. Saving marks this company as verified.
+					Leave Scope 3 empty if unavailable.
 				</p>
 				<div class="grid gap-4 md:grid-cols-3">
 					<label class="space-y-2 text-sm text-slate-600">
@@ -514,16 +322,23 @@ function updateMethodSelection(event: Event) {
 					</label>
 					<label class="space-y-2 text-sm text-slate-600">
 						<span class="font-semibold text-slate-700">Scope 3 (kgCO₂e)</span>
-						<input class="input" type="number" min="0" bind:value={overrideScope3} />
+						<input class="input" type="number" min="0" bind:value={overrideScope3} placeholder="Optional" />
 					</label>
 				</div>
-				<div>
+				<div class="flex gap-3 pt-2">
 					<button
-						class="rounded-lg bg-slate-900 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-slate-800 disabled:cursor-not-allowed disabled:opacity-60"
+						class="rounded-lg bg-emerald-600 px-6 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-emerald-700 disabled:cursor-not-allowed disabled:opacity-60"
 						disabled={loading}
-						onclick={saveOverride}
+						onclick={saveCompany}
 					>
-						Save manual override
+						Save
+					</button>
+					<button
+						class="rounded-lg border border-slate-300 px-6 py-2.5 text-sm font-semibold text-slate-700 transition hover:bg-slate-100 disabled:cursor-not-allowed disabled:opacity-60"
+						disabled={loading}
+						onclick={skipCompany}
+					>
+						Skip
 					</button>
 				</div>
 			</section>

@@ -99,6 +99,14 @@ class Annotations(BaseModel):
         default=None,
         description="Profitability ratio divided by scope 1+2 emissions.",
     )
+    ebitda_emissions_ratio: Optional[float] = Field(
+        default=None,
+        description="EBITDA (in dollars) divided by scope 1+2 emissions.",
+    )
+    net_zero_mentions_per_page: Optional[float] = Field(
+        default=None,
+        description="Net zero mentions divided by total PDF pages.",
+    )
 
     @model_validator(mode="before")
     @classmethod

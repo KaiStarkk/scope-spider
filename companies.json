@@ -43,7 +43,9 @@
         "net_zero_claims": 8,
         "profitability_ratio": 0.255488,
         "reputational_concern_ratio": 0.000377,
-        "profitability_emissions_ratio": 2.17307136e-08
+        "profitability_emissions_ratio": 2.17307136e-08,
+        "ebitda_emissions_ratio": 1320.712317480148,
+        "net_zero_mentions_per_page": 0.5
       },
       "search_record": {
         "url": "https://www.woodside.com/docs/default-source/investor-documents/major-reports-(static-pdfs)/2024-annual-report/climate-update-2024.pdf",
@@ -121,7 +123,9 @@
         "net_zero_claims": 98,
         "profitability_ratio": 0.175939,
         "reputational_concern_ratio": 0.001238,
-        "profitability_emissions_ratio": 2.02228736e-08
+        "profitability_emissions_ratio": 2.02228736e-08,
+        "ebitda_emissions_ratio": 4393.909850597219,
+        "net_zero_mentions_per_page": 0.415254
       },
       "search_record": {
         "url": "https://www.bhp.com/-/media/documents/investors/annual-reports/2025/250819_bhpannualreport2025.pdf",
@@ -193,7 +197,9 @@
         "net_zero_claims": 23,
         "profitability_ratio": -0.202147,
         "reputational_concern_ratio": 0.005143,
-        "profitability_emissions_ratio": -2.291835548e-07
+        "profitability_emissions_ratio": -2.291835548e-07,
+        "ebitda_emissions_ratio": 971.62118248536,
+        "net_zero_mentions_per_page": 0.110577
       },
       "search_record": {
         "url": "https://cdn.sanity.io/files/o6ep64o3/production/0f550073bb6a15cad3d31f948198b3cbd92b9028.pdf",
@@ -262,7 +268,9 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "ebitda_emissions_ratio": -593.196892780922,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.ltresources.com.au/wp-content/uploads/2025/09/61285793.pdf",
@@ -333,7 +341,9 @@
         "net_zero_claims": 8,
         "profitability_ratio": 0.111283,
         "reputational_concern_ratio": 0.001372,
-        "profitability_emissions_ratio": 4.99250785e-08
+        "profitability_emissions_ratio": 4.99250785e-08,
+        "ebitda_emissions_ratio": 605.652762063768,
+        "net_zero_mentions_per_page": 0.117647
       },
       "search_record": {
         "url": "https://whitehavencoal.com.au/wp-content/uploads/2025/09/WHC_SR2025_FINAL2_WEB.pdf",
@@ -410,7 +420,9 @@
         "net_zero_claims": 24,
         "profitability_ratio": 0.0642,
         "reputational_concern_ratio": 0.000527,
-        "profitability_emissions_ratio": 6.25365283e-08
+        "profitability_emissions_ratio": 6.25365283e-08,
+        "ebitda_emissions_ratio": 5513.345022337268,
+        "net_zero_mentions_per_page": 1.5
       },
       "search_record": {
         "url": "https://www.wesfarmershealth.com.au/wp-content/uploads/2025/09/Wesfarmers-Annual-Report-TCFD-climate-disclosures-2025.pdf",
@@ -483,7 +495,9 @@
         "net_zero_claims": 30,
         "profitability_ratio": 0.068563,
         "reputational_concern_ratio": 0.001282,
-        "profitability_emissions_ratio": 5.6210556e-09
+        "profitability_emissions_ratio": 5.6210556e-09,
+        "ebitda_emissions_ratio": 332.280360664493,
+        "net_zero_mentions_per_page": 0.227273
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/QAN-AU_2025_Sustainability_Report.pdf",
@@ -539,7 +553,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.027575,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 3.458634357e-07
+        "profitability_emissions_ratio": 3.458634357e-07,
+        "ebitda_emissions_ratio": 4628.235903806454,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://mirvac-cdn-web.azureedge.net/-/media/project/mirvac/corporate/main-site/corporate-theme/images/sustainability/pdfs/2025/mirvac_climate-resilience-update-fy25_final.pdf",
@@ -611,7 +627,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.197642,
         "reputational_concern_ratio": 0.000854,
-        "profitability_emissions_ratio": 4.268725702e-07
+        "profitability_emissions_ratio": 4.268725702e-07,
+        "ebitda_emissions_ratio": 1090.06478410786,
+        "net_zero_mentions_per_page": 0.03125
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/ILU-AU_2025_iluka-sustainability-data-book.pdf",
@@ -665,7 +683,9 @@
         "net_zero_claims": 20,
         "profitability_ratio": 0.001349,
         "reputational_concern_ratio": 0.001124,
-        "profitability_emissions_ratio": 6.1898906e-09
+        "profitability_emissions_ratio": 6.1898906e-09,
+        "ebitda_emissions_ratio": 9747.815844942643,
+        "net_zero_mentions_per_page": 0.357143
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/RHC-AU_Ramsay%202025%20sustainability%20report.pdf",
@@ -717,7 +737,9 @@
         "net_zero_claims": 22,
         "profitability_ratio": 0.038883,
         "reputational_concern_ratio": 0.010218,
-        "profitability_emissions_ratio": 5.1124118e-09
+        "profitability_emissions_ratio": 5.1124118e-09,
+        "ebitda_emissions_ratio": 18.11741979966,
+        "net_zero_mentions_per_page": 0.14966
       },
       "search_record": {
         "url": "https://www.monadelphous.com.au/media/5878381/251020-2025-annual-report.pdf",
@@ -789,7 +811,9 @@
         "net_zero_claims": 14,
         "profitability_ratio": 0.004554,
         "reputational_concern_ratio": 0.000859,
-        "profitability_emissions_ratio": 4.464706e-10
+        "profitability_emissions_ratio": 4.464706e-10,
+        "ebitda_emissions_ratio": 127.921567873809,
+        "net_zero_mentions_per_page": 0.388889
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/BSL-AU_FY2025_BlueScope_Sustainability_Report.pdf",
@@ -847,7 +871,9 @@
         "net_zero_claims": 8,
         "profitability_ratio": 0.217039,
         "reputational_concern_ratio": 0.000333,
-        "profitability_emissions_ratio": 6.86832278e-08
+        "profitability_emissions_ratio": 6.86832278e-08,
+        "ebitda_emissions_ratio": 3732.200353487722,
+        "net_zero_mentions_per_page": 0.031008
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/fmg/f8f3f9a4-8200-11f0-8bd2-22fe330236a6.pdf",
@@ -925,7 +951,9 @@
         "net_zero_claims": 26,
         "profitability_ratio": 0.036446,
         "reputational_concern_ratio": 0.002317,
-        "profitability_emissions_ratio": 1.1753361927e-06
+        "profitability_emissions_ratio": 1.1753361927e-06,
+        "ebitda_emissions_ratio": 30765.26150429501,
+        "net_zero_mentions_per_page": 0.048507
       },
       "search_record": {
         "url": "https://www.worley.com/-/media/files/worley/sustainability/2025/wor-cdp-report-2025.pdf",
@@ -1002,7 +1030,9 @@
         "net_zero_claims": 17,
         "profitability_ratio": 0.755282,
         "reputational_concern_ratio": 0.012781,
-        "profitability_emissions_ratio": 6.6451578845e-06
+        "profitability_emissions_ratio": 6.6451578845e-06,
+        "ebitda_emissions_ratio": 8649.557066848714,
+        "net_zero_mentions_per_page": 0.111842
       },
       "search_record": {
         "url": "https://www.vicinity.com.au/assets/sb/f/129601/x/218db7b71b/2025-annual-report.pdf",
@@ -1080,7 +1110,9 @@
         "net_zero_claims": 22,
         "profitability_ratio": 0.003374,
         "reputational_concern_ratio": 0.021834,
-        "profitability_emissions_ratio": 4.399530578e-07
+        "profitability_emissions_ratio": 4.399530578e-07,
+        "ebitda_emissions_ratio": 22506.194014427954,
+        "net_zero_mentions_per_page": 0.103774
       },
       "search_record": {
         "url": "https://www.dexus.com/content/dam/dexus/documents/investing/sustainability-reports/2025/2025%20Dexus%20Annual%20Report%201.pdf",
@@ -1158,7 +1190,9 @@
         "net_zero_claims": 2,
         "profitability_ratio": 0.165082,
         "reputational_concern_ratio": 0.000849,
-        "profitability_emissions_ratio": 5.63227567383e-05
+        "profitability_emissions_ratio": 5.63227567383e-05,
+        "ebitda_emissions_ratio": 204571.81783424562,
+        "net_zero_mentions_per_page": 0.010638
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250815/pdf/06mwwc8bndj71z.pdf",
@@ -1232,7 +1266,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.102733,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 0.0006941418918919
+        "profitability_emissions_ratio": 0.0006941418918919,
+        "ebitda_emissions_ratio": 587682.4265308338,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/CWP-AU_250825-CWP-ESG-Report-2025_WEB.pdf",
@@ -1271,7 +1307,8 @@
         "company_state": "New South Wales (NSW)",
         "net_zero_claims": 1,
         "profitability_ratio": 0.191518,
-        "reputational_concern_ratio": 0.002316
+        "reputational_concern_ratio": 0.002316,
+        "net_zero_mentions_per_page": 0.020408
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/CNI-AU_Sustainability-report_2025-v12.pdf",
@@ -1329,7 +1366,9 @@
         "net_zero_claims": 64,
         "profitability_ratio": 0.328293,
         "reputational_concern_ratio": 0.09305,
-        "profitability_emissions_ratio": 2.6331058157e-06
+        "profitability_emissions_ratio": 2.6331058157e-06,
+        "ebitda_emissions_ratio": 3547.510047618974,
+        "net_zero_mentions_per_page": 0.927536
       },
       "search_record": {
         "url": "https://www.charterhall.com.au/docs/librariesprovider2/corporate-documents/sustainability-docs/2025-sustainability-report.pdf",
@@ -1406,7 +1445,8 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.398089,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 2.1481051797e-06
+        "profitability_emissions_ratio": 2.1481051797e-06,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://assets.ctfassets.net/0vreywxqlgab/3krRUFoThZKUZuo7ppZ33J/38033fdf5d0f03f1f9f2c7414e7d3da9/SCG_2024_Responsible_Business_Limited_Assurance_Statement.pdf",
@@ -1483,7 +1523,9 @@
         "net_zero_claims": 15,
         "profitability_ratio": 0.055017,
         "reputational_concern_ratio": 0.001681,
-        "profitability_emissions_ratio": 2.2274089e-09
+        "profitability_emissions_ratio": 2.2274089e-09,
+        "ebitda_emissions_ratio": 76.641835153383,
+        "net_zero_mentions_per_page": 0.054348
       },
       "search_record": {
         "url": "https://www.south32.net/docs/default-source/annual-reporting-suite/2025/annual-report-2025.pdf",
@@ -1542,7 +1584,8 @@
         "company_state": "New South Wales (NSW)",
         "net_zero_claims": 0,
         "profitability_ratio": 0.02229,
-        "reputational_concern_ratio": 0.0
+        "reputational_concern_ratio": 0.0,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/SHA-AU_SHAPE-FY25-Annual-Report.pdf",
@@ -1597,7 +1640,8 @@
         "net_zero_claims": 24,
         "profitability_ratio": 0.111941,
         "reputational_concern_ratio": 0.00075,
-        "profitability_emissions_ratio": 0.0002322427385892
+        "profitability_emissions_ratio": 0.0002322427385892,
+        "net_zero_mentions_per_page": 0.96
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/MQG-AU_macquarie-group-fy25-sustainability-report.pdf",
@@ -1639,7 +1683,8 @@
         "anzsic_confidence": 0.8,
         "anzsic_context": "CDC is likely involved in transport services, which aligns with the Transport, Postal and Warehousing division.",
         "anzsic_source": "gpt-4o-mini",
-        "net_zero_claims": 13
+        "net_zero_claims": 13,
+        "net_zero_mentions_per_page": 0.52
       },
       "search_record": {
         "url": "https://cdc.com/media/y0nbxbdf/cdc-sustainability-report-2024.pdf",
@@ -1715,7 +1760,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.028488,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 1.542618574e-07
+        "profitability_emissions_ratio": 1.542618574e-07,
+        "ebitda_emissions_ratio": 2116.81138749527,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://inghams.com.au/wp-content/uploads/2025/10/FY25-Inghams_GHG-water-and-waste-metrics_Assurance-Statement_Final-1.pdf",
@@ -1787,7 +1834,9 @@
         "net_zero_claims": 6,
         "profitability_ratio": 0.093924,
         "reputational_concern_ratio": 0.000259,
-        "profitability_emissions_ratio": 1.276517669e-07
+        "profitability_emissions_ratio": 1.276517669e-07,
+        "ebitda_emissions_ratio": 11631.146688762272,
+        "net_zero_mentions_per_page": 0.028302
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/TLS-AU_telstra-annual-report-2025.pdf",
@@ -1841,7 +1890,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.028898,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 1.218553658e-06
+        "profitability_emissions_ratio": 1.218553658e-06,
+        "ebitda_emissions_ratio": 2825.215698387071,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/LLC-AU_lendlease-fy25-esg-databook.pdf",
@@ -1898,7 +1949,9 @@
         "net_zero_claims": 13,
         "profitability_ratio": -0.141718,
         "reputational_concern_ratio": 0.03043,
-        "profitability_emissions_ratio": -3.86916934e-07
+        "profitability_emissions_ratio": -3.86916934e-07,
+        "ebitda_emissions_ratio": 558.525689359547,
+        "net_zero_mentions_per_page": 0.295455
       },
       "search_record": {
         "url": "https://nextdc.com/hubfs/ASX%20Announcements/FY25%20Environmental%2C%20Social%20and%20Governance%20Report.pdf",
@@ -1976,7 +2029,9 @@
         "net_zero_claims": 8,
         "profitability_ratio": 0.034565,
         "reputational_concern_ratio": 0.002293,
-        "profitability_emissions_ratio": 6.9505328775e-06
+        "profitability_emissions_ratio": 6.9505328775e-06,
+        "ebitda_emissions_ratio": 123162.27499472431,
+        "net_zero_mentions_per_page": 0.235294
       },
       "search_record": {
         "url": "https://www.perenti.com/wp-content/uploads/sites/13/2025/09/SD-REPORT-2025_FRONT-SECTION.pdf",
@@ -2035,7 +2090,8 @@
         "company_state": "New South Wales (NSW)",
         "net_zero_claims": 0,
         "profitability_ratio": 0.116451,
-        "reputational_concern_ratio": 0.0
+        "reputational_concern_ratio": 0.0,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/NCK-AU_2025annual.pdf",
@@ -2090,7 +2146,9 @@
         "net_zero_claims": 4,
         "profitability_ratio": 0.223602,
         "reputational_concern_ratio": 0.000482,
-        "profitability_emissions_ratio": 4.26721374e-08
+        "profitability_emissions_ratio": 4.26721374e-08,
+        "ebitda_emissions_ratio": 1022.770295177895,
+        "net_zero_mentions_per_page": 0.065574
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/STO-AU_Santos_Sustainability_Data_Book_2024.pdf",
@@ -2148,7 +2206,9 @@
         "net_zero_claims": 15,
         "profitability_ratio": 0.164198,
         "reputational_concern_ratio": 0.012742,
-        "profitability_emissions_ratio": 1.2828369637e-06
+        "profitability_emissions_ratio": 1.2828369637e-06,
+        "ebitda_emissions_ratio": 6187.664323520204,
+        "net_zero_mentions_per_page": 0.263158
       },
       "search_record": {
         "url": "https://www.karoonenergy.com.au/wp-content/uploads/2024-Sustainability-Report.pdf",
@@ -2255,7 +2315,9 @@
         "net_zero_claims": 20,
         "profitability_ratio": 0.078668,
         "reputational_concern_ratio": 0.010927,
-        "profitability_emissions_ratio": 2.349203126e-07
+        "profitability_emissions_ratio": 2.349203126e-07,
+        "ebitda_emissions_ratio": 2479.286974360554,
+        "net_zero_mentions_per_page": 0.183486
       },
       "search_record": {
         "url": "https://www.sandfire.com.au/wp-content/uploads/2025/08/Sandfire-AR2025.pdf",
@@ -2314,7 +2376,8 @@
         "company_state": "Victoria (VIC)",
         "net_zero_claims": 0,
         "profitability_ratio": 0.068269,
-        "reputational_concern_ratio": 0.0
+        "reputational_concern_ratio": 0.0,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/SSG-AU_.pdf",
@@ -2366,7 +2429,9 @@
         "net_zero_claims": 13,
         "profitability_ratio": 0.013942,
         "reputational_concern_ratio": 0.000188,
-        "profitability_emissions_ratio": 1.266303361e-07
+        "profitability_emissions_ratio": 1.266303361e-07,
+        "ebitda_emissions_ratio": 49357.3935817208,
+        "net_zero_mentions_per_page": 0.309524
       },
       "search_record": {
         "url": "https://www.woolworthsgroup.com.au/content/dam/wwg/sustainability/reports/2025_WG_Sustainability_Report_Interactive_SPREADS.pdf",
@@ -2444,7 +2509,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": -0.041379,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": -3.04257352941e-05
+        "profitability_emissions_ratio": -3.04257352941e-05,
+        "ebitda_emissions_ratio": 233161.75705241837,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.perpetual.com.au/4a6d72/globalassets/_au-site-media/01-documents/04-group/03-sustainability/2025/fy25-perpetual-sustainability-report.pdf",
@@ -2546,7 +2613,8 @@
         "net_zero_claims": 22,
         "profitability_ratio": 0.107459,
         "reputational_concern_ratio": 0.000348,
-        "profitability_emissions_ratio": 1.28554851059e-05
+        "profitability_emissions_ratio": 1.28554851059e-05,
+        "net_zero_mentions_per_page": 0.258824
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/NAB-AU_2025-climate-report.pdf",
@@ -2601,7 +2669,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.050716,
         "reputational_concern_ratio": 0.000323,
-        "profitability_emissions_ratio": 2.225322943e-07
+        "profitability_emissions_ratio": 2.225322943e-07,
+        "ebitda_emissions_ratio": 2378.763467370608,
+        "net_zero_mentions_per_page": 0.017857
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/ANN-AU_Sustainability%20Report%202025.pdf",
@@ -2643,7 +2713,8 @@
         "company_state": "Western Australia (WA)",
         "net_zero_claims": 0,
         "profitability_ratio": 0.49463,
-        "reputational_concern_ratio": 0.0
+        "reputational_concern_ratio": 0.0,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/ATP-AU_ESGGlossy_15May2024.pdf",
@@ -2702,7 +2773,9 @@
         "net_zero_claims": 10,
         "profitability_ratio": 0.086517,
         "reputational_concern_ratio": 0.000584,
-        "profitability_emissions_ratio": 5.1132979e-09
+        "profitability_emissions_ratio": 5.1132979e-09,
+        "ebitda_emissions_ratio": 120.212765733488,
+        "net_zero_mentions_per_page": 0.3125
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250814/pdf/06mvl9r7gnxr8z.pdf",
@@ -2779,7 +2852,9 @@
         "net_zero_claims": 15,
         "profitability_ratio": 0.017011,
         "reputational_concern_ratio": 0.006972,
-        "profitability_emissions_ratio": 1.1650571879e-06
+        "profitability_emissions_ratio": 1.1650571879e-06,
+        "ebitda_emissions_ratio": 24395.588452039858,
+        "net_zero_mentions_per_page": 0.148515
       },
       "search_record": {
         "url": "https://www.tabcorp.com.au/-/media/tabcorp/files/sustainability-reports/2025-sustainability-report.pdf",
@@ -2854,7 +2929,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.194556,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 6.802657343e-07
+        "profitability_emissions_ratio": 6.802657343e-07,
+        "ebitda_emissions_ratio": 27253.713826306153,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.csl.com/-/media/shared/documents/annual-report/csl-annual-report-2025.pdf",
@@ -2927,7 +3004,9 @@
         "net_zero_claims": 2,
         "profitability_ratio": 0.153499,
         "reputational_concern_ratio": 0.002966,
-        "profitability_emissions_ratio": 6.08639968279e-05
+        "profitability_emissions_ratio": 6.08639968279e-05,
+        "ebitda_emissions_ratio": 73076.92837425377,
+        "net_zero_mentions_per_page": 0.142857
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/CDA-AU_CODAN-ESG-GRI-2024-WEB.pdf",
@@ -2968,7 +3047,8 @@
         "company_state": "New South Wales (NSW)",
         "net_zero_claims": 0,
         "profitability_ratio": 6.361565,
-        "reputational_concern_ratio": 0.0
+        "reputational_concern_ratio": 0.0,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/OBL-AU_2025annual.pdf",
@@ -3021,7 +3101,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.000526,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 1.168889e-10
+        "profitability_emissions_ratio": 1.168889e-10,
+        "ebitda_emissions_ratio": 12.20777785286,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/MOZ-AU_0-2024-Sustainability-Performance-Summary.pdf",
@@ -3080,7 +3162,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.208842,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 1.6005978e-08
+        "profitability_emissions_ratio": 1.6005978e-08,
+        "ebitda_emissions_ratio": 267.356441541039,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.nsrltd.com/media/hy1k312h/fy25-reasonable-and-limited-assurance-statement.pdf",
@@ -3139,7 +3223,8 @@
         "company_state": "New South Wales (NSW)",
         "net_zero_claims": 0,
         "profitability_ratio": -0.039964,
-        "reputational_concern_ratio": 0.0
+        "reputational_concern_ratio": 0.0,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/EGG-AU_Enero-FY23-Annual-Report-Released.pdf",
@@ -3226,7 +3311,9 @@
         "net_zero_claims": 17,
         "profitability_ratio": 0.247841,
         "reputational_concern_ratio": 0.032808,
-        "profitability_emissions_ratio": 1.74979525558e-05
+        "profitability_emissions_ratio": 1.74979525558e-05,
+        "ebitda_emissions_ratio": 9549.56252921491,
+        "net_zero_mentions_per_page": 0.146552
       },
       "search_record": {
         "url": "https://www.ingeniacommunities.com.au/wp-content/uploads/2025/01/2024-Sustainability-Report.pdf",
@@ -3301,7 +3388,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.17799,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 0.0002094
+        "profitability_emissions_ratio": 0.0002094,
+        "ebitda_emissions_ratio": 259617.6496248812,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://cms.mmsg.com.au/sites/default/files/2025-10/FY25%20Sustainability%20Report%202025%20FINAL_0.pdf",
@@ -3399,7 +3488,8 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
         "profitability_ratio": 0.29715,
-        "profitability_emissions_ratio": 1.0891237896e-06
+        "profitability_emissions_ratio": 1.0891237896e-06,
+        "ebitda_emissions_ratio": 4072.16351441173
       },
       "verification": {
         "status": "pending"
@@ -3471,7 +3561,8 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
         "profitability_ratio": 0.217229,
-        "profitability_emissions_ratio": 0.000145595844504
+        "profitability_emissions_ratio": 0.000145595844504,
+        "ebitda_emissions_ratio": 273123.32627679553
       },
       "verification": {
         "status": "pending"
@@ -3521,7 +3612,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.04141,
         "reputational_concern_ratio": 0.000264,
-        "profitability_emissions_ratio": 3.69073084e-08
+        "profitability_emissions_ratio": 3.69073084e-08,
+        "ebitda_emissions_ratio": 686.720146265648,
+        "net_zero_mentions_per_page": 0.034483
       },
       "search_record": {
         "url": "https://cleanaway2stor.blob.core.windows.net/cleanaway2-blob-container/2025/09/CWY_SR25_Interactive_SPREADS.pdf",
@@ -3627,7 +3720,9 @@
         "net_zero_claims": 7,
         "profitability_ratio": 0.270024,
         "reputational_concern_ratio": 0.013246,
-        "profitability_emissions_ratio": 1.654153394e-07
+        "profitability_emissions_ratio": 1.654153394e-07,
+        "ebitda_emissions_ratio": 183.020703299902,
+        "net_zero_mentions_per_page": 0.125
       },
       "search_record": {
         "url": "https://www.goldfields.com/pdf/investors/integrated-annual-reports/2024/gold-fields-ccr-report-2024.pdf",
@@ -3726,7 +3821,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.059406,
-        "profitability_emissions_ratio": 0.0002041443298969
+        "profitability_emissions_ratio": 0.0002041443298969,
+        "ebitda_emissions_ratio": 1293127.140794543
       },
       "verification": {
         "status": "pending"
@@ -3800,7 +3896,9 @@
         "company_country": "Australia",
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
-        "net_zero_claims": 0
+        "net_zero_claims": 0,
+        "ebitda_emissions_ratio": -4283.787769724347,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.bciminerals.com.au/images/files/annual-report/BCI_Minerals_Annual_Report_2025_DIGITAL_SPREADS_FINAL.pdf",
@@ -3876,7 +3974,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.240368,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 1.3641770715e-06
+        "profitability_emissions_ratio": 1.3641770715e-06,
+        "ebitda_emissions_ratio": 2579.460819654171,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://wp-genesis-2024.s3.ap-southeast-2.amazonaws.com/media/2025/08/21083633/Sustainability-Report-2025-FINAL.pdf",
@@ -3945,7 +4045,8 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
         "profitability_ratio": 0.035881,
-        "profitability_emissions_ratio": 6.375670777e-07
+        "profitability_emissions_ratio": 6.375670777e-07,
+        "ebitda_emissions_ratio": 2110.878112738868
       },
       "verification": {
         "status": "pending"
@@ -3994,7 +4095,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": -3.924229,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": -1.781796676e-07
+        "profitability_emissions_ratio": -1.781796676e-07,
+        "ebitda_emissions_ratio": -5.264951433507,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.datocms-assets.com/65260/1745891084-q1-2025-quarterly-sustainability-update.pdf",
@@ -4067,7 +4170,8 @@
         "net_zero_claims": 3,
         "profitability_ratio": 0.054866,
         "reputational_concern_ratio": 0.000842,
-        "profitability_emissions_ratio": 0.0002625167464115
+        "profitability_emissions_ratio": 0.0002625167464115,
+        "net_zero_mentions_per_page": 0.066667
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/nhf/be7d14b9-632f-11ef-beba-3ea1a61ffeaf.pdf",
@@ -4138,7 +4242,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.06667,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 6.6490475716e-06
+        "profitability_emissions_ratio": 6.6490475716e-06,
+        "ebitda_emissions_ratio": 26094.44450687833,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://g8education.edu.au/wp-content/uploads/2025/02/fy24-annual-report-final.pdf",
@@ -4211,7 +4317,9 @@
         "net_zero_claims": 2,
         "profitability_ratio": 0.005814,
         "reputational_concern_ratio": 0.001316,
-        "profitability_emissions_ratio": 7.73446854e-08
+        "profitability_emissions_ratio": 7.73446854e-08,
+        "ebitda_emissions_ratio": 3146.126523895769,
+        "net_zero_mentions_per_page": 0.033333
       },
       "search_record": {
         "url": "https://www.collinsfoods.com/wp-content/uploads/2025/06/Collins-Foods-Sustainability-Report-2025.pdf",
@@ -4371,7 +4479,9 @@
         "net_zero_claims": 10,
         "profitability_ratio": 0.067189,
         "reputational_concern_ratio": 0.003733,
-        "profitability_emissions_ratio": 5.75741216795e-05
+        "profitability_emissions_ratio": 5.75741216795e-05,
+        "ebitda_emissions_ratio": 120822.62624672924,
+        "net_zero_mentions_per_page": 0.172414
       },
       "search_record": {
         "url": "https://www.amp.com.au/content/dam/corporate/shareholdercentre/files/reports/2025/250213_AMP_SR24_final_A4.pdf",
@@ -4435,7 +4545,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.013054,
-        "profitability_emissions_ratio": 4.32035638e-08
+        "profitability_emissions_ratio": 4.32035638e-08,
+        "ebitda_emissions_ratio": 2183.014449906017
       },
       "verification": {
         "status": "pending"
@@ -4484,7 +4595,8 @@
         "net_zero_claims": 2,
         "profitability_ratio": 0.092593,
         "reputational_concern_ratio": 0.000119,
-        "profitability_emissions_ratio": 4.71691288844e-05
+        "profitability_emissions_ratio": 4.71691288844e-05,
+        "net_zero_mentions_per_page": 0.090909
       },
       "search_record": {
         "url": "https://www.suncorpgroup.com.au/uploads/FY25-SUN-Climate-related-Disclsoure-Report-Final.pdf",
@@ -4625,7 +4737,9 @@
         "net_zero_claims": 19,
         "profitability_ratio": 0.263813,
         "reputational_concern_ratio": 0.006068,
-        "profitability_emissions_ratio": 7.6967265725e-06
+        "profitability_emissions_ratio": 7.6967265725e-06,
+        "ebitda_emissions_ratio": 22552.22336361218,
+        "net_zero_mentions_per_page": 0.099476
       },
       "search_record": {
         "url": "https://links.sgx.com/1.0.0/corporate-announcements/1A9X79FT9X8NW90U/856446_Stockland%20FY25%20Annual%20Report.pdf",
@@ -4753,7 +4867,8 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
         "profitability_ratio": 0.068461,
-        "profitability_emissions_ratio": 5.27841172e-08
+        "profitability_emissions_ratio": 5.27841172e-08,
+        "ebitda_emissions_ratio": 905.628373064487
       },
       "verification": {
         "status": "pending"
@@ -4803,7 +4918,9 @@
         "net_zero_claims": 40,
         "profitability_ratio": 0.039329,
         "reputational_concern_ratio": 0.014368,
-        "profitability_emissions_ratio": 1.2337348642e-06
+        "profitability_emissions_ratio": 1.2337348642e-06,
+        "ebitda_emissions_ratio": 11468.316682047149,
+        "net_zero_mentions_per_page": 0.487805
       },
       "search_record": {
         "url": "https://www.fcmtravel.com/sites/default/files/2024-08/Flight-Centre-Travel-Group-Sustainability-Report.pdf",
@@ -4874,7 +4991,8 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
         "profitability_ratio": 0.033739,
-        "profitability_emissions_ratio": 9.223598239e-07
+        "profitability_emissions_ratio": 9.223598239e-07,
+        "ebitda_emissions_ratio": 59077.6129177982
       },
       "verification": {
         "status": "pending"
@@ -4946,7 +5064,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.653156,
-        "profitability_emissions_ratio": 2.42196677544e-05
+        "profitability_emissions_ratio": 2.42196677544e-05,
+        "ebitda_emissions_ratio": -3589.439285364803
       },
       "verification": {
         "status": "pending"
@@ -4997,7 +5116,9 @@
         "net_zero_claims": 13,
         "profitability_ratio": 0.293558,
         "reputational_concern_ratio": 0.007593,
-        "profitability_emissions_ratio": 0.000146779
+        "profitability_emissions_ratio": 0.000146779,
+        "ebitda_emissions_ratio": 639299.9976406549,
+        "net_zero_mentions_per_page": 0.080745
       },
       "search_record": {
         "url": "https://www.asx.com.au/content/dam/asx/annual-reports/asx-2025-annual-report.pdf",
@@ -5067,7 +5188,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.054095,
-        "profitability_emissions_ratio": 6.118305717e-07
+        "profitability_emissions_ratio": 6.118305717e-07,
+        "ebitda_emissions_ratio": 18050.04810649075
       },
       "verification": {
         "status": "pending"
@@ -5146,7 +5268,9 @@
         "net_zero_claims": 14,
         "profitability_ratio": 0.197389,
         "reputational_concern_ratio": 0.002958,
-        "profitability_emissions_ratio": 9.98932186235e-05
+        "profitability_emissions_ratio": 9.98932186235e-05,
+        "ebitda_emissions_ratio": 929837.060604251,
+        "net_zero_mentions_per_page": 0.56
       },
       "search_record": {
         "url": "https://content-assets.computershare.com/eh96rkuu9740/6yPsID4hlPz2JQYVXImDSS/082ba3e038dd1015c7ae16d50c238c1d/CPU_-_Sustainability_Report_-_FY25.pdf",
@@ -5222,7 +5346,9 @@
         "net_zero_claims": 3,
         "profitability_ratio": 0.0353,
         "reputational_concern_ratio": 0.000334,
-        "profitability_emissions_ratio": 5.354813264e-07
+        "profitability_emissions_ratio": 5.354813264e-07,
+        "ebitda_emissions_ratio": 13615.014613837382,
+        "net_zero_mentions_per_page": 0.083333
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/reh/83e6f033-91b0-11ef-81f6-d6aa1427518f.pdf",
@@ -5295,7 +5421,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.103657,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 7.4842599278e-05
+        "profitability_emissions_ratio": 7.4842599278e-05,
+        "ebitda_emissions_ratio": 66059.92544120015,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://cdn.gwagroup.com.au/v3/assets/bltad292a6aa65b6a42/bltab8a1d18b9bae8eb/68d5c6d55a1a1bc4a9c488bf/2025_ESG_Report.pdf",
@@ -5370,7 +5498,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": -0.001673,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": -2.95212719e-08
+        "profitability_emissions_ratio": -2.95212719e-08,
+        "ebitda_emissions_ratio": 5485.786386340738,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://cdn.nufarm.com/wp-content/uploads/2020/11/13080335/Nufarm-FY24-Sustainability-Report.pdf",
@@ -5440,7 +5570,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.00032,
-        "profitability_emissions_ratio": 4.2666667e-09
+        "profitability_emissions_ratio": 4.2666667e-09,
+        "ebitda_emissions_ratio": 4164.00004134352
       },
       "verification": {
         "status": "pending"
@@ -5490,7 +5621,9 @@
         "net_zero_claims": 3,
         "profitability_ratio": 0.031489,
         "reputational_concern_ratio": 0.000954,
-        "profitability_emissions_ratio": 1.57292426e-08
+        "profitability_emissions_ratio": 1.57292426e-08,
+        "ebitda_emissions_ratio": 994.035786121113,
+        "net_zero_mentions_per_page": 0.065217
       },
       "search_record": {
         "url": "https://admin.apa.com.au/media/hargh4do/250820_sustainability_report_data_book_fy25.pdf",
@@ -5563,7 +5696,9 @@
         "net_zero_claims": 4,
         "profitability_ratio": 0.009522,
         "reputational_concern_ratio": 0.000616,
-        "profitability_emissions_ratio": 8.30658106e-08
+        "profitability_emissions_ratio": 8.30658106e-08,
+        "ebitda_emissions_ratio": 1412.345502517761,
+        "net_zero_mentions_per_page": 0.042105
       },
       "search_record": {
         "url": "https://www.graincorp.com.au/wp-content/uploads/2025/01/2024-Sustainability-Report.pdf",
@@ -5661,7 +5796,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.003547,
-        "profitability_emissions_ratio": 3.7596974e-09
+        "profitability_emissions_ratio": 3.7596974e-09,
+        "ebitda_emissions_ratio": 689.189525332758
       },
       "verification": {
         "status": "pending"
@@ -5704,7 +5840,8 @@
         "company_region": "Pacific",
         "company_state": "South Australia (SA)",
         "profitability_ratio": -0.020798,
-        "profitability_emissions_ratio": -3.18419751e-08
+        "profitability_emissions_ratio": -3.18419751e-08,
+        "ebitda_emissions_ratio": 1736.626229618931
       },
       "verification": {
         "status": "pending"
@@ -5750,7 +5887,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": -0.418836,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": -1.1712743645e-05
+        "profitability_emissions_ratio": -1.1712743645e-05,
+        "ebitda_emissions_ratio": 6278.139893286698,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://cdn.prod.website-files.com/65d3ca771d58856db2f0cdff/68d6049d22617364c0b18eb1_Annual%20Report%202025%20FINAL.pdf",
@@ -5826,7 +5965,8 @@
         "net_zero_claims": 8,
         "profitability_ratio": 0.061712,
         "reputational_concern_ratio": 0.002567,
-        "profitability_emissions_ratio": 0.0068568888888889
+        "profitability_emissions_ratio": 0.0068568888888889,
+        "net_zero_mentions_per_page": 0.046512
       },
       "search_record": {
         "url": "https://edge.sitecorecloud.io/challengerg66c7-challengerprod-prod-4c11/media/Project/Challenger/Challenger/Documents/Reports/2025-Annual-Report.pdf",
@@ -5900,7 +6040,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.033257,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 3.077699013e-07
+        "profitability_emissions_ratio": 3.077699013e-07,
+        "ebitda_emissions_ratio": 852.653221335936,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.ridley.com.au/wp-content/uploads/2025/10/Sustainability-Report-2025.pdf",
@@ -5969,7 +6111,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.027336,
-        "profitability_emissions_ratio": 2.203840758e-07
+        "profitability_emissions_ratio": 2.203840758e-07,
+        "ebitda_emissions_ratio": 2158.918948927611
       },
       "verification": {
         "status": "pending"
@@ -6039,7 +6182,8 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
         "profitability_ratio": 0.049214,
-        "profitability_emissions_ratio": 4.7248463902e-06
+        "profitability_emissions_ratio": 4.7248463902e-06,
+        "ebitda_emissions_ratio": 14719.181265543972
       },
       "verification": {
         "status": "pending"
@@ -6090,7 +6234,9 @@
         "net_zero_claims": 11,
         "profitability_ratio": 0.085417,
         "reputational_concern_ratio": 0.003667,
-        "profitability_emissions_ratio": 2.2144245975e-06
+        "profitability_emissions_ratio": 2.2144245975e-06,
+        "ebitda_emissions_ratio": 18256.293367330283,
+        "net_zero_mentions_per_page": 0.080882
       },
       "search_record": {
         "url": "https://www.alsglobal.com/-/media/ALSGlobal/Resources-Grid/2025-ALS-Sustainability-Report.pdf",
@@ -6163,7 +6309,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.053751,
         "reputational_concern_ratio": 0.001655,
-        "profitability_emissions_ratio": 1.6131752701e-06
+        "profitability_emissions_ratio": 1.6131752701e-06,
+        "ebitda_emissions_ratio": 241.717105626185,
+        "net_zero_mentions_per_page": 0.083333
       },
       "search_record": {
         "url": "https://www.capral.com.au/wp-content/uploads/2025/05/Capral_ESGReport_2024.pdf",
@@ -6262,7 +6410,8 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
         "profitability_ratio": -0.106577,
-        "profitability_emissions_ratio": -1.21110227273e-05
+        "profitability_emissions_ratio": -1.21110227273e-05,
+        "ebitda_emissions_ratio": 25659.09136387216
       },
       "verification": {
         "status": "pending"
@@ -6367,7 +6516,9 @@
         "net_zero_claims": 5,
         "profitability_ratio": -0.03533,
         "reputational_concern_ratio": 0.004117,
-        "profitability_emissions_ratio": -1.173933558e-07
+        "profitability_emissions_ratio": -1.173933558e-07,
+        "ebitda_emissions_ratio": 928.557516418017,
+        "net_zero_mentions_per_page": 0.046296
       },
       "search_record": {
         "url": "https://www.rml.com.au/wp-content/uploads/2025/04/Resolute-Sustainability-Report-2024.pdf",
@@ -6442,7 +6593,9 @@
         "net_zero_claims": 4,
         "profitability_ratio": 0.004453,
         "reputational_concern_ratio": 0.011875,
-        "profitability_emissions_ratio": 4.66952592e-08
+        "profitability_emissions_ratio": 4.66952592e-08,
+        "ebitda_emissions_ratio": 20.448195689834,
+        "net_zero_mentions_per_page": 0.08
       },
       "search_record": {
         "url": "https://selectharvests.com.au/documents/SHV_Sustainability-Report_19-Dec-2024_ASX.pdf",
@@ -6540,7 +6693,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.018322,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 8.9482771e-09
+        "profitability_emissions_ratio": 8.9482771e-09,
+        "ebitda_emissions_ratio": 336.060020118234,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/ape/be142016-0eac-11f0-808d-2eafb8326ff9.pdf",
@@ -6613,7 +6768,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.030461,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 2.4361004479e-06
+        "profitability_emissions_ratio": 2.4361004479e-06,
+        "ebitda_emissions_ratio": 28946.17682825312,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://d2dycffe7xo3vi.cloudfront.net/app/uploads/2025/08/Sustainability-Report-2025-FINAL_web.pdf",
@@ -6719,7 +6876,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.017538,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 9.401736893e-07
+        "profitability_emissions_ratio": 9.401736893e-07,
+        "ebitda_emissions_ratio": 30599.335366385818,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.ebosgroup.com/wp-content/uploads/2025/11/EBOS_ESG-Doument_2025_Environmental-Data_FINAL.pdf",
@@ -6823,7 +6982,9 @@
         "net_zero_claims": 4,
         "profitability_ratio": 0.110384,
         "reputational_concern_ratio": 0.010191,
-        "profitability_emissions_ratio": 6.42888759464e-05
+        "profitability_emissions_ratio": 6.42888759464e-05,
+        "ebitda_emissions_ratio": 64952.81708382411,
+        "net_zero_mentions_per_page": 0.025316
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/hsn/f8896e2f-7d4b-11f0-a14a-aaf2b0bbb5d6.pdf",
@@ -6898,7 +7059,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.127934,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 4.51903920876e-05
+        "profitability_emissions_ratio": 4.51903920876e-05,
+        "ebitda_emissions_ratio": 43708.942973319674,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250925/pdf/06pmwdxz5d7x0t.pdf",
@@ -6971,7 +7134,9 @@
         "net_zero_claims": 2,
         "profitability_ratio": 0.014357,
         "reputational_concern_ratio": 0.003594,
-        "profitability_emissions_ratio": 9.61138075e-08
+        "profitability_emissions_ratio": 9.61138075e-08,
+        "ebitda_emissions_ratio": 791.390797234865,
+        "net_zero_mentions_per_page": 0.035714
       },
       "search_record": {
         "url": "https://lynasrareearths.com/wp-content/uploads/2025/10/LYC-Sustainability-Report-2025-Oct25V2-1.pdf",
@@ -7044,7 +7209,9 @@
         "net_zero_claims": 19,
         "profitability_ratio": -0.800451,
         "reputational_concern_ratio": 0.107103,
-        "profitability_emissions_ratio": -1.0120121373e-05
+        "profitability_emissions_ratio": -1.0120121373e-05,
+        "ebitda_emissions_ratio": 1311.081540412555,
+        "net_zero_mentions_per_page": 0.431818
       },
       "search_record": {
         "url": "https://www.cromwellpropertygroup.com/wp-content/uploads/sites/3/2024/01/ESG-report-2023.pdf",
@@ -7178,7 +7345,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.025548,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 1.751698698e-07
+        "profitability_emissions_ratio": 1.751698698e-07,
+        "ebitda_emissions_ratio": 3466.331078826627,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.westgold.com.au/pdf/c69c8e82-3a58-4c4a-bf83-7cb2859e6fcd/2024-Sustainability-Report.pdf",
@@ -7281,7 +7450,9 @@
         "net_zero_claims": 5,
         "profitability_ratio": 0.154397,
         "reputational_concern_ratio": 0.003035,
-        "profitability_emissions_ratio": 7.481598496e-07
+        "profitability_emissions_ratio": 7.481598496e-07,
+        "ebitda_emissions_ratio": 3716.149223990953,
+        "net_zero_mentions_per_page": 0.053191
       },
       "search_record": {
         "url": "https://regisresources.com.au/wp-content/uploads/2025/01/Regis-SR24-22.10.24-singles.pdf",
@@ -7446,7 +7617,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": -0.002715,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": -4.0985834e-09
+        "profitability_emissions_ratio": -4.0985834e-09,
+        "ebitda_emissions_ratio": -261.799086902026,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kvxrrr960yx4.pdf",
@@ -7545,7 +7718,8 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
         "profitability_ratio": 0.009883,
-        "profitability_emissions_ratio": 7.353422619e-06
+        "profitability_emissions_ratio": 7.353422619e-06,
+        "ebitda_emissions_ratio": 268080.35084312054
       },
       "verification": {
         "status": "pending"
@@ -7623,7 +7797,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.248887,
         "reputational_concern_ratio": 0.000566,
-        "profitability_emissions_ratio": 3.564092577e-07
+        "profitability_emissions_ratio": 3.564092577e-07,
+        "ebitda_emissions_ratio": 1028.408268072824,
+        "net_zero_mentions_per_page": 0.00578
       },
       "search_record": {
         "url": "https://links.sgx.com/1.0.0/corporate-announcements/53YFKQ4JYW5HMBRL/859152_New%20Hope%20Group%20Appendix%204E%20and%20Annual%20Report%202025.pdf",
@@ -7729,7 +7905,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.147578,
         "reputational_concern_ratio": 0.001664,
-        "profitability_emissions_ratio": 0.0002007863945578
+        "profitability_emissions_ratio": 0.0002007863945578,
+        "ebitda_emissions_ratio": 137284.34737178232,
+        "net_zero_mentions_per_page": 0.007246
       },
       "search_record": {
         "url": "https://www.iress.com/media/documents/IRESS_Annual_Report_2024.pdf",
@@ -7800,7 +7978,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.080077,
-        "profitability_emissions_ratio": 3.58767921147e-05
+        "profitability_emissions_ratio": 3.58767921147e-05,
+        "ebitda_emissions_ratio": 123114.69890936333
       },
       "verification": {
         "status": "pending"
@@ -7850,7 +8029,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": -0.030142,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": -2.8265191298e-06
+        "profitability_emissions_ratio": -2.8265191298e-06,
+        "ebitda_emissions_ratio": 1058.795731593277,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.galepacific.com/uploads/gale_corporate/documents/GAP_ASX_Announcement_-_240829_-_FY24_Annual_Report.pdf",
@@ -8066,7 +8247,8 @@
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
         "profitability_ratio": 0.054495,
-        "profitability_emissions_ratio": 1.0183887425e-06
+        "profitability_emissions_ratio": 1.0183887425e-06,
+        "ebitda_emissions_ratio": 14057.567105689577
       },
       "verification": {
         "status": "pending"
@@ -8109,7 +8291,8 @@
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
         "profitability_ratio": 0.056522,
-        "profitability_emissions_ratio": 8.91514195584e-05
+        "profitability_emissions_ratio": 8.91514195584e-05,
+        "ebitda_emissions_ratio": 104193.99284282477
       },
       "verification": {
         "status": "pending"
@@ -8175,7 +8358,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.152544,
-        "profitability_emissions_ratio": 2.21334881021e-05
+        "profitability_emissions_ratio": 2.21334881021e-05,
+        "ebitda_emissions_ratio": 12066.308604695647
       },
       "verification": {
         "status": "pending"
@@ -8275,7 +8459,8 @@
         "company_region": "Pacific",
         "company_state": "South Australia (SA)",
         "profitability_ratio": -0.154185,
-        "profitability_emissions_ratio": -1.8107244777e-06
+        "profitability_emissions_ratio": -1.8107244777e-06,
+        "ebitda_emissions_ratio": 2038.085282762493
       },
       "verification": {
         "status": "pending"
@@ -8323,7 +8508,9 @@
         "net_zero_claims": 3,
         "profitability_ratio": 0.394074,
         "reputational_concern_ratio": 0.002493,
-        "profitability_emissions_ratio": 3.2102480551e-06
+        "profitability_emissions_ratio": 3.2102480551e-06,
+        "ebitda_emissions_ratio": 6684.550528355187,
+        "net_zero_mentions_per_page": 0.057692
       },
       "search_record": {
         "url": "https://www.rameliusresources.com.au/wp-content/uploads/bsk-pdf-manager/2025/10/2025-Sustainability-Report.pdf",
@@ -8427,7 +8614,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.17245,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 0.000235587431694
+        "profitability_emissions_ratio": 0.000235587431694,
+        "ebitda_emissions_ratio": 279362.03468982375,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.creditcorpgroup.com.au/media/1919/asx-5-august-2025-ccp-annual-report-2025.pdf",
@@ -8532,7 +8721,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.0338,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 3.48813209494e-05
+        "profitability_emissions_ratio": 3.48813209494e-05,
+        "ebitda_emissions_ratio": 121465.42730894737,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://webtravelgroup.sfo2.cdn.digitaloceanspaces.com/public/ASX-Announcements/WEB_ASX_05_28_25_FY25_Sustainability-Report-v2.pdf",
@@ -8603,7 +8794,8 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
         "profitability_ratio": 0.357448,
-        "profitability_emissions_ratio": 0.0007265203252033
+        "profitability_emissions_ratio": 0.0007265203252033,
+        "ebitda_emissions_ratio": 1836585.3594880893
       },
       "verification": {
         "status": "pending"
@@ -8646,7 +8838,8 @@
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
         "profitability_ratio": -0.001613,
-        "profitability_emissions_ratio": -3.4688172e-08
+        "profitability_emissions_ratio": -3.4688172e-08,
+        "ebitda_emissions_ratio": 6925.242195118172
       },
       "verification": {
         "status": "pending"
@@ -8692,7 +8885,9 @@
         "net_zero_claims": 42,
         "profitability_ratio": -0.202237,
         "reputational_concern_ratio": 0.042322,
-        "profitability_emissions_ratio": -7.2364475615e-06
+        "profitability_emissions_ratio": -7.2364475615e-06,
+        "ebitda_emissions_ratio": 20452.999775330303,
+        "net_zero_mentions_per_page": 0.857143
       },
       "search_record": {
         "url": "https://sustainability.gpt.com.au/wp-content/uploads/2025/02/GPT0046-GPT-CNDS25_PFO_Web.pdf",
@@ -8767,7 +8962,9 @@
         "net_zero_claims": 50,
         "profitability_ratio": -1.909582,
         "reputational_concern_ratio": 0.10002,
-        "profitability_emissions_ratio": -2.74550630454e-05
+        "profitability_emissions_ratio": -2.74550630454e-05,
+        "ebitda_emissions_ratio": -362.313610617404,
+        "net_zero_mentions_per_page": 0.925926
       },
       "search_record": {
         "url": "https://www.igo.com.au/site/pdf/f40bdb2b-fd4c-4d87-8ffb-ec235132f8ad/2025-Sustainability-Report.pdf",
@@ -8844,7 +9041,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.726734,
         "reputational_concern_ratio": 0.000436,
-        "profitability_emissions_ratio": 0.0001851551592357
+        "profitability_emissions_ratio": 0.0001851551592357,
+        "ebitda_emissions_ratio": 126598.72665108509,
+        "net_zero_mentions_per_page": 0.003731
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n3yv7p9pp64z.pdf",
@@ -8922,7 +9121,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.016354,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 2.220231065e-07
+        "profitability_emissions_ratio": 2.220231065e-07,
+        "ebitda_emissions_ratio": 9508.68195022273,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.metcash.com/wp-content/uploads/2023/08/20838_Metcash_SR23_FINAL-compressed.pdf",
@@ -9000,7 +9201,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.085466,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 1.8134481954e-06
+        "profitability_emissions_ratio": 1.8134481954e-06,
+        "ebitda_emissions_ratio": 1883.237718956073,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250811/pdf/06mqlxn7h4nzg9.pdf",
@@ -9077,7 +9280,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.036145,
         "reputational_concern_ratio": 0.000147,
-        "profitability_emissions_ratio": 3.74983142e-08
+        "profitability_emissions_ratio": 3.74983142e-08,
+        "ebitda_emissions_ratio": 3369.644219790105,
+        "net_zero_mentions_per_page": 0.027027
       },
       "search_record": {
         "url": "https://www.mmg.com/wp-content/uploads/2025/05/MMG-Sust-Report-2024.pdf",
@@ -9210,7 +9415,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.232705,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 4.9376180271e-06
+        "profitability_emissions_ratio": 4.9376180271e-06,
+        "ebitda_emissions_ratio": 13160.771443681831,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://cargroup.com/wp-content/uploads/2025/08/CAR-Group-FY25-Sustainability-Report.pdf",
@@ -9305,7 +9512,8 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
         "profitability_ratio": 0.460261,
-        "profitability_emissions_ratio": 9.2702974884e-06
+        "profitability_emissions_ratio": 9.2702974884e-06,
+        "ebitda_emissions_ratio": 3717.960165980845
       },
       "verification": {
         "status": "pending"
@@ -9339,7 +9547,8 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
         "profitability_ratio": 0.088292,
-        "profitability_emissions_ratio": 1.02510159062e-05
+        "profitability_emissions_ratio": 1.02510159062e-05,
+        "ebitda_emissions_ratio": 230527.89927628933
       },
       "verification": {
         "status": "pending"
@@ -9436,7 +9645,8 @@
         "company_region": "Pacific",
         "company_state": "Western Australia (WA)",
         "profitability_ratio": 0.203546,
-        "profitability_emissions_ratio": 2.5973101266e-06
+        "profitability_emissions_ratio": 2.5973101266e-06,
+        "ebitda_emissions_ratio": 2607.32701557692
       },
       "verification": {
         "status": "pending"
@@ -9515,7 +9725,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.050665,
         "reputational_concern_ratio": 0.001138,
-        "profitability_emissions_ratio": 9.0586447345e-06
+        "profitability_emissions_ratio": 9.0586447345e-06,
+        "ebitda_emissions_ratio": 29102.088895835688,
+        "net_zero_mentions_per_page": 0.030303
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/iel/f199b1a9-7158-11ef-8801-6aa5c5382db2.pdf",
@@ -9592,7 +9804,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.129571,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 4.3922372881e-06
+        "profitability_emissions_ratio": 4.3922372881e-06,
+        "ebitda_emissions_ratio": 102590.3316129505,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.brambles.com/Content/cms/FY25-Results/pdf/Sustainability/Brambles-2025-Sustainability-Review.pdf",
@@ -9699,7 +9913,9 @@
         "net_zero_claims": 26,
         "profitability_ratio": -0.006809,
         "reputational_concern_ratio": 0.001806,
-        "profitability_emissions_ratio": -2.221533e-10
+        "profitability_emissions_ratio": -2.221533e-10,
+        "ebitda_emissions_ratio": 54.812397931381,
+        "net_zero_mentions_per_page": 0.110638
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/agl/b32fce37-77cb-11f0-afd1-aef0b727035d.pdf",
@@ -9881,7 +10097,8 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
         "profitability_ratio": 0.025439,
-        "profitability_emissions_ratio": 1.4268326883e-06
+        "profitability_emissions_ratio": 1.4268326883e-06,
+        "ebitda_emissions_ratio": 7418.47506854389
       },
       "verification": {
         "status": "pending"
@@ -9930,7 +10147,9 @@
         "net_zero_claims": 2,
         "profitability_ratio": 0.038816,
         "reputational_concern_ratio": 0.000747,
-        "profitability_emissions_ratio": 2.373051293e-06
+        "profitability_emissions_ratio": 2.373051293e-06,
+        "ebitda_emissions_ratio": 29241.425925738582,
+        "net_zero_mentions_per_page": 0.021053
       },
       "search_record": {
         "url": "https://www.nineforbrands.com.au/wp-content/uploads/2025/09/Annual-Report-for-lodgement.pdf",
@@ -10006,7 +10225,8 @@
         "net_zero_claims": 36,
         "profitability_ratio": 0.058691,
         "reputational_concern_ratio": 0.004219,
-        "profitability_emissions_ratio": 3.69125786164e-05
+        "profitability_emissions_ratio": 3.69125786164e-05,
+        "net_zero_mentions_per_page": 1.0
       },
       "search_record": {
         "url": "https://www.medibank.com.au/content/dam/retail/about-assets/pdfs/investor-centre/annual-reports/Medibank_SustainabilitySummary2025.pdf",
@@ -10081,7 +10301,9 @@
         "net_zero_claims": 5,
         "profitability_ratio": 0.027166,
         "reputational_concern_ratio": 0.0012,
-        "profitability_emissions_ratio": 6.21005276e-08
+        "profitability_emissions_ratio": 6.21005276e-08,
+        "ebitda_emissions_ratio": 1361.978022854885,
+        "net_zero_mentions_per_page": 0.078125
       },
       "search_record": {
         "url": "https://qube.com.au/wp-content/uploads/2025/08/Qube-Sustainability-Report-2024-2025.pdf",
@@ -10227,7 +10449,9 @@
         "net_zero_claims": 7,
         "profitability_ratio": -1.314239,
         "reputational_concern_ratio": 0.047112,
-        "profitability_emissions_ratio": -0.0003452164433937
+        "profitability_emissions_ratio": -0.0003452164433937,
+        "ebitda_emissions_ratio": -15739.691457629971,
+        "net_zero_mentions_per_page": 0.049296
       },
       "search_record": {
         "url": "https://assets.lifestylecommunities.com.au/prod-v2/LIC-Annual-Report-to-Shareholders-2024.pdf",
@@ -10331,7 +10555,8 @@
         "net_zero_claims": 23,
         "profitability_ratio": 0.014075,
         "reputational_concern_ratio": 0.252323,
-        "profitability_emissions_ratio": 4.7963878e-07
+        "profitability_emissions_ratio": 4.7963878e-07,
+        "net_zero_mentions_per_page": 0.45098
       },
       "search_record": {
         "url": "https://eng.bnkfg.com/share_file/%28BNK%20Financial%20Group%29%20PRB-Reporting-and-Self-Assessment-Template.pdf",
@@ -10525,7 +10750,9 @@
         "net_zero_claims": 4,
         "profitability_ratio": 0.1955,
         "reputational_concern_ratio": 0.009838,
-        "profitability_emissions_ratio": 0.0012067901234568
+        "profitability_emissions_ratio": 0.0012067901234568,
+        "ebitda_emissions_ratio": 904487.6925909506,
+        "net_zero_mentions_per_page": 0.125
       },
       "search_record": {
         "url": "https://www.hub24.com.au/wp-content/uploads/2025/08/HUB24-FY25-Sustainability-Report.pdf",
@@ -10687,7 +10914,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.30902,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 1.8307631241e-06
+        "profitability_emissions_ratio": 1.8307631241e-06,
+        "ebitda_emissions_ratio": 2371.982230557452,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.westafricanresources.com/wp-content/uploads/2025/04/WAF-2024-Sustainability-Report.pdf",
@@ -10794,7 +11023,9 @@
         "net_zero_claims": 7,
         "profitability_ratio": 0.014397,
         "reputational_concern_ratio": 0.002236,
-        "profitability_emissions_ratio": 2.516518091e-07
+        "profitability_emissions_ratio": 2.516518091e-07,
+        "ebitda_emissions_ratio": 3269.113851146076,
+        "net_zero_mentions_per_page": 0.097222
       },
       "search_record": {
         "url": "https://elders.com.au/content/dam/eld/documents/sustainability/Elders_Sustainability-Report.pdf",
@@ -10948,7 +11179,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.079942,
         "reputational_concern_ratio": 0.000275,
-        "profitability_emissions_ratio": 1.146371682e-07
+        "profitability_emissions_ratio": 1.146371682e-07,
+        "ebitda_emissions_ratio": 1377.480894211427,
+        "net_zero_mentions_per_page": 0.009259
       },
       "search_record": {
         "url": "https://www.stanmore.au/wp-content/uploads/2025/04/Stanmore-Sustainability-Report-2024.pdf",
@@ -11052,7 +11285,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.061988,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 3.44760845384e-05
+        "profitability_emissions_ratio": 3.44760845384e-05,
+        "ebitda_emissions_ratio": 68181.87679634817,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n429wdx4t454.pdf",
@@ -11208,7 +11443,8 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
         "profitability_ratio": 1.886909,
-        "profitability_emissions_ratio": 0.0003117827164574
+        "profitability_emissions_ratio": 0.0003117827164574,
+        "ebitda_emissions_ratio": 10459.35222811525
       },
       "verification": {
         "status": "pending"
@@ -11251,7 +11487,9 @@
         "net_zero_claims": 3,
         "profitability_ratio": 0.045246,
         "reputational_concern_ratio": 0.000279,
-        "profitability_emissions_ratio": 3.16848739e-08
+        "profitability_emissions_ratio": 3.16848739e-08,
+        "ebitda_emissions_ratio": 1300.490195615637,
+        "net_zero_mentions_per_page": 0.017751
       },
       "search_record": {
         "url": "https://sghl.com.au/assets/Uploads/ASX-SGH-2025-Annual-Report-Final-12-August-2025.pdf",
@@ -11322,7 +11560,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": -0.085405,
-        "profitability_emissions_ratio": -4.40231958763e-05
+        "profitability_emissions_ratio": -4.40231958763e-05,
+        "ebitda_emissions_ratio": 2024.034957937026
       },
       "verification": {
         "status": "pending"
@@ -11365,7 +11604,8 @@
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
         "profitability_ratio": 0.078315,
-        "profitability_emissions_ratio": 8.74130362e-08
+        "profitability_emissions_ratio": 8.74130362e-08,
+        "ebitda_emissions_ratio": 1666.445280104496
       },
       "verification": {
         "status": "pending"
@@ -11414,7 +11654,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.027659,
         "reputational_concern_ratio": 0.000842,
-        "profitability_emissions_ratio": 6.2099236641e-06
+        "profitability_emissions_ratio": 6.2099236641e-06,
+        "ebitda_emissions_ratio": 33301.07725246879,
+        "net_zero_mentions_per_page": 0.007143
       },
       "search_record": {
         "url": "https://wcsecure.weblink.com.au/pdf/ABB/02982687.pdf",
@@ -11545,7 +11787,9 @@
         "net_zero_claims": 12,
         "profitability_ratio": 0.146116,
         "reputational_concern_ratio": 0.004013,
-        "profitability_emissions_ratio": 6.7960930233e-06
+        "profitability_emissions_ratio": 6.7960930233e-06,
+        "ebitda_emissions_ratio": 44762.790395648466,
+        "net_zero_mentions_per_page": 0.272727
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/twe/4e41b6d3-9fe6-11f0-8b0c-caccf1a362f5.pdf",
@@ -11616,7 +11860,9 @@
         "net_zero_claims": 5,
         "profitability_ratio": 0.177105,
         "reputational_concern_ratio": 0.000728,
-        "profitability_emissions_ratio": 8.48853672e-08
+        "profitability_emissions_ratio": 8.48853672e-08,
+        "ebitda_emissions_ratio": 1177.146110784005,
+        "net_zero_mentions_per_page": 0.031847
       },
       "search_record": {
         "url": "https://www.yancoal.com.au/wp-content/uploads/2025/02/2024-Full-Year-Financial-Report.pdf",
@@ -11721,7 +11967,9 @@
         "net_zero_claims": 4,
         "profitability_ratio": 0.119337,
         "reputational_concern_ratio": 0.005652,
-        "profitability_emissions_ratio": 6.51047463175e-05
+        "profitability_emissions_ratio": 6.51047463175e-05,
+        "ebitda_emissions_ratio": 106457.1739821915,
+        "net_zero_mentions_per_page": 0.074074
       },
       "search_record": {
         "url": "https://investor.travelctm.com.au/wp-content/uploads/2024/08/Sustainability-Report-FY24.pdf",
@@ -11807,7 +12055,8 @@
         "company_state": "Victoria (VIC)",
         "net_zero_claims": 1,
         "profitability_ratio": 0.04155,
-        "reputational_concern_ratio": 0.001618
+        "reputational_concern_ratio": 0.001618,
+        "net_zero_mentions_per_page": 0.006667
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/ADH-AU_ANNUAL-2023.pdf",
@@ -11860,7 +12109,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": -0.109256,
-        "profitability_emissions_ratio": -0.0009181176470588
+        "profitability_emissions_ratio": -0.0009181176470588,
+        "ebitda_emissions_ratio": 129756.3011269731
       },
       "verification": {
         "status": "pending"
@@ -11903,7 +12153,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.107458,
-        "profitability_emissions_ratio": 0.0018852280701754
+        "profitability_emissions_ratio": 0.0018852280701754,
+        "ebitda_emissions_ratio": 1011789.3895684122
       },
       "verification": {
         "status": "pending"
@@ -11978,7 +12229,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.02467,
         "reputational_concern_ratio": 0.000453,
-        "profitability_emissions_ratio": 6.58720368e-08
+        "profitability_emissions_ratio": 6.58720368e-08,
+        "ebitda_emissions_ratio": 718.266858277693,
+        "net_zero_mentions_per_page": 0.041667
       },
       "search_record": {
         "url": "https://cdn.kelsian.com/volumes/uploads/Audio/07_Sustainability-Report-2024-25_29.09.25.pdf",
@@ -12054,7 +12307,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.027895,
         "reputational_concern_ratio": 0.000797,
-        "profitability_emissions_ratio": 0.000240474137931
+        "profitability_emissions_ratio": 0.000240474137931,
+        "ebitda_emissions_ratio": 2903448.312702914,
+        "net_zero_mentions_per_page": 0.055556
       },
       "search_record": {
         "url": "https://www.afgonline.com.au/wp-content/uploads/2024/09/FY24-Sustainability-report.pdf",
@@ -12127,7 +12382,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.078498,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 5.204885423e-07
+        "profitability_emissions_ratio": 5.204885423e-07,
+        "ebitda_emissions_ratio": 1101.467990155653,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.aerisresources.com.au/wp-content/uploads/2024/10/Aeris_AR_2024_WEB.pdf",
@@ -12254,7 +12511,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.012681,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 1.2681e-09
+        "profitability_emissions_ratio": 1.2681e-09,
+        "ebitda_emissions_ratio": 22.694599610582,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.sevenwestmedia.com.au/assets/Uploads/Seven-West-Media-Sustainability-Report-2024.pdf",
@@ -12467,7 +12726,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.036686,
-        "profitability_emissions_ratio": 8.35671981777e-05
+        "profitability_emissions_ratio": 8.35671981777e-05,
+        "ebitda_emissions_ratio": 161892.93129263437
       },
       "verification": {
         "status": "pending"
@@ -12543,7 +12803,9 @@
         "net_zero_claims": 12,
         "profitability_ratio": -0.096643,
         "reputational_concern_ratio": 0.004537,
-        "profitability_emissions_ratio": -1.45448093e-08
+        "profitability_emissions_ratio": -1.45448093e-08,
+        "ebitda_emissions_ratio": 66.074637782303,
+        "net_zero_mentions_per_page": 0.155844
       },
       "search_record": {
         "url": "https://nickelindustries.com/carbon/assets/0007e9/000006/2908872.pdf",
@@ -12740,7 +13002,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.183728,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 8.86718146718e-05
+        "profitability_emissions_ratio": 8.86718146718e-05,
+        "ebitda_emissions_ratio": 235859.06998825772,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://investor.steadfast.com.au/FormBuilder/_Resource/_module/7zaApZtBC0S8RkpPzBXBxw/file/Steadfast_Group_Annual_Report_2025.pdf",
@@ -12814,7 +13078,9 @@
         "net_zero_claims": 2,
         "profitability_ratio": 0.014242,
         "reputational_concern_ratio": 0.001012,
-        "profitability_emissions_ratio": 5.160705874e-07
+        "profitability_emissions_ratio": 5.160705874e-07,
+        "ebitda_emissions_ratio": 6703.445753398812,
+        "net_zero_mentions_per_page": 0.041667
       },
       "search_record": {
         "url": "https://www.bapcor.com.au/Reports/2025_Bapcor_ESG_Report.pdf",
@@ -12892,7 +13158,9 @@
         "net_zero_claims": 8,
         "profitability_ratio": 0.257737,
         "reputational_concern_ratio": 0.006653,
-        "profitability_emissions_ratio": 7.331905282e-07
+        "profitability_emissions_ratio": 7.331905282e-07,
+        "ebitda_emissions_ratio": 1829.918385494652,
+        "net_zero_mentions_per_page": 0.047059
       },
       "search_record": {
         "url": "https://www.wisetechglobal.com/media/xywbubic/wtc-2024-annual-report-final.pdf",
@@ -13079,7 +13347,9 @@
         "net_zero_claims": 3,
         "profitability_ratio": 0.031672,
         "reputational_concern_ratio": 0.001435,
-        "profitability_emissions_ratio": 5.90895522e-08
+        "profitability_emissions_ratio": 5.90895522e-08,
+        "ebitda_emissions_ratio": 747.388047151448,
+        "net_zero_mentions_per_page": 0.017045
       },
       "search_record": {
         "url": "https://www.ororagroup.com/investors/downloads/annual-reports/Orora_Annual_Report_2025.pdf",
@@ -13184,7 +13454,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.601529,
         "reputational_concern_ratio": 0.002548,
-        "profitability_emissions_ratio": 7.18329352759e-05
+        "profitability_emissions_ratio": 7.18329352759e-05,
+        "ebitda_emissions_ratio": 26164.31816826881,
+        "net_zero_mentions_per_page": 0.043478
       },
       "search_record": {
         "url": "https://nationalstorageinvest.com.au/wp-content/uploads/2025/08/NSR-2025-Annual-Report.pdf",
@@ -13285,7 +13557,8 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
         "net_zero_claims": 0,
-        "reputational_concern_ratio": 0.0
+        "reputational_concern_ratio": 0.0,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://pactgroup.com/wp-content/uploads/2024/11/Pact-Sustainability-Report-2024_V30-spreads.pdf",
@@ -13448,7 +13721,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.088415,
         "reputational_concern_ratio": 0.000565,
-        "profitability_emissions_ratio": 7.056884483e-07
+        "profitability_emissions_ratio": 7.056884483e-07,
+        "ebitda_emissions_ratio": 4128.214605897724,
+        "net_zero_mentions_per_page": 0.012048
       },
       "search_record": {
         "url": "https://www.championiron.com/wp-content/uploads/2025/06/ci2025-sustainabilityreport.pdf",
@@ -13584,7 +13859,9 @@
         "net_zero_claims": 11,
         "profitability_ratio": 0.247183,
         "reputational_concern_ratio": 0.035966,
-        "profitability_emissions_ratio": 0.0016589463087248
+        "profitability_emissions_ratio": 0.0016589463087248,
+        "ebitda_emissions_ratio": 808738.3020807719,
+        "net_zero_mentions_per_page": 0.203704
       },
       "search_record": {
         "url": "https://www.smartgroup.com.au/globalassets/smartgroup-corporate/foundation/smartgroup-sustainability-report-2024.pdf",
@@ -13687,7 +13964,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.042463,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 1.1371073561e-06
+        "profitability_emissions_ratio": 1.1371073561e-06,
+        "ebitda_emissions_ratio": 2713.708090626355,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.regis.com.au/site/wp-content/uploads/2025/08/Regis-Healthcare-Limited-FY25-Annual-Report.pdf",
@@ -13764,7 +14043,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.097423,
         "reputational_concern_ratio": 0.001416,
-        "profitability_emissions_ratio": 0.0001703199300699
+        "profitability_emissions_ratio": 0.0001703199300699,
+        "ebitda_emissions_ratio": 340034.94495184795,
+        "net_zero_mentions_per_page": 0.008
       },
       "search_record": {
         "url": "https://www.iphltd.com.au/wp-content/uploads/2025/08/2932588.pdf",
@@ -13945,7 +14226,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.002211,
-        "profitability_emissions_ratio": 3.202027516e-07
+        "profitability_emissions_ratio": 3.202027516e-07,
+        "ebitda_emissions_ratio": 11591.744659825707
       },
       "verification": {
         "status": "pending"
@@ -13987,7 +14269,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.018814,
-        "profitability_emissions_ratio": 0.0009902105263158
+        "profitability_emissions_ratio": 0.0009902105263158,
+        "ebitda_emissions_ratio": 989000.4939500999
       },
       "verification": {
         "status": "pending"
@@ -14030,7 +14313,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.073902,
-        "profitability_emissions_ratio": 2.58398601399e-05
+        "profitability_emissions_ratio": 2.58398601399e-05,
+        "ebitda_emissions_ratio": 32182.17112765238
       },
       "verification": {
         "status": "pending"
@@ -14076,7 +14360,9 @@
         "net_zero_claims": 2,
         "profitability_ratio": 0.018272,
         "reputational_concern_ratio": 0.003832,
-        "profitability_emissions_ratio": 2.6596797671e-06
+        "profitability_emissions_ratio": 2.6596797671e-06,
+        "ebitda_emissions_ratio": 9089.644673651834,
+        "net_zero_mentions_per_page": 0.037037
       },
       "search_record": {
         "url": "https://assets.contentstack.io/v3/assets/blt497a29fffbfff85f/blt11fc3fd83cfb430c/689e63c1b1f9813dfc8963f7/BBN_-_2025_Sustainability_Report_-_15_August_2025.pdf",
@@ -14346,7 +14632,8 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
         "profitability_ratio": 0.79697,
-        "profitability_emissions_ratio": 0.2656566666666667
+        "profitability_emissions_ratio": 0.2656566666666667,
+        "ebitda_emissions_ratio": 49566666.898669995
       },
       "verification": {
         "status": "pending"
@@ -14392,7 +14679,9 @@
         "net_zero_claims": 14,
         "profitability_ratio": 0.003261,
         "reputational_concern_ratio": 0.021751,
-        "profitability_emissions_ratio": 1.3497516556e-06
+        "profitability_emissions_ratio": 1.3497516556e-06,
+        "ebitda_emissions_ratio": 38697.84658052985,
+        "net_zero_mentions_per_page": 0.35
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/mhj/35c0d5c5-974b-11f0-8027-1e05b5c2f523.pdf",
@@ -14648,7 +14937,8 @@
         "company_state": "Victoria (VIC)",
         "net_zero_claims": 0,
         "profitability_ratio": 0.063737,
-        "reputational_concern_ratio": 0.0
+        "reputational_concern_ratio": 0.0,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "file:///home/user/code/scope-spider/downloads/TLX-AU_Appendix_4E_and_2023_Annual_Report.pdf",
@@ -14819,7 +15109,9 @@
         "net_zero_claims": 23,
         "profitability_ratio": -0.002531,
         "reputational_concern_ratio": 0.000763,
-        "profitability_emissions_ratio": -1.9481474e-09
+        "profitability_emissions_ratio": -1.9481474e-09,
+        "ebitda_emissions_ratio": 572.359708850298,
+        "net_zero_mentions_per_page": 0.283951
       },
       "search_record": {
         "url": "https://www.vivaenergy.com.au/ArticleDocuments/1317/Viva%20Energy%20SR%202023.pdf",
@@ -14980,7 +15272,9 @@
         "net_zero_claims": 3,
         "profitability_ratio": 0.035331,
         "reputational_concern_ratio": 0.000249,
-        "profitability_emissions_ratio": 9.90776755e-08
+        "profitability_emissions_ratio": 9.90776755e-08,
+        "ebitda_emissions_ratio": 4192.576305558512,
+        "net_zero_mentions_per_page": 0.038961
       },
       "search_record": {
         "url": "https://company-announcements.afr.com/asx/edv/3bfa9d39-813e-11f0-8bd2-22fe330236a6.pdf",
@@ -15072,7 +15366,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.591091,
-        "profitability_emissions_ratio": 9.6652985807e-06
+        "profitability_emissions_ratio": 9.6652985807e-06,
+        "ebitda_emissions_ratio": 1502.714422160445
       },
       "verification": {
         "status": "pending"
@@ -15135,7 +15430,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": -0.320257,
-        "profitability_emissions_ratio": -0.08006425
+        "profitability_emissions_ratio": -0.08006425,
+        "ebitda_emissions_ratio": 33459497.544793002
       },
       "verification": {
         "status": "pending"
@@ -15185,7 +15481,9 @@
         "net_zero_claims": 2,
         "profitability_ratio": -0.019384,
         "reputational_concern_ratio": 0.000362,
-        "profitability_emissions_ratio": -8.47202797e-08
+        "profitability_emissions_ratio": -8.47202797e-08,
+        "ebitda_emissions_ratio": 8522.727285526049,
+        "net_zero_mentions_per_page": 0.05
       },
       "search_record": {
         "url": "https://dq06ugkuram52.cloudfront.net/files/19822325/49211390.pdf",
@@ -15373,7 +15671,9 @@
         "net_zero_claims": 2,
         "profitability_ratio": 0.06983,
         "reputational_concern_ratio": 0.001941,
-        "profitability_emissions_ratio": 1.4853022504e-06
+        "profitability_emissions_ratio": 1.4853022504e-06,
+        "ebitda_emissions_ratio": 3509.507716581954,
+        "net_zero_mentions_per_page": 0.011765
       },
       "search_record": {
         "url": "https://announcements.asx.com.au/asxpdf/20250821/pdf/06n3y5blvvxvh1.pdf",
@@ -15441,7 +15741,8 @@
         "company_region": "Pacific",
         "company_state": "Queensland (QLD)",
         "profitability_ratio": 0.106712,
-        "profitability_emissions_ratio": 0.0014420540540541
+        "profitability_emissions_ratio": 0.0014420540540541,
+        "ebitda_emissions_ratio": 3830270.3467261083
       },
       "verification": {
         "status": "pending"
@@ -15507,7 +15808,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": 0.004874,
-        "profitability_emissions_ratio": 3.44014681e-07
+        "profitability_emissions_ratio": 3.44014681e-07,
+        "ebitda_emissions_ratio": 7616.319030323757
       },
       "verification": {
         "status": "pending"
@@ -15598,7 +15900,8 @@
         "company_region": "Pacific",
         "company_state": "Victoria (VIC)",
         "profitability_ratio": -0.318426,
-        "profitability_emissions_ratio": -2.2055480519e-06
+        "profitability_emissions_ratio": -2.2055480519e-06,
+        "ebitda_emissions_ratio": 105.579237562206
       },
       "verification": {
         "status": "pending"
@@ -15675,7 +15978,9 @@
         "net_zero_claims": 7,
         "profitability_ratio": -0.193287,
         "reputational_concern_ratio": 0.017783,
-        "profitability_emissions_ratio": -0.000966435
+        "profitability_emissions_ratio": -0.000966435,
+        "ebitda_emissions_ratio": 656834.99856826,
+        "net_zero_mentions_per_page": 0.039548
       },
       "search_record": {
         "url": "https://www.pexa-group.com/staticly-media/2025/08/PXA_Appendix_4E_PEXA_Group_FY25_Annual_Report-sm-1756422205.pdf",
@@ -15782,7 +16087,9 @@
         "net_zero_claims": 1,
         "profitability_ratio": 0.270745,
         "reputational_concern_ratio": 0.002017,
-        "profitability_emissions_ratio": 7.66963014e-08
+        "profitability_emissions_ratio": 7.66963014e-08,
+        "ebitda_emissions_ratio": 89.242091675194,
+        "net_zero_mentions_per_page": 0.001923
       },
       "search_record": {
         "url": "https://www.gruppoiren.it/content/dam/iren/documents/en/investors/integrated-annual-report-2024/Integrated%20annual%20report%202024.pdf",
@@ -15860,7 +16167,9 @@
         "net_zero_claims": 12,
         "profitability_ratio": 0.098063,
         "reputational_concern_ratio": 0.00322,
-        "profitability_emissions_ratio": 4.82995208e-08
+        "profitability_emissions_ratio": 4.82995208e-08,
+        "ebitda_emissions_ratio": 356.59579358109,
+        "net_zero_mentions_per_page": 0.218182
       },
       "search_record": {
         "url": "https://www.thelotterycorporation.com/content/dam/projects/tlc/documents/TLC_Sustainability-Report-2025.pdf",
@@ -15964,7 +16273,9 @@
         "net_zero_claims": 0,
         "profitability_ratio": 0.033203,
         "reputational_concern_ratio": 0.0,
-        "profitability_emissions_ratio": 2.0310129679e-06
+        "profitability_emissions_ratio": 2.0310129679e-06,
+        "ebitda_emissions_ratio": 5025.936591949229,
+        "net_zero_mentions_per_page": 0.0
       },
       "search_record": {
         "url": "https://www.guzmanygomez.com.au/wp-content/uploads/2025/08/Guzman-y-Gomez-2025-Annual-Report.pdf",
@@ -16034,7 +16345,8 @@
         "company_region": "Pacific",
         "company_state": "New South Wales (NSW)",
         "profitability_ratio": -0.009365,
-        "profitability_emissions_ratio": -1.828458745e-07
+        "profitability_emissions_ratio": -1.828458745e-07,
+        "ebitda_emissions_ratio": 717.163374588262
       },
       "verification": {
         "status": "pending"
@@ -16193,7 +16505,9 @@
         "net_zero_claims": 6,
         "profitability_ratio": 0.052476,
         "reputational_concern_ratio": 0.007402,
-        "profitability_emissions_ratio": 7.1279543602e-06
+        "profitability_emissions_ratio": 7.1279543602e-06,
+        "ebitda_emissions_ratio": 11550.122607774383,
+        "net_zero_mentions_per_page": 0.04878
       },
       "search_record": {
         "url": "https://civmec.com.au/wp-content/uploads/2025/09/Civmec-Ltd-Annual-Report-2025_digital.pdf",

@@ -1187,13 +1187,18 @@ def create_dash_app(
         if not image_children:
             image_children = [html.P("No page previews available.")]
 
+        # Prepopulate override fields with current emission values (fall back to saved overrides)
+        override_scope1 = verification.scope_1_override if verification.scope_1_override is not None else scope1
+        override_scope2 = verification.scope_2_override if verification.scope_2_override is not None else scope2
+        override_scope3 = verification.scope_3_override if verification.scope_3_override is not None else scope3
+
         return (
             summary,
             snippet_display,
             image_children,
-            verification.scope_1_override,
-            verification.scope_2_override,
-            verification.scope_3_override,
+            override_scope1,
+            override_scope2,
+            override_scope3,
             verification.notes or "",
         )
 

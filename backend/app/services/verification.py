@@ -26,6 +26,11 @@ from backend.domain.utils.documents import (
 from backend.domain.utils.pdf_preview import previews_as_data_urls
 from backend.domain.utils.query import derive_filename
 
+# Regex patterns for finding page markers and numeric values in snippet text
+_PAGE_HEADER_RE = re.compile(r"=== Page (\d+)\s*===", re.IGNORECASE)
+_TABLE_HEADER_RE = re.compile(r"=== Table \d+\s+\(page\s+(\d+)\)\s*===", re.IGNORECASE)
+_VALUE_TOKEN_RE = re.compile(r"(-?\d[\d,]*(?:\.\d+)?)")
+
 __all__ = [
     "company_key",
     "next_pending_key",
@@ -89,6 +94,124 @@ def _read_text_file(path: Optional[Path]) -> Optional[str]:
         return None
 
 
+def _collect_page_lookup(lines: List[str]) -> List[Optional[int]]:
+    """Build a mapping from line index to page number based on page/table headers."""
+    page_lookup: List[Optional[int]] = []
+    current_page: Optional[int] = None
+    for line in lines:
+        stripped = line.strip()
+        page_match = _PAGE_HEADER_RE.match(stripped)
+        if page_match:
+            current_page = int(page_match.group(1))
+        else:
+            table_match = _TABLE_HEADER_RE.match(stripped)
+            if table_match:
+                current_page = int(table_match.group(1))
+        page_lookup.append(current_page)
+    return page_lookup
+
+
+def _generate_value_targets(value: int) -> List[float]:
+    """Generate candidate numeric representations (e.g., millions, thousands)."""
+    candidates: List[float] = []
+    for factor in (1_000_000_000, 1_000_000, 1_000, 1):
+        candidate = value / factor
+        if candidate <= 0 or candidate < 0.01:
+            continue
+        candidates.append(candidate)
+    return candidates
+
+
+def _find_line_index_for_value(
+    lines: List[str],
+    keywords: List[str],
+    target: float,
+    tolerance: float,
+) -> Optional[int]:
+    """Find the first line containing a value matching target within tolerance."""
+    for idx, line in enumerate(lines):
+        line_lower = line.lower()
+        if keywords and not all(key in line_lower for key in keywords):
+            continue
+        for match in _VALUE_TOKEN_RE.finditer(line):
+            token = match.group(1)
+            if not token:
+                continue
+            cleaned = token.replace(",", "")
+            try:
+                value = float(cleaned)
+            except ValueError:
+                continue
+            if abs(value - target) <= tolerance:
+                return idx
+    return None
+
+
+def _find_pages_for_scope_value(
+    lines: List[str],
+    page_lookup: List[Optional[int]],
+    value: Optional[int],
+    scope_label: str,
+) -> Optional[int]:
+    """Find the page containing a specific scope value in the snippet."""
+    if value is None or value <= 0:
+        return None
+
+    keywords = [scope_label]
+    keyword_options = [keywords, []]  # Try with keyword first, then without
+
+    for keyword_set in keyword_options:
+        for candidate in _generate_value_targets(value):
+            tolerance = max(0.5, abs(candidate) * 0.02)
+            idx = _find_line_index_for_value(lines, keyword_set, candidate, tolerance)
+            if idx is not None and idx < len(page_lookup):
+                page = page_lookup[idx]
+                if page is not None:
+                    return page
+    return None
+
+
+def _derive_pages_from_emissions(
+    snippet_text: Optional[str],
+    scope_1: Optional[int],
+    scope_2: Optional[int],
+    scope_3: Optional[int],
+    fallback_pages: List[int],
+) -> List[int]:
+    """
+    Derive relevant PDF pages by searching snippet text for current emission values.
+
+    This ensures previews show where the *current* values appear, not just
+    the pages from original analysis (which may be stale after manual edits).
+    """
+    if not snippet_text or not snippet_text.strip():
+        return fallback_pages
+
+    lines = snippet_text.splitlines()
+    if not lines:
+        return fallback_pages
+
+    page_lookup = _collect_page_lookup(lines)
+    discovered_pages: List[int] = []
+
+    # Search for each scope value
+    for value, label in [
+        (scope_1, "scope 1"),
+        (scope_2, "scope 2"),
+        (scope_3, "scope 3"),
+    ]:
+        page = _find_pages_for_scope_value(lines, page_lookup, value, label)
+        if page is not None:
+            discovered_pages.append(page)
+
+    if discovered_pages:
+        unique = sorted(set(discovered_pages))
+        if unique:
+            return unique
+
+    return fallback_pages
+
+
 def build_verification_payload(
     company: Company,
     *,
@@ -119,12 +242,23 @@ def build_verification_payload(
     pdf_path = None
     if company.download_record and company.download_record.pdf_path:
         pdf_path = _resolve_path(downloads_dir, company.download_record.pdf_path)
-        if pdf_path is None:
+        if pdf_path is None or not pdf_path.exists():
             pdf_path = _resolve_path(data_root, company.download_record.pdf_path)
 
+    # Derive preview pages by searching for current scope values in the snippet.
+    # This ensures previews show where the actual values appear, even after manual edits.
+    fallback_pages = analysis.snippet_pages if analysis else []
+    preview_pages = _derive_pages_from_emissions(
+        snippet_text,
+        scope1,
+        scope2,
+        scope3,
+        fallback_pages,
+    )
+
     previews: List[Tuple[int, str]] = []
-    if pdf_path and analysis and analysis.snippet_pages:
-        previews = previews_as_data_urls(pdf_path, analysis.snippet_pages)
+    if pdf_path and pdf_path.exists() and preview_pages:
+        previews = previews_as_data_urls(pdf_path, preview_pages)
 
     return {
         "key": company_key(company),

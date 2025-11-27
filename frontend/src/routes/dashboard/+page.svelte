@@ -25,6 +25,8 @@
 		profitability_ratio?: number | null;
 		reputational_concern_ratio?: number | null;
 		profitability_emissions_ratio?: number | null;
+		ebitda_emissions_ratio?: number | null;
+		net_zero_mentions_per_page?: number | null;
 		industry?: string | null;
 		company?: string | null;
 		revenue_mm?: number | null;
@@ -69,6 +71,8 @@
 			scope1_vs_profitability_ratio?: ScatterPoint[];
 			scope1_vs_reputational_concern_ratio?: ScatterPoint[];
 			pe_vs_reputational_concern?: ScatterPoint[];
+			ebitda_per_emissions_vs_mentions_per_page?: ScatterPoint[];
+			ebitda_per_emissions_vs_total_mentions?: ScatterPoint[];
 		};
 		group_matrix?: {
 			rows: GroupMatrixRow[];
@@ -169,6 +173,24 @@
 			xKey: 'reputational_concern_ratio',
 			axisLabel: 'P/E (Profitability / Emissions)',
 			xAxisLabel: 'Reputational Concern (mentions/revenue)'
+		},
+		{
+			id: 'ebitda_emissions_vs_mentions_density',
+			label: 'EBITDA/Emissions vs Mentions/Page',
+			key: 'ebitda_per_emissions_vs_mentions_per_page',
+			valueKey: 'ebitda_emissions_ratio',
+			xKey: 'net_zero_mentions_per_page',
+			axisLabel: 'EBITDA ($) / Emissions',
+			xAxisLabel: 'Mentions per Page'
+		},
+		{
+			id: 'ebitda_emissions_vs_total_mentions',
+			label: 'EBITDA/Emissions vs Total Mentions',
+			key: 'ebitda_per_emissions_vs_total_mentions',
+			valueKey: 'ebitda_emissions_ratio',
+			xKey: 'net_zero_mentions',
+			axisLabel: 'EBITDA ($) / Emissions',
+			xAxisLabel: 'Total Net Zero Mentions'
 		}
 	];
 

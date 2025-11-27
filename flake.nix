@@ -13,7 +13,7 @@
   in {
     devShells = forAllSystems (pkgs: {
       default = pkgs.mkShell {
-        packages = with pkgs; [python312 virtualenv nodejs_20];
+        packages = with pkgs; [python312 virtualenv nodejs_20 poppler-utils];
         buildInputs = with pkgs; [
           stdenv.cc.cc.lib
         ];
